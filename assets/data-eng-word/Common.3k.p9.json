@@ -1,0 +1,901 @@
+[
+    {
+        "word": "diagram",
+        "type": "n",
+        "ipa": "ˈdaɪəˌgræm",
+        "meaning": "biểu đồ",
+        "ex": "There are explanatory notes with the diagram.",
+        "ipaExTrans": "ðeər ɑːr ɪksˈplænətəri nəʊts wɪð ðə ˈdaɪəgræm.",
+        "exMeaning": "Có thuyết minh với các sơ đồ."
+    },
+    {
+        "word": "diamond",
+        "type": "n",
+        "ipa": "́daiəmənd",
+        "meaning": "kim cương",
+        "ex": "A diamond is the hardest, most resilient, most beautiful gem of all.",
+        "ipaExTrans": "ə ˈdaɪəmənd ɪz ðə ˈhɑːdɪst, məʊst rɪˈzɪlɪənt, məʊst ˈbjuːtəfʊl ʤɛm ɒv ɔːl.",
+        "exMeaning": "Một viên kim cương là khó khăn nhất, kiên cường nhất, đá quý đẹp nhất của tất cả."
+    },
+    {
+        "word": "diary",
+        "type": "n",
+        "ipa": "daiəri",
+        "meaning": "sổ nhật ký; lịch ghi nhớ",
+        "ex": "Effie told me about the prostitute whose diary you're reading.",
+        "ipaExTrans": "Effie təʊld miː əˈbaʊt ðə ˈprɒstɪtjuːt huːz ˈdaɪəri jʊə ˈriːdɪŋ.",
+        "exMeaning": "Effie nói với tôi về cô gái điếm có nhật ký bạn đang đọc."
+    },
+    {
+        "word": "dictionary",
+        "type": "n",
+        "ipa": "dikʃənəri",
+        "meaning": "từ điển",
+        "ex": "Each word is checked by the computer against its internal dictionary.",
+        "ipaExTrans": "iːʧ wɜːd ɪz ʧɛkt baɪ ðə kəmˈpjuːtər əˈgɛnst ɪts ɪnˈtɜːnl ˈdɪkʃ(ə)n(ə)ri.",
+        "exMeaning": "Mỗi từ được kiểm tra bằng máy tính chống lại từ điển nội bộ của mình."
+    },
+    {
+        "word": "die",
+        "type": "v",
+        "ipa": "daɪ",
+        "meaning": "chết, tư trần, hy sinh",
+        "ex": "I should die of happiness!",
+        "ipaExTrans": "aɪ ʃʊd daɪ ɒv ˈhæpɪnɪs!",
+        "exMeaning": "Tôi nên chết vì hạnh phúc!"
+    },
+    {
+        "word": "diet",
+        "type": "n",
+        "ipa": "daiət",
+        "meaning": "chế độ ăn uống, chế độ ăn kiêng",
+        "ex": "I'm on a diet, he answered.",
+        "ipaExTrans": "aɪm ɒn ə ˈdaɪət, hiː ˈɑːnsəd.",
+        "exMeaning": "Tôi đang ăn kiêng, anh trả lời."
+    },
+    {
+        "word": "difference",
+        "type": "n",
+        "ipa": "ˈdɪfərəns , ˈdɪfrəns",
+        "meaning": "sự khác nhau",
+        "ex": "He was so tall there was a vast difference in their height.",
+        "ipaExTrans": "hiː wɒz səʊ tɔːl ðeə wɒz ə vɑːst ˈdɪfrəns ɪn ðeə haɪt.",
+        "exMeaning": "Cậu ấy rất cao đã có một sự khác biệt lớn về chiều cao của họ."
+    },
+    {
+        "word": "different",
+        "type": "adj",
+        "ipa": "difrзnt",
+        "meaning": "khác, khác biệt, khác nhau",
+        "ex": "There's nothing wrong with having a different opinion.",
+        "ipaExTrans": "ðeəz ˈnʌθɪŋ rɒŋ wɪð ˈhævɪŋ ə ˈdɪfrənt əˈpɪnjən.",
+        "exMeaning": "Có gì sai với việc có một ý kiến khác nhau."
+    },
+    {
+        "word": "differently",
+        "type": "adv",
+        "ipa": "difrзntli",
+        "meaning": "khác, khác biệt, khác nhau",
+        "ex": "But he'd treated her so differently than Sasha.",
+        "ipaExTrans": "bʌt hiːd ˈtriːtɪd hɜː səʊ ˈdɪfrəntli ðæn ˈsɑːʃə.",
+        "exMeaning": "Tuy nhiên, ông đã đối xử với cô rất khác biệt so với Sasha."
+    },
+    {
+        "word": "difficult",
+        "type": "adj",
+        "ipa": "difik(ə)lt",
+        "meaning": "khó, khó khăn, gấy go",
+        "ex": "This might be the most difficult decision she would ever make.",
+        "ipaExTrans": "ðɪs maɪt biː ðə məʊst ˈdɪfɪkəlt dɪˈsɪʒən ʃiː wʊd ˈɛvə meɪk.",
+        "exMeaning": "Đây có thể là quyết định khó khăn nhất bao giờ cô sẽ thực hiện."
+    },
+    {
+        "word": "difficulty",
+        "type": "n",
+        "ipa": "difikəlti",
+        "meaning": "sự khó khăn, nỗi khó khăn, điều cản trở",
+        "ex": "She kept her mouth closed this time with some difficulty and looked away.",
+        "ipaExTrans": "ʃiː kɛpt hɜː maʊθ kləʊzd ðɪs taɪm wɪð sʌm ˈdɪfɪkəlti ænd lʊkt əˈweɪ.",
+        "exMeaning": "Cô giữ miệng đóng lần này với một số khó khăn và nhìn đi chỗ khác."
+    },
+    {
+        "word": "dig",
+        "type": "v",
+        "ipa": "dɪg",
+        "meaning": "đào bới, xới",
+        "ex": "It shouldn't be hard to dig in this sand.",
+        "ipaExTrans": "ɪt ʃʊdnt biː hɑːd tuː dɪg ɪn ðɪs sænd.",
+        "exMeaning": "Nó không phải là khó để đào trong cát này."
+    },
+    {
+        "word": "dinner",
+        "type": "n",
+        "ipa": "dinə",
+        "meaning": "bữa trưa, chiều",
+        "ex": "Dinner will be ready at six O'clock.",
+        "ipaExTrans": "ˈdɪnə wɪl biː ˈrɛdi æt sɪks əˈklɒk.",
+        "exMeaning": "Ăn tối sẽ sẵn sàng tại 06:00."
+    },
+    {
+        "word": "direct",
+        "type": "adj, v",
+        "ipa": "di'rekt; dai'rekt",
+        "meaning": "trực tiếp, thẳng, thẳng thắn; gửi, viết cho ai, điều khiển",
+        "ex": "Finally she ducked her head and came to the direct point.",
+        "ipaExTrans": "ˈfaɪnəli ʃiː dʌkt hɜː hɛd ænd keɪm tuː ðə dɪˈrɛkt pɔɪnt.",
+        "exMeaning": "Finally she ducked her head and came to the direct point."
+    },
+    {
+        "word": "direction",
+        "type": "n",
+        "ipa": "di'rek∫n",
+        "meaning": "sự điều khiển, sự chỉ huy",
+        "ex": "She faced the direction from which she'd come.",
+        "ipaExTrans": "ʃiː feɪst ðə dɪˈrɛkʃən frɒm wɪʧ ʃiːd kʌm.",
+        "exMeaning": "She faced the direction from which she'd come."
+    },
+    {
+        "word": "directly",
+        "type": "adv",
+        "ipa": "dai ́rektli",
+        "meaning": "trực tiếp, thẳng",
+        "ex": "The sun was directly overhead.",
+        "ipaExTrans": "ðə sʌn wɒz dɪˈrɛktli ˈəʊvɛhɛd.",
+        "exMeaning": "The sun was directly overhead."
+    },
+    {
+        "word": "director",
+        "type": "n",
+        "ipa": "di'rektə",
+        "meaning": "giám đốc, người điều khiển, chỉ huy",
+        "ex": "You're a vital asset and the director knows it.",
+        "ipaExTrans": "jʊər ə ˈvaɪtl ˈæsɛt ænd ðə dɪˈrɛktə nəʊz ɪt.",
+        "exMeaning": "You're a vital asset and the director knows it."
+    },
+    {
+        "word": "dirt",
+        "type": "n",
+        "ipa": "də:t",
+        "meaning": "đồ bẩn thỉu, đồ dơ bẩn, vật rác rưởi",
+        "ex": "The dirt hit his body with a hollow thud.",
+        "ipaExTrans": "ðə dɜːt hɪt hɪz ˈbɒdi wɪð ə ˈhɒləʊ θʌd.",
+        "exMeaning": "The dirt hit his body with a hollow thud."
+    },
+    {
+        "word": "dirty",
+        "type": "adj",
+        "ipa": "́də:ti",
+        "meaning": "bẩn thỉu, dơ bẩn",
+        "ex": "Don't talk dirty, Ben.",
+        "ipaExTrans": "dəʊnt tɔːk ˈdɜːti, bɛn.",
+        "exMeaning": "Don't talk dirty, Ben."
+    },
+    {
+        "word": "disabled",
+        "type": "adj",
+        "ipa": "dis ́eibld",
+        "meaning": "bất lực, không có khả năng",
+        "ex": "twice dangerously wounded and so disabled that he could never wear armour again.",
+        "ipaExTrans": "twaɪs ˈdeɪnʤrəsli ˈwuːndɪd ænd səʊ dɪsˈeɪbld ðæt hiː kʊd ˈnɛvə weər ˈɑːmər əˈgɛn.",
+        "exMeaning": "twice dangerously wounded and so disabled that he could never wear armour again."
+    },
+    {
+        "word": "disadvantage",
+        "type": "n",
+        "ipa": "dɪsədˈvɑntɪdʒ",
+        "meaning": "sự bất lợi, sự thiệt hại",
+        "ex": "One disadvantage of living in the town is the lack of safe places for children to play.",
+        "ipaExTrans": "wʌn ˌdɪsədˈvɑːntɪʤ ɒv ˈlɪvɪŋ ɪn ðə taʊn ɪz ðə læk ɒv seɪf ˈpleɪsɪz fɔː ˈʧɪldrən tuː pleɪ.",
+        "exMeaning": "One disadvantage of living in the town is the lack of safe places for children to play."
+    },
+    {
+        "word": "disagree",
+        "type": "v",
+        "ipa": "̧disə ́gri:",
+        "meaning": "bất đồng, không đồng ý, khác, không giống; không hợp",
+        "ex": "If we disagree, we do so privately.",
+        "ipaExTrans": "ɪf wiː ˌdɪsəˈgriː, wiː duː səʊ ˈpraɪvɪtli.",
+        "exMeaning": "If we disagree, we do so privately."
+    },
+    {
+        "word": "disagreement",
+        "type": "n",
+        "ipa": "̧disəg ́ri:mənt",
+        "meaning": "sự bất đồng, sự không đồng ý, sự khác nhau",
+        "ex": "We were in strong disagreement over continuing.",
+        "ipaExTrans": "wiː wɜːr ɪn strɒŋ ˌdɪsəˈgriːmənt ˈəʊvə kənˈtɪnju(ː)ɪŋ.",
+        "exMeaning": "We were in strong disagreement over continuing."
+    },
+    {
+        "word": "disappear",
+        "type": "v",
+        "ipa": "disə'piə",
+        "meaning": "biến mất, biến đi",
+        "ex": "He watched the wolf disappear into the tall grass.",
+        "ipaExTrans": "hiː wɒʧt ðə wʊlf ˌdɪsəˈpɪər ˈɪntuː ðə tɔːl grɑːs.",
+        "exMeaning": "He watched the wolf disappear into the tall grass."
+    },
+    {
+        "word": "disappoint",
+        "type": "v",
+        "ipa": "dɪsəˈpɔɪnt",
+        "meaning": "không làm thỏa ước nguyện, ý mong đợi; thất ước, làm thất bại",
+        "ex": "They are all expecting it, they are so sure that it will happen that I cannot, I cannot, disappoint them.",
+        "ipaExTrans": "ðeɪ ɑːr ɔːl ɪksˈpɛktɪŋ ɪt, ðeɪ ɑː səʊ ʃʊə ðæt ɪt wɪl ˈhæpən ðæt aɪ ˈkænɒt, aɪ ˈkænɒt, ˌdɪsəˈpɔɪnt ðɛm.",
+        "exMeaning": "They are all expecting it, they are so sure that it will happen that I cannot, I cannot, disappoint them."
+    },
+    {
+        "word": "disappointed",
+        "type": "adj",
+        "ipa": ",disз'pointid",
+        "meaning": "thất vọng",
+        "ex": "I'm disappointed in you.",
+        "ipaExTrans": "aɪm ˌdɪsəˈpɔɪntɪd ɪn juː.",
+        "exMeaning": "I'm disappointed in you."
+    },
+    {
+        "word": "disappointing",
+        "type": "adj",
+        "ipa": "̧disə ́pɔintiη",
+        "meaning": "làm chán ngán, làm thất vọng",
+        "ex": "It would be so disappointing for them.",
+        "ipaExTrans": "ɪt wʊd biː səʊ ˌdɪsəˈpɔɪntɪŋ fɔː ðɛm.",
+        "exMeaning": "Nó sẽ rất thất vọng cho họ."
+    },
+    {
+        "word": "disappointment",
+        "type": "n",
+        "ipa": "̧disə ́pɔintmənt",
+        "meaning": "sự chán ngán, sự thất vọng",
+        "ex": "Disappointment was written in his face.",
+        "ipaExTrans": "ˌdɪsəˈpɔɪntmənt wɒz ˈrɪtn ɪn hɪz feɪs.",
+        "exMeaning": "Sự thất vọng đã được viết trong khuôn mặt của mình."
+    },
+    {
+        "word": "disapproval",
+        "type": "n",
+        "ipa": "̧disə ́pru:vl",
+        "meaning": "sự phản đổi, sự không tán thành",
+        "ex": "Andre raised his eyebrow in polite disapproval, the same way his father did.",
+        "ipaExTrans": "ˈɑːndreɪ reɪzd hɪz ˈaɪbraʊ ɪn pəˈlaɪt ˌdɪsəˈpruːvəl, ðə seɪm weɪ hɪz ˈfɑːðə dɪd.",
+        "exMeaning": "Andre nhướn mày trong phản đối lịch sự, giống như cách cha mình đã làm."
+    },
+    {
+        "word": "disapprove",
+        "type": "of, v",
+        "ipa": "̧disə ́pru:v",
+        "meaning": "không tán thành, phản đối, chê",
+        "ex": "He knew his father would disapprove of her.",
+        "ipaExTrans": "hiː njuː hɪz ˈfɑːðə wʊd ˌdɪsəˈpruːv ɒv hɜː.",
+        "exMeaning": "Ông biết cha mình sẽ không chấp nhận cô."
+    },
+    {
+        "word": "disapproving",
+        "type": "adj",
+        "ipa": "̧disə ́pru:viη",
+        "meaning": "phản đối",
+        "ex": "Bianca gave him a disapproving look that quickly melted into a smile.",
+        "ipaExTrans": "Bianca geɪv hɪm ə ˌdɪsəˈpruːvɪŋ lʊk ðæt ˈkwɪkli ˈmɛltɪd ˈɪntuː ə smaɪl.",
+        "exMeaning": "Bianca đã cho anh một cái nhìn chê trách một cách nhanh chóng tan chảy thành một nụ cười."
+    },
+    {
+        "word": "disaster",
+        "type": "n",
+        "ipa": "di'zɑ:stə",
+        "meaning": "tai họa, thảm họa",
+        "ex": "The events which led to this disaster may be briefly told.",
+        "ipaExTrans": "ði ɪˈvɛnts wɪʧ lɛd tuː ðɪs dɪˈzɑːstə meɪ biː ˈbriːfli təʊld.",
+        "exMeaning": "Các sự kiện dẫn đến thảm họa này có thể được thông báo ngắn gọn."
+    },
+    {
+        "word": "disc, disk",
+        "type": "n",
+        "ipa": "disk",
+        "meaning": "đĩa",
+        "ex": "The dog's name was engraved on a little metal disc attached to its collar.",
+        "ipaExTrans": "ðə dɒgz neɪm wɒz ɪnˈgreɪvd ɒn ə ˈlɪtl ˈmɛtl dɪsk əˈtæʧt tuː ɪts ˈkɒlə.",
+        "exMeaning": "Tên của con chó được khắc trên một đĩa kim loại nhỏ gắn liền với cổ áo của nó."
+    },
+    {
+        "word": "discipline",
+        "type": "n",
+        "ipa": "disiplin",
+        "meaning": "kỷ luật",
+        "ex": "The discipline was there before the Reformers.",
+        "ipaExTrans": "ðə ˈdɪsɪplɪn wɒz ðeə bɪˈfɔː ðə rɪˈfɔːməz.",
+        "exMeaning": "Kỷ luật đã có trước các nhà cải cách."
+    },
+    {
+        "word": "discount",
+        "type": "n",
+        "ipa": "diskaunt",
+        "meaning": "sự bớt giá, sự chiết khấu, tiền bớt chiết khấu",
+        "ex": "The rate of discount was 3% throughout the whole of the year.",
+        "ipaExTrans": "ðə reɪt ɒv ˈdɪskaʊnt wɒz 3% θru(ː)ˈaʊt ðə həʊl ɒv ðə jɪə.",
+        "exMeaning": "Tỷ lệ chiết khấu là 3% trong suốt toàn bộ năm nay."
+    },
+    {
+        "word": "discover",
+        "type": "v",
+        "ipa": "dis'kʌvə",
+        "meaning": "khám phá, phát hiện ra, nhận ra",
+        "ex": "I want to discover what I can do.",
+        "ipaExTrans": "aɪ wɒnt tuː dɪsˈkʌvə wɒt aɪ kæn duː.",
+        "exMeaning": "Tôi muốn khám phá những gì tôi có thể làm."
+    },
+    {
+        "word": "discovery",
+        "type": "n",
+        "ipa": "dis'kʌvəri",
+        "meaning": "sự khám phá, sự tìm ra, sự phát hiện ra",
+        "ex": "She stared at the discovery in her hands.",
+        "ipaExTrans": "ʃiː steəd æt ðə dɪsˈkʌvəri ɪn hɜː hændz.",
+        "exMeaning": "Cô nhìn chằm chằm vào sự khám phá trong tay cô."
+    },
+    {
+        "word": "discuss",
+        "type": "v",
+        "ipa": "dis'kΛs",
+        "meaning": "thảo luận, tranh luận",
+        "ex": "They could discuss it privately when they got home.",
+        "ipaExTrans": "ðeɪ kʊd dɪsˈkʌs ɪt ˈpraɪvɪtli wɛn ðeɪ gɒt həʊm.",
+        "exMeaning": "Họ có thể thảo luận về nó tư nhân khi họ về đến nhà."
+    },
+    {
+        "word": "discussion",
+        "type": "n",
+        "ipa": "dis'kʌʃn",
+        "meaning": "sự thảo luận, sự tranh luận",
+        "ex": "Once decided, there would be no discussion or argument.",
+        "ipaExTrans": "wʌns dɪˈsaɪdɪd, ðeə wʊd biː nəʊ dɪsˈkʌʃən ɔːr ˈɑːgjʊmənt.",
+        "exMeaning": "Một khi đã quyết định, sẽ không có cuộc thảo luận hay tranh cãi."
+    },
+    {
+        "word": "disease",
+        "type": "n",
+        "ipa": "di'zi:z",
+        "meaning": "căn bệnh, bệnh tật",
+        "ex": "Given all this, do you really believe this disease still has a chance?",
+        "ipaExTrans": "ˈgɪvn ɔːl ðɪs, duː juː ˈrɪəli bɪˈliːv ðɪs dɪˈziːz stɪl hæz ə ʧɑːns?",
+        "exMeaning": "Với tất cả điều này, bạn có thực sự tin rằng căn bệnh này vẫn có cơ hội?"
+    },
+    {
+        "word": "disgust",
+        "type": "v, n",
+        "ipa": "dis ́gʌst",
+        "meaning": "làm ghê tởm, làm kinh tởm, làm phẫn nộ",
+        "ex": "Kiera took two steps back, shuddering in disgust and fear.",
+        "ipaExTrans": "Kiera tʊk tuː stɛps bæk, ˈʃʌdərɪŋ ɪn dɪsˈgʌst ænd fɪə.",
+        "exMeaning": "Kiera mất hai bước trở lại, rùng mình trong sự ghê tởm và sợ hãi."
+    },
+    {
+        "word": "disgusted",
+        "type": "adj",
+        "ipa": "dis ́gʌstid",
+        "meaning": "chán ghét, phẫn nộ",
+        "ex": "Her stomach grumbled but the thought of a ham sandwich disgusted her.",
+        "ipaExTrans": "hɜː ˈstʌmək ˈgrʌmbld bʌt ðə θɔːt ɒv ə hæm ˈsænwɪʤ dɪsˈgʌstɪd hɜː.",
+        "exMeaning": "Bụng cô càu nhàu nhưng ý nghĩ về một chiếc bánh sandwich giăm bông phẫn nộ của mình."
+    },
+    {
+        "word": "disgusting",
+        "type": "adj",
+        "ipa": "dis ́gʌstiη",
+        "meaning": "làm ghê tởm, kinh tởm",
+        "ex": "Well there certainly are disgusting people, thought Rostov as he entered.",
+        "ipaExTrans": "wɛl ðeə ˈsɜːtnli ɑː dɪsˈgʌstɪŋ ˈpiːpl, θɔːt ˈrɒstɒv æz hiː ˈɛntəd.",
+        "exMeaning": "Vâng chắc chắn có được kinh tởm con người, nghĩ Rostov khi ông bước vào."
+    },
+    {
+        "word": "dish",
+        "type": "n",
+        "ipa": "diʃ",
+        "meaning": "đĩa (đựng thức ăn)",
+        "ex": "I'll make it a dinner dish, said Jim.",
+        "ipaExTrans": "aɪl meɪk ɪt ə ˈdɪnə dɪʃ, sɛd ʤɪm.",
+        "exMeaning": "Tôi sẽ làm cho nó một món ăn tối, Jim nói."
+    },
+    {
+        "word": "dishonest",
+        "type": "adj",
+        "ipa": "dis ́ɔnist",
+        "meaning": "bất lương, không thành thật",
+        "ex": "You know how stubborn you are about not doing business with dishonest people.",
+        "ipaExTrans": "juː nəʊ haʊ ˈstʌbən juː ɑːr əˈbaʊt nɒt ˈdu(ː)ɪŋ ˈbɪznɪs wɪð dɪsˈɒnɪst ˈpiːpl.",
+        "exMeaning": "Bạn biết làm thế nào cứng đầu bạn đang về việc không làm ăn với những người không trung thực."
+    },
+    {
+        "word": "dishonestly",
+        "type": "adv",
+        "ipa": "dis'onistli",
+        "meaning": "bất lương, không lương thiện",
+        "ex": "The court is satisfied that the money was obtained dishonestly.",
+        "ipaExTrans": "ðə kɔːt ɪz ˈsætɪsfaɪd ðæt ðə ˈmʌni wɒz əbˈteɪnd dɪsˈɒnɪstli.",
+        "exMeaning": "Tòa án được thỏa mãn rằng tiền thu được không trung thực."
+    },
+    {
+        "word": "disk",
+        "type": "n",
+        "ipa": "disk",
+        "meaning": "đĩa, đĩa hát",
+        "ex": "The ovary, of two carpels, is seated on a ring-like disk FIG.",
+        "ipaExTrans": "ði ˈəʊvəri, ɒv tuː ˈkɑːpɛlz, ɪz ˈsiːtɪd ɒn ə rɪŋ-laɪk dɪsk fɪg.",
+        "exMeaning": "Các buồng trứng, hai lá noãn, đang ngồi trên một chiếc nhẫn giống như FIG đĩa."
+    },
+    {
+        "word": "dislike",
+        "type": "v, n",
+        "ipa": "dis'laik",
+        "meaning": "sự không ưa, không thích, sự ghé",
+        "ex": "I have always disliked that feeling of fullness after a large meal.poisonous Hymenoptera.",
+        "ipaExTrans": "aɪ hæv ˈɔːlweɪz dɪsˈlaɪkt ðæt ˈfiːlɪŋ ɒv ˈfʊlnɪs ˈɑːftər ə lɑːʤ miːl.ˈpɔɪznəs Hymenoptera.",
+        "exMeaning": "Tôi đã luôn luôn không thích cái cảm giác viên mãn sau một meal.poisonous Hymenoptera lớn."
+    },
+    {
+        "word": "dismiss",
+        "type": "v",
+        "ipa": "dis'mis",
+        "meaning": "giải tán (quân đội, đám đông); sa thải (người làm)",
+        "ex": "She couldn't dismiss the sight of his darkened eye or bloodied lip.",
+        "ipaExTrans": "ʃiː ˈkʊdnt dɪsˈmɪs ðə saɪt ɒv hɪz ˈdɑːkənd aɪ ɔː ˈblʌdid lɪp.",
+        "exMeaning": "Cô không thể bỏ qua những cái nhìn của mắt tối sầm của ông hoặc môi đẫm máu."
+    },
+    {
+        "word": "display",
+        "type": "v, n",
+        "ipa": "dis'plei",
+        "meaning": "bày tỏ, phô trương, trưng bày; sự bày ra, phô bày, trưng bày",
+        "ex": "It served him right after his display yesterday.",
+        "ipaExTrans": "ɪt sɜːvd hɪm raɪt ˈɑːftə hɪz dɪsˈpleɪ ˈjɛstədeɪ.",
+        "exMeaning": "Nó phục vụ ông ngay sau khi màn hình của ông ngày hôm qua."
+    },
+    {
+        "word": "dissolve",
+        "type": "v",
+        "ipa": "dɪˈzɒlv",
+        "meaning": "tan rã, phân hủy, giải tán",
+        "ex": "It will not dissolve in water as gums do, but it is soluble in alcohol, as resin usually is.",
+        "ipaExTrans": "ɪt wɪl nɒt dɪˈzɒlv ɪn ˈwɔːtər æz gʌmz duː, bʌt ɪt ɪz ˈsɒljʊbl ɪn ˈælkəhɒl, æz ˈrɛzɪn ˈjuːʒʊəli ɪz.",
+        "exMeaning": "Nó sẽ không hòa tan trong nước như nướu răng làm, nhưng nó là hòa tan trong rượu, như nhựa thường là."
+    },
+    {
+        "word": "distance",
+        "type": "n",
+        "ipa": "distəns",
+        "meaning": "khoảng cách, tầm xa",
+        "ex": "We were sitting together in a hammock which swung from two solemn pines at a short distance from the house.",
+        "ipaExTrans": "wiː wɜː ˈsɪtɪŋ təˈgɛðər ɪn ə ˈhæmək wɪʧ swʌŋ frɒm tuː ˈsɒləm paɪnz æt ə ʃɔːt ˈdɪstəns frɒm ðə haʊs.",
+        "exMeaning": "Chúng tôi đang ngồi với nhau trong một chiếc võng mà đong từ hai con truyền long trọng ở một khoảng cách ngắn từ nhà."
+    },
+    {
+        "word": "distinguish",
+        "type": "v",
+        "ipa": "dis ́tiηgwiʃ",
+        "meaning": "phân biệt, nhận ra, nghe ra",
+        "ex": "She couldn't distinguish whether it was male or female.",
+        "ipaExTrans": "ʃiː ˈkʊdnt dɪsˈtɪŋgwɪʃ ˈwɛðər ɪt wɒz meɪl ɔː ˈfiːmeɪl.",
+        "exMeaning": "Cô không thể phân biệt cho dù đó là nam hay nữ."
+    },
+    {
+        "word": "distribute",
+        "type": "v",
+        "ipa": "dis'tribju:t",
+        "meaning": "phân bổ, phân phối, sắp xếp, phân loại",
+        "ex": "With information, we will distribute better.",
+        "ipaExTrans": "wɪð ˌɪnfəˈmeɪʃən, wiː wɪl dɪsˈtrɪbju(ː)t ˈbɛtə.",
+        "exMeaning": "Với thông tin, chúng tôi sẽ phân phối tốt hơn."
+    },
+    {
+        "word": "distribution",
+        "type": "n",
+        "ipa": ",distri'bju:ʃn",
+        "meaning": "sự phân bổ, sự phân phối, phân phát, sự sắp xếp",
+        "ex": "The whole distribution system broke down.",
+        "ipaExTrans": "ðə həʊl ˌdɪstrɪˈbjuːʃən ˈsɪstɪm brəʊk daʊn.",
+        "exMeaning": "Toàn bộ hệ thống phân phối bị phá vỡ."
+    },
+    {
+        "word": "district",
+        "type": "n",
+        "ipa": "distrikt",
+        "meaning": "huyện, quận",
+        "ex": "I went to the diamond district in New York.",
+        "ipaExTrans": "aɪ wɛnt tuː ðə ˈdaɪəmənd ˈdɪstrɪkt ɪn njuː jɔːk.",
+        "exMeaning": "Tôi đã đi đến huyện kim cương ở New York."
+    },
+    {
+        "word": "disturb",
+        "type": "v",
+        "ipa": "dis ́tə:b",
+        "meaning": "làm mất yên tĩnh, làm náo động, quấy rầy",
+        "ex": "I didn't mean to disturb you.",
+        "ipaExTrans": "aɪ dɪdnt miːn tuː dɪsˈtɜːb juː.",
+        "exMeaning": "Tôi không có ý làm phiền anh."
+    },
+    {
+        "word": "disturbing",
+        "type": "adj",
+        "ipa": "dis ́tə:biη",
+        "meaning": "xáo trộn",
+        "ex": "Look, I don't want anything disturbing that property!",
+        "ipaExTrans": "lʊk, aɪ dəʊnt wɒnt ˈɛnɪθɪŋ dɪsˈtɜːbɪŋ ðæt ˈprɒpəti!",
+        "exMeaning": "Nghe này, tôi không muốn bất cứ điều gì làm phiền tài sản đó!"
+    },
+    {
+        "word": "divide",
+        "type": "v",
+        "ipa": "di'vaid",
+        "meaning": "chia, chia ra, phân ra",
+        "ex": "Divide it among the poor people who need it so badly, said some.",
+        "ipaExTrans": "dɪˈvaɪd ɪt əˈmʌŋ ðə pʊə ˈpiːpl huː niːd ɪt səʊ ˈbædli, sɛd sʌm.",
+        "exMeaning": "Chia nó trong số những người nghèo những người cần nó quá nặng, nói một số."
+    },
+    {
+        "word": "division",
+        "type": "n",
+        "ipa": "dɪ'vɪʒn",
+        "meaning": "sự chia, sự phân chia, sự phân loại",
+        "ex": "In the past, we simply had division of labor among people.",
+        "ipaExTrans": "ɪn ðə pɑːst, wiː ˈsɪmpli hæd dɪˈvɪʒən ɒv ˈleɪbər əˈmʌŋ ˈpiːpl.",
+        "exMeaning": "Trong quá khứ, chúng tôi chỉ đơn giản là đã phân chia lao động trong người."
+    },
+    {
+        "word": "divorce",
+        "type": "n, v",
+        "ipa": "di ́vɔ:s",
+        "meaning": "sự ly dị",
+        "ex": "I never asked you to front for me – and I wasn't the one who brought up divorce, he shot back.",
+        "ipaExTrans": "aɪ ˈnɛvər ɑːskt juː tuː frʌnt fɔː miː – ænd aɪ wɒznt ðə wʌn huː brɔːt ʌp dɪˈvɔːs, hiː ʃɒt bæk.",
+        "exMeaning": "Tôi không bao giờ yêu cầu bạn phía trước cho tôi-và tôi không phải là một trong những người đưa lên ly hôn, ông đã bắn trở lại."
+    },
+    {
+        "word": "divorced",
+        "type": "adj",
+        "ipa": "di'vo:sd",
+        "meaning": "đã ly dị",
+        "ex": "They got divorced after only six months of marriage.",
+        "ipaExTrans": "ðeɪ gɒt dɪˈvɔːst ˈɑːftər ˈəʊnli sɪks mʌnθs ɒv ˈmærɪʤ.",
+        "exMeaning": "Họ đã ly dị chỉ sau sáu tháng kết hôn."
+    },
+    {
+        "word": "do",
+        "type": "vauxiliary, v",
+        "ipa": "du:, du",
+        "meaning": "làm",
+        "ex": "Do you like fish?",
+        "ipaExTrans": "duː juː laɪk fɪʃ?",
+        "exMeaning": "Bạn có thích cá không?"
+    },
+    {
+        "word": "doctor (abbr Dr)",
+        "type": "n",
+        "ipa": "dɔktə",
+        "meaning": "bác sĩ y khoa, tiến sĩ",
+        "ex": "The doctor called today to see if my condition had improved with the medication.",
+        "ipaExTrans": "ðə ˈdɒktə kɔːld təˈdeɪ tuː siː ɪf maɪ kənˈdɪʃən hæd ɪmˈpruːvd wɪð ðə ˌmɛdɪˈkeɪʃən.",
+        "exMeaning": "Các bác sĩ gọi là ngày hôm nay để xem nếu điều kiện của tôi đã được cải thiện với thuốc."
+    },
+    {
+        "word": "document",
+        "type": "n",
+        "ipa": "dɒkjʊmənt",
+        "meaning": "văn kiện, tài liệu, tư liệu",
+        "ex": "Their government gave this document publicity.",
+        "ipaExTrans": "ðeə ˈgʌvnmənt geɪv ðɪs ˈdɒkjʊmənt pʌbˈlɪsɪti.",
+        "exMeaning": "Chính phủ của họ đã công khai tài liệu này."
+    },
+    {
+        "word": "dog",
+        "type": "n",
+        "ipa": "dɔg",
+        "meaning": "chó",
+        "ex": "Does a dog have ears?",
+        "ipaExTrans": "dʌz ə dɒg hæv ɪəz?",
+        "exMeaning": "Liệu một có tai?"
+    },
+    {
+        "word": "dollar",
+        "type": "n",
+        "ipa": "́dɔlə",
+        "meaning": "đô la Mỹ",
+        "ex": "It was the million dollar question.",
+        "ipaExTrans": "ɪt wɒz ðə ˈmɪljən ˈdɒlə ˈkwɛsʧən.",
+        "exMeaning": "Đó là câu hỏi triệu đô la."
+    },
+    {
+        "word": "domestic",
+        "type": "adj",
+        "ipa": "də'mestik",
+        "meaning": "vật nuôi trong nhà, (thuộc) nội trợ, quốc nội",
+        "ex": "This is just a domestic disturbance.",
+        "ipaExTrans": "ðɪs ɪz ʤʌst ə dəʊˈmɛstɪk dɪsˈtɜːbəns.",
+        "exMeaning": "Đây chỉ là một xáo trộn trong nước."
+    },
+    {
+        "word": "dominate",
+        "type": "v",
+        "ipa": "ˈdɒməˌneɪt",
+        "meaning": "chiếm ưu thế, có ảnh hưởng, chi phối; kiềm chế",
+        "ex": "Alex didn't dominate her.",
+        "ipaExTrans": "ˈæləks dɪdnt ˈdɒmɪneɪt hɜː.",
+        "exMeaning": "Alex không thống trị cô ấy."
+    },
+    {
+        "word": "door",
+        "type": "n",
+        "ipa": "dɔ:",
+        "meaning": "cửa, cửa ra vào",
+        "ex": "Alex met her at the door, a steaming cup of coffee in one hand.",
+        "ipaExTrans": "ˈæləks mɛt hɜːr æt ðə dɔː, ə ˈstiːmɪŋ kʌp ɒv ˈkɒfi ɪn wʌn hænd.",
+        "exMeaning": "Alex gặp cô ấy ở cửa, một tách cà phê hấp trong một tay."
+    },
+    {
+        "word": "dot",
+        "type": "n",
+        "ipa": "dɔt",
+        "meaning": "chấm nhỏ, điểm; của hồi môn",
+        "ex": "Dean pointed to a small dot midpoint on the page.",
+        "ipaExTrans": "diːn ˈpɔɪntɪd tuː ə smɔːl dɒt ˈmɪdpɔɪnt ɒn ðə peɪʤ.",
+        "exMeaning": "Dean chỉ đến một điểm giữa dot nhỏ trên trang."
+    },
+    {
+        "word": "double",
+        "type": "adj, det, adv, n, v",
+        "ipa": "dʌbl",
+        "meaning": "đôi, hai, kép; cái gấp đôi, lượng gấp đôi; làm gấp đôi",
+        "ex": "Double strollers, two cribs, two car seats... and what about the car?",
+        "ipaExTrans": "ˈdʌbl ˈstrəʊləz, tuː krɪbz, tuː kɑː siːts... ænd wɒt əˈbaʊt ðə kɑː?",
+        "exMeaning": "Xe đẩy đôi, hai nôi, hai chỗ ngồi ô tô... và những gì về chiếc xe?"
+    },
+    {
+        "word": "doubt",
+        "type": "n, v",
+        "ipa": "daut",
+        "meaning": "sự nghi ngờ, sự ngờ vực; nghi ngờ, ngờ vực",
+        "ex": "I doubt if she'll go to you.",
+        "ipaExTrans": "aɪ daʊt ɪf ʃiːl gəʊ tuː juː.",
+        "exMeaning": "Tôi nghi ngờ nếu cô ấy sẽ đi với bạn."
+    },
+    {
+        "word": "down",
+        "type": "adv, prep",
+        "ipa": "daun",
+        "meaning": "xuống",
+        "ex": "She sat down on the bed and sighed again.",
+        "ipaExTrans": "ʃiː sæt daʊn ɒn ðə bɛd ænd saɪd əˈgɛn.",
+        "exMeaning": "Cô ngồi xuống trên giường và thở dài một lần nữa."
+    },
+    {
+        "word": "downstairs",
+        "type": "adv, adj, n",
+        "ipa": "daun'steзz",
+        "meaning": "ở dưới nhà, ở tầng dưới; xống gác; tầng dưới",
+        "ex": "Meet me downstairs at the restrooms.",
+        "ipaExTrans": "miːt miː ˌdaʊnˈsteəz æt ðə ˈrɛstrʊmz.",
+        "exMeaning": "Gặp tôi ở tầng dưới."
+    },
+    {
+        "word": "downward",
+        "type": "adj",
+        "ipa": "́daun ̧wəd",
+        "meaning": "xuống, đi xuống",
+        "ex": "The path wound its way downward, dumping them into a draw far enough away to be safe.",
+        "ipaExTrans": "ðə pɑːθ wuːnd ɪts weɪ ˈdaʊnwəd, ˈdʌmpɪŋ ðɛm ˈɪntuː ə drɔː fɑːr ɪˈnʌf əˈweɪ tuː biː seɪf.",
+        "exMeaning": "Đường dẫn vết thương theo cách của nó xuống, đổ chúng vào một vẽ xa đủ để được an toàn."
+    },
+    {
+        "word": "downwards",
+        "type": "adv",
+        "ipa": "́daun ̧wədz",
+        "meaning": "xuống, đi xuống",
+        "ex": "He wanted to let his hand drift downwards but stopped himself.",
+        "ipaExTrans": "hiː ˈwɒntɪd tuː lɛt hɪz hænd drɪft ˈdaʊnwədz bʌt stɒpt hɪmˈsɛlf.",
+        "exMeaning": "Ông muốn để cho tay trôi dạt xuống nhưng dừng lại."
+    },
+    {
+        "word": "dozen",
+        "type": "ndet",
+        "ipa": "dʌzn",
+        "meaning": "tá (12)",
+        "ex": "You try but you can't protect me, Rhyn, which you've proven a dozen times over.",
+        "ipaExTrans": "juː traɪ bʌt juː kɑːnt prəˈtɛkt miː, Rhyn, wɪʧ juːv ˈpruːvən ə ˈdʌzn taɪmz ˈəʊvə.",
+        "exMeaning": "Bạn hãy thử nhưng bạn không thể bảo vệ tôi, Rhyn, mà bạn đã chứng minh một chục lần hơn."
+    },
+    {
+        "word": "draft",
+        "type": "n, adj, v",
+        "ipa": "dra:ft",
+        "meaning": "bản phác thảo, sơ đồ thiết kế; phác thảo, thiết kế",
+        "ex": "It was a draft of the work published in 1650 under the same title.",
+        "ipaExTrans": "ɪt wɒz ə drɑːft ɒv ðə wɜːk ˈpʌblɪʃt ɪn 1650 ˈʌndə ðə seɪm ˈtaɪtl.",
+        "exMeaning": "Đó là một bản nháp của tác phẩm được công bố trong 1650 dưới cùng một tiêu đề."
+    },
+    {
+        "word": "drag",
+        "type": "v",
+        "ipa": "drӕg",
+        "meaning": "lôi kéo, kéo lê",
+        "ex": "You can come with me quietly, or I can drag you out of here.",
+        "ipaExTrans": "juː kæn kʌm wɪð miː ˈkwaɪətli, ɔːr aɪ kæn dræg juː aʊt ɒv hɪə.",
+        "exMeaning": "Bạn có thể đến với tôi lặng lẽ, hoặc tôi có thể kéo bạn ra khỏi đây."
+    },
+    {
+        "word": "drama",
+        "type": "n",
+        "ipa": "drɑː.mə",
+        "meaning": "kịch, tuồng",
+        "ex": "His new play is a raw drama about family life.",
+        "ipaExTrans": "hɪz njuː pleɪ ɪz ə rɔː ˈdrɑːmə əˈbaʊt ˈfæmɪli laɪf.",
+        "exMeaning": "Chơi mới của ông là một vở kịch nguyên về cuộc sống gia đình."
+    },
+    {
+        "word": "dramatic",
+        "type": "adj",
+        "ipa": "drə ́mætik",
+        "meaning": "như kịch, như đóng kịch, thích hợp với sân khấu",
+        "ex": "He was a powerful and dramatic preacher.",
+        "ipaExTrans": "hiː wɒz ə ˈpaʊəfʊl ænd drəˈmætɪk ˈpriːʧə.",
+        "exMeaning": "Ông là một giảng đạo mạnh mẽ và kịch tính."
+    },
+    {
+        "word": "dramatically",
+        "type": "adv",
+        "ipa": "drə'mætikəli",
+        "meaning": "đột ngột",
+        "ex": "Your life changes dramatically when you have a baby to take care of.",
+        "ipaExTrans": "jɔː laɪf ˈʧeɪnʤɪz drəˈmætɪk(ə)li wɛn juː hæv ə ˈbeɪbi tuː teɪk keər ɒv.",
+        "exMeaning": "Cuộc sống của bạn thay đổi đáng kể khi bạn có một em bé để chăm sóc."
+    },
+    {
+        "word": "draw",
+        "type": "v",
+        "ipa": "dro:",
+        "meaning": "vẽ, kéo",
+        "ex": "Isn't it strange how babies can draw people together?",
+        "ipaExTrans": "ˈɪznt ɪt streɪnʤ haʊ ˈbeɪbiz kæn drɔː ˈpiːpl təˈgɛðə?",
+        "exMeaning": "Không phải là nó lạ như thế nào trẻ sơ sinh có thể thu hút những người với nhau?"
+    },
+    {
+        "word": "drawer",
+        "type": "n",
+        "ipa": "́drɔ:ə",
+        "meaning": "người vẽ, người kéo",
+        "ex": "As she pulled out the flatware drawer, the doorbell rang.",
+        "ipaExTrans": "æz ʃiː pʊld aʊt ðə ˈflætweə ˈdrɔːə, ðə ˈdɔːbɛl ræŋ.",
+        "exMeaning": "Khi cô kéo ra khỏi ngăn kéo flatware, chuông cửa reo."
+    },
+    {
+        "word": "drawing",
+        "type": "n",
+        "ipa": "dro:iŋ",
+        "meaning": "bản vẽ, bức vẽ, sự kéo",
+        "ex": "How strange! she exclaimed, drawing a long breath.",
+        "ipaExTrans": "haʊ streɪnʤ! ʃiː ɪksˈkleɪmd, ˈdrɔːɪŋ ə lɒŋ brɛθ.",
+        "exMeaning": "Làm thế nào lạ! cô kêu lên, vẽ một hơi thở dài."
+    },
+    {
+        "word": "dream",
+        "type": "n, v",
+        "ipa": "dri:m",
+        "meaning": "giấc mơ, mơ",
+        "ex": "I thought it was every nurse's dream to marry a doctor.",
+        "ipaExTrans": "aɪ θɔːt ɪt wɒz ˈɛvri ˈnɜːsɪz driːm tuː ˈmæri ə ˈdɒktə.",
+        "exMeaning": "Tôi nghĩ rằng đó là giấc mơ của mỗi y tá để kết hôn với một bác sĩ."
+    },
+    {
+        "word": "dress",
+        "type": "n, v",
+        "ipa": "dres",
+        "meaning": "quần áo, mặc (quần áo), ăn mặc",
+        "ex": "That dress is really YOU!",
+        "ipaExTrans": "ðæt drɛs ɪz ˈrɪəli juː!",
+        "exMeaning": "Ăn mặc đó thực sự là bạn!"
+    },
+    {
+        "word": "dressed",
+        "type": "adj",
+        "meaning": "cách ăn mặc",
+        "ex": "He dressed quickly and Traveled to the scene.",
+        "ipaExTrans": "hiː drɛst ˈkwɪkli ænd ˈtrævld tuː ðə siːn.",
+        "exMeaning": "Ông mặc quần áo một cách nhanh chóng và đi đến cảnh."
+    },
+    {
+        "word": "drink",
+        "type": "n, v",
+        "ipa": "driɳk",
+        "meaning": "đồ uống; uống",
+        "ex": "She can drink milk like a real baby.",
+        "ipaExTrans": "ʃiː kæn drɪŋk mɪlk laɪk ə rɪəl ˈbeɪbi.",
+        "exMeaning": "Cô có thể uống sữa như một em bé thực sự."
+    },
+    {
+        "word": "drive",
+        "type": "v, n",
+        "ipa": "draiv",
+        "meaning": "lái , đua xe; cuộc đua xe (điều khiển)",
+        "ex": "Are you sure you can drive alright?",
+        "ipaExTrans": "ɑː juː ʃʊə juː kæn draɪv ɔːlˈraɪt?",
+        "exMeaning": "Bạn có chắc chắn bạn có thể lái xe alright?"
+    },
+    {
+        "word": "driver",
+        "type": "n",
+        "ipa": "draivə(r)",
+        "meaning": "người lái xe",
+        "ex": "If the driver was hurt, she might be able to help.",
+        "ipaExTrans": "ɪf ðə ˈdraɪvə wɒz hɜːt, ʃiː maɪt biː ˈeɪbl tuː hɛlp.",
+        "exMeaning": "Nếu người lái xe bị thương, cô ấy có thể giúp đỡ."
+    },
+    {
+        "word": "driving",
+        "type": "n",
+        "ipa": "draiviɳ",
+        "meaning": "sự lái xe, cuộc đua xe",
+        "ex": "I always pictured myself driving a van instead of a truck.",
+        "ipaExTrans": "aɪ ˈɔːlweɪz ˈpɪkʧəd maɪˈsɛlf ˈdraɪvɪŋ ə væn ɪnˈstɛd ɒv ə trʌk.",
+        "exMeaning": "Tôi vẫn luôn hình bản thân mình lái xe một van thay vì một chiếc xe tải."
+    },
+    {
+        "word": "drop",
+        "type": "v, n",
+        "ipa": "drɒp",
+        "meaning": "chảy nhỏ giọt, rơi, rớt; giọt (nước, máu...)",
+        "ex": "Can you just drop me off near the mall?",
+        "ipaExTrans": "kæn juː ʤʌst drɒp miː ɒf nɪə ðə mɔːl?",
+        "exMeaning": "Có thể bạn chỉ cần thả tôi ra gần trung tâm mua?"
+    },
+    {
+        "word": "drug",
+        "type": "n",
+        "ipa": "drʌg",
+        "meaning": "thuốc, dược phẩm; ma túy",
+        "ex": "Would he try to drug them as he had Elisabeth?",
+        "ipaExTrans": "wʊd hiː traɪ tuː drʌg ðɛm æz hiː hæd ɪˈlɪzəbəθ?",
+        "exMeaning": "Ông có cố gắng ma túy họ như ông đã Elisabeth?"
+    },
+    {
+        "word": "drugstore",
+        "type": "n",
+        "ipa": "drʌgstɔ:",
+        "meaning": "hiệu thuốc, cửa hàng dược phẩm",
+        "ex": "I've passed this same old drugstore seven times.",
+        "ipaExTrans": "aɪv pɑːst ðɪs seɪm əʊld ˈdrʌgstɔː ˈsɛvn taɪmz.",
+        "exMeaning": "Tôi đã thông qua này cùng một Drugstore cũ bảy lần."
+    },
+    {
+        "word": "drum",
+        "type": "n",
+        "ipa": "drʌm",
+        "meaning": "cái trống, tiếng trống",
+        "ex": "thick at the drum end, and weighs 18 tons.",
+        "ipaExTrans": "θɪk æt ðə drʌm ɛnd, ænd weɪz 18 tʌnz.",
+        "exMeaning": "dày ở cuối trống, và nặng 18 tấn."
+    },
+    {
+        "word": "enjoy",
+        "type": "v",
+        "ipa": "in'dЗoi",
+        "meaning": "thưởng thức, thích thú cái gì, được hưởng, có được",
+        "ex": "They would have some time to enjoy a late Christmas at home when they returned.",
+        "ipaExTrans": "ðeɪ wʊd hæv sʌm taɪm tuː ɪnˈʤɔɪ ə leɪt ˈkrɪsməs æt həʊm wɛn ðeɪ rɪˈtɜːnd.",
+        "exMeaning": "Họ có thể có thời gian để tận hưởng một Giáng sinh muộn ở nhà khi họ trở về."
+    },
+    {
+        "word": "enjoyable",
+        "type": "adj",
+        "ipa": "in ́dʒɔiəbl",
+        "meaning": "thú vị, thích thú",
+        "ex": "The treatment isn't enjoyable, but it seems to be helping my condition.",
+        "ipaExTrans": "ðə ˈtriːtmənt ˈɪznt ɪnˈʤɔɪəbl, bʌt ɪt siːmz tuː biː ˈhɛlpɪŋ maɪ kənˈdɪʃən.",
+        "exMeaning": "Việc điều trị không phải là thú vị, nhưng nó có vẻ là giúp đỡ tình trạng của tôi."
+    },
+    {
+        "word": "enjoyment",
+        "type": "n",
+        "ipa": "in ́dʒɔimənt",
+        "meaning": "sự thích thú, sự có được, được hưởng",
+        "ex": "I do want to tell you a few things for your safety and enjoyment, though.",
+        "ipaExTrans": "aɪ duː wɒnt tuː tɛl juː ə fjuː θɪŋz fɔː jɔː ˈseɪfti ænd ɪnˈʤɔɪmənt, ðəʊ.",
+        "exMeaning": "Tôi muốn nói với bạn một vài điều cho sự an toàn và hưởng thụ của bạn, mặc dù."
+    }
+]

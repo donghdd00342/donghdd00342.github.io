@@ -1,0 +1,222 @@
+[
+    {
+        "word": "advance",
+        "ipa": "ədˈvɑːns",
+        "type": "v",
+        "tag": "tiến lên, nâng cao",
+        "meaning": "To advance is to go forward.",
+        "context": "Tiến lên là đi tiếp.",
+        "ex": "He advanced up the ladder slowly.",
+        "ipaExTrans": "hiː ədˈvɑːnst ʌp ðə ˈlædə ˈsləʊli.",
+        "exMeaning": "Anh tiến lên thang từ từ."
+    },
+    {
+        "word": "athlete",
+        "ipa": "ˈæθliːt",
+        "type": "n",
+        "tag": "lực sĩ, vận động viên",
+        "meaning": "An athlete is a person who plays sports",
+        "context": "Một vận động viên là một người chơi thể thao",
+        "ex": "Some athletes can play many sports very well.",
+        "ipaExTrans": "sʌm ˈæθliːts kæn pleɪ ˈmɛni spɔːts ˈvɛri wɛl.",
+        "exMeaning": "Một số vận động viên có thể chơi nhiều môn thể thao rất tốt."
+    },
+    {
+        "word": "average",
+        "ipa": "ˈævərɪʤ",
+        "type": "adj",
+        "tag": "trung bình",
+        "meaning": "If something is average, it is at a normal level.",
+        "context": "Nếu một cái gì đó là trung bình, nó ở mức bình thường.",
+        "ex": "I’m not rich or poor; I’m average.",
+        "ipaExTrans": "aɪm nɒt rɪʧ ɔː pʊə; aɪm ˈævərɪʤ.",
+        "exMeaning": "Tôi không giàu hay nghèo; Tôi trung bình."
+    },
+    {
+        "word": "behavior",
+        "ipa": "bɪˈheɪvjə",
+        "type": "n",
+        "tag": "hành vi",
+        "meaning": "Your behavior is the way you act.",
+        "context": "Hành vi của bạn là cách bạn hành động.",
+        "ex": "Their behavior was good this semester. They didn’t cause trouble.",
+        "ipaExTrans": "ðeə bɪˈheɪvjə wɒz gʊd ðɪs sɪˈmɛstə. ðeɪ dɪdnt kɔːz ˈtrʌbl.",
+        "exMeaning": "Hành vi của họ là tốt trong học kỳ này. Họ đã không gây rắc rối."
+    },
+    {
+        "word": "behind",
+        "ipa": "bɪˈhaɪnd",
+        "type": "prep",
+        "tag": "phía sau, đằng sau",
+        "meaning": "Behind means to be at the back of something.",
+        "context": "Đằng sau có nghĩa là ở phía sau của một cái gì đó.",
+        "ex": "The little girl was hiding behind a tree.",
+        "ipaExTrans": "ðə ˈlɪtl gɜːl wɒz ˈhaɪdɪŋ bɪˈhaɪnd ə triː.",
+        "exMeaning": "Cô bé đang trốn sau một cái cây."
+    },
+    {
+        "word": "course",
+        "ipa": "kɔːs",
+        "type": "n",
+        "tag": "khóa học",
+        "meaning": "A course is a class in school",
+        "context": "Một khóa học là một lớp học",
+        "ex": "I took a P.E. course in school this year.",
+        "ipaExTrans": "aɪ tʊk ə piː.iː. kɔːs ɪn skuːl ðɪs jɪə.",
+        "exMeaning": "Tôi lấy một P.E. khóa học ở trường năm nay"
+    },
+    {
+        "word": "lower",
+        "ipa": "ˈləʊə",
+        "type": "v",
+        "tag": "hạ thấp, thấp hơn",
+        "meaning": "To lower something is to make it go down",
+        "context": "Hạ thấp một cái gì đó là làm cho nó đi xuống",
+        "ex": "The chart shows how his production has lowered over the year.",
+        "ipaExTrans": "ðə ʧɑːt ʃəʊz haʊ hɪz prəˈdʌkʃən hæz ˈləʊəd ˈəʊvə ðə jɪə.",
+        "exMeaning": "Biểu đồ cho thấy sản xuất của ông đã giảm trong năm qua."
+    },
+    {
+        "word": "match",
+        "ipa": "mæʧ",
+        "type": "v",
+        "tag": "phù hợp, trận đấu",
+        "meaning": "To match is to be the same or similar",
+        "context": "Để phù hợp là giống hoặc tương tự",
+        "ex": "The two shoes matched. They looked the same.",
+        "ipaExTrans": "ðə tuː ʃuːz mæʧt. ðeɪ lʊkt ðə seɪm.",
+        "exMeaning": "Hai đôi giày phù hợp. Họ trông giống nhau."
+    },
+    {
+        "word": "member",
+        "ipa": "ˈmɛmbə",
+        "type": "n",
+        "tag": "thành viên",
+        "meaning": "A member is a person who is part of a group.",
+        "context": "Một thành viên là một người trong nhóm.",
+        "ex": "Julie is the newest member of our team.",
+        "ipaExTrans": "ˈʤuːliː ɪz ðə ˈnjuːɪst ˈmɛmbər ɒv ˈaʊə tiːm.",
+        "exMeaning": "Julie là thành viên mới nhất trong nhóm của chúng tôi."
+    },
+    {
+        "word": "mental",
+        "ipa": "ˈmɛntl",
+        "type": "adj",
+        "tag": "tinh thần, tâm thần",
+        "meaning": "If something is mental, it has to do with your mind.",
+        "context": "Nếu một cái gì đó là tinh thần, nó phải làm với tâm trí của bạn.",
+        "ex": "I made a mental picture of the room.",
+        "ipaExTrans": "aɪ meɪd ə ˈmɛntl ˈpɪkʧər ɒv ðə ruːm.",
+        "exMeaning": "Tôi làm một bức tranh tinh thần của căn phòng."
+    },
+    {
+        "word": "passenger",
+        "ipa": "ˈpæsɪnʤə",
+        "type": "n",
+        "tag": "hành khách",
+        "meaning": "A passenger is a person who rides in a car, train, or airplane.",
+        "context": "Hành khách là người lái xe hơi, tàu hỏa hoặc máy bay.",
+        "ex": "One passenger was standing in the subway train.",
+        "ipaExTrans": "wʌn ˈpæsɪnʤə wɒz ˈstændɪŋ ɪn ðə ˈsʌbweɪ treɪn.",
+        "exMeaning": "Một hành khách đang đứng trong tàu điện ngầm."
+    },
+    {
+        "word": "personality",
+        "ipa": "ˌpɜːsəˈnælɪti",
+        "type": "n",
+        "tag": "nhân cách, tính cách",
+        "meaning": "Your personality is what you are like and how you behave.",
+        "context": "Tính cách của bạn là những gì bạn giống và cách bạn cư xử.",
+        "ex": "John has a bad personality.",
+        "ipaExTrans": "ʤɒn hæz ə bæd ˌpɜːsəˈnælɪti.",
+        "exMeaning": "John có một tính cách xấu."
+    },
+    {
+        "word": "poem",
+        "ipa": "ˈpəʊɪm",
+        "type": "n",
+        "tag": "bài thơ",
+        "meaning": "A poem is a short kind of writing.",
+        "context": "Một bài thơ là một loại văn bản ngắn.",
+        "ex": "William Shakespeare wrote many poems.",
+        "ipaExTrans": "ˈwɪljəm ˈʃeɪkspɪə rəʊt ˈmɛni ˈpəʊɪmz.",
+        "exMeaning": "William Shakespeare đã viết nhiều bài thơ."
+    },
+    {
+        "word": "pole",
+        "ipa": "pəʊl",
+        "type": "n",
+        "tag": "cây sào",
+        "meaning": "A pole is a long thin stick made of wood or metal that supports things.",
+        "context": "Một cây sào là một thanh dài mỏng làm bằng gỗ hoặc kim loại hỗ trợ mọi thứ.",
+        "ex": "The flag was hanging from the flag pole.",
+        "ipaExTrans": "ðə flæg wɒz ˈhæŋɪŋ frɒm ðə flæg pəʊl.",
+        "exMeaning": "Lá cờ được treo từ cột cờ."
+    },
+    {
+        "word": "remove",
+        "ipa": "rɪˈmuːv",
+        "type": "v",
+        "tag": "tẩy, loại bỏ, gỡ",
+        "meaning": "To remove something is to take it away",
+        "context": "Để loại bỏ một cái gì đó là mang nó đi",
+        "ex": "I removed the nail from the board.",
+        "ipaExTrans": "aɪ rɪˈmuːvd ðə neɪl frɒm ðə bɔːd.",
+        "exMeaning": "Tôi gỡ móng ra khỏi bảng."
+    },
+    {
+        "word": "safety",
+        "ipa": "ˈseɪfti",
+        "type": "n",
+        "tag": "sự an toàn",
+        "meaning": "Safety means to be the condition of being safe and free from danger.",
+        "context": "An toàn có nghĩa là điều kiện an toàn và không có nguy hiểm.",
+        "ex": "For his own safety, he was placed in a car seat.",
+        "ipaExTrans": "fɔː hɪz əʊn ˈseɪfti, hiː wɒz pleɪst ɪn ə kɑː siːt.",
+        "exMeaning": "Vì sự an toàn của chính mình, anh được đặt vào ghế xe."
+    },
+    {
+        "word": "shoot",
+        "ipa": "ʃuːt",
+        "type": "v",
+        "tag": "bắn",
+        "meaning": "To shoot is to fire something like a bullet at someone or something",
+        "context": "Bắn là bắn một viên đạn vào ai đó hoặc thứ gì đó",
+        "ex": "The hunter raised his gun to shoot at the target.",
+        "ipaExTrans": "ðə ˈhʌntə reɪzd hɪz gʌn tuː ʃuːt æt ðə ˈtɑːgɪt.",
+        "exMeaning": "Người thợ săn giơ súng lên bắn vào mục tiêu."
+    },
+    {
+        "word": "sound",
+        "ipa": "saʊnd",
+        "type": "v",
+        "tag": "âm thanh",
+        "meaning": "To sound means to make a noise.",
+        "context": "Để âm thanh có nghĩa là để làm cho một tiếng ồn.",
+        "ex": "The alarm clock sounded and woke us all up.",
+        "ipaExTrans": "ði əˈlɑːm klɒk ˈsaʊndɪd ænd wəʊk ʌs ɔːl ʌp.",
+        "exMeaning": "Đồng hồ báo thức vang lên và đánh thức tất cả chúng tôi."
+    },
+    {
+        "word": "swim",
+        "ipa": "swɪm",
+        "type": "v",
+        "tag": "bơi",
+        "meaning": "To swim is to move through water.",
+        "context": "Bơi là di chuyển qua nước.",
+        "ex": "I love to swim in the ocean.",
+        "ipaExTrans": "aɪ lʌv tuː swɪm ɪn ði ˈəʊʃən.",
+        "exMeaning": "Tôi thích bơi trong đại dương."
+    },
+    {
+        "word": "web",
+        "ipa": "wɛb",
+        "type": "n",
+        "tag": "mạng nhện",
+        "meaning": "A web is a home made by a spider.",
+        "context": "Một trang web là một ngôi nhà được tạo ra bởi một con nhện.",
+        "ex": "Mom cleaned the spider webs out of the garage.",
+        "ipaExTrans": "mɒm kliːnd ðə ˈspaɪdə wɛbz aʊt ɒv ðə ˈgærɑːʒ.",
+        "exMeaning": "Mẹ dọn dẹp mạng nhện ra khỏi gara."
+    }
+]

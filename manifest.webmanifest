@@ -1,0 +1,20 @@
+{
+    "short_name": "Tools",
+    "name": "Mr.Winter Tools",
+    "description": "Một Tool của Đông Hồ",
+    "icons": [
+        {
+            "src": "/assets/img/icon192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/assets/img/icon512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/#/tools?source=pwa",
+    "display": "standalone",
+    "scope": "/"
+}

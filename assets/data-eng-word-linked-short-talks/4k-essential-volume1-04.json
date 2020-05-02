@@ -1,0 +1,222 @@
+[
+    {
+        "word": "appropriate",
+        "ipa": "əˈprəʊprɪɪt",
+        "type": "adj",
+        "tag": "thích hợp, xứng đáng",
+        "meaning": "When a thing is appropriate, it is right or normal.",
+        "context": "Khi một điều phù hợp, nó là đúng hoặc bình thường.",
+        "ex": "It’s appropriate to wear a suit when you go to the office.",
+        "ipaExTrans": "ɪts əˈprəʊprɪɪt tuː weər ə sjuːt wɛn juː gəʊ tuː ði ˈɒfɪs.",
+        "exMeaning": "Nó thích hợp để mặc một bộ đồ khi bạn đến văn phòng."
+    },
+    {
+        "word": "avoid",
+        "ipa": "əˈvɔɪd",
+        "type": "v",
+        "tag": "tránh",
+        "meaning": "To avoid something is to stay away from it.",
+        "context": "Để tránh một cái gì đó là tránh xa nó.",
+        "ex": "Avoid the broken bottle on the floor.",
+        "ipaExTrans": "əˈvɔɪd ðə ˈbrəʊkən ˈbɒtl ɒn ðə flɔː.",
+        "exMeaning": "Tránh chai vỡ trên sàn nhà."
+    },
+    {
+        "word": "behave",
+        "ipa": "bɪˈheɪv",
+        "type": "v",
+        "tag": "hành xử",
+        "meaning": "To behave is to act in a particular way, especially to be good.",
+        "context": "Hành xử là hành động theo một cách riêng, đặc biệt là phải tốt.",
+        "ex": "She always behaves well when her father is around.",
+        "ipaExTrans": "ʃiː ˈɔːlweɪz bɪˈheɪvz wɛl wɛn hɜː ˈfɑːðər ɪz əˈraʊnd.",
+        "exMeaning": "Cô luôn cư xử tốt khi có bố ở bên."
+    },
+    {
+        "word": "calm",
+        "ipa": "kɑːm",
+        "type": "adj",
+        "tag": "điềm tĩnh",
+        "meaning": "When someone is calm, they do not get excited or upset.",
+        "context": "Khi ai đó bình tĩnh, họ không cảm thấy phấn khích hay buồn bã.",
+        "ex": "A nice warm bath makes me feel so calm.",
+        "ipaExTrans": "ə naɪs wɔːm bɑːθ meɪks miː fiːl səʊ kɑːm.",
+        "exMeaning": "Một bồn tắm ấm áp đẹp làm cho tôi cảm thấy rất bình tĩnh."
+    },
+    {
+        "word": "concern",
+        "ipa": "kənˈsɜːn",
+        "type": "n",
+        "tag": "liên quan, điều lo ngại",
+        "meaning": "Concern is a feeling of worry.",
+        "context": "Quan tâm là một cảm giác lo lắng.",
+        "ex": "I was filled with concern after reading the newspaper.",
+        "ipaExTrans": "aɪ wɒz fɪld wɪð kənˈsɜːn ˈɑːftə ˈriːdɪŋ ðə ˈnjuːzˌpeɪpə.",
+        "exMeaning": "Tôi đã đầy lo lắng sau khi đọc báo."
+    },
+    {
+        "word": "content",
+        "ipa": "ˈkɒntɛnt",
+        "type": "adj",
+        "tag": "mãn nguyện, vừa lòng",
+        "meaning": "To be content is to be happy and not want more",
+        "context": "Được hài lòng là hạnh phúc và không muốn nhiều hơn",
+        "ex": "The baby looked very content sitting on the floor.",
+        "ipaExTrans": "ðə ˈbeɪbi lʊkt ˈvɛri ˈkɒntɛnt ˈsɪtɪŋ ɒn ðə flɔː.",
+        "exMeaning": "Các bé trông rất hài lòng khi ngồi trên sàn nhà."
+    },
+    {
+        "word": "expect",
+        "ipa": "ɪksˈpɛkt",
+        "type": "v",
+        "tag": "chờ đợi, nghĩ rằng, đoán trước",
+        "meaning": "If you expect something to happen, you believe it will happen.",
+        "context": "Nếu bạn mong đợi điều gì đó xảy ra, bạn tin rằng nó sẽ xảy ra.",
+        "ex": "I expect the bus to be here very soon",
+        "ipaExTrans": "aɪ ɪksˈpɛkt ðə bʌs tuː biː hɪə ˈvɛri suːn",
+        "exMeaning": "Tôi hy vọng xe buýt sẽ đến đây sớm"
+    },
+    {
+        "word": "frequently",
+        "ipa": "ˈfriːkwəntli",
+        "type": "adv",
+        "tag": "thường xuyên",
+        "meaning": "When something happens frequently, it happens often",
+        "context": "Khi một cái gì đó xảy ra thường xuyên, nó xảy ra thường xuyên",
+        "ex": "We meet frequently, either at the beginning or ending of the week.",
+        "ipaExTrans": "wiː miːt ˈfriːkwəntli, ˈaɪðər æt ðə bɪˈgɪnɪŋ ɔːr ˈɛndɪŋ ɒv ðə wiːk.",
+        "exMeaning": "Chúng tôi gặp nhau thường xuyên, vào đầu hoặc cuối tuần."
+    },
+    {
+        "word": "habit",
+        "ipa": "ˈhæbɪt",
+        "type": "n",
+        "tag": "thói quen",
+        "meaning": "A habit is a thing that you do often",
+        "context": "Một thói quen là điều mà bạn thường làm",
+        "ex": "Smoking is a bad habit that can kill you",
+        "ipaExTrans": "ˈsməʊkɪŋ ɪz ə bæd ˈhæbɪt ðæt kæn kɪl juː",
+        "exMeaning": "Hút thuốc là một thói quen xấu có thể giết chết bạn"
+    },
+    {
+        "word": "instruct",
+        "ipa": "ɪnˈstrʌkt",
+        "type": "v",
+        "tag": "dạy, huấn luyện",
+        "meaning": "To instruct is to teach",
+        "context": "Hướng dẫn là dạy",
+        "ex": "My teacher instructs us in several subjects.",
+        "ipaExTrans": "maɪ ˈtiːʧər ɪnˈstrʌkts ʌs ɪn ˈsɛvrəl ˈsʌbʤɪkts.",
+        "exMeaning": "Giáo viên của tôi hướng dẫn chúng tôi trong một số môn học."
+    },
+    {
+        "word": "issue",
+        "ipa": "ˈɪʃuː",
+        "type": "n",
+        "tag": "vấn đề",
+        "meaning": "An issue is an important topic",
+        "context": "Một vấn đề là một chủ đề quan trọng",
+        "ex": "The men spoke about issues that were important to the people",
+        "ipaExTrans": "ðə mɛn spəʊk əˈbaʊt ˈɪʃuːz ðæt wɜːr ɪmˈpɔːtənt tuː ðə ˈpiːpl",
+        "exMeaning": "Những người đàn ông nói về những vấn đề quan trọng đối với người dân"
+    },
+    {
+        "word": "none",
+        "ipa": "nʌn",
+        "type": "pron",
+        "tag": "không ai, không người nào, không vật gì",
+        "meaning": "None means not any of someone or something.",
+        "context": "Không có nghĩa là không phải bất cứ ai hoặc một cái gì đó.",
+        "ex": "He spent all his money. There is none left",
+        "ipaExTrans": "hiː spɛnt ɔːl hɪz ˈmʌni. ðeər ɪz nʌn lɛft",
+        "exMeaning": "Anh tiêu hết tiền. Không còn lại"
+    },
+    {
+        "word": "patient",
+        "ipa": "ˈpeɪʃənt",
+        "type": "adj",
+        "tag": "kiên nhẫn",
+        "meaning": "If a person is patient, they don’t become angry or upset easily",
+        "context": "Nếu một người kiên nhẫn, họ không dễ nổi giận hay khó chịu",
+        "ex": "I had to be patient and wait until 5 o’clock to leave",
+        "ipaExTrans": "aɪ hæd tuː biː ˈpeɪʃənt ænd weɪt ənˈtɪl 5 əˈklɒk tuː liːv",
+        "exMeaning": "Tôi đã phải kiên nhẫn và đợi đến 5 giờ chiều mới rời đi"
+    },
+    {
+        "word": "positive",
+        "ipa": "ˈpɒzətɪv",
+        "type": "adj",
+        "tag": "tích cực",
+        "meaning": "If something is positive, it is good",
+        "context": "Nếu một cái gì đó tích cực, nó là tốt",
+        "ex": "She has a positive future ahead of her after finishing college",
+        "ipaExTrans": "ʃiː hæz ə ˈpɒzətɪv ˈfjuːʧər əˈhɛd ɒv hɜːr ˈɑːftə ˈfɪnɪʃɪŋ ˈkɒlɪʤ",
+        "exMeaning": "Cô ấy có một tương lai tích cực phía trước sau khi học xong đại học"
+    },
+    {
+        "word": "punish",
+        "ipa": "ˈpʌnɪʃ",
+        "type": "v",
+        "tag": "trừng phạt",
+        "meaning": "To punish means to make someone suffer for breaking the rules or laws.",
+        "context": "Trừng phạt có nghĩa là làm cho ai đó đau khổ vì vi phạm các quy tắc hoặc luật pháp.",
+        "ex": "To punish me, my teacher had me stand in the corner.",
+        "ipaExTrans": "tuː ˈpʌnɪʃ miː, maɪ ˈtiːʧə hæd miː stænd ɪn ðə ˈkɔːnə.",
+        "exMeaning": "Để trừng phạt tôi, giáo viên của tôi đã cho tôi đứng trong góc."
+    },
+    {
+        "word": "represent",
+        "ipa": "ˌrɛprɪˈzɛnt",
+        "type": "v",
+        "tag": "đại diện",
+        "meaning": "To represent is to speak or act for a person or group",
+        "context": "Đại diện là nói hoặc hành động cho một người hoặc một nhóm",
+        "ex": "My lawyer will represent me in court.",
+        "ipaExTrans": "maɪ ˈlɔːjə wɪl ˌrɛprɪˈzɛnt miː ɪn kɔːt.",
+        "exMeaning": "Luật sư của tôi sẽ đại diện cho tôi tại tòa án."
+    },
+    {
+        "word": "shake",
+        "ipa": "ʃeɪk",
+        "type": "v",
+        "tag": "rung chuyển",
+        "meaning": "To shake is to move back and forth or up and down quickly",
+        "context": "Lắc là di chuyển qua lại hoặc lên xuống nhanh chóng",
+        "ex": "When people shake hands, it usually means they agree.",
+        "ipaExTrans": "wɛn ˈpiːpl ʃeɪk hændz, ɪt ˈjuːʒʊəli miːnz ðeɪ əˈgriː.",
+        "exMeaning": "Khi mọi người bắt tay, điều đó thường có nghĩa là họ đồng ý."
+    },
+    {
+        "word": "spread",
+        "ipa": "sprɛd",
+        "type": "v",
+        "tag": "Lan tràn",
+        "meaning": "To spread is to move quickly to more places",
+        "context": "Lây lan là di chuyển nhanh đến nhiều nơi hơn",
+        "ex": "I like to spread butter on my toast.",
+        "ipaExTrans": "aɪ laɪk tuː sprɛd ˈbʌtər ɒn maɪ təʊst.",
+        "exMeaning": "Tôi thích phết bơ lên bánh mì nướng của tôi."
+    },
+    {
+        "word": "stroll",
+        "ipa": "strəʊl",
+        "type": "v",
+        "tag": "đi dạo",
+        "meaning": "To stroll means to walk slowly and calmly.",
+        "context": "Đi dạo có nghĩa là đi chậm và bình tĩnh.",
+        "ex": "My dog and I strolled through the park today",
+        "ipaExTrans": "maɪ dɒg ænd aɪ strəʊld θruː ðə pɑːk təˈdeɪ",
+        "exMeaning": "Con chó của tôi và tôi đi dạo trong công viên ngày hôm nay"
+    },
+    {
+        "word": "village",
+        "ipa": "ˈvɪlɪʤ",
+        "type": "n",
+        "tag": "làng",
+        "meaning": "A village is a very small town",
+        "context": "Một ngôi làng là một thị trấn rất nhỏ",
+        "ex": "There are only a few houses in my village.",
+        "ipaExTrans": "ðeər ɑːr ˈəʊnli ə fjuː ˈhaʊzɪz ɪn maɪ ˈvɪlɪʤ.",
+        "exMeaning": "Chỉ có một vài ngôi nhà trong làng của tôi."
+    }
+]

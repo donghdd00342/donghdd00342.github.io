@@ -1,0 +1,222 @@
+[
+    {
+        "word": "appreciate",
+        "ipa": "əˈpriːʃɪeɪt",
+        "type": "v",
+        "tag": "đánh giá cao",
+        "meaning": "To appreciate something is to understand its good qualities.",
+        "context": "Đánh giá cao một cái gì đó là hiểu những phẩm chất tốt của nó.",
+        "ex": "I can appreciate the lovely scenery",
+        "ipaExTrans": "aɪ kæn əˈpriːʃɪeɪt ðə ˈlʌvli ˈsiːnəri",
+        "exMeaning": "Tôi có thể đánh giá cao cảnh quan đáng yêu"
+    },
+    {
+        "word": "available",
+        "ipa": "əˈveɪləbl",
+        "type": "adj",
+        "tag": "có sẵn",
+        "meaning": "If something is available, it means you can get it.",
+        "context": "Nếu một cái gì đó có sẵn, nó có nghĩa là bạn có thể nhận được nó.",
+        "ex": "There were many seats available in the room",
+        "ipaExTrans": "ðeə wɜː ˈmɛni siːts əˈveɪləbl ɪn ðə ruːm",
+        "exMeaning": "Có nhiều chỗ ngồi trong phòng"
+    },
+    {
+        "word": "beat",
+        "ipa": "biːt",
+        "type": "v",
+        "tag": "đánh đập, đánh bại, tiết tấu",
+        "meaning": "To beat someone means to do better than they do.",
+        "context": "Đánh ai đó nghĩa là làm tốt hơn họ.",
+        "ex": "I managed to beat everyone in the race.",
+        "ipaExTrans": "aɪ ˈmænɪʤd tuː biːt ˈɛvrɪwʌn ɪn ðə reɪs.",
+        "exMeaning": "Tôi đã xoay sở để đánh bại mọi người trong cuộc đua."
+    },
+    {
+        "word": "bright",
+        "ipa": "braɪt",
+        "type": "adj",
+        "tag": "sáng, rực rỡ",
+        "meaning": "If something is bright, it shows a lot of light",
+        "context": "Nếu một cái gì đó sáng, nó cho thấy rất nhiều ánh sáng",
+        "ex": "The bright light from the explosion hurt my eyes",
+        "ipaExTrans": "ðə braɪt laɪt frɒm ði ɪksˈpləʊʒən hɜːt maɪ aɪz",
+        "exMeaning": "Ánh sáng rực rỡ từ vụ nổ làm tổn thương đôi mắt của tôi"
+    },
+    {
+        "word": "celebrate",
+        "ipa": "ˈsɛlɪbreɪt",
+        "type": "v",
+        "tag": "ăn mừng",
+        "meaning": "To celebrate is to do something to show that an event is special.",
+        "context": "Để ăn mừng là làm một cái gì đó để cho thấy rằng một sự kiện là đặc biệt.",
+        "ex": "We all celebrated when we heard the great news.",
+        "ipaExTrans": "wiː ɔːl ˈsɛlɪbreɪtɪd wɛn wiː hɜːd ðə greɪt njuːz.",
+        "exMeaning": "Tất cả chúng tôi đã ăn mừng khi nghe tin tuyệt vời."
+    },
+    {
+        "word": "determine",
+        "ipa": "dɪˈtɜːmɪn",
+        "type": "v",
+        "tag": "quyết định, xác định",
+        "meaning": "To determine means to choose or make a decision.",
+        "context": "Để xác định có nghĩa là lựa chọn hoặc đưa ra quyết định.",
+        "ex": "He tried to determine which one to eat first.",
+        "ipaExTrans": "hiː traɪd tuː dɪˈtɜːmɪn wɪʧ wʌn tuː iːt fɜːst.",
+        "exMeaning": "Anh cố gắng xác định cái nào nên ăn trước."
+    },
+    {
+        "word": "disappear",
+        "ipa": "ˌdɪsəˈpɪə",
+        "type": "v",
+        "tag": "biến mất",
+        "meaning": "To disappear means to go away or not be seen.",
+        "context": "Để biến mất có nghĩa là đi xa hoặc không được nhìn thấy.",
+        "ex": "The top of the building is disappearing in the clouds",
+        "ipaExTrans": "ðə tɒp ɒv ðə ˈbɪldɪŋ ɪz ˌdɪsəˈpɪərɪŋ ɪn ðə klaʊdz",
+        "exMeaning": "Đỉnh của tòa nhà đang biến mất trong những đám mây"
+    },
+    {
+        "word": "else",
+        "ipa": "ɛls",
+        "type": "adj",
+        "tag": "khác",
+        "meaning": "If you talk about something else, you talk about something different.",
+        "context": "Nếu bạn nói về một cái gì đó khác, bạn nói về một cái gì đó khác nhau.",
+        "ex": "I wanted a bike for my birthday, but I got something else.",
+        "ipaExTrans": "aɪ ˈwɒntɪd ə baɪk fɔː maɪ ˈbɜːθdeɪ, bʌt aɪ gɒt ˈsʌmθɪŋ ɛls.",
+        "exMeaning": "Tôi muốn một chiếc xe đạp cho ngày sinh nhật của tôi, nhưng tôi đã có một cái gì đó khác."
+    },
+    {
+        "word": "fair",
+        "ipa": "feə",
+        "type": "adj",
+        "tag": "công bằng, hợp lý",
+        "meaning": "Fair describes treating someone in a way that is reasonable or right.",
+        "context": "Công bằng mô tả đối xử với ai đó theo cách hợp lý hoặc đúng đắn.",
+        "ex": "He sold me his car for a fair price.",
+        "ipaExTrans": "hiː səʊld miː hɪz kɑː fɔːr ə feə praɪs.",
+        "exMeaning": "Anh bán cho tôi chiếc xe của anh với giá hợp lý."
+    },
+    {
+        "word": "flow",
+        "ipa": "fləʊ",
+        "type": "v",
+        "tag": "lưu lượng, lưu thông, chảy",
+        "meaning": "To flow is to move easily and continuously in one direction",
+        "context": "Để chảy là di chuyển dễ dàng và liên tục theo một hướng",
+        "ex": "The water flowed over the rocks and into the lake.",
+        "ipaExTrans": "ðə ˈwɔːtə fləʊd ˈəʊvə ðə rɒks ænd ˈɪntuː ðə leɪk.",
+        "exMeaning": "Nước chảy qua những tảng đá và vào hồ."
+    },
+    {
+        "word": "forward",
+        "ipa": "ˈfɔːwəd",
+        "type": "adv",
+        "tag": "ở đằng trước",
+        "meaning": "If you move forward, you move in the direction in front of you.",
+        "context": "Nếu bạn tiến về phía trước, bạn di chuyển theo hướng trước mặt bạn.",
+        "ex": "When he saw his mother, the baby crawled forward to her.",
+        "ipaExTrans": "wɛn hiː sɔː hɪz ˈmʌðə, ðə ˈbeɪbi krɔːld ˈfɔːwəd tuː hɜː.",
+        "exMeaning": "Khi nhìn thấy mẹ, đứa bé bò về phía trước."
+    },
+    {
+        "word": "hill",
+        "ipa": "hɪl",
+        "type": "n",
+        "tag": "đồi núi",
+        "meaning": "A hill is a round area of land. It is higher than the land around it.",
+        "context": "Một ngọn đồi là một khu vực tròn của đất. Nó cao hơn đất xung quanh nó.",
+        "ex": "The sun was rising above the green hills.",
+        "ipaExTrans": "ðə sʌn wɒz ˈraɪzɪŋ əˈbʌv ðə griːn hɪlz.",
+        "exMeaning": "Mặt trời đang mọc trên những ngọn đồi xanh."
+    },
+    {
+        "word": "level",
+        "ipa": "ˈlɛvl",
+        "type": "v",
+        "tag": "cấp độ, mức độ",
+        "meaning": "A level is a point on a scale that measures something.",
+        "context": "Một cấp độ là một điểm trên thang đo lường một cái gì đó.",
+        "ex": "Please check the level of the temperature.",
+        "ipaExTrans": "pliːz ʧɛk ðə ˈlɛvl ɒv ðə ˈtɛmprɪʧə.",
+        "exMeaning": "Vui lòng kiểm tra mức nhiệt độ."
+    },
+    {
+        "word": "lone",
+        "ipa": "ləʊn",
+        "type": "adj",
+        "tag": "cô đơn, đơn độc, cô độc",
+        "meaning": "If someone or something is lone, they are the only one of that kind.",
+        "context": "Nếu ai đó hoặc một cái gì đó đơn độc, họ là người duy nhất thuộc loại đó.",
+        "ex": "A lone man walked along the street.",
+        "ipaExTrans": "ə ləʊn mæn wɔːkt əˈlɒŋ ðə striːt.",
+        "exMeaning": "Một người đàn ông cô độc đi dọc phố."
+    },
+    {
+        "word": "puddle",
+        "ipa": "ˈpʌdl",
+        "type": "n",
+        "tag": "vũng nước",
+        "meaning": "A puddle is a pool of liquid on the ground.",
+        "context": "Một vũng nước là một vũng chất lỏng trên mặt đất.",
+        "ex": "When the ice melted, it formed a puddle",
+        "ipaExTrans": "wɛn ði aɪs ˈmɛltɪd, ɪt fɔːmd ə ˈpʌdl",
+        "exMeaning": "Khi băng tan, nó tạo thành một vũng nước"
+    },
+    {
+        "word": "response",
+        "ipa": "rɪsˈpɒns",
+        "type": "n",
+        "tag": "phản ứng, trả lời câu hỏi",
+        "meaning": "A response is the answer to a question",
+        "context": "Một câu trả lời là câu trả lời cho một câu hỏi",
+        "ex": "He asked if I was sad. My response was “No. ”",
+        "ipaExTrans": "hiː ɑːskt ɪf aɪ wɒz sæd. maɪ rɪsˈpɒns wɒz “nəʊ. ”",
+        "exMeaning": "Anh hỏi em có buồn không. Câu trả lời của tôi là Số Giáo dục"
+    },
+    {
+        "word": "season",
+        "ipa": "ˈsiːzn",
+        "type": "n",
+        "tag": "Mùa",
+        "meaning": "A season is a time of the year: spring, summer, fall or winter.",
+        "context": "Một mùa là thời gian trong năm: mùa xuân, mùa hè, mùa thu hoặc mùa đông.",
+        "ex": "Fall is a warm season, while winter is very cold.",
+        "ipaExTrans": "fɔːl ɪz ə wɔːm ˈsiːzn, waɪl ˈwɪntər ɪz ˈvɛri kəʊld.",
+        "exMeaning": "Mùa thu là một mùa ấm áp, trong khi mùa đông rất lạnh."
+    },
+    {
+        "word": "solution",
+        "ipa": "səˈluːʃən",
+        "type": "n",
+        "tag": "giải pháp",
+        "meaning": "A solution is a way to solve a problem",
+        "context": "Giải pháp là cách giải quyết vấn đề",
+        "ex": "There are many problems. We need solutions!",
+        "ipaExTrans": "ðeər ɑː ˈmɛni ˈprɒbləmz. wiː niːd səˈluːʃənz!",
+        "exMeaning": "Có rất nhiều vấn đề. Chúng tôi cần giải pháp!"
+    },
+    {
+        "word": "waste",
+        "ipa": "weɪst",
+        "type": "v",
+        "tag": "phá hoại, phung phí",
+        "meaning": "To waste means to carelessly use something all up.",
+        "context": "Để lãng phí có nghĩa là bất cẩn sử dụng một cái gì đó lên tất cả.",
+        "ex": "Turn off the water so you don’t waste it.",
+        "ipaExTrans": "tɜːn ɒf ðə ˈwɔːtə səʊ juː dəʊnt weɪst ɪt.",
+        "exMeaning": "Tắt nước để bạn không lãng phí nó."
+    },
+    {
+        "word": "whether",
+        "ipa": "ˈwɛðə",
+        "type": "conj",
+        "tag": "liệu rằng",
+        "meaning": "You use whether when you must choose between two things.",
+        "context": "Bạn sử dụng cho dù khi nào bạn phải lựa chọn giữa hai điều.",
+        "ex": "I could not decide whether to go left or right.",
+        "ipaExTrans": "aɪ kʊd nɒt dɪˈsaɪd ˈwɛðə tuː gəʊ lɛft ɔː raɪt.",
+        "exMeaning": "Tôi không thể quyết định đi sang trái hay phải."
+    }
+]

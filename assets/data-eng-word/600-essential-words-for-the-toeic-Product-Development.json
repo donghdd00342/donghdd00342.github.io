@@ -1,0 +1,135 @@
+[
+    {
+        "word": "anxious",
+        "type": "lo lắng",
+        "ipa": "ˈæŋkʃəs",
+        "meaning": "adj. Worried (lo âu, băn khoăn)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "anxiety",
+        "type": "sự lo ngại",
+        "ipa": "æŋˈzaɪəti",
+        "meaning": "n. mối lo âu",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "ascertain",
+        "type": "xác minh",
+        "ipa": "ˌæsəˈteɪn",
+        "meaning": "v. to discover, to find out for certain (tìm hiểu một cách chắc chắn",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "assume",
+        "type": "giả định",
+        "ipa": "əˈsjuːm",
+        "meaning": "v. to take upon oneself, to believe to be true (cho rằng, thừa nhận)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "assumed",
+        "type": "giả định",
+        "ipa": "əˈsjuːmd",
+        "meaning": "adj. cho rằng, thừa nhận",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "assumption",
+        "type": "giả thiết",
+        "ipa": "əˈsʌmpʃ(ə)n",
+        "meaning": "n. giả thuyết, giả định",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "decade",
+        "type": "thập kỷ",
+        "ipa": "ˈdɛkeɪd",
+        "meaning": "n. a period of ten years (thập kỷ)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "examine",
+        "type": "xem xét",
+        "ipa": "ɪgˈzæmɪn",
+        "meaning": "v. to interrogate, to scrutinize (xem xét chi tiết)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "experiment",
+        "type": "thí nghiệm",
+        "ipa": "ɪksˈpɛrɪmənt",
+        "meaning": "v. to try out a new procedure or idea, n. a test or trial (thí nghiệm, thử nghiệm)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "experimentation",
+        "type": "thử nghiệm",
+        "ipa": "ɛksˌpɛrɪmɛnˈteɪʃən",
+        "meaning": "n. cuộc thử nghiệm",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "experimental",
+        "type": "thực nghiệm",
+        "ipa": "ɛksˌpɛrɪˈmɛntl",
+        "meaning": "adj. thử nghiệm",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "logical",
+        "type": "hợp lý",
+        "ipa": "ˈlɒʤɪkəl",
+        "meaning": "adj. formally valid, using orderly reasoning (hợp lý, có lý)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "research",
+        "type": "nghiên cứu",
+        "ipa": "rɪˈsɜːʧ",
+        "meaning": "n. the act of collecting in formation about a particular subject (nghiên cứu)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "responsibility",
+        "type": "nhiệm vụ",
+        "ipa": "rɪsˌpɒnsəˈbɪlɪti",
+        "meaning": "n. task (bổn phận, trách nhiệm)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "responsible",
+        "type": "chịu trách nhiệm",
+        "ipa": "rɪsˈpɒnsəbl",
+        "meaning": "adj. chịu trách nhiệm",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "responsibly",
+        "type": "có trách nhiệm",
+        "ipa": "rɪsˈpɒnsəbli",
+        "meaning": "adv. có trách nhiệm",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "solve",
+        "type": "gỡ rối",
+        "ipa": "sɒlv",
+        "meaning": "v. to find a solution, explanation, or answer (giải quyết, làm sáng tỏ một vấn đề)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "supervisor",
+        "type": "giám sát viên",
+        "ipa": "ˈsjuːpəvaɪzə",
+        "meaning": "n. an administrator in charge (người giám sát)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "systematic",
+        "type": "có hệ thống",
+        "ipa": "ˌsɪstɪˈmætɪk",
+        "meaning": "adj. Methodical in procedure, organized (có phương pháp, hệ thống)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    }
+]

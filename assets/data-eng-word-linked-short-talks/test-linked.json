@@ -1,0 +1,95 @@
+[
+    {
+        "word": "accommodate",
+        "type": "động từ",
+        "ipa": "əˈkɒmədeɪt",
+        "meaning": "đáp ứng, cung cấp chỗ ở",
+        "tag": "Chủ đề CONFERENCES",
+        "context": "accommodation (danh từ)(Nghĩa 1) chỗ ở (Nghĩa 2) nơi ở, chỗ ở; accommodating (tính từ)sẵn sàng giúp đỡ",
+        "ex": "The car park can accommodate about 200 cars.",
+        "ipaExTrans": "ðə kɑː pɑːk kæn əˈkɒmədeɪt əˈbaʊt 200 kɑːz.",
+        "exMeaning": "Bãi đậu xe nay có thể chứa được khoảng 200 chiếc xe."
+    },
+    {
+        "word": "associate",
+        "type": "động từ",
+        "ipa": "əˈsəʊʃɪɪt",
+        "meaning": "liên tưởng, liên kết",
+        "tag": "Chủ đề CONFERENCES",
+        "context": "associated (tính từ)liên kết, đi cùng; association (danh từ)(Nghĩa 1) sự liên kết, mối quan hệ; (Nghĩa 3) sự liên tưởng",
+        "ex": "I always associate the smell of baking with my childhood.",
+        "ipaExTrans": "aɪ ˈɔːlweɪz əˈsəʊʃɪɪt ðə smɛl ɒv ˈbeɪkɪŋ wɪð maɪ ˈʧaɪldhʊd.",
+        "exMeaning": "Tôi luôn liên tưởng mùi bánh nướng với tuổi thơ của mình."
+    },
+    {
+        "word": "attend",
+        "type": "động từ",
+        "ipa": "əˈtɛnd",
+        "meaning": "tham gia",
+        "tag": "Chủ đề CONFERENCES",
+        "context": "attendance (danh từ)số người tham dự; attendee (danh từ)người tham dự",
+        "ex": "Over two hundred ​people attended the ​funeral.",
+        "ipaExTrans": "ˈəʊvə tuː ˈhʌndrəd ​ˈpiːpl əˈtɛndɪd ðiː ​ˈfjuːnərəl.",
+        "exMeaning": "Hơn 200 người tham dự tang lễ."
+    },
+    {
+        "word": "get in touch",
+        "type": "động từ",
+        "ipa": "gɛt ɪn tʌʧ",
+        "meaning": "liên lạc",
+        "tag": "Chủ đề CONFERENCES",
+        "ex": "I'm trying to get in touch with Jane.",
+        "ipaExTrans": "aɪm ˈtraɪɪŋ tuː gɛt ɪn tʌʧ wɪð ʤeɪn.",
+        "exMeaning": "Tôi đang cố liên lạc với Jane."
+    },
+    {
+        "word": "take part in",
+        "type": "động từ",
+        "ipa": "teɪk pɑːt ɪn",
+        "meaning": "tham gia",
+        "tag": "Chủ đề CONFERENCES",
+        "ex": "How many countries took part in the last Olympic Games?",
+        "ipaExTrans": "haʊ ˈmɛni ˈkʌntriz tʊk pɑːt ɪn ðə lɑːst əʊˈlɪmpɪk geɪmz?",
+        "exMeaning": "Có bao nhiêu nước tham gia Thế vận hội Olympic lần trước?"
+    },
+    {
+        "word": "accumulate",
+        "type": "động từ",
+        "ipa": "əˈkjuːmjʊleɪt",
+        "meaning": "tích lũy",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "accumulation (danh từ): sự gia tăng, tích lũy; accumulative (tính từ): tích lũy được, gia tăng",
+        "ex": "Debts began to accumulate.",
+        "ipaExTrans": "dɛts bɪˈgæn tuː əˈkjuːmjʊleɪt.",
+        "exMeaning": "Các khoản nợ bắt đầu tích lũy lại."
+    },
+    {
+        "word": "build up",
+        "type": "cụm động từ",
+        "ipa": "bɪld ʌp",
+        "meaning": "xây dựng, phát triển",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "build-up (danh từ)sự tích lũy, sự gia tăng",
+        "ex": "We’ve built up good relationships with our clients.",
+        "ipaExTrans": "wiːv bɪlt ʌp gʊd rɪˈleɪʃənʃɪps wɪð ˈaʊə ˈklaɪənts.",
+        "exMeaning": "Chúng tôi xây dựng những mối quan hệ tốt với khách hàng."
+    },
+    {
+        "word": "debt",
+        "type": "danh từ",
+        "ipa": "dɛt",
+        "meaning": "món nợ",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "debtor (danh từ)con nợ, người mắc nợ",
+        "ex": "I need to pay off all my debts before I leave the country.",
+        "ipaExTrans": "aɪ niːd tuː peɪ ɒf ɔːl maɪ dɛts bɪˈfɔːr aɪ liːv ðə ˈkʌntri.",
+        "exMeaning": "Tôi cần trả hết các món nợ trước khi rời khỏi nước."
+    },
+    {
+        "word": "outstanding",
+        "type": "tính từ",
+        "ipa": "aʊtˈstændɪŋ",
+        "meaning": "cực kỳ tốt; xuất sắc",
+        "tag": "Chủ để ACCOUNTING"
+    }
+]

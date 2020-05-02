@@ -1,0 +1,222 @@
+[
+    {
+        "word": "argue",
+        "ipa": "ˈɑːgjuː",
+        "type": "v",
+        "tag": "tranh luận, tranh cãi",
+        "meaning": "To argue is to angrily speak to someone because you do not agree.",
+        "context": "Tranh luận là giận dữ nói chuyện với ai đó vì bạn không đồng ý.",
+        "ex": "We argued about where to go for dinner.",
+        "ipaExTrans": "wiː ˈɑːgjuːd əˈbaʊt weə tuː gəʊ fɔː ˈdɪnə.",
+        "exMeaning": "Chúng tôi tranh cãi về nơi để đi ăn tối."
+    },
+    {
+        "word": "communicate",
+        "ipa": "kəˈmjuːnɪkeɪt",
+        "type": "v",
+        "tag": "giao tiếp, liên lạc",
+        "meaning": "To communicate is to give information by talking, writing, etc.",
+        "context": "Giao tiếp là cung cấp thông tin bằng cách nói chuyện, viết, v.v.",
+        "ex": "I communicated with Paul about his new ideas.",
+        "ipaExTrans": "aɪ kəˈmjuːnɪkeɪtɪd wɪð pɔːl əˈbaʊt hɪz njuː aɪˈdɪəz.",
+        "exMeaning": "Tôi đã liên lạc với Paul về những ý tưởng mới của anh ấy."
+    },
+    {
+        "word": "crowd",
+        "ipa": "kraʊd",
+        "type": "n",
+        "tag": "bầy đàn, đám đông",
+        "meaning": "A crowd is a large group of people",
+        "context": "Một đám đông là một nhóm lớn người",
+        "ex": "A large crowd had gathered on the street to see the accident.",
+        "ipaExTrans": "ə lɑːʤ kraʊd hæd ˈgæðəd ɒn ðə striːt tuː siː ði ˈæksɪdənt.",
+        "exMeaning": "Một đám đông lớn đã tập trung trên đường để xem vụ tai nạn."
+    },
+    {
+        "word": "depend",
+        "ipa": "dɪˈpɛnd",
+        "type": "v",
+        "tag": "tùy theo, phụ thuộc vào",
+        "meaning": "To depend on someone or something is to need them.",
+        "context": "Phụ thuộc vào ai đó hoặc một cái gì đó là cần họ.",
+        "ex": "Children depend on their parents for many things",
+        "ipaExTrans": "ˈʧɪldrən dɪˈpɛnd ɒn ðeə ˈpeərənts fɔː ˈmɛni θɪŋz",
+        "exMeaning": "Trẻ em phụ thuộc vào cha mẹ vì nhiều thứ"
+    },
+    {
+        "word": "dish",
+        "ipa": "dɪʃ",
+        "type": "n",
+        "tag": "đĩa",
+        "meaning": "A dish is a plate.",
+        "context": "Một món ăn là một cái đĩa.",
+        "ex": "She put a clean white dish on the table.",
+        "ipaExTrans": "ʃiː pʊt ə kliːn waɪt dɪʃ ɒn ðə ˈteɪbl.",
+        "exMeaning": "Cô đặt một cái đĩa trắng sạch lên bàn."
+    },
+    {
+        "word": "empty",
+        "ipa": "ˈɛmpti",
+        "type": "adj",
+        "tag": "trống rỗng",
+        "meaning": "If something is empty, it does not have anything in it.",
+        "context": "Nếu một cái gì đó trống rỗng, nó không có gì trong đó.",
+        "ex": "My gas tank was almost empty, so I couldn’t drive my car very long.",
+        "ipaExTrans": "maɪ gæs tæŋk wɒz ˈɔːlməʊst ˈɛmpti, səʊ aɪ ˈkʊdnt draɪv maɪ kɑː ˈvɛri lɒŋ.",
+        "exMeaning": "Bình xăng của tôi gần như trống rỗng, vì vậy tôi không thể lái chiếc xe của mình rất lâu."
+    },
+    {
+        "word": "exact",
+        "ipa": "ɪgˈzækt",
+        "type": "adj",
+        "tag": "chính xác",
+        "meaning": "If something is exact, it is just the right amount.",
+        "context": "Nếu một cái gì đó là chính xác, nó chỉ là số tiền đúng.",
+        "ex": "Please use the exact amount of sugar for the cake.",
+        "ipaExTrans": "pliːz juːz ði ɪgˈzækt əˈmaʊnt ɒv ˈʃʊgə fɔː ðə keɪk.",
+        "exMeaning": "Vui lòng sử dụng lượng đường chính xác cho bánh."
+    },
+    {
+        "word": "fresh",
+        "ipa": "frɛʃ",
+        "type": "adj",
+        "tag": "tươi mới",
+        "meaning": "If something is fresh, it is new.",
+        "context": "Nếu một cái gì đó tươi, nó là mới.",
+        "ex": "I just bought these oranges. They are very fresh.",
+        "ipaExTrans": "aɪ ʤʌst bɔːt ðiːz ˈɒrɪnʤɪz. ðeɪ ɑː ˈvɛri frɛʃ.",
+        "exMeaning": "Tôi mới mua những quả cam này. Chúng rất tươi."
+    },
+    {
+        "word": "gather",
+        "ipa": "ˈgæðə",
+        "type": "v",
+        "tag": "tụ họp, thu thập",
+        "meaning": "To gather is to collect several things usually from different places",
+        "context": "Thu thập là để thu thập một số thứ thường từ những nơi khác nhau",
+        "ex": "Sam gathered some flowers for his mother.",
+        "ipaExTrans": "sæm ˈgæðəd sʌm ˈflaʊəz fɔː hɪz ˈmʌðə.",
+        "exMeaning": "Sam thu thập một số hoa cho mẹ của mình."
+    },
+    {
+        "word": "indicate",
+        "ipa": "ˈɪndɪkeɪt",
+        "type": "v",
+        "tag": "biểu thị, chỉ ra",
+        "meaning": "To indicate means to show, point or make something clear.",
+        "context": "Để chỉ phương tiện để hiển thị, chỉ hoặc làm cho một cái gì đó rõ ràng.",
+        "ex": "He pointed to his eyes to indicate where he had hurt himself.",
+        "ipaExTrans": "hiː ˈpɔɪntɪd tuː hɪz aɪz tuː ˈɪndɪkeɪt weə hiː hæd hɜːt hɪmˈsɛlf.",
+        "exMeaning": "Anh chỉ vào mắt mình để chỉ ra nơi anh đã tự làm tổn thương mình."
+    },
+    {
+        "word": "item",
+        "ipa": "ˈaɪtəm",
+        "type": "n",
+        "tag": "mục, mặt hàng",
+        "meaning": "An item is a thing that you buy or sell.",
+        "context": "Một mặt hàng là một thứ mà bạn mua hoặc bán.",
+        "ex": "I have many items for school in my bag",
+        "ipaExTrans": "aɪ hæv ˈmɛni ˈaɪtəmz fɔː skuːl ɪn maɪ bæg",
+        "exMeaning": "Tôi có nhiều đồ dùng cho trường học trong túi của tôi"
+    },
+    {
+        "word": "offer",
+        "ipa": "ˈɒfə",
+        "type": "v",
+        "tag": "phục vụ, cung cấp",
+        "meaning": "To offer is to present someone with something.",
+        "context": "Cung cấp là để trình bày với ai đó với một cái gì đó.",
+        "ex": "He offered me the keys to his car.",
+        "ipaExTrans": "hiː ˈɒfəd miː ðə kiːz tuː hɪz kɑː.",
+        "exMeaning": "Anh đưa cho tôi chìa khóa xe."
+    },
+    {
+        "word": "price",
+        "ipa": "praɪs",
+        "type": "n",
+        "tag": "giá bán",
+        "meaning": "The price of something is how much it costs.",
+        "context": "Giá của một cái gì đó là nó có giá bao nhiêu.",
+        "ex": "What is the price of this item?",
+        "ipaExTrans": "wɒt ɪz ðə praɪs ɒv ðɪs ˈaɪtəm?",
+        "exMeaning": "Giá của mặt hàng này là gì?"
+    },
+    {
+        "word": "product",
+        "ipa": "ˈprɒdʌkt",
+        "type": "n",
+        "tag": "sản phẩm",
+        "meaning": "A product is something that is made.",
+        "context": "Một sản phẩm là một cái gì đó được thực hiện.",
+        "ex": "My sister has many beauty products in her room.",
+        "ipaExTrans": "maɪ ˈsɪstə hæz ˈmɛni ˈbjuːti ˈprɒdʌkts ɪn hɜː ruːm.",
+        "exMeaning": "Chị tôi có nhiều sản phẩm làm đẹp trong phòng."
+    },
+    {
+        "word": "property",
+        "ipa": "ˈprɒpəti",
+        "type": "n",
+        "tag": "bất động sản, tài sản, đặc tính",
+        "meaning": "Property is something that someone owns.",
+        "context": "Tài sản là thứ mà ai đó sở hữu.",
+        "ex": "The house is now my property.",
+        "ipaExTrans": "ðə haʊs ɪz naʊ maɪ ˈprɒpəti.",
+        "exMeaning": "Ngôi nhà bây giờ là tài sản của tôi."
+    },
+    {
+        "word": "purchase",
+        "ipa": "ˈpɜːʧəs",
+        "type": "v",
+        "tag": "mua, tựa vào, bám vào",
+        "meaning": "To purchase something is to buy it.",
+        "context": "Mua một cái gì đó là mua nó.",
+        "ex": "I recently purchased a new car.",
+        "ipaExTrans": "aɪ ˈriːsntli ˈpɜːʧəst ə njuː kɑː.",
+        "exMeaning": "Gần đây tôi đã mua một chiếc xe mới."
+    },
+    {
+        "word": "recommend",
+        "ipa": "ˌrɛkəˈmɛnd",
+        "type": "v",
+        "tag": "giới thiệu, gợi ý, đề nghị",
+        "meaning": "To recommend something is to say that someone should do it.",
+        "context": "Đề nghị một cái gì đó là nói rằng ai đó nên làm điều đó.",
+        "ex": "My doctor recommended that I get some exercise.",
+        "ipaExTrans": "maɪ ˈdɒktə ˌrɛkəˈmɛndɪd ðæt aɪ gɛt sʌm ˈɛksəsaɪz.",
+        "exMeaning": "Bác sĩ của tôi khuyên tôi nên tập thể dục."
+    },
+    {
+        "word": "select",
+        "ipa": "sɪˈlɛkt",
+        "type": "v",
+        "tag": "lựa chọn",
+        "meaning": "To select something is to choose it.",
+        "context": "Chọn một cái gì đó là chọn nó.",
+        "ex": "I hope that I selected the right answers on the test",
+        "ipaExTrans": "aɪ həʊp ðæt aɪ sɪˈlɛktɪd ðə raɪt ˈɑːnsəz ɒn ðə tɛst",
+        "exMeaning": "Tôi hy vọng rằng tôi đã chọn đúng câu trả lời trong bài kiểm tra"
+    },
+    {
+        "word": "tool",
+        "ipa": "tuːl",
+        "type": "n",
+        "tag": "dụng cụ",
+        "meaning": "A tool is something that helps you do a task.",
+        "context": "Một công cụ là thứ giúp bạn thực hiện một nhiệm vụ.",
+        "ex": "We used a tool to fix the window.",
+        "ipaExTrans": "wiː juːzd ə tuːl tuː fɪks ðə ˈwɪndəʊ.",
+        "exMeaning": "Chúng tôi đã sử dụng một công cụ để sửa chữa cửa sổ."
+    },
+    {
+        "word": "treat",
+        "ipa": "triːt",
+        "type": "v",
+        "tag": "đối xử",
+        "meaning": "To treat is to act in a certain way toward someone.",
+        "context": "Đối xử là hành động theo một cách nhất định đối với ai đó.",
+        "ex": "The cats treated the mouse very nicely.",
+        "ipaExTrans": "ðə kæts ˈtriːtɪd ðə maʊs ˈvɛri ˈnaɪsli.",
+        "exMeaning": "Những con mèo đối xử với con chuột rất độc đáo."
+    }
+]

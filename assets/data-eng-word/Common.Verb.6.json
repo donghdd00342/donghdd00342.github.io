@@ -1,0 +1,602 @@
+[
+    {
+        "word": "cycle",
+        "type": "noun, verb",
+        "ipa": "ˈsaɪkl",
+        "meaning": "chu kỳ"
+    },
+    {
+        "word": "face",
+        "type": "noun, verb",
+        "ipa": "feɪs",
+        "meaning": "đối mặt"
+    },
+    {
+        "word": "interested",
+        "type": "past, verb",
+        "ipa": "ˈɪntrɪstɪd",
+        "meaning": "quan tâm"
+    },
+    {
+        "word": "metal",
+        "type": "noun, verb",
+        "ipa": "ˈmɛtl",
+        "meaning": "kim loại"
+    },
+    {
+        "word": "paint",
+        "type": "noun, verb",
+        "ipa": "peɪnt",
+        "meaning": "Sơn"
+    },
+    {
+        "word": "review",
+        "type": "noun, verb",
+        "ipa": "rɪˈvjuː",
+        "meaning": "ôn tập"
+    },
+    {
+        "word": "room",
+        "type": "noun, verb",
+        "ipa": "ruːm",
+        "meaning": "phòng"
+    },
+    {
+        "word": "screen",
+        "type": "noun, verb",
+        "ipa": "skriːn",
+        "meaning": "màn"
+    },
+    {
+        "word": "structure",
+        "type": "noun, verb",
+        "ipa": "ˈstrʌkʧə",
+        "meaning": "kết cấu"
+    },
+    {
+        "word": "view",
+        "type": "noun, verb",
+        "ipa": "vjuː",
+        "meaning": "lượt xem"
+    },
+    {
+        "word": "account",
+        "type": "noun, verb",
+        "ipa": "əˈkaʊnt",
+        "meaning": "tài khoản"
+    },
+    {
+        "word": "ball",
+        "type": "noun, verb",
+        "ipa": "bɔːl",
+        "meaning": "trái bóng"
+    },
+    {
+        "word": "concerned",
+        "type": "past, verb",
+        "ipa": "kənˈsɜːnd",
+        "meaning": "liên quan"
+    },
+    {
+        "word": "discipline",
+        "type": "noun, verb",
+        "ipa": "ˈdɪsɪplɪn",
+        "meaning": "kỷ luật"
+    },
+    {
+        "word": "ready",
+        "type": "adjective, verb",
+        "ipa": "ˈrɛdi",
+        "meaning": "sẳn sàng"
+    },
+    {
+        "word": "share",
+        "type": "noun, verb",
+        "ipa": "ʃeə",
+        "meaning": "chia sẻ"
+    },
+    {
+        "word": "balance",
+        "type": "noun, verb",
+        "ipa": "ˈbæləns",
+        "meaning": "cân đối"
+    },
+    {
+        "word": "bit",
+        "type": "noun, verb",
+        "ipa": "bɪt",
+        "meaning": "bit"
+    },
+    {
+        "word": "black",
+        "type": "noun, verb, adjective",
+        "ipa": "blæk",
+        "meaning": "đen"
+    },
+    {
+        "word": "bottom",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈbɒtəm",
+        "meaning": "dưới cùng"
+    },
+    {
+        "word": "gift",
+        "type": "noun, verb",
+        "ipa": "gɪft",
+        "meaning": "quà tặng"
+    },
+    {
+        "word": "impact",
+        "type": "noun, verb",
+        "ipa": "ˈɪmpækt",
+        "meaning": "va chạm"
+    },
+    {
+        "word": "machine",
+        "type": "noun, verb",
+        "ipa": "məˈʃiːn",
+        "meaning": "máy móc"
+    },
+    {
+        "word": "shape",
+        "type": "noun, verb",
+        "ipa": "ʃeɪp",
+        "meaning": "hình dạng"
+    },
+    {
+        "word": "tool",
+        "type": "noun, verb",
+        "ipa": "tuːl",
+        "meaning": "dụng cụ"
+    },
+    {
+        "word": "wind",
+        "type": "noun, verb",
+        "ipa": "wɪnd",
+        "meaning": "gió"
+    },
+    {
+        "word": "address",
+        "type": "noun, verb",
+        "ipa": "əˈdrɛs",
+        "meaning": "địa chỉ nhà"
+    },
+    {
+        "word": "average",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈævərɪʤ",
+        "meaning": "Trung bình cộng"
+    },
+    {
+        "word": "career",
+        "type": "noun, verb, adjective",
+        "ipa": "kəˈrɪə",
+        "meaning": "nghề nghiệp"
+    },
+    {
+        "word": "culture",
+        "type": "noun, verb",
+        "ipa": "ˈkʌlʧə",
+        "meaning": "văn hóa"
+    },
+    {
+        "word": "pot",
+        "type": "noun, verb",
+        "ipa": "pɒt",
+        "meaning": "nồi"
+    },
+    {
+        "word": "sign",
+        "type": "noun, verb",
+        "ipa": "saɪn",
+        "meaning": "ký tên"
+    },
+    {
+        "word": "table",
+        "type": "noun, verb",
+        "ipa": "ˈteɪbl",
+        "meaning": "bàn"
+    },
+    {
+        "word": "task",
+        "type": "noun, verb",
+        "ipa": "tɑːsk",
+        "meaning": "bài tập"
+    },
+    {
+        "word": "condition",
+        "type": "noun, verb",
+        "ipa": "kənˈdɪʃən",
+        "meaning": "điều kiện"
+    },
+    {
+        "word": "contact",
+        "type": "noun, verb",
+        "ipa": "ˈkɒntækt",
+        "meaning": "tiếp xúc"
+    },
+    {
+        "word": "credit",
+        "type": "noun, verb",
+        "ipa": "ˈkrɛdɪt",
+        "meaning": "tín dụng"
+    },
+    {
+        "word": "egg",
+        "type": "noun, verb",
+        "ipa": "ɛg",
+        "meaning": "trứng"
+    },
+    {
+        "word": "ice",
+        "type": "noun, verb",
+        "ipa": "aɪs",
+        "meaning": "Nước đá"
+    },
+    {
+        "word": "network",
+        "type": "noun, verb",
+        "ipa": "ˈnɛtwɜːk",
+        "meaning": "mạng"
+    },
+    {
+        "word": "separate",
+        "type": "adjective, verb, noun",
+        "ipa": "ˈsɛprɪt",
+        "meaning": "tách rời"
+    },
+    {
+        "word": "attempt",
+        "type": "noun, verb",
+        "ipa": "əˈtɛmpt",
+        "meaning": "cố gắng"
+    },
+    {
+        "word": "date",
+        "type": "noun, verb",
+        "ipa": "deɪt",
+        "meaning": "ngày"
+    },
+    {
+        "word": "effect",
+        "type": "noun, verb",
+        "ipa": "ɪˈfɛkt",
+        "meaning": "hiệu ứng"
+    },
+    {
+        "word": "link",
+        "type": "noun, verb",
+        "ipa": "lɪŋk",
+        "meaning": "liên kết"
+    },
+    {
+        "word": "perfect",
+        "type": "adjective, verb, noun",
+        "ipa": "ˈpɜːfɪkt",
+        "meaning": "hoàn hảo"
+    },
+    {
+        "word": "post",
+        "type": "noun, verb, adverb",
+        "ipa": "pəʊst",
+        "meaning": "bài đăng"
+    },
+    {
+        "word": "star",
+        "type": "noun, verb",
+        "ipa": "stɑː",
+        "meaning": "ngôi sao"
+    },
+    {
+        "word": "voice",
+        "type": "noun, verb",
+        "ipa": "vɔɪs",
+        "meaning": "tiếng nói"
+    },
+    {
+        "word": "challenge",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈʧælɪnʤ",
+        "meaning": "thử thách"
+    },
+    {
+        "word": "friend",
+        "type": "noun, verb",
+        "ipa": "frɛnd",
+        "meaning": "bạn"
+    },
+    {
+        "word": "warm",
+        "type": "adjective, verb",
+        "ipa": "wɔːm",
+        "meaning": "ấm áp"
+    },
+    {
+        "word": "brush",
+        "type": "noun, verb",
+        "ipa": "brʌʃ",
+        "meaning": "chải"
+    },
+    {
+        "word": "couple",
+        "type": "noun, verb",
+        "ipa": "ˈkʌpl",
+        "meaning": "cặp vợ chồng"
+    },
+    {
+        "word": "debate",
+        "type": "noun, verb",
+        "ipa": "dɪˈbeɪt",
+        "meaning": "tranh luận"
+    },
+    {
+        "word": "exit",
+        "type": "noun, verb",
+        "ipa": "ˈɛksɪt",
+        "meaning": "lối thoát hiểm"
+    },
+    {
+        "word": "experienced",
+        "type": "past, verb",
+        "ipa": "ɪksˈpɪərɪənst",
+        "meaning": "có kinh nghiệm"
+    },
+    {
+        "word": "function",
+        "type": "noun, verb",
+        "ipa": "ˈfʌnŋkʃən",
+        "meaning": "chức năng"
+    },
+    {
+        "word": "lack",
+        "type": "noun, verb",
+        "ipa": "læk",
+        "meaning": "thiếu sót"
+    },
+    {
+        "word": "plant",
+        "type": "noun, verb",
+        "ipa": "plɑːnt",
+        "meaning": "thực vật"
+    },
+    {
+        "word": "spot",
+        "type": "noun, verb",
+        "ipa": "spɒt",
+        "meaning": "nơi"
+    },
+    {
+        "word": "summer",
+        "type": "noun, verb",
+        "ipa": "ˈsʌmə",
+        "meaning": "mùa hè"
+    },
+    {
+        "word": "taste",
+        "type": "noun, verb",
+        "ipa": "teɪst",
+        "meaning": "nếm thử"
+    },
+    {
+        "word": "theme",
+        "type": "noun, verb",
+        "ipa": "θiːm",
+        "meaning": "chủ đề"
+    },
+    {
+        "word": "track",
+        "type": "noun, verb",
+        "ipa": "træk",
+        "meaning": "theo dõi"
+    },
+    {
+        "word": "wing",
+        "type": "noun, verb",
+        "ipa": "wɪŋ",
+        "meaning": "canh"
+    },
+    {
+        "word": "brain",
+        "type": "noun, verb",
+        "ipa": "breɪn",
+        "meaning": "óc"
+    },
+    {
+        "word": "button",
+        "type": "noun, verb",
+        "ipa": "ˈbʌtn",
+        "meaning": "nút"
+    },
+    {
+        "word": "click",
+        "type": "noun, verb",
+        "ipa": "klɪk",
+        "meaning": "nhấp chuột"
+    },
+    {
+        "word": "correct",
+        "type": "adjective, verb",
+        "ipa": "kəˈrɛkt",
+        "meaning": "chính xác"
+    },
+    {
+        "word": "desire",
+        "type": "noun, verb",
+        "ipa": "dɪˈzaɪə",
+        "meaning": "khao khát"
+    },
+    {
+        "word": "fixed",
+        "type": "past, verb",
+        "ipa": "fɪkst",
+        "meaning": "đã sửa"
+    },
+    {
+        "word": "foot",
+        "type": "noun, verb",
+        "ipa": "fʊt",
+        "meaning": "chân"
+    },
+    {
+        "word": "gas",
+        "type": "noun, verb",
+        "ipa": "gæs",
+        "meaning": "khí ga"
+    },
+    {
+        "word": "influence",
+        "type": "noun, verb",
+        "ipa": "ˈɪnflʊəns",
+        "meaning": "ảnh hưởng"
+    },
+    {
+        "word": "notice",
+        "type": "noun, verb",
+        "ipa": "ˈnəʊtɪs",
+        "meaning": "để ý"
+    },
+    {
+        "word": "rain",
+        "type": "noun, verb",
+        "ipa": "reɪn",
+        "meaning": "mưa"
+    },
+    {
+        "word": "wall",
+        "type": "noun, verb",
+        "ipa": "wɔːl",
+        "meaning": "Tường"
+    },
+    {
+        "word": "base",
+        "type": "noun, verb, adjective",
+        "ipa": "beɪs",
+        "meaning": "căn cứ"
+    },
+    {
+        "word": "damage",
+        "type": "noun, verb",
+        "ipa": "ˈdæmɪʤ",
+        "meaning": "hư hại"
+    },
+    {
+        "word": "distance",
+        "type": "noun, verb",
+        "ipa": "ˈdɪstəns",
+        "meaning": "khoảng cách"
+    },
+    {
+        "word": "pair",
+        "type": "noun, verb",
+        "ipa": "peə",
+        "meaning": "đôi"
+    },
+    {
+        "word": "staff",
+        "type": "noun, verb",
+        "ipa": "stɑːf",
+        "meaning": "cán bộ"
+    },
+    {
+        "word": "sugar",
+        "type": "noun, verb",
+        "ipa": "ˈʃʊgə",
+        "meaning": "đường"
+    },
+    {
+        "word": "target",
+        "type": "noun, verb",
+        "ipa": "ˈtɑːgɪt",
+        "meaning": "Mục tiêu"
+    },
+    {
+        "word": "text",
+        "type": "noun, verb",
+        "ipa": "tɛkst",
+        "meaning": "bản văn"
+    },
+    {
+        "word": "author",
+        "type": "noun, verb",
+        "ipa": "ˈɔːθə",
+        "meaning": "tác giả"
+    },
+    {
+        "word": "complicated",
+        "type": "past, verb",
+        "ipa": "ˈkɒmplɪkeɪtɪd",
+        "meaning": "phức tạp"
+    },
+    {
+        "word": "discount",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈdɪskaʊnt",
+        "meaning": "giảm giá"
+    },
+    {
+        "word": "file",
+        "type": "noun, verb",
+        "ipa": "faɪl",
+        "meaning": "tập tin"
+    },
+    {
+        "word": "ground",
+        "type": "noun, verb, adjective",
+        "ipa": "graʊnd",
+        "meaning": "đất"
+    },
+    {
+        "word": "lesson",
+        "type": "noun, verb",
+        "ipa": "ˈlɛsn",
+        "meaning": "bài học"
+    },
+    {
+        "word": "officer",
+        "type": "noun, verb",
+        "ipa": "ˈɒfɪsə",
+        "meaning": "nhân viên văn phòng"
+    },
+    {
+        "word": "phase",
+        "type": "noun, verb",
+        "ipa": "feɪz",
+        "meaning": "giai đoạn"
+    },
+    {
+        "word": "reference",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈrɛfrəns",
+        "meaning": "tài liệu tham khảo"
+    },
+    {
+        "word": "register",
+        "type": "noun, verb",
+        "ipa": "ˈrɛʤɪstə",
+        "meaning": "ghi danh"
+    },
+    {
+        "word": "secure",
+        "type": "adjective, verb",
+        "ipa": "sɪˈkjʊə",
+        "meaning": "đảm bảo"
+    },
+    {
+        "word": "sky",
+        "type": "noun, verb",
+        "ipa": "skaɪ",
+        "meaning": "bầu trời"
+    },
+    {
+        "word": "stage",
+        "type": "noun, verb",
+        "ipa": "steɪʤ",
+        "meaning": "sân khấu"
+    },
+    {
+        "word": "stick",
+        "type": "noun, verb",
+        "ipa": "stɪk",
+        "meaning": "gậy"
+    }
+]

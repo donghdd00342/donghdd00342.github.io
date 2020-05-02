@@ -1,0 +1,146 @@
+[
+    {
+        "sentence": "He doesn't like her to ACCOMPANY him to wherever he goes.",
+        "ipa": "hiː dʌznt laɪk hɜː tuː əˈkʌmpəni hɪm tuː weərˈɛvə hiː gəʊz.",
+        "tag": "ACCOMPANY ",
+        "meaning": "Anh ta không thích việc cô hộ tống anh đến mọi nơi anh đi."
+    },
+    {
+        "sentence": "What REALLY happened is that she slapped me in the face.",
+        "ipa": "wɒt ˈrɪəli ˈhæpənd ɪz ðæt ʃiː slæpt miː ɪn ðə feɪs.",
+        "tag": "REALLY ",
+        "meaning": "Điều thực sự đã xảy ra là cô ta đã vả vào mặt tôi."
+    },
+    {
+        "sentence": "Please confirm your ACCEPTANCE of this offer in writing.",
+        "ipa": "pliːz kənˈfɜːm jɔːr əkˈsɛptəns ɒv ðɪs ˈɒfər ɪn ˈraɪtɪŋ.",
+        "tag": "ACCEPTANCE ",
+        "meaning": "Vui lòng xác nhận sự đồng ý đối với đề nghị này của bạn bằng chữ viết."
+    },
+    {
+        "sentence": "We learn a lot about NUMBERS in our algebra class.",
+        "ipa": "wiː lɜːn ə lɒt əˈbaʊt ˈnʌmbəz ɪn ˈaʊər ˈælʤɪbrə klɑːs.",
+        "tag": "NUMBERS ",
+        "meaning": "Chúng tôi học được nhiều về các con số trong lớp đại số."
+    },
+    {
+        "sentence": "They had no MEANS of communication.",
+        "ipa": "ðeɪ hæd nəʊ miːnz ɒv kəˌmjuːnɪˈkeɪʃən.",
+        "tag": "MEANS ",
+        "meaning": "Họ không có cách nào để liên lạc."
+    },
+    {
+        "sentence": "I enjoy eating at foreign restaurants because I like to TRY food from different countries.",
+        "ipa": "aɪ ɪnˈʤɔɪ ˈiːtɪŋ æt ˈfɒrɪn ˈrɛstrɒnts bɪˈkɒz aɪ laɪk tuː traɪ fuːd frɒm ˈdɪfrənt ˈkʌntriz.",
+        "tag": "TRY ",
+        "meaning": "Tôi thích ăn tại các nhà hàng nước ngoài bởi vì tôi muốn thử thực ăn từ các nước khác nhau."
+    },
+    {
+        "sentence": "We have to RESEARCH how the product will actually be used.",
+        "ipa": "wiː hæv tuː rɪˈsɜːʧ haʊ ðə ˈprɒdʌkt wɪl ˈækʧʊəli biː juːzd.",
+        "tag": "RESEARCH ",
+        "meaning": "Chúng ta phải nghiên cứu xem sản phẩm sẽ thật sự được dùng thế nào."
+    },
+    {
+        "sentence": "This offer is subject to AVAILABILITY.",
+        "ipa": "ðɪs ˈɒfər ɪz ˈsʌbʤɪkt tuː əˌveɪləˈbɪlɪti.",
+        "tag": "AVAILABILITY",
+        "meaning": "Ưu đãi này sẽ kết thúc khi hết hàng khuyến mãi."
+    },
+    {
+        "sentence": "Not long AGO, I was an alcoholic.",
+        "ipa": "nɒt lɒŋ əˈgəʊ, aɪ wɒz ən ˌælkəˈhɒlɪk.",
+        "tag": "AGO",
+        "meaning": "Không lâu về trước, tôi là một người nghiện rượu."
+    },
+    {
+        "sentence": "I sold my laptop to a man I met in the bar for $800.",
+        "ipa": "aɪ səʊld maɪ ˈlæpˌtɒp tuː ə mæn aɪ mɛt ɪn ðə bɑː fɔː $800.",
+        "tag": "SELL",
+        "meaning": "Tôi bán laptop của tôi cho một người đàn ông tôi gặp trong quán bar với giá $800."
+    },
+    {
+        "sentence": "Why did the company SEND you to France?",
+        "ipa": "waɪ dɪd ðə ˈkʌmpəni sɛnd juː tuː ˈfrɑːns?",
+        "tag": "SEND ",
+        "meaning": "Tại sao công ty gửi bạn đến Pháp?"
+    },
+    {
+        "sentence": "If you bear with me, I'll go and SEE whether we have that in your size.",
+        "ipa": "ɪf juː beə wɪð miː, aɪl gəʊ ænd siː ˈwɛðə wiː hæv ðæt ɪn jɔː saɪz.",
+        "tag": "SEE ",
+        "meaning": "Nếu bạn đủ kiên nhẫn chờ, tôi sẽ đi kiếm xem có cái nào hợp kích cỡ của bạn không."
+    },
+    {
+        "sentence": "How many more TIMES do I have to repeat it to you, stupid?",
+        "ipa": "haʊ ˈmɛni mɔː taɪmz duː aɪ hæv tuː rɪˈpiːt ɪt tuː juː, ˈstjuːpɪd?",
+        "tag": "TIMES ",
+        "meaning": "Tôi còn phải lặp lại điều đó cho bạn bao nhiêu lần nữa, đồ ngu ngốc?"
+    },
+    {
+        "sentence": "Here you are at last! I HOPE your journey here wasn't too horrible.",
+        "ipa": "hɪə juː ɑːr æt lɑːst! aɪ həʊp jɔː ˈʤɜːni hɪə wɒznt tuː ˈhɒrəbl.",
+        "tag": "HOPE",
+        "meaning": "Cuối cùng bạn cũng đã đến! Tôi hy vọng chuyến đi đến đây của bạn không có tồi tệ."
+    },
+    {
+        "sentence": "Although they had HIGH hopes that they would be successful, they went out of business within six months.",
+        "ipa": "ɔːlˈðəʊ ðeɪ hæd haɪ həʊps ðæt ðeɪ wʊd biː səkˈsɛsfʊl, ðeɪ wɛnt aʊt ɒv ˈbɪznɪs wɪˈðɪn sɪks mʌnθs.",
+        "tag": "HIGH",
+        "meaning": "Mặc dù họ hy vọng cao rằng họ sẽ thành công, nhưng họ phải dừng kinh doanh chỉ trong vòng 6 tháng."
+    },
+    {
+        "sentence": "Smoking is ALLOWED, but only on the balcony.",
+        "ipa": "ˈsməʊkɪŋ ɪz əˈlaʊd, bʌt ˈəʊnli ɒn ðə ˈbælkəni.",
+        "tag": "ALLOWED",
+        "meaning": "Cho phép hút thuốc, nhưng chỉ trong hành lang thôi."
+    },
+    {
+        "sentence": "Your hospitality during our visit has been GREATLY appreciated.",
+        "ipa": "jɔː ˌhɒspɪˈtælɪti ˈdjʊərɪŋ ˈaʊə ˈvɪzɪt hæz biːn ˈgreɪtli əˈpriːʃɪeɪtɪd.",
+        "tag": "GREATLY ",
+        "meaning": "Chúng tôi rất cảm kích trước lòng hiếu khách của bạn trong chuyến viếng thăm của chúng tôi."
+    },
+    {
+        "sentence": "I am a frequent CUSTOMER of this bar.",
+        "ipa": "aɪ æm ə ˈfriːkwənt ˈkʌstəmər ɒv ðɪs bɑː.",
+        "tag": "CUSTOMER ",
+        "meaning": "Tôi là khách hàng thường xuyên của quán bar này."
+    },
+    {
+        "sentence": "After placing your order via our website, you will RECEIVE an email confirmation within a few minutes.",
+        "ipa": "ˈɑːftə ˈpleɪsɪŋ jɔːr ˈɔːdə ˈvaɪə ˈaʊə ˈwɛbˌsaɪt, juː wɪl rɪˈsiːv ən ˈiːmeɪl ˌkɒnfəˈmeɪʃən wɪˈðɪn ə fjuː ˈmɪnɪts.",
+        "tag": "RECEIVE ",
+        "meaning": "Sau khi đặt hàng thông qua trang web của chúng tôi, bạn sẽ nhận được một email xác nhận trong vòng vài phút."
+    },
+    {
+        "sentence": "She MOVED towards the window to see more clearly.",
+        "ipa": "ʃiː muːvd təˈwɔːdz ðə ˈwɪndəʊ tuː siː mɔː ˈklɪəli.",
+        "tag": "MOVED ",
+        "meaning": "Bà ta tiến về phía cửa sổ để thấy rõ hơn."
+    },
+    {
+        "sentence": "She hasn't got any PLANS for her coming birthday.",
+        "ipa": "ʃiː ˈhæznt gɒt ˈɛni plænz fɔː hɜː ˈkʌmɪŋ ˈbɜːθdeɪ.",
+        "tag": "PLANS ",
+        "meaning": "Cô ấy chưa có kế hoạch gì cho tiệc sinh nhật sắp tới của mình cả."
+    },
+    {
+        "sentence": "She is wearing shoes with HIGH heels.",
+        "ipa": "ʃiː ɪz ˈweərɪŋ ʃuːz wɪð haɪ hiːlz.",
+        "tag": "HIGH ",
+        "meaning": "Cô ta đang mang giày có gót cao."
+    },
+    {
+        "sentence": "There are several MEANS of solving the problem.",
+        "ipa": "ðeər ɑː ˈsɛvrəl miːnz ɒv ˈsɒlvɪŋ ðə ˈprɒbləm.",
+        "tag": "MEANS ",
+        "meaning": "Có nhiều cách để giải quyết vấn đề."
+    },
+    {
+        "sentence": "He RECEIVED yesterday a wedding invitation from his ex wife.",
+        "ipa": "hiː rɪˈsiːvd ˈjɛstədeɪ ə ˈwɛdɪŋ ˌɪnvɪˈteɪʃən frɒm hɪz ɛks waɪf.",
+        "tag": "RECEIVED",
+        "meaning": "Hôm qua ông nhận được thiệp mời đám cưới của vợ cũ."
+    }
+]

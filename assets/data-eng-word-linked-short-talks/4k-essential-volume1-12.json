@@ -1,0 +1,222 @@
+[
+    {
+        "word": "alone",
+        "ipa": "əˈləʊn",
+        "type": "adj",
+        "tag": "một mình",
+        "meaning": "If someone is alone, they are not with another person.",
+        "context": "Nếu ai đó ở một mình, họ không ở cùng người khác.",
+        "ex": "The boy wanted to be alone to think.",
+        "ipaExTrans": "ðə bɔɪ ˈwɒntɪd tuː biː əˈləʊn tuː θɪŋk.",
+        "exMeaning": "Chàng trai muốn ở một mình để suy nghĩ."
+    },
+    {
+        "word": "apartment",
+        "ipa": "əˈpɑːtmənt",
+        "type": "n",
+        "tag": "căn hộ, chung cư",
+        "meaning": "An apartment is a set of rooms in a building where people live.",
+        "context": "Một căn hộ là một tập hợp các phòng trong một tòa nhà nơi mọi người sống.",
+        "ex": "She has a nice apartment in the city.",
+        "ipaExTrans": "ʃiː hæz ə naɪs əˈpɑːtmənt ɪn ðə ˈsɪti.",
+        "exMeaning": "Cô ấy có một căn hộ đẹp trong thành phố."
+    },
+    {
+        "word": "article",
+        "ipa": "ˈɑːtɪkl",
+        "type": "n",
+        "tag": "bài báo",
+        "meaning": "An article is a story in a newspaper or magazine.",
+        "context": "Một bài báo là một câu chuyện trên một tờ báo hoặc tạp chí.",
+        "ex": "Did you read the article in the newspaper about the soccer game?",
+        "ipaExTrans": "dɪd juː riːd ði ˈɑːtɪkl ɪn ðə ˈnjuːzˌpeɪpər əˈbaʊt ðə ˈsɒkə geɪm?",
+        "exMeaning": "Bạn đã đọc bài báo trên báo về trò chơi bóng đá?"
+    },
+    {
+        "word": "artist",
+        "ipa": "ˈɑːtɪst",
+        "type": "n",
+        "tag": "họa sĩ",
+        "meaning": "An artist is a person who paints, draws, or makes sculptures.",
+        "context": "Một nghệ sĩ là một người vẽ, vẽ hoặc tạo ra các tác phẩm điêu khắc.",
+        "ex": "He went to Paris to become an artist.",
+        "ipaExTrans": "hiː wɛnt tuː ˈpærɪs tuː bɪˈkʌm ən ˈɑːtɪst.",
+        "exMeaning": "Anh đến Paris để trở thành một nghệ sĩ."
+    },
+    {
+        "word": "attitude",
+        "ipa": "ˈætɪtjuːd",
+        "type": "n",
+        "tag": "Thái độ",
+        "meaning": "Someone’s attitude is the way they feel and think.",
+        "context": "Thái độ của ai đó là cách họ cảm nhận và suy nghĩ.",
+        "ex": "John has a bad attitude. He’s always angry.",
+        "ipaExTrans": "ʤɒn hæz ə bæd ˈætɪtjuːd. hiːz ˈɔːlweɪz ˈæŋgri.",
+        "exMeaning": "John có thái độ không tốt. Anh ấy luôn tức giận."
+    },
+    {
+        "word": "compare",
+        "ipa": "kəmˈpeə",
+        "type": "v",
+        "tag": "đối chiếu",
+        "meaning": "To compare means to say how two things are the same and different.",
+        "context": "Để so sánh có nghĩa là nói hai thứ giống nhau và khác nhau như thế nào.",
+        "ex": "If you compare cats and dogs, you’ll see that they’re both good pets.",
+        "ipaExTrans": "ɪf juː kəmˈpeə kæts ænd dɒgz, juːl siː ðæt ðeə bəʊθ gʊd pɛts.",
+        "exMeaning": "Nếu bạn so sánh mèo và chó, bạn sẽ thấy rằng chúng là cả hai thú cưng tốt."
+    },
+    {
+        "word": "judge",
+        "ipa": "ˈʤʌʤ",
+        "type": "v",
+        "tag": "thẩm phán",
+        "meaning": "To judge something is to say if it is good or bad.",
+        "context": "Đánh giá một cái gì đó là nói nếu nó tốt hay xấu.",
+        "ex": "The boy was going to judge how his mother’s turkey tasted.",
+        "ipaExTrans": "ðə bɔɪ wɒz ˈgəʊɪŋ tuː ˈʤʌʤ haʊ hɪz ˈmʌðəz ˈtɜːki ˈteɪstɪd.",
+        "exMeaning": "Cậu bé sẽ phán xét cách mẹ con gà tây của mình nếm thử."
+    },
+    {
+        "word": "magazine",
+        "ipa": "ˌmægəˈziːn",
+        "type": "n",
+        "tag": "tạp chí",
+        "meaning": "A magazine is a regular publication with news, stories, and articles",
+        "context": "Một tạp chí là một ấn phẩm thường xuyên với tin tức, câu chuyện và bài viết",
+        "ex": "She likes to read fashion magazines.",
+        "ipaExTrans": "ʃiː laɪks tuː riːd ˈfæʃən ˌmægəˈziːnz.",
+        "exMeaning": "Cô ấy thích đọc tạp chí thời trang."
+    },
+    {
+        "word": "material",
+        "ipa": "məˈtɪərɪəl",
+        "type": "n",
+        "tag": "vật chất, vật liệu",
+        "meaning": "A material is what is used to make something",
+        "context": "Một vật liệu là những gì được sử dụng để làm một cái gì đó",
+        "ex": "Brick is a good material for building houses.",
+        "ipaExTrans": "brɪk ɪz ə gʊd məˈtɪərɪəl fɔː ˈbɪldɪŋ ˈhaʊzɪz.",
+        "exMeaning": "Gạch là một vật liệu tốt để xây dựng nhà ở."
+    },
+    {
+        "word": "meal",
+        "ipa": "miːl",
+        "type": "n",
+        "tag": "bữa ăn",
+        "meaning": "A meal is a time when food is eaten like breakfast, lunch, or dinner.",
+        "context": "Một bữa ăn là thời gian thực phẩm được ăn như bữa sáng, bữa trưa hoặc bữa tối.",
+        "ex": "Breakfast is my favorite meal because I enjoy breakfast foods.",
+        "ipaExTrans": "ˈbrɛkfəst ɪz maɪ ˈfeɪvərɪt miːl bɪˈkɒz aɪ ɪnˈʤɔɪ ˈbrɛkfəst fuːdz.",
+        "exMeaning": "Bữa sáng là bữa ăn yêu thích của tôi vì tôi thích đồ ăn sáng."
+    },
+    {
+        "word": "method",
+        "ipa": "ˈmɛθəd",
+        "type": "n",
+        "tag": "phương pháp",
+        "meaning": "A method is the way to do something.",
+        "context": "Một phương pháp là cách để làm một cái gì đó.",
+        "ex": "One method to remember things is to tie a string around your finger",
+        "ipaExTrans": "wʌn ˈmɛθəd tuː rɪˈmɛmbə θɪŋz ɪz tuː taɪ ə strɪŋ əˈraʊnd jɔː ˈfɪŋgə",
+        "exMeaning": "Một phương pháp để ghi nhớ mọi thứ là buộc một chuỗi quanh ngón tay của bạn"
+    },
+    {
+        "word": "neighbor",
+        "ipa": "ˈneɪbə",
+        "type": "n",
+        "tag": "hàng xóm",
+        "meaning": "A neighbor is a person who lives near you.",
+        "context": "Hàng xóm là một người sống gần bạn.",
+        "ex": "I like my neighbor because he’s very friendly.",
+        "ipaExTrans": "aɪ laɪk maɪ ˈneɪbə bɪˈkɒz hiːz ˈvɛri ˈfrɛndli.",
+        "exMeaning": "Tôi thích hàng xóm của mình vì anh ấy rất thân thiện."
+    },
+    {
+        "word": "professional",
+        "ipa": "prəˈfɛʃənl",
+        "type": "adj",
+        "tag": "chuyên nghiệp",
+        "meaning": "If something is professional, it deals with work that uses special skills.",
+        "context": "Nếu một cái gì đó là chuyên nghiệp, nó liên quan đến công việc sử dụng các kỹ năng đặc biệt.",
+        "ex": "If you want to be a pilot, you must have professional training.",
+        "ipaExTrans": "ɪf juː wɒnt tuː biː ə ˈpaɪlət, juː mʌst hæv prəˈfɛʃənl ˈtreɪnɪŋ.",
+        "exMeaning": "Nếu bạn muốn trở thành một phi công, bạn phải được đào tạo chuyên nghiệp."
+    },
+    {
+        "word": "profit",
+        "ipa": "ˈprɒfɪt",
+        "type": "n",
+        "tag": "lợi nhuận",
+        "meaning": "A profit is the extra money you make when you sell something.",
+        "context": "Lợi nhuận là số tiền bạn kiếm được khi bán một thứ gì đó.",
+        "ex": "I made a small profit from selling my old clothes.",
+        "ipaExTrans": "aɪ meɪd ə smɔːl ˈprɒfɪt frɒm ˈsɛlɪŋ maɪ əʊld kləʊðz.",
+        "exMeaning": "Tôi đã kiếm được một khoản lợi nhuận nhỏ từ việc bán quần áo cũ của mình."
+    },
+    {
+        "word": "quality",
+        "ipa": "ˈkwɒlɪti",
+        "type": "n",
+        "tag": "chất lượng",
+        "meaning": "The quality of something is how good it is.",
+        "context": "Chất lượng của một cái gì đó là tốt như thế nào.",
+        "ex": "The quality of his car is very good.",
+        "ipaExTrans": "ðə ˈkwɒlɪti ɒv hɪz kɑːr ɪz ˈvɛri gʊd.",
+        "exMeaning": "Chất lượng xe của anh ấy rất tốt."
+    },
+    {
+        "word": "shape",
+        "ipa": "ʃeɪp",
+        "type": "n",
+        "tag": "hình dạng",
+        "meaning": "A shape is a simple form like a square or circle",
+        "context": "Hình dạng là một hình thức đơn giản như hình vuông hoặc hình tròn",
+        "ex": "The triangle is my favorite shape.",
+        "ipaExTrans": "ðə ˈtraɪæŋgl ɪz maɪ ˈfeɪvərɪt ʃeɪp.",
+        "exMeaning": "Hình tam giác là hình dạng yêu thích của tôi."
+    },
+    {
+        "word": "space",
+        "ipa": "speɪs",
+        "type": "n",
+        "tag": "không gian",
+        "meaning": "A space is an empty area.",
+        "context": "Một không gian là một khu vực trống.",
+        "ex": "I don’t have much space for things in my small house",
+        "ipaExTrans": "aɪ dəʊnt hæv mʌʧ speɪs fɔː θɪŋz ɪn maɪ smɔːl haʊs",
+        "exMeaning": "Tôi không có nhiều không gian cho những thứ trong ngôi nhà nhỏ của mình"
+    },
+    {
+        "word": "stair",
+        "ipa": "steə",
+        "type": "n",
+        "tag": "cầu thang",
+        "meaning": "Stairs are the things that are used to go up in a building.",
+        "context": "Cầu thang là những thứ được sử dụng để đi lên trong một tòa nhà.",
+        "ex": "You can take the stairs to the second floor.",
+        "ipaExTrans": "juː kæn teɪk ðə steəz tuː ðə ˈsɛkənd flɔː.",
+        "exMeaning": "Bạn có thể đi cầu thang lên tầng hai."
+    },
+    {
+        "word": "symbol",
+        "ipa": "ˈsɪmbəl",
+        "type": "n",
+        "tag": "Biểu tượng",
+        "meaning": "A symbol is a thing that stands for something else.",
+        "context": "Một biểu tượng là một thứ đại diện cho một cái gì đó khác.",
+        "ex": "This symbol tells us that we cannot smoke in this area.",
+        "ipaExTrans": "ðɪs ˈsɪmbəl tɛlz ʌs ðæt wiː ˈkænɒt sməʊk ɪn ðɪs ˈeərɪə.",
+        "exMeaning": "Biểu tượng này cho chúng ta biết rằng chúng ta không thể hút thuốc trong khu vực này."
+    },
+    {
+        "word": "thin",
+        "ipa": "θɪn",
+        "type": "adj",
+        "tag": "gầy, lưa thưa",
+        "meaning": "If someone or something is thin, they are not fat.",
+        "context": "Nếu ai đó hoặc một cái gì đó mỏng, họ không béo.",
+        "ex": "The man was thin because he didn’t eat much.",
+        "ipaExTrans": "ðə mæn wɒz θɪn bɪˈkɒz hiː dɪdnt iːt mʌʧ.",
+        "exMeaning": "Người đàn ông gầy gò vì anh ta không ăn nhiều."
+    }
+]

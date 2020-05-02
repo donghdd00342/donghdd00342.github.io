@@ -1,0 +1,1783 @@
+[
+    {
+        "word": "side",
+        "type": "noun, verb",
+        "ipa": "saɪd",
+        "meaning": "bên",
+        "ex": "He has a humorous and poetic side, too.",
+        "ipaExTrans": "hiː hæz ə ˈhjuːmərəs ænd pəʊˈɛtɪk saɪd, tuː.",
+        "exMeaning": "Anh ấy cũng có một mặt hài hước và thơ mộng."
+    },
+    {
+        "word": "subject",
+        "type": "noun, adjective, adverb",
+        "ipa": "ˈsʌbʤɪkt",
+        "meaning": "môn học",
+        "ex": "She forced the subject from her mind.",
+        "ipaExTrans": "ʃiː fɔːst ðə ˈsʌbʤɪkt frɒm hɜː maɪnd.",
+        "exMeaning": "Cô buộc chủ đề từ tâm trí của mình."
+    },
+    {
+        "word": "space",
+        "type": "noun, verb",
+        "ipa": "speɪs",
+        "meaning": "không gian",
+        "ex": "I didn't see a space ship!",
+        "ipaExTrans": "aɪ dɪdnt siː ə speɪs ʃɪp!",
+        "exMeaning": "Tôi đã không nhìn thấy một con tàu không gian!"
+    },
+    {
+        "word": "rule",
+        "type": "noun, verb",
+        "ipa": "ruːl",
+        "meaning": "qui định",
+        "ex": "But I didn't make that rule up.",
+        "ipaExTrans": "bʌt aɪ dɪdnt meɪk ðæt ruːl ʌp.",
+        "exMeaning": "Nhưng tôi đã không làm cho quy tắc đó lên."
+    },
+    {
+        "word": "stock",
+        "type": "noun, adjective, verb",
+        "ipa": "stɒk",
+        "meaning": "cổ phần",
+        "ex": "Guess we should start stock piling bottles.",
+        "ipaExTrans": "gɛs wiː ʃʊd stɑːt stɒk ˈpaɪlɪŋ ˈbɒtlz.",
+        "exMeaning": "Đoán chúng ta nên bắt đầu đóng chai cổ phiếu."
+    },
+    {
+        "word": "weather",
+        "type": "noun, verb",
+        "ipa": "ˈwɛðə",
+        "meaning": "thời tiết",
+        "ex": "I'm surprised to say the weather was better.",
+        "ipaExTrans": "aɪm səˈpraɪzd tuː seɪ ðə ˈwɛðə wɒz ˈbɛtə.",
+        "exMeaning": "Tôi ngạc nhiên khi nói thời tiết tốt hơn."
+    },
+    {
+        "word": "chance",
+        "type": "noun, adjective, verb",
+        "ipa": "ʧɑːns",
+        "meaning": "cơ hội",
+        "ex": "You had your chance to solve it on your own.",
+        "ipaExTrans": "juː hæd jɔː ʧɑːns tuː sɒlv ɪt ɒn jɔːr əʊn.",
+        "exMeaning": "Bạn đã có cơ hội để tự mình giải quyết nó."
+    },
+    {
+        "word": "figure",
+        "type": "noun, verb",
+        "ipa": "ˈfɪgə",
+        "meaning": "nhân vật",
+        "ex": "We can't figure it out.",
+        "ipaExTrans": "wiː kɑːnt ˈfɪgər ɪt aʊt.",
+        "exMeaning": "Chúng tôi không thể tìm ra nó."
+    },
+    {
+        "word": "man",
+        "type": "noun, verb, interjection",
+        "ipa": "mæn",
+        "meaning": "Đàn ông",
+        "ex": "The little man shook his bald head.",
+        "ipaExTrans": "ðə ˈlɪtl mæn ʃʊk hɪz bɔːld hɛd.",
+        "exMeaning": "Người đàn ông nhỏ bé lắc đầu hói."
+    },
+    {
+        "word": "model",
+        "type": "noun, verb",
+        "ipa": "ˈmɒdl",
+        "meaning": "mô hình",
+        "ex": "This model came out back this winter.",
+        "ipaExTrans": "ðɪs ˈmɒdl keɪm aʊt bæk ðɪs ˈwɪntə.",
+        "exMeaning": "Mô hình này đã trở lại vào mùa đông này."
+    },
+    {
+        "word": "source",
+        "type": "noun, verb",
+        "ipa": "sɔːs",
+        "meaning": "nguồn",
+        "ex": "So far, she seemed to be his best source of information, anyway.",
+        "ipaExTrans": "səʊ fɑː, ʃiː siːmd tuː biː hɪz bɛst sɔːs ɒv ˌɪnfəˈmeɪʃən, ˈɛnɪweɪ.",
+        "exMeaning": "Cho đến nay, dù sao, cô dường như là nguồn thông tin tốt nhất của anh."
+    },
+    {
+        "word": "beginning",
+        "type": "noun, adjective, verb",
+        "ipa": "bɪˈgɪnɪŋ",
+        "meaning": "bắt đầu",
+        "ex": "She gazed up at him, her heart beginning to flutter.",
+        "ipaExTrans": "ʃiː geɪzd ʌp æt hɪm, hɜː hɑːt bɪˈgɪnɪŋ tuː ˈflʌtə.",
+        "exMeaning": "Cô ngước nhìn anh, trái tim cô bắt đầu rung động."
+    },
+    {
+        "word": "earth",
+        "type": "noun, verb",
+        "ipa": "ɜːθ",
+        "meaning": "Trái đất",
+        "ex": "The leader of the bad guys on earth died and was replaced.",
+        "ipaExTrans": "ðə ˈliːdər ɒv ðə bæd gaɪz ɒn ɜːθ daɪd ænd wɒz rɪˈpleɪst.",
+        "exMeaning": "Thủ lĩnh của những kẻ xấu trên trái đất đã chết và được thay thế."
+    },
+    {
+        "word": "program",
+        "type": "noun, verb",
+        "ipa": "ˈprəʊgræm",
+        "meaning": "chương trình",
+        "ex": "Jessi watched her program a new contact into it.",
+        "ipaExTrans": "Jessi wɒʧt hɜː ˈprəʊgræm ə njuː ˈkɒntækt ˈɪntuː ɪt.",
+        "exMeaning": "Jessi xem chương trình của cô một liên hệ mới vào nó."
+    },
+    {
+        "word": "chicken",
+        "type": "noun, adjective",
+        "ipa": "ˈʧɪkɪn",
+        "meaning": "thịt gà",
+        "ex": "She left the chicken coup and broke another trail to the barn.",
+        "ipaExTrans": "ʃiː lɛft ðə ˈʧɪkɪn kuː ænd brəʊk əˈnʌðə treɪl tuː ðə bɑːn.",
+        "exMeaning": "Cô rời khỏi cuộc đảo chính gà và phá một con đường mòn khác đến chuồng."
+    },
+    {
+        "word": "design",
+        "type": "noun, verb",
+        "ipa": "dɪˈzaɪn",
+        "meaning": "thiết kế",
+        "ex": "Sonya sat in the drawing room at the round table, copying a design for embroidery.",
+        "ipaExTrans": "ˈsəʊnjə sæt ɪn ðə ˈdrɔːɪŋ ruːm æt ðə raʊnd ˈteɪbl, ˈkɒpiɪŋ ə dɪˈzaɪn fɔːr ɪmˈbrɔɪdəri.",
+        "exMeaning": "Sonya ngồi trong phòng vẽ ở bàn tròn, sao chép một thiết kế để thêu."
+    },
+    {
+        "word": "feature",
+        "type": "noun, verb",
+        "ipa": "ˈfiːʧə",
+        "meaning": "đặc tính",
+        "ex": "Her favorite feature, her eyes, had always been a pretty shade of turquoise.",
+        "ipaExTrans": "hɜː ˈfeɪvərɪt ˈfiːʧə, hɜːr aɪz, hæd ˈɔːlweɪz biːn ə ˈprɪti ʃeɪd ɒv ˈtɜːkwɑːz.",
+        "exMeaning": "Đặc điểm yêu thích của cô ấy, đôi mắt, luôn là một màu ngọc lam đẹp."
+    },
+    {
+        "word": "head",
+        "type": "noun, adjective, verb",
+        "ipa": "hɛd",
+        "meaning": "cái đầu",
+        "ex": "She leaned her head on his shoulder.",
+        "ipaExTrans": "ʃiː liːnd hɜː hɛd ɒn hɪz ˈʃəʊldə.",
+        "exMeaning": "Cô dựa đầu vào vai anh."
+    },
+    {
+        "word": "material",
+        "type": "noun, adjective",
+        "ipa": "məˈtɪərɪəl",
+        "meaning": "vật chất",
+        "ex": "All scientific material from the past is making its way online.",
+        "ipaExTrans": "ɔːl ˌsaɪənˈtɪfɪk məˈtɪərɪəl frɒm ðə pɑːst ɪz ˈmeɪkɪŋ ɪts weɪ ˈɒnˌlaɪn.",
+        "exMeaning": "Tất cả các tài liệu khoa học từ quá khứ đang thực hiện trực tuyến."
+    },
+    {
+        "word": "purpose",
+        "type": "noun, verb",
+        "ipa": "ˈpɜːpəs",
+        "meaning": "mục đích",
+        "ex": "His purpose for bringing her here was unclear.",
+        "ipaExTrans": "hɪz ˈpɜːpəs fɔː ˈbrɪŋɪŋ hɜː hɪə wɒz ʌnˈklɪə.",
+        "exMeaning": "Mục đích của anh ta để đưa cô đến đây là không rõ ràng."
+    },
+    {
+        "word": "question",
+        "type": "noun, verb",
+        "ipa": "ˈkwɛsʧən",
+        "meaning": "câu hỏi",
+        "ex": "The big question was, would her confidence last?",
+        "ipaExTrans": "ðə bɪg ˈkwɛsʧən wɒz, wʊd hɜː ˈkɒnfɪdəns lɑːst?",
+        "exMeaning": "Câu hỏi lớn là, sự tự tin của cô ấy sẽ kéo dài?"
+    },
+    {
+        "word": "rock",
+        "type": "noun, verb",
+        "ipa": "rɒk",
+        "meaning": "đá",
+        "ex": "The bottom was solid rock covered with fine sand.",
+        "ipaExTrans": "ðə ˈbɒtəm wɒz ˈsɒlɪd rɒk ˈkʌvəd wɪð faɪn sænd.",
+        "exMeaning": "Đáy là đá rắn phủ đầy cát mịn."
+    },
+    {
+        "word": "salt",
+        "type": "noun, adjective, verb",
+        "ipa": "sɔːlt",
+        "meaning": "Muối",
+        "ex": "You can get that salt shaker now, Cynthia.",
+        "ipaExTrans": "juː kæn gɛt ðæt sɔːlt ˈʃeɪkə naʊ, ˈsɪnθɪə.",
+        "exMeaning": "Bây giờ bạn có thể lấy cái lọ muối đó, Cynthia."
+    },
+    {
+        "word": "act",
+        "type": "noun, verb",
+        "ipa": "ækt",
+        "meaning": "hành động",
+        "ex": "He did not act as if it was bothering him.",
+        "ipaExTrans": "hiː dɪd nɒt ækt æz ɪf ɪt wɒz ˈbɒðərɪŋ hɪm.",
+        "exMeaning": "Anh không hành động như thể nó đang làm phiền anh."
+    },
+    {
+        "word": "birth",
+        "type": "noun, verb",
+        "ipa": "bɜːθ",
+        "meaning": "Sinh",
+        "ex": "He even had a birth certificate for me.",
+        "ipaExTrans": "hiː ˈiːvən hæd ə bɜːθ səˈtɪfɪkɪt fɔː miː.",
+        "exMeaning": "Anh ấy thậm chí còn có giấy khai sinh cho tôi."
+    },
+    {
+        "word": "car",
+        "type": "noun, adjective",
+        "ipa": "kɑː",
+        "meaning": "xe hơi",
+        "ex": "Her car was in full view.",
+        "ipaExTrans": "hɜː kɑː wɒz ɪn fʊl vjuː.",
+        "exMeaning": "Chiếc xe của cô đã ở trong tầm nhìn đầy đủ."
+    },
+    {
+        "word": "dog",
+        "type": "noun, verb",
+        "ipa": "dɒg",
+        "meaning": "chó",
+        "ex": "Does a dog have ears?",
+        "ipaExTrans": "dʌz ə dɒg hæv ɪəz?",
+        "exMeaning": "Một con chó có tai?"
+    },
+    {
+        "word": "object",
+        "type": "noun, verb",
+        "ipa": "ˈɒbʤɪkt",
+        "meaning": "vật",
+        "ex": "He shoved a shiny red object at her.",
+        "ipaExTrans": "hiː ʃʌvd ə ˈʃaɪni rɛd ˈɒbʤɪkt æt hɜː.",
+        "exMeaning": "Anh đẩy một vật màu đỏ sáng bóng vào cô."
+    },
+    {
+        "word": "scale",
+        "type": "noun, verb",
+        "ipa": "skeɪl",
+        "meaning": "tỉ lệ",
+        "ex": "A geological map of the whole continent, on the scale of 50 m.",
+        "ipaExTrans": "ə ʤɪəˈlɒʤɪkəl mæp ɒv ðə həʊl ˈkɒntɪnənt, ɒn ðə skeɪl ɒv 50 ɛm.",
+        "exMeaning": "Một bản đồ địa chất của toàn lục địa, trên tỷ lệ 50 m."
+    },
+    {
+        "word": "sun",
+        "type": "noun, verb",
+        "ipa": "sʌn",
+        "meaning": "mặt trời",
+        "ex": "When she opened her eyes the sun was directly overhead.",
+        "ipaExTrans": "wɛn ʃiː ˈəʊpənd hɜːr aɪz ðə sʌn wɒz dɪˈrɛktli ˈəʊvɛhɛd.",
+        "exMeaning": "Khi cô mở mắt ra, mặt trời trực tiếp trên đầu."
+    },
+    {
+        "word": "note",
+        "type": "noun, verb",
+        "ipa": "nəʊt",
+        "meaning": "Ghi chú",
+        "ex": "She grabbed the note pad and wrote a brand name and quantity.",
+        "ipaExTrans": "ʃiː græbd ðə nəʊt pæd ænd rəʊt ə brænd neɪm ænd ˈkwɒntɪti.",
+        "exMeaning": "Cô lấy tờ giấy ghi chú và viết một tên thương hiệu và số lượng."
+    },
+    {
+        "word": "profit",
+        "type": "noun, verb",
+        "ipa": "ˈprɒfɪt",
+        "meaning": "lợi nhuận",
+        "ex": "I turned a good profit on that piece of real estate.",
+        "ipaExTrans": "aɪ tɜːnd ə gʊd ˈprɒfɪt ɒn ðæt piːs ɒv rɪəl ɪsˈteɪt.",
+        "exMeaning": "Tôi đã kiếm được lợi nhuận tốt trên mảnh bất động sản đó."
+    },
+    {
+        "word": "rent",
+        "type": "noun, verb",
+        "ipa": "rɛnt",
+        "meaning": "thuê",
+        "ex": "Why don't I just rent one?",
+        "ipaExTrans": "waɪ dəʊnt aɪ ʤʌst rɛnt wʌn?",
+        "exMeaning": "Tại sao tôi không thuê một cái?"
+    },
+    {
+        "word": "speed",
+        "type": "noun, verb",
+        "ipa": "spiːd",
+        "meaning": "tốc độ",
+        "ex": "He drove the speed limit - no more, no less.",
+        "ipaExTrans": "hiː drəʊv ðə spiːd ˈlɪmɪt - nəʊ mɔː, nəʊ lɛs.",
+        "exMeaning": "Anh lái xe giới hạn tốc độ - không hơn, không kém."
+    },
+    {
+        "word": "style",
+        "type": "noun, verb",
+        "ipa": "staɪl",
+        "meaning": "Phong cách",
+        "ex": "Her hair was short and dark and worn in an easy style that seemed to require little care.",
+        "ipaExTrans": "hɜː heə wɒz ʃɔːt ænd dɑːk ænd wɔːn ɪn ən ˈiːzi staɪl ðæt siːmd tuː rɪˈkwaɪə ˈlɪtl keə.",
+        "exMeaning": "Tóc của cô ấy ngắn và tối và được mặc theo kiểu dễ dàng mà dường như không cần chăm sóc nhiều."
+    },
+    {
+        "word": "war",
+        "type": "noun, verb",
+        "ipa": "wɔː",
+        "meaning": "chiến tranh",
+        "ex": "The war is on.",
+        "ipaExTrans": "ðə wɔːr ɪz ɒn.",
+        "exMeaning": "Cuộc chiến đang diễn ra."
+    },
+    {
+        "word": "bank",
+        "type": "noun, verb",
+        "ipa": "bæŋk",
+        "meaning": "ngân hàng",
+        "ex": "A bank of clouds was building to the northeast.",
+        "ipaExTrans": "ə bæŋk ɒv klaʊdz wɒz ˈbɪldɪŋ tuː ðə ˌnɔːθˈiːst.",
+        "exMeaning": "Một dải mây đang xây dựng ở phía đông bắc."
+    },
+    {
+        "word": "craft",
+        "type": "noun, verb",
+        "ipa": "krɑːft",
+        "meaning": "thủ công",
+        "ex": "The craft door opened, and a figure strode out.",
+        "ipaExTrans": "ðə krɑːft dɔːr ˈəʊpənd, ænd ə ˈfɪgə strəʊd aʊt.",
+        "exMeaning": "Cánh cửa thủ công mở ra, và một con số sải bước ra ngoài."
+    },
+    {
+        "word": "half",
+        "type": "noun, predeterminer, adverb",
+        "ipa": "hɑːf",
+        "meaning": "một nửa",
+        "ex": "More than half the hungry people in the world live in just these three nations—nations that are all net food exporters.",
+        "ipaExTrans": "mɔː ðæn hɑːf ðə ˈhʌŋgri ˈpiːpl ɪn ðə wɜːld lɪv ɪn ʤʌst ðiːz θriː ˈneɪʃənz-ˈneɪʃənz ðæt ɑːr ɔːl nɛt fuːd ɛksˈpɔːtəz.",
+        "exMeaning": "Hơn một nửa số người đói trên thế giới chỉ sống trong ba quốc gia này, các quốc gia, tất cả đều là nhà xuất khẩu thực phẩm ròng."
+    },
+    {
+        "word": "inside",
+        "type": "noun, adjective, preposition",
+        "ipa": "ɪnˈsaɪd",
+        "meaning": "phía trong",
+        "ex": "There was not a sound inside of the cave.",
+        "ipaExTrans": "ðeə wɒz nɒt ə saʊnd ɪnˈsaɪd ɒv ðə keɪv.",
+        "exMeaning": "Không có âm thanh trong hang."
+    },
+    {
+        "word": "outside",
+        "type": "noun, adjective, preposition",
+        "ipa": "ˌaʊtˈsaɪd",
+        "meaning": "ở ngoài",
+        "ex": "Felipa said it was supposed to be nice outside today.",
+        "ipaExTrans": "Felipa sɛd ɪt wɒz səˈpəʊzd tuː biː naɪs ˌaʊtˈsaɪd təˈdeɪ.",
+        "exMeaning": "Felipa nói rằng nó được cho là tốt đẹp bên ngoài ngày hôm nay."
+    },
+    {
+        "word": "standard",
+        "type": "noun, adjective",
+        "ipa": "ˈstændəd",
+        "meaning": "Tiêu chuẩn",
+        "ex": "The standard day is longer than ours, about thirty hours instead of twenty-four, with that divided evenly between day and night.",
+        "ipaExTrans": "ðə ˈstændəd deɪ ɪz ˈlɒŋgə ðæn ˈaʊəz, əˈbaʊt ˈθɜːti ˈaʊəz ɪnˈstɛd ɒv ˈtwɛnti-fɔː, wɪð ðæt dɪˈvaɪdɪd ˈiːvənli bɪˈtwiːn deɪ ænd naɪt.",
+        "exMeaning": "Ngày tiêu chuẩn dài hơn chúng ta, khoảng ba mươi giờ thay vì hai mươi bốn, với sự phân chia đồng đều giữa ngày và đêm."
+    },
+    {
+        "word": "bus",
+        "type": "noun, verb",
+        "ipa": "bʌs",
+        "meaning": "xe buýt",
+        "ex": "I take the dad-gum bus to Atlantic City—I sure can take one to Scranton.",
+        "ipaExTrans": "aɪ teɪk ðə dæd-gʌm bʌs tuː ətˈlæntɪk ˈsɪti-aɪ ʃʊə kæn teɪk wʌn tuː Scranton.",
+        "exMeaning": "Tôi đi xe buýt Dad-gum đến Atlantic City, tôi chắc chắn có thể đi một chuyến đến Scranton."
+    },
+    {
+        "word": "exchange",
+        "type": "noun, verb",
+        "ipa": "ɪksˈʧeɪnʤ",
+        "meaning": "Ví dụ",
+        "ex": "The exchange student was growling at her.",
+        "ipaExTrans": "ði ɪksˈʧeɪnʤ ˈstjuːdənt wɒz ˈgraʊlɪŋ æt hɜː.",
+        "exMeaning": "Học sinh trao đổi đang gầm gừ với cô."
+    },
+    {
+        "word": "eye",
+        "type": "noun, verb",
+        "ipa": "aɪ",
+        "meaning": "con mắt",
+        "ex": "I feel the twinkle of his eye in his handshake.",
+        "ipaExTrans": "aɪ fiːl ðə ˈtwɪŋkl ɒv hɪz aɪ ɪn hɪz ˈhændʃeɪk.",
+        "exMeaning": "Tôi cảm nhận được sự lấp lánh của đôi mắt anh trong cái bắt tay."
+    },
+    {
+        "word": "fire",
+        "type": "noun, verb",
+        "ipa": "ˈfaɪə",
+        "meaning": "ngọn lửa",
+        "ex": "A fire burned brightly in the fireplace.",
+        "ipaExTrans": "ə ˈfaɪə bɜːnd ˈbraɪtli ɪn ðə ˈfaɪəˌpleɪs.",
+        "exMeaning": "Một ngọn lửa bùng cháy rực rỡ trong lò sưởi."
+    },
+    {
+        "word": "position",
+        "type": "noun, verb",
+        "ipa": "pəˈzɪʃən",
+        "meaning": "Chức vụ",
+        "ex": "She fluffed the pillow and changed position, unable to sleep.",
+        "ipaExTrans": "ʃiː flʌft ðə ˈpɪləʊ ænd ʧeɪnʤd pəˈzɪʃən, ʌnˈeɪbl tuː sliːp.",
+        "exMeaning": "Cô lộn gối và thay đổi tư thế, không thể ngủ được."
+    },
+    {
+        "word": "pressure",
+        "type": "noun, verb",
+        "ipa": "ˈprɛʃə",
+        "meaning": "sức ép",
+        "ex": "Let me put pressure on it.",
+        "ipaExTrans": "lɛt miː pʊt ˈprɛʃər ɒn ɪt.",
+        "exMeaning": "Hãy để tôi gây áp lực cho nó."
+    },
+    {
+        "word": "stress",
+        "type": "noun, verb",
+        "ipa": "strɛs",
+        "meaning": "nhấn mạnh",
+        "ex": "Diablo. He's Yancey's method of relieving stress and getting away from us women once in a while.",
+        "ipaExTrans": "Diablo. hiːz Yancey's ˈmɛθəd ɒv rɪˈliːvɪŋ strɛs ænd ˈgɛtɪŋ əˈweɪ frɒm ʌs ˈwɪmɪn wʌns ɪn ə waɪl.",
+        "exMeaning": "Diablo. Anh ấy là phương pháp của Yancey để giảm căng thẳng và tránh xa phụ nữ chúng ta thỉnh thoảng."
+    },
+    {
+        "word": "advantage",
+        "type": "noun, verb",
+        "ipa": "ədˈvɑːntɪʤ",
+        "meaning": "lợi thế",
+        "ex": "We took full advantage of our opportunity.",
+        "ipaExTrans": "wiː tʊk fʊl ədˈvɑːntɪʤ ɒv ˈaʊər ˌɒpəˈtjuːnɪti.",
+        "exMeaning": "Chúng tôi tận dụng tối đa cơ hội của chúng tôi."
+    },
+    {
+        "word": "benefit",
+        "type": "noun, verb",
+        "ipa": "ˈbɛnɪfɪt",
+        "meaning": "lợi ích",
+        "ex": "If you think you'd benefit, you probably will.",
+        "ipaExTrans": "ɪf juː θɪŋk juːd ˈbɛnɪfɪt, juː ˈprɒbəbli wɪl.",
+        "exMeaning": "Nếu bạn nghĩ rằng bạn có lợi, có lẽ bạn sẽ làm được."
+    },
+    {
+        "word": "box",
+        "type": "noun, verb",
+        "ipa": "bɒks",
+        "meaning": "cái hộp",
+        "ex": "Her jewelry box was tiny and wooden.",
+        "ipaExTrans": "hɜː ˈʤuːəlri bɒks wɒz ˈtaɪni ænd ˈwʊdn.",
+        "exMeaning": "Hộp trang sức của cô nhỏ xíu và bằng gỗ."
+    },
+    {
+        "word": "frame",
+        "type": "noun, verb",
+        "ipa": "freɪm",
+        "meaning": "khung",
+        "ex": "He walked around to the driver's side, ducking his head as he folded his long frame into the car.",
+        "ipaExTrans": "hiː wɔːkt əˈraʊnd tuː ðə ˈdraɪvəz saɪd, ˈdʌkɪŋ hɪz hɛd æz hiː ˈfəʊldɪd hɪz lɒŋ freɪm ˈɪntuː ðə kɑː.",
+        "exMeaning": "Anh đi vòng qua phía tài xế, cúi đầu khi anh gập khung hình dài của mình vào trong xe."
+    },
+    {
+        "word": "issue",
+        "type": "noun, verb",
+        "ipa": "ˈɪʃuː",
+        "meaning": "vấn đề",
+        "ex": "Three days later the issue was settled.",
+        "ipaExTrans": "θriː deɪz ˈleɪtə ði ˈɪʃuː wɒz ˈsɛtld.",
+        "exMeaning": "Ba ngày sau vấn đề đã được giải quyết."
+    },
+    {
+        "word": "step",
+        "type": "noun, verb",
+        "ipa": "stɛp",
+        "meaning": "bươc",
+        "ex": "Step this way, please.",
+        "ipaExTrans": "stɛp ðɪs weɪ, pliːz.",
+        "exMeaning": "Bước này, xin vui lòng."
+    },
+    {
+        "word": "cycle",
+        "type": "noun, verb",
+        "ipa": "ˈsaɪkl",
+        "meaning": "đi xe đạp",
+        "ex": "The Alexander cycle was no less popular in Great Britain.",
+        "ipaExTrans": "ði ˌælɪgˈzɑːndə ˈsaɪkl wɒz nəʊ lɛs ˈpɒpjʊlər ɪn greɪt ˈbrɪtn.",
+        "exMeaning": "Chu kỳ Alexander không kém phần phổ biến ở Vương quốc Anh."
+    },
+    {
+        "word": "face",
+        "type": "noun, verb",
+        "ipa": "feɪs",
+        "meaning": "khuôn mặt",
+        "ex": "She made a face at him.",
+        "ipaExTrans": "ʃiː meɪd ə feɪs æt hɪm.",
+        "exMeaning": "Cô làm mặt cười với anh."
+    },
+    {
+        "word": "item",
+        "type": "noun, adverb",
+        "ipa": "ˈaɪtəm",
+        "meaning": "mục",
+        "ex": "If prices for an item fall, this is a net good.",
+        "ipaExTrans": "ɪf ˈpraɪsɪz fɔːr ən ˈaɪtəm fɔːl, ðɪs ɪz ə nɛt gʊd.",
+        "exMeaning": "Nếu giá cho một mặt hàng giảm, đây là một hàng hóa ròng."
+    },
+    {
+        "word": "metal",
+        "type": "noun, verb",
+        "ipa": "ˈmɛtl",
+        "meaning": "kim loại",
+        "ex": "The porch posts were black metal with a filigree design.",
+        "ipaExTrans": "ðə pɔːʧ pəʊsts wɜː blæk ˈmɛtl wɪð ə ˈfɪlɪgriː dɪˈzaɪn.",
+        "exMeaning": "Các trụ hiên là kim loại màu đen với thiết kế đồ nư."
+    },
+    {
+        "word": "paint",
+        "type": "noun, verb",
+        "ipa": "peɪnt",
+        "meaning": "Sơn",
+        "ex": "I had to bring you here so I could paint a portrait.",
+        "ipaExTrans": "aɪ hæd tuː brɪŋ juː hɪə səʊ aɪ kʊd peɪnt ə ˈpɔːtrɪt.",
+        "exMeaning": "Tôi phải đưa bạn đến đây để tôi có thể vẽ một bức chân dung."
+    },
+    {
+        "word": "review",
+        "type": "noun, verb",
+        "ipa": "rɪˈvjuː",
+        "meaning": "ôn tập",
+        "ex": "Shall we review what you've learned?",
+        "ipaExTrans": "ʃæl wiː rɪˈvjuː wɒt juːv lɜːnt?",
+        "exMeaning": "Chúng ta sẽ xem lại những gì bạn đã học?"
+    },
+    {
+        "word": "room",
+        "type": "noun, verb",
+        "ipa": "ruːm",
+        "meaning": "phòng",
+        "ex": "Sometimes he even did it when there was a room full of people between them.",
+        "ipaExTrans": "ˈsʌmtaɪmz hiː ˈiːvən dɪd ɪt wɛn ðeə wɒz ə ruːm fʊl ɒv ˈpiːpl bɪˈtwiːn ðɛm.",
+        "exMeaning": "Đôi khi anh ấy đã làm điều đó khi có một căn phòng đầy người giữa họ."
+    },
+    {
+        "word": "screen",
+        "type": "noun, verb",
+        "ipa": "skriːn",
+        "meaning": "màn",
+        "ex": "She unhooked the screen and pushed it out.",
+        "ipaExTrans": "ʃiː ʌnˈhʊkt ðə skriːn ænd pʊʃt ɪt aʊt.",
+        "exMeaning": "Cô gỡ màn hình ra và đẩy nó ra."
+    },
+    {
+        "word": "structure",
+        "type": "noun, verb",
+        "ipa": "ˈstrʌkʧə",
+        "meaning": "kết cấu",
+        "ex": "He formalized the structure of medical inquiry as an independent science.",
+        "ipaExTrans": "hiː ˈfɔːməlaɪzd ðə ˈstrʌkʧər ɒv ˈmɛdɪkəl ɪnˈkwaɪəri æz ən ˌɪndɪˈpɛndənt ˈsaɪəns.",
+        "exMeaning": "Ông chính thức hóa cấu trúc của cuộc điều tra y tế như một khoa học độc lập."
+    },
+    {
+        "word": "view",
+        "type": "noun, verb",
+        "ipa": "vjuː",
+        "meaning": "lượt xem",
+        "ex": "You have a nice view from your apartment.",
+        "ipaExTrans": "juː hæv ə naɪs vjuː frɒm jɔːr əˈpɑːtmənt.",
+        "exMeaning": "Bạn có một cái nhìn tốt đẹp từ căn hộ của bạn."
+    },
+    {
+        "word": "account",
+        "type": "noun, verb",
+        "ipa": "əˈkaʊnt",
+        "meaning": "tài khoản",
+        "ex": "That account has $10,000 in it.",
+        "ipaExTrans": "ðæt əˈkaʊnt hæz $10,000 ɪn ɪt.",
+        "exMeaning": "Tài khoản đó có 10.000 đô la trong đó."
+    },
+    {
+        "word": "ball",
+        "type": "noun, verb",
+        "ipa": "bɔːl",
+        "meaning": "trái bóng",
+        "ex": "Julie never missed a ball, a promenade, or a play.",
+        "ipaExTrans": "ˈʤuːliː ˈnɛvə mɪst ə bɔːl, ə ˌprɒmɪˈnɑːd, ɔːr ə pleɪ.",
+        "exMeaning": "Julie không bao giờ bỏ lỡ một quả bóng, một lối đi dạo, hoặc một vở kịch."
+    },
+    {
+        "word": "discipline",
+        "type": "noun, verb",
+        "ipa": "ˈdɪsɪplɪn",
+        "meaning": "kỷ luật",
+        "ex": "The discipline was there before the Reformers.",
+        "ipaExTrans": "ðə ˈdɪsɪplɪn wɒz ðeə bɪˈfɔː ðə rɪˈfɔːməz.",
+        "exMeaning": "Kỷ luật đã có trước khi những người cải cách."
+    },
+    {
+        "word": "medium",
+        "type": "noun, adjective",
+        "ipa": "ˈmiːdiəm",
+        "meaning": "Trung bình",
+        "ex": "Wine of medium quality is grown on the banks of the Marne and the Aisne.",
+        "ipaExTrans": "waɪn ɒv ˈmiːdiəm ˈkwɒlɪti ɪz grəʊn ɒn ðə bæŋks ɒv ðə Marne ænd ði Aisne.",
+        "exMeaning": "Rượu vang chất lượng trung bình được trồng trên bờ Marne và Aisne."
+    },
+    {
+        "word": "share",
+        "type": "noun, verb",
+        "ipa": "ʃeə",
+        "meaning": "chia sẻ",
+        "ex": "I had no plans to share with Howie what I'd learned of his previous life.",
+        "ipaExTrans": "aɪ hæd nəʊ plænz tuː ʃeə wɪð Howie wɒt aɪd lɜːnt ɒv hɪz ˈpriːviəs laɪf.",
+        "exMeaning": "Tôi không có kế hoạch chia sẻ với Howie những gì tôi đã học được ở kiếp trước."
+    },
+    {
+        "word": "balance",
+        "type": "noun, verb",
+        "ipa": "ˈbæləns",
+        "meaning": "thăng bằng",
+        "ex": "The balance of the weekend went well after a slow start.",
+        "ipaExTrans": "ðə ˈbæləns ɒv ðə ˈwiːkˈɛnd wɛnt wɛl ˈɑːftər ə sləʊ stɑːt.",
+        "exMeaning": "Sự cân bằng của cuối tuần đã diễn ra tốt đẹp sau khi bắt đầu chậm."
+    },
+    {
+        "word": "bit",
+        "type": "noun, verb",
+        "ipa": "bɪt",
+        "meaning": "bit",
+        "ex": "Pain shot through her as Talon bit into one arm.",
+        "ipaExTrans": "peɪn ʃɒt θruː hɜːr æz ˈtælən bɪt ˈɪntuː wʌn ɑːm.",
+        "exMeaning": "Cơn đau xuyên qua cô khi Talon cắn vào một cánh tay."
+    },
+    {
+        "word": "black",
+        "type": "noun, verb, adjective",
+        "ipa": "blæk",
+        "meaning": "đen",
+        "ex": "It's just a black snake.",
+        "ipaExTrans": "ɪts ʤʌst ə blæk sneɪk.",
+        "exMeaning": "Nó chỉ là một con rắn đen."
+    },
+    {
+        "word": "bottom",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈbɒtəm",
+        "meaning": "dưới cùng",
+        "ex": "At the bottom of the hill a sharp turn waited.",
+        "ipaExTrans": "æt ðə ˈbɒtəm ɒv ðə hɪl ə ʃɑːp tɜːn ˈweɪtɪd.",
+        "exMeaning": "Dưới chân đồi một khúc cua sắc bén chờ đợi."
+    },
+    {
+        "word": "choice",
+        "type": "noun, adjective",
+        "ipa": "ʧɔɪs",
+        "meaning": "sự lựa chọn",
+        "ex": "At that moment there was a choice to make.",
+        "ipaExTrans": "æt ðæt ˈməʊmənt ðeə wɒz ə ʧɔɪs tuː meɪk.",
+        "exMeaning": "Tại thời điểm đó có một sự lựa chọn để thực hiện."
+    },
+    {
+        "word": "gift",
+        "type": "noun, verb",
+        "ipa": "gɪft",
+        "meaning": "quà tặng",
+        "ex": "I had one gift which especially pleased me.",
+        "ipaExTrans": "aɪ hæd wʌn gɪft wɪʧ ɪsˈpɛʃəli pliːzd miː.",
+        "exMeaning": "Tôi đã có một món quà đặc biệt làm tôi hài lòng."
+    },
+    {
+        "word": "impact",
+        "type": "noun, verb",
+        "ipa": "ˈɪmpækt",
+        "meaning": "sự va chạm",
+        "ex": "He was realizing the impact the lie had on their relationship.",
+        "ipaExTrans": "hiː wɒz ˈrɪəlaɪzɪŋ ði ˈɪmpækt ðə laɪ hæd ɒn ðeə rɪˈleɪʃənʃɪp.",
+        "exMeaning": "Anh nhận ra tác động của lời nói dối đối với mối quan hệ của họ."
+    },
+    {
+        "word": "machine",
+        "type": "noun, verb",
+        "ipa": "məˈʃiːn",
+        "meaning": "máy móc",
+        "ex": "The noise from the machine that circulated the oxygen frightened her.",
+        "ipaExTrans": "ðə nɔɪz frɒm ðə məˈʃiːn ðæt ˈsɜːkjʊleɪtɪd ði ˈɒksɪʤən ˈfraɪtnd hɜː.",
+        "exMeaning": "Tiếng ồn từ máy lưu thông oxy làm cô sợ hãi."
+    },
+    {
+        "word": "shape",
+        "type": "noun, verb",
+        "ipa": "ʃeɪp",
+        "meaning": "hình dạng",
+        "ex": "The dream took shape as it did every night.",
+        "ipaExTrans": "ðə driːm tʊk ʃeɪp æz ɪt dɪd ˈɛvri naɪt.",
+        "exMeaning": "Giấc mơ hình thành như mọi đêm."
+    },
+    {
+        "word": "tool",
+        "type": "noun, verb",
+        "ipa": "tuːl",
+        "meaning": "dụng cụ",
+        "ex": "The artists tool, be it brush or burin.",
+        "ipaExTrans": "ði ˈɑːtɪsts tuːl, biː ɪt brʌʃ ɔː ˈbjʊərɪn.",
+        "exMeaning": "Các công cụ nghệ sĩ, có thể là bàn chải hoặc burin."
+    },
+    {
+        "word": "wind",
+        "type": "noun, verb",
+        "ipa": "wɪnd",
+        "meaning": "gió",
+        "ex": "After sunset the wind had dropped.",
+        "ipaExTrans": "ˈɑːftə ˈsʌnsɛt ðə wɪnd hæd drɒpt.",
+        "exMeaning": "Sau khi mặt trời lặn gió đã buông."
+    },
+    {
+        "word": "address",
+        "type": "noun, verb",
+        "ipa": "əˈdrɛs",
+        "meaning": "Địa chỉ",
+        "ex": "My email address is in there, too.",
+        "ipaExTrans": "maɪ ˈiːmeɪl əˈdrɛs ɪz ɪn ðeə, tuː.",
+        "exMeaning": "Địa chỉ email của tôi cũng ở đó."
+    },
+    {
+        "word": "average",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈævərɪʤ",
+        "meaning": "Trung bình cộng",
+        "ex": "Our kind tend to live much longer than the average human.",
+        "ipaExTrans": "ˈaʊə kaɪnd tɛnd tuː lɪv mʌʧ ˈlɒŋgə ðæn ði ˈævərɪʤ ˈhjuːmən.",
+        "exMeaning": "Loại của chúng ta có xu hướng sống lâu hơn nhiều so với con người trung bình."
+    },
+    {
+        "word": "career",
+        "type": "noun, verb, adjective",
+        "ipa": "kəˈrɪə",
+        "meaning": "nghề nghiệp",
+        "ex": "You know how important my career is to me.",
+        "ipaExTrans": "juː nəʊ haʊ ɪmˈpɔːtənt maɪ kəˈrɪər ɪz tuː miː.",
+        "exMeaning": "Bạn biết tầm quan trọng của sự nghiệp đối với tôi."
+    },
+    {
+        "word": "culture",
+        "type": "noun, verb",
+        "ipa": "ˈkʌlʧə",
+        "meaning": "văn hóa",
+        "ex": "If only she understood our culture better.",
+        "ipaExTrans": "ɪf ˈəʊnli ʃiː ˌʌndəˈstʊd ˈaʊə ˈkʌlʧə ˈbɛtə.",
+        "exMeaning": "Giá như cô hiểu văn hóa của chúng ta hơn."
+    },
+    {
+        "word": "morning",
+        "type": "noun, adverb",
+        "ipa": "ˈmɔːnɪŋ",
+        "meaning": "buổi sáng",
+        "ex": "In the morning she showered and dressed before he woke.",
+        "ipaExTrans": "ɪn ðə ˈmɔːnɪŋ ʃiː ˈʃaʊəd ænd drɛst bɪˈfɔː hiː wəʊk.",
+        "exMeaning": "Buổi sáng cô tắm rửa và mặc quần áo trước khi anh thức dậy."
+    },
+    {
+        "word": "pot",
+        "type": "noun, verb",
+        "ipa": "pɒt",
+        "meaning": "nồi",
+        "ex": "She was cleaning the coffee pot and Alex was reclining in a chair at the table, enjoying the last cup of coffee.",
+        "ipaExTrans": "ʃiː wɒz ˈkliːnɪŋ ðə ˈkɒfi pɒt ænd ˈæləks wɒz rɪˈklaɪnɪŋ ɪn ə ʧeər æt ðə ˈteɪbl, ɪnˈʤɔɪɪŋ ðə lɑːst kʌp ɒv ˈkɒfi.",
+        "exMeaning": "Cô đang lau chùi bình cà phê và Alex đang ngả người trên ghế ở bàn, thưởng thức tách cà phê cuối cùng."
+    },
+    {
+        "word": "sign",
+        "type": "noun, verb",
+        "ipa": "saɪn",
+        "meaning": "ký tên",
+        "ex": "There was no sign of anyone.",
+        "ipaExTrans": "ðeə wɒz nəʊ saɪn ɒv ˈɛnɪwʌn.",
+        "exMeaning": "Không có dấu hiệu của bất cứ ai."
+    },
+    {
+        "word": "table",
+        "type": "noun, verb",
+        "ipa": "ˈteɪbl",
+        "meaning": "bàn",
+        "ex": "One day they were sitting at the table working on coloring books when Alex came home early.",
+        "ipaExTrans": "wʌn deɪ ðeɪ wɜː ˈsɪtɪŋ æt ðə ˈteɪbl ˈwɜːkɪŋ ɒn ˈkʌlərɪŋ bʊks wɛn ˈæləks keɪm həʊm ˈɜːli.",
+        "exMeaning": "Một ngày nọ, họ đang ngồi ở bàn làm việc với những cuốn sách tô màu khi Alex về nhà sớm."
+    },
+    {
+        "word": "task",
+        "type": "noun, verb",
+        "ipa": "tɑːsk",
+        "meaning": "bài tập",
+        "ex": "It's not an easy task to learn.",
+        "ipaExTrans": "ɪts nɒt ən ˈiːzi tɑːsk tuː lɜːn.",
+        "exMeaning": "Đó không phải là một nhiệm vụ dễ dàng để tìm hiểu."
+    },
+    {
+        "word": "condition",
+        "type": "noun, verb",
+        "ipa": "kənˈdɪʃən",
+        "meaning": "điều kiện",
+        "ex": "You're in no condition to run around town.",
+        "ipaExTrans": "jʊər ɪn nəʊ kənˈdɪʃən tuː rʌn əˈraʊnd taʊn.",
+        "exMeaning": "Bạn không có điều kiện để chạy quanh thị trấn."
+    },
+    {
+        "word": "contact",
+        "type": "noun, verb",
+        "ipa": "ˈkɒntækt",
+        "meaning": "tiếp xúc",
+        "ex": "Her step was too long, making contact with his foot.",
+        "ipaExTrans": "hɜː stɛp wɒz tuː lɒŋ, ˈmeɪkɪŋ ˈkɒntækt wɪð hɪz fʊt.",
+        "exMeaning": "Bước chân của cô quá dài, tiếp xúc với chân anh."
+    },
+    {
+        "word": "credit",
+        "type": "noun, verb",
+        "ipa": "ˈkrɛdɪt",
+        "meaning": "tín dụng"
+    },
+    {
+        "word": "egg",
+        "type": "noun, verb",
+        "ipa": "ɛg",
+        "meaning": "trứng",
+        "ex": "The egg popped grease and she jumped back.",
+        "ipaExTrans": "ði ɛg pɒpt griːs ænd ʃiː ʤʌmpt bæk.",
+        "exMeaning": "Trứng bật mỡ và cô nhảy lại."
+    },
+    {
+        "word": "hope",
+        "type": "noun, verb",
+        "ipa": "həʊp",
+        "meaning": "mong",
+        "ex": "I hope you like it.",
+        "ipaExTrans": "aɪ həʊp juː laɪk ɪt.",
+        "exMeaning": "Tôi hy vọng bạn thích nó."
+    },
+    {
+        "word": "ice",
+        "type": "noun, verb",
+        "ipa": "aɪs",
+        "meaning": "Nước đá",
+        "ex": "His voice was low and ice cold.",
+        "ipaExTrans": "hɪz vɔɪs wɒz ləʊ ænd aɪs kəʊld.",
+        "exMeaning": "Giọng anh trầm và lạnh như băng."
+    },
+    {
+        "word": "network",
+        "type": "noun, verb",
+        "ipa": "ˈnɛtwɜːk",
+        "meaning": "mạng",
+        "ex": "If the network doesn't work, there's a radio in your greencar.",
+        "ipaExTrans": "ɪf ðə ˈnɛtwɜːk dʌznt wɜːk, ðeəz ə ˈreɪdɪəʊ ɪn jɔː greencar.",
+        "exMeaning": "Nếu mạng không hoạt động, sẽ có một đài phát thanh trong greencar của bạn."
+    },
+    {
+        "word": "north",
+        "type": "noun, adjective, adverb",
+        "ipa": "nɔːθ",
+        "meaning": "Bắc",
+        "ex": "Jenn looked north and began walking.",
+        "ipaExTrans": "Jenn lʊkt nɔːθ ænd bɪˈgæn ˈwɔːkɪŋ.",
+        "exMeaning": "Jenn nhìn về phía bắc và bắt đầu đi bộ."
+    },
+    {
+        "word": "square",
+        "type": "noun, adjective, adverb",
+        "ipa": "skweə",
+        "meaning": "Quảng trường",
+        "ex": "This area is ten square miles, though.",
+        "ipaExTrans": "ðɪs ˈeərɪə ɪz tɛn skweə maɪlz, ðəʊ.",
+        "exMeaning": "Khu vực này là mười dặm vuông, mặc dù."
+    },
+    {
+        "word": "attempt",
+        "type": "noun, verb",
+        "ipa": "əˈtɛmpt",
+        "meaning": "cố gắng",
+        "ex": "This would be the only attempt they would make.",
+        "ipaExTrans": "ðɪs wʊd biː ði ˈəʊnli əˈtɛmpt ðeɪ wʊd meɪk.",
+        "exMeaning": "Đây sẽ là nỗ lực duy nhất họ sẽ làm."
+    },
+    {
+        "word": "date",
+        "type": "noun, verb",
+        "ipa": "deɪt",
+        "meaning": "ngày",
+        "ex": "It's important to find out the date and place, she said.",
+        "ipaExTrans": "ɪts ɪmˈpɔːtənt tuː faɪnd aʊt ðə deɪt ænd pleɪs, ʃiː sɛd.",
+        "exMeaning": "Điều quan trọng là tìm ra ngày và địa điểm, cô nói."
+    },
+    {
+        "word": "effect",
+        "type": "noun, verb",
+        "ipa": "ɪˈfɛkt",
+        "meaning": "hiệu ứng",
+        "ex": "The changes had an immediate effect.",
+        "ipaExTrans": "ðə ˈʧeɪnʤɪz hæd ən ɪˈmiːdiət ɪˈfɛkt.",
+        "exMeaning": "Những thay đổi đã có hiệu lực ngay lập tức."
+    },
+    {
+        "word": "link",
+        "type": "noun, verb",
+        "ipa": "lɪŋk",
+        "meaning": "liên kết",
+        "ex": "I'll send you the link to our online forum.",
+        "ipaExTrans": "aɪl sɛnd juː ðə lɪŋk tuː ˈaʊər ˈɒnˌlaɪn ˈfɔːrəm.",
+        "exMeaning": "Tôi sẽ gửi cho bạn liên kết đến diễn đàn trực tuyến của chúng tôi."
+    },
+    {
+        "word": "post",
+        "type": "noun, verb, adverb",
+        "ipa": "pəʊst",
+        "meaning": "bài đăng",
+        "ex": "All my mail goes to a post office box.",
+        "ipaExTrans": "ɔːl maɪ meɪl gəʊz tuː ə pəʊst ˈɒfɪs bɒks.",
+        "exMeaning": "Tất cả thư của tôi đi đến một hộp thư bưu điện."
+    },
+    {
+        "word": "star",
+        "type": "noun, verb",
+        "ipa": "stɑː",
+        "meaning": "ngôi sao",
+        "ex": "A silent film star, Charlie said.",
+        "ipaExTrans": "ə ˈsaɪlənt fɪlm stɑː, ˈʧɑːli sɛd.",
+        "exMeaning": "Một ngôi sao phim câm, Charlie nói."
+    },
+    {
+        "word": "voice",
+        "type": "noun, verb",
+        "ipa": "vɔɪs",
+        "meaning": "tiếng nói",
+        "ex": "His voice was controlled.",
+        "ipaExTrans": "hɪz vɔɪs wɒz kənˈtrəʊld.",
+        "exMeaning": "Giọng anh bị khống chế."
+    },
+    {
+        "word": "capital",
+        "type": "noun, adjective",
+        "ipa": "ˈkæpɪtl",
+        "meaning": "thủ đô",
+        "ex": "The capital was the center of the commercial activities.",
+        "ipaExTrans": "ðə ˈkæpɪtl wɒz ðə ˈsɛntər ɒv ðə kəˈmɜːʃəl ækˈtɪvɪtiz.",
+        "exMeaning": "Thủ đô là trung tâm của các hoạt động thương mại."
+    },
+    {
+        "word": "challenge",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈʧælɪnʤ",
+        "meaning": "thử thách",
+        "ex": "I like a challenge once in a while.",
+        "ipaExTrans": "aɪ laɪk ə ˈʧælɪnʤ wʌns ɪn ə waɪl.",
+        "exMeaning": "Thỉnh thoảng tôi thích một thử thách."
+    },
+    {
+        "word": "friend",
+        "type": "noun, verb",
+        "ipa": "frɛnd",
+        "meaning": "bạn",
+        "ex": "Sleep was not her friend during the day.",
+        "ipaExTrans": "sliːp wɒz nɒt hɜː frɛnd ˈdjʊərɪŋ ðə deɪ.",
+        "exMeaning": "Giấc ngủ không phải là bạn của cô ấy vào ban ngày."
+    },
+    {
+        "word": "self",
+        "type": "noun, pronoun, adjective",
+        "ipa": "sɛlf",
+        "meaning": "tự",
+        "ex": "While Molly was her usual quiet self, and perhaps a little nervous, it was obvious she was excited.",
+        "ipaExTrans": "waɪl ˈmɒli wɒz hɜː ˈjuːʒʊəl ˈkwaɪət sɛlf, ænd pəˈhæps ə ˈlɪtl ˈnɜːvəs, ɪt wɒz ˈɒbvɪəs ʃiː wɒz ɪkˈsaɪtɪd.",
+        "exMeaning": "Trong khi Molly là người im lặng thường ngày của cô ấy, và có lẽ hơi lo lắng, rõ ràng là cô ấy rất phấn khích."
+    },
+    {
+        "word": "shot",
+        "type": "noun, adjective",
+        "ipa": "ʃɒt",
+        "meaning": "bắn",
+        "ex": "She'd shot two men with it.",
+        "ipaExTrans": "ʃiːd ʃɒt tuː mɛn wɪð ɪt.",
+        "exMeaning": "Cô đã bắn hai người đàn ông với nó."
+    },
+    {
+        "word": "brush",
+        "type": "noun, verb",
+        "ipa": "brʌʃ",
+        "meaning": "chải",
+        "ex": "Something moved in the brush not far away and she froze.",
+        "ipaExTrans": "ˈsʌmθɪŋ muːvd ɪn ðə brʌʃ nɒt fɑːr əˈweɪ ænd ʃiː frəʊz.",
+        "exMeaning": "Một cái gì đó di chuyển trong bàn chải cách đó không xa và cô đóng băng."
+    },
+    {
+        "word": "couple",
+        "type": "noun, verb",
+        "ipa": "ˈkʌpl",
+        "meaning": "cặp đôi",
+        "ex": "I have a couple of polo shirts, but no light shirts.",
+        "ipaExTrans": "aɪ hæv ə ˈkʌpl ɒv ˈpəʊləʊ ʃɜːts, bʌt nəʊ laɪt ʃɜːts.",
+        "exMeaning": "Tôi có một vài chiếc áo polo, nhưng không có áo sơ mi sáng màu."
+    },
+    {
+        "word": "debate",
+        "type": "noun, verb",
+        "ipa": "dɪˈbeɪt",
+        "meaning": "tranh luận",
+        "ex": "See you at the debate tomorrow.",
+        "ipaExTrans": "siː juː æt ðə dɪˈbeɪt təˈmɒrəʊ.",
+        "exMeaning": "Hẹn gặp lại vào ngày mai."
+    },
+    {
+        "word": "exit",
+        "type": "noun, verb",
+        "ipa": "ˈɛksɪt",
+        "meaning": "lối ra",
+        "ex": "You people need an exit strategy.",
+        "ipaExTrans": "juː ˈpiːpl niːd ən ˈɛksɪt ˈstrætɪʤi.",
+        "exMeaning": "Bạn cần một chiến lược thoát ra."
+    },
+    {
+        "word": "front",
+        "type": "noun, adjective, verb",
+        "ipa": "frʌnt",
+        "meaning": "trước mặt",
+        "ex": "Len knelt in front of her and examined her neck.",
+        "ipaExTrans": "Len nɛlt ɪn frʌnt ɒv hɜːr ænd ɪgˈzæmɪnd hɜː nɛk.",
+        "exMeaning": "Len quỳ trước mặt cô và kiểm tra cổ cô."
+    },
+    {
+        "word": "function",
+        "type": "noun, verb",
+        "ipa": "ˈfʌnŋkʃən",
+        "meaning": "chức năng",
+        "ex": "But that, too, is a function of present technology.",
+        "ipaExTrans": "bʌt ðæt, tuː, ɪz ə ˈfʌnŋkʃən ɒv ˈprɛznt tɛkˈnɒləʤi.",
+        "exMeaning": "Nhưng đó cũng là một chức năng của công nghệ hiện tại."
+    },
+    {
+        "word": "lack",
+        "type": "noun, verb",
+        "ipa": "læk",
+        "meaning": "thiếu sót",
+        "ex": "The lack of security is unsettling.",
+        "ipaExTrans": "ðə læk ɒv sɪˈkjʊərɪti ɪz ʌnˈsɛtlɪŋ.",
+        "exMeaning": "Sự thiếu an ninh là đáng lo ngại."
+    },
+    {
+        "word": "living",
+        "type": "noun, adjective",
+        "ipa": "ˈlɪvɪŋ",
+        "meaning": "cuộc sống",
+        "ex": "He's living his dream.",
+        "ipaExTrans": "hiːz ˈlɪvɪŋ hɪz driːm.",
+        "exMeaning": "Anh ấy đang sống trong giấc mơ của mình."
+    },
+    {
+        "word": "plant",
+        "type": "noun, verb",
+        "ipa": "plɑːnt",
+        "meaning": "cây",
+        "ex": "If a plant cannot live according to its nature, it dies; and so a man.",
+        "ipaExTrans": "ɪf ə plɑːnt ˈkænɒt lɪv əˈkɔːdɪŋ tuː ɪts ˈneɪʧə, ɪt daɪz; ænd səʊ ə mæn.",
+        "exMeaning": "Nếu một cây không thể sống theo bản chất của nó, nó sẽ chết; và một người đàn ông"
+    },
+    {
+        "word": "plastic",
+        "type": "noun, adjective",
+        "ipa": "ˈplæstɪk",
+        "meaning": "nhựa",
+        "ex": "That way, no plastic taste.",
+        "ipaExTrans": "ðæt weɪ, nəʊ ˈplæstɪk teɪst.",
+        "exMeaning": "Bằng cách đó, không có hương vị nhựa."
+    },
+    {
+        "word": "spot",
+        "type": "noun, verb",
+        "ipa": "spɒt",
+        "meaning": "nơi",
+        "ex": "It was a green tin, with a red spot on it.",
+        "ipaExTrans": "ɪt wɒz ə griːn tɪn, wɪð ə rɛd spɒt ɒn ɪt.",
+        "exMeaning": "Đó là một hộp thiếc màu xanh lá cây, với một đốm đỏ trên đó."
+    },
+    {
+        "word": "summer",
+        "type": "noun, verb",
+        "ipa": "ˈsʌmə",
+        "meaning": "mùa hè",
+        "ex": "Living in that house and using the pool would be like a summer vacation, not a job.",
+        "ipaExTrans": "ˈlɪvɪŋ ɪn ðæt haʊs ænd ˈjuːzɪŋ ðə puːl wʊd biː laɪk ə ˈsʌmə vəˈkeɪʃən, nɒt ə ʤɒb.",
+        "exMeaning": "Sống trong ngôi nhà đó và sử dụng hồ bơi sẽ giống như một kỳ nghỉ hè, không phải là một công việc."
+    },
+    {
+        "word": "taste",
+        "type": "noun, verb",
+        "ipa": "teɪst",
+        "meaning": "nếm thử",
+        "ex": "That way you don't have to taste it.",
+        "ipaExTrans": "ðæt weɪ juː dəʊnt hæv tuː teɪst ɪt.",
+        "exMeaning": "Bằng cách đó bạn không phải nếm nó."
+    },
+    {
+        "word": "theme",
+        "type": "noun, verb",
+        "ipa": "θiːm",
+        "meaning": "chủ đề",
+        "ex": "What I have certainly gained is freedom, he began seriously, but did not continue, noticing that this theme was too egotistic.",
+        "ipaExTrans": "wɒt aɪ hæv ˈsɜːtnli geɪnd ɪz ˈfriːdəm, hiː bɪˈgæn ˈsɪərɪəsli, bʌt dɪd nɒt kənˈtɪnju(ː), ˈnəʊtɪsɪŋ ðæt ðɪs θiːm wɒz tuː egotistic.",
+        "exMeaning": "Những gì tôi chắc chắn có được là sự tự do, anh ấy bắt đầu nghiêm túc, nhưng không tiếp tục, nhận thấy rằng chủ đề này quá tự cao tự đại."
+    },
+    {
+        "word": "track",
+        "type": "noun, verb",
+        "ipa": "træk",
+        "meaning": "theo dõi",
+        "ex": "Couldn't the police track him down?",
+        "ipaExTrans": "ˈkʊdnt ðə pəˈliːs træk hɪm daʊn?",
+        "exMeaning": "Cảnh sát không thể theo dõi anh ta xuống?"
+    },
+    {
+        "word": "wing",
+        "type": "noun, verb",
+        "ipa": "wɪŋ",
+        "meaning": "canh",
+        "ex": "- Bones of Fowl's right wing, adult, nat.",
+        "ipaExTrans": "- bəʊnz ɒv faʊlz raɪt wɪŋ, ˈædʌlt, nat."
+    },
+    {
+        "word": "brain",
+        "type": "noun, verb",
+        "ipa": "breɪn",
+        "meaning": "óc",
+        "ex": "An idea flashed through her brain and left a frown on her face.",
+        "ipaExTrans": "ən aɪˈdɪə flæʃt θruː hɜː breɪn ænd lɛft ə fraʊn ɒn hɜː feɪs.",
+        "exMeaning": "Một ý tưởng lóe lên trong não cô và để lại một khuôn mặt nhăn nhó."
+    },
+    {
+        "word": "button",
+        "type": "noun, verb",
+        "ipa": "ˈbʌtn",
+        "meaning": "cái nút",
+        "ex": "Toby held the elevator for her and pressed the button for all twenty floors.",
+        "ipaExTrans": "ˈtəʊbi hɛld ði ˈɛlɪveɪtə fɔː hɜːr ænd prɛst ðə ˈbʌtn fɔːr ɔːl ˈtwɛnti flɔːz.",
+        "exMeaning": "Toby giữ thang máy cho cô và nhấn nút cho tất cả hai mươi tầng."
+    },
+    {
+        "word": "click",
+        "type": "noun, verb",
+        "ipa": "klɪk",
+        "meaning": "nhấp chuột",
+        "ex": "There was a click as Mansr closed the connection.",
+        "ipaExTrans": "ðeə wɒz ə klɪk æz Mansr kləʊzd ðə kəˈnɛkʃən.",
+        "exMeaning": "Có tiếng click khi Mansr đóng kết nối."
+    },
+    {
+        "word": "desire",
+        "type": "noun, verb",
+        "ipa": "dɪˈzaɪə",
+        "meaning": "khao khát",
+        "ex": "We have a natural desire to want to help others.",
+        "ipaExTrans": "wiː hæv ə ˈnæʧrəl dɪˈzaɪə tuː wɒnt tuː hɛlp ˈʌðəz.",
+        "exMeaning": "Chúng tôi có một mong muốn tự nhiên là muốn giúp đỡ người khác."
+    },
+    {
+        "word": "foot",
+        "type": "noun, verb",
+        "ipa": "fʊt",
+        "meaning": "chân",
+        "ex": "He put his foot in the stirrup.",
+        "ipaExTrans": "hiː pʊt hɪz fʊt ɪn ðə ˈstɪrəp.",
+        "exMeaning": "Anh ta đặt chân vào bàn đạp."
+    },
+    {
+        "word": "gas",
+        "type": "noun, verb",
+        "ipa": "gæs",
+        "meaning": "khí ga",
+        "ex": "At the gas station there were only two cars.",
+        "ipaExTrans": "æt ðə gæs ˈsteɪʃən ðeə wɜːr ˈəʊnli tuː kɑːz.",
+        "exMeaning": "Ở trạm xăng chỉ có hai chiếc xe."
+    },
+    {
+        "word": "influence",
+        "type": "noun, verb",
+        "ipa": "ˈɪnflʊəns",
+        "meaning": "ảnh hưởng",
+        "ex": "I'm a bad influence on you.",
+        "ipaExTrans": "aɪm ə bæd ˈɪnflʊəns ɒn juː.",
+        "exMeaning": "Tôi là một người ảnh hưởng xấu đến bạn."
+    },
+    {
+        "word": "notice",
+        "type": "noun, verb",
+        "ipa": "ˈnəʊtɪs",
+        "meaning": "để ý",
+        "ex": "I didn't notice how far I was wandering this evening.",
+        "ipaExTrans": "aɪ dɪdnt ˈnəʊtɪs haʊ fɑːr aɪ wɒz ˈwɒndərɪŋ ðɪs ˈiːvnɪŋ.",
+        "exMeaning": "Tôi đã không nhận thấy tôi đã đi lang thang bao xa tối nay."
+    },
+    {
+        "word": "rain",
+        "type": "noun, verb",
+        "ipa": "reɪn",
+        "meaning": "mưa",
+        "ex": "The rain on the roof was soothing.",
+        "ipaExTrans": "ðə reɪn ɒn ðə ruːf wɒz ˈsuːðɪŋ.",
+        "exMeaning": "Mưa trên mái nhà thật nhẹ nhàng."
+    },
+    {
+        "word": "wall",
+        "type": "noun, verb",
+        "ipa": "wɔːl",
+        "meaning": "Tường",
+        "ex": "The keys hung on the wall beside the door.",
+        "ipaExTrans": "ðə kiːz hʌŋ ɒn ðə wɔːl bɪˈsaɪd ðə dɔː.",
+        "exMeaning": "Chìa khóa treo trên tường cạnh cửa."
+    },
+    {
+        "word": "base",
+        "type": "noun, verb, adjective",
+        "ipa": "beɪs",
+        "meaning": "căn cứ",
+        "ex": "Despise that which is base, said his mother.",
+        "ipaExTrans": "dɪsˈpaɪz ðæt wɪʧ ɪz beɪs, sɛd hɪz ˈmʌðə.",
+        "exMeaning": "Coi thường cái đó là căn cứ, mẹ nó nói."
+    },
+    {
+        "word": "damage",
+        "type": "noun, verb",
+        "ipa": "ˈdæmɪʤ",
+        "meaning": "hư hại",
+        "ex": "It might have done damage inside.",
+        "ipaExTrans": "ɪt maɪt hæv dʌn ˈdæmɪʤ ɪnˈsaɪd.",
+        "exMeaning": "Nó có thể đã gây sát thương bên trong."
+    },
+    {
+        "word": "distance",
+        "type": "noun, verb",
+        "ipa": "ˈdɪstəns",
+        "meaning": "khoảng cách",
+        "ex": "We were sitting together in a hammock which swung from two solemn pines at a short distance from the house.",
+        "ipaExTrans": "wiː wɜː ˈsɪtɪŋ təˈgɛðər ɪn ə ˈhæmək wɪʧ swʌŋ frɒm tuː ˈsɒləm paɪnz æt ə ʃɔːt ˈdɪstəns frɒm ðə haʊs.",
+        "exMeaning": "Chúng tôi đang ngồi cùng nhau trên một chiếc võng vung lên từ hai cây thông trang nghiêm ở một khoảng cách ngắn từ nhà."
+    },
+    {
+        "word": "feeling",
+        "type": "noun, adjective",
+        "ipa": "ˈfiːlɪŋ",
+        "meaning": "cảm giác",
+        "ex": "I don't want you to start feeling neglected.",
+        "ipaExTrans": "aɪ dəʊnt wɒnt juː tuː stɑːt ˈfiːlɪŋ nɪˈglɛktɪd.",
+        "exMeaning": "Tôi không muốn bạn bắt đầu cảm thấy bị bỏ rơi."
+    },
+    {
+        "word": "pair",
+        "type": "noun, verb",
+        "ipa": "peə",
+        "meaning": "đôi",
+        "ex": "Carmen made a ball out of a pair of socks.",
+        "ipaExTrans": "ˈkɑːmən meɪd ə bɔːl aʊt ɒv ə peər ɒv sɒks.",
+        "exMeaning": "Carmen làm một quả bóng từ một đôi vớ."
+    },
+    {
+        "word": "savings",
+        "type": "noun, adjective, preposition",
+        "ipa": "ˈseɪvɪŋz",
+        "meaning": "tiết kiệm",
+        "ex": "She couldn't return to her apartment, and her savings were almost gone.",
+        "ipaExTrans": "ʃiː ˈkʊdnt rɪˈtɜːn tuː hɜːr əˈpɑːtmənt, ænd hɜː ˈseɪvɪŋz wɜːr ˈɔːlməʊst gɒn.",
+        "exMeaning": "Cô không thể trở về căn hộ của mình, và tiền tiết kiệm của cô gần như đã biến mất."
+    },
+    {
+        "word": "staff",
+        "type": "noun, verb",
+        "ipa": "stɑːf",
+        "meaning": "Nhân Viên",
+        "ex": "(The staff officer smiled.)",
+        "ipaExTrans": "(ðə stɑːf ˈɒfɪsə smaɪld.)",
+        "exMeaning": "(Nhân viên phục vụ mỉm cười.)"
+    },
+    {
+        "word": "sugar",
+        "type": "noun, verb",
+        "ipa": "ˈʃʊgə",
+        "meaning": "Đường",
+        "ex": "The Bacterium acidi lacti described by Pasteur decomposes milk sugar into lactic acid.",
+        "ipaExTrans": "ðə bækˈtɪərɪəm acidi lacti dɪsˈkraɪbd baɪ pæˈstɜː ˌdiːkəmˈpəʊzɪz mɪlk ˈʃʊgər ˈɪntuː ˈlæktɪk ˈæsɪd.",
+        "exMeaning": "Bacterium acidi lacti được mô tả bởi Pasteur phân hủy đường sữa thành axit lactic."
+    },
+    {
+        "word": "target",
+        "type": "noun, verb",
+        "ipa": "ˈtɑːgɪt",
+        "meaning": "Mục tiêu",
+        "ex": "She focused on the target, a plate above the hearth.",
+        "ipaExTrans": "ʃiː ˈfəʊkəst ɒn ðə ˈtɑːgɪt, ə pleɪt əˈbʌv ðə hɑːθ.",
+        "exMeaning": "Cô tập trung vào mục tiêu, một tấm phía trên lò sưởi."
+    },
+    {
+        "word": "text",
+        "type": "noun, verb",
+        "ipa": "tɛkst",
+        "meaning": "bản văn",
+        "ex": "I'll text you my address.",
+        "ipaExTrans": "aɪl tɛkst juː maɪ əˈdrɛs.",
+        "exMeaning": "Tôi sẽ nhắn tin cho bạn địa chỉ của tôi."
+    },
+    {
+        "word": "animal",
+        "type": "noun, adjective",
+        "ipa": "ˈænɪməl",
+        "meaning": "thú vật",
+        "ex": "I went to college and studied animal husbandry.",
+        "ipaExTrans": "aɪ wɛnt tuː ˈkɒlɪʤ ænd ˈstʌdɪd ˈænɪməl ˈhʌzbəndri.",
+        "exMeaning": "Tôi đi học đại học và học chăn nuôi."
+    },
+    {
+        "word": "author",
+        "type": "noun, verb",
+        "ipa": "ˈɔːθə",
+        "meaning": "tác giả",
+        "ex": "It's a famous author named Miss Gladys Turnbull.",
+        "ipaExTrans": "ɪts ə ˈfeɪməs ˈɔːθə neɪmd mɪs ˈglædɪs Turnbull.",
+        "exMeaning": "Đó là một tác giả nổi tiếng tên là Miss Gladys Turnbull."
+    },
+    {
+        "word": "budget",
+        "type": "noun, adjective, verb",
+        "ipa": "ˈbʌʤɪt",
+        "meaning": "ngân sách",
+        "ex": "The bike was a trophy from a time when Dean's budget contained more expendable income.",
+        "ipaExTrans": "ðə baɪk wɒz ə ˈtrəʊfi frɒm ə taɪm wɛn diːnz ˈbʌʤɪt kənˈteɪnd mɔːr ɪksˈpɛndəbl ˈɪnkʌm.",
+        "exMeaning": "Chiếc xe đạp là một chiếc cúp từ thời ngân sách của Dean có thu nhập chi tiêu cao hơn."
+    },
+    {
+        "word": "discount",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈdɪskaʊnt",
+        "meaning": "giảm giá",
+        "ex": "The rate of discount was 3% throughout the whole of the year.",
+        "ipaExTrans": "ðə reɪt ɒv ˈdɪskaʊnt wɒz 3% θru(ː)ˈaʊt ðə həʊl ɒv ðə jɪə.",
+        "exMeaning": "Tỷ lệ chiết khấu là 3% trong cả năm."
+    },
+    {
+        "word": "file",
+        "type": "noun, verb",
+        "ipa": "faɪl",
+        "meaning": "tập tin",
+        "ex": "Your file was locked.",
+        "ipaExTrans": "jɔː faɪl wɒz lɒkt.",
+        "exMeaning": "Tập tin của bạn đã bị khóa."
+    },
+    {
+        "word": "ground",
+        "type": "noun, verb, adjective",
+        "ipa": "graʊnd",
+        "meaning": "đất",
+        "ex": "Jule lay on the ground a short distance away.",
+        "ipaExTrans": "Jule leɪ ɒn ðə graʊnd ə ʃɔːt ˈdɪstəns əˈweɪ.",
+        "exMeaning": "Jule nằm trên mặt đất một khoảng cách ngắn."
+    },
+    {
+        "word": "lesson",
+        "type": "noun, verb",
+        "ipa": "ˈlɛsn",
+        "meaning": "bài học",
+        "ex": "I've learned my lesson, though.",
+        "ipaExTrans": "aɪv lɜːnt maɪ ˈlɛsn, ðəʊ.",
+        "exMeaning": "Tôi đã học được bài học của tôi, mặc dù."
+    },
+    {
+        "word": "minute",
+        "type": "noun, adjective, verb",
+        "ipa": "ˈmɪnɪt",
+        "meaning": "phút",
+        "ex": "For a minute there, I thought I was getting forgetful.",
+        "ipaExTrans": "fɔːr ə ˈmɪnɪt ðeə, aɪ θɔːt aɪ wɒz ˈgɛtɪŋ fəˈgɛtfʊl.",
+        "exMeaning": "Trong một phút ở đó, tôi nghĩ rằng tôi đã quên."
+    },
+    {
+        "word": "officer",
+        "type": "noun, verb",
+        "ipa": "ˈɒfɪsə",
+        "meaning": "nhân viên văn phòng",
+        "ex": "Officer David will see you now.",
+        "ipaExTrans": "ˈɒfɪsə ˈdeɪvɪd wɪl siː juː naʊ.",
+        "exMeaning": "Sĩ quan David sẽ gặp bạn bây giờ."
+    },
+    {
+        "word": "phase",
+        "type": "noun, verb",
+        "ipa": "feɪz",
+        "meaning": "giai đoạn",
+        "ex": "Her life was about to enter its next phase of the nightmare.",
+        "ipaExTrans": "hɜː laɪf wɒz əˈbaʊt tuː ˈɛntər ɪts nɛkst feɪz ɒv ðə ˈnaɪtmeə.",
+        "exMeaning": "Cuộc sống của cô sắp bước vào giai đoạn tiếp theo của cơn ác mộng."
+    },
+    {
+        "word": "reference",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈrɛfrəns",
+        "meaning": "tài liệu tham khảo",
+        "ex": "Fred ignored Dean's reference to pudginess.",
+        "ipaExTrans": "frɛd ɪgˈnɔːd diːnz ˈrɛfrəns tuː ˈpʌʤɪnəs.",
+        "exMeaning": "Fred phớt lờ tham chiếu của Dean về sự nhợt nhạt."
+    },
+    {
+        "word": "register",
+        "type": "noun, verb",
+        "ipa": "ˈrɛʤɪstə",
+        "meaning": "Đăng ký",
+        "ex": "You'll help Julie to register Molly at the Keene school while I make the plane reservation.",
+        "ipaExTrans": "juːl hɛlp ˈʤuːliː tuː ˈrɛʤɪstə ˈmɒli æt ðə Keene skuːl waɪl aɪ meɪk ðə pleɪn ˌrɛzəˈveɪʃən.",
+        "exMeaning": "Bạn sẽ giúp Julie đăng ký Molly tại trường Keene trong khi tôi đặt chỗ máy bay."
+    },
+    {
+        "word": "sky",
+        "type": "noun, verb",
+        "ipa": "skaɪ",
+        "meaning": "bầu trời",
+        "ex": "The moon is full, the sky full of stars.",
+        "ipaExTrans": "ðə muːn ɪz fʊl, ðə skaɪ fʊl ɒv stɑːz.",
+        "exMeaning": "Mặt trăng đầy, bầu trời đầy sao."
+    },
+    {
+        "word": "stage",
+        "type": "noun, verb",
+        "ipa": "steɪʤ",
+        "meaning": "sân khấu",
+        "ex": "He was in the stage play Boo!",
+        "ipaExTrans": "hiː wɒz ɪn ðə steɪʤ pleɪ buː!",
+        "exMeaning": "Anh ấy ở trong sân khấu chơi Boo!"
+    },
+    {
+        "word": "stick",
+        "type": "noun, verb",
+        "ipa": "stɪk",
+        "meaning": "gậy",
+        "ex": "I'll stick to biking.",
+        "ipaExTrans": "aɪl stɪk tuː ˈbaɪkɪŋ.",
+        "exMeaning": "Tôi sẽ đi xe đạp."
+    },
+    {
+        "word": "title",
+        "type": "noun, verb",
+        "ipa": "ˈtaɪtl",
+        "meaning": "tiêu đề",
+        "ex": "My brother inherited the title when he died.",
+        "ipaExTrans": "maɪ ˈbrʌðər ɪnˈhɛrɪtɪd ðə ˈtaɪtl wɛn hiː daɪd.",
+        "exMeaning": "Anh tôi được thừa hưởng danh hiệu khi chết."
+    },
+    {
+        "word": "trouble",
+        "type": "noun, verb",
+        "ipa": "ˈtrʌbl",
+        "meaning": "rắc rối",
+        "ex": "I had trouble keeping up with him.",
+        "ipaExTrans": "aɪ hæd ˈtrʌbl ˈkiːpɪŋ ʌp wɪð hɪm.",
+        "exMeaning": "Tôi gặp khó khăn trong việc theo kịp anh ta."
+    },
+    {
+        "word": "bowl",
+        "type": "noun, verb",
+        "ipa": "bəʊl",
+        "meaning": "bát",
+        "ex": "She grabbed a bowl and dipped out the last of the oatmeal.",
+        "ipaExTrans": "ʃiː græbd ə bəʊl ænd dɪpt aʊt ðə lɑːst ɒv ði ˈəʊtmiːl.",
+        "exMeaning": "Cô lấy một cái bát và nhúng miếng bột yến mạch cuối cùng."
+    },
+    {
+        "word": "bridge",
+        "type": "noun, verb",
+        "ipa": "brɪʤ",
+        "meaning": "cầu",
+        "ex": "Within two hours, the bridge was passable.",
+        "ipaExTrans": "wɪˈðɪn tuː ˈaʊəz, ðə brɪʤ wɒz ˈpɑːsəbl.",
+        "exMeaning": "Trong vòng hai giờ, cây cầu đã qua được."
+    },
+    {
+        "word": "campaign",
+        "type": "noun, verb",
+        "ipa": "kæmˈpeɪn",
+        "meaning": "chiến dịch",
+        "ex": "If I'm going to be your campaign manager, leave the business to me.",
+        "ipaExTrans": "ɪf aɪm ˈgəʊɪŋ tuː biː jɔː kæmˈpeɪn ˈmænɪʤə, liːv ðə ˈbɪznɪs tuː miː.",
+        "exMeaning": "Nếu tôi sẽ trở thành người quản lý chiến dịch của bạn, hãy giao việc cho tôi."
+    },
+    {
+        "word": "character",
+        "type": "noun, adjective, verb",
+        "ipa": "ˈkærɪktə",
+        "meaning": "tính cách",
+        "ex": "It was totally out of character for her.",
+        "ipaExTrans": "ɪt wɒz ˈtəʊtli aʊt ɒv ˈkærɪktə fɔː hɜː.",
+        "exMeaning": "Đó là hoàn toàn không có nhân vật cho cô ấy."
+    },
+    {
+        "word": "club",
+        "type": "noun, verb",
+        "ipa": "klʌb",
+        "meaning": "câu lạc bộ",
+        "ex": "In the club all was going on as usual.",
+        "ipaExTrans": "ɪn ðə klʌb ɔːl wɒz ˈgəʊɪŋ ɒn æz ˈjuːʒʊəl.",
+        "exMeaning": "Trong câu lạc bộ tất cả đã diễn ra như bình thường."
+    },
+    {
+        "word": "edge",
+        "type": "noun, verb, idiom",
+        "ipa": "ɛʤ",
+        "meaning": "cạnh",
+        "ex": "He stood and walked to the edge of the pond.",
+        "ipaExTrans": "hiː stʊd ænd wɔːkt tuː ði ɛʤ ɒv ðə pɒnd.",
+        "exMeaning": "Anh đứng dậy và đi đến mép ao."
+    },
+    {
+        "word": "evidence",
+        "type": "noun, verb, idiom",
+        "ipa": "ˈɛvɪdəns",
+        "meaning": "chứng cớ",
+        "ex": "All the evidence points to an accident.",
+        "ipaExTrans": "ɔːl ði ˈɛvɪdəns pɔɪnts tuː ən ˈæksɪdənt.",
+        "exMeaning": "Tất cả các bằng chứng chỉ ra một tai nạn."
+    },
+    {
+        "word": "fan",
+        "type": "noun, verb, idiom",
+        "ipa": "fæn",
+        "meaning": "quạt",
+        "ex": "I am a huge fan of heritage meats.",
+        "ipaExTrans": "aɪ æm ə hjuːʤ fæn ɒv ˈhɛrɪtɪʤ miːts.",
+        "exMeaning": "Tôi là một fan hâm mộ lớn của các loại thịt di sản."
+    },
+    {
+        "word": "letter",
+        "type": "noun, verb, idiom",
+        "ipa": "ˈlɛtə",
+        "meaning": "lá thư",
+        "ex": "It was a letter from the page's mother:--",
+        "ipaExTrans": "ɪt wɒz ə ˈlɛtə frɒm ðə ˈpeɪʤɪz ˈmʌðə:--",
+        "exMeaning": "Đó là một lá thư từ mẹ của trang: -"
+    },
+    {
+        "word": "lock",
+        "type": "noun, verb, idiom",
+        "ipa": "lɒk",
+        "meaning": "Khóa",
+        "ex": "They're too busy trying to lock me up and toss the key.",
+        "ipaExTrans": "ðeə tuː ˈbɪzi ˈtraɪɪŋ tuː lɒk miː ʌp ænd tɒs ðə kiː.",
+        "exMeaning": "Họ quá bận để cố khóa tôi và ném chìa khóa."
+    },
+    {
+        "word": "maximum",
+        "type": "noun, adjective",
+        "ipa": "ˈmæksɪməm",
+        "meaning": "tối đa",
+        "ex": "She came to her feet, stretching her body to its maximum height.",
+        "ipaExTrans": "ʃiː keɪm tuː hɜː fiːt, ˈstrɛʧɪŋ hɜː ˈbɒdi tuː ɪts ˈmæksɪməm haɪt.",
+        "exMeaning": "Cô đứng dậy, vươn người lên hết chiều cao."
+    },
+    {
+        "word": "novel",
+        "type": "noun, adjective",
+        "ipa": "ˈnɒvəl",
+        "meaning": "cuốn tiểu thuyết",
+        "ex": "Sounds like a dime novel, doesn't it?",
+        "ipaExTrans": "saʊndz laɪk ə daɪm ˈnɒvəl, dʌznt ɪt?",
+        "exMeaning": "Nghe giống như một cuốn tiểu thuyết xu, phải không?"
+    },
+    {
+        "word": "option",
+        "type": "noun, verb",
+        "ipa": "ˈɒpʃən",
+        "meaning": "Lựa chọn",
+        "ex": "Maybe Gabriel's option was best.",
+        "ipaExTrans": "ˈmeɪbiː ˈgeɪbrɪəlz ˈɒpʃən wɒz bɛst.",
+        "exMeaning": "Có lẽ lựa chọn của Gabriel là tốt nhất."
+    },
+    {
+        "word": "pack",
+        "type": "noun, verb, adjective",
+        "ipa": "pæk",
+        "meaning": "đóng gói",
+        "ex": "Later she helped him pack his things in the car.",
+        "ipaExTrans": "ˈleɪtə ʃiː hɛlpt hɪm pæk hɪz θɪŋz ɪn ðə kɑː.",
+        "exMeaning": "Sau đó, cô giúp anh đóng gói đồ đạc trong xe."
+    },
+    {
+        "word": "park",
+        "type": "noun, verb",
+        "ipa": "pɑːk",
+        "meaning": "công viên",
+        "ex": "I took the shortest way through the little park behind the palace.",
+        "ipaExTrans": "aɪ tʊk ðə ˈʃɔːtɪst weɪ θruː ðə ˈlɪtl pɑːk bɪˈhaɪnd ðə ˈpælɪs.",
+        "exMeaning": "Tôi đi con đường ngắn nhất qua công viên nhỏ phía sau cung điện."
+    },
+    {
+        "word": "plenty",
+        "type": "noun, adjective, adverb",
+        "ipa": "ˈplɛnti",
+        "meaning": "nhiều",
+        "ex": "Still, she had plenty to do.",
+        "ipaExTrans": "stɪl, ʃiː hæd ˈplɛnti tuː duː.",
+        "exMeaning": "Tuy nhiên, cô vẫn còn nhiều việc phải làm."
+    },
+    {
+        "word": "quarter",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈkwɔːtə",
+        "meaning": "phần tư",
+        "ex": "That's a quarter of all the hungry people in the world.",
+        "ipaExTrans": "ðæts ə ˈkwɔːtər ɒv ɔːl ðə ˈhʌŋgri ˈpiːpl ɪn ðə wɜːld.",
+        "exMeaning": "Đó là một phần tư của tất cả những người đói trên thế giới."
+    },
+    {
+        "word": "skin",
+        "type": "noun, verb",
+        "ipa": "skɪn",
+        "meaning": "da"
+    },
+    {
+        "word": "sort",
+        "type": "noun, verb",
+        "ipa": "sɔːt",
+        "meaning": "sắp xếp",
+        "ex": "I wouldn't worry too much about that sort of thing.",
+        "ipaExTrans": "aɪ ˈwʊdnt ˈwʌri tuː mʌʧ əˈbaʊt ðæt sɔːt ɒv θɪŋ.",
+        "exMeaning": "Tôi sẽ không lo lắng quá nhiều về điều đó."
+    },
+    {
+        "word": "weight",
+        "type": "noun, verb",
+        "ipa": "weɪt",
+        "meaning": "cân nặng",
+        "ex": "The boxes were heavy, so carrying two of them was too much weight to handle.",
+        "ipaExTrans": "ðə ˈbɒksɪz wɜː ˈhɛvi, səʊ ˈkæriɪŋ tuː ɒv ðɛm wɒz tuː mʌʧ weɪt tuː ˈhændl.",
+        "exMeaning": "Các hộp rất nặng, vì vậy mang hai trong số chúng là quá nặng để xử lý."
+    },
+    {
+        "word": "baby",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈbeɪbi",
+        "meaning": "đứa bé",
+        "ex": "How pretty the baby was!",
+        "ipaExTrans": "haʊ ˈprɪti ðə ˈbeɪbi wɒz!",
+        "exMeaning": "Em bé thật xinh xắn làm sao!"
+    },
+    {
+        "word": "background",
+        "type": "noun, adjective",
+        "ipa": "ˈbækgraʊnd",
+        "meaning": "lý lịch",
+        "ex": "I saved it as the background on the iPad.",
+        "ipaExTrans": "aɪ seɪvd ɪt æz ðə ˈbækgraʊnd ɒn ði ˈaɪˌpæd.",
+        "exMeaning": "Tôi đã lưu nó làm nền trên iPad."
+    },
+    {
+        "word": "carry",
+        "type": "noun, verb",
+        "ipa": "ˈkæri",
+        "meaning": "mang",
+        "ex": "Where do you carry your gold?",
+        "ipaExTrans": "weə duː juː ˈkæri jɔː gəʊld?",
+        "exMeaning": "Bạn mang vàng ở đâu?"
+    },
+    {
+        "word": "dish",
+        "type": "noun, verb, idiom",
+        "ipa": "dɪʃ",
+        "meaning": "món ăn",
+        "ex": "I'll make it a dinner dish, said Jim.",
+        "ipaExTrans": "aɪl meɪk ɪt ə ˈdɪnə dɪʃ, sɛd ʤɪm.",
+        "exMeaning": "Tôi sẽ làm cho nó một món ăn tối, Jim nói."
+    },
+    {
+        "word": "factor",
+        "type": "noun, verb",
+        "ipa": "ˈfæktə",
+        "meaning": "hệ số",
+        "ex": "The other factor was that he was doing what he had always dreamed of doing.",
+        "ipaExTrans": "ði ˈʌðə ˈfæktə wɒz ðæt hiː wɒz ˈdu(ː)ɪŋ wɒt hiː hæd ˈɔːlweɪz driːmd ɒv ˈdu(ː)ɪŋ.",
+        "exMeaning": "Yếu tố khác là anh ấy đã làm những gì anh ấy luôn mơ ước làm."
+    },
+    {
+        "word": "fruit",
+        "type": "noun, verb",
+        "ipa": "fruːt",
+        "meaning": "trái cây"
+    },
+    {
+        "word": "glass",
+        "type": "noun, adjective, verb",
+        "ipa": "glɑːs",
+        "meaning": "cốc thủy tinh",
+        "ex": "Could I have a glass of water?",
+        "ipaExTrans": "kʊd aɪ hæv ə glɑːs ɒv ˈwɔːtə?",
+        "exMeaning": "Cho tôi xin một cốc nước được không?"
+    },
+    {
+        "word": "joint",
+        "type": "noun, adjective, verb",
+        "ipa": "ʤɔɪnt",
+        "meaning": "chung",
+        "ex": "He pulled the joint apart.",
+        "ipaExTrans": "hiː pʊld ðə ʤɔɪnt əˈpɑːt.",
+        "exMeaning": "Anh kéo khớp ra."
+    },
+    {
+        "word": "master",
+        "type": "noun, adjective, verb",
+        "ipa": "ˈmɑːstə",
+        "meaning": "bậc thầy",
+        "ex": "The master bedroom had wooden patio doors that opened on a balcony facing east.",
+        "ipaExTrans": "ðə ˈmɑːstə ˈbɛdru(ː)m hæd ˈwʊdn ˈpætɪəʊ dɔːz ðæt ˈəʊpənd ɒn ə ˈbælkəni ˈfeɪsɪŋ iːst.",
+        "exMeaning": "Phòng ngủ chính có cửa ra vào bằng gỗ mở ra ban công hướng về phía đông."
+    },
+    {
+        "word": "muscle",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈmʌsl",
+        "meaning": "cơ bắp",
+        "ex": "Not a single muscle of his face--which in those days was still thin--moved.",
+        "ipaExTrans": "nɒt ə ˈsɪŋgl ˈmʌsl ɒv hɪz feɪs--wɪʧ ɪn ðəʊz deɪz wɒz stɪl θɪn--muːvd.",
+        "exMeaning": "Không một cơ mặt nào - mà trong những ngày đó vẫn còn mỏng - di chuyển."
+    },
+    {
+        "word": "red",
+        "type": "noun, adjective, idiom",
+        "ipa": "rɛd",
+        "meaning": "màu đỏ",
+        "ex": "Look at those big gray eyes and that beautiful red hair!",
+        "ipaExTrans": "lʊk æt ðəʊz bɪg greɪ aɪz ænd ðæt ˈbjuːtəfʊl rɛd heə!",
+        "exMeaning": "Hãy nhìn vào đôi mắt to màu xám và mái tóc đỏ tuyệt đẹp đó!"
+    },
+    {
+        "word": "strength",
+        "type": "noun, idiom",
+        "ipa": "strɛŋθ",
+        "meaning": "sức mạnh",
+        "ex": "She'd need her strength for what she planned.",
+        "ipaExTrans": "ʃiːd niːd hɜː strɛŋθ fɔː wɒt ʃiː plænd.",
+        "exMeaning": "Cô ấy sẽ cần sức mạnh của mình cho những gì cô ấy dự định."
+    },
+    {
+        "word": "traffic",
+        "type": "noun, verb",
+        "ipa": "ˈtræfɪk",
+        "meaning": "giao thông",
+        "ex": "In town doing traffic control, I guess.",
+        "ipaExTrans": "ɪn taʊn ˈdu(ː)ɪŋ ˈtræfɪk kənˈtrəʊl, aɪ gɛs.",
+        "exMeaning": "Trong thị trấn làm kiểm soát giao thông, tôi đoán."
+    },
+    {
+        "word": "trip",
+        "type": "noun, verb, idiom",
+        "ipa": "trɪp",
+        "meaning": "chuyến đi",
+        "ex": "Outside of this being her first trip in an airplane, the rest of the flight was uneventful.",
+        "ipaExTrans": "ˌaʊtˈsaɪd ɒv ðɪs ˈbiːɪŋ hɜː fɜːst trɪp ɪn ən ˈeəpleɪn, ðə rɛst ɒv ðə flaɪt wɒz ˌʌnɪˈvɛntfʊl.",
+        "exMeaning": "Ngoài chuyến đi đầu tiên của cô trên một chiếc máy bay, phần còn lại của chuyến bay là không có chuyện gì xảy ra."
+    },
+    {
+        "word": "vegetable",
+        "type": "noun, adjective",
+        "ipa": "ˈvɛʤtəb(ə)l",
+        "meaning": "rau",
+        "ex": "Today, I have a vegetable garden in my backyard.",
+        "ipaExTrans": "təˈdeɪ, aɪ hæv ə ˈvɛʤtəb(ə)l ˈgɑːdn ɪn maɪ ˌbækˈjɑːd.",
+        "exMeaning": "Hôm nay, tôi có một vườn rau ở sân sau của tôi."
+    }
+]

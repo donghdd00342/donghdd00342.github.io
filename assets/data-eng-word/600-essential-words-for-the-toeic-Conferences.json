@@ -1,0 +1,114 @@
+[
+    {
+        "word": "attend",
+        "type": "tham gia",
+        "ipa": "əˈtɛnd",
+        "meaning": "to go to, to pay attention to (dự, có mặt)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "attendee",
+        "type": "người tham dự",
+        "ipa": "attendee",
+        "meaning": "(n) người tham dự",
+        "tag": "Conferences"
+    },
+    {
+        "word": "attendance",
+        "type": "tham dự",
+        "ipa": "əˈtɛndəns",
+        "meaning": "(n) sự tham dự",
+        "tag": "Conferences"
+    },
+    {
+        "word": "get in touch",
+        "type": "liên lạc",
+        "ipa": "gɛt ɪn tʌʧ",
+        "meaning": "(v) to make contact with (giu lien lạc)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "hold",
+        "type": "giữ",
+        "ipa": "həʊld",
+        "meaning": "to accommodate; to conduct (tổ chức, tiến hành)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "location",
+        "type": "vị trí",
+        "ipa": "ləʊˈkeɪʃən",
+        "meaning": "(n) a position or site (vị trí)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "accommodate",
+        "type": "chứa",
+        "ipa": "əˈkɒmədeɪt",
+        "meaning": "to fit, to provide with something needed (điều tiết, làm cho thích nghi, làm cho phù hợp)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "accommodating",
+        "type": "đáp ứng",
+        "ipa": "əˈkɒmədeɪtɪŋ",
+        "meaning": "(adj) điều tiết, thuận tiện, tiện lợi; dễ dãi, dễ tính",
+        "tag": "Conferences"
+    },
+    {
+        "word": "accommodation",
+        "type": "chỗ ở",
+        "ipa": "əˌkɒməˈdeɪʃ(ə)n",
+        "meaning": "(n) nhà trọ, chổ ở, nơi ăn nghỉ",
+        "tag": "Conferences"
+    },
+    {
+        "word": "overcrowded",
+        "type": "quá đông",
+        "ipa": "ˌəʊvəˈkraʊdɪd",
+        "meaning": "too crowded (kéo vào quá đông, dồn vào quá đông)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "arrangement",
+        "type": "sắp xếp",
+        "ipa": "əˈreɪnʤmənt",
+        "meaning": "the plan or organization (sự sắp xếp, sự sắp đặt, cái được sắp xếp, cái được sắp đặt)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "register",
+        "type": "Đăng ký",
+        "ipa": "ˈrɛʤɪstə",
+        "meaning": "(v) to record (đăng ký)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "registration",
+        "type": "đăng ký",
+        "ipa": "ˌrɛʤɪsˈtreɪʃən",
+        "meaning": "sự đăng ký",
+        "tag": "Conferences"
+    },
+    {
+        "word": "association",
+        "type": "hiệp hội",
+        "ipa": "əˌsəʊsɪˈeɪʃ(ə)n",
+        "meaning": "an organization of persons or groups having a common interest (hội, hội liên hiệp; đoàn thể, công ty)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "select",
+        "type": "lựa chọn",
+        "ipa": "sɪˈlɛkt",
+        "meaning": "to choose from a group (chọn, lựa chọn)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "take part in",
+        "type": "tham gia",
+        "ipa": "teɪk pɑːt ɪn",
+        "meaning": "(v) tham gia, tham dự",
+        "tag": "Conferences"
+    }
+]

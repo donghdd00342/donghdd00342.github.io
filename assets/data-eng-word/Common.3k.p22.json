@@ -1,0 +1,889 @@
+[
+    {
+        "word": "popular",
+        "type": "adj",
+        "ipa": "́pɔpjulə",
+        "meaning": "có tính đại chúng, (thuộc) nhân dân; được nhiều người ưa chuộng",
+        "ex": "He had now become a popular leader.",
+        "ipaExTrans": "hiː hæd naʊ bɪˈkʌm ə ˈpɒpjʊlə ˈliːdə.",
+        "exMeaning": "Bây giờ ông đã trở thành một nhà lãnh đạo nổi tiếng."
+    },
+    {
+        "word": "population",
+        "type": "n",
+        "ipa": ",pɔpju'leiʃn",
+        "meaning": "dân cư, dân số; mật độ dân số",
+        "ex": "The population of the nearest big city was growing.",
+        "ipaExTrans": "ðə ˌpɒpjʊˈleɪʃən ɒv ðə ˈnɪərɪst bɪg ˈsɪti wɒz ˈgrəʊɪŋ.",
+        "exMeaning": "Dân số của thành phố lớn gần nhất đang gia tăng."
+    },
+    {
+        "word": "port",
+        "type": "n",
+        "ipa": "pɔ:t",
+        "meaning": "cảng",
+        "ex": "He advocated the creation of a Hungarian port at Fiume.",
+        "ipaExTrans": "hiː ˈædvəkeɪtɪd ðə kri(ː)ˈeɪʃən ɒv ə hʌŋˈgeərɪən pɔːt æt Fiume.",
+        "exMeaning": "Ông ủng hộ việc thành lập một cảng Hungary tại Fiume."
+    },
+    {
+        "word": "pose",
+        "type": "v, n",
+        "ipa": "pouz",
+        "meaning": "đưa ra, đề ra, đặt; sự đặt, đề ra",
+        "ex": "No, I suppose the possibility of snakes does pose a bigger threat.",
+        "ipaExTrans": "nəʊ, aɪ səˈpəʊz ðə ˌpɒsəˈbɪlɪti ɒv sneɪks dʌz pəʊz ə ˈbɪgə θrɛt.",
+        "exMeaning": "Không, tôi cho rằng khả năng rắn gây ra mối đe dọa lớn hơn."
+    },
+    {
+        "word": "position",
+        "type": "n",
+        "ipa": "pəˈzɪʃən",
+        "meaning": "vị trí, chỗ",
+        "ex": "She fluffed the pillow and changed position, unable to sleep.",
+        "ipaExTrans": "ʃiː flʌft ðə ˈpɪləʊ ænd ʧeɪnʤd pəˈzɪʃən, ʌnˈeɪbl tuː sliːp.",
+        "exMeaning": "Cô lộn gối và thay đổi tư thế, không thể ngủ được."
+    },
+    {
+        "word": "positive",
+        "type": "adj",
+        "ipa": "pɔzətiv",
+        "meaning": "khẳng định, xác thực, rõ ràng, tích cực, lạc quan",
+        "ex": "Think positive, and pray.",
+        "ipaExTrans": "θɪŋk ˈpɒzətɪv, ænd preɪ.",
+        "exMeaning": "Suy nghĩ tích cực, và cầu nguyện."
+    },
+    {
+        "word": "possess",
+        "type": "v",
+        "ipa": "pə'zes",
+        "meaning": "có, chiếm hữu",
+        "ex": "The acorns of the oak possess a considerable economic importance as food for swine.",
+        "ipaExTrans": "ði ˈeɪkɔːnz ɒv ði əʊk pəˈzɛs ə kənˈsɪdərəbl ˌiːkəˈnɒmɪk ɪmˈpɔːtəns æz fuːd fɔː swaɪn.",
+        "exMeaning": "Cây sồi của cây sồi có một tầm quan trọng kinh tế đáng kể là thức ăn cho lợn."
+    },
+    {
+        "word": "possession",
+        "type": "n",
+        "ipa": "pə'zeʃn",
+        "meaning": "quyền sở hữu, vật sở hữu",
+        "ex": "She barely had time to lift the veil before he took possession of her lips as well.",
+        "ipaExTrans": "ʃiː ˈbeəli hæd taɪm tuː lɪft ðə veɪl bɪˈfɔː hiː tʊk pəˈzɛʃən ɒv hɜː lɪps æz wɛl.",
+        "exMeaning": "Cô hầu như không có thời gian để vén bức màn lên trước khi anh cũng chiếm hữu đôi môi cô."
+    },
+    {
+        "word": "possibility",
+        "type": "n",
+        "ipa": "̧pɔsi ́biliti",
+        "meaning": "khả năng, triển vọng",
+        "ex": "The possibility has crossed my mind.",
+        "ipaExTrans": "ðə ˌpɒsəˈbɪlɪti hæz krɒst maɪ maɪnd.",
+        "exMeaning": "Khả năng đã vượt qua tâm trí của tôi."
+    },
+    {
+        "word": "possible",
+        "type": "adj",
+        "ipa": "pɔsibəl",
+        "meaning": "có thể, có thể thực hiện",
+        "ex": "I have only three possible answers.",
+        "ipaExTrans": "aɪ hæv ˈəʊnli θriː ˈpɒsəbl ˈɑːnsəz.",
+        "exMeaning": "Tôi chỉ có ba câu trả lời có thể."
+    },
+    {
+        "word": "possibly",
+        "type": "adv",
+        "ipa": "́pɔsibli",
+        "meaning": "có lẽ, có thể, có thể chấp nhận được",
+        "ex": "I couldn't possibly do it.",
+        "ipaExTrans": "aɪ ˈkʊdnt ˈpɒsəbli duː ɪt.",
+        "exMeaning": "Tôi không thể làm điều đó."
+    },
+    {
+        "word": "post",
+        "type": "n, v",
+        "ipa": "poʊst",
+        "meaning": "thư, bưu kiện; gửi thư",
+        "ex": "All my mail goes to a post office box.",
+        "ipaExTrans": "ɔːl maɪ meɪl gəʊz tuː ə pəʊst ˈɒfɪs bɒks.",
+        "exMeaning": "Tất cả thư của tôi đi đến một hộp thư bưu điện."
+    },
+    {
+        "word": "post office",
+        "type": "n",
+        "ipa": "ɔfis",
+        "meaning": "bưu điện"
+    },
+    {
+        "word": "pot",
+        "type": "n",
+        "ipa": "pɒt",
+        "meaning": "can, bình, lọ...",
+        "ex": "She was cleaning the coffee pot and Alex was reclining in a chair at the table, enjoying the last cup of coffee.",
+        "ipaExTrans": "ʃiː wɒz ˈkliːnɪŋ ðə ˈkɒfi pɒt ænd ˈæləks wɒz rɪˈklaɪnɪŋ ɪn ə ʧeər æt ðə ˈteɪbl, ɪnˈʤɔɪɪŋ ðə lɑːst kʌp ɒv ˈkɒfi.",
+        "exMeaning": "Cô đang lau chùi bình cà phê và Alex đang ngả người trên ghế ở bàn, thưởng thức tách cà phê cuối cùng."
+    },
+    {
+        "word": "potato",
+        "type": "n",
+        "ipa": "pə'teitou",
+        "meaning": "khoai tây",
+        "ex": "Katie stared at the potato in her hand.",
+        "ipaExTrans": "ˈkeɪti steəd æt ðə pəˈteɪtəʊ ɪn hɜː hænd.",
+        "exMeaning": "Katie nhìn chằm chằm vào củ khoai tây trong tay."
+    },
+    {
+        "word": "potential",
+        "type": "adj, n",
+        "ipa": "pəˈtɛnʃəl",
+        "meaning": "tiềm năng; khả năng, tiềm lực",
+        "ex": "What is the potential impact of the costs of future technologies?",
+        "ipaExTrans": "wɒt ɪz ðə pəʊˈtɛnʃəl ˈɪmpækt ɒv ðə kɒsts ɒv ˈfjuːʧə tɛkˈnɒləʤiz?",
+        "exMeaning": "Tác động tiềm tàng của chi phí của các công nghệ trong tương lai là gì?"
+    },
+    {
+        "word": "potentially",
+        "type": "adv",
+        "ipa": "pəˈtɛnʃəlli",
+        "meaning": "tiềm năng, tiềm ẩn",
+        "ex": "Potentially bad, she corrected herself.",
+        "ipaExTrans": "pəʊˈtɛnʃəli bæd, ʃiː kəˈrɛktɪd hɜːˈsɛlf.",
+        "exMeaning": "Có khả năng xấu, cô ấy tự sửa."
+    },
+    {
+        "word": "pound",
+        "type": "n",
+        "ipa": "paund",
+        "meaning": "pao - đơn vị đo lường",
+        "ex": "Sofia wanted to pound Jake's face in.",
+        "ipaExTrans": "ˈsəʊfɪə ˈwɒntɪd tuː paʊnd ʤeɪks feɪs ɪn.",
+        "exMeaning": "Sofia muốn đập mặt Jake vào."
+    },
+    {
+        "word": "pour",
+        "type": "v",
+        "ipa": "pɔ:",
+        "meaning": "rót, đổ, giội",
+        "ex": "Sit down and I'll pour some coffee, she said over her shoulder.",
+        "ipaExTrans": "sɪt daʊn ænd aɪl pɔː sʌm ˈkɒfi, ʃiː sɛd ˈəʊvə hɜː ˈʃəʊldə.",
+        "exMeaning": "Ngồi xuống và tôi sẽ rót cà phê, cô ấy nói qua vai."
+    },
+    {
+        "word": "powder",
+        "type": "n",
+        "ipa": "paudə",
+        "meaning": "bột, bụi",
+        "ex": "They shall get no powder, if I can help it.",
+        "ipaExTrans": "ðeɪ ʃæl gɛt nəʊ ˈpaʊdə, ɪf aɪ kæn hɛlp ɪt.",
+        "exMeaning": "Họ sẽ không nhận được bột, nếu tôi có thể giúp nó."
+    },
+    {
+        "word": "power",
+        "type": "n",
+        "ipa": "ˈpauə(r)",
+        "meaning": "khả năng, tài năng, năng lực; sức mạnh, nội lực; quyền lực",
+        "ex": "His phone was destroyed and his power drained.",
+        "ipaExTrans": "hɪz fəʊn wɒz dɪsˈtrɔɪd ænd hɪz ˈpaʊə dreɪnd.",
+        "exMeaning": "Điện thoại của anh đã bị phá hủy và sức mạnh của anh cạn kiệt."
+    },
+    {
+        "word": "powerful",
+        "type": "adj",
+        "ipa": "́pauəful",
+        "meaning": "hùng mạnh, hùng cường",
+        "ex": "The powerful words made her frown.",
+        "ipaExTrans": "ðə ˈpaʊəfʊl wɜːdz meɪd hɜː fraʊn.",
+        "exMeaning": "Những lời nói mạnh mẽ khiến cô nhăn mặt."
+    },
+    {
+        "word": "practical",
+        "type": "adj",
+        "ipa": "ˈpræktɪkəl",
+        "meaning": "thực hành; thực tế",
+        "ex": "For all practical purposes, we have an unlimited supply of air to breathe.",
+        "ipaExTrans": "fɔːr ɔːl ˈpræktɪkəl ˈpɜːpəsɪz, wiː hæv ən ʌnˈlɪmɪtɪd səˈplaɪ ɒv eə tuː briːð.",
+        "exMeaning": "Đối với tất cả các mục đích thực tế, chúng tôi có một nguồn cung cấp không khí không giới hạn để thở."
+    },
+    {
+        "word": "practically",
+        "type": "adv",
+        "ipa": "́præktikəli",
+        "meaning": "về mặt thực hành; thực tế",
+        "ex": "Jeez, you know, it's still practically dark out.",
+        "ipaExTrans": "ʤiːz, juː nəʊ, ɪts stɪl ˈpræktɪk(ə)li dɑːk aʊt.",
+        "exMeaning": "Jeez, bạn biết đấy, nó vẫn thực sự tối."
+    },
+    {
+        "word": "practice",
+        "type": "n",
+        "ipa": "́præktis",
+        "meaning": "thực hành, thực tiễn",
+        "ex": "Everything gets better with practice, Carmen.",
+        "ipaExTrans": "ˈɛvrɪθɪŋ gɛts ˈbɛtə wɪð ˈpræktɪs, ˈkɑːmən.",
+        "exMeaning": "Mọi thứ trở nên tốt hơn với thực hành, Carmen."
+    },
+    {
+        "word": "practise",
+        "type": "v",
+        "ipa": "́præktis",
+        "meaning": "thực hành, tập luyện",
+        "ex": "A rescript of Augustus forbade Roman citizens to practise druidical rites.",
+        "ipaExTrans": "ə ˈriːskrɪpt ɒv əˈgʌstəs fəˈbeɪd ˈrəʊmən ˈsɪtɪznz tuː ˈpræktɪs druidical raɪts.",
+        "exMeaning": "Một bản tái bản của Augustus đã cấm công dân La Mã thực hành các nghi thức cực đoan."
+    },
+    {
+        "word": "praise",
+        "type": "n, v",
+        "ipa": "preiz",
+        "meaning": "sự ca ngợi, sự tán dương, lòng tôn kính, tôn thờ; khen ngợi, tán dương",
+        "ex": "Pete was conservative with his praise, so she felt honored.",
+        "ipaExTrans": "piːt wɒz kənˈsɜːvətɪv wɪð hɪz preɪz, səʊ ʃiː fɛlt ˈɒnəd.",
+        "exMeaning": "Pete bảo thủ với lời khen ngợi của anh ấy, vì vậy cô cảm thấy vinh dự."
+    },
+    {
+        "word": "prayer",
+        "type": "n",
+        "ipa": "prɛər",
+        "meaning": "sự cầu nguyện",
+        "ex": "His companion's prayer is forgotten.",
+        "ipaExTrans": "hɪz kəmˈpænjənz preər ɪz fəˈgɒtn.",
+        "exMeaning": "Lời cầu nguyện của người bạn đồng hành bị lãng quên."
+    },
+    {
+        "word": "precise",
+        "type": "adj",
+        "ipa": "pri ́sais",
+        "meaning": "rõ ràng, chính xác; tỉ mỉ, kỹ tính",
+        "ex": "That's why he has so many precise numbers.",
+        "ipaExTrans": "ðæts waɪ hiː hæz səʊ ˈmɛni prɪˈsaɪz ˈnʌmbəz.",
+        "exMeaning": "Đó là lý do tại sao anh ta có rất nhiều con số chính xác."
+    },
+    {
+        "word": "precisely",
+        "type": "adv",
+        "ipa": "pri ́saisli",
+        "meaning": "đúng, chính xác, cần thận",
+        "ex": "The time, of day however, was precisely known.",
+        "ipaExTrans": "ðə taɪm, ɒv deɪ haʊˈɛvə, wɒz prɪˈsaɪsli nəʊn.",
+        "exMeaning": "Thời gian, trong ngày, tuy nhiên, đã được biết chính xác."
+    },
+    {
+        "word": "predict",
+        "type": "v",
+        "ipa": "pri'dikt",
+        "meaning": "báo trước, tiên đoán, dự báo",
+        "ex": "I predict tonight will be a huge success.",
+        "ipaExTrans": "aɪ prɪˈdɪkt təˈnaɪt wɪl biː ə hjuːʤ səkˈsɛs.",
+        "exMeaning": "Tôi dự đoán tối nay sẽ là một thành công lớn."
+    },
+    {
+        "word": "prefer",
+        "type": "v",
+        "ipa": "pri'fə:",
+        "meaning": "thích hơn",
+        "ex": "I prefer to work on my terms.",
+        "ipaExTrans": "aɪ priˈfɜː tuː wɜːk ɒn maɪ tɜːmz.",
+        "exMeaning": "Tôi thích làm việc theo các điều khoản của tôi."
+    },
+    {
+        "word": "preference",
+        "type": "n",
+        "ipa": "prefərəns",
+        "meaning": "sự thích hơn, sự ưa hơn; cái được ưa thích hơn",
+        "ex": "Their dates had been modest, but was that by preference, or because he had limited funding?",
+        "ipaExTrans": "ðeə deɪts hæd biːn ˈmɒdɪst, bʌt wɒz ðæt baɪ ˈprɛfərəns, ɔː bɪˈkɒz hiː hæd ˈlɪmɪtɪd ˈfʌndɪŋ?",
+        "exMeaning": "Ngày tháng của họ rất khiêm tốn, nhưng đó là do sở thích, hay vì anh ta có kinh phí hạn chế?"
+    },
+    {
+        "word": "pregnant",
+        "type": "adj",
+        "ipa": "pregnənt",
+        "meaning": "mang thai; giàu trí tưởng tượng, sáng tạo",
+        "ex": "If I could get you pregnant, we wouldn't be having this conversation right now.",
+        "ipaExTrans": "ɪf aɪ kʊd gɛt juː ˈprɛgnənt, wiː ˈwʊdnt biː ˈhævɪŋ ðɪs ˌkɒnvəˈseɪʃən raɪt naʊ.",
+        "exMeaning": "Nếu tôi có thể mang thai, chúng tôi sẽ không có cuộc trò chuyện này ngay bây giờ."
+    },
+    {
+        "word": "premises",
+        "type": "n",
+        "ipa": "premis",
+        "meaning": "biệt thự",
+        "ex": "The new decoration of the Premises contributed much to the magnificence of the spectacle.",
+        "ipaExTrans": "ðə njuː ˌdɛkəˈreɪʃən ɒv ðə ˈprɛmɪsɪz kənˈtrɪbju(ː)tɪd mʌʧ tuː ðə mægˈnɪfɪsns ɒv ðə ˈspɛktəkl.",
+        "exMeaning": "Trang trí mới của Mặt bằng đóng góp nhiều vào sự tráng lệ của cảnh tượng."
+    },
+    {
+        "word": "preparation",
+        "type": "n",
+        "ipa": "̧prepə ́reiʃən",
+        "meaning": "sự sửa soạn, sự chuẩn bị",
+        "ex": "In this way my preparation for college went on without interruption.",
+        "ipaExTrans": "ɪn ðɪs weɪ maɪ ˌprɛpəˈreɪʃən fɔː ˈkɒlɪʤ wɛnt ɒn wɪˈðaʊt ˌɪntəˈrʌpʃən.",
+        "exMeaning": "Theo cách này, sự chuẩn bị của tôi cho đại học đã diễn ra mà không bị gián đoạn."
+    },
+    {
+        "word": "prepare",
+        "type": "v",
+        "ipa": "pri ́peə",
+        "meaning": "sửa soạn, chuẩn bị",
+        "ex": "We have two days to prepare ourselves.",
+        "ipaExTrans": "wiː hæv tuː deɪz tuː prɪˈpeər ˌaʊəˈsɛlvz.",
+        "exMeaning": "Chúng tôi có hai ngày để chuẩn bị."
+    },
+    {
+        "word": "prepared",
+        "type": "adj",
+        "ipa": "pri'peəd",
+        "meaning": "đã được chuẩn bị",
+        "ex": "You've prepared me for this day.",
+        "ipaExTrans": "juːv prɪˈpeəd miː fɔː ðɪs deɪ.",
+        "exMeaning": "Bạn đã chuẩn bị cho tôi cho ngày này."
+    },
+    {
+        "word": "presence",
+        "type": "n",
+        "ipa": "prezns",
+        "meaning": "sự hiện diện, sự có mặt; người, vât hiện diện",
+        "ex": "He spoke to her, and his cold presence was close.",
+        "ipaExTrans": "hiː spəʊk tuː hɜː, ænd hɪz kəʊld ˈprɛzns wɒz kləʊs.",
+        "exMeaning": "Anh nói với cô, và sự hiện diện lạnh lùng của anh thật gần."
+    },
+    {
+        "word": "present",
+        "type": "adj, n, v",
+        "ipa": "(v)pri'zent",
+        "meaning": "có mặt, hiện diện; hiện nay, hiện thời; bày tỏ, giới thiệu, trình bày",
+        "ex": "Carmen asked, setting a freshly-wrapped present aside.",
+        "ipaExTrans": "ˈkɑːmən ɑːskt, ˈsɛtɪŋ ə ˈfrɛʃli-ræpt ˈprɛznt əˈsaɪd.",
+        "exMeaning": "Carmen hỏi, đặt một món quà mới được gói sang một bên."
+    },
+    {
+        "word": "presentation",
+        "type": "n",
+        "ipa": ",prezen'teiʃn",
+        "meaning": "bài thuyết trình, sự trình diện, sự giới thiệu"
+    },
+    {
+        "word": "preserve",
+        "type": "v",
+        "ipa": "pri'zə:v",
+        "meaning": "bảo quản, giữ gìn",
+        "ex": "He wanted to protect her and preserve her innocence.",
+        "ipaExTrans": "hiː ˈwɒntɪd tuː prəˈtɛkt hɜːr ænd prɪˈzɜːv hɜːr ˈɪnəsəns.",
+        "exMeaning": "Anh muốn bảo vệ cô và giữ gìn sự hồn nhiên của cô."
+    },
+    {
+        "word": "president",
+        "type": "n",
+        "ipa": "́prezidənt",
+        "meaning": "hiệu trưởng, chủ tịnh, tổng thống",
+        "ex": "Hayes, president of the United States from 1877 to 1881.",
+        "ipaExTrans": "heɪz, ˈprɛzɪdənt ɒv ðə jʊˈnaɪtɪd steɪts frɒm 1877 tuː 1881.",
+        "exMeaning": "Hayes, tổng thống Hoa Kỳ từ 1877 đến 1881."
+    },
+    {
+        "word": "press",
+        "type": "n, v",
+        "ipa": "pres",
+        "meaning": "sự ép, sự nén, sự ấn; ép, nén, bóp, ấn",
+        "ex": "One side of her wanted to press on until she got some answers.",
+        "ipaExTrans": "wʌn saɪd ɒv hɜː ˈwɒntɪd tuː prɛs ɒn ənˈtɪl ʃiː gɒt sʌm ˈɑːnsəz.",
+        "exMeaning": "Một bên của cô muốn nhấn vào cho đến khi cô nhận được một số câu trả lời."
+    },
+    {
+        "word": "pressure",
+        "type": "n",
+        "ipa": "preʃə",
+        "meaning": "sức ép, áp lực, áp suất",
+        "ex": "Let me put pressure on it.",
+        "ipaExTrans": "lɛt miː pʊt ˈprɛʃər ɒn ɪt.",
+        "exMeaning": "Hãy để tôi gây áp lực cho nó."
+    },
+    {
+        "word": "presumably",
+        "type": "adv",
+        "ipa": "pri'zju:məbli",
+        "meaning": "có thể được, có lẽ",
+        "ex": "Presumably it was a daughter of these Hittites that Solomon took to wife.",
+        "ipaExTrans": "prɪˈzjuːməbli ɪt wɒz ə ˈdɔːtər ɒv ðiːz Hittites ðæt ˈsɒləmən tʊk tuː waɪf.",
+        "exMeaning": "Có lẽ đó là con gái của những người Hittites mà Solomon đã lấy làm vợ."
+    },
+    {
+        "word": "pretend",
+        "type": "v",
+        "ipa": "pri'tend",
+        "meaning": "giả vờ, giả bộ, làm ra vẻ",
+        "ex": "I used to pretend when I was young.",
+        "ipaExTrans": "aɪ juːzd tuː prɪˈtɛnd wɛn aɪ wɒz jʌŋ.",
+        "exMeaning": "Tôi đã từng giả vờ khi còn trẻ."
+    },
+    {
+        "word": "pretty",
+        "type": "adv, adj",
+        "ipa": "priti",
+        "meaning": "khá, vưa phải; xinh, xinh xắn;, đẹp",
+        "ex": "Your aunt and uncle seem pretty fond of you.",
+        "ipaExTrans": "jɔːr ɑːnt ænd ˈʌŋkl siːm ˈprɪti fɒnd ɒv juː.",
+        "exMeaning": "Dì và chú của bạn có vẻ khá thích bạn."
+    },
+    {
+        "word": "prevent",
+        "type": "v",
+        "ipa": "pri'vent",
+        "meaning": "ngăn cản, ngăn chặn, ngăn ngưa",
+        "ex": "More than likely the correction was to prevent her from being embarrassed.",
+        "ipaExTrans": "mɔː ðæn ˈlaɪkli ðə kəˈrɛkʃən wɒz tuː prɪˈvɛnt hɜː frɒm ˈbiːɪŋ ɪmˈbærəst.",
+        "exMeaning": "Nhiều khả năng sự điều chỉnh là để ngăn cô khỏi bối rối."
+    },
+    {
+        "word": "previous",
+        "type": "adj",
+        "ipa": "ˈpriviəs",
+        "meaning": "vội vàng, hấp tấp; trước (vd. ngày hôm trước), ưu tiên"
+    },
+    {
+        "word": "previously",
+        "type": "adv",
+        "ipa": "́pri:viəsli",
+        "meaning": "trước, trước đây",
+        "ex": "She opened the door and the bright daylight in that previously darkened room startled her.",
+        "ipaExTrans": "ʃiː ˈəʊpənd ðə dɔːr ænd ðə braɪt ˈdeɪlaɪt ɪn ðæt ˈpriːviəsli ˈdɑːkənd ruːm ˈstɑːtld hɜː.",
+        "exMeaning": "Cô mở cửa và ánh sáng ban ngày trong căn phòng tối om đó làm cô giật mình."
+    },
+    {
+        "word": "price",
+        "type": "n",
+        "ipa": "prais",
+        "meaning": "giá",
+        "ex": "Then they all agree to set the price per flip at $1,000.",
+        "ipaExTrans": "ðɛn ðeɪ ɔːl əˈgriː tuː sɛt ðə praɪs pɜː flɪp æt $1,000.",
+        "exMeaning": "Sau đó, tất cả họ đồng ý đặt giá mỗi lần lật là $ 1.000."
+    },
+    {
+        "word": "pride",
+        "type": "n",
+        "ipa": "praid",
+        "meaning": "sự kiêu hãnh, sự hãnh diện; tính kiêu căng, tự phụ",
+        "ex": "Of course, his pride was injured.",
+        "ipaExTrans": "ɒv kɔːs, hɪz praɪd wɒz ˈɪnʤəd.",
+        "exMeaning": "Tất nhiên, niềm tự hào của anh đã bị tổn thương."
+    },
+    {
+        "word": "priest",
+        "type": "n",
+        "ipa": "pri:st",
+        "meaning": "linh mục, thầy tu",
+        "ex": "After some readings and a hymn, the priest moved to the pulpit.",
+        "ipaExTrans": "ˈɑːftə sʌm ˈriːdɪŋz ænd ə hɪm, ðə priːst muːvd tuː ðə ˈpʊlpɪt.",
+        "exMeaning": "Sau một số bài đọc và một bài thánh ca, linh mục di chuyển đến bục giảng."
+    },
+    {
+        "word": "primarily",
+        "type": "adv",
+        "ipa": "́praimərili",
+        "meaning": "trước hết, đầu tiên",
+        "ex": "- The state is primarily agricultural.",
+        "ipaExTrans": "- ðə steɪt ɪz ˈpraɪmərɪli ˌægrɪˈkʌlʧərəl.",
+        "exMeaning": "- Nhà nước chủ yếu là nông nghiệp."
+    },
+    {
+        "word": "primary",
+        "type": "adj",
+        "ipa": "praiməri",
+        "meaning": "nguyên thủy, đầu tiên; thời cổ đại, nguyên sinh; sơ cấp, tiểu học",
+        "ex": "Support was heavy for the school's primary sport.",
+        "ipaExTrans": "səˈpɔːt wɒz ˈhɛvi fɔː ðə skuːlz ˈpraɪməri spɔːt.",
+        "exMeaning": "Hỗ trợ rất nặng nề cho môn thể thao chính của trường."
+    },
+    {
+        "word": "prime minister",
+        "type": "n",
+        "ipa": "́ministə",
+        "meaning": "thủ tướng"
+    },
+    {
+        "word": "prince",
+        "type": "n",
+        "ipa": "prins",
+        "meaning": "hoàn tử",
+        "ex": "The prince shifted in his seat, his large frame tense.",
+        "ipaExTrans": "ðə prɪns ˈʃɪftɪd ɪn hɪz siːt, hɪz lɑːʤ freɪm tɛns.",
+        "exMeaning": "Hoàng tử chuyển sang chỗ ngồi của mình, khung hình lớn căng thẳng."
+    },
+    {
+        "word": "princess",
+        "type": "n",
+        "ipa": "prin'ses",
+        "meaning": "công chúa",
+        "ex": "You look like a princess, Dean said.",
+        "ipaExTrans": "juː lʊk laɪk ə prɪnˈsɛs, diːn sɛd.",
+        "exMeaning": "Bạn trông giống như một nàng công chúa, Dean nói."
+    },
+    {
+        "word": "principle",
+        "type": "n",
+        "ipa": "ˈprɪnsəpəl",
+        "meaning": "cơ bản, chủ yếu; nguyên lý, nguyên tắc",
+        "ex": "Why couldn't Katie understand that there was a principle involved?",
+        "ipaExTrans": "waɪ ˈkʊdnt ˈkeɪti ˌʌndəˈstænd ðæt ðeə wɒz ə ˈprɪnsəpl ɪnˈvɒlvd?",
+        "exMeaning": "Tại sao Katie không thể hiểu rằng có một nguyên tắc liên quan?"
+    },
+    {
+        "word": "print",
+        "type": "v, n",
+        "ipa": "print",
+        "meaning": "in, xuất bản; sự in ra",
+        "ex": "It seems to me when you practice letters, you print uppercase letters first, don't you?",
+        "ipaExTrans": "ɪt siːmz tuː miː wɛn juː ˈpræktɪs ˈlɛtəz, juː prɪnt uppercase ˈlɛtəz fɜːst, dəʊnt juː?",
+        "exMeaning": "Dường như với tôi khi bạn thực hành chữ cái, bạn in chữ in hoa trước, phải không?"
+    },
+    {
+        "word": "printer",
+        "type": "n",
+        "ipa": "́printə",
+        "meaning": "máy in, thợ in",
+        "ex": "This printer is purely mechanical, and its speed is very high.",
+        "ipaExTrans": "ðɪs ˈprɪntər ɪz ˈpjʊəli mɪˈkænɪkəl, ænd ɪts spiːd ɪz ˈvɛri haɪ.",
+        "exMeaning": "Máy in này hoàn toàn là cơ khí, và tốc độ của nó rất cao."
+    },
+    {
+        "word": "printing",
+        "type": "n",
+        "ipa": "́printiη",
+        "meaning": "sự in, thuật in, kỹ sảo in",
+        "ex": "If the aim was the dissemination of ideas, the printing press could have accomplished that much better than warfare.",
+        "ipaExTrans": "ɪf ði eɪm wɒz ðə dɪˌsɛmɪˈneɪʃən ɒv aɪˈdɪəz, ðə ˈprɪntɪŋ prɛs kʊd hæv əˈkɒmplɪʃt ðæt mʌʧ ˈbɛtə ðæn ˈwɔːfeə.",
+        "exMeaning": "Nếu mục đích là phổ biến các ý tưởng, báo in có thể đã hoàn thành nó tốt hơn nhiều so với chiến tranh."
+    },
+    {
+        "word": "prior",
+        "type": "adj",
+        "ipa": "praɪə(r)",
+        "meaning": "trước, ưu tiên",
+        "ex": "I'd witnessed his reaction the prior night.",
+        "ipaExTrans": "aɪd ˈwɪtnɪst hɪz ri(ː)ˈækʃən ðə ˈpraɪə naɪt.",
+        "exMeaning": "Tôi đã chứng kiến ​​phản ứng của anh ấy đêm hôm trước."
+    },
+    {
+        "word": "priority",
+        "type": "n",
+        "ipa": "prai ́ɔriti",
+        "meaning": "sự ưu tế, quyền ưu tiên",
+        "ex": "The first priority was rescuing children.",
+        "ipaExTrans": "ðə fɜːst praɪˈɒrɪti wɒz ˈrɛskjuːɪŋ ˈʧɪldrən.",
+        "exMeaning": "Ưu tiên hàng đầu là giải cứu trẻ em."
+    },
+    {
+        "word": "prison",
+        "type": "n",
+        "ipa": "ˈprɪzən",
+        "meaning": "nhà tù",
+        "ex": "My prison had only a kerosene lamp for light.",
+        "ipaExTrans": "maɪ ˈprɪzn hæd ˈəʊnli ə ˈkɛrəsiːn læmp fɔː laɪt.",
+        "exMeaning": "Nhà tù của tôi chỉ có một ngọn đèn dầu để thắp sáng."
+    },
+    {
+        "word": "prisoner",
+        "type": "n",
+        "ipa": "ˈprɪzənə(r)",
+        "meaning": "tù nhân",
+        "ex": "The prisoner was led away.",
+        "ipaExTrans": "ðə ˈprɪznə wɒz lɛd əˈweɪ.",
+        "exMeaning": "Người tù bị dẫn đi."
+    },
+    {
+        "word": "private",
+        "type": "adj",
+        "ipa": "ˈpraɪvɪt",
+        "meaning": "cá nhân, riêng",
+        "ex": "I'm trying to have a private conversation here.",
+        "ipaExTrans": "aɪm ˈtraɪɪŋ tuː hæv ə ˈpraɪvɪt ˌkɒnvəˈseɪʃən hɪə.",
+        "exMeaning": "Tôi đang cố gắng để có một cuộc trò chuyện riêng tư ở đây."
+    },
+    {
+        "word": "privately",
+        "type": "adv",
+        "ipa": "ˈpraɪvɪtli",
+        "meaning": "riêng tư, cá nhân",
+        "ex": "They could discuss it privately when they got home.",
+        "ipaExTrans": "ðeɪ kʊd dɪsˈkʌs ɪt ˈpraɪvɪtli wɛn ðeɪ gɒt həʊm.",
+        "exMeaning": "Họ có thể thảo luận riêng tư khi về đến nhà."
+    },
+    {
+        "word": "prize",
+        "type": "n",
+        "ipa": "praiz",
+        "meaning": "giải, giải thưởng",
+        "ex": "I've not taken a prize in weeks.",
+        "ipaExTrans": "aɪv nɒt ˈteɪkən ə praɪz ɪn wiːks.",
+        "exMeaning": "Tôi đã không nhận được một giải thưởng trong tuần."
+    },
+    {
+        "word": "probable",
+        "type": "adj",
+        "ipa": "́prɔbəbl",
+        "meaning": "có thể, có khả năng",
+        "ex": "We knew some of our tips never came to fruition simply because authorities lacked the probable cause to arrest the perpetrator.",
+        "ipaExTrans": "wiː njuː sʌm ɒv ˈaʊə tɪps ˈnɛvə keɪm tuː fru(ː)ˈɪʃən ˈsɪmpli bɪˈkɒz ɔːˈθɒrɪtiz lækt ðə ˈprɒbəbl kɔːz tuː əˈrɛst ðə ˈpɜːpɪtreɪtə.",
+        "exMeaning": "Chúng tôi biết một số lời khuyên của chúng tôi không bao giờ thành hiện thực chỉ vì các nhà chức trách thiếu nguyên nhân có thể xảy ra để bắt giữ hung thủ."
+    },
+    {
+        "word": "probably",
+        "type": "adv",
+        "ipa": "́prɔbəbli",
+        "meaning": "hầu như chắc chắn",
+        "ex": "She was probably right.",
+        "ipaExTrans": "ʃiː wɒz ˈprɒbəbli raɪt.",
+        "exMeaning": "Cô ấy có lẽ đúng."
+    },
+    {
+        "word": "problem",
+        "type": "n",
+        "ipa": "prɔbləm",
+        "meaning": "vấn đề, điều khó giải quyết",
+        "ex": "The problem wasn't Dulce or his father.",
+        "ipaExTrans": "ðə ˈprɒbləm wɒznt Dulce ɔː hɪz ˈfɑːðə.",
+        "exMeaning": "Vấn đề không phải là Dulce hay cha anh."
+    },
+    {
+        "word": "procedure",
+        "type": "n",
+        "ipa": "prə ́si:dʒə",
+        "meaning": "thủ tục",
+        "ex": "The civil procedure was kept secret.",
+        "ipaExTrans": "ðə ˈsɪvl prəˈsiːʤə wɒz kɛpt ˈsiːkrɪt.",
+        "exMeaning": "Thủ tục tố tụng dân sự được giữ bí mật."
+    },
+    {
+        "word": "proceed",
+        "type": "v",
+        "ipa": "proceed",
+        "meaning": "tiến lên, theo duổi, tiếp diễn",
+        "ex": "You may now proceed through the checkout.",
+        "ipaExTrans": "juː meɪ naʊ prəˈsiːd θruː ðə ˈʧəkˈaʊt.",
+        "exMeaning": "Bây giờ bạn có thể tiến hành thanh toán."
+    },
+    {
+        "word": "process",
+        "type": "n, v",
+        "ipa": "prouses",
+        "meaning": "quá trình, sự tiến triển, quy trình; chế biến, gia công, xử lý",
+        "ex": "My God, I can't even process that!",
+        "ipaExTrans": "maɪ gɒd, aɪ kɑːnt ˈiːvən ˈprəʊsɛs ðæt!",
+        "exMeaning": "Chúa ơi, tôi thậm chí không thể xử lý nó!"
+    },
+    {
+        "word": "produce",
+        "type": "v",
+        "ipa": "prɔdju:s",
+        "meaning": "sản xuất, chế tạo",
+        "ex": "Tobacco, vegetables and other garden produce are much cultivated; cotton could probably be grown with profit.",
+        "ipaExTrans": "təˈbækəʊ, ˈvɛʤtəb(ə)lz ænd ˈʌðə ˈgɑːdn ˈprɒdjuːs ɑː mʌʧ ˈkʌltɪveɪtɪd; ˈkɒtn kʊd ˈprɒbəbli biː grəʊn wɪð ˈprɒfɪt.",
+        "exMeaning": "Thuốc lá, rau và các sản phẩm vườn khác được trồng nhiều; bông có thể được trồng với lợi nhuận."
+    },
+    {
+        "word": "producer",
+        "type": "n",
+        "ipa": "prə ́dju:sə",
+        "meaning": "nhà sản xuất",
+        "ex": "Of the less important minerals, Canada is the world's chief producer of asbestos and corundum.",
+        "ipaExTrans": "ɒv ðə lɛs ɪmˈpɔːtənt ˈmɪnərəlz, ˈkænədə ɪz ðə wɜːldz ʧiːf prəˈdjuːsər ɒv æzˈbɛstɒs ænd corundum.",
+        "exMeaning": "Trong số các khoáng sản ít quan trọng hơn, Canada là nhà sản xuất amiăng và corundum chính của thế giới."
+    },
+    {
+        "word": "product",
+        "type": "n",
+        "ipa": "́prɔdʌkt",
+        "meaning": "sản phẩm",
+        "ex": "Either way, the words were the product of a kind heart.",
+        "ipaExTrans": "ˈaɪðə weɪ, ðə wɜːdz wɜː ðə ˈprɒdʌkt ɒv ə kaɪnd hɑːt.",
+        "exMeaning": "Dù bằng cách nào, những lời nói là sản phẩm của một trái tim nhân hậu."
+    },
+    {
+        "word": "production",
+        "type": "n",
+        "ipa": "prə ́dʌkʃən",
+        "meaning": "sự sản xuất, chế tạo",
+        "ex": "Look at the way he made a production out of opening up the box.",
+        "ipaExTrans": "lʊk æt ðə weɪ hiː meɪd ə prəˈdʌkʃən aʊt ɒv ˈəʊpnɪŋ ʌp ðə bɒks.",
+        "exMeaning": "Hãy nhìn cách anh ấy thực hiện một sản phẩm mở hộp."
+    },
+    {
+        "word": "profession",
+        "type": "n",
+        "ipa": "prə ́feʃ(ə)n",
+        "meaning": "nghề, nghề nghiệp",
+        "ex": "He was educated for the profession of law and practised as avocat.",
+        "ipaExTrans": "hiː wɒz ˈɛdju(ː)keɪtɪd fɔː ðə prəˈfɛʃən ɒv lɔː ænd ˈpræktɪst æz avocat.",
+        "exMeaning": "Ông được giáo dục cho nghề luật và hành nghề như avocat."
+    },
+    {
+        "word": "professional",
+        "type": "adj, n",
+        "ipa": "prə'feʃənl",
+        "meaning": "(thuộc) nghề, nghề nghiệp; chuyên nghiệp",
+        "ex": "He slipped into that professional persona.",
+        "ipaExTrans": "hiː slɪpt ˈɪntuː ðæt prəˈfɛʃənl pɜːˈsəʊnə.",
+        "exMeaning": "Anh trượt vào nhân cách chuyên nghiệp đó."
+    },
+    {
+        "word": "professor",
+        "type": "n",
+        "ipa": "prəˈfɛsər",
+        "meaning": "giáo sư, giảng viên",
+        "ex": "Fred took on the air of a learned professor as he explained.",
+        "ipaExTrans": "frɛd tʊk ɒn ði eər ɒv ə lɜːnt prəˈfɛsər æz hiː ɪksˈpleɪnd.",
+        "exMeaning": "Fred tiếp nhận không khí của một giáo sư uyên bác khi anh giải thích."
+    },
+    {
+        "word": "profit",
+        "type": "n",
+        "ipa": "ˈprɒfɪt",
+        "meaning": "thuận lợi, lợi ích, lợi nhuận",
+        "ex": "I turned a good profit on that piece of real estate.",
+        "ipaExTrans": "aɪ tɜːnd ə gʊd ˈprɒfɪt ɒn ðæt piːs ɒv rɪəl ɪsˈteɪt.",
+        "exMeaning": "Tôi đã kiếm được lợi nhuận tốt trên mảnh bất động sản đó."
+    },
+    {
+        "word": "program",
+        "type": "n, v",
+        "ipa": "́prougræm",
+        "meaning": "chương trình; lên chương trình",
+        "ex": "Jessi watched her program a new contact into it.",
+        "ipaExTrans": "Jessi wɒʧt hɜː ˈprəʊgræm ə njuː ˈkɒntækt ˈɪntuː ɪt.",
+        "exMeaning": "Jessi xem chương trình của cô một liên hệ mới vào nó."
+    },
+    {
+        "word": "programme",
+        "type": "n",
+        "ipa": "́prougræm",
+        "meaning": "chương trình",
+        "ex": "This programme he fulfilled.",
+        "ipaExTrans": "ðɪs ˈprəʊgræm hiː fʊlˈfɪld.",
+        "exMeaning": "Chương trình này anh hoàn thành."
+    },
+    {
+        "word": "progress",
+        "type": "n, v",
+        "ipa": "prougres",
+        "meaning": "sự tiến tới, sự tiến triển; tiến bộ, tiến triển, phát triển",
+        "ex": "Just about time I think the two of you are making progress, something like this comes up.",
+        "ipaExTrans": "ʤʌst əˈbaʊt taɪm aɪ θɪŋk ðə tuː ɒv juː ɑː ˈmeɪkɪŋ ˈprəʊgrəs, ˈsʌmθɪŋ laɪk ðɪs kʌmz ʌp.",
+        "exMeaning": "Chỉ cần khoảng thời gian tôi nghĩ rằng hai bạn đang tiến bộ, một cái gì đó như thế này xuất hiện."
+    },
+    {
+        "word": "project",
+        "type": "n, v",
+        "ipa": "(n) ˈprɒdʒɛkt",
+        "meaning": "đề án, dự án, kế hoạch; dự kiến, kế hoạch",
+        "ex": "Quinn's sabbatical project lost its funding.",
+        "ipaExTrans": "Quinn's səˈbætɪkəl ˈprɒʤɛkt lɒst ɪts ˈfʌndɪŋ.",
+        "exMeaning": "Dự án nghỉ phép của Quinn bị mất tài trợ."
+    },
+    {
+        "word": "promise",
+        "type": "v, n",
+        "meaning": "hứa, lời hứa",
+        "ex": "When I make a promise, I keep it.",
+        "ipaExTrans": "wɛn aɪ meɪk ə ˈprɒmɪs, aɪ kiːp ɪt.",
+        "exMeaning": "Khi tôi thực hiện một lời hứa, tôi giữ nó."
+    },
+    {
+        "word": "promote",
+        "type": "v",
+        "ipa": "prəˈmoʊt",
+        "meaning": "thăng chức, thăng cấp",
+        "ex": "His conduct of affairs was by earnest efforts to promote education and to develop the resources of the country.",
+        "ipaExTrans": "hɪz ˈkɒndʌkt ɒv əˈfeəz wɒz baɪ ˈɜːnɪst ˈɛfəts tuː prəˈməʊt ˌɛdju(ː)ˈkeɪʃən ænd tuː dɪˈvɛləp ðə rɪˈsɔːsɪz ɒv ðə ˈkʌntri.",
+        "exMeaning": "Hành vi của ông là bằng những nỗ lực nghiêm túc để thúc đẩy giáo dục và phát triển các nguồn lực của đất nước."
+    },
+    {
+        "word": "promotion",
+        "type": "n",
+        "ipa": "prə'mou∫n",
+        "meaning": "sự thăng chức, sự thăng cấp",
+        "ex": "He replaced me in Scranton when I got this promotion here to the head office.",
+        "ipaExTrans": "hiː rɪˈpleɪst miː ɪn Scranton wɛn aɪ gɒt ðɪs prəˈməʊʃən hɪə tuː ðə hɛd ˈɒfɪs.",
+        "exMeaning": "Anh ấy đã thay thế tôi ở Scranton khi tôi nhận được khuyến mãi ở đây đến trụ sở chính."
+    },
+    {
+        "word": "prompt",
+        "type": "adj, v",
+        "ipa": "prɒmpt",
+        "meaning": "mau lẹ, nhanh chóng; xúi, giục, nhắc nhở",
+        "ex": "Alice Burton tearfully thanked the authorities for their prompt action.",
+        "ipaExTrans": "ˈælɪs bɜːtn ˈtɪəfʊli θæŋkt ði ɔːˈθɒrɪtiz fɔː ðeə prɒmpt ˈækʃ(ə)n.",
+        "exMeaning": "Alice Burton rơi nước mắt cảm ơn chính quyền vì hành động kịp thời của họ."
+    },
+    {
+        "word": "promptly",
+        "type": "adv",
+        "ipa": "́prɔmptli",
+        "meaning": "mau lẹ, ngay lập tức",
+        "ex": "She answered promptly, \"I will pay ten cents.\"",
+        "ipaExTrans": "ʃiː ˈɑːnsəd ˈprɒmptli, \"aɪ wɪl peɪ tɛn sɛnts.\"",
+        "exMeaning": "Cô trả lời ngay: \"Tôi sẽ trả mười xu.\""
+    },
+    {
+        "word": "pronounce",
+        "type": "v",
+        "ipa": "prəˈnaʊns",
+        "meaning": "tuyên bố, thông báo, phát âm",
+        "ex": "The authority of the church or minister to pronounce absolution is based on John xx.",
+        "ipaExTrans": "ði ɔːˈθɒrɪti ɒv ðə ʧɜːʧ ɔː ˈmɪnɪstə tuː prəˈnaʊns ˌæbsəˈluːʃ(ə)n ɪz beɪst ɒn ʤɒn xx.",
+        "exMeaning": "Thẩm quyền của nhà thờ hoặc mục sư phát âm sự vắng mặt dựa trên John xx."
+    },
+    {
+        "word": "pronunciation",
+        "type": "n",
+        "ipa": "prə ̧nʌnsi ́eiʃən",
+        "meaning": "sự phát âm",
+        "ex": "Her pronunciation of his name was pleasantly accented.",
+        "ipaExTrans": "hɜː prəˌnʌnsɪˈeɪʃən ɒv hɪz neɪm wɒz ˈplɛzntli əkˈsɛntɪd.",
+        "exMeaning": "Phát âm tên của cô ấy đã được nhấn mạnh."
+    },
+    {
+        "word": "proof",
+        "type": "n",
+        "ipa": "pru:f",
+        "meaning": "chứng, chứng cớ, bằng chứng; sự kiểm chứng",
+        "ex": "But no, it wasn't proof at all.",
+        "ipaExTrans": "bʌt nəʊ, ɪt wɒznt pruːf æt ɔːl.",
+        "exMeaning": "Nhưng không, đó không phải là bằng chứng."
+    },
+    {
+        "word": "proper",
+        "type": "adj",
+        "ipa": "prɔpə",
+        "meaning": "đúng, thích đáng, thích hợp",
+        "ex": "The police responded and I was taken to a hospital where proper care was being given.",
+        "ipaExTrans": "ðə pəˈliːs rɪsˈpɒndɪd ænd aɪ wɒz ˈteɪkən tuː ə ˈhɒspɪtl weə ˈprɒpə keə wɒz ˈbiːɪŋ ˈgɪvn.",
+        "exMeaning": "Cảnh sát đã trả lời và tôi đã được đưa đến một bệnh viện nơi được chăm sóc đúng cách."
+    },
+    {
+        "word": "properly",
+        "type": "adv",
+        "ipa": "́prɔpəli",
+        "meaning": "một cách đúng đắn, một cách thích đáng",
+        "ex": "The valley, properly speaking, is about 31 m.",
+        "ipaExTrans": "ðə ˈvæli, ˈprɒpəli ˈspiːkɪŋ, ɪz əˈbaʊt 31 ɛm.",
+        "exMeaning": "Thung lũng, nói đúng, là khoảng 31 m."
+    },
+    {
+        "word": "property",
+        "type": "n",
+        "ipa": "prɔpəti",
+        "meaning": "tài sản, của cải; đất đấi, nhà cửa, bất động sản",
+        "ex": "Martha inherited the property from her grandfather.",
+        "ipaExTrans": "ˈmɑːθə ɪnˈhɛrɪtɪd ðə ˈprɒpəti frɒm hɜː ˈgrændˌfɑːðə.",
+        "exMeaning": "Martha được thừa hưởng tài sản từ ông của cô."
+    },
+    {
+        "word": "proportion",
+        "type": "n",
+        "ipa": "prə'pɔ:ʃn",
+        "meaning": "sự cân xứng, sự cân đối",
+        "ex": "After that, it diminishes roughly in proportion to the delay.",
+        "ipaExTrans": "ˈɑːftə ðæt, ɪt dɪˈmɪnɪʃɪz ˈrʌfli ɪn prəˈpɔːʃən tuː ðə dɪˈleɪ.",
+        "exMeaning": "Sau đó, nó giảm đi tương ứng với độ trễ."
+    }
+]

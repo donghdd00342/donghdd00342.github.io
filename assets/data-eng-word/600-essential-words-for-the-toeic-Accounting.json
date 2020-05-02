@@ -1,0 +1,121 @@
+[
+    {
+        "word": "accounting",
+        "type": "kế toán",
+        "ipa": "əˈkaʊntɪŋ",
+        "meaning": "n. the recording and gathering of financial information for a company (công việc kế toán)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "accountant",
+        "type": "viên kế toán",
+        "ipa": "əˈkaʊntənt",
+        "meaning": "n. (nhân viên kế toán)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "accumulate",
+        "type": "tích trữ",
+        "ipa": "əˈkjuːmjʊleɪt",
+        "meaning": "v. to gather, to collect (tích lũy, gom góp).",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "accumulation",
+        "type": "tích lũy",
+        "ipa": "əˌkjuːmjʊˈleɪʃ(ə)n",
+        "meaning": "n. sự tích lũy, sự góp nhặt",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "accumulated",
+        "type": "tích lũy",
+        "ipa": "əˈkjuːmjʊleɪtɪd",
+        "meaning": "adj. tích lũy",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "asset",
+        "type": "tài sản",
+        "ipa": "ˈæsɛt",
+        "meaning": "n. something of value (tài sản)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "audit",
+        "type": "kiểm toán",
+        "ipa": "ˈɔːdɪt",
+        "meaning": "n. a formal examination of financial records, v. to examine the financial (kiểm toán)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "budget",
+        "type": "ngân sách",
+        "ipa": "ˈbʌʤɪt",
+        "meaning": "(n) ngân quỹ, ngân sách. (v) ghi vào ngân sách",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "budgetary",
+        "type": "ngân sách",
+        "ipa": "ˈbʌʤɪtəri",
+        "meaning": "(adj) thuộc về ngân quỹ, ngân sách",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "build up",
+        "type": "xây dựng lên",
+        "ipa": "bɪld ʌp",
+        "meaning": "n. to increase over time (Sự tăng cường)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "client",
+        "type": "khách hàng",
+        "ipa": "ˈklaɪənt",
+        "meaning": "n. a customer (khách hàng)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "debt",
+        "type": "món nợ",
+        "ipa": "dɛt",
+        "meaning": "n. something owed, as in money or goods (khỏan nợ)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "outstanding",
+        "type": "nổi bật",
+        "ipa": "aʊtˈstændɪŋ",
+        "meaning": "adj. Still due, not paid or settled (còn tồn tại, chưa giải quyết xong, chưa trả nợ).",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "profitable",
+        "type": "có lãi",
+        "ipa": "ˈprɒfɪtəbl",
+        "meaning": "adj. advantageous, beneficial (có sinh lời).",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "profit",
+        "type": "lợi nhuận",
+        "ipa": "ˈprɒfɪt",
+        "meaning": "v. n. (lợi nhuận, thu hồi).",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "reconcile",
+        "type": "hòa giải",
+        "ipa": "ˈrɛkənsaɪl",
+        "meaning": "v. to make consistent (1.giải hòa, giảng hòa; 2.điều hòa, 3.đành cam chịu)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "turnover",
+        "type": "doanh số",
+        "ipa": "ˈtɜːnˌəʊvə",
+        "meaning": "n. 1.doanh thu, 2. vốn luân chuyển, 3.số công nhân thôi việc",
+        "tag": "Accounting (thanh toán)"
+    }
+]

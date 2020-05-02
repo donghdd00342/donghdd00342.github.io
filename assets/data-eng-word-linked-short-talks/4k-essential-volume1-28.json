@@ -1,0 +1,222 @@
+[
+    {
+        "word": "band",
+        "ipa": "bænd",
+        "type": "n",
+        "tag": "ban nhạc",
+        "meaning": "A band is a group of people who play music.",
+        "context": "Một ban nhạc là một nhóm người chơi nhạc.",
+        "ex": "My brother is in a rock band.",
+        "ipaExTrans": "maɪ ˈbrʌðər ɪz ɪn ə rɒk bænd.",
+        "exMeaning": "Anh tôi ở trong một ban nhạc rock."
+    },
+    {
+        "word": "barely",
+        "ipa": "ˈbeəli",
+        "type": "adv",
+        "tag": "vừa đủ (nhỏ hầu như ko có)",
+        "meaning": "Barely means by the smallest amount, almost not",
+        "context": "Chỉ có nghĩa là bằng số tiền nhỏ nhất, hầu như không",
+        "ex": "I barely had enough money to pay for my bus ticket",
+        "ipaExTrans": "aɪ ˈbeəli hæd ɪˈnʌf ˈmʌni tuː peɪ fɔː maɪ bʌs ˈtɪkɪt",
+        "exMeaning": "Tôi chỉ có đủ tiền để trả vé xe buýt"
+    },
+    {
+        "word": "boring",
+        "ipa": "ˈbɔːrɪŋ",
+        "type": "adj",
+        "tag": "nhàm chán, ko vui vẻ",
+        "meaning": "If something is boring, it is not fun.",
+        "context": "Nếu một cái gì đó nhàm chán, nó không vui vẻ.",
+        "ex": "I think the Internet is boring.",
+        "ipaExTrans": "aɪ θɪŋk ði ˈɪntəˌnɛt ɪz ˈbɔːrɪŋ.",
+        "exMeaning": "Tôi nghĩ rằng Internet là nhàm chán."
+    },
+    {
+        "word": "cancel",
+        "ipa": "ˈkænsəl",
+        "type": "v",
+        "tag": "hủy bỏ",
+        "meaning": "To cancel means to decide that an event or a request will not happen.",
+        "context": "Hủy bỏ có nghĩa là quyết định rằng một sự kiện hoặc yêu cầu sẽ không xảy ra.",
+        "ex": "She cancelled the rest of her plans because of the rain.",
+        "ipaExTrans": "ʃiː ˈkænsəld ðə rɛst ɒv hɜː plænz bɪˈkɒz ɒv ðə reɪn.",
+        "exMeaning": "Cô hủy bỏ kế hoạch còn lại vì trời mưa."
+    },
+    {
+        "word": "driveway",
+        "ipa": "ˈdraɪvweɪ",
+        "type": "n",
+        "tag": "đường lái xe",
+        "meaning": "A driveway is a short private road that leads to a person’s home.",
+        "context": "Đường lái xe là con đường riêng ngắn dẫn đến nhà của một người.",
+        "ex": "The long driveway led us to their new house.",
+        "ipaExTrans": "ðə lɒŋ ˈdraɪvweɪ lɛd ʌs tuː ðeə njuː haʊs.",
+        "exMeaning": "Đường lái xe dài dẫn chúng tôi đến ngôi nhà mới của họ."
+    },
+    {
+        "word": "garbage",
+        "ipa": "ˈgɑːbɪʤ",
+        "type": "n",
+        "tag": "đống rác, dọn rác",
+        "meaning": "Garbage is waste material like unwanted or spoiled food, bottles, paper, etc.",
+        "context": "Rác là chất thải như thực phẩm không mong muốn hoặc hư hỏng, chai, giấy, v.v.",
+        "ex": "The boy cleaned up the garbage around his house.",
+        "ipaExTrans": "ðə bɔɪ kliːnd ʌp ðə ˈgɑːbɪʤ əˈraʊnd hɪz haʊs.",
+        "exMeaning": "Cậu bé dọn rác quanh nhà."
+    },
+    {
+        "word": "instrument",
+        "ipa": "ˈɪnstrʊmənt",
+        "type": "n",
+        "tag": "dụng cụ, nhạc cụ",
+        "meaning": "An instrument is something designed to do a certain task like music.",
+        "context": "Một nhạc cụ là thứ được thiết kế để thực hiện một nhiệm vụ nhất định như âm nhạc.",
+        "ex": "My favorite musical instrument is the piano.",
+        "ipaExTrans": "maɪ ˈfeɪvərɪt ˈmjuːzɪkəl ˈɪnstrʊmənt ɪz ðə pɪˈænəʊ.",
+        "exMeaning": "Nhạc cụ yêu thích của tôi là piano."
+    },
+    {
+        "word": "list",
+        "ipa": "lɪst",
+        "type": "n",
+        "tag": "danh sách",
+        "meaning": "A list is a record of information printed with an item on each line",
+        "context": "Danh sách là bản ghi thông tin được in với một mục trên mỗi dòng",
+        "ex": "My mom makes a list of groceries to buy.",
+        "ipaExTrans": "maɪ mɒm meɪks ə lɪst ɒv ˈgrəʊsəriz tuː baɪ.",
+        "exMeaning": "Mẹ tôi làm một danh sách các cửa hàng tạp hóa để mua."
+    },
+    {
+        "word": "magic",
+        "ipa": "ˈmæʤɪk",
+        "type": "n",
+        "tag": "ma thuật, phép thuật",
+        "meaning": "Magic is the power to do impossible things",
+        "context": "Phép thuật là sức mạnh để làm những điều không thể",
+        "ex": "The magician used magic to pull a rabbit out of his hat",
+        "ipaExTrans": "ðə məˈʤɪʃən juːzd ˈmæʤɪk tuː pʊl ə ˈræbɪt aʊt ɒv hɪz hæt",
+        "exMeaning": "Pháp sư đã sử dụng phép thuật để kéo một con thỏ ra khỏi mũ của mình"
+    },
+    {
+        "word": "message",
+        "ipa": "ˈmɛsɪʤ",
+        "type": "n",
+        "tag": "tin nhắn, thông điệp",
+        "meaning": "A message is a set of words that you send to someone.",
+        "context": "Tin nhắn là một tập hợp các từ mà bạn gửi cho ai đó.",
+        "ex": "I left a message for you in the envelope.",
+        "ipaExTrans": "aɪ lɛft ə ˈmɛsɪʤ fɔː juː ɪn ði ˈɛnvələʊp.",
+        "exMeaning": "Tôi để lại một tin nhắn cho bạn trong phong bì."
+    },
+    {
+        "word": "notice",
+        "ipa": "ˈnəʊtɪs",
+        "type": "v",
+        "tag": "để ý",
+        "meaning": "To notice something is to see it for the first time.",
+        "context": "Để ý một cái gì đó là nhìn thấy nó lần đầu tiên.",
+        "ex": "Did you notice the view?",
+        "ipaExTrans": "dɪd juː ˈnəʊtɪs ðə vjuː?",
+        "exMeaning": "Bạn có để ý xem không?"
+    },
+    {
+        "word": "own",
+        "ipa": "əʊn",
+        "type": "v",
+        "tag": "sở hữu",
+        "meaning": "To own something means to have it. That thing belongs to you.",
+        "context": "Để sở hữu một cái gì đó có nghĩa là có nó. Thứ đó thuộc về bạn.",
+        "ex": "My grandfather owns that house.",
+        "ipaExTrans": "maɪ ˈgrændˌfɑːðər əʊnz ðæt haʊs.",
+        "exMeaning": "Ông tôi sở hữu ngôi nhà đó."
+    },
+    {
+        "word": "predict",
+        "ipa": "prɪˈdɪkt",
+        "type": "v",
+        "tag": "dự đoán",
+        "meaning": "To predict something is to say that it will happen.",
+        "context": "Dự đoán một cái gì đó là nói rằng nó sẽ xảy ra.",
+        "ex": "She predicted that I would get married next year.",
+        "ipaExTrans": "ʃiː prɪˈdɪktɪd ðæt aɪ wʊd gɛt ˈmærɪd nɛkst jɪə.",
+        "exMeaning": "Cô ấy dự đoán rằng tôi sẽ kết hôn vào năm tới."
+    },
+    {
+        "word": "professor",
+        "ipa": "prəˈfɛsə",
+        "type": "n",
+        "tag": "Giáo sư",
+        "meaning": "A professor is a person who teaches in college.",
+        "context": "Một giáo sư là một người giảng dạy ở trường đại học.",
+        "ex": "Mike’s science professor knows a lot about physics.",
+        "ipaExTrans": "maɪks ˈsaɪəns prəˈfɛsə nəʊz ə lɒt əˈbaʊt ˈfɪzɪks.",
+        "exMeaning": "Giáo sư khoa học Mike Lau biết rất nhiều về vật lý."
+    },
+    {
+        "word": "rush",
+        "ipa": "rʌʃ",
+        "type": "v",
+        "tag": "vội vàng",
+        "meaning": "To rush is to go somewhere or do something very quickly.",
+        "context": "Để vội vàng là đi đâu đó hoặc làm một cái gì đó rất nhanh.",
+        "ex": "Nancy rushed to finish her homework.",
+        "ipaExTrans": "ˈnænsi rʌʃt tuː ˈfɪnɪʃ hɜː ˈhəʊmˌwɜːk.",
+        "exMeaning": "Nancy vội vàng hoàn thành bài tập về nhà."
+    },
+    {
+        "word": "schedule",
+        "ipa": "ˈʃɛdjuːl",
+        "type": "n",
+        "tag": "lịch trình, lịch học",
+        "meaning": "A schedule is a plan that tells you when to do things.",
+        "context": "Lịch trình là một kế hoạch cho bạn biết khi nào nên làm việc.",
+        "ex": "What is your class schedule for today?",
+        "ipaExTrans": "wɒt ɪz jɔː klɑːs ˈʃɛdjuːl fɔː təˈdeɪ?",
+        "exMeaning": "Lịch học của bạn hôm nay là gì?"
+    },
+    {
+        "word": "share",
+        "ipa": "ʃeə",
+        "type": "v",
+        "tag": "chia sẻ",
+        "meaning": "To share something is to give some of it to another person.",
+        "context": "Chia sẻ một cái gì đó là đưa một số cho người khác.",
+        "ex": "Jimmy shared his apple with me.",
+        "ipaExTrans": "ˈʤɪmi ʃeəd hɪz ˈæpl wɪð miː.",
+        "exMeaning": "Jimmy đã chia sẻ quả táo của anh ấy với tôi."
+    },
+    {
+        "word": "stage",
+        "ipa": "steɪʤ",
+        "type": "n",
+        "tag": "sân khấu",
+        "meaning": "A stage is a place where actors or musicians act or sing.",
+        "context": "Sân khấu là nơi diễn viên hoặc nhạc sĩ diễn xuất hoặc hát.",
+        "ex": "A large screen was on the stage.",
+        "ipaExTrans": "ə lɑːʤ skriːn wɒz ɒn ðə steɪʤ.",
+        "exMeaning": "Một màn hình lớn trên sân khấu."
+    },
+    {
+        "word": "storm",
+        "ipa": "stɔːm",
+        "type": "n",
+        "tag": "bão táp, cơn bão",
+        "meaning": "A storm is very bad weather. There is a lot of rain or snow.",
+        "context": "Một cơn bão là thời tiết rất xấu. Có rất nhiều mưa hoặc tuyết.",
+        "ex": "Did that storm wake you up last night?",
+        "ipaExTrans": "dɪd ðæt stɔːm weɪk juː ʌp lɑːst naɪt?",
+        "exMeaning": "Có phải cơn bão đã đánh thức bạn đêm qua?"
+    },
+    {
+        "word": "within",
+        "ipa": "wɪˈðɪn",
+        "type": "prep",
+        "tag": "bên trong",
+        "meaning": "You use within to say that something is inside another thing.",
+        "context": "Bạn sử dụng bên trong để nói rằng một cái gì đó bên trong một thứ khác.",
+        "ex": "Within the box, there was a pizza.",
+        "ipaExTrans": "wɪˈðɪn ðə bɒks, ðeə wɒz ə ˈpiːtsə.",
+        "exMeaning": "Trong hộp, có một chiếc bánh pizza."
+    }
+]

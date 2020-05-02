@@ -1,0 +1,222 @@
+[
+    {
+        "word": "block",
+        "ipa": "blɒk",
+        "type": "n",
+        "tag": "khối",
+        "meaning": "A block is a solid piece of wood, stone or ice.",
+        "context": "Một khối là một mảnh rắn của gỗ, đá hoặc băng.",
+        "ex": "I saw a block of ice on the floor.",
+        "ipaExTrans": "aɪ sɔː ə blɒk ɒv aɪs ɒn ðə flɔː.",
+        "exMeaning": "Tôi thấy một khối băng trên sàn nhà."
+    },
+    {
+        "word": "cheer",
+        "ipa": "ʧɪə",
+        "type": "v",
+        "tag": "cổ vũ, reo hò, vui lên",
+        "meaning": "To cheer is to give a loud shout of approval or encouragement.",
+        "context": "Để cổ vũ là cho một tiếng hét lớn của sự chấp thuận hoặc khuyến khích.",
+        "ex": "The crowd all cheered when the home team won.",
+        "ipaExTrans": "ðə kraʊd ɔːl ʧɪəd wɛn ðə həʊm tiːm wʌn.",
+        "exMeaning": "Cả đám đông reo hò khi đội nhà giành chiến thắng."
+    },
+    {
+        "word": "complex",
+        "ipa": "ˈkɒmplɛks",
+        "type": "adj",
+        "tag": "phức tạp",
+        "meaning": "If something is complex, it has many small parts. It is hard to understand",
+        "context": "Nếu một cái gì đó phức tạp, nó có nhiều phần nhỏ. Thật khó hiểu",
+        "ex": "A jig-saw puzzle can be complex because it has so many pieces",
+        "ipaExTrans": "ə ˈʤɪgsɔː ˈpʌzl kæn biː ˈkɒmplɛks bɪˈkɒz ɪt hæz səʊ ˈmɛni ˈpiːsɪz",
+        "exMeaning": "Một câu đố jig-saw có thể phức tạp bởi vì nó có rất nhiều mảnh"
+    },
+    {
+        "word": "critic",
+        "ipa": "ˈkrɪtɪk",
+        "type": "n",
+        "tag": "nhà phê bình",
+        "meaning": "A critic is someone who give their opinions about movies, books, plays",
+        "context": "Một nhà phê bình là người đưa ra ý kiến ​​của họ về phim ảnh, sách, vở kịch",
+        "ex": "The wine critic tasted the wine so he could give his opinion.",
+        "ipaExTrans": "ðə waɪn ˈkrɪtɪk ˈteɪstɪd ðə waɪn səʊ hiː kʊd gɪv hɪz əˈpɪnjən.",
+        "exMeaning": "Các nhà phê bình rượu nếm rượu để ông có thể đưa ra ý kiến của mình."
+    },
+    {
+        "word": "event",
+        "ipa": "ɪˈvɛnt",
+        "type": "n",
+        "tag": "biến cố, sự kiện",
+        "meaning": "An event is something that happens, especially something important.",
+        "context": "Một sự kiện là một cái gì đó xảy ra, đặc biệt là một cái gì đó quan trọng.",
+        "ex": "Finishing high school was a major event in his life.",
+        "ipaExTrans": "ˈfɪnɪʃɪŋ haɪ skuːl wɒz ə ˈmeɪʤər ɪˈvɛnt ɪn hɪz laɪf.",
+        "exMeaning": "Học xong trung học là một sự kiện lớn trong cuộc đời anh."
+    },
+    {
+        "word": "exercise",
+        "ipa": "ˈɛksəsaɪz",
+        "type": "v",
+        "tag": "tập thể dục",
+        "meaning": "To exercise is to run or play sports so that you can be healthy.",
+        "context": "Tập thể dục là chạy hoặc chơi thể thao để bạn có thể khỏe mạnh.",
+        "ex": "You should exercise every day.",
+        "ipaExTrans": "juː ʃʊd ˈɛksəsaɪz ˈɛvri deɪ.",
+        "exMeaning": "Bạn nên tập thể dục mỗi ngày."
+    },
+    {
+        "word": "fit",
+        "ipa": "fɪt",
+        "type": "v",
+        "tag": "Phù hợp",
+        "meaning": "If something fits, it is small enough orthe right size to go there",
+        "context": "Nếu một cái gì đó phù hợp, nó đủ nhỏ để chỉnh sửa kích thước phù hợp để đi đến đó",
+        "ex": "The colorful eggs fit into the box.",
+        "ipaExTrans": "ðə ˈkʌləf(ə)l ɛgz fɪt ˈɪntuː ðə bɒks.",
+        "exMeaning": "Những quả trứng đầy màu sắc phù hợp với hộp."
+    },
+    {
+        "word": "friendship",
+        "ipa": "ˈfrɛndʃɪp",
+        "type": "n",
+        "tag": "tình bạn, hữu nghị",
+        "meaning": "Friendship is the relationship between people who are friends.",
+        "context": "Tình bạn là mối quan hệ giữa những người là bạn bè.",
+        "ex": "Michael and Lisa have a very strong friendship with each other.",
+        "ipaExTrans": "ˈmaɪk(ə)l ænd ˈliːsə hæv ə ˈvɛri strɒŋ ˈfrɛndʃɪp wɪð iːʧ ˈʌðə.",
+        "exMeaning": "Michael và Lisa có một tình bạn rất bền chặt với nhau."
+    },
+    {
+        "word": "guide",
+        "ipa": "gaɪd",
+        "type": "n",
+        "tag": "hướng dẫn, hướng dẫn viên",
+        "meaning": "A guide is someone who shows you where to go.",
+        "context": "Hướng dẫn là người chỉ cho bạn nơi để đi.",
+        "ex": "We followed a guide at the park.",
+        "ipaExTrans": "wiː ˈfɒləʊd ə gaɪd æt ðə pɑːk.",
+        "exMeaning": "Chúng tôi theo một hướng dẫn tại công viên."
+    },
+    {
+        "word": "lack",
+        "ipa": "læk",
+        "type": "n",
+        "tag": "thiếu sót",
+        "meaning": "If there is a lack of something, there is not enough of it",
+        "context": "Nếu thiếu một cái gì đó, thì không đủ",
+        "ex": "His only problem is a lack of money.",
+        "ipaExTrans": "hɪz ˈəʊnli ˈprɒbləm ɪz ə læk ɒv ˈmʌni.",
+        "exMeaning": "Vấn đề duy nhất của anh là thiếu tiền."
+    },
+    {
+        "word": "passage",
+        "ipa": "ˈpæsɪʤ",
+        "type": "n",
+        "tag": "lối đi, đoạn đường",
+        "meaning": "A passage is a long area with walls that goes from one place to another",
+        "context": "Một lối đi là một khu vực dài với những bức tường đi từ nơi này đến nơi khác",
+        "ex": "The long passage led us to the other side of the field.",
+        "ipaExTrans": "ðə lɒŋ ˈpæsɪʤ lɛd ʌs tuː ði ˈʌðə saɪd ɒv ðə fiːld.",
+        "exMeaning": "Đoạn đường dài dẫn chúng tôi đến phía bên kia của cánh đồng."
+    },
+    {
+        "word": "perform",
+        "ipa": "pəˈfɔːm",
+        "type": "v",
+        "tag": "biểu diễn, thực hiện",
+        "meaning": "To perform is to do something in front of people who watch.",
+        "context": "Thực hiện là làm một cái gì đó trước mặt những người xem.",
+        "ex": "He will perform a song for the class.",
+        "ipaExTrans": "hiː wɪl pəˈfɔːm ə sɒŋ fɔː ðə klɑːs.",
+        "exMeaning": "Anh ấy sẽ biểu diễn một bài hát cho cả lớp."
+    },
+    {
+        "word": "pressure",
+        "ipa": "ˈprɛʃə",
+        "type": "n",
+        "tag": "sức ép, áp lực",
+        "meaning": "Pressure is what you apply to make someone do something.",
+        "context": "Áp lực là những gì bạn áp dụng để khiến ai đó làm điều gì đó.",
+        "ex": "They put pressure on him to change his mind.",
+        "ipaExTrans": "ðeɪ pʊt ˈprɛʃər ɒn hɪm tuː ʧeɪnʤ hɪz maɪnd.",
+        "exMeaning": "Họ gây áp lực để anh thay đổi suy nghĩ."
+    },
+    {
+        "word": "probable",
+        "ipa": "ˈprɒbəbl",
+        "type": "adj",
+        "tag": "có thể xảy ra, có khả năng",
+        "meaning": "If something is probable, it is likely to happen.",
+        "context": "Nếu một cái gì đó có thể xảy ra, nó có khả năng xảy ra.",
+        "ex": "It is probable that you will get a good grade if you study for the test.",
+        "ipaExTrans": "ɪt ɪz ˈprɒbəbl ðæt juː wɪl gɛt ə gʊd greɪd ɪf juː ˈstʌdi fɔː ðə tɛst.",
+        "exMeaning": "Có khả năng bạn sẽ đạt điểm cao nếu học bài kiểm tra."
+    },
+    {
+        "word": "public",
+        "ipa": "ˈpʌblɪk",
+        "type": "adj",
+        "tag": "công cộng, công khai",
+        "meaning": "If something is public, it is meant for everyone to use.",
+        "context": "Nếu một cái gì đó là công khai, nó có nghĩa là cho mọi người sử dụng.",
+        "ex": "I went to the public park to play with my friends.",
+        "ipaExTrans": "aɪ wɛnt tuː ðə ˈpʌblɪk pɑːk tuː pleɪ wɪð maɪ frɛndz.",
+        "exMeaning": "Tôi đã đi đến công viên để chơi với bạn bè của tôi."
+    },
+    {
+        "word": "strike",
+        "ipa": "straɪk",
+        "type": "v",
+        "tag": "tấn công, đình công, cố đánh",
+        "meaning": "To strike someone or something is to hit them.",
+        "context": "Tấn công ai đó hoặc một cái gì đó là đánh họ.",
+        "ex": "She struck the other girl in the face.",
+        "ipaExTrans": "ʃiː strʌk ði ˈʌðə gɜːl ɪn ðə feɪs.",
+        "exMeaning": "Cô đánh vào mặt cô gái kia."
+    },
+    {
+        "word": "support",
+        "ipa": "səˈpɔːt",
+        "type": "v",
+        "tag": "ủng hộ, hỗ trợ",
+        "meaning": "To support something is to like it and help it be successful.",
+        "context": "Để hỗ trợ một cái gì đó là thích nó và giúp nó thành công.",
+        "ex": "Everyone at work supports the new plan.",
+        "ipaExTrans": "ˈɛvrɪwʌn æt wɜːk səˈpɔːts ðə njuː plæn.",
+        "exMeaning": "Mọi người trong công việc đều ủng hộ kế hoạch mới."
+    },
+    {
+        "word": "task",
+        "ipa": "tɑːsk",
+        "type": "n",
+        "tag": "nhiệm vụ",
+        "meaning": "A task is work that someone has to do.",
+        "context": "Một nhiệm vụ là công việc mà ai đó phải làm.",
+        "ex": "Who has the task of building the brick wall?",
+        "ipaExTrans": "huː hæz ðə tɑːsk ɒv ˈbɪldɪŋ ðə brɪk wɔːl?",
+        "exMeaning": "Ai có nhiệm vụ xây tường gạch?"
+    },
+    {
+        "word": "term",
+        "ipa": "tɜːm",
+        "type": "n",
+        "tag": "kỳ hạn, thuật ngữ",
+        "meaning": "A term is a word for something.",
+        "context": "Một thuật ngữ là một từ cho một cái gì đó.",
+        "ex": "I often use the term “oops” when I make a mistake.",
+        "ipaExTrans": "aɪ ˈɒf(ə)n juːz ðə tɜːm “uːps” wɛn aɪ meɪk ə mɪsˈteɪk.",
+        "exMeaning": "Tôi thường sử dụng thuật ngữ trực tuyến, khi tôi mắc lỗi."
+    },
+    {
+        "word": "unite",
+        "ipa": "juːˈnaɪt",
+        "type": "v",
+        "tag": "đoàn kết",
+        "meaning": "To unite is to get together to do something.",
+        "context": "Đoàn kết là cùng nhau làm một việc gì đó.",
+        "ex": "If we unite, we can finish our project faster.",
+        "ipaExTrans": "ɪf wiː juːˈnaɪt, wiː kæn ˈfɪnɪʃ ˈaʊə ˈprɒʤɛkt ˈfɑːstə.",
+        "exMeaning": "Nếu chúng ta đoàn kết, chúng ta có thể hoàn thành dự án của mình nhanh hơn."
+    }
+]

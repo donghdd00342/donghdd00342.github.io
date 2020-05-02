@@ -1,0 +1,222 @@
+[
+    {
+        "word": "actual",
+        "ipa": "ˈækʧʊəl",
+        "type": "adj",
+        "tag": "thực tế",
+        "meaning": "Actual means that something is real or true.",
+        "context": "Thực tế có nghĩa là một cái gì đó là có thật hoặc đúng.",
+        "ex": "This is the actual sword that the King owned, not a fake one",
+        "ipaExTrans": "ðɪs ɪz ði ˈækʧʊəl sɔːd ðæt ðə kɪŋ əʊnd, nɒt ə feɪk wʌn",
+        "exMeaning": "Đây là thanh kiếm thực sự mà Vua sở hữu, không phải là một cây giả"
+    },
+    {
+        "word": "amaze",
+        "ipa": "əˈmeɪz",
+        "type": "v",
+        "tag": "làm ngạc nhiên, kinh ngạc",
+        "meaning": "To amaze someone is to surprise them very much.",
+        "context": "Làm ngạc nhiên ai đó là làm họ ngạc nhiên rất nhiều.",
+        "ex": "The news in the paper amazed Jack.",
+        "ipaExTrans": "ðə njuːz ɪn ðə ˈpeɪpər əˈmeɪzd ʤæk.",
+        "exMeaning": "Tin tức trên báo làm Jack kinh ngạc."
+    },
+    {
+        "word": "charge",
+        "ipa": "ʧɑːʤ",
+        "type": "n",
+        "tag": "khoản phí, sạc điện",
+        "meaning": "A charge is the price to pay for something.",
+        "context": "Một khoản phí là giá phải trả cho một cái gì đó.",
+        "ex": "The charge for the shirts was $15.00.",
+        "ipaExTrans": "ðə ʧɑːʤ fɔː ðə ʃɜːts wɒz $15.00.",
+        "exMeaning": "Phí cho những chiếc áo là $ 15,00."
+    },
+    {
+        "word": "comfort",
+        "ipa": "ˈkʌmfət",
+        "type": "v",
+        "tag": "an ủi, thoải mái",
+        "meaning": "To comfort someone means to make them feel better.",
+        "context": "Để an ủi ai đó có nghĩa là làm cho họ cảm thấy tốt hơn.",
+        "ex": "I wanted to comfort my friend after I heard the bad news.",
+        "ipaExTrans": "aɪ ˈwɒntɪd tuː ˈkʌmfət maɪ frɛnd ˈɑːftər aɪ hɜːd ðə bæd njuːz.",
+        "exMeaning": "Tôi muốn an ủi bạn tôi sau khi tôi nghe tin xấu."
+    },
+    {
+        "word": "contact",
+        "ipa": "ˈkɒntækt",
+        "type": "v",
+        "tag": "tiếp xúc, liên lạc",
+        "meaning": "To contact someone is to speak or write to them.",
+        "context": "Liên lạc với ai đó là nói hoặc viết thư cho họ.",
+        "ex": "I contacted Sue about my party.",
+        "ipaExTrans": "aɪ ˈkɒntæktɪd sjuː əˈbaʊt maɪ ˈpɑːti.",
+        "exMeaning": "Tôi đã liên lạc với Sue về bữa tiệc của tôi."
+    },
+    {
+        "word": "customer",
+        "ipa": "ˈkʌstəmə",
+        "type": "n",
+        "tag": "khách hàng",
+        "meaning": "A customer is a person who buys something at a store.",
+        "context": "Một khách hàng là một người mua một cái gì đó tại một cửa hàng.",
+        "ex": "The customer put a few items in a bag.",
+        "ipaExTrans": "ðə ˈkʌstəmə pʊt ə fjuː ˈaɪtəmz ɪn ə bæg.",
+        "exMeaning": "Khách hàng đặt một vài mặt hàng trong một cái túi."
+    },
+    {
+        "word": "deliver",
+        "ipa": "dɪˈlɪvə",
+        "type": "v",
+        "tag": "giao hàng",
+        "meaning": "To deliver something is to take it from one place to another.",
+        "context": "Để cung cấp một cái gì đó là mang nó từ nơi này đến nơi khác.",
+        "ex": "The man delivered Chinese food to my house.",
+        "ipaExTrans": "ðə mæn dɪˈlɪvəd ˌʧaɪˈniːz fuːd tuː maɪ haʊs.",
+        "exMeaning": "Người đàn ông giao đồ ăn Trung Quốc đến nhà tôi."
+    },
+    {
+        "word": "earn",
+        "ipa": "ɜːn",
+        "type": "v",
+        "tag": "kiếm được",
+        "meaning": "To earn means to get money for the work you do.",
+        "context": "Để kiếm được có nghĩa là để có tiền cho công việc bạn làm.",
+        "ex": "He earns his living as a chef in a great restaurant.",
+        "ipaExTrans": "hiː ɜːnz hɪz ˈlɪvɪŋ æz ə ʃɛf ɪn ə greɪt ˈrɛstrɒnt.",
+        "exMeaning": "Anh kiếm sống bằng nghề đầu bếp trong một nhà hàng tuyệt vời."
+    },
+    {
+        "word": "gate",
+        "ipa": "geɪt",
+        "type": "n",
+        "tag": "cánh cổng",
+        "meaning": "A gate is a type of door. Gates are usually made of metal or wood.",
+        "context": "Cổng là một loại cửa. Cổng thường được làm bằng kim loại hoặc gỗ.",
+        "ex": "We want to put up a wooden gate around our house.",
+        "ipaExTrans": "wiː wɒnt tuː pʊt ʌp ə ˈwʊdn geɪt əˈraʊnd ˈaʊə haʊs.",
+        "exMeaning": "Chúng tôi muốn đặt một cánh cổng gỗ xung quanh nhà của chúng tôi."
+    },
+    {
+        "word": "include",
+        "ipa": "ɪnˈkluːd",
+        "type": "v",
+        "tag": "bao gồm",
+        "meaning": "To include something means to have it as part of a group.",
+        "context": "Để bao gồm một cái gì đó có nghĩa là có nó như là một phần của một nhóm.",
+        "ex": "Does this meal include a soft drink?",
+        "ipaExTrans": "dʌz ðɪs miːl ɪnˈkluːd ə sɒft drɪŋk?",
+        "exMeaning": "Bữa ăn này có bao gồm nước ngọt không?"
+    },
+    {
+        "word": "manage",
+        "ipa": "ˈmænɪʤ",
+        "type": "v",
+        "tag": "quản lý",
+        "meaning": "To manage something means to control or be in charge of it.",
+        "context": "Để quản lý một cái gì đó có nghĩa là kiểm soát hoặc chịu trách nhiệm về nó.",
+        "ex": "I had to manage the meeting myself.",
+        "ipaExTrans": "aɪ hæd tuː ˈmænɪʤ ðə ˈmiːtɪŋ maɪˈsɛlf.",
+        "exMeaning": "Tôi đã phải tự quản lý cuộc họp."
+    },
+    {
+        "word": "mystery",
+        "ipa": "ˈmɪstəri",
+        "type": "n",
+        "tag": "huyền bí, bí ẩn",
+        "meaning": "A mystery is something that is difficult to understand or explain.",
+        "context": "Một bí ẩn là một cái gì đó rất khó hiểu hoặc giải thích.",
+        "ex": "The path on the map was a complete mystery to me.",
+        "ipaExTrans": "ðə pɑːθ ɒn ðə mæp wɒz ə kəmˈpliːt ˈmɪstəri tuː miː.",
+        "exMeaning": "Con đường trên bản đồ là một bí ẩn hoàn toàn đối với tôi."
+    },
+    {
+        "word": "occur",
+        "ipa": "əˈkɜː",
+        "type": "v",
+        "tag": "xảy ra",
+        "meaning": "To occur means to happen.",
+        "context": "Để xảy ra có nghĩa là xảy ra.",
+        "ex": "When did the thunderstorm occur?",
+        "ipaExTrans": "wɛn dɪd ðə ˈθʌndəstɔːm əˈkɜː?",
+        "exMeaning": "Khi nào giông bão xảy ra?"
+    },
+    {
+        "word": "opposite",
+        "ipa": "ˈɒpəzɪt",
+        "type": "n",
+        "tag": "trái ngược, đối lập",
+        "meaning": "If A is the opposite of B, A is completely different from B.",
+        "context": "Nếu A trái ngược với B, A hoàn toàn khác với B.",
+        "ex": "The opposite of black is white.",
+        "ipaExTrans": "ði ˈɒpəzɪt ɒv blæk ɪz waɪt.",
+        "exMeaning": "Đối lập với màu đen là màu trắng."
+    },
+    {
+        "word": "plate",
+        "ipa": "pleɪt",
+        "type": "n",
+        "tag": "đĩa (tròn đựng thức ăn)",
+        "meaning": "A plate is a flat round thing that you put food on",
+        "context": "Một cái đĩa là một thứ tròn phẳng mà bạn đặt thức ăn vào",
+        "ex": "I put my plate down so I could put some food on it.",
+        "ipaExTrans": "aɪ pʊt maɪ pleɪt daʊn səʊ aɪ kʊd pʊt sʌm fuːd ɒn ɪt.",
+        "exMeaning": "Tôi đặt đĩa của tôi xuống để tôi có thể đặt một số thức ăn vào nó."
+    },
+    {
+        "word": "receive",
+        "ipa": "rɪˈsiːv",
+        "type": "v",
+        "tag": "nhận được",
+        "meaning": "To receive something is to get it.",
+        "context": "Nhận được một cái gì đó là để có được nó.",
+        "ex": "I received a present on my birthday.",
+        "ipaExTrans": "aɪ rɪˈsiːvd ə ˈprɛznt ɒn maɪ ˈbɜːθdeɪ.",
+        "exMeaning": "Tôi đã nhận được một món quà vào ngày sinh nhật của tôi."
+    },
+    {
+        "word": "reward",
+        "ipa": "rɪˈwɔːd",
+        "type": "n",
+        "tag": "phần thưởng",
+        "meaning": "A reward is something given in exchange for good behavior or work.",
+        "context": "Phần thưởng là một cái gì đó được đưa ra để đổi lấy hành vi hoặc công việc tốt.",
+        "ex": "He was given a reward for his excellent performance.",
+        "ipaExTrans": "hiː wɒz ˈgɪvn ə rɪˈwɔːd fɔː hɪz ˈɛksələnt pəˈfɔːməns.",
+        "exMeaning": "Anh ấy đã được trao một phần thưởng cho màn trình diễn xuất sắc của mình."
+    },
+    {
+        "word": "set",
+        "ipa": "sɛt",
+        "type": "v",
+        "tag": "đặt",
+        "meaning": "To set something is to put it somewhere.",
+        "context": "Để đặt một cái gì đó là đặt nó ở đâu đó.",
+        "ex": "Please set the dice down on the table.",
+        "ipaExTrans": "pliːz sɛt ðə daɪs daʊn ɒn ðə ˈteɪbl.",
+        "exMeaning": "Vui lòng đặt xúc xắc xuống bàn."
+    },
+    {
+        "word": "steal",
+        "ipa": "stiːl",
+        "type": "v",
+        "tag": "lấy trộm, ăn cắp",
+        "meaning": "To steal is to take something that is not yours.",
+        "context": "Ăn cắp là lấy đi thứ không phải của bạn.",
+        "ex": "The men tried to steal money from the bank.",
+        "ipaExTrans": "ðə mɛn traɪd tuː stiːl ˈmʌni frɒm ðə bæŋk.",
+        "exMeaning": "Những người đàn ông đã cố gắng ăn cắp tiền từ ngân hàng."
+    },
+    {
+        "word": "thief",
+        "ipa": "θiːf",
+        "type": "n",
+        "tag": "tên trộm",
+        "meaning": "A thief is someone who quietly takes things that do not belong to them.",
+        "context": "Kẻ trộm là người lặng lẽ lấy những thứ không thuộc về họ.",
+        "ex": "A thief broke into our home and took my mother's jewelry",
+        "ipaExTrans": "ə θiːf brəʊk ˈɪntuː ˈaʊə həʊm ænd tʊk maɪ ˈmʌðəz ˈʤuːəlri",
+        "exMeaning": "Một tên trộm đột nhập vào nhà chúng tôi và lấy đồ trang sức của mẹ tôi"
+    }
+]

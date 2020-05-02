@@ -1,0 +1,142 @@
+[
+    {
+        "word": "appeal",
+        "type": "kháng cáo",
+        "ipa": "əˈpiːl",
+        "meaning": "adj. to be attractive or interesting (sự hấp dẫn, thích thú)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "arrive",
+        "type": "đến",
+        "ipa": "əˈraɪv",
+        "meaning": "v. to reach a destination (tới một nơi)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "compromise",
+        "type": "thỏa hiệp",
+        "ipa": "ˈkɒmprəmaɪz",
+        "meaning": "n., a settlement of differences in which each side makes concessions (sự thỏa hiệp, thỏa ước)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "daring",
+        "type": "táo bạo",
+        "ipa": "ˈdeərɪŋ",
+        "meaning": "adj., to have the courage required (táo bạo, liều lĩnh)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "familiar",
+        "type": "Quen biết",
+        "ipa": "fəˈmɪliə",
+        "meaning": "adj., often encountered or seen; common (quen thuộc, quen, tương tự)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "guide",
+        "type": "hướng dẫn",
+        "ipa": "gaɪd",
+        "meaning": "n. one who leads, directs, or gives advice (người hướng dẫn)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "guidance",
+        "type": "hướng dẫn",
+        "ipa": "ˈgaɪdəns",
+        "meaning": "n. sự hướng dẫn",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "guidable",
+        "type": "hướng dẫn",
+        "ipa": "ˈgaɪdəbl",
+        "meaning": "adj. Có thể chỉ đạo, có thể hướng dẫn, có thể dìu dắt",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "majority",
+        "type": "số đông",
+        "ipa": "məˈʤɒrɪti",
+        "meaning": "n. the greater number or part (phần lớn, đa số)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "mix",
+        "type": "pha trộn",
+        "ipa": "mɪks",
+        "meaning": "v. trộn lẫn, hòa lẫn",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "mixture",
+        "type": "hỗn hợp",
+        "ipa": "ˈmɪksʧə",
+        "meaning": "n. Sự pha trộn, sự hỗn hợp",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "mixable",
+        "type": "có thể trộn",
+        "ipa": "ˈmɪksəbl",
+        "meaning": "adj. Có thể trộn lẫn, có thể pha lẫn, có thể hoà lẫn",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "rely",
+        "type": "dựa",
+        "ipa": "rɪˈlaɪ",
+        "meaning": "v. to have confidence in; to depend on (tin cậy vào, dựa vào)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "reliability",
+        "type": "độ tin cậy",
+        "ipa": "rɪˌlaɪəˈbɪlɪti",
+        "meaning": "n. Sự đáng tin cậy; tính đáng tin cậy",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "reliable",
+        "type": "đáng tin cậy",
+        "ipa": "rɪˈlaɪəbl",
+        "meaning": "adj. Chắc chắn, đáng tin cậy; xác thực (tin tức...)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "secure",
+        "type": "đảm bảo",
+        "ipa": "sɪˈkjʊə",
+        "meaning": "v. to get possession of; to obtain (bảo đảm)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "subjective",
+        "type": "chủ quan",
+        "ipa": "səbˈʤɛktɪv",
+        "meaning": "adj., particular to a given person; highly personal; not objective (chủ quan)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "suggest",
+        "type": "đề xuất",
+        "ipa": "səˈʤɛst",
+        "meaning": "v. to offer for consideration or action (gợi ý)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "suggestion",
+        "type": "gợi ý",
+        "ipa": "səˈʤɛsʧən",
+        "meaning": "n. sự gợi ý",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "suggestible",
+        "type": "gợi ý",
+        "ipa": "səˈʤɛstəbl",
+        "meaning": "adj. có thể đề nghị được",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "word": "charge",
+        "type": "sạc điện",
+        "ipa": "ʧɑːʤ",
+        "meaning": "n, an expense or a cost; v, to demand payment (thu phí)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "compile",
+        "type": "biên dịch",
+        "ipa": "kəmˈpaɪl",
+        "meaning": "v, to gather together from several sources (thu thập, biên soạn)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "customer",
+        "type": "khách hàng",
+        "ipa": "ˈkʌstəmə",
+        "meaning": "n, one who purchases a commodity or service (khách hàng)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "discount",
+        "type": "giảm giá",
+        "ipa": "ˈdɪskaʊnt",
+        "meaning": "n, a reduction in price; to reduce in price (giảm giá)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "efficient",
+        "type": "Có hiệu quả",
+        "ipa": "ɪˈfɪʃənt",
+        "meaning": "a, acting or producing effectively with a minimum of waste (có hiệu lực, hiệu quả)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "estimate",
+        "type": "ước tính",
+        "ipa": "ˈɛstɪmɪt",
+        "meaning": "v, to approximate the amount or value of something; to form am opinion About something (ước lượng. định giá)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "estimation",
+        "type": "ước lượng",
+        "ipa": "ˌɛstɪˈmeɪʃən",
+        "meaning": "a judgement or opinion about the value or quality of somebody/something",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "impose",
+        "type": "áp đặt",
+        "ipa": "ɪmˈpəʊz",
+        "meaning": "v, to establish or apply as compulsory; to force upon others (áp đặt, ép buộc, bắt ai phải làm gì đó)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "imposition",
+        "type": "áp đặt",
+        "ipa": "ˌɪmpəˈzɪʃən",
+        "meaning": "n. imposing adj. (đánh thuế ai đó, sự áp đặt, bắt buộc)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "mistake",
+        "type": "sai lầm",
+        "ipa": "mɪsˈteɪk",
+        "meaning": "n, an error or a fault (lỗi)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "mistaken",
+        "type": "nhầm",
+        "ipa": "mɪsˈteɪkən",
+        "meaning": "adj. sai lầm; hiểu sai, hiểu lầm",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "order",
+        "type": "đặt hàng",
+        "ipa": "ˈɔːdə",
+        "meaning": "n, a request made to purchase something ; v, to command or direct (đơn đặt hàng; ra lệnh, chỉ huy)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "prompt",
+        "type": "lời nhắc",
+        "ipa": "prɒmpt",
+        "meaning": "adj, v : be on time or punctual, carried out without delay, n. a reminder or a cue (mau lẹ, nhanh chóng; ngay, ngay tức thì, tức thời)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "promptness",
+        "type": "nhanh chóng",
+        "ipa": "ˈprɒmptnəs",
+        "meaning": "n. sự mau lẹ, sự nhanh chóng",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "rectify",
+        "type": "cải chính",
+        "ipa": "ˈrɛktɪfaɪ",
+        "meaning": "v. to set right or correct ( khắc phục, chỉnh sửa )",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "term",
+        "type": "kỳ hạn",
+        "ipa": "tɜːm",
+        "meaning": "n. conditions (điều khoản; giá; điều kiện)",
+        "tag": "Invoices (Hóa đơn)"
+    }
+]

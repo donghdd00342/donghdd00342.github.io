@@ -1,0 +1,100 @@
+[
+    {
+        "word": "abide by",
+        "type": "tuân thủ",
+        "ipa": "əˈbaɪd baɪ",
+        "meaning": "(v)to comply with, to conform ( Tuân theo )",
+        "tag": "Contracts"
+    },
+    {
+        "word": "agreement",
+        "type": "hợp đồng",
+        "ipa": "əˈgriːmənt",
+        "meaning": "(n)a mutual arrangement, a contract (hợp đồng, giao kèo)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "agreeable",
+        "type": "dễ chịu",
+        "ipa": "əˈgrɪəbl",
+        "meaning": "(adj)đồng ý, tán thành, bằng lòng, thoả thuận",
+        "tag": "Contracts"
+    },
+    {
+        "word": "assurance",
+        "type": "đảm bảo",
+        "ipa": "əˈʃʊərəns",
+        "meaning": "(n)guarantee, confidence (sự chắc chắn; sự tin chắc; điều chắc chắn, điều tin chắc)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "determine",
+        "type": "mục đích",
+        "ipa": "dɪˈtɜːmɪn",
+        "meaning": "(v)to find out, to influence (định, xác định, định rõ)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "engage",
+        "type": "thuê",
+        "ipa": "ɪnˈgeɪʤ",
+        "meaning": "(v)to hire, to involve (thuê, đính hôn, giao ước)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "establish",
+        "type": "thành lập",
+        "ipa": "ɪsˈtæblɪʃ",
+        "meaning": "(v)to institute permanently, to bring about (thành lập, thiết lập)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "obligate",
+        "type": "bắt buộc",
+        "ipa": "ˈɒblɪgeɪt",
+        "meaning": "(v)to bind legally or morally ( ràng buộc, ép buộc)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "obligation",
+        "type": "nghĩa vụ",
+        "ipa": "ˌɒblɪˈgeɪʃən",
+        "meaning": "(n)nghĩa vụ, bổn phận ,sự ràng buộc",
+        "tag": "Contracts"
+    },
+    {
+        "word": "provision",
+        "type": "điều khoản",
+        "ipa": "prəˈvɪʒən",
+        "meaning": "(n)a measure taken beforehand, a stipulation (điều khoản)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "provider",
+        "type": "các nhà cung cấp",
+        "ipa": "prəˈvaɪdə",
+        "meaning": "(n)nhà cung cấp",
+        "tag": "Contracts"
+    },
+    {
+        "word": "resolve",
+        "type": "giải quyết",
+        "ipa": "rɪˈzɒlv",
+        "meaning": "(v)to deal with successfully, to declare ( giải quyết )",
+        "tag": "Contracts"
+    },
+    {
+        "word": "specify",
+        "type": "chỉ định",
+        "ipa": "ˈspɛsɪfaɪ",
+        "meaning": "(v)to mention explicitly ( chỉ rõ, ghi rõ, định rõ, ghi chú vào phần chi tiết kỹ thuật )",
+        "tag": "Contracts"
+    },
+    {
+        "word": "specific",
+        "type": "riêng",
+        "ipa": "spɪˈsɪfɪk",
+        "meaning": "(adj)cụ thể, rõ ràng, rành mạch",
+        "tag": "Contracts"
+    }
+]

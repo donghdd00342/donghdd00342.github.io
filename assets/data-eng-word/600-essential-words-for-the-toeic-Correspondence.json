@@ -1,0 +1,100 @@
+[
+    {
+        "word": "assemble",
+        "type": "tập hợp",
+        "ipa": "əˈsɛmbl",
+        "meaning": "to put together; to bring together (thu thập, lắp ráp)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "beforehand",
+        "type": "Tới trước",
+        "ipa": "bɪˈfɔːhænd",
+        "meaning": "early, in advance (sẵn sàng trước)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "complicated",
+        "type": "phức tạp",
+        "ipa": "ˈkɒmplɪkeɪtɪd",
+        "meaning": "not easy to understand (phức tạp)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "courier",
+        "type": "chuyển phát nhanh",
+        "ipa": "ˈkʊrɪə",
+        "meaning": "a messenger (người đưa thư, đưa tin)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "express",
+        "type": "bày tỏ",
+        "ipa": "ɪksˈprɛs",
+        "meaning": "fast and direct (nhanh, hỏa tốc, tốc hành)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "fold",
+        "type": "gập lại",
+        "ipa": "fəʊld",
+        "meaning": "to bend paper (gấp lại, gấp nếp lại)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "layout",
+        "type": "bố trí",
+        "ipa": "ˈleɪaʊt",
+        "meaning": "a format; the organization of material on a page (Sự bố trí trang giấy)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "mention",
+        "type": "đề cập đến",
+        "ipa": "ˈmɛnʃən",
+        "meaning": "to refer to; n, something read or written (đưa ra, đề cập đến)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "mentionable",
+        "type": "đề cập đến",
+        "ipa": "ˈmɛnʃənəbl",
+        "meaning": "adj of mention (đáng kể, đáng đề cập)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "petition",
+        "type": "kiến nghị",
+        "ipa": "pɪˈtɪʃən",
+        "meaning": "a formal, written request; v, to make a formal request (lời thỉnh cầu, đề nghị)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "proof",
+        "type": "bằng chứng",
+        "ipa": "pruːf",
+        "meaning": "to look for errors (dò lỗi, review)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "proofreader",
+        "type": "người đọc thử",
+        "ipa": "ˈpruːfˌriːdə",
+        "meaning": "Người soát lỗi, người review",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "registered",
+        "type": "đã đăng ký",
+        "ipa": "ˈrɛʤɪstəd",
+        "meaning": "recorded and tracked (đã đăng ký, được bảo đảm (thư))",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "revise",
+        "type": "xem lại",
+        "ipa": "rɪˈvaɪz",
+        "meaning": "to rewrite (sửa lại, bản sửa)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    }
+]

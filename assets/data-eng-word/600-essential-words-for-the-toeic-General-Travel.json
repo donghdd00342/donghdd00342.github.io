@@ -1,0 +1,114 @@
+[
+    {
+        "word": "agency",
+        "type": "đại lý",
+        "ipa": "ˈeɪʤənsi",
+        "meaning": "n., an establishment engaged in doing business (đại lý)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "announcement",
+        "type": "sự thông báo",
+        "ipa": "əˈnaʊnsmənt",
+        "meaning": "n. a public notification (sự thông báo)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "announce",
+        "type": "thông báo",
+        "ipa": "əˈnaʊns",
+        "meaning": "v. thông báo",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "announcer",
+        "type": "phát thanh viên",
+        "ipa": "əˈnaʊnsə",
+        "meaning": "n. người thông báo",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "beverage",
+        "type": "đồ uống",
+        "ipa": "ˈbɛvərɪʤ",
+        "meaning": "n. a drink other than plain water (đồ uống, thức uống)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "blanket",
+        "type": "cái mền",
+        "ipa": "ˈblæŋkɪt",
+        "meaning": "n. a covering for keeping warm, especially during sleep; any full coverage; v., to cover uniformly (Mền, chăn)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "board",
+        "type": "bảng",
+        "ipa": "bɔːd",
+        "meaning": "v. to enter a boat, plane, or train; to furnish to see the roads v.,(lên tàu)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "onboard",
+        "type": "trên tàu",
+        "ipa": "ˈɒnbɔːd",
+        "meaning": "adj. trên tàu",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "claim",
+        "type": "yêu cầu",
+        "ipa": "kleɪm",
+        "meaning": "v. to take as rightful; to retrieve (đòi hỏi, quyền yêu sách)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "delay",
+        "type": "sự chậm trễ",
+        "ipa": "dɪˈleɪ",
+        "meaning": "v. n. trì hoãn",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "embark",
+        "type": "tham gia",
+        "ipa": "ɪmˈbɑːk",
+        "meaning": "v. to go onboard a flight or ship; to begin (Lên tàu)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "itinerary",
+        "type": "hành trình",
+        "ipa": "aɪˈtɪnərəri",
+        "meaning": "n. a proposed rout for a journey, showing dates and means of travel (lịch trình bay)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "prohibit",
+        "type": "cấm",
+        "ipa": "prəˈhɪbɪt",
+        "meaning": "v. to forbid by authority or to prevent (ngăn cấm, ngăn chặn)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "valid",
+        "type": "có hiệu lực",
+        "ipa": "ˈvælɪd",
+        "meaning": "adj. having legal efficacy or correctness (hiệu lực)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "validate",
+        "type": "xác nhận",
+        "ipa": "ˈvælɪdeɪt",
+        "meaning": "v. chứng thực, xác nhận",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "validation",
+        "type": "Thẩm định",
+        "ipa": "ˌvælɪˈdeɪʃən",
+        "meaning": "n. sự chứng thực, xác nhận",
+        "tag": "General Travel (du lịch tổng quan)"
+    }
+]

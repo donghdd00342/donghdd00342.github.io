@@ -1,0 +1,114 @@
+[
+    {
+        "word": "consult",
+        "type": "tham khảo ý kiến",
+        "ipa": "kənˈsʌlt",
+        "meaning": "to seek advice or information of (hỏi ý kiến, tham khảo)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "control",
+        "type": "điều khiển",
+        "ipa": "kənˈtrəʊl",
+        "meaning": "to exercise authoritative or dominating influence (kiểm tra, kiểm soát, thử lại)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "convenient",
+        "type": "tiện lợi",
+        "ipa": "kənˈviːniənt",
+        "meaning": "suited or favorable to one’s purpose; easy to reach (tiện lợi, thuận lợi; thích hợp)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "detect",
+        "type": "phát hiện",
+        "ipa": "dɪˈtɛkt",
+        "meaning": "to discover or ascertain (dò ra, tìm ra, khám phá ra, phát hiện ra)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "detection",
+        "type": "phát hiện",
+        "ipa": "dɪˈtɛkʃən",
+        "meaning": "(n) sự dò ra, sự phát hiện ra",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "detectable",
+        "type": "có thể phát hiện",
+        "ipa": "dɪˈtɛktəbl",
+        "meaning": "(adj) dò ra, phát hiện",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "factor",
+        "type": "hệ số",
+        "ipa": "ˈfæktə",
+        "meaning": "a contribution to an accomplishment, a result, or a process (nhân tố)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "interaction",
+        "type": "sự tương tác",
+        "ipa": "ˌɪntərˈækʃən",
+        "meaning": "an influence; a mutual activity (tác động qua lại)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "limit",
+        "type": "giới hạn",
+        "ipa": "ˈlɪmɪt",
+        "meaning": "the point beyond which something cannot proceed (giới hạn, hạn độ)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "monitor",
+        "type": "màn hình",
+        "ipa": "ˈmɒnɪtə",
+        "meaning": "to keep track of (giám sát)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "potential",
+        "type": "tiềm năng",
+        "ipa": "pəʊˈtɛnʃəl",
+        "meaning": "capable of being but not ye in existence; possible (tiềm năng)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "sample",
+        "type": "mẫu vật",
+        "ipa": "ˈsɑːmpl",
+        "meaning": "a portion, piece, or segment that is representative of a whole (mẫu, mẫu hàng)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "sense",
+        "type": "giác quan",
+        "ipa": "sɛns",
+        "meaning": "a judgment; an intellectual interpretation (khả năng phán đoán)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "volunteer",
+        "type": "Tình nguyện viên",
+        "ipa": "ˌvɒlənˈtɪə",
+        "meaning": "one who performs a service without pay; v., to perform as a volunteer (người tình nguyện, người xung phong)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "volunteerism",
+        "type": "tình nguyện",
+        "ipa": "ˌvɒlənˈtɪərɪz(ə)m",
+        "meaning": "hoạt động tình nguyện",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "voluntary",
+        "type": "tình nguyện",
+        "ipa": "ˈvɒləntəri",
+        "meaning": "adj, tự nguyện",
+        "tag": "Pharmacy (dược khoa)"
+    }
+]

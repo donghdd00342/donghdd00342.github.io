@@ -1,0 +1,142 @@
+[
+    {
+        "word": "bargain",
+        "type": "trả giá",
+        "ipa": "ˈbɑːgɪn",
+        "meaning": "(v) mặc cả, thương lượng; (n) sự mặc cả, món hời",
+        "tag": "Shopping"
+    },
+    {
+        "word": "bear",
+        "type": "chịu",
+        "ipa": "beə",
+        "meaning": "v, to have a tolerance for, to endure (chịu đựng)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "behavior",
+        "type": "hành vi",
+        "ipa": "bɪˈheɪvjə",
+        "meaning": "n, the manner of one’s action (cách ứng xử, đối xử)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "checkout",
+        "type": "Thủ tục thanh toán",
+        "ipa": "ˈʧəkˈaʊt",
+        "meaning": "n, the act, time, or place of checking out, as at a hotel or a supermarket (thanh toán, quầy thanh toán)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "comfort",
+        "type": "thoải mái",
+        "ipa": "ˈkʌmfət",
+        "meaning": "n, a condition or feeling of pleasurable ease, well-being, and contentment (thỏai mái, dễ dàng)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "comfortable",
+        "type": "Thoải mái",
+        "ipa": "ˈkʌmf(ə)təbl",
+        "meaning": "adj, thỏai mái, dễ dàng",
+        "tag": "Shopping"
+    },
+    {
+        "word": "expand",
+        "type": "mở rộng",
+        "ipa": "ɪksˈpænd",
+        "meaning": "v, to increase the size, volume, quantity, or scope of; to enlarge (mở rộng, phát triển)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "expansion",
+        "type": "sự bành trướng",
+        "ipa": "ɪksˈpænʃən",
+        "meaning": "n. sự mở rộng, sự bành trướng",
+        "tag": "Shopping"
+    },
+    {
+        "word": "expanded",
+        "type": "mở rộng",
+        "ipa": "ɪksˈpændɪd",
+        "meaning": "adj. nới rộng",
+        "tag": "Shopping"
+    },
+    {
+        "word": "explore",
+        "type": "khám phá",
+        "ipa": "ɪksˈplɔː",
+        "meaning": "v,to investigate systematically (khám phá, thăm dò, thám hiểm)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "exploration",
+        "type": "thăm dò",
+        "ipa": "ˌɛksplɔːˈreɪʃən",
+        "meaning": "n. sự thăm dò, sự khảo sát",
+        "tag": "Shopping"
+    },
+    {
+        "word": "exploratory",
+        "type": "thám hiểm",
+        "ipa": "ɛksˈplɔːrətəri",
+        "meaning": "adj. để thăm dò, để khảo sát",
+        "tag": "Shopping"
+    },
+    {
+        "word": "item",
+        "type": "mục",
+        "ipa": "ˈaɪtəm",
+        "meaning": "n,a single article or unit (mặt hàng, món)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "mandatory",
+        "type": "bắt buộc",
+        "ipa": "ˈmændətəri",
+        "meaning": "a, required or commanded, obligatory (bắt buộc)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "merchandise",
+        "type": "hàng hóa",
+        "ipa": "ˈmɜːʧəndaɪz",
+        "meaning": "n, items available in stores (hàng hóa mua bán); (v) buôn bán, quảng bá sản phẩm",
+        "tag": "Shopping"
+    },
+    {
+        "word": "strict",
+        "type": "nghiêm khắc",
+        "ipa": "strɪkt",
+        "meaning": "a, precise. Exact (chính xác, chặt chẽ, nghiêm ngặt)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "strictness",
+        "type": "nghiêm khắc",
+        "ipa": "ˈstrɪktnəs",
+        "meaning": "n, sự chặt chẽ, tính chính xác, nghiêm ngặt",
+        "tag": "Shopping"
+    },
+    {
+        "word": "trend",
+        "type": "khuynh hướng",
+        "ipa": "trɛnd",
+        "meaning": "n, the current style (xu hướng, xu thế)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "mandate",
+        "type": "thi hành",
+        "ipa": "ˈmændeɪt",
+        "meaning": "(n) (v) chỉ thị, yêu cầu",
+        "tag": "Shopping"
+    },
+    {
+        "word": "merchant",
+        "type": "thương gia",
+        "ipa": "ˈmɜːʧənt",
+        "meaning": "(n) nhà buôn, lái buôn; thương gia",
+        "tag": "Shopping"
+    }
+]

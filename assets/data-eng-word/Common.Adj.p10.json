@@ -1,0 +1,416 @@
+[
+    {
+        "word": "breezy",
+        "type": "Adj",
+        "ipa": "ˈbriːzi",
+        "meaning": "gió nhẹ",
+        "ex": "He wore a breezy, short-sleeved shirt.",
+        "ipaExTrans": "hiː wɔːr ə ˈbriːzi, ʃɔːt-sliːvd ʃɜːt.",
+        "exMeaning": "Anh ta mặc một chiếc áo sơ mi ngắn tay."
+    },
+    {
+        "word": "bumpy",
+        "type": "Adj",
+        "ipa": "ˈbʌmpi",
+        "meaning": "gập ghềnh",
+        "ex": "Janet and Ouray were but a stop on the bumpy road to nowhere.",
+        "ipaExTrans": "ˈʤænət ænd Ouray wɜː bʌt ə stɒp ɒn ðə ˈbʌmpi rəʊd tuː ˈnəʊweə.",
+        "exMeaning": "Janet và Ouray chỉ là một điểm dừng trên con đường gập ghềnh đến hư không."
+    },
+    {
+        "word": "chilly",
+        "type": "Adj",
+        "ipa": "ˈʧɪli",
+        "meaning": "se se lạnh",
+        "ex": "It can get chilly here at night.",
+        "ipaExTrans": "ɪt kæn gɛt ˈʧɪli hɪər æt naɪt.",
+        "exMeaning": "Nó có thể bị lạnh ở đây vào ban đêm."
+    },
+    {
+        "word": "cold",
+        "type": "Adj",
+        "ipa": "kəʊld",
+        "meaning": "lạnh",
+        "ex": "Let's get in out of this cold wind.",
+        "ipaExTrans": "lɛts gɛt ɪn aʊt ɒv ðɪs kəʊld wɪnd.",
+        "exMeaning": "Hãy ra khỏi cơn gió lạnh này."
+    },
+    {
+        "word": "cool",
+        "type": "Adj",
+        "ipa": "kuːl",
+        "meaning": "mát mẻ",
+        "ex": "She woke to a cool dawn.",
+        "ipaExTrans": "ʃiː wəʊk tuː ə kuːl dɔːn.",
+        "exMeaning": "Cô thức dậy với một bình minh mát mẻ."
+    },
+    {
+        "word": "cuddly",
+        "type": "Adj",
+        "ipa": "ˈkʌdli",
+        "meaning": "Âu yếm",
+        "ex": "It makes you feel all warm and cuddly, especially on a winter nights when it's snowing and especially when you're with a special flannel guy.",
+        "ipaExTrans": "ɪt meɪks juː fiːl ɔːl wɔːm ænd ˈkʌdli, ɪsˈpɛʃəli ɒn ə ˈwɪntə naɪts wɛn ɪts ˈsnəʊɪŋ ænd ɪsˈpɛʃəli wɛn jʊə wɪð ə ˈspɛʃəl ˈflænl gaɪ.",
+        "exMeaning": "Nó làm cho bạn cảm thấy ấm áp và âu yếm, đặc biệt là vào những đêm mùa đông khi tuyết rơi và đặc biệt là khi bạn ở cùng với một anh chàng flannel đặc biệt."
+    },
+    {
+        "word": "damaged",
+        "type": "Adj",
+        "ipa": "ˈdæmɪʤd",
+        "meaning": "hư hỏng",
+        "ex": "Oranges and pears are seriously damaged by insect and fungus pests.",
+        "ipaExTrans": "ˈɒrɪnʤɪz ænd peəz ɑː ˈsɪərɪəsli ˈdæmɪʤd baɪ ˈɪnsɛkt ænd ˈfʌŋgəs pɛsts.",
+        "exMeaning": "Cam và lê bị thiệt hại nghiêm trọng bởi sâu bệnh và nấm."
+    },
+    {
+        "word": "damp",
+        "type": "Adj",
+        "ipa": "dæmp",
+        "meaning": "ẩm ướt",
+        "ex": "The darkness smelled damp; the air was still and silent.",
+        "ipaExTrans": "ðə ˈdɑːknɪs smɛld dæmp; ði eə wɒz stɪl ænd ˈsaɪlənt.",
+        "exMeaning": "Bóng tối có mùi ẩm ướt; Không khí tĩnh lặng."
+    },
+    {
+        "word": "dirty",
+        "type": "Adj",
+        "ipa": "ˈdɜːti",
+        "meaning": "dơ bẩn",
+        "ex": "Don't talk dirty, Ben.",
+        "ipaExTrans": "dəʊnt tɔːk ˈdɜːti, bɛn.",
+        "exMeaning": "Đừng nói chuyện bẩn thỉu, Ben."
+    },
+    {
+        "word": "dry",
+        "type": "Adj",
+        "ipa": "draɪ",
+        "meaning": "khô",
+        "ex": "Her mouth felt dry and her knees weak.",
+        "ipaExTrans": "hɜː maʊθ fɛlt draɪ ænd hɜː niːz wiːk.",
+        "exMeaning": "Miệng cô cảm thấy khô và đầu gối yếu."
+    },
+    {
+        "word": "flaky",
+        "type": "Adj",
+        "ipa": "ˈfleɪki",
+        "meaning": "bong tróc",
+        "ex": "Toby would make an awesome older brother, she realized, unlike her flaky sister.",
+        "ipaExTrans": "ˈtəʊbi wʊd meɪk ən ˈɔːsəm ˈəʊldə ˈbrʌðə, ʃiː ˈrɪəlaɪzd, ʌnˈlaɪk hɜː ˈfleɪki ˈsɪstə.",
+        "exMeaning": "Toby sẽ làm một người anh trai tuyệt vời, cô nhận ra, không giống như người chị dễ tính của mình."
+    },
+    {
+        "word": "fluffy",
+        "type": "Adj",
+        "ipa": "ˈflʌfi",
+        "meaning": "lông tơ",
+        "ex": "The fluffy white tail of a rabbit bobbed through the brush as the terrified animal bounded away.",
+        "ipaExTrans": "ðə ˈflʌfi waɪt teɪl ɒv ə ˈræbɪt bɒbd θruː ðə brʌʃ æz ðə ˈtɛrɪfaɪd ˈænɪməl ˈbaʊndɪd əˈweɪ.",
+        "exMeaning": "Cái đuôi trắng mịn của một con thỏ luồn qua bàn chải khi con vật kinh hoàng lao đi."
+    },
+    {
+        "word": "freezing",
+        "type": "Adj",
+        "ipa": "ˈfriːzɪŋ",
+        "meaning": "đóng băng",
+        "ex": "It's freezing in here!",
+        "ipaExTrans": "ɪts ˈfriːzɪŋ ɪn hɪə!",
+        "exMeaning": "Nó đang đóng băng ở đây!"
+    },
+    {
+        "word": "greasy",
+        "type": "Adj",
+        "ipa": "ˈgriːzi",
+        "meaning": "bóng nhờn",
+        "ex": "The diamond has also a somewhat greasy feel.",
+        "ipaExTrans": "ðə ˈdaɪəmənd hæz ˈɔːlsəʊ ə ˈsʌmwɒt ˈgriːzi fiːl.",
+        "exMeaning": "Kim cương cũng có một cảm giác hơi nhờn."
+    },
+    {
+        "word": "hot",
+        "type": "Adj",
+        "ipa": "hɒt",
+        "meaning": "nóng bức",
+        "ex": "Sunday dawned a sunny hot July day.",
+        "ipaExTrans": "ˈsʌndeɪ dɔːnd ə ˈsʌni hɒt ʤu(ː)ˈlaɪ deɪ.",
+        "exMeaning": "Chủ nhật bắt đầu một ngày nắng nóng tháng bảy."
+    },
+    {
+        "word": "icy",
+        "type": "Adj",
+        "ipa": "ˈaɪsi",
+        "meaning": "băng giá",
+        "ex": "Connie gave him an icy stare.",
+        "ipaExTrans": "Connie geɪv hɪm ən ˈaɪsi steə.",
+        "exMeaning": "Connie nhìn anh chằm chằm."
+    },
+    {
+        "word": "loose",
+        "type": "Adj",
+        "ipa": "luːs",
+        "meaning": "lỏng lẻo",
+        "ex": "Cut him loose with a GPS tag.",
+        "ipaExTrans": "kʌt hɪm luːs wɪð ə ʤiː-piː-ɛs tæg.",
+        "exMeaning": "Cắt anh ta lỏng với một thẻ GPS."
+    },
+    {
+        "word": "melted",
+        "type": "Adj",
+        "ipa": "ˈmɛltɪd",
+        "meaning": "tan chảy",
+        "ex": "I can't wait to meet the guy who melted the Ice Queen.",
+        "ipaExTrans": "aɪ kɑːnt weɪt tuː miːt ðə gaɪ huː ˈmɛltɪd ði aɪs kwiːn.",
+        "exMeaning": "Tôi không thể chờ đợi để gặp anh chàng làm tan chảy Nữ hoàng băng giá."
+    },
+    {
+        "word": "prickly",
+        "type": "Adj",
+        "ipa": "ˈprɪkli",
+        "meaning": "châm chích",
+        "ex": "I'll beat Old Prickly, all right.",
+        "ipaExTrans": "aɪl biːt əʊld ˈprɪkli, ɔːl raɪt.",
+        "exMeaning": "Tôi sẽ đánh Old Prickly, được rồi."
+    },
+    {
+        "word": "rough",
+        "type": "Adj",
+        "ipa": "rʌf",
+        "meaning": "thô",
+        "ex": "I don't like it when you're rough like that.",
+        "ipaExTrans": "aɪ dəʊnt laɪk ɪt wɛn jʊə rʌf laɪk ðæt.",
+        "exMeaning": "Tôi không thích nó khi bạn thô bạo như thế."
+    },
+    {
+        "word": "shaggy",
+        "type": "Adj",
+        "ipa": "ˈʃægi",
+        "meaning": "xù xì",
+        "ex": "He saw its shaggy head and big round eyes.",
+        "ipaExTrans": "hiː sɔː ɪts ˈʃægi hɛd ænd bɪg raʊnd aɪz.",
+        "exMeaning": "Anh nhìn thấy cái đầu xù xì và đôi mắt to tròn."
+    },
+    {
+        "word": "sharp",
+        "type": "Adj",
+        "ipa": "ʃɑːp",
+        "meaning": "nhọn",
+        "ex": "The wound opened again and the salt he threw into it drew a sharp response from her.",
+        "ipaExTrans": "ðə wuːnd ˈəʊpənd əˈgɛn ænd ðə sɔːlt hiː θruː ˈɪntuː ɪt druː ə ʃɑːp rɪsˈpɒns frɒm hɜː.",
+        "exMeaning": "Vết thương lại mở ra và muối anh ném vào nó đã thu hút một phản ứng sắc bén từ cô."
+    },
+    {
+        "word": "slimy",
+        "type": "Adj",
+        "ipa": "ˈslaɪmi",
+        "meaning": "nhếch nhác",
+        "ex": "The raindrops were heavier now, working the mud on her face into a slimy mess.",
+        "ipaExTrans": "ðə ˈreɪndrɒps wɜː ˈhɛvɪə naʊ, ˈwɜːkɪŋ ðə mʌd ɒn hɜː feɪs ˈɪntuː ə ˈslaɪmi mɛs.",
+        "exMeaning": "Những hạt mưa bây giờ nặng hơn, làm cho bùn trên mặt cô thành một mớ hỗn độn."
+    },
+    {
+        "word": "sticky",
+        "type": "Adj",
+        "ipa": "ˈstɪki",
+        "meaning": "dính",
+        "ex": "He dropped the sticky pouch in her hand.",
+        "ipaExTrans": "hiː drɒpt ðə ˈstɪki paʊʧ ɪn hɜː hænd.",
+        "exMeaning": "Anh đánh rơi cái túi dính trong tay cô."
+    },
+    {
+        "word": "strong",
+        "type": "Adj",
+        "ipa": "strɒŋ",
+        "meaning": "mạnh",
+        "ex": "He was strong and ready for every duty.",
+        "ipaExTrans": "hiː wɒz strɒŋ ænd ˈrɛdi fɔːr ˈɛvri ˈdjuːti.",
+        "exMeaning": "Anh ấy mạnh mẽ và sẵn sàng cho mọi nhiệm vụ."
+    },
+    {
+        "word": "tight",
+        "type": "Adj",
+        "ipa": "taɪt",
+        "meaning": "chặt chẽ",
+        "ex": "Her throat was too tight to say more.",
+        "ipaExTrans": "hɜː θrəʊt wɒz tuː taɪt tuː seɪ mɔː.",
+        "exMeaning": "Cổ họng cô quá chặt để nói thêm."
+    },
+    {
+        "word": "uneven",
+        "type": "Adj",
+        "ipa": "ʌnˈiːvən",
+        "meaning": "không đồng đều",
+        "ex": "It is an extremely uneven compilation.",
+        "ipaExTrans": "ɪt ɪz ən ɪksˈtriːmli ʌnˈiːvən ˌkɒmpɪˈleɪʃən.",
+        "exMeaning": "Nó là một phần tổng hợp cực kỳ không đồng đều."
+    },
+    {
+        "word": "warm",
+        "type": "Adj",
+        "ipa": "wɔːm",
+        "meaning": "ấm áp",
+        "ex": "It was a warm afternoon in August.",
+        "ipaExTrans": "ɪt wɒz ə wɔːm ˈɑːftəˈnuːn ɪn ˈɔːgəst.",
+        "exMeaning": "Đó là một buổi chiều ấm áp vào tháng Tám."
+    },
+    {
+        "word": "weak",
+        "type": "Adj",
+        "ipa": "wiːk",
+        "meaning": "Yếu",
+        "ex": "She was too weak to move.",
+        "ipaExTrans": "ʃiː wɒz tuː wiːk tuː muːv.",
+        "exMeaning": "Cô quá yếu để di chuyển."
+    },
+    {
+        "word": "wet",
+        "type": "Adj",
+        "ipa": "wɛt",
+        "meaning": "ướt",
+        "ex": "Her face wet with tears.",
+        "ipaExTrans": "hɜː feɪs wɛt wɪð teəz.",
+        "exMeaning": "Khuôn mặt cô ướt đẫm nước mắt."
+    },
+    {
+        "word": "wooden",
+        "type": "Adj",
+        "ipa": "ˈwʊdn",
+        "meaning": "gỗ",
+        "ex": "It replaced an old wooden one that burned.",
+        "ipaExTrans": "ɪt rɪˈpleɪst ən əʊld ˈwʊdn wʌn ðæt bɜːnd.",
+        "exMeaning": "Nó thay thế một cái gỗ cũ bị đốt cháy."
+    },
+    {
+        "word": "boiling",
+        "type": "Adj",
+        "ipa": "ˈbɔɪlɪŋ",
+        "meaning": "sôi",
+        "ex": "It might get the pot boiling a bit.",
+        "ipaExTrans": "ɪt maɪt gɛt ðə pɒt ˈbɔɪlɪŋ ə bɪt.",
+        "exMeaning": "Nó có thể làm cho nồi sôi một chút."
+    },
+    {
+        "word": "silky",
+        "type": "Adj",
+        "ipa": "ˈsɪlki",
+        "meaning": "mướt",
+        "ex": "The head is short, and the coat silky and wavy.",
+        "ipaExTrans": "ðə hɛd ɪz ʃɔːt, ænd ðə kəʊt ˈsɪlki ænd ˈweɪvi.",
+        "exMeaning": "Đầu ngắn, và bộ lông mượt và lượn sóng."
+    },
+    {
+        "word": "fuzzy",
+        "type": "Adj",
+        "ipa": "ˈfʌzi",
+        "meaning": "mờ",
+        "ex": "The fuzzy, unfamiliar world around her burst into clarity.",
+        "ipaExTrans": "ðə ˈfʌzi, ˌʌnfəˈmɪliə wɜːld əˈraʊnd hɜː bɜːst ˈɪntuː ˈklærɪti.",
+        "exMeaning": "Thế giới mờ ảo, xa lạ xung quanh cô bùng nổ."
+    },
+    {
+        "word": "slick",
+        "type": "Adj",
+        "ipa": "slɪk",
+        "meaning": "bóng mượt",
+        "ex": "Yeah, this is one slick pair of wheels.",
+        "ipaExTrans": "jeə, ðɪs ɪz wʌn slɪk peər ɒv wiːlz.",
+        "exMeaning": "Vâng, đây là một cặp bánh xe trơn."
+    },
+    {
+        "word": "hard",
+        "type": "Adj",
+        "ipa": "hɑːd",
+        "meaning": "cứng",
+        "ex": "I can see why Alex fell so hard for you.",
+        "ipaExTrans": "aɪ kæn siː waɪ ˈæləks fɛl səʊ hɑːd fɔː juː.",
+        "exMeaning": "Tôi có thể thấy lý do tại sao Alex rất khó khăn cho bạn."
+    },
+    {
+        "word": "slippery",
+        "type": "Adj",
+        "ipa": "ˈslɪpəri",
+        "meaning": "trơn",
+        "ex": "A mist overhung the field and the hillsides were slippery with mud.",
+        "ipaExTrans": "ə mɪst ˌəʊvəˈhʌŋ ðə fiːld ænd ðə ˈhɪlˌsaɪdz wɜː ˈslɪpəri wɪð mʌd.",
+        "exMeaning": "Một màn sương phủ khắp cánh đồng và sườn đồi trơn tuột."
+    },
+    {
+        "word": "smooth",
+        "type": "Adj",
+        "ipa": "smuːð",
+        "meaning": "trơn tru",
+        "ex": "Nothing but smooth sailing from here on out.",
+        "ipaExTrans": "ˈnʌθɪŋ bʌt smuːð ˈseɪlɪŋ frɒm hɪər ɒn aʊt.",
+        "exMeaning": "Không có gì ngoài thuận buồm xuôi gió từ đây trở ra."
+    },
+    {
+        "word": "soft",
+        "type": "Adj",
+        "ipa": "sɒft",
+        "meaning": "mềm mại",
+        "ex": "His laugh was soft and low.",
+        "ipaExTrans": "hɪz lɑːf wɒz sɒft ænd ləʊ.",
+        "exMeaning": "Tiếng cười của anh thật khẽ và thấp."
+    },
+    {
+        "word": "solid",
+        "type": "Adj",
+        "ipa": "ˈsɒlɪd",
+        "meaning": "chất rắn",
+        "ex": "Once again the rear end was on solid ground.",
+        "ipaExTrans": "wʌns əˈgɛn ðə rɪər ɛnd wɒz ɒn ˈsɒlɪd graʊnd.",
+        "exMeaning": "Một lần nữa, phía sau là trên mặt đất vững chắc."
+    },
+    {
+        "word": "painful",
+        "type": "Adj",
+        "ipa": "ˈpeɪnfʊl",
+        "meaning": "đau đớn",
+        "ex": "It'll be a slow, painful death.",
+        "ipaExTrans": "ˈɪtl biː ə sləʊ, ˈpeɪnfʊl dɛθ.",
+        "exMeaning": "Đó sẽ là một cái chết chậm chạp, đau đớn."
+    },
+    {
+        "word": "tender",
+        "type": "Adj",
+        "ipa": "ˈtɛndə",
+        "meaning": "đấu thầu",
+        "ex": "Her neck was tender and swallowing was painful.",
+        "ipaExTrans": "hɜː nɛk wɒz ˈtɛndər ænd ˈswɒləʊɪŋ wɒz ˈpeɪnfʊl.",
+        "exMeaning": "Cổ cô đau và nuốt rất đau."
+    },
+    {
+        "word": "dusty",
+        "type": "Adj",
+        "ipa": "ˈdʌsti",
+        "meaning": "bụi bặm",
+        "ex": "Dusty glanced at his watch.",
+        "ipaExTrans": "ˈdʌsti glɑːnst æt hɪz wɒʧ.",
+        "exMeaning": "Dusty liếc nhìn đồng hồ."
+    },
+    {
+        "word": "encrusted",
+        "type": "Adj",
+        "ipa": "ɪnˈkrʌstɪd",
+        "meaning": "ủy thác",
+        "ex": "The walls, both internally and externally, are encrusted with marbles.",
+        "ipaExTrans": "ðə wɔːlz, bəʊθ ɪnˈtɜːnəli ænd ɛksˈtɜːnli, ɑːr ɪnˈkrʌstɪd wɪð ˈmɑːblz.",
+        "exMeaning": "Các bức tường, cả bên trong và bên ngoài, được nạm những viên bi."
+    },
+    {
+        "word": "filthy",
+        "type": "Adj",
+        "ipa": "ˈfɪlθi",
+        "meaning": "bẩn thỉu",
+        "ex": "Under the hat, her hair was filthy and matted.",
+        "ipaExTrans": "ˈʌndə ðə hæt, hɜː heə wɒz ˈfɪlθi ænd ˈmætɪd.",
+        "exMeaning": "Dưới chiếc mũ, mái tóc của cô bẩn thỉu và mờ."
+    },
+    {
+        "word": "shaky",
+        "type": "Adj",
+        "ipa": "ˈʃeɪki",
+        "meaning": "lung lay",
+        "ex": "She drew a shaky breath.",
+        "ipaExTrans": "ʃiː druː ə ˈʃeɪki brɛθ.",
+        "exMeaning": "Cô hít một hơi run rẩy."
+    }
+]

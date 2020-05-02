@@ -1,0 +1,222 @@
+[
+    {
+        "word": "above",
+        "ipa": "əˈbʌv",
+        "type": "prep",
+        "tag": "ở trên, phía trên",
+        "meaning": "If something is above, it is at a higher level than something else",
+        "context": "Nếu một cái gì đó ở trên, nó ở một cấp độ cao hơn một cái gì đó khác",
+        "ex": "He straightened the sign that was above the crowd.",
+        "ipaExTrans": "hiː ˈstreɪtnd ðə saɪn ðæt wɒz əˈbʌv ðə kraʊd.",
+        "exMeaning": "Anh ta giơ thẳng tấm biển phía trên đám đông."
+    },
+    {
+        "word": "ahead",
+        "ipa": "əˈhɛd",
+        "type": "adv",
+        "tag": "phía trước",
+        "meaning": "If something is ahead of something else, it is in front of it",
+        "context": "Nếu một cái gì đó đi trước một cái gì đó khác, nó ở phía trước của nó",
+        "ex": "The blue car drove on ahead of us.",
+        "ipaExTrans": "ðə bluː kɑː drəʊv ɒn əˈhɛd ɒv ʌs.",
+        "exMeaning": "Chiếc xe màu xanh lái về phía trước chúng tôi."
+    },
+    {
+        "word": "amount",
+        "ipa": "əˈmaʊnt",
+        "type": "n",
+        "tag": "một lượng, số tiền",
+        "meaning": "An amount is how much there is of something",
+        "context": "Một lượng là có bao nhiêu thứ",
+        "ex": "Can I use my card to pay for the entire amount?",
+        "ipaExTrans": "kæn aɪ juːz maɪ kɑːd tuː peɪ fɔː ði ɪnˈtaɪər əˈmaʊnt?",
+        "exMeaning": "Tôi có thể sử dụng thẻ của mình để thanh toán toàn bộ số tiền không?"
+    },
+    {
+        "word": "belief",
+        "ipa": "bɪˈliːf",
+        "type": "n",
+        "tag": "sự tin tưởng, niềm tin",
+        "meaning": "A belief is a strong feeling that something is correct or true.",
+        "context": "Một niềm tin là một cảm giác mạnh mẽ rằng một cái gì đó là chính xác hoặc đúng.",
+        "ex": "A preacher or priest should have a strong belief in God.",
+        "ipaExTrans": "ə ˈpriːʧər ɔː priːst ʃʊd hæv ə strɒŋ bɪˈliːf ɪn gɒd.",
+        "exMeaning": "Một người giảng đạo hoặc linh mục nên có niềm tin mãnh liệt vào Chúa."
+    },
+    {
+        "word": "center",
+        "ipa": "ˈsɛntə",
+        "type": "n",
+        "tag": "trung tâm",
+        "meaning": "The center of something is the middle of it.",
+        "context": "Trung tâm của một cái gì đó là giữa của nó.",
+        "ex": "The center of a dart board is the most important spot.",
+        "ipaExTrans": "ðə ˈsɛntər ɒv ə dɑːt bɔːd ɪz ðə məʊst ɪmˈpɔːtənt spɒt.",
+        "exMeaning": "Trung tâm của bảng phi tiêu là điểm quan trọng nhất."
+    },
+    {
+        "word": "common",
+        "ipa": "ˈkɒmən",
+        "type": "adj",
+        "tag": "chung, phổ biến",
+        "meaning": "If something is common, it happens often or there is much of it.",
+        "context": "Nếu một cái gì đó là phổ biến, nó xảy ra thường xuyên hoặc có nhiều của nó.",
+        "ex": "It is common for snow to fall in the winter.",
+        "ipaExTrans": "ɪt ɪz ˈkɒmən fɔː snəʊ tuː fɔːl ɪn ðə ˈwɪntə.",
+        "exMeaning": "Nó là phổ biến cho tuyết rơi vào mùa đông."
+    },
+    {
+        "word": "cost",
+        "ipa": "kɒst",
+        "type": "v",
+        "tag": "Giá cả, chi phí, chi tiêu",
+        "meaning": "To cost is to require expenditure or payment.",
+        "context": "Để chi phí là yêu cầu chi tiêu hoặc thanh toán.",
+        "ex": "These designer shoes cost more than the regular ones.",
+        "ipaExTrans": "ðiːz dɪˈzaɪnə ʃuːz kɒst mɔː ðæn ðə ˈrɛgjʊlə wʌnz.",
+        "exMeaning": "Những đôi giày thiết kế có giá cao hơn những đôi thông thường."
+    },
+    {
+        "word": "demonstrate",
+        "ipa": "ˈdɛmənstreɪt",
+        "type": "v",
+        "tag": "chứng minh, chỉ ra cách",
+        "meaning": "To demonstrate something is to show how it is done.",
+        "context": "Để chứng minh một cái gì đó là chỉ ra cách nó được thực hiện.",
+        "ex": "She demonstrated her plan to her co-workers.",
+        "ipaExTrans": "ʃiː ˈdɛmənstreɪtɪd hɜː plæn tuː hɜː kəʊ-ˈwɜːkəz.",
+        "exMeaning": "Cô ấy đã chứng minh kế hoạch của mình với đồng nghiệp."
+    },
+    {
+        "word": "different",
+        "ipa": "ˈdɪfrənt",
+        "type": "adj",
+        "tag": "khác nhau",
+        "meaning": "Different describes someone or something that is not the same as others.",
+        "context": "Khác nhau mô tả ai đó hoặc một cái gì đó không giống như những người khác.",
+        "ex": "Each of my sisters has a different hair style from one another.",
+        "ipaExTrans": "iːʧ ɒv maɪ ˈsɪstəz hæz ə ˈdɪfrənt heə staɪl frɒm wʌn əˈnʌðə.",
+        "exMeaning": "Mỗi chị em tôi có một kiểu tóc khác nhau."
+    },
+    {
+        "word": "evidence",
+        "ipa": "ˈɛvɪdəns",
+        "type": "n",
+        "tag": "chứng cớ, bằng chứng",
+        "meaning": "Evidence is a fact or thing that you use to prove something.",
+        "context": "Bằng chứng là một thực tế hoặc điều mà bạn sử dụng để chứng minh một cái gì đó.",
+        "ex": "He used the pictures as evidence that UFOs are real.",
+        "ipaExTrans": "hiː juːzd ðə ˈpɪkʧəz æz ˈɛvɪdəns ðæt juː-ɛf-əʊz ɑː rɪəl.",
+        "exMeaning": "Ông đã sử dụng những bức ảnh làm bằng chứng cho thấy UFO là có thật."
+    },
+    {
+        "word": "honesty",
+        "ipa": "ˈɒnɪsti",
+        "type": "n",
+        "tag": "trung thực",
+        "meaning": "Honesty means the quality of being truthful or honest.",
+        "context": "Trung thực có nghĩa là chất lượng của sự trung thực hoặc trung thực.",
+        "ex": "A courtroom should be a place of honesty.",
+        "ipaExTrans": "ə ˈkɔːtrʊm ʃʊd biː ə pleɪs ɒv ˈɒnɪsti.",
+        "exMeaning": "Một phòng xử án nên là một nơi trung thực."
+    },
+    {
+        "word": "idiom",
+        "ipa": "ˈɪdɪəm",
+        "type": "n",
+        "tag": "thành ngữ, cách diễn đạt",
+        "meaning": "An idiom is a phrase with a meaning different from its words",
+        "context": "Một thành ngữ là một cụm từ có nghĩa khác với các từ của nó",
+        "ex": "The idiom “when pigs fly” means that something will never happen.",
+        "ipaExTrans": "ði ˈɪdɪəm “wɛn pɪgz flaɪ” miːnz ðæt ˈsʌmθɪŋ wɪl ˈnɛvə ˈhæpən.",
+        "exMeaning": "Thành ngữ khi lợn bay có nghĩa là điều gì đó sẽ không bao giờ xảy ra."
+    },
+    {
+        "word": "independent",
+        "ipa": "ˌɪndɪˈpɛndənt",
+        "type": "adj",
+        "tag": "độc lập",
+        "meaning": "If something is independent, it is not controlled by something else.",
+        "context": "Nếu một cái gì đó độc lập, nó không bị điều khiển bởi cái gì khác.",
+        "ex": "She chose to live an independent life in the country.",
+        "ipaExTrans": "ʃiː ʧəʊz tuː lɪv ən ˌɪndɪˈpɛndənt laɪf ɪn ðə ˈkʌntri.",
+        "exMeaning": "Cô chọn sống một cuộc sống độc lập ở trong nước."
+    },
+    {
+        "word": "inside",
+        "ipa": "ɪnˈsaɪd",
+        "type": "n",
+        "tag": "phía trong, phần bên trong",
+        "meaning": "Inside means the inner part, space or side of something.",
+        "context": "Bên trong có nghĩa là phần bên trong, không gian hoặc mặt của một cái gì đó.",
+        "ex": "The inside of the box was empty.",
+        "ipaExTrans": "ði ɪnˈsaɪd ɒv ðə bɒks wɒz ˈɛmpti.",
+        "exMeaning": "Bên trong hộp trống rỗng."
+    },
+    {
+        "word": "master",
+        "ipa": "ˈmɑːstə",
+        "type": "n",
+        "tag": "bậc thầy",
+        "meaning": "A master is a person who is very good at something",
+        "context": "Một bậc thầy là một người rất giỏi trong một cái gì đó",
+        "ex": "My brother is a master of taekwondo.",
+        "ipaExTrans": "maɪ ˈbrʌðər ɪz ə ˈmɑːstər ɒv taekwondo.",
+        "exMeaning": "Anh tôi là một bậc thầy về taekwondo."
+    },
+    {
+        "word": "memory",
+        "ipa": "ˈmɛməri",
+        "type": "n",
+        "tag": "ký ức",
+        "meaning": "A memory is something you remember.",
+        "context": "Một kỷ niệm là một cái gì đó bạn nhớ.",
+        "ex": "The memory of my first time in the city will always be the best.",
+        "ipaExTrans": "ðə ˈmɛməri ɒv maɪ fɜːst taɪm ɪn ðə ˈsɪti wɪl ˈɔːlweɪz biː ðə bɛst.",
+        "exMeaning": "Ký ức về lần đầu tiên của tôi ở thành phố sẽ luôn là tốt nhất."
+    },
+    {
+        "word": "proper",
+        "ipa": "ˈprɒpə",
+        "type": "adj",
+        "tag": "thích hợp, đúng, nghĩa đen",
+        "meaning": "If something is proper, it is right.",
+        "context": "Nếu một cái gì đó là đúng, nó là đúng.",
+        "ex": "It is not proper to throw your garbage on the road.",
+        "ipaExTrans": "ɪt ɪz nɒt ˈprɒpə tuː θrəʊ jɔː ˈgɑːbɪʤ ɒn ðə rəʊd.",
+        "exMeaning": "Việc vứt rác trên đường là không đúng."
+    },
+    {
+        "word": "scan",
+        "ipa": "skæn",
+        "type": "v",
+        "tag": "quét",
+        "meaning": "To scan something is to look at it very carefully.",
+        "context": "Để quét một cái gì đó là nhìn vào nó rất cẩn thận.",
+        "ex": "You must scan each person closely.",
+        "ipaExTrans": "juː mʌst skæn iːʧ ˈpɜːsn ˈkləʊsli.",
+        "exMeaning": "Bạn phải quét từng người chặt chẽ."
+    },
+    {
+        "word": "section",
+        "ipa": "ˈsɛkʃən",
+        "type": "n",
+        "tag": "phần, đoạn, khúc",
+        "meaning": "A section is a part of something larger",
+        "context": "Một phần là một phần của một cái gì đó lớn hơn",
+        "ex": "The green section of the graph is the most important part.",
+        "ipaExTrans": "ðə griːn ˈsɛkʃən ɒv ðə grɑːf ɪz ðə məʊst ɪmˈpɔːtənt pɑːt.",
+        "exMeaning": "Phần màu xanh lá cây của biểu đồ là phần quan trọng nhất."
+    },
+    {
+        "word": "surface",
+        "ipa": "ˈsɜːfɪs",
+        "type": "n",
+        "tag": "bề mặt",
+        "meaning": "The surface of something is the top part or outside of it.",
+        "context": "Bề mặt của một cái gì đó là phần trên cùng hoặc bên ngoài của nó.",
+        "ex": "The surface of the moon is very rough.",
+        "ipaExTrans": "ðə ˈsɜːfɪs ɒv ðə muːn ɪz ˈvɛri rʌf.",
+        "exMeaning": "Bề mặt của mặt trăng rất thô."
+    }
+]

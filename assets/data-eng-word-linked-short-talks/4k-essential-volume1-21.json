@@ -1,0 +1,222 @@
+[
+    {
+        "word": "appear",
+        "ipa": "əˈpɪə",
+        "type": "v",
+        "tag": "xuất hiện",
+        "meaning": "To appear is to seem",
+        "context": "Xuất hiện là dường như",
+        "ex": "She appeared to be sad. She was crying.",
+        "ipaExTrans": "ʃiː əˈpɪəd tuː biː sæd. ʃiː wɒz ˈkraɪɪŋ.",
+        "exMeaning": "Cô ấy có vẻ buồn. Cô ấy đã khóc."
+    },
+    {
+        "word": "base",
+        "ipa": "beɪs",
+        "type": "n",
+        "tag": "căn cứ, đường chân đáy",
+        "meaning": "The base is the bottom of something",
+        "context": "Cơ sở là đáy của một cái gì đó",
+        "ex": "The base of the table has three legs",
+        "ipaExTrans": "ðə beɪs ɒv ðə ˈteɪbl hæz θriː lɛgz",
+        "exMeaning": "Chân bàn có ba chân."
+    },
+    {
+        "word": "brain",
+        "ipa": "breɪn",
+        "type": "n",
+        "tag": "bộ não",
+        "meaning": "The brain is the organ in your head that lets you think.",
+        "context": "Bộ não là cơ quan trong đầu cho phép bạn suy nghĩ.",
+        "ex": "You must use your brain to solve the problem.",
+        "ipaExTrans": "juː mʌst juːz jɔː breɪn tuː sɒlv ðə ˈprɒbləm.",
+        "exMeaning": "Bạn phải sử dụng bộ não của bạn để giải quyết vấn đề."
+    },
+    {
+        "word": "career",
+        "ipa": "kəˈrɪə",
+        "type": "n",
+        "tag": "nghề nghiệp, sự nghiệp",
+        "meaning": "A career is a job that you do for a large part of your life.",
+        "context": "Nghề nghiệp là một công việc mà bạn làm trong phần lớn cuộc đời của bạn.",
+        "ex": "He was in the hospitality business for most of his career.",
+        "ipaExTrans": "hiː wɒz ɪn ðə ˌhɒspɪˈtælɪti ˈbɪznɪs fɔː məʊst ɒv hɪz kəˈrɪə.",
+        "exMeaning": "Ông đã ở trong ngành kinh doanh khách sạn trong phần lớn sự nghiệp của mình."
+    },
+    {
+        "word": "clerk",
+        "ipa": "klɑːk",
+        "type": "n",
+        "tag": "thư ký, nhân viên bán hàng",
+        "meaning": "A clerk is a type of worker. Clerks in a store help customers.",
+        "context": "Một nhân viên bán hàng là một loại công nhân. Thư ký trong một cửa hàng giúp khách hàng.",
+        "ex": "The clerk added up her bill for the groceries.",
+        "ipaExTrans": "ðə klɑːk ˈædɪd ʌp hɜː bɪl fɔː ðə ˈgrəʊsəriz.",
+        "exMeaning": "Nhân viên bán hàng đã thêm hóa đơn của cô cho các cửa hàng tạp hóa."
+    },
+    {
+        "word": "effort",
+        "ipa": "ˈɛfət",
+        "type": "n",
+        "tag": "cố gắng, nỗ lực",
+        "meaning": "Effort is hard work or an attempt to do something.",
+        "context": "Nỗ lực là công việc khó khăn hoặc một nỗ lực để làm một cái gì đó.",
+        "ex": "He always puts a lot of effort into his studies.",
+        "ipaExTrans": "hiː ˈɔːlweɪz pʊts ə lɒt ɒv ˈɛfət ˈɪntuː hɪz ˈstʌdiz.",
+        "exMeaning": "Anh ấy luôn nỗ lực rất nhiều cho việc học."
+    },
+    {
+        "word": "enter",
+        "ipa": "ˈɛntə",
+        "type": "v",
+        "tag": "đi vào",
+        "meaning": "To enter a place is to go into it.",
+        "context": "Để vào một nơi là đi vào đó.",
+        "ex": "Two guards greeted me as I entered the front door",
+        "ipaExTrans": "tuː gɑːdz ˈgriːtɪd miː æz aɪ ˈɛntəd ðə frʌnt dɔː",
+        "exMeaning": "Hai lính canh chào tôi khi tôi bước vào cửa trước"
+    },
+    {
+        "word": "excellent",
+        "ipa": "ˈɛksələnt",
+        "type": "adj",
+        "tag": "xuất sắc, ưu tú",
+        "meaning": "When something is excellent, it is very good",
+        "context": "Khi một cái gì đó tuyệt vời, nó là rất tốt",
+        "ex": "I got an excellent score on my school test.",
+        "ipaExTrans": "aɪ gɒt ən ˈɛksələnt skɔːr ɒn maɪ skuːl tɛst.",
+        "exMeaning": "Tôi đã đạt được một số điểm xuất sắc trong bài kiểm tra của trường."
+    },
+    {
+        "word": "hero",
+        "ipa": "ˈhɪərəʊ",
+        "type": "n",
+        "tag": "anh hùng",
+        "meaning": "A hero is a brave person who does things to help others.",
+        "context": "Một anh hùng là một người dũng cảm làm mọi việc để giúp đỡ người khác.",
+        "ex": "To children, the man in the blue and red costume was a real hero",
+        "ipaExTrans": "tuː ˈʧɪldrən, ðə mæn ɪn ðə bluː ænd rɛd ˈkɒstjuːm wɒz ə rɪəl ˈhɪərəʊ",
+        "exMeaning": "Đối với trẻ em, người đàn ông trong trang phục màu xanh và đỏ là một anh hùng thực sự"
+    },
+    {
+        "word": "hurry",
+        "ipa": "ˈhʌri",
+        "type": "v",
+        "tag": "vội vã, thúc giục",
+        "meaning": "To hurry is to do something quickly",
+        "context": "Nhanh lên là làm một cái gì đó thật nhanh",
+        "ex": "I hurried home on my bike.",
+        "ipaExTrans": "aɪ ˈhʌrɪd həʊm ɒn maɪ baɪk.",
+        "exMeaning": "Tôi vội vã về nhà bằng xe đạp."
+    },
+    {
+        "word": "inform",
+        "ipa": "ɪnˈfɔːm",
+        "type": "v",
+        "tag": "thông báo",
+        "meaning": "To inform someone is to tell them about something",
+        "context": "Thông báo cho ai đó là nói với họ về điều gì đó",
+        "ex": "I called and informed her about my idea.",
+        "ipaExTrans": "aɪ kɔːld ænd ɪnˈfɔːmd hɜːr əˈbaʊt maɪ aɪˈdɪə.",
+        "exMeaning": "Tôi gọi và thông báo cho cô ấy về ý tưởng của tôi."
+    },
+    {
+        "word": "later",
+        "ipa": "ˈleɪtə",
+        "type": "adv",
+        "tag": "một lát sau, sau này",
+        "meaning": "Later means after the present, expected, or usual time.",
+        "context": "Sau này có nghĩa là sau hiện tại, dự kiến, hoặc thời gian thông thường.",
+        "ex": "She missed the train, so she’ll arrive a little later than expected.",
+        "ipaExTrans": "ʃiː mɪst ðə treɪn, səʊ ʃiːl əˈraɪv ə ˈlɪtl ˈleɪtə ðæn ɪksˈpɛktɪd.",
+        "exMeaning": "Cô ấy đã lỡ chuyến tàu, vì vậy cô ấy sẽ đến muộn hơn một chút so với dự kiến."
+    },
+    {
+        "word": "leave",
+        "ipa": "liːv",
+        "type": "v",
+        "tag": "rời khỏi, để lại",
+        "meaning": "To leave means to go away from someone or something.",
+        "context": "Để lại có nghĩa là đi xa một ai đó hoặc một cái gì đó.",
+        "ex": "He packed his bag and was ready to leave for home",
+        "ipaExTrans": "hiː pækt hɪz bæg ænd wɒz ˈrɛdi tuː liːv fɔː həʊm",
+        "exMeaning": "Anh ta đóng gói túi của mình và sẵn sàng để về nhà"
+    },
+    {
+        "word": "locate",
+        "ipa": "ləʊˈkeɪt",
+        "type": "v",
+        "tag": "định vị, xác định vị trí",
+        "meaning": "To locate something is to find it",
+        "context": "Để xác định một cái gì đó là tìm thấy nó",
+        "ex": "I could not locate my keys in the house.",
+        "ipaExTrans": "aɪ kʊd nɒt ləʊˈkeɪt maɪ kiːz ɪn ðə haʊs.",
+        "exMeaning": "Tôi không thể xác định chìa khóa trong nhà."
+    },
+    {
+        "word": "nurse",
+        "ipa": "nɜːs",
+        "type": "n",
+        "tag": "y tá",
+        "meaning": "A nurse is a person who helps sick people in the hospital.",
+        "context": "Một y tá là một người giúp đỡ những người bệnh trong bệnh viện.",
+        "ex": "A nurse helped me get better.",
+        "ipaExTrans": "ə nɜːs hɛlpt miː gɛt ˈbɛtə.",
+        "exMeaning": "Một y tá đã giúp tôi khỏe hơn."
+    },
+    {
+        "word": "operation",
+        "ipa": "ˌɒpəˈreɪʃən",
+        "type": "n",
+        "tag": "phẫu thuật, mổ xẻ, sự tác chiến",
+        "meaning": "An operation is when a doctor replaces or removes something in the body.",
+        "context": "Một hoạt động là khi bác sĩ thay thế hoặc loại bỏ một cái gì đó trong cơ thể.",
+        "ex": "The operation on my arm was a success",
+        "ipaExTrans": "ði ˌɒpəˈreɪʃən ɒn maɪ ɑːm wɒz ə səkˈsɛs",
+        "exMeaning": "Ca phẫu thuật trên cánh tay tôi đã thành công"
+    },
+    {
+        "word": "pain",
+        "ipa": "peɪn",
+        "type": "n",
+        "tag": "đau đớn",
+        "meaning": "Pain is the feeling that you have when you are hurt.",
+        "context": "Đau là cảm giác mà bạn có khi bạn bị tổn thương.",
+        "ex": "His head was full of pain.",
+        "ipaExTrans": "hɪz hɛd wɒz fʊl ɒv peɪn.",
+        "exMeaning": "Đầu anh đầy đau đớn."
+    },
+    {
+        "word": "refuse",
+        "ipa": "ˌriːˈfjuːz",
+        "type": "v",
+        "tag": "từ chối, không chịu",
+        "meaning": "To refuse something is to say “no” to it",
+        "context": "Từ chối một cái gì đó là nói rằng không có vấn đề gì với nó",
+        "ex": "The dog refused to play with the cat.",
+        "ipaExTrans": "ðə dɒg ˌriːˈfjuːzd tuː pleɪ wɪð ðə kæt.",
+        "exMeaning": "Con chó không chịu chơi với con mèo."
+    },
+    {
+        "word": "though",
+        "ipa": "ðəʊ",
+        "type": "conj",
+        "tag": "mặc dù, dường như là",
+        "meaning": "Though is used when the second idea makes the first seem surprising.",
+        "context": "Mặc dù được sử dụng khi ý tưởng thứ hai làm cho ý tưởng đầu tiên có vẻ đáng ngạc nhiên.",
+        "ex": "Though he was overweight, he liked to be active.",
+        "ipaExTrans": "ðəʊ hiː wɒz ˈəʊvəweɪt, hiː laɪkt tuː biː ˈæktɪv.",
+        "exMeaning": "Mặc dù anh ta thừa cân, anh ta thích hoạt động."
+    },
+    {
+        "word": "various",
+        "ipa": "ˈveərɪəs",
+        "type": "adj",
+        "tag": "đa dạng, nhiều loại",
+        "meaning": "If something is various, there are many types of it.",
+        "context": "Nếu một cái gì đó khác nhau, có nhiều loại của nó.",
+        "ex": "She owned shoes of various styles",
+        "ipaExTrans": "ʃiː əʊnd ʃuːz ɒv ˈveərɪəs staɪlz",
+        "exMeaning": "Cô sở hữu những đôi giày với nhiều phong cách khác nhau."
+    }
+]

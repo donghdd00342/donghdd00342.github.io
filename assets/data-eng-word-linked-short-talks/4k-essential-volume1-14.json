@@ -1,0 +1,222 @@
+[
+    {
+        "word": "coach",
+        "ipa": "kəʊʧ",
+        "type": "n",
+        "tag": "huấn luyện viên",
+        "meaning": "A coach is a person who teaches sports.",
+        "context": "Một huấn luyện viên là một người dạy thể thao.",
+        "ex": "My coach gets very excited during games.",
+        "ipaExTrans": "maɪ kəʊʧ gɛts ˈvɛri ɪkˈsaɪtɪd ˈdjʊərɪŋ geɪmz.",
+        "exMeaning": "Huấn luyện viên của tôi rất phấn khích trong các trò chơi."
+    },
+    {
+        "word": "control",
+        "ipa": "kənˈtrəʊl",
+        "type": "v",
+        "tag": "điều khiển",
+        "meaning": "To control something is to make it do what you want.",
+        "context": "Để kiểm soát một cái gì đó là làm cho nó làm những gì bạn muốn.",
+        "ex": "To control the TV, just push the buttons",
+        "ipaExTrans": "tuː kənˈtrəʊl ðə ˌtiːˈviː, ʤʌst pʊʃ ðə ˈbʌtnz",
+        "exMeaning": "Để điều khiển TV, chỉ cần nhấn các nút"
+    },
+    {
+        "word": "description",
+        "ipa": "dɪsˈkrɪpʃən",
+        "type": "n",
+        "tag": "sự miêu tả",
+        "meaning": "A description of someone or something says what they are like.",
+        "context": "Một mô tả về ai đó hoặc một cái gì đó nói rằng họ là như thế nào.",
+        "ex": "I gave a description of the man with the gun and hat to the police.",
+        "ipaExTrans": "aɪ geɪv ə dɪsˈkrɪpʃən ɒv ðə mæn wɪð ðə gʌn ænd hæt tuː ðə pəˈliːs.",
+        "exMeaning": "Tôi đã đưa ra một mô tả về người đàn ông với súng và mũ cho cảnh sát."
+    },
+    {
+        "word": "direct",
+        "ipa": "dɪˈrɛkt",
+        "type": "adj",
+        "tag": "thẳng thắn, trực tiếp",
+        "meaning": "If something is direct, it goes straight between two places.",
+        "context": "Nếu một cái gì đó là trực tiếp, nó đi thẳng giữa hai nơi.",
+        "ex": "The green path is a direct route to my house.",
+        "ipaExTrans": "ðə griːn pɑːθ ɪz ə dɪˈrɛkt ruːt tuː maɪ haʊs.",
+        "exMeaning": "Con đường xanh là con đường trực tiếp đến nhà tôi."
+    },
+    {
+        "word": "exam",
+        "ipa": "ɪgˈzæm",
+        "type": "n",
+        "tag": "kỳ thi, bài kiểm tra",
+        "meaning": "An exam is a test",
+        "context": "Một bài kiểm tra là một bài kiểm tra",
+        "ex": "I did some practice questions for the math exam on the board",
+        "ipaExTrans": "aɪ dɪd sʌm ˈpræktɪs ˈkwɛsʧənz fɔː ðə mæθ ɪgˈzæm ɒn ðə bɔːd",
+        "exMeaning": "Tôi đã làm một số câu hỏi thực hành cho bài kiểm tra toán trên bảng"
+    },
+    {
+        "word": "example",
+        "ipa": "ɪgˈzɑːmpl",
+        "type": "n",
+        "tag": "thí dụ",
+        "meaning": "An example of something is a thing that is typical of it.",
+        "context": "Một ví dụ về một cái gì đó là một điều điển hình của nó.",
+        "ex": "Cola is an example of a soft drink.",
+        "ipaExTrans": "ˈkəʊlə ɪz ən ɪgˈzɑːmpl ɒv ə sɒft drɪŋk.",
+        "exMeaning": "Cola là một ví dụ về nước ngọt."
+    },
+    {
+        "word": "limit",
+        "ipa": "ˈlɪmɪt",
+        "type": "n",
+        "tag": "giới hạn",
+        "meaning": "A limit is the largest or smallest amount of something that you allow.",
+        "context": "Một giới hạn là số lượng lớn nhất hoặc nhỏ nhất của một cái gì đó mà bạn cho phép.",
+        "ex": "My mother put a limit on how much I could use the phone.",
+        "ipaExTrans": "maɪ ˈmʌðə pʊt ə ˈlɪmɪt ɒn haʊ mʌʧ aɪ kʊd juːz ðə fəʊn.",
+        "exMeaning": "Mẹ tôi đặt giới hạn về số tiền tôi có thể sử dụng điện thoại."
+    },
+    {
+        "word": "local",
+        "ipa": "ˈləʊkəl",
+        "type": "adj",
+        "tag": "địa phương",
+        "meaning": "If something is local, it is nearby",
+        "context": "Nếu một cái gì đó là địa phương, nó là gần đó",
+        "ex": "The local market in my neighborhood sells all the food we need.",
+        "ipaExTrans": "ðə ˈləʊkəl ˈmɑːkɪt ɪn maɪ ˈneɪbəhʊd sɛlz ɔːl ðə fuːd wiː niːd.",
+        "exMeaning": "Chợ địa phương trong khu phố của tôi bán tất cả thực phẩm chúng ta cần."
+    },
+    {
+        "word": "magical",
+        "ipa": "ˈmæʤɪkəl",
+        "type": "adj",
+        "tag": "huyền diệu, kỳ diệu",
+        "meaning": "Magical describes a quality that makes someone or something special.",
+        "context": "Magical mô tả một phẩm chất làm cho ai đó hoặc một cái gì đó đặc biệt.",
+        "ex": "The fireworks made the night sky look so magical.",
+        "ipaExTrans": "ðə ˈfaɪəwɜːks meɪd ðə naɪt skaɪ lʊk səʊ ˈmæʤɪkəl.",
+        "exMeaning": "Pháo hoa làm cho bầu trời đêm trông thật kỳ diệu."
+    },
+    {
+        "word": "mail",
+        "ipa": "meɪl",
+        "type": "n",
+        "tag": "thư",
+        "meaning": "Mail is letters and other things sent to people.",
+        "context": "Thư là thư và những thứ khác gửi cho mọi người.",
+        "ex": "I get a lot of mail because I have friends all over the world.",
+        "ipaExTrans": "aɪ gɛt ə lɒt ɒv meɪl bɪˈkɒz aɪ hæv frɛndz ɔːl ˈəʊvə ðə wɜːld.",
+        "exMeaning": "Tôi nhận được rất nhiều thư vì tôi có bạn bè trên khắp thế giới."
+    },
+    {
+        "word": "novel",
+        "ipa": "ˈnɒvəl",
+        "type": "n",
+        "tag": "cuốn tiểu thuyết",
+        "meaning": "A novel is a book that tells a story.",
+        "context": "Một cuốn tiểu thuyết là một cuốn sách kể một câu chuyện.",
+        "ex": "He wrote a great novel about ancient China.",
+        "ipaExTrans": "hiː rəʊt ə greɪt ˈnɒvəl əˈbaʊt ˈeɪnʃ(ə)nt ˈʧaɪnə.",
+        "exMeaning": "Ông đã viết một cuốn tiểu thuyết tuyệt vời về Trung Quốc cổ đại."
+    },
+    {
+        "word": "outline",
+        "ipa": "ˈaʊtlaɪn",
+        "type": "n",
+        "tag": "đề cương, phác thảo",
+        "meaning": "An outline is the plan for a story or essay",
+        "context": "Một phác thảo là kế hoạch cho một câu chuyện hoặc bài tiểu luận",
+        "ex": "Before I wrote my essay, I made an outline.",
+        "ipaExTrans": "bɪˈfɔːr aɪ rəʊt maɪ ˈɛseɪ, aɪ meɪd ən ˈaʊtlaɪn.",
+        "exMeaning": "Trước khi tôi viết bài luận, tôi đã phác thảo."
+    },
+    {
+        "word": "poet",
+        "ipa": "ˈpəʊɪt",
+        "type": "n",
+        "tag": "bài thơ, thi sĩ",
+        "meaning": "A poet is a person who writes poems",
+        "context": "Nhà thơ là người viết thơ.",
+        "ex": "William Shakespeare was one of the greatest poets.",
+        "ipaExTrans": "ˈwɪljəm ˈʃeɪkspɪə wɒz wʌn ɒv ðə ˈgreɪtɪst ˈpəʊɪts.",
+        "exMeaning": "William Shakespeare là một trong những nhà thơ vĩ đại nhất."
+    },
+    {
+        "word": "print",
+        "ipa": "prɪnt",
+        "type": "v",
+        "tag": "in ấn",
+        "meaning": "To print something is to put it onto paper.",
+        "context": "Để in một cái gì đó là đặt nó lên giấy.",
+        "ex": "Make sure that you print your name clearly.",
+        "ipaExTrans": "meɪk ʃʊə ðæt juː prɪnt jɔː neɪm ˈklɪəli.",
+        "exMeaning": "Hãy chắc chắn rằng bạn in tên của bạn rõ ràng."
+    },
+    {
+        "word": "scene",
+        "ipa": "siːn",
+        "type": "n",
+        "tag": "bối cảnh",
+        "meaning": "A scene is one part of a book or movie.",
+        "context": "Một cảnh là một phần của một cuốn sách hoặc bộ phim.",
+        "ex": "A movie is made up of many short pieces or scenes.",
+        "ipaExTrans": "ə ˈmuːvi ɪz meɪd ʌp ɒv ˈmɛni ʃɔːt ˈpiːsɪz ɔː siːnz.",
+        "exMeaning": "Một bộ phim được tạo thành từ nhiều đoạn ngắn hoặc cảnh."
+    },
+    {
+        "word": "sheet",
+        "ipa": "ʃiːt",
+        "type": "n",
+        "tag": "tờ giấy, tấm",
+        "meaning": "A sheet is a thin flat piece of paper.",
+        "context": "Một tờ giấy là một mảnh giấy phẳng mỏng.",
+        "ex": "I only needed a single sheet of paper to do my homework",
+        "ipaExTrans": "aɪ ˈəʊnli ˈniːdɪd ə ˈsɪŋgl ʃiːt ɒv ˈpeɪpə tuː duː maɪ ˈhəʊmˌwɜːk",
+        "exMeaning": "Tôi chỉ cần một tờ giấy để làm bài tập về nhà"
+    },
+    {
+        "word": "silly",
+        "ipa": "ˈsɪli",
+        "type": "adj",
+        "tag": "ngớ ngẩn, thiếu suy nghĩ",
+        "meaning": "If someone or something is silly, they show a lack of thought.",
+        "context": "Nếu ai đó hoặc một cái gì đó là ngớ ngẩn, họ thể hiện sự thiếu suy nghĩ.",
+        "ex": "I made a silly mistake of dropping mom’s vase.",
+        "ipaExTrans": "aɪ meɪd ə ˈsɪli mɪsˈteɪk ɒv ˈdrɒpɪŋ mɒmz vɑːz.",
+        "exMeaning": "Tôi đã phạm một sai lầm ngớ ngẩn khi làm rơi bình hoa mẹ."
+    },
+    {
+        "word": "store",
+        "ipa": "stɔː",
+        "type": "n",
+        "tag": "cửa hàng",
+        "meaning": "A store is a place where you can buy things.",
+        "context": "Cửa hàng là nơi bạn có thể mua đồ.",
+        "ex": "I picked up a few things at the grocery store.",
+        "ipaExTrans": "aɪ pɪkt ʌp ə fjuː θɪŋz æt ðə ˈgrəʊsəri stɔː.",
+        "exMeaning": "Tôi nhặt một vài thứ ở cửa hàng tạp hóa."
+    },
+    {
+        "word": "suffer",
+        "ipa": "ˈsʌfə",
+        "type": "v",
+        "tag": "đau khổ",
+        "meaning": "To suffer is to feel pain.",
+        "context": "Đau khổ là cảm thấy đau.",
+        "ex": "Her headache made her suffer all day.",
+        "ipaExTrans": "hɜː ˈhɛdeɪk meɪd hɜː ˈsʌfər ɔːl deɪ.",
+        "exMeaning": "Cơn đau đầu khiến cô đau khổ cả ngày."
+    },
+    {
+        "word": "technology",
+        "ipa": "tɛkˈnɒləʤi",
+        "type": "n",
+        "tag": "Công nghệ",
+        "meaning": "Technology is new things made by using science",
+        "context": "Công nghệ là những thứ mới được tạo ra bằng cách sử dụng khoa học",
+        "ex": "He loves technology such as laptop computers.",
+        "ipaExTrans": "hiː lʌvz tɛkˈnɒləʤi sʌʧ æz ˈlæpˌtɒp kəmˈpjuːtəz.",
+        "exMeaning": "Anh ấy yêu công nghệ như máy tính xách tay."
+    }
+]

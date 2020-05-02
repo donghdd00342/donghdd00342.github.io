@@ -1,0 +1,222 @@
+[
+    {
+        "word": "associate",
+        "ipa": "əˈsəʊʃɪɪt",
+        "type": "v",
+        "tag": "liên kết",
+        "meaning": "To associate means to connect something with a person or thing.",
+        "context": "Liên kết có nghĩa là kết nối một cái gì đó với một người hoặc vật.",
+        "ex": "Most people associate birthday parties with having fun.",
+        "ipaExTrans": "məʊst ˈpiːpl əˈsəʊʃɪɪt ˈbɜːθdeɪ ˈpɑːtiz wɪð ˈhævɪŋ fʌn.",
+        "exMeaning": "Hầu hết mọi người liên kết tiệc sinh nhật với vui chơi."
+    },
+    {
+        "word": "environment",
+        "ipa": "ɪnˈvaɪərənmənt",
+        "type": "n",
+        "tag": "Môi trường",
+        "meaning": "The environment is the place where people work or live.",
+        "context": "Môi trường là nơi mọi người làm việc hoặc sinh sống.",
+        "ex": "Keeping our environment clean is important to our health.",
+        "ipaExTrans": "ˈkiːpɪŋ ˈaʊər ɪnˈvaɪərənmənt kliːn ɪz ɪmˈpɔːtənt tuː ˈaʊə hɛlθ.",
+        "exMeaning": "Giữ cho môi trường của chúng ta sạch sẽ là rất quan trọng đối với sức khỏe của chúng ta."
+    },
+    {
+        "word": "factory",
+        "ipa": "ˈfæktəri",
+        "type": "n",
+        "tag": "nhà máy",
+        "meaning": "A factory is a building where things are made or put together.",
+        "context": "Một nhà máy là một tòa nhà nơi mọi thứ được tạo ra hoặc đặt lại với nhau.",
+        "ex": "We have only one factory in our town.",
+        "ipaExTrans": "wiː hæv ˈəʊnli wʌn ˈfæktəri ɪn ˈaʊə taʊn.",
+        "exMeaning": "Chúng tôi chỉ có một nhà máy trong thị trấn của chúng tôi."
+    },
+    {
+        "word": "feature",
+        "ipa": "ˈfiːʧə",
+        "type": "n",
+        "tag": "đặc tính, tính năng",
+        "meaning": "A feature is an important part of something.",
+        "context": "Một tính năng là một phần quan trọng của một cái gì đó.",
+        "ex": "The cell phone has many features.",
+        "ipaExTrans": "ðə sɛl fəʊn hæz ˈmɛni ˈfiːʧəz.",
+        "exMeaning": "Điện thoại di động có nhiều tính năng."
+    },
+    {
+        "word": "instance",
+        "ipa": "ˈɪnstəns",
+        "type": "n",
+        "tag": "ví dụ, trường hợp",
+        "meaning": "An instance is an example of something.",
+        "context": "Một ví dụ là một ví dụ về một cái gì đó.",
+        "ex": "I have never experienced an instance of hate. Have you?",
+        "ipaExTrans": "aɪ hæv ˈnɛvər ɪksˈpɪərɪənst ən ˈɪnstəns ɒv heɪt. hæv juː?",
+        "exMeaning": "Tôi chưa bao giờ trải qua một ví dụ của sự ghét bỏ. Có bạn không"
+    },
+    {
+        "word": "involve",
+        "ipa": "ɪnˈvɒlv",
+        "type": "v",
+        "tag": "có liên quan, dính dáng đến",
+        "meaning": "To involve means to be actively taking part in something.",
+        "context": "Để liên quan có nghĩa là tích cực tham gia vào một cái gì đó.",
+        "ex": "The whole family was involved in playing the game.",
+        "ipaExTrans": "ðə həʊl ˈfæmɪli wɒz ɪnˈvɒlvd ɪn ˈpleɪɪŋ ðə geɪm.",
+        "exMeaning": "Cả gia đình đã tham gia chơi game."
+    },
+    {
+        "word": "medicine",
+        "ipa": "ˈmɛdsɪn",
+        "type": "n",
+        "tag": "dược phẩm, thuốc, y học",
+        "meaning": "Medicine is something you take to feel better or treat an illness.",
+        "context": "Y học là thứ bạn dùng để cảm thấy tốt hơn hoặc điều trị bệnh.",
+        "ex": "The doctor gave me medicine for my cold.",
+        "ipaExTrans": "ðə ˈdɒktə geɪv miː ˈmɛdsɪn fɔː maɪ kəʊld.",
+        "exMeaning": "Bác sĩ cho tôi thuốc cảm."
+    },
+    {
+        "word": "mix",
+        "ipa": "mɪks",
+        "type": "n",
+        "tag": "pha trộn, hỗn hợp",
+        "meaning": "A mix is different things put together.",
+        "context": "Một sự pha trộn là những thứ khác nhau đặt lại với nhau.",
+        "ex": "The green mix we made in science class spilled onto the table.",
+        "ipaExTrans": "ðə griːn mɪks wiː meɪd ɪn ˈsaɪəns klɑːs spɪld ˈɒntʊ ðə ˈteɪbl.",
+        "exMeaning": "Hỗn hợp màu xanh lá cây chúng tôi thực hiện trong lớp khoa học tràn ra bàn."
+    },
+    {
+        "word": "organize",
+        "ipa": "ˈɔːgənaɪz",
+        "type": "v",
+        "tag": "tổ chức, sắp xếp",
+        "meaning": "To organize is to plan or get ready for an event",
+        "context": "Tổ chức là lên kế hoạch hoặc sẵn sàng cho một sự kiện",
+        "ex": "Make a list to help you organize the things you need",
+        "ipaExTrans": "meɪk ə lɪst tuː hɛlp juː ˈɔːgənaɪz ðə θɪŋz juː niːd",
+        "exMeaning": "Lập danh sách để giúp bạn sắp xếp những thứ bạn cần"
+    },
+    {
+        "word": "period",
+        "ipa": "ˈpɪərɪəd",
+        "type": "n",
+        "tag": "khoảng thời gian, thời kỳ, giai đoạn",
+        "meaning": "A period is an amount of time when something happens.",
+        "context": "Một khoảng thời gian là một khoảng thời gian khi một cái gì đó xảy ra.",
+        "ex": "In one period in Europe, there were many knights.",
+        "ipaExTrans": "ɪn wʌn ˈpɪərɪəd ɪn ˈjʊərəp, ðeə wɜː ˈmɛni naɪts.",
+        "exMeaning": "Trong một thời kỳ ở châu Âu, có rất nhiều hiệp sĩ."
+    },
+    {
+        "word": "populate",
+        "ipa": "ˈpɒpjʊleɪt",
+        "type": "v",
+        "tag": "dân cư, cư trú",
+        "meaning": "If people populate an area, they live there",
+        "context": "Nếu mọi người cư trú trong một khu vực, họ sống ở đó",
+        "ex": "Billions of people populate the Earth.",
+        "ipaExTrans": "ˈbɪljənz ɒv ˈpiːpl ˈpɒpjʊleɪt ði ɜːθ.",
+        "exMeaning": "Hàng tỷ người dân trên Trái đất."
+    },
+    {
+        "word": "produce",
+        "ipa": "ˈprɒdjuːs",
+        "type": "v",
+        "tag": "sản xuất",
+        "meaning": "To produce something is to make or grow it.",
+        "context": "Để sản xuất một cái gì đó là để làm hoặc phát triển nó.",
+        "ex": "This tree produces apples every year.",
+        "ipaExTrans": "ðɪs triː ˈprɒdjuːsɪz ˈæplz ˈɛvri jɪə.",
+        "exMeaning": "Cây này sản xuất táo hàng năm."
+    },
+    {
+        "word": "range",
+        "ipa": "reɪnʤ",
+        "type": "n",
+        "tag": "phạm vi",
+        "meaning": "A range is a number or a set of similar things",
+        "context": "Một phạm vi là một số hoặc một tập hợp những thứ tương tự",
+        "ex": "I saw a range of cars to choose from.",
+        "ipaExTrans": "aɪ sɔː ə reɪnʤ ɒv kɑːz tuː ʧuːz frɒm.",
+        "exMeaning": "Tôi thấy một loạt các xe để lựa chọn."
+    },
+    {
+        "word": "recognize",
+        "ipa": "ˈrɛkəgnaɪz",
+        "type": "v",
+        "tag": "nhìn nhận",
+        "meaning": "To recognize something is to know it because you have seen it before.",
+        "context": "Nhận ra một cái gì đó là để biết nó bởi vì bạn đã thấy nó trước đây.",
+        "ex": "I recognized an old friend from many years ago",
+        "ipaExTrans": "aɪ ˈrɛkəgnaɪzd ən əʊld frɛnd frɒm ˈmɛni jɪəz əˈgəʊ",
+        "exMeaning": "Tôi nhận ra một người bạn cũ từ nhiều năm trước"
+    },
+    {
+        "word": "regular",
+        "ipa": "ˈrɛgjʊlə",
+        "type": "adj",
+        "tag": "đều đặn, thường xuyên",
+        "meaning": "If something is regular, it happens often and in equal amounts of time.",
+        "context": "Nếu một cái gì đó là thường xuyên, nó xảy ra thường xuyên và trong khoảng thời gian bằng nhau.",
+        "ex": "Our regular lunch time is around noon.",
+        "ipaExTrans": "ˈaʊə ˈrɛgjʊlə lʌnʧ taɪm ɪz əˈraʊnd nuːn.",
+        "exMeaning": "Thời gian ăn trưa thường xuyên của chúng tôi là khoảng buổi trưa."
+    },
+    {
+        "word": "sign",
+        "ipa": "saɪn",
+        "type": "n",
+        "tag": "ký tên, phù hiệu, dấu hiệu",
+        "meaning": "A sign is a notice giving information, directions, a warning, etc.",
+        "context": "Một dấu hiệu là một thông báo đưa ra thông tin, hướng dẫn, cảnh báo, vv",
+        "ex": "The sign indicated that today would be a bad day.",
+        "ipaExTrans": "ðə saɪn ˈɪndɪkeɪtɪd ðæt təˈdeɪ wʊd biː ə bæd deɪ.",
+        "exMeaning": "Dấu hiệu cho thấy hôm nay sẽ là một ngày tồi tệ."
+    },
+    {
+        "word": "tip",
+        "ipa": "tɪp",
+        "type": "n",
+        "tag": "tiền boa, đỉnh",
+        "meaning": "A tip is a pointed end of something.",
+        "context": "Một mẹo là một kết thúc nhọn của một cái gì đó.",
+        "ex": "The tip of his pen was very sharp.",
+        "ipaExTrans": "ðə tɪp ɒv hɪz pɛn wɒz ˈvɛri ʃɑːp.",
+        "exMeaning": "Đầu bút của anh ấy rất sắc."
+    },
+    {
+        "word": "tradition",
+        "ipa": "trəˈdɪʃən",
+        "type": "n",
+        "tag": "truyền thống",
+        "meaning": "A tradition is something people have been doing for a long time.",
+        "context": "Một truyền thống là điều mà mọi người đã làm trong một thời gian dài.",
+        "ex": "Marriage is a tradition all over the world.",
+        "ipaExTrans": "ˈmærɪʤ ɪz ə trəˈdɪʃən ɔːl ˈəʊvə ðə wɜːld.",
+        "exMeaning": "Hôn nhân là một truyền thống trên toàn thế giới."
+    },
+    {
+        "word": "trash",
+        "ipa": "træʃ",
+        "type": "n",
+        "tag": "thùng rác, chất thải",
+        "meaning": "Trash is waste material or unwanted or worthless things.",
+        "context": "Thùng rác là chất thải vật chất hoặc những thứ không mong muốn hoặc vô giá trị.",
+        "ex": "Please take out the trash; it smells bad.",
+        "ipaExTrans": "pliːz teɪk aʊt ðə træʃ; ɪt smɛlz bæd.",
+        "exMeaning": "Xin hãy mang rác ra ngoài; nó có mùi rất tệ"
+    },
+    {
+        "word": "wide",
+        "ipa": "waɪd",
+        "type": "adj",
+        "tag": "rộng",
+        "meaning": "If something is wide, it is large from side to side.",
+        "context": "Nếu một cái gì đó rộng, nó lớn từ bên này sang bên kia.",
+        "ex": "The door was as wide as my arms.",
+        "ipaExTrans": "ðə dɔː wɒz æz waɪd æz maɪ ɑːmz.",
+        "exMeaning": "Cánh cửa rộng như cánh tay tôi."
+    }
+]

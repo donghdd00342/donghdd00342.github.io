@@ -1,0 +1,602 @@
+[
+    {
+        "word": "word",
+        "type": "noun, verb, interjection",
+        "ipa": "wɜːd",
+        "meaning": "từ"
+    },
+    {
+        "word": "force",
+        "type": "noun, verb",
+        "ipa": "fɔːs",
+        "meaning": "lực lượng"
+    },
+    {
+        "word": "light",
+        "type": "noun, verb, adjective",
+        "ipa": "laɪt",
+        "meaning": "ánh sáng"
+    },
+    {
+        "word": "name",
+        "type": "noun, verb, adjective",
+        "ipa": "neɪm",
+        "meaning": "Tên"
+    },
+    {
+        "word": "school",
+        "type": "noun, verb",
+        "ipa": "skuːl",
+        "meaning": "trường học"
+    },
+    {
+        "word": "amount",
+        "type": "noun, verb",
+        "ipa": "əˈmaʊnt",
+        "meaning": "số tiền"
+    },
+    {
+        "word": "order",
+        "type": "noun, verb",
+        "ipa": "ˈɔːdə",
+        "meaning": "gọi món"
+    },
+    {
+        "word": "practice",
+        "type": "noun, verb",
+        "ipa": "ˈpræktɪs",
+        "meaning": "thực hành"
+    },
+    {
+        "word": "research",
+        "type": "noun, verb",
+        "ipa": "rɪˈsɜːʧ",
+        "meaning": "nghiên cứu"
+    },
+    {
+        "word": "sense",
+        "type": "noun, verb",
+        "ipa": "sɛns",
+        "meaning": "giác quan"
+    },
+    {
+        "word": "service",
+        "type": "noun, verb",
+        "ipa": "ˈsɜːvɪs",
+        "meaning": "dịch vụ"
+    },
+    {
+        "word": "piece",
+        "type": "noun, verb",
+        "ipa": "piːs",
+        "meaning": "cái"
+    },
+    {
+        "word": "web",
+        "type": "noun, verb",
+        "ipa": "wɛb",
+        "meaning": "web"
+    },
+    {
+        "word": "boss",
+        "type": "noun, verb, adjective",
+        "ipa": "bɒs",
+        "meaning": "trùm"
+    },
+    {
+        "word": "sport",
+        "type": "noun, verb",
+        "ipa": "spɔːt",
+        "meaning": "thể thao"
+    },
+    {
+        "word": "page",
+        "type": "noun, verb",
+        "ipa": "peɪʤ",
+        "meaning": "trang"
+    },
+    {
+        "word": "term",
+        "type": "noun, verb",
+        "ipa": "tɜːm",
+        "meaning": "kỳ hạn"
+    },
+    {
+        "word": "test",
+        "type": "noun, verb",
+        "ipa": "tɛst",
+        "meaning": "kiểm tra"
+    },
+    {
+        "word": "answer",
+        "type": "noun, verb",
+        "ipa": "ˈɑːnsə",
+        "meaning": "câu trả lời"
+    },
+    {
+        "word": "sound",
+        "type": "noun, verb, adjective",
+        "ipa": "saʊnd",
+        "meaning": "âm thanh"
+    },
+    {
+        "word": "focus",
+        "type": "noun, verb",
+        "ipa": "ˈfəʊkəs",
+        "meaning": "tiêu điểm"
+    },
+    {
+        "word": "matter",
+        "type": "noun, verb",
+        "ipa": "ˈmætə",
+        "meaning": "vấn đề"
+    },
+    {
+        "word": "soil",
+        "type": "noun, verb",
+        "ipa": "sɔɪl",
+        "meaning": "đất"
+    },
+    {
+        "word": "board",
+        "type": "noun, verb",
+        "ipa": "bɔːd",
+        "meaning": "bảng"
+    },
+    {
+        "word": "oil",
+        "type": "noun, verb",
+        "ipa": "ɔɪl",
+        "meaning": "dầu"
+    },
+    {
+        "word": "picture",
+        "type": "noun, verb",
+        "ipa": "ˈpɪkʧə",
+        "meaning": "hình ảnh"
+    },
+    {
+        "word": "access",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈæksɛs",
+        "meaning": "truy cập"
+    },
+    {
+        "word": "garden",
+        "type": "noun, verb",
+        "ipa": "ˈgɑːdn",
+        "meaning": "vườn"
+    },
+    {
+        "word": "range",
+        "type": "noun, verb",
+        "ipa": "reɪnʤ",
+        "meaning": "phạm vi"
+    },
+    {
+        "word": "rate",
+        "type": "noun, verb",
+        "ipa": "reɪt",
+        "meaning": "tỷ lệ"
+    },
+    {
+        "word": "reason",
+        "type": "noun, verb",
+        "ipa": "ˈriːzn",
+        "meaning": "lý do"
+    },
+    {
+        "word": "according",
+        "type": "adjective, verb",
+        "ipa": "əˈkɔːdɪŋ",
+        "meaning": "theo"
+    },
+    {
+        "word": "site",
+        "type": "noun, verb",
+        "ipa": "saɪt",
+        "meaning": "trang web"
+    },
+    {
+        "word": "demand",
+        "type": "noun, verb",
+        "ipa": "dɪˈmɑːnd",
+        "meaning": "nhu cầu"
+    },
+    {
+        "word": "exercise",
+        "type": "noun, verb",
+        "ipa": "ˈɛksəsaɪz",
+        "meaning": "tập thể dục"
+    },
+    {
+        "word": "image",
+        "type": "noun, verb",
+        "ipa": "ˈɪmɪʤ",
+        "meaning": "hình ảnh"
+    },
+    {
+        "word": "case",
+        "type": "noun, verb",
+        "ipa": "keɪs",
+        "meaning": "trường hợp"
+    },
+    {
+        "word": "cause",
+        "type": "noun, verb",
+        "ipa": "kɔːz",
+        "meaning": "nguyên nhân"
+    },
+    {
+        "word": "coast",
+        "type": "noun, verb",
+        "ipa": "kəʊst",
+        "meaning": "bờ biển"
+    },
+    {
+        "word": "age",
+        "type": "noun, verb",
+        "ipa": "eɪʤ",
+        "meaning": "tuổi tác"
+    },
+    {
+        "word": "boat",
+        "type": "noun, verb",
+        "ipa": "bəʊt",
+        "meaning": "thuyền"
+    },
+    {
+        "word": "record",
+        "type": "noun, verb",
+        "ipa": "ˈrɛkɔːd",
+        "meaning": "ghi lại"
+    },
+    {
+        "word": "result",
+        "type": "noun, verb",
+        "ipa": "rɪˈzʌlt",
+        "meaning": "kết quả"
+    },
+    {
+        "word": "section",
+        "type": "noun, verb",
+        "ipa": "ˈsɛkʃən",
+        "meaning": "phần"
+    },
+    {
+        "word": "building",
+        "type": "noun, verb",
+        "ipa": "ˈbɪldɪŋ",
+        "meaning": "Tòa nhà"
+    },
+    {
+        "word": "mouse",
+        "type": "noun, verb",
+        "ipa": "maʊs",
+        "meaning": "chuột"
+    },
+    {
+        "word": "cash",
+        "type": "noun, verb",
+        "ipa": "kæʃ",
+        "meaning": "tiền mặt"
+    },
+    {
+        "word": "class",
+        "type": "noun, verb, adjective",
+        "ipa": "klɑːs",
+        "meaning": "lớp học"
+    },
+    {
+        "word": "dry",
+        "type": "adjective, verb, noun",
+        "ipa": "draɪ",
+        "meaning": "khô"
+    },
+    {
+        "word": "plan",
+        "type": "noun, verb",
+        "ipa": "plæn",
+        "meaning": "kế hoạch"
+    },
+    {
+        "word": "store",
+        "type": "noun, verb",
+        "ipa": "stɔː",
+        "meaning": "cửa hàng"
+    },
+    {
+        "word": "tax",
+        "type": "noun, verb",
+        "ipa": "tæks",
+        "meaning": "Thuế"
+    },
+    {
+        "word": "involved",
+        "type": "past, verb",
+        "ipa": "ɪnˈvɒlvd",
+        "meaning": "có tính liên quan"
+    },
+    {
+        "word": "side",
+        "type": "noun, verb",
+        "ipa": "saɪd",
+        "meaning": "bên"
+    },
+    {
+        "word": "space",
+        "type": "noun, verb",
+        "ipa": "speɪs",
+        "meaning": "không gian"
+    },
+    {
+        "word": "rule",
+        "type": "noun, verb",
+        "ipa": "ruːl",
+        "meaning": "qui định"
+    },
+    {
+        "word": "weather",
+        "type": "noun, verb",
+        "ipa": "ˈwɛðə",
+        "meaning": "thời tiết"
+    },
+    {
+        "word": "figure",
+        "type": "noun, verb",
+        "ipa": "ˈfɪgə",
+        "meaning": "nhân vật"
+    },
+    {
+        "word": "man",
+        "type": "noun, verb, interjection",
+        "ipa": "mæn",
+        "meaning": "Đàn ông"
+    },
+    {
+        "word": "model",
+        "type": "noun, verb",
+        "ipa": "ˈmɒdl",
+        "meaning": "mô hình"
+    },
+    {
+        "word": "source",
+        "type": "noun, verb",
+        "ipa": "sɔːs",
+        "meaning": "nguồn"
+    },
+    {
+        "word": "earth",
+        "type": "noun, verb",
+        "ipa": "ɜːθ",
+        "meaning": "trái đất"
+    },
+    {
+        "word": "program",
+        "type": "noun, verb",
+        "ipa": "ˈprəʊgræm",
+        "meaning": "chương trình"
+    },
+    {
+        "word": "design",
+        "type": "noun, verb",
+        "ipa": "dɪˈzaɪn",
+        "meaning": "thiết kế"
+    },
+    {
+        "word": "feature",
+        "type": "noun, verb",
+        "ipa": "ˈfiːʧə",
+        "meaning": "đặc tính"
+    },
+    {
+        "word": "purpose",
+        "type": "noun, verb",
+        "ipa": "ˈpɜːpəs",
+        "meaning": "mục đích"
+    },
+    {
+        "word": "question",
+        "type": "noun, verb",
+        "ipa": "ˈkwɛsʧən",
+        "meaning": "câu hỏi"
+    },
+    {
+        "word": "rock",
+        "type": "noun, verb",
+        "ipa": "rɒk",
+        "meaning": "đá"
+    },
+    {
+        "word": "act",
+        "type": "noun, verb",
+        "ipa": "ækt",
+        "meaning": "hành động"
+    },
+    {
+        "word": "birth",
+        "type": "noun, verb",
+        "ipa": "bɜːθ",
+        "meaning": "Sinh"
+    },
+    {
+        "word": "dog",
+        "type": "noun, verb",
+        "ipa": "dɒg",
+        "meaning": "chó"
+    },
+    {
+        "word": "object",
+        "type": "noun, verb",
+        "ipa": "ˈɒbʤɪkt",
+        "meaning": "vật"
+    },
+    {
+        "word": "scale",
+        "type": "noun, verb",
+        "ipa": "skeɪl",
+        "meaning": "tỉ lệ"
+    },
+    {
+        "word": "sun",
+        "type": "noun, verb",
+        "ipa": "sʌn",
+        "meaning": "mặt trời"
+    },
+    {
+        "word": "fit",
+        "type": "adjective, verb, noun",
+        "ipa": "fɪt",
+        "meaning": "Phù hợp"
+    },
+    {
+        "word": "note",
+        "type": "noun, verb",
+        "ipa": "nəʊt",
+        "meaning": "chú thích"
+    },
+    {
+        "word": "profit",
+        "type": "noun, verb",
+        "ipa": "ˈprɒfɪt",
+        "meaning": "lợi nhuận"
+    },
+    {
+        "word": "related",
+        "type": "past, verb",
+        "ipa": "rɪˈleɪtɪd",
+        "meaning": "liên quan"
+    },
+    {
+        "word": "rent",
+        "type": "noun, verb",
+        "ipa": "rɛnt",
+        "meaning": "thuê"
+    },
+    {
+        "word": "speed",
+        "type": "noun, verb",
+        "ipa": "spiːd",
+        "meaning": "tốc độ"
+    },
+    {
+        "word": "style",
+        "type": "noun, verb",
+        "ipa": "staɪl",
+        "meaning": "Phong cách"
+    },
+    {
+        "word": "war",
+        "type": "noun, verb",
+        "ipa": "wɔː",
+        "meaning": "chiến tranh"
+    },
+    {
+        "word": "bank",
+        "type": "noun, verb",
+        "ipa": "bæŋk",
+        "meaning": "ngân hàng"
+    },
+    {
+        "word": "content",
+        "type": "adjective, verb, noun",
+        "ipa": "ˈkɒntɛnt",
+        "meaning": "Nội dung"
+    },
+    {
+        "word": "craft",
+        "type": "noun, verb",
+        "ipa": "krɑːft",
+        "meaning": "thủ công"
+    },
+    {
+        "word": "bus",
+        "type": "noun, verb",
+        "ipa": "bʌs",
+        "meaning": "xe buýt"
+    },
+    {
+        "word": "exchange",
+        "type": "noun, verb",
+        "ipa": "ɪksˈʧeɪnʤ",
+        "meaning": "trao đổi, giao dịch"
+    },
+    {
+        "word": "eye",
+        "type": "noun, verb",
+        "ipa": "aɪ",
+        "meaning": "mắt"
+    },
+    {
+        "word": "fire",
+        "type": "noun, verb",
+        "ipa": "ˈfaɪə",
+        "meaning": "ngọn lửa"
+    },
+    {
+        "word": "position",
+        "type": "noun, verb",
+        "ipa": "pəˈzɪʃən",
+        "meaning": "Chức vụ"
+    },
+    {
+        "word": "pressure",
+        "type": "noun, verb",
+        "ipa": "ˈprɛʃə",
+        "meaning": "sức ép"
+    },
+    {
+        "word": "stress",
+        "type": "noun, verb",
+        "ipa": "strɛs",
+        "meaning": "nhấn mạnh"
+    },
+    {
+        "word": "advantage",
+        "type": "noun, verb",
+        "ipa": "ədˈvɑːntɪʤ",
+        "meaning": "lợi thế"
+    },
+    {
+        "word": "benefit",
+        "type": "noun, verb",
+        "ipa": "ˈbɛnɪfɪt",
+        "meaning": "lợi ích"
+    },
+    {
+        "word": "box",
+        "type": "noun, verb",
+        "ipa": "bɒks",
+        "meaning": "cái hộp"
+    },
+    {
+        "word": "complete",
+        "type": "adjective, verb",
+        "ipa": "kəmˈpliːt",
+        "meaning": "hoàn thành"
+    },
+    {
+        "word": "frame",
+        "type": "noun, verb",
+        "ipa": "freɪm",
+        "meaning": "khung"
+    },
+    {
+        "word": "issue",
+        "type": "noun, verb",
+        "ipa": "ˈɪʃuː",
+        "meaning": "vấn đề"
+    },
+    {
+        "word": "limited",
+        "type": "past, verb",
+        "ipa": "ˈlɪmɪtɪd",
+        "meaning": "hạn chế"
+    },
+    {
+        "word": "step",
+        "type": "noun, verb",
+        "ipa": "stɛp",
+        "meaning": "bậc thang"
+    }
+]

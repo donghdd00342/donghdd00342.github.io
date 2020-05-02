@@ -1,0 +1,222 @@
+[
+    {
+        "word": "achieve",
+        "ipa": "əˈʧiːv",
+        "type": "v",
+        "tag": "đạt được",
+        "meaning": "To achieve something is to successfully do it after trying hard.",
+        "context": "Để đạt được điều gì đó là thành công làm điều đó sau khi cố gắng hết sức.",
+        "ex": "I was happy that I could achieve my goal.",
+        "ipaExTrans": "aɪ wɒz ˈhæpi ðæt aɪ kʊd əˈʧiːv maɪ gəʊl.",
+        "exMeaning": "Tôi rất vui vì tôi có thể đạt được mục tiêu của mình."
+    },
+    {
+        "word": "advise",
+        "ipa": "ədˈvaɪz",
+        "type": "v",
+        "tag": "khuyên nhủ",
+        "meaning": "To advise someone is to tell them what to do",
+        "context": "Để khuyên ai đó là nói cho họ biết phải làm gì",
+        "ex": "My mother often advises people about their money.",
+        "ipaExTrans": "maɪ ˈmʌðər ˈɒf(ə)n ədˈvaɪzɪz ˈpiːpl əˈbaʊt ðeə ˈmʌni.",
+        "exMeaning": "Mẹ tôi thường khuyên mọi người về tiền của họ."
+    },
+    {
+        "word": "already",
+        "ipa": "ɔːlˈrɛdi",
+        "type": "adv",
+        "tag": "đã sẵn sàng, đã đến lúc",
+        "meaning": "If something happens already, it happens before a certain time.",
+        "context": "Nếu một cái gì đó đã xảy ra, nó xảy ra trước một thời điểm nhất định.",
+        "ex": "It is already time for the movie to start. Let’s go in.",
+        "ipaExTrans": "ɪt ɪz ɔːlˈrɛdi taɪm fɔː ðə ˈmuːvi tuː stɑːt. lɛts gəʊ ɪn.",
+        "exMeaning": "Đã đến lúc bộ phim bắt đầu. Chúng ta hãy đi vào."
+    },
+    {
+        "word": "basic",
+        "ipa": "ˈbeɪsɪk",
+        "type": "adj",
+        "tag": "căn bản, cơ bản",
+        "meaning": "If something is basic, it is very simple or easy",
+        "context": "Nếu một cái gì đó là cơ bản, nó rất đơn giản hoặc dễ dàng",
+        "ex": "I learned some basic English skills in school today.",
+        "ipaExTrans": "aɪ lɜːnt sʌm ˈbeɪsɪk ˈɪŋglɪʃ skɪlz ɪn skuːl təˈdeɪ.",
+        "exMeaning": "Tôi đã học được một số kỹ năng tiếng Anh cơ bản ở trường ngày hôm nay."
+    },
+    {
+        "word": "bit",
+        "ipa": "bɪt",
+        "type": "n",
+        "tag": "một lượng nhỏ, một chút",
+        "meaning": "A bit is a small amount of something",
+        "context": "Một chút là một lượng nhỏ của một cái gì đó",
+        "ex": "I ate a bit of chocolate before I went to bed.",
+        "ipaExTrans": "aɪ ɛt ə bɪt ɒv ˈʧɒkəlɪt bɪˈfɔːr aɪ wɛnt tuː bɛd.",
+        "exMeaning": "Tôi đã ăn một chút sô cô la trước khi đi ngủ."
+    },
+    {
+        "word": "consider",
+        "ipa": "kənˈsɪdə",
+        "type": "v",
+        "tag": "xem xét, cân nhắc",
+        "meaning": "To consider something means to think about it.",
+        "context": "Xem xét một cái gì đó có nghĩa là suy nghĩ về nó.",
+        "ex": "Pete didn’t like his job. He considered getting a new one.",
+        "ipaExTrans": "piːt dɪdnt laɪk hɪz ʤɒb. hiː kənˈsɪdəd ˈgɛtɪŋ ə njuː wʌn.",
+        "exMeaning": "Pete didn sắt thích công việc của mình. Anh ta cân nhắc việc lấy một cái mới."
+    },
+    {
+        "word": "destroy",
+        "ipa": "dɪsˈtrɔɪ",
+        "type": "v",
+        "tag": "hủy hoại, phá hủy",
+        "meaning": "To destroy means to damage something so badly that it cannot be used.",
+        "context": "Để phá hủy có nghĩa là làm hỏng một cái gì đó rất tệ đến mức nó không thể được sử dụng.",
+        "ex": "The glass was destroyed.",
+        "ipaExTrans": "ðə glɑːs wɒz dɪsˈtrɔɪd.",
+        "exMeaning": "Kính đã bị phá hủy."
+    },
+    {
+        "word": "entertain",
+        "ipa": "ˌɛntəˈteɪn",
+        "type": "v",
+        "tag": "giải trí",
+        "meaning": "To entertain someone is to do something that they enjoy.",
+        "context": "Để giải trí cho ai đó là làm một cái gì đó mà họ thích.",
+        "ex": "The clown entertained the kids at the party.",
+        "ipaExTrans": "ðə klaʊn ˌɛntəˈteɪnd ðə kɪdz æt ðə ˈpɑːti.",
+        "exMeaning": "Chú hề giải trí cho những đứa trẻ trong bữa tiệc."
+    },
+    {
+        "word": "extra",
+        "ipa": "ˈɛkstrə",
+        "type": "adj",
+        "tag": "thêm",
+        "meaning": "If something is extra, it is more than what is needed.",
+        "context": "Nếu một cái gì đó là thêm, nó là nhiều hơn những gì cần thiết.",
+        "ex": "The squirrel had extra nuts for the winter.",
+        "ipaExTrans": "ðə ˈskwɪrəl hæd ˈɛkstrə nʌts fɔː ðə ˈwɪntə.",
+        "exMeaning": "Con sóc có thêm hạt cho mùa đông."
+    },
+    {
+        "word": "goal",
+        "ipa": "gəʊl",
+        "type": "n",
+        "tag": "mục tiêu",
+        "meaning": "A goal is something you work toward.",
+        "context": "Một mục tiêu là một cái gì đó bạn làm việc hướng tới.",
+        "ex": "Her goal was to become a doctor.",
+        "ipaExTrans": "hɜː gəʊl wɒz tuː bɪˈkʌm ə ˈdɒktə.",
+        "exMeaning": "Mục tiêu của cô là trở thành một bác sĩ."
+    },
+    {
+        "word": "lie",
+        "ipa": "laɪ",
+        "type": "v",
+        "tag": "nói dối",
+        "meaning": "To lie is to say or write something untrue to deceive someone.",
+        "context": "Nói dối là nói hoặc viết một cái gì đó không đúng sự thật để lừa dối ai đó.",
+        "ex": "Whenever Pinocchio lied to his father, his nose grew.",
+        "ipaExTrans": "wɛnˈɛvə Pinocchio laɪd tuː hɪz ˈfɑːðə, hɪz nəʊz gruː.",
+        "exMeaning": "Bất cứ khi nào Pinocchio nói dối cha mình, mũi anh ta đều to ra."
+    },
+    {
+        "word": "meat",
+        "ipa": "miːt",
+        "type": "n",
+        "tag": "thịt",
+        "meaning": "Meat is food made of animals.",
+        "context": "Thịt là thức ăn làm từ động vật.",
+        "ex": "This piece of meat I’m eating tastes very good.",
+        "ipaExTrans": "ðɪs piːs ɒv miːt aɪm ˈiːtɪŋ teɪsts ˈvɛri gʊd.",
+        "exMeaning": "Miếng thịt này tôi ăn có vị rất ngon."
+    },
+    {
+        "word": "opinion",
+        "ipa": "əˈpɪnjən",
+        "type": "n",
+        "tag": "ý kiến",
+        "meaning": "An opinion is a thought about a person or a thing.",
+        "context": "Một ý kiến ​​là một suy nghĩ về một người hoặc một điều.",
+        "ex": "Meg told me her opinion of my story. She said it was not funny",
+        "ipaExTrans": "mɛg təʊld miː hɜːr əˈpɪnjən ɒv maɪ ˈstɔːri. ʃiː sɛd ɪt wɒz nɒt ˈfʌni",
+        "exMeaning": "Meg nói với tôi ý kiến của cô ấy về câu chuyện của tôi. Cô ấy nói nó không vui"
+    },
+    {
+        "word": "real",
+        "ipa": "rɪəl",
+        "type": "adj",
+        "tag": "thực tế, thật, có thật",
+        "meaning": "If something is real, it actually exists",
+        "context": "Nếu một cái gì đó là có thật, nó thực sự tồn tại",
+        "ex": "The handbag has a stamp on it, so it’s real.",
+        "ipaExTrans": "ðə ˈhændbæg hæz ə stæmp ɒn ɪt, səʊ ɪts rɪəl.",
+        "exMeaning": "Túi xách có một con tem trên đó, vì vậy nó thật."
+    },
+    {
+        "word": "reflect",
+        "ipa": "rɪˈflɛkt",
+        "type": "v",
+        "tag": "phản chiếu",
+        "meaning": "To reflect is when a surface sends back light, heat, sound or an image.",
+        "context": "Để phản chiếu là khi một bề mặt gửi lại ánh sáng, nhiệt, âm thanh hoặc hình ảnh.",
+        "ex": "Her face was reflected on the smooth glass.",
+        "ipaExTrans": "hɜː feɪs wɒz rɪˈflɛktɪd ɒn ðə smuːð glɑːs.",
+        "exMeaning": "Khuôn mặt cô được phản chiếu trên tấm kính mịn màng."
+    },
+    {
+        "word": "regard",
+        "ipa": "rɪˈgɑːd",
+        "type": "v",
+        "tag": "liên quan, quan tâm, để ý",
+        "meaning": "To regard someone or something is to think of them in a certain way",
+        "context": "Quan tâm đến ai đó hoặc một cái gì đó là nghĩ về họ theo một cách nhất định",
+        "ex": "The boy regarded the girl as a good friend.",
+        "ipaExTrans": "ðə bɔɪ rɪˈgɑːdɪd ðə gɜːl æz ə gʊd frɛnd.",
+        "exMeaning": "Chàng trai coi cô gái là một người bạn tốt."
+    },
+    {
+        "word": "serve",
+        "ipa": "sɜːv",
+        "type": "v",
+        "tag": "phục vụ",
+        "meaning": "To serve someone is to give them food or drinks",
+        "context": "Phục vụ ai đó là cho họ đồ ăn thức uống",
+        "ex": "He served us our drinks quickly.",
+        "ipaExTrans": "hiː sɜːvd ʌs ˈaʊə drɪŋks ˈkwɪkli.",
+        "exMeaning": "Anh ấy phục vụ chúng tôi đồ uống của chúng tôi một cách nhanh chóng."
+    },
+    {
+        "word": "vegetable",
+        "ipa": "ˈvɛʤtəb(ə)l",
+        "type": "n",
+        "tag": "rau",
+        "meaning": "A vegetable is a plant used as food.",
+        "context": "Một loại rau là một loại cây được sử dụng làm thực phẩm.",
+        "ex": "Carrots are my favorite vegetable",
+        "ipaExTrans": "ˈkærəts ɑː maɪ ˈfeɪvərɪt ˈvɛʤtəb(ə)l",
+        "exMeaning": "Cà rốt là loại rau yêu thích của tôi"
+    },
+    {
+        "word": "war",
+        "ipa": "wɔː",
+        "type": "n",
+        "tag": "chiến tranh",
+        "meaning": "A war is a big fight between two groups of people.",
+        "context": "Một cuộc chiến là một cuộc chiến lớn giữa hai nhóm người.",
+        "ex": "Many young men died in the war",
+        "ipaExTrans": "ˈmɛni jʌŋ mɛn daɪd ɪn ðə wɔː",
+        "exMeaning": "Nhiều thanh niên chết trong chiến tranh."
+    },
+    {
+        "word": "worth",
+        "ipa": "wɜːθ",
+        "type": "adj",
+        "tag": "giá trị, xứng đáng",
+        "meaning": "If something is worth an amount of money, it costs that amount.",
+        "context": "Nếu một cái gì đó có giá trị một số tiền, nó chi phí số tiền đó.",
+        "ex": "Our house is worth a lot of money.",
+        "ipaExTrans": "ˈaʊə haʊs ɪz wɜːθ ə lɒt ɒv ˈmʌni.",
+        "exMeaning": "Ngôi nhà của chúng tôi đáng giá rất nhiều tiền."
+    }
+]

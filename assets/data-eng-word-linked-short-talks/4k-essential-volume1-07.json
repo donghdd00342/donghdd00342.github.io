@@ -1,0 +1,222 @@
+[
+    {
+        "word": "allow",
+        "ipa": "əˈlaʊ",
+        "type": "v",
+        "tag": "cho phép",
+        "meaning": "To allow something to happen means to let it happen.",
+        "context": "Để cho phép một cái gì đó xảy ra có nghĩa là để cho nó xảy ra.",
+        "ex": "Having a ticket will allow you to enter the show.",
+        "ipaExTrans": "ˈhævɪŋ ə ˈtɪkɪt wɪl əˈlaʊ juː tuː ˈɛntə ðə ʃəʊ.",
+        "exMeaning": "Có một vé sẽ cho phép bạn tham gia chương trình."
+    },
+    {
+        "word": "announce",
+        "ipa": "əˈnaʊns",
+        "type": "v",
+        "tag": "thông báo",
+        "meaning": "To announce something is to make it known.",
+        "context": "Để thông báo một cái gì đó là làm cho nó được biết đến.",
+        "ex": "He announced to everyone his new idea for the company",
+        "ipaExTrans": "hiː əˈnaʊnst tuː ˈɛvrɪwʌn hɪz njuː aɪˈdɪə fɔː ðə ˈkʌmpəni",
+        "exMeaning": "Anh ấy đã thông báo cho mọi người ý tưởng mới của anh ấy cho công ty"
+    },
+    {
+        "word": "beside",
+        "ipa": "bɪˈsaɪd",
+        "type": "prep",
+        "tag": "bên cạnh",
+        "meaning": "When someone or something is beside you, they are next to you.",
+        "context": "Khi ai đó hoặc một cái gì đó bên cạnh bạn, họ ở bên cạnh bạn.",
+        "ex": "The two brothers stood beside each other",
+        "ipaExTrans": "ðə tuː ˈbrʌðəz stʊd bɪˈsaɪd iːʧ ˈʌðə",
+        "exMeaning": "Hai anh em đứng cạnh nhau."
+    },
+    {
+        "word": "challenge",
+        "ipa": "ˈʧælɪnʤ",
+        "type": "n",
+        "tag": "thử thách",
+        "meaning": "A challenge is something difficult to complete.",
+        "context": "Một thử thách là một cái gì đó khó hoàn thành.",
+        "ex": "It was a challenge to climb to the top of the mountain.",
+        "ipaExTrans": "ɪt wɒz ə ˈʧælɪnʤ tuː klaɪm tuː ðə tɒp ɒv ðə ˈmaʊntɪn.",
+        "exMeaning": "Đó là một thử thách để leo lên đỉnh núi."
+    },
+    {
+        "word": "claim",
+        "ipa": "kleɪm",
+        "type": "v",
+        "tag": "yêu cầu",
+        "meaning": "To claim means to say that something is true.",
+        "context": "Yêu cầu có nghĩa là nói điều gì đó là đúng.",
+        "ex": "He claimed to know why the country’s laws were weak.",
+        "ipaExTrans": "hiː kleɪmd tuː nəʊ waɪ ðə ˈkʌntriz lɔːz wɜː wiːk.",
+        "exMeaning": "Ông tuyên bố để biết lý do tại sao các quốc gia pháp luật đất nước yếu."
+    },
+    {
+        "word": "condition",
+        "ipa": "kənˈdɪʃən",
+        "type": "n",
+        "tag": "điều kiện",
+        "meaning": "The condition of someone or something is the state that they are in.",
+        "context": "Tình trạng của một ai đó hoặc một cái gì đó là trạng thái mà họ đang ở.",
+        "ex": "The patient’s condition was very good.",
+        "ipaExTrans": "ðə ˈpeɪʃənts kənˈdɪʃən wɒz ˈvɛri gʊd.",
+        "exMeaning": "Tình trạng bệnh nhân rất tốt."
+    },
+    {
+        "word": "contribute",
+        "ipa": "kənˈtrɪbju(ː)t",
+        "type": "v",
+        "tag": "góp phần, góp sức",
+        "meaning": "To contribute to something means to do something to make it successful",
+        "context": "Đóng góp cho một cái gì đó có nghĩa là làm một cái gì đó để làm cho nó thành công",
+        "ex": "We decided to contribute money to the new hospital.",
+        "ipaExTrans": "wiː dɪˈsaɪdɪd tuː kənˈtrɪbju(ː)t ˈmʌni tuː ðə njuː ˈhɒspɪtl.",
+        "exMeaning": "Chúng tôi quyết định đóng góp tiền cho bệnh viện mới."
+    },
+    {
+        "word": "difference",
+        "ipa": "ˈdɪfrəns",
+        "type": "n",
+        "tag": "Sự khác biệt",
+        "meaning": "A difference is a way that something is not like other things.",
+        "context": "Một sự khác biệt là một cách mà một cái gì đó không giống như những thứ khác.",
+        "ex": "The biggest difference between the birds is the color of their feathers",
+        "ipaExTrans": "ðə ˈbɪgɪst ˈdɪfrəns bɪˈtwiːn ðə bɜːdz ɪz ðə ˈkʌlər ɒv ðeə ˈfɛðəz",
+        "exMeaning": "Sự khác biệt lớn nhất giữa các loài chim là màu lông của chúng"
+    },
+    {
+        "word": "divide",
+        "ipa": "dɪˈvaɪd",
+        "type": "v",
+        "tag": "chia rẽ, chia nhỏ",
+        "meaning": "To divide something is to make it into smaller parts.",
+        "context": "Để phân chia một cái gì đó là làm cho nó thành các phần nhỏ hơn.",
+        "ex": "We divided the pizza.",
+        "ipaExTrans": "wiː dɪˈvaɪdɪd ðə ˈpiːtsə.",
+        "exMeaning": "Chúng tôi chia pizza."
+    },
+    {
+        "word": "expert",
+        "ipa": "ˈɛkspɜːt",
+        "type": "n",
+        "tag": "chuyên gia",
+        "meaning": "An expert is someone who is very good at doing something.",
+        "context": "Một chuyên gia là một người rất giỏi làm việc gì đó.",
+        "ex": "The wizard was an expert at magic.",
+        "ipaExTrans": "ðə ˈwɪzəd wɒz ən ˈɛkspɜːt æt ˈmæʤɪk.",
+        "exMeaning": "Phù thủy là một chuyên gia về ma thuật."
+    },
+    {
+        "word": "famous",
+        "ipa": "ˈfeɪməs",
+        "type": "adj",
+        "tag": "nổi danh, nổi tiếng",
+        "meaning": "If someone or something is famous, they are known to many people.",
+        "context": "Nếu ai đó hoặc một cái gì đó nổi tiếng, họ được nhiều người biết đến.",
+        "ex": "The Eiffel Tower in Paris is very famous.",
+        "ipaExTrans": "ði ˈaɪf(ə)l ˈtaʊər ɪn ˈpærɪs ɪz ˈvɛri ˈfeɪməs.",
+        "exMeaning": "Tháp Eiffel ở Paris rất nổi tiếng."
+    },
+    {
+        "word": "force",
+        "ipa": "fɔːs",
+        "type": "n",
+        "tag": "thể lực, sức lực, lực lượng",
+        "meaning": "Force is a person’s strength or power",
+        "context": "Lực lượng là sức mạnh hay sức mạnh của một người",
+        "ex": "He used all his force to try and open the door.",
+        "ipaExTrans": "hiː juːzd ɔːl hɪz fɔːs tuː traɪ ænd ˈəʊpən ðə dɔː.",
+        "exMeaning": "Anh dùng hết sức mình để thử và mở cửa."
+    },
+    {
+        "word": "harm",
+        "ipa": "hɑːm",
+        "type": "n",
+        "tag": "làm thiệt hại, gây hại",
+        "meaning": "Harm is hurt or problems caused to someone or something",
+        "context": "Tác hại là tổn thương hoặc vấn đề gây ra cho ai đó hoặc một cái gì đó",
+        "ex": "A hot iron can cause great harm if you are not careful.",
+        "ipaExTrans": "ə hɒt ˈaɪən kæn kɔːz greɪt hɑːm ɪf juː ɑː nɒt ˈkeəfʊl.",
+        "exMeaning": "Bàn ủi nóng có thể gây hại lớn nếu bạn không cẩn thận."
+    },
+    {
+        "word": "lay",
+        "ipa": "leɪ",
+        "type": "v",
+        "tag": "đặt nằm",
+        "meaning": "To lay means to put or place in a horizontal or flat position.",
+        "context": "Để nằm có nghĩa là đặt hoặc đặt ở vị trí nằm ngang hoặc phẳng.",
+        "ex": "Don’t lay your socks on the floor.",
+        "ipaExTrans": "dəʊnt leɪ jɔː sɒks ɒn ðə flɔː.",
+        "exMeaning": "Don Cầu đặt tất của bạn trên sàn nhà."
+    },
+    {
+        "word": "peace",
+        "ipa": "piːs",
+        "type": "n",
+        "tag": "Sự thanh bình",
+        "meaning": "Peace is a time without war",
+        "context": "Hòa bình là thời gian không có chiến tranh",
+        "ex": "A white dove is a symbol for peace",
+        "ipaExTrans": "ə waɪt dʌv ɪz ə ˈsɪmbəl fɔː piːs",
+        "exMeaning": "Chim bồ câu trắng là biểu tượng cho hòa bình"
+    },
+    {
+        "word": "prince",
+        "ipa": "prɪns",
+        "type": "n",
+        "tag": "Hoàng tử",
+        "meaning": "A prince is the son of a king.",
+        "context": "Một hoàng tử là con trai của một vị vua.",
+        "ex": "The prince and the princess were married.",
+        "ipaExTrans": "ðə prɪns ænd ðə prɪnˈsɛs wɜː ˈmærɪd.",
+        "exMeaning": "Hoàng tử và công chúa đã kết hôn."
+    },
+    {
+        "word": "protect",
+        "ipa": "prəˈtɛkt",
+        "type": "v",
+        "tag": "bảo vệ",
+        "meaning": "To protect someone is to stop them from getting hurt.",
+        "context": "Để bảo vệ ai đó là ngăn họ khỏi bị tổn thương.",
+        "ex": "Firemen protect us from fires.",
+        "ipaExTrans": "ˈfaɪəmən prəˈtɛkt ʌs frɒm ˈfaɪəz.",
+        "exMeaning": "Lính cứu hỏa bảo vệ chúng tôi khỏi hỏa hoạn."
+    },
+    {
+        "word": "sense",
+        "ipa": "sɛns",
+        "type": "v",
+        "tag": "giác quan, cảm nhận",
+        "meaning": "To sense something is to know about it without being told.",
+        "context": "Để cảm nhận một cái gì đó là để biết về nó mà không được nói.",
+        "ex": "I could sense that he was watching me.",
+        "ipaExTrans": "aɪ kʊd sɛns ðæt hiː wɒz ˈwɒʧɪŋ miː.",
+        "exMeaning": "Tôi có thể cảm nhận rằng anh ấy đang theo dõi tôi."
+    },
+    {
+        "word": "sudden",
+        "ipa": "ˈsʌdn",
+        "type": "adj",
+        "tag": "đột nhiên",
+        "meaning": "When something is sudden, it happens very quickly.",
+        "context": "Khi một cái gì đó đột ngột, nó xảy ra rất nhanh.",
+        "ex": "He felt a sudden pain in his chest.",
+        "ipaExTrans": "hiː fɛlt ə ˈsʌdn peɪn ɪn hɪz ʧɛst.",
+        "exMeaning": "Anh cảm thấy đau nhói ở ngực."
+    },
+    {
+        "word": "therefore",
+        "ipa": "ˈðeəfɔː",
+        "type": "adv",
+        "tag": "vì thế",
+        "meaning": "Therefore means for this reason",
+        "context": "Vì vậy, có nghĩa là vì lý do này",
+        "ex": "He is fat. Therefore, he will go on a diet.",
+        "ipaExTrans": "hiː ɪz fæt. ˈðeəfɔː, hiː wɪl gəʊ ɒn ə ˈdaɪət.",
+        "exMeaning": "Anh béo. Do đó, anh sẽ ăn kiêng."
+    }
+]

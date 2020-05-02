@@ -1,0 +1,632 @@
+[
+    {
+        "word": "at worst",
+        "type": "Prep Phrases",
+        "ipa": "æt wɜːst",
+        "meaning": "lúc tồi tệ nhất"
+    },
+    {
+        "word": "at work",
+        "type": "Prep Phrases",
+        "ipa": "æt wɜːk",
+        "meaning": "tại nơi làm việc"
+    },
+    {
+        "word": "at will",
+        "type": "Prep Phrases",
+        "ipa": "æt wɪl",
+        "meaning": "tuỳ ý"
+    },
+    {
+        "word": "at war with",
+        "type": "Prep Phrases",
+        "ipa": "æt wɔː wɪð",
+        "meaning": "trong cuộc chiến với"
+    },
+    {
+        "word": "at war",
+        "type": "Prep Phrases",
+        "ipa": "æt wɔː",
+        "meaning": "trong chiên tranh"
+    },
+    {
+        "word": "at university",
+        "type": "Prep Phrases",
+        "ipa": "æt ˌjuːnɪˈvɜːsɪti",
+        "meaning": "ở trường đại học"
+    },
+    {
+        "word": "at this point in time",
+        "type": "Prep Phrases",
+        "ipa": "æt ðɪs pɔɪnt ɪn taɪm",
+        "meaning": "tại thời điểm này"
+    },
+    {
+        "word": "at this juncture",
+        "type": "Prep Phrases",
+        "ipa": "æt ðɪs ˈʤʌŋkʧə",
+        "meaning": "tại thời điểm này"
+    },
+    {
+        "word": "at the wheel",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə wiːl",
+        "meaning": "tại bánh xe"
+    },
+    {
+        "word": "at the thought of",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə θɔːt ɒv",
+        "meaning": "khi nghĩ về"
+    },
+    {
+        "word": "at the top of",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə tɒp ɒv",
+        "meaning": "ở đỉnh cao của"
+    },
+    {
+        "word": "at the time of",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə taɪm ɒv",
+        "meaning": "tại thời điểm"
+    },
+    {
+        "word": "at the table",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə ˈteɪbl",
+        "meaning": "tại bàn"
+    },
+    {
+        "word": "at the same time",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə seɪm taɪm",
+        "meaning": "đồng thời"
+    },
+    {
+        "word": "at the risk of",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə rɪsk ɒv",
+        "meaning": "có nguy cơ"
+    },
+    {
+        "word": "at the ready",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə ˈrɛdi",
+        "meaning": "trong tư thế sẵn sàng"
+    },
+    {
+        "word": "at the peak of",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə piːk ɒv",
+        "meaning": "ở đỉnh cao của"
+    },
+    {
+        "word": "at the moment",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə ˈməʊmənt",
+        "meaning": "tại thời điểm này"
+    },
+    {
+        "word": "at the mercy of",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə ˈmɜːsi ɒv",
+        "meaning": "tại sự thương xót của"
+    },
+    {
+        "word": "at the latest",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə ˈleɪtɪst",
+        "meaning": "vào lúc muộn nhất"
+    },
+    {
+        "word": "at the height of",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə haɪt ɒv",
+        "meaning": "ở độ cao"
+    },
+    {
+        "word": "at the hands of",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə hændz ɒv",
+        "meaning": "dưới bàn tay của"
+    },
+    {
+        "word": "at the foot of",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə fʊt ɒv",
+        "meaning": "ở bàn chân"
+    },
+    {
+        "word": "at the expense of",
+        "type": "Prep Phrases",
+        "ipa": "æt ði ɪksˈpɛns ɒv",
+        "meaning": "với chi phí của"
+    },
+    {
+        "word": "at the end",
+        "type": "Prep Phrases",
+        "ipa": "æt ði ɛnd",
+        "meaning": "cuối cùng"
+    },
+    {
+        "word": "at the drop of a hat",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə drɒp ɒv ə hæt",
+        "meaning": "khi đánh rơi mũ"
+    },
+    {
+        "word": "at the door",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə dɔː",
+        "meaning": "tại cửa"
+    },
+    {
+        "word": "at the bottom of",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə ˈbɒtəm ɒv",
+        "meaning": "ở dưới cùng của"
+    },
+    {
+        "word": "at the beginning of",
+        "type": "Prep Phrases",
+        "ipa": "æt ðə bɪˈgɪnɪŋ ɒv",
+        "meaning": "vào đầu"
+    },
+    {
+        "word": "at the age of",
+        "type": "Prep Phrases",
+        "ipa": "æt ði eɪʤ ɒv",
+        "meaning": "ở độ tuổi"
+    },
+    {
+        "word": "at that",
+        "type": "Prep Phrases",
+        "ipa": "æt ðæt",
+        "meaning": "tại đó"
+    },
+    {
+        "word": "at times",
+        "type": "Prep Phrases",
+        "ipa": "æt taɪmz",
+        "meaning": "đôi khi"
+    },
+    {
+        "word": "at stake",
+        "type": "Prep Phrases",
+        "ipa": "æt steɪk",
+        "meaning": "bị đe dọa"
+    },
+    {
+        "word": "at short notice",
+        "type": "Prep Phrases",
+        "ipa": "æt ʃɔːt ˈnəʊtɪs",
+        "meaning": "thông báo ngắn"
+    },
+    {
+        "word": "at sea",
+        "type": "Prep Phrases",
+        "ipa": "æt siː",
+        "meaning": "ở Biển"
+    },
+    {
+        "word": "at school",
+        "type": "Prep Phrases",
+        "ipa": "æt skuːl",
+        "meaning": "ở trường"
+    },
+    {
+        "word": "at risk",
+        "type": "Prep Phrases",
+        "ipa": "æt rɪsk",
+        "meaning": "có nguy cơ"
+    },
+    {
+        "word": "at rest",
+        "type": "Prep Phrases",
+        "ipa": "æt rɛst",
+        "meaning": "ở phần còn lại"
+    },
+    {
+        "word": "at random",
+        "type": "Prep Phrases",
+        "ipa": "æt ˈrændəm",
+        "meaning": "ngẫu nhiên"
+    },
+    {
+        "word": "at present",
+        "type": "Prep Phrases",
+        "ipa": "æt ˈprɛznt",
+        "meaning": "hiện tại"
+    },
+    {
+        "word": "at play",
+        "type": "Prep Phrases",
+        "ipa": "æt pleɪ",
+        "meaning": "lúc chơi"
+    },
+    {
+        "word": "at places",
+        "type": "Prep Phrases",
+        "ipa": "æt ˈpleɪsɪz",
+        "meaning": "ở những nơi"
+    },
+    {
+        "word": "at peace",
+        "type": "Prep Phrases",
+        "ipa": "æt piːs",
+        "meaning": "hòa bình"
+    },
+    {
+        "word": "at pains",
+        "type": "Prep Phrases",
+        "ipa": "æt peɪnz",
+        "meaning": "đau"
+    },
+    {
+        "word": "at one’s side",
+        "type": "Prep Phrases",
+        "ipa": "æt wʌnz saɪd",
+        "meaning": "ở một bên"
+    },
+    {
+        "word": "at one’s request",
+        "type": "Prep Phrases",
+        "ipa": "æt wʌnz rɪˈkwɛst",
+        "meaning": "tại một yêu cầu"
+    },
+    {
+        "word": "at one’s leisure",
+        "type": "Prep Phrases",
+        "ipa": "æt wʌnz ˈlɛʒə",
+        "meaning": "tại một giải trí"
+    },
+    {
+        "word": "at one’s disposal",
+        "type": "Prep Phrases",
+        "ipa": "æt wʌnz dɪsˈpəʊzəl",
+        "meaning": "Theo ý của một người"
+    },
+    {
+        "word": "at one’s discretion",
+        "type": "Prep Phrases",
+        "ipa": "æt wʌnz dɪsˈkrɛʃən",
+        "meaning": "tùy ý"
+    },
+    {
+        "word": "at one’s desk",
+        "type": "Prep Phrases",
+        "ipa": "æt wʌnz dɛsk",
+        "meaning": "tại một bàn"
+    },
+    {
+        "word": "at one’s best",
+        "type": "Prep Phrases",
+        "ipa": "æt wʌnz bɛst",
+        "meaning": "tốt nhất"
+    },
+    {
+        "word": "at one time",
+        "type": "Prep Phrases",
+        "ipa": "æt wʌn taɪm",
+        "meaning": "cùng một lúc"
+    },
+    {
+        "word": "at once",
+        "type": "Prep Phrases",
+        "ipa": "æt wʌns",
+        "meaning": "một lần"
+    },
+    {
+        "word": "at on the double",
+        "type": "Prep Phrases",
+        "ipa": "æt ɒn ðə ˈdʌbl",
+        "meaning": "ở trên đôi"
+    },
+    {
+        "word": "at on sight",
+        "type": "Prep Phrases",
+        "ipa": "æt ɒn saɪt",
+        "meaning": "trong tầm nhìn"
+    },
+    {
+        "word": "at odds with",
+        "type": "Prep Phrases",
+        "ipa": "æt ɒdz wɪð",
+        "meaning": "mâu thuẫn với"
+    },
+    {
+        "word": "at noon",
+        "type": "Prep Phrases",
+        "ipa": "æt nuːn",
+        "meaning": "vào buổi trưa"
+    },
+    {
+        "word": "at night",
+        "type": "Prep Phrases",
+        "ipa": "æt naɪt",
+        "meaning": "vào ban đêm"
+    },
+    {
+        "word": "at most",
+        "type": "Prep Phrases",
+        "ipa": "æt məʊst",
+        "meaning": "nhất"
+    },
+    {
+        "word": "at midnight",
+        "type": "Prep Phrases",
+        "ipa": "æt ˈmɪdnaɪt",
+        "meaning": "luc nửa đêm"
+    },
+    {
+        "word": "at midday",
+        "type": "Prep Phrases",
+        "ipa": "æt ˈmɪddeɪ",
+        "meaning": "lúc giữa trưa"
+    },
+    {
+        "word": "at loose ends",
+        "type": "Prep Phrases",
+        "ipa": "æt luːs ɛndz",
+        "meaning": "ở đầu lỏng"
+    },
+    {
+        "word": "at liberty",
+        "type": "Prep Phrases",
+        "ipa": "æt ˈlɪbəti",
+        "meaning": "tự do"
+    },
+    {
+        "word": "at length",
+        "type": "Prep Phrases",
+        "ipa": "æt lɛŋθ",
+        "meaning": "ở độ dài"
+    },
+    {
+        "word": "at least",
+        "type": "Prep Phrases",
+        "ipa": "æt liːst",
+        "meaning": "ít nhất"
+    },
+    {
+        "word": "at last",
+        "type": "Prep Phrases",
+        "ipa": "æt lɑːst",
+        "meaning": "cuối cùng"
+    },
+    {
+        "word": "at large",
+        "type": "Prep Phrases",
+        "ipa": "æt lɑːʤ",
+        "meaning": "lớn"
+    },
+    {
+        "word": "at issue",
+        "type": "Prep Phrases",
+        "ipa": "æt ˈɪʃuː",
+        "meaning": "có vấn đề"
+    },
+    {
+        "word": "at home",
+        "type": "Prep Phrases",
+        "ipa": "æt həʊm",
+        "meaning": "ở nhà"
+    },
+    {
+        "word": "at high speed",
+        "type": "Prep Phrases",
+        "ipa": "æt haɪ spiːd",
+        "meaning": "ở tốc độ cao"
+    },
+    {
+        "word": "at heart",
+        "type": "Prep Phrases",
+        "ipa": "æt hɑːt",
+        "meaning": "Từ trái tim"
+    },
+    {
+        "word": "at hand",
+        "type": "Prep Phrases",
+        "ipa": "æt hænd",
+        "meaning": "trong tầm tay"
+    },
+    {
+        "word": "at full throttle",
+        "type": "Prep Phrases",
+        "ipa": "æt fʊl ˈθrɒtl",
+        "meaning": "ở ga đầy đủ"
+    },
+    {
+        "word": "at full tilt",
+        "type": "Prep Phrases",
+        "ipa": "æt fʊl tɪlt",
+        "meaning": "ở độ nghiêng hoàn toàn"
+    },
+    {
+        "word": "at full strength",
+        "type": "Prep Phrases",
+        "ipa": "æt fʊl strɛŋθ",
+        "meaning": "hết sức"
+    },
+    {
+        "word": "at from the outset",
+        "type": "Prep Phrases",
+        "ipa": "æt frɒm ði ˈaʊtsɛt",
+        "meaning": "ngay từ đầu"
+    },
+    {
+        "word": "at for a fraction of",
+        "type": "Prep Phrases",
+        "ipa": "æt fɔːr ə ˈfrækʃən ɒv",
+        "meaning": "tại một phần của"
+    },
+    {
+        "word": "at first sight",
+        "type": "Prep Phrases",
+        "ipa": "æt fɜːst saɪt",
+        "meaning": "từ cái nhìn đầu tiên"
+    },
+    {
+        "word": "at first",
+        "type": "Prep Phrases",
+        "ipa": "æt fɜːst",
+        "meaning": "lúc đầu"
+    },
+    {
+        "word": "at fault",
+        "type": "Prep Phrases",
+        "ipa": "æt fɔːlt",
+        "meaning": "có lỗi"
+    },
+    {
+        "word": "at face value",
+        "type": "Prep Phrases",
+        "ipa": "æt feɪs ˈvæljuː",
+        "meaning": "theo mệnh giá"
+    },
+    {
+        "word": "at ease",
+        "type": "Prep Phrases",
+        "ipa": "æt iːz",
+        "meaning": "thoải mái"
+    },
+    {
+        "word": "at breakfast",
+        "type": "Prep Phrases",
+        "ipa": "æt ˈbrɛkfəst",
+        "meaning": "vào bữa sáng"
+    },
+    {
+        "word": "at any rate",
+        "type": "Prep Phrases",
+        "ipa": "æt ˈɛni reɪt",
+        "meaning": "bằng mọi giá"
+    },
+    {
+        "word": "at any cost",
+        "type": "Prep Phrases",
+        "ipa": "æt ˈɛni kɒst",
+        "meaning": "bằng bất cứ giá nào"
+    },
+    {
+        "word": "at an advantage",
+        "type": "Prep Phrases",
+        "ipa": "æt ən ədˈvɑːntɪʤ",
+        "meaning": "ở một lợi thế"
+    },
+    {
+        "word": "at all hours",
+        "type": "Prep Phrases",
+        "ipa": "æt ɔːl ˈaʊəz",
+        "meaning": "vào tất cả các giờ"
+    },
+    {
+        "word": "at all events",
+        "type": "Prep Phrases",
+        "ipa": "æt ɔːl ɪˈvɛnts",
+        "meaning": "trong tất cả mọi sự kiện"
+    },
+    {
+        "word": "at all costs",
+        "type": "Prep Phrases",
+        "ipa": "æt ɔːl kɒsts",
+        "meaning": "bằng mọi giá"
+    },
+    {
+        "word": "at a time",
+        "type": "Prep Phrases",
+        "ipa": "æt ə taɪm",
+        "meaning": "tại một thời điểm"
+    },
+    {
+        "word": "at a stretch",
+        "type": "Prep Phrases",
+        "ipa": "æt ə strɛʧ",
+        "meaning": "ở một đoạn"
+    },
+    {
+        "word": "at a stand",
+        "type": "Prep Phrases",
+        "ipa": "æt ə stænd",
+        "meaning": "tại một chỗ đứng"
+    },
+    {
+        "word": "at a speed of",
+        "type": "Prep Phrases",
+        "ipa": "æt ə spiːd ɒv",
+        "meaning": "ở tốc độ"
+    },
+    {
+        "word": "at a rate of",
+        "type": "Prep Phrases",
+        "ipa": "æt ə reɪt ɒv",
+        "meaning": "với tốc độ"
+    },
+    {
+        "word": "at a price",
+        "type": "Prep Phrases",
+        "ipa": "æt ə praɪs",
+        "meaning": "ở một mức giá"
+    },
+    {
+        "word": "at a moment’s notice",
+        "type": "Prep Phrases",
+        "ipa": "æt ə ˈməʊmənts ˈnəʊtɪs",
+        "meaning": "tại Thông báo của một thời điểm"
+    },
+    {
+        "word": "at a low ebb",
+        "type": "Prep Phrases",
+        "ipa": "æt ə ləʊ ɛb",
+        "meaning": "ở mức thấp"
+    },
+    {
+        "word": "at a loss for words",
+        "type": "Prep Phrases",
+        "ipa": "æt ə lɒs fɔː wɜːdz",
+        "meaning": "không nói nên lời"
+    },
+    {
+        "word": "at a loss",
+        "type": "Prep Phrases",
+        "ipa": "æt ə lɒs",
+        "meaning": "thua lỗ"
+    },
+    {
+        "word": "at a loose and",
+        "type": "Prep Phrases",
+        "ipa": "æt ə luːs ænd",
+        "meaning": "lỏng lẻo và"
+    },
+    {
+        "word": "at a guess",
+        "type": "Prep Phrases",
+        "ipa": "æt ə gɛs",
+        "meaning": "đoán"
+    },
+    {
+        "word": "at a glance",
+        "type": "Prep Phrases",
+        "ipa": "æt ə glɑːns",
+        "meaning": "trong nháy mắt"
+    },
+    {
+        "word": "at a distance",
+        "type": "Prep Phrases",
+        "ipa": "æt ə ˈdɪstəns",
+        "meaning": "ở một khoảng cách"
+    },
+    {
+        "word": "at a discount",
+        "type": "Prep Phrases",
+        "ipa": "æt ə ˈdɪskaʊnt",
+        "meaning": "giảm giá"
+    },
+    {
+        "word": "at a disadvantage",
+        "type": "Prep Phrases",
+        "ipa": "æt ə ˌdɪsədˈvɑːntɪʤ",
+        "meaning": "bất lợi"
+    }
+]

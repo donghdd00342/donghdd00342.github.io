@@ -1,0 +1,332 @@
+[
+    {
+        "word": "crashing",
+        "type": "Adj",
+        "ipa": "ˈkræʃɪŋ",
+        "meaning": "va chạm",
+        "ex": "The house was crashing down around them.",
+        "ipaExTrans": "ðə haʊs wɒz ˈkræʃɪŋ daʊn əˈraʊnd ðɛm.",
+        "exMeaning": "Ngôi nhà đã sụp đổ xung quanh họ."
+    },
+    {
+        "word": "deafening",
+        "type": "Adj",
+        "ipa": "ˈdɛfnɪŋ",
+        "meaning": "điếc tai",
+        "ex": "There was a deafening roar that echoed throughout the cavern.",
+        "ipaExTrans": "ðeə wɒz ə ˈdɛfnɪŋ rɔː ðæt ˈɛkəʊd θru(ː)ˈaʊt ðə ˈkævən.",
+        "exMeaning": "Có tiếng gầm chói tai vang vọng khắp hang động."
+    },
+    {
+        "word": "echoing",
+        "type": "Adj",
+        "ipa": "ˈɛkəʊɪŋ",
+        "meaning": "vang vọng",
+        "ex": "She called out, louder and more frantically this time, her voice echoing against the rock.",
+        "ipaExTrans": "ʃiː kɔːld aʊt, ˈlaʊdər ænd mɔː ˈfræntɪk(ə)li ðɪs taɪm, hɜː vɔɪs ˈɛkəʊɪŋ əˈgɛnst ðə rɒk.",
+        "exMeaning": "Cô gọi to, to hơn và điên cuồng hơn lần này, giọng cô vang vọng trên tảng đá."
+    },
+    {
+        "word": "faint",
+        "type": "Adj",
+        "ipa": "feɪnt",
+        "meaning": "mờ nhạt",
+        "ex": "Her heartbeat was faint and slow.",
+        "ipaExTrans": "hɜː ˈhɑːtbiːt wɒz feɪnt ænd sləʊ.",
+        "exMeaning": "Nhịp tim của cô mờ nhạt và chậm chạp."
+    },
+    {
+        "word": "harsh",
+        "type": "Adj",
+        "ipa": "hɑːʃ",
+        "meaning": "khắc nghiệt",
+        "ex": "I was shocked at how harsh reality can be.",
+        "ipaExTrans": "aɪ wɒz ʃɒkt æt haʊ hɑːʃ ri(ː)ˈælɪti kæn biː.",
+        "exMeaning": "Tôi đã bị sốc về cách thực tế khắc nghiệt có thể."
+    },
+    {
+        "word": "hissing",
+        "type": "Adj",
+        "ipa": "ˈhɪsɪŋ",
+        "meaning": "tiếng rít",
+        "ex": "A yellow ball of hissing fur flew past her.",
+        "ipaExTrans": "ə ˈjɛləʊ bɔːl ɒv ˈhɪsɪŋ fɜː fluː pɑːst hɜː.",
+        "exMeaning": "Một quả bóng lông màu vàng rít lên bay qua cô."
+    },
+    {
+        "word": "howling",
+        "type": "Adj",
+        "ipa": "ˈhaʊlɪŋ",
+        "meaning": "rú lên",
+        "ex": "It was a wolf howling at the full moon.",
+        "ipaExTrans": "ɪt wɒz ə wʊlf ˈhaʊlɪŋ æt ðə fʊl muːn.",
+        "exMeaning": "Đó là một con sói hú vào lúc trăng tròn."
+    },
+    {
+        "word": "loud",
+        "type": "Adj",
+        "ipa": "laʊd",
+        "meaning": "to tiếng",
+        "ex": "Boys, we're getting a little loud here.",
+        "ipaExTrans": "bɔɪz, wɪə ˈgɛtɪŋ ə ˈlɪtl laʊd hɪə.",
+        "exMeaning": "Các cậu bé, chúng ta đang ồn ào một chút ở đây."
+    },
+    {
+        "word": "melodic",
+        "type": "Adj",
+        "ipa": "mɪˈlɒdɪk",
+        "meaning": "du dương",
+        "ex": "Somewhere in the distance a meadowlark began its melodic whistle, and a hen sang industriously up by the house.",
+        "ipaExTrans": "ˈsʌmweər ɪn ðə ˈdɪstəns ə meadowlark bɪˈgæn ɪts mɪˈlɒdɪk ˈwɪsl, ænd ə hɛn sæŋ ɪnˈdʌstrɪəsli ʌp baɪ ðə haʊs.",
+        "exMeaning": "Đâu đó từ xa, một đồng cỏ bắt đầu tiếng huýt sáo du dương của nó, và một con gà mái hát siêng năng bên nhà."
+    },
+    {
+        "word": "noisy",
+        "type": "Adj",
+        "ipa": "ˈnɔɪzi",
+        "meaning": "ồn ào",
+        "ex": "His detractors were noisy and scurrilous.",
+        "ipaExTrans": "hɪz dɪˈtræktəz wɜː ˈnɔɪzi ænd ˈskʌrɪləs.",
+        "exMeaning": "Những lời gièm pha của anh ta ồn ào và thô lỗ."
+    },
+    {
+        "word": "purring",
+        "type": "Adj",
+        "ipa": "ˈpɜːrɪŋ",
+        "meaning": "rên rỉ",
+        "ex": "Jessi went up the stairs and paused to stroke the purring cat.",
+        "ipaExTrans": "Jessi wɛnt ʌp ðə steəz ænd pɔːzd tuː strəʊk ðə ˈpɜːrɪŋ kæt.",
+        "exMeaning": "Jessi đi lên cầu thang và dừng lại để vuốt ve con mèo đang kêu."
+    },
+    {
+        "word": "quiet",
+        "type": "Adj",
+        "ipa": "ˈkwaɪət",
+        "meaning": "Yên tĩnh",
+        "ex": "You are quiet this morning, son.",
+        "ipaExTrans": "juː ɑː ˈkwaɪət ðɪs ˈmɔːnɪŋ, sʌn.",
+        "exMeaning": "Bạn đang yên lặng sáng nay, con trai."
+    },
+    {
+        "word": "rapping",
+        "type": "Adj",
+        "ipa": "ˈræpɪŋ",
+        "meaning": "đọc rap",
+        "ex": "They both heard the sound at the same time—a gentle rapping at the back door.",
+        "ipaExTrans": "ðeɪ bəʊθ hɜːd ðə saʊnd æt ðə seɪm taɪm-eɪ ˈʤɛntl ˈræpɪŋ æt ðə bæk dɔː.",
+        "exMeaning": "Cả hai cùng nghe thấy âm thanh cùng lúc, một tiếng rap nhẹ nhàng ở cửa sau."
+    },
+    {
+        "word": "raspy",
+        "type": "Adj",
+        "ipa": "ˈrɑːspi",
+        "meaning": "raspy",
+        "ex": "His voice was raspy from his own lack of sleep.",
+        "ipaExTrans": "hɪz vɔɪs wɒz ˈrɑːspi frɒm hɪz əʊn læk ɒv sliːp.",
+        "exMeaning": "Giọng anh khàn khàn vì thiếu ngủ."
+    },
+    {
+        "word": "rhythmic",
+        "type": "Adj",
+        "ipa": "ˈrɪðmɪk",
+        "meaning": "nhịp nhàng",
+        "ex": "A rhythmic thumping echoed from the floor above.",
+        "ipaExTrans": "ə ˈrɪðmɪk ˈθʌmpɪŋ ˈɛkəʊd frɒm ðə flɔːr əˈbʌv.",
+        "exMeaning": "Một tiếng đập nhịp nhàng vang vọng từ tầng trên."
+    },
+    {
+        "word": "screeching",
+        "type": "Adj",
+        "ipa": "ˈskriːʧɪŋ",
+        "meaning": "rít lên",
+        "ex": "She was screeching at him at the top of her voice.",
+        "ipaExTrans": "ʃiː wɒz ˈskriːʧɪŋ æt hɪm æt ðə tɒp ɒv hɜː vɔɪs.",
+        "exMeaning": "Cô đang rít lên với anh trên đỉnh giọng."
+    },
+    {
+        "word": "shrilling",
+        "type": "Adj",
+        "ipa": "ˈʃrɪlɪŋ",
+        "meaning": "chói tai"
+    },
+    {
+        "word": "squeaking",
+        "type": "Adj",
+        "ipa": "ˈskwiːkɪŋ",
+        "meaning": "ré lên",
+        "ex": "A car crossed the bridge behind them, leaving a wake of squeaking and groaning metal and wood.",
+        "ipaExTrans": "ə kɑː krɒst ðə brɪʤ bɪˈhaɪnd ðɛm, ˈliːvɪŋ ə weɪk ɒv ˈskwiːkɪŋ ænd ˈgrəʊnɪŋ ˈmɛtl ænd wʊd.",
+        "exMeaning": "Một chiếc xe hơi băng qua cây cầu phía sau họ, để lại một tiếng rít và rên rỉ kim loại và gỗ."
+    },
+    {
+        "word": "thundering",
+        "type": "Adj",
+        "ipa": "ˈθʌndərɪŋ",
+        "meaning": "sấm sét",
+        "ex": "The fishermen say that the \"thundering of the pond\" scares the fishes and prevents their biting.",
+        "ipaExTrans": "ðə ˈfɪʃəmən seɪ ðæt ðiː \"ˈθʌndərɪŋ ɒv ðə pɒnd\" skeəz ðə ˈfɪʃɪz ænd prɪˈvɛnts ðeə ˈbaɪtɪŋ.",
+        "exMeaning": "Các ngư dân nói rằng \"tiếng sấm của ao\" khiến cá sợ hãi và ngăn chúng cắn."
+    },
+    {
+        "word": "tinkling",
+        "type": "Adj",
+        "ipa": "ˈtɪŋklɪŋ",
+        "meaning": "leng keng",
+        "ex": "He waved a thorny hand and at once the tinkling of bells was heard, playing sweet music.",
+        "ipaExTrans": "hiː weɪvd ə ˈθɔːni hænd ænd æt wʌns ðə ˈtɪŋklɪŋ ɒv bɛlz wɒz hɜːd, ˈpleɪɪŋ swiːt ˈmjuːzɪk.",
+        "exMeaning": "Anh ta vẫy một bàn tay gai góc và ngay lập tức có tiếng chuông leng keng vang lên, chơi nhạc ngọt ngào."
+    },
+    {
+        "word": "wailing",
+        "type": "Adj",
+        "ipa": "ˈweɪlɪŋ",
+        "meaning": "khóc lóc",
+        "ex": "It is the wailing cry of a moribund nation.",
+        "ipaExTrans": "ɪt ɪz ðə ˈweɪlɪŋ kraɪ ɒv ə ˈmɔːrɪbʌnd ˈneɪʃən.",
+        "exMeaning": "Đó là tiếng khóc than của một quốc gia nham hiểm."
+    },
+    {
+        "word": "whining",
+        "type": "Adj",
+        "ipa": "ˈwaɪnɪŋ",
+        "meaning": "rên rỉ",
+        "ex": "Fine. Don't come whining to me if they blacklist you.",
+        "ipaExTrans": "faɪn. dəʊnt kʌm ˈwaɪnɪŋ tuː miː ɪf ðeɪ ˈblæklɪst juː.",
+        "exMeaning": "Khỏe. Đừng than vãn với tôi nếu họ đưa bạn vào danh sách đen."
+    },
+    {
+        "word": "whispering",
+        "type": "Adj",
+        "ipa": "ˈwɪspərɪŋ",
+        "meaning": "thì thầm",
+        "ex": "He pulled her close, whispering softly in her ear.",
+        "ipaExTrans": "hiː pʊld hɜː kləʊs, ˈwɪspərɪŋ ˈsɒftli ɪn hɜːr ɪə.",
+        "exMeaning": "Anh kéo cô lại gần, khẽ thì thầm vào tai cô."
+    },
+    {
+        "word": "blaring",
+        "type": "Adj",
+        "ipa": "ˈbleərɪŋ",
+        "meaning": "chói tai",
+        "ex": "Screams and blaring horns came from the streets.",
+        "ipaExTrans": "skriːmz ænd ˈbleərɪŋ hɔːnz keɪm frɒm ðə striːts.",
+        "exMeaning": "Tiếng la hét và tiếng còi inh ỏi phát ra từ đường phố."
+    },
+    {
+        "word": "moaning",
+        "type": "Adj",
+        "ipa": "ˈməʊnɪŋ",
+        "meaning": "rên rỉ",
+        "ex": "She pressed against him, moaning with delight.",
+        "ipaExTrans": "ʃiː prɛst əˈgɛnst hɪm, ˈməʊnɪŋ wɪð dɪˈlaɪt.",
+        "exMeaning": "Cô áp sát vào anh, rên rỉ sung sướng."
+    },
+    {
+        "word": "shrill",
+        "type": "Adj",
+        "ipa": "ʃrɪl",
+        "meaning": "chói tai",
+        "ex": "Who gave orders? he said in his shrill, harsh voice.",
+        "ipaExTrans": "huː geɪv ˈɔːdəz? hiː sɛd ɪn hɪz ʃrɪl, hɑːʃ vɔɪs.",
+        "exMeaning": "Ai đã ra lệnh? Anh nói bằng giọng chói tai."
+    },
+    {
+        "word": "muffled",
+        "type": "Adj",
+        "ipa": "ˈmʌfld",
+        "meaning": "bịt miệng",
+        "ex": "There followed a muffled boom.",
+        "ipaExTrans": "ðeə ˈfɒləʊd ə ˈmʌfld buːm.",
+        "exMeaning": "Có một sự bùng nổ bị bóp nghẹt."
+    },
+    {
+        "word": "silent",
+        "type": "Adj",
+        "ipa": "ˈsaɪlənt",
+        "meaning": "im lặng",
+        "ex": "The room was silent for a few minutes after they left.",
+        "ipaExTrans": "ðə ruːm wɒz ˈsaɪlənt fɔːr ə fjuː ˈmɪnɪts ˈɑːftə ðeɪ lɛft.",
+        "exMeaning": "Căn phòng im lặng trong vài phút sau khi họ rời đi."
+    },
+    {
+        "word": "hoarse",
+        "type": "Adj",
+        "ipa": "hɔːs",
+        "meaning": "khàn",
+        "ex": "His face was red, his voice hoarse from shouting.",
+        "ipaExTrans": "hɪz feɪs wɒz rɛd, hɪz vɔɪs hɔːs frɒm ˈʃaʊtɪŋ.",
+        "exMeaning": "Mặt anh đỏ lên, giọng khàn khàn vì la hét."
+    },
+    {
+        "word": "mute",
+        "type": "Adj",
+        "ipa": "mjuːt",
+        "meaning": "tắt tiếng",
+        "ex": "He covered one ear to mute the passing traffic.",
+        "ipaExTrans": "hiː ˈkʌvəd wʌn ɪə tuː mjuːt ðə ˈpɑːsɪŋ ˈtræfɪk.",
+        "exMeaning": "Anh bịt một tai để tắt tiếng giao thông đi qua."
+    },
+    {
+        "word": "soft",
+        "type": "Adj",
+        "ipa": "sɒft",
+        "meaning": "mềm mại",
+        "ex": "His laugh was soft and low.",
+        "ipaExTrans": "hɪz lɑːf wɒz sɒft ænd ləʊ.",
+        "exMeaning": "Tiếng cười của anh thật khẽ và thấp."
+    },
+    {
+        "word": "high-pitched",
+        "type": "Adj",
+        "ipa": "ˈhaɪˈpɪʧt",
+        "meaning": "cao vút",
+        "ex": "She soon heard Toni's high-pitched laugh as the woman started the interview with Xander.",
+        "ipaExTrans": "ʃiː suːn hɜːd Toni's ˈhaɪˈpɪʧt lɑːf æz ðə ˈwʊmən ˈstɑːtɪd ði ˈɪntəvjuː wɪð Xander.",
+        "exMeaning": "Cô sớm nghe thấy tiếng cười the thé của Toni khi người phụ nữ bắt đầu cuộc phỏng vấn với Xander."
+    },
+    {
+        "word": "squealing",
+        "type": "Adj",
+        "ipa": "ˈskwiːlɪŋ",
+        "meaning": "ré lên",
+        "ex": "I did hear something squealing in the garden.",
+        "ipaExTrans": "aɪ dɪd hɪə ˈsʌmθɪŋ ˈskwiːlɪŋ ɪn ðə ˈgɑːdn.",
+        "exMeaning": "Tôi đã nghe thấy một cái gì đó ré lên trong vườn."
+    },
+    {
+        "word": "hushed",
+        "type": "Adj",
+        "ipa": "hʌʃt",
+        "meaning": "im lặng",
+        "ex": "His voice grew hushed, as if the all-important guests behind each door might hear him.",
+        "ipaExTrans": "hɪz vɔɪs gruː hʌʃt, æz ɪf ði ɔːl-ɪmˈpɔːtənt gɛsts bɪˈhaɪnd iːʧ dɔː maɪt hɪə hɪm.",
+        "exMeaning": "Giọng anh trở nên im lặng, như thể những vị khách quan trọng đằng sau mỗi cánh cửa có thể nghe thấy anh."
+    },
+    {
+        "word": "husky",
+        "type": "Adj",
+        "ipa": "ˈhʌski",
+        "meaning": "khàn khàn",
+        "ex": "He gave a husky laugh at her words.",
+        "ipaExTrans": "hiː geɪv ə ˈhʌski lɑːf æt hɜː wɜːdz.",
+        "exMeaning": "Anh cười khàn khàn trước lời nói của cô."
+    },
+    {
+        "word": "voiceless",
+        "type": "Adj",
+        "ipa": "ˈvɔɪslɪs",
+        "meaning": "vô thanh",
+        "ex": "a voiceless palatal consonant.) In the Latin alphabet, in which Tables VI.",
+        "ipaExTrans": "ə ˈvɔɪslɪs ˈpælətl ˈkɒnsənənt.) ɪn ðə ˈlætɪn ˈælfəbɪt, ɪn wɪʧ ˈteɪblz viː-aɪ.",
+        "exMeaning": "một phụ âm vòm không có tiếng.) Trong bảng chữ cái Latinh, trong đó Bảng VI."
+    },
+    {
+        "word": "resonant",
+        "type": "Adj",
+        "ipa": "ˈrɛznənt",
+        "meaning": "cộng hưởng",
+        "ex": "His commanding presence, mastery of diction, and resonant voice made him an effective platform speaker.",
+        "ipaExTrans": "hɪz kəˈmɑːndɪŋ ˈprɛzns, ˈmɑːstəri ɒv ˈdɪkʃən, ænd ˈrɛznənt vɔɪs meɪd hɪm ən ɪˈfɛktɪv ˈplætfɔːm ˈspiːkə.",
+        "exMeaning": "Sự hiện diện chỉ huy của anh ấy, làm chủ từ điển và giọng nói vang dội khiến anh ấy trở thành một diễn giả nền tảng hiệu quả."
+    }
+]

@@ -1,0 +1,311 @@
+[
+    {
+        "word": "acidic",
+        "type": "Adj",
+        "ipa": "əˈsɪdɪk",
+        "meaning": "có tính axit",
+        "ex": "The whole of the upper part of the cone consists of grey highly acidic lava.",
+        "ipaExTrans": "ðə həʊl ɒv ði ˈʌpə pɑːt ɒv ðə kəʊn kənˈsɪsts ɒv greɪ ˈhaɪli əˈsɪdɪk ˈlɑːvə.",
+        "exMeaning": "Toàn bộ phần trên của hình nón bao gồm dung nham có tính axit cao."
+    },
+    {
+        "word": "bitter",
+        "type": "Adj",
+        "ipa": "ˈbɪtə",
+        "meaning": "đắng",
+        "ex": "It was far too sweet and had a bitter aftertaste.",
+        "ipaExTrans": "ɪt wɒz fɑː tuː swiːt ænd hæd ə ˈbɪtər ˈɑːftəteɪst.",
+        "exMeaning": "Nó quá ngọt ngào và có một dư vị đắng."
+    },
+    {
+        "word": "cool",
+        "type": "Adj",
+        "ipa": "kuːl",
+        "meaning": "mát mẻ",
+        "ex": "She woke to a cool dawn.",
+        "ipaExTrans": "ʃiː wəʊk tuː ə kuːl dɔːn.",
+        "exMeaning": "Cô thức dậy với một bình minh mát mẻ."
+    },
+    {
+        "word": "creamy",
+        "type": "Adj",
+        "ipa": "ˈkriːmi",
+        "meaning": "mịn",
+        "ex": "She wasn't certain she liked them; they clashed with the creamy décor of the apartment.",
+        "ipaExTrans": "ʃiː wɒznt ˈsɜːtn ʃiː laɪkt ðɛm; ðeɪ klæʃt wɪð ðə ˈkriːmi diːékɔːr ɒv ði əˈpɑːtmənt.",
+        "exMeaning": "Cô không chắc mình thích chúng; họ đụng độ với trang trí màu kem của căn hộ."
+    },
+    {
+        "word": "delicious",
+        "type": "Adj",
+        "ipa": "dɪˈlɪʃəs",
+        "meaning": "thơm ngon",
+        "ex": "Delicious dark chocolate eyes twinkled with mirth.",
+        "ipaExTrans": "dɪˈlɪʃəs dɑːk ˈʧɒkəlɪt aɪz ˈtwɪŋkld wɪð mɜːθ.",
+        "exMeaning": "Đôi mắt sô cô la đen ngon tuyệt lấp lánh."
+    },
+    {
+        "word": "disgusting",
+        "type": "Adj",
+        "ipa": "dɪsˈgʌstɪŋ",
+        "meaning": "kinh tởm",
+        "ex": "Well there certainly are disgusting people, thought Rostov as he entered.",
+        "ipaExTrans": "wɛl ðeə ˈsɜːtnli ɑː dɪsˈgʌstɪŋ ˈpiːpl, θɔːt ˈrɒstɒv æz hiː ˈɛntəd.",
+        "exMeaning": "Chà, chắc chắn có những người ghê tởm, nghĩ rằng Rostov khi anh ta bước vào."
+    },
+    {
+        "word": "fresh",
+        "type": "Adj",
+        "ipa": "frɛʃ",
+        "meaning": "tươi",
+        "ex": "I could smell fresh muffins.",
+        "ipaExTrans": "aɪ kʊd smɛl frɛʃ ˈmʌfɪnz.",
+        "exMeaning": "Tôi có thể ngửi thấy bánh nướng xốp tươi."
+    },
+    {
+        "word": "greasy",
+        "type": "Adj",
+        "ipa": "ˈgriːzi",
+        "meaning": "bóng nhờn",
+        "ex": "The diamond has also a somewhat greasy feel.",
+        "ipaExTrans": "ðə ˈdaɪəmənd hæz ˈɔːlsəʊ ə ˈsʌmwɒt ˈgriːzi fiːl.",
+        "exMeaning": "Kim cương cũng có một cảm giác hơi nhờn."
+    },
+    {
+        "word": "juicy",
+        "type": "Adj",
+        "ipa": "ˈʤuːsi",
+        "meaning": "ngon ngọt",
+        "ex": "They like juicy fruit to eat as well as people, and they are hungry.",
+        "ipaExTrans": "ðeɪ laɪk ˈʤuːsi fruːt tuː iːt æz wɛl æz ˈpiːpl, ænd ðeɪ ɑː ˈhʌŋgri.",
+        "exMeaning": "Họ thích trái cây ngon ngọt để ăn cũng như mọi người, và họ đang đói."
+    },
+    {
+        "word": "hot",
+        "type": "Adj",
+        "ipa": "hɒt",
+        "meaning": "nóng bức",
+        "ex": "Sunday dawned a sunny hot July day.",
+        "ipaExTrans": "ˈsʌndeɪ dɔːnd ə ˈsʌni hɒt ʤu(ː)ˈlaɪ deɪ.",
+        "exMeaning": "Chủ nhật bắt đầu một ngày nắng nóng tháng bảy."
+    },
+    {
+        "word": "moldy",
+        "type": "Adj",
+        "ipa": "ˈməʊldi",
+        "meaning": "bị mốc",
+        "ex": "I was afraid it would get moldy in that tin body of yours.",
+        "ipaExTrans": "aɪ wɒz əˈfreɪd ɪt wʊd gɛt ˈməʊldi ɪn ðæt tɪn ˈbɒdi ɒv jɔːz.",
+        "exMeaning": "Tôi sợ nó sẽ bị mốc trong cơ thể thiếc của bạn."
+    },
+    {
+        "word": "nutritious",
+        "type": "Adj",
+        "ipa": "nju(ː)ˈtrɪʃəs",
+        "meaning": "bổ dưỡng",
+        "ex": "It is exceptionally nutritious, but it disappears altogether in the dry season because of its short roots.",
+        "ipaExTrans": "ɪt ɪz ɪkˈsɛpʃənli nju(ː)ˈtrɪʃəs, bʌt ɪt ˌdɪsəˈpɪəz ˌɔːltəˈgɛðər ɪn ðə draɪ ˈsiːzn bɪˈkɒz ɒv ɪts ʃɔːt ruːts.",
+        "exMeaning": "Nó đặc biệt bổ dưỡng, nhưng nó biến mất hoàn toàn trong mùa khô vì rễ ngắn của nó."
+    },
+    {
+        "word": "nutty",
+        "type": "Adj",
+        "ipa": "ˈnʌti",
+        "meaning": "hạt dẻ",
+        "ex": "But I'll be real generous and let the nutty bitch self-destruct.",
+        "ipaExTrans": "bʌt aɪl biː rɪəl ˈʤɛnərəs ænd lɛt ðə ˈnʌti bɪʧ sɛlf-dɪˈstrʌkt.",
+        "exMeaning": "Nhưng tôi sẽ thực sự hào phóng và để cho con chó cái tự sướng."
+    },
+    {
+        "word": "putrid",
+        "type": "Adj",
+        "ipa": "ˈpjuːtrɪd",
+        "meaning": "hư",
+        "ex": "Outside the fort nothing was to be seen but burnt-down houses and putrid bodies.",
+        "ipaExTrans": "ˌaʊtˈsaɪd ðə fɔːt ˈnʌθɪŋ wɒz tuː biː siːn bʌt bɜːnt-daʊn ˈhaʊzɪz ænd ˈpjuːtrɪd ˈbɒdiz.",
+        "exMeaning": "Bên ngoài pháo đài không có gì được nhìn thấy ngoài những ngôi nhà bị thiêu rụi và xác chết."
+    },
+    {
+        "word": "rancid",
+        "type": "Adj",
+        "ipa": "ˈrænsɪd",
+        "meaning": "ôi",
+        "ex": "It does not evaporate or turn rancid, whilst its marked hygroscopic action ensures the moistness and softness of any surface that it covers.",
+        "ipaExTrans": "ɪt dʌz nɒt ɪˈvæpəreɪt ɔː tɜːn ˈrænsɪd, waɪlst ɪts mɑːkt ˌhaɪgrəʊˈskəʊpɪk ˈækʃ(ə)n ɪnˈʃʊəz ðə ˈmɔɪstnəs ænd ˈsɒftnəs ɒv ˈɛni ˈsɜːfɪs ðæt ɪt ˈkʌvəz.",
+        "exMeaning": "Nó không bay hơi hoặc biến thành mùi ôi, trong khi hành động hút ẩm được đánh dấu của nó đảm bảo độ ẩm và độ mềm của bất kỳ bề mặt nào mà nó bao phủ."
+    },
+    {
+        "word": "ripe",
+        "type": "Adj",
+        "ipa": "raɪp",
+        "meaning": "chín",
+        "ex": "The dried ripe seeds of this plant are also used in medicine.",
+        "ipaExTrans": "ðə draɪd raɪp siːdz ɒv ðɪs plɑːnt ɑːr ˈɔːlsəʊ juːzd ɪn ˈmɛdsɪn.",
+        "exMeaning": "Hạt chín khô của cây này cũng được sử dụng trong y học."
+    },
+    {
+        "word": "rotten",
+        "type": "Adj",
+        "ipa": "ˈrɒtn",
+        "meaning": "thối",
+        "ex": "You've spoiled me rotten, you know.",
+        "ipaExTrans": "juːv spɔːɪld miː ˈrɒtn, juː nəʊ.",
+        "exMeaning": "Bạn đã làm hỏng tôi thối, bạn biết đấy."
+    },
+    {
+        "word": "salty",
+        "type": "Adj",
+        "ipa": "ˈsɔːlti",
+        "meaning": "mặn",
+        "ex": "They have a bitter, salty taste.",
+        "ipaExTrans": "ðeɪ hæv ə ˈbɪtə, ˈsɔːlti teɪst.",
+        "exMeaning": "Chúng có vị đắng, mặn."
+    },
+    {
+        "word": "savory",
+        "type": "Adj",
+        "ipa": "ˈseɪvəri",
+        "meaning": "ngon",
+        "ex": "Supper was the usual savory cuisine and pleasant conversation.",
+        "ipaExTrans": "ˈsʌpə wɒz ðə ˈjuːʒʊəl ˈseɪvəri kwi(ː)ˈziːn ænd ˈplɛznt ˌkɒnvəˈseɪʃən.",
+        "exMeaning": "Bữa ăn tối là món ăn mặn thông thường và cuộc trò chuyện thú vị."
+    },
+    {
+        "word": "sour",
+        "type": "Adj",
+        "ipa": "ˈsaʊə",
+        "meaning": "chua",
+        "ex": "He gave her a sour look.",
+        "ipaExTrans": "hiː geɪv hɜːr ə ˈsaʊə lʊk.",
+        "exMeaning": "Anh nhìn cô chua chát."
+    },
+    {
+        "word": "spicy",
+        "type": "Adj",
+        "ipa": "ˈspaɪsi",
+        "meaning": "vị cay",
+        "ex": "They have a spicy flavor I find refreshing.",
+        "ipaExTrans": "ðeɪ hæv ə ˈspaɪsi ˈfleɪvər aɪ faɪnd rɪˈfrɛʃɪŋ.",
+        "exMeaning": "Họ có một hương vị cay tôi thấy tươi mát."
+    },
+    {
+        "word": "spoiled",
+        "type": "Adj",
+        "ipa": "spɔːɪld",
+        "meaning": "hư hỏng",
+        "ex": "I treated you like a spoiled child.",
+        "ipaExTrans": "aɪ ˈtriːtɪd juː laɪk ə spɔːɪld ʧaɪld.",
+        "exMeaning": "Tôi đối xử với bạn như một đứa trẻ hư hỏng."
+    },
+    {
+        "word": "stale",
+        "type": "Adj",
+        "ipa": "steɪl",
+        "meaning": "cũ",
+        "ex": "The room smelled of stale air and mold.",
+        "ipaExTrans": "ðə ruːm smɛld ɒv steɪl eər ænd məʊld.",
+        "exMeaning": "Căn phòng có mùi không khí cũ và nấm mốc."
+    },
+    {
+        "word": "sweet",
+        "type": "Adj",
+        "ipa": "swiːt",
+        "meaning": "ngọt",
+        "ex": "It had a sweet smell.",
+        "ipaExTrans": "ɪt hæd ə swiːt smɛl.",
+        "exMeaning": "Nó có mùi ngọt ngào."
+    },
+    {
+        "word": "tangy",
+        "type": "Adj",
+        "ipa": "ˈtæŋi",
+        "meaning": "rối",
+        "ex": "It certainly tasted like beef, though the tangy spices were unfamiliar.",
+        "ipaExTrans": "ɪt ˈsɜːtnli ˈteɪstɪd laɪk biːf, ðəʊ ðə ˈtæŋi ˈspaɪsɪz wɜːr ˌʌnfəˈmɪliə.",
+        "exMeaning": "Nó chắc chắn có vị như thịt bò, mặc dù các loại gia vị lộn xộn không quen thuộc."
+    },
+    {
+        "word": "tart",
+        "type": "Adj",
+        "ipa": "tɑːt",
+        "meaning": "Chua cay",
+        "ex": "Then coughed at the tart aftertaste.",
+        "ipaExTrans": "ðɛn kɒft æt ðə tɑːt ˈɑːftəteɪst.",
+        "exMeaning": "Sau đó ho vào dư vị tart."
+    },
+    {
+        "word": "tasteless",
+        "type": "Adj",
+        "ipa": "ˈteɪstlɪs",
+        "meaning": "vô vị",
+        "ex": "Oxygen is a colourless, odourless and tasteless gas.",
+        "ipaExTrans": "ˈɒksɪʤən ɪz ə ˈkʌləlɪs, ˈəʊdəlɪs ænd ˈteɪstlɪs gæs.",
+        "exMeaning": "Oxy là một loại khí không màu, không mùi và không vị."
+    },
+    {
+        "word": "tasty",
+        "type": "Adj",
+        "ipa": "ˈteɪsti",
+        "meaning": "ngon",
+        "ex": "It wasn't tasty, but at least it was palatable.",
+        "ipaExTrans": "ɪt wɒznt ˈteɪsti, bʌt æt liːst ɪt wɒz ˈpælətəbl.",
+        "exMeaning": "Nó không ngon, nhưng ít nhất là nó ngon miệng."
+    },
+    {
+        "word": "yummy",
+        "type": "Adj",
+        "ipa": "ˈjʌmi",
+        "meaning": "ngon ngon",
+        "ex": "Treat yourself to a yummy espresso shake any time of day.",
+        "ipaExTrans": "triːt jɔːˈsɛlf tuː ə ˈjʌmi ɛˈsprɛsəʊ ʃeɪk ˈɛni taɪm ɒv deɪ.",
+        "exMeaning": "Hãy tự thưởng cho mình một ly espresso ngon tuyệt bất cứ lúc nào trong ngày."
+    },
+    {
+        "word": "lemon-flavored",
+        "type": "Adj",
+        "ipa": "ˈlɛmən-ˈfleɪvəd",
+        "meaning": "hương vị chanh"
+    },
+    {
+        "word": "bland",
+        "type": "Adj",
+        "ipa": "blænd",
+        "meaning": "dịu dàng",
+        "ex": "The rice and beans were bland until mixed together.",
+        "ipaExTrans": "ðə raɪs ænd biːnz wɜː blænd ənˈtɪl mɪkst təˈgɛðə.",
+        "exMeaning": "Gạo và đậu nhạt nhẽo cho đến khi trộn lẫn với nhau."
+    },
+    {
+        "word": "minty",
+        "type": "Adj",
+        "ipa": "minty",
+        "meaning": "bạc hà",
+        "ex": "Sweet, minty and warm, it was comforting at a time when she felt rattled.",
+        "ipaExTrans": "swiːt, minty ænd wɔːm, ɪt wɒz ˈkʌmfətɪŋ æt ə taɪm wɛn ʃiː fɛlt ˈrætld.",
+        "exMeaning": "Ngọt ngào, bạc hà và ấm áp, thật thoải mái vào lúc cô cảm thấy rợn người."
+    },
+    {
+        "word": "pickled",
+        "type": "Adj",
+        "ipa": "ˈpɪkld",
+        "meaning": "dưa chua",
+        "ex": "Large quantities are consumed fresh, but many are pickled or smoked and others prepared like anchovies.",
+        "ipaExTrans": "lɑːʤ ˈkwɒntɪtiz ɑː kənˈsjuːmd frɛʃ, bʌt ˈmɛni ɑː ˈpɪkld ɔː sməʊkt ænd ˈʌðəz prɪˈpeəd laɪk ˈænʧəviz.",
+        "exMeaning": "Số lượng lớn được tiêu thụ tươi, nhưng nhiều người được ngâm hoặc hun khói và những người khác được chuẩn bị như cá cơm."
+    },
+    {
+        "word": "fruity",
+        "type": "Adj",
+        "ipa": "ˈfruːti",
+        "meaning": "trái cây",
+        "ex": "This wine has a delicious fruity flavour.",
+        "ipaExTrans": "ðɪs waɪn hæz ə dɪˈlɪʃəs ˈfruːti ˈfleɪvə.",
+        "exMeaning": "Rượu này có hương vị trái cây ngon."
+    },
+    {
+        "word": "gingery",
+        "type": "Adj",
+        "ipa": "ˈʤɪnʤəri",
+        "meaning": "nướu"
+    }
+]

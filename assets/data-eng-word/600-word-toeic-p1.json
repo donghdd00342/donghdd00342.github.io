@@ -1,0 +1,383 @@
+[
+    {
+        "word": "conference",
+        "type": "danh từ",
+        "ipa": "ˈkɒnfərəns",
+        "meaning": "hội thảo",
+        "tag": "Chủ đề CONFERENCES",
+        "ex": "They ​frequently ​hold conferences at that ​hotel.",
+        "ipaExTrans": "ðeɪ ​ˈfriːkwəntli ​həʊld ˈkɒnfərənsɪz æt ðæt ​həʊˈtɛl.",
+        "exMeaning": "Họ thường tổ chức hội thảo ở khách sạn đó."
+    },
+    {
+        "word": "accommodate",
+        "type": "động từ",
+        "ipa": "əˈkɒmədeɪt",
+        "meaning": "đáp ứng, cung cấp chỗ ở",
+        "tag": "Chủ đề CONFERENCES",
+        "context": "accommodation (danh từ)(Nghĩa 1) chỗ ở (Nghĩa 2) nơi ở, chỗ ở; accommodating (tính từ)sẵn sàng giúp đỡ",
+        "ex": "The car park can accommodate about 200 cars.",
+        "ipaExTrans": "ðə kɑː pɑːk kæn əˈkɒmədeɪt əˈbaʊt 200 kɑːz.",
+        "exMeaning": "Bãi đậu xe nay có thể chứa được khoảng 200 chiếc xe."
+    },
+    {
+        "word": "arrange",
+        "type": "động từ",
+        "ipa": "əˈreɪnʤ",
+        "meaning": "sắp xếp",
+        "tag": "Chủ đề CONFERENCES",
+        "context": "arrangement (danh từ)sự sắp xếp, kế hoạch",
+        "ex": "Have you arranged to meet him?",
+        "ipaExTrans": "hæv juː əˈreɪnʤd tuː miːt hɪm?",
+        "exMeaning": "Bạn đã sắp xếp để gặp anh ta chưa?"
+    },
+    {
+        "word": "associate",
+        "type": "động từ",
+        "ipa": "əˈsəʊʃɪɪt",
+        "meaning": "liên tưởng, liên kết",
+        "tag": "Chủ đề CONFERENCES",
+        "context": "associated (tính từ)liên kết, đi cùng; association (danh từ)(Nghĩa 1) sự liên kết, mối quan hệ; (Nghĩa 3) sự liên tưởng",
+        "ex": "I always associate the smell of baking with my childhood.",
+        "ipaExTrans": "aɪ ˈɔːlweɪz əˈsəʊʃɪɪt ðə smɛl ɒv ˈbeɪkɪŋ wɪð maɪ ˈʧaɪldhʊd.",
+        "exMeaning": "Tôi luôn liên tưởng mùi bánh nướng với tuổi thơ của mình."
+    },
+    {
+        "word": "attend",
+        "type": "động từ",
+        "ipa": "əˈtɛnd",
+        "meaning": "tham gia",
+        "tag": "Chủ đề CONFERENCES",
+        "context": "attendance (danh từ)số người tham dự; attendee (danh từ)người tham dự",
+        "ex": "Over two hundred ​people attended the ​funeral.",
+        "ipaExTrans": "ˈəʊvə tuː ˈhʌndrəd ​ˈpiːpl əˈtɛndɪd ðiː ​ˈfjuːnərəl.",
+        "exMeaning": "Hơn 200 người tham dự tang lễ."
+    },
+    {
+        "word": "get in touch",
+        "type": "động từ",
+        "ipa": "gɛt ɪn tʌʧ",
+        "meaning": "liên lạc",
+        "tag": "Chủ đề CONFERENCES",
+        "ex": "I'm trying to get in touch with Jane.",
+        "ipaExTrans": "aɪm ˈtraɪɪŋ tuː gɛt ɪn tʌʧ wɪð ʤeɪn.",
+        "exMeaning": "Tôi đang cố liên lạc với Jane."
+    },
+    {
+        "word": "hold",
+        "type": "động từ",
+        "ipa": "həʊld",
+        "meaning": "cầm, nắm",
+        "tag": "Chủ đề CONFERENCES",
+        "context": "hold (danh từ) (Nghĩa 1) sự nắm giữ (Nghĩa 3) (nghĩa bóng) sự ảnh hưởng, kiểm soát",
+        "ex": "She was holding a large box.",
+        "ipaExTrans": "ʃiː wɒz ˈhəʊldɪŋ ə lɑːʤ bɒks.",
+        "exMeaning": "Cô ấy cầm một chiếc hộp lớn."
+    },
+    {
+        "word": "locate",
+        "type": "động từ",
+        "ipa": "ləʊˈkeɪt",
+        "meaning": "xác định vị trí, đặt để",
+        "tag": "Chủ đề CONFERENCES",
+        "context": "located (tính từ)tọa lạc, ở tại; location (danh từ)vị trí",
+        "ex": "Rescue planes are trying to locate the missing sailors.",
+        "ipaExTrans": "ˈrɛskjuː pleɪnz ɑː ˈtraɪɪŋ tuː ləʊˈkeɪt ðə ˈmɪsɪŋ ˈseɪləz.",
+        "exMeaning": "Máy bay cứu hộ đang cố gắng để xác định vị trí của những thủy thủ mất tích."
+    },
+    {
+        "word": "overcrowded",
+        "type": "tính từ",
+        "ipa": "ˌəʊvəˈkraʊdɪd",
+        "meaning": "quá đông",
+        "tag": "Chủ đề CONFERENCES",
+        "context": "overcrowding (danh từ)sự đông đúc",
+        "ex": "Too many poor people are living in overcrowded conditions.",
+        "ipaExTrans": "tuː ˈmɛni pʊə ˈpiːpl ɑː ˈlɪvɪŋ ɪn ˌəʊvəˈkraʊdɪd kənˈdɪʃənz.",
+        "exMeaning": "Rất nhiều người nghèo đang sống trong tình trạng quá đông đúc."
+    },
+    {
+        "word": "register",
+        "type": "động từ",
+        "ipa": "ˈrɛʤɪstə",
+        "meaning": "đăng ký",
+        "tag": "Chủ đề CONFERENCES",
+        "context": "registration (danh từ)sự đăng ký; register (danh từ)(Nghĩa 1) sổ sách ghi chép, danh sách (Nghĩa 3) quãng âm",
+        "ex": "I registered the ​car in my ​name.",
+        "ipaExTrans": "aɪ ˈrɛʤɪstəd ðiː ​kɑːr ɪn maɪ ​neɪm.",
+        "exMeaning": "Tôi đăng ký chiếc xe bằng tên của mình."
+    },
+    {
+        "word": "select",
+        "type": "động từ",
+        "ipa": "sɪˈlɛkt",
+        "meaning": "chọn",
+        "tag": "Chủ đề CONFERENCES",
+        "context": "selection (danh từ)(Nghĩa 1) sự chọn lựa; selective (tính từ)chọn lựa cẩn thận",
+        "ex": "How do you select ​people for ​promotion?",
+        "ipaExTrans": "haʊ duː juː sɪˈlɛkt ​ˈpiːpl fɔː ​prəˈməʊʃən?",
+        "exMeaning": "Anh làm như thế nào để chọn người để thăng chức?"
+    },
+    {
+        "word": "session",
+        "type": "danh từ",
+        "ipa": "ˈsɛʃən",
+        "meaning": "buổi, phiên họp",
+        "tag": "Chủ đề CONFERENCES",
+        "ex": "The course is made up of 12 two-hour sessions.",
+        "ipaExTrans": "ðə kɔːs ɪz meɪd ʌp ɒv 12 tuː-ˈaʊə ˈsɛʃənz.",
+        "exMeaning": "Khóa học bao gồm 12 buổi, mỗi buổi 2 tiếng."
+    },
+    {
+        "word": "take part in",
+        "type": "động từ",
+        "ipa": "teɪk pɑːt ɪn",
+        "meaning": "tham gia",
+        "tag": "Chủ đề CONFERENCES",
+        "ex": "How many countries took part in the last Olympic Games?",
+        "ipaExTrans": "haʊ ˈmɛni ˈkʌntriz tʊk pɑːt ɪn ðə lɑːst əʊˈlɪmpɪk geɪmz?",
+        "exMeaning": "Có bao nhiêu nước tham gia Thế vận hội Olympic lần trước?"
+    },
+    {
+        "word": "accounting",
+        "type": "danh từ",
+        "ipa": "əˈkaʊntɪŋ",
+        "meaning": "sự tính toán, kế toán",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "account (n); accountant (danh từ) kế toán viên"
+    },
+    {
+        "word": "accumulate",
+        "type": "động từ",
+        "ipa": "əˈkjuːmjʊleɪt",
+        "meaning": "tích lũy",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "accumulation (danh từ): sự gia tăng, tích lũy; accumulative (tính từ): tích lũy được, gia tăng",
+        "ex": "Debts began to accumulate.",
+        "ipaExTrans": "dɛts bɪˈgæn tuː əˈkjuːmjʊleɪt.",
+        "exMeaning": "Các khoản nợ bắt đầu tích lũy lại."
+    },
+    {
+        "word": "audit",
+        "type": "động từ",
+        "ipa": "ˈɔːdɪt",
+        "meaning": "kiểm toán",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "audit (danh từ)(Nghĩa 1) sự kiểm toán (Nghĩa 2) sự kiểm tra, kiểm định; auditor (danh từ)kiểm toán viên",
+        "ex": "The accounts are audited annually.",
+        "ipaExTrans": "ði əˈkaʊnts ɑːr ˈɔːdɪtɪd ˈænjʊəli.",
+        "exMeaning": "Sổ sách được kiểm toán hàng năm."
+    },
+    {
+        "word": "budget",
+        "type": "động từ",
+        "ipa": "ˈbʌʤɪt",
+        "meaning": "dự thảo ngân sách",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "budget (danh từ)ngân sách; budgetary (tính từ)thuộc ngân sách",
+        "ex": "I've budgeted for two new members of staff.",
+        "ipaExTrans": "aɪv ˈbʌʤɪtɪd fɔː tuː njuː ˈmɛmbəz ɒv stɑːf.",
+        "exMeaning": "Tôi đã dự thảo ngân sách để thuê thêm hai nhân viên mới."
+    },
+    {
+        "word": "asset",
+        "type": "danh từ",
+        "ipa": "ˈæsɛt",
+        "meaning": "tài sản, vật có giá trị",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "assessor (danh từ)người định giá, thẩm định viên",
+        "ex": "Her assets include shares in the company and a house in France.",
+        "ipaExTrans": "hɜːr ˈæsɛts ɪnˈkluːd ʃeəz ɪn ðə ˈkʌmpəni ænd ə haʊs ɪn ˈfrɑːns.",
+        "exMeaning": "Tài sản của cô ấy bao gồm cổ phần ở công ty và một ngôi nhà ở Pháp."
+    },
+    {
+        "word": "client",
+        "type": "danh từ",
+        "ipa": "ˈklaɪənt",
+        "meaning": "khách hàng",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "clientele (danh từ)nhóm khách hàng",
+        "ex": "The company needs to focus on its biggest clients.",
+        "ipaExTrans": "ðə ˈkʌmpəni niːdz tuː ˈfəʊkəs ɒn ɪts ˈbɪgɪst ˈklaɪənts.",
+        "exMeaning": "Công ty này cần phải chú trọng vào những khách hàng lớn nhất."
+    },
+    {
+        "word": "build up",
+        "type": "cụm động từ",
+        "ipa": "bɪld ʌp",
+        "meaning": "xây dựng, phát triển",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "build-up (danh từ)sự tích lũy, sự gia tăng",
+        "ex": "We’ve built up good relationships with our clients.",
+        "ipaExTrans": "wiːv bɪlt ʌp gʊd rɪˈleɪʃənʃɪps wɪð ˈaʊə ˈklaɪənts.",
+        "exMeaning": "Chúng tôi xây dựng những mối quan hệ tốt với khách hàng."
+    },
+    {
+        "word": "debt",
+        "type": "danh từ",
+        "ipa": "dɛt",
+        "meaning": "món nợ",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "debtor (danh từ)con nợ, người mắc nợ",
+        "ex": "I need to pay off all my debts before I leave the country.",
+        "ipaExTrans": "aɪ niːd tuː peɪ ɒf ɔːl maɪ dɛts bɪˈfɔːr aɪ liːv ðə ˈkʌntri.",
+        "exMeaning": "Tôi cần trả hết các món nợ trước khi rời khỏi nước."
+    },
+    {
+        "word": "outstanding",
+        "type": "tính từ",
+        "ipa": "aʊtˈstændɪŋ",
+        "meaning": "cực kỳ tốt; xuất sắc",
+        "tag": "Chủ để ACCOUNTING"
+    },
+    {
+        "word": "profit",
+        "type": "động từ",
+        "ipa": "ˈprɒfɪt",
+        "meaning": "thu lợi, đem lại lợi ích",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "profitable (tính từ)có lợi, có ích; profit (danh từ)lợi nhuận; profitably (trạng từ)một cách có lợi, một cách có ích",
+        "ex": "Farmers are profiting from the new legislation.",
+        "ipaExTrans": "ˈfɑːməz ɑː ˈprɒfɪtɪŋ frɒm ðə njuː ˌlɛʤɪsˈleɪʃən.",
+        "exMeaning": "Nông dân đang thu lợi từ điều luật mới."
+    },
+    {
+        "word": "reconcile",
+        "type": "động từ",
+        "ipa": "ˈrɛkənsaɪl",
+        "meaning": "hòa giải, dung hòa",
+        "tag": "Chủ để ACCOUNTING",
+        "context": "reconcilable (tính từ)có thể dung hòa, không mâu thuẫn; reconciliation (danh từ)sự hòa giải, sự dung hòa",
+        "ex": "We are still trying to reconcile the needs of the two groups.",
+        "ipaExTrans": "wiː ɑː stɪl ˈtraɪɪŋ tuː ˈrɛkənsaɪl ðə niːdz ɒv ðə tuː gruːps.",
+        "exMeaning": "Chúng tôi vẫn đang cố dung hòa nhu cầu của hai nhóm."
+    },
+    {
+        "word": "turnover",
+        "type": "danh từ",
+        "ipa": "ˈtɜːnˌəʊvə",
+        "meaning": "doanh thu, doanh số",
+        "tag": "Chủ để ACCOUNTING",
+        "ex": "The business has an annual turnover of £50000.",
+        "ipaExTrans": "ðə ˈbɪznɪs hæz ən ˈænjʊəl ˈtɜːnˌəʊvər ɒv £50000.",
+        "exMeaning": "Công ty này có doanh thu hàng năm là £50000."
+    },
+    {
+        "word": "deal with",
+        "type": "cụm động từ",
+        "ipa": "diːl wɪð",
+        "meaning": "giải quyết, xử lý",
+        "tag": "Chủ đề AIRLINES",
+        "ex": "Ticket agents must deal with angry customers.",
+        "ipaExTrans": "ˈtɪkɪt ˈeɪʤənts mʌst diːl wɪð ˈæŋgri ˈkʌstəməz.",
+        "exMeaning": "Nhân viên đại lý vé cần giải quyết với những khách hàng giận dữ."
+    },
+    {
+        "word": "excursion",
+        "type": "danh từ",
+        "ipa": "ɪksˈkɜːʃən",
+        "meaning": "cuộc du ngoạn, chuyến tham quan",
+        "tag": "Chủ đề AIRLINES",
+        "ex": "They've gone on an excursion to York.",
+        "ipaExTrans": "ðeɪv gɒn ɒn ən ɪksˈkɜːʃən tuː jɔːk.",
+        "exMeaning": "Họ thực hiện một chuyến du ngoạn tới York."
+    },
+    {
+        "word": "expense",
+        "type": "danh từ",
+        "ipa": "ɪksˈpɛns",
+        "meaning": "số tiền bỏ ra cho một việc gì; chi phí",
+        "tag": "Chủ đề AIRLINES",
+        "context": "expensively (trạng từ)một cách đắt đỏ; expensive (tính từ)đắt tiền",
+        "ex": "The results are well worth the expense.",
+        "ipaExTrans": "ðə rɪˈzʌlts ɑː wɛl wɜːθ ði ɪksˈpɛns.",
+        "exMeaning": "Những kết quả hoàn toàn xứng đáng với số tiền đã bỏ ra."
+    },
+    {
+        "word": "destination",
+        "type": "danh từ",
+        "ipa": "ˌdɛstɪˈneɪʃən",
+        "meaning": "đích đến",
+        "tag": "Chủ đề AIRLINES",
+        "ex": "This reef is a popular tourist destination this year.",
+        "ipaExTrans": "ðɪs riːf ɪz ə ˈpɒpjʊlə ˈtʊərɪst ˌdɛstɪˈneɪʃən ðɪs jɪə.",
+        "exMeaning": "Rặng san hô này là một địa điểm du lịch ăn khách trong năm nay."
+    },
+    {
+        "word": "distinguish",
+        "type": "động từ",
+        "ipa": "dɪsˈtɪŋgwɪʃ",
+        "meaning": "phân biệt",
+        "tag": "Chủ đề AIRLINES",
+        "context": "distinguishable (tính từ)có thể phân biệt được",
+        "ex": "I can't distinguish him from his twin brother.",
+        "ipaExTrans": "aɪ kɑːnt dɪsˈtɪŋgwɪʃ hɪm frɒm hɪz twɪn ˈbrʌðə.",
+        "exMeaning": "Tôi không thể phân biệt anh ta với người anh song sinh."
+    },
+    {
+        "word": "economize",
+        "type": "động từ",
+        "ipa": "i(ː)ˈkɒnəmaɪz",
+        "meaning": "tiết kiệm",
+        "tag": "Chủ đề AIRLINES",
+        "context": "economically (trạng từ)một cách tiết kiệm; economical (tính từ)tiết kiệm, kinh tế",
+        "ex": "The only choice we have is to economize on food.",
+        "ipaExTrans": "ði ˈəʊnli ʧɔɪs wiː hæv ɪz tuː i(ː)ˈkɒnəmaɪz ɒn fuːd.",
+        "exMeaning": "Lựa chọn duy nhất chúng ta có là tiết kiệm chi phí ăn uống."
+    },
+    {
+        "word": "equivalent",
+        "type": "tính từ",
+        "ipa": "ɪˈkwɪvələnt",
+        "meaning": "tương đương",
+        "tag": "Chủ đề AIRLINES",
+        "context": "equivalent (danh từ)vật tương đương, từ tương đương",
+        "ex": "In some ways their prime minister is equivalent to our president.",
+        "ipaExTrans": "ɪn sʌm weɪz ðeə praɪm ˈmɪnɪstər ɪz ɪˈkwɪvələnt tuː ˈaʊə ˈprɛzɪdənt.",
+        "exMeaning": "Ở một số khía cạnh thủ tướng của họ tương đương với tổng thống của ta."
+    },
+    {
+        "word": "extend",
+        "type": "động từ",
+        "ipa": "ɪksˈtɛnd",
+        "meaning": "mở rộng, kéo dài",
+        "tag": "Chủ đề AIRLINES",
+        "context": "extensive (tính từ)lớn về số lượng, có phạm vi rộng; extent (danh từ)quy mô, mức độ",
+        "ex": "Careful maintenance can extend the life of your car.",
+        "ipaExTrans": "ˈkeəfʊl ˈmeɪntənəns kæn ɪksˈtɛnd ðə laɪf ɒv jɔː kɑː.",
+        "exMeaning": "Việc bảo trì cẩn thận có thể kéo dài tuổi thọ chiếc xe của bạn."
+    },
+    {
+        "word": "prospective",
+        "type": "tính từ",
+        "ipa": "prəsˈpɛktɪv",
+        "meaning": "thuộc tương lai",
+        "tag": "Chủ đề AIRLINES",
+        "context": "prospect (danh từ)(Nghĩa 1) triển vọng (Nghĩa 3) viễn cảnh; triển vọng",
+        "ex": "I had a phone call from a prospective client today.",
+        "ipaExTrans": "aɪ hæd ə fəʊn kɔːl frɒm ə prəsˈpɛktɪv ˈklaɪənt təˈdeɪ.",
+        "exMeaning": "Hôm nay tôi nhận được cuộc gọi từ một khách hàng tiềm năng."
+    },
+    {
+        "word": "situation",
+        "type": "danh từ",
+        "ipa": "ˌsɪtjʊˈeɪʃən",
+        "meaning": "tình huống",
+        "tag": "Chủ đề AIRLINES",
+        "context": "situational (tính từ)thuộc hoàn cảnh",
+        "ex": "In your situation, I would look for another job.",
+        "ipaExTrans": "ɪn jɔː ˌsɪtjʊˈeɪʃən, aɪ wʊd lʊk fɔːr əˈnʌðə ʤɒb.",
+        "exMeaning": "Trong tình huống của bạn, tôi sẽ tìm một công việc khác."
+    },
+    {
+        "word": "substance",
+        "type": "danh từ",
+        "ipa": "ˈsʌbstəns",
+        "meaning": "loại vật chất nào đó",
+        "tag": "Chủ đề AIRLINES",
+        "context": "substantially (trạng từ)một cách đáng kể; substantial (tính từ)lớn lao, quan trọng",
+        "ex": "Some frogs produce toxic substances in their skin.",
+        "ipaExTrans": "sʌm frɒgz ˈprɒdjuːs ˈtɒksɪk ˈsʌbstənsɪz ɪn ðeə skɪn.",
+        "exMeaning": "Vài loài cóc tạo ra chất độc trên da."
+    }
+]

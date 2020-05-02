@@ -1,0 +1,326 @@
+[
+    {
+        "word": "all",
+        "type": "Adj",
+        "ipa": "ɔːl",
+        "meaning": "tất cả",
+        "ex": "First of all, I wasn't the only one involved.",
+        "ipaExTrans": "fɜːst ɒv ɔːl, aɪ wɒznt ði ˈəʊnli wʌn ɪnˈvɒlvd.",
+        "exMeaning": "Trước hết, tôi không phải là người duy nhất tham gia."
+    },
+    {
+        "word": "heavy",
+        "type": "Adj",
+        "ipa": "ˈhɛvi",
+        "meaning": "nặng",
+        "ex": "The suitcase didn't seem that heavy at the time.",
+        "ipaExTrans": "ðə ˈsjuːtkeɪs dɪdnt siːm ðæt ˈhɛvi æt ðə taɪm.",
+        "exMeaning": "Chiếc vali dường như không nặng vào thời điểm đó."
+    },
+    {
+        "word": "one",
+        "type": "Adj",
+        "ipa": "wʌn",
+        "meaning": "một",
+        "ex": "One person cannot be called 'people,' said the Sorcerer.",
+        "ipaExTrans": "wʌn ˈpɜːsn ˈkænɒt biː kɔːld ˈpiːpl,' sɛd ðə ˈsɔːsərə.",
+        "exMeaning": "Một người không thể được gọi là 'người', Pháp sư nói."
+    },
+    {
+        "word": "ample",
+        "type": "Adj",
+        "ipa": "ˈæmpl",
+        "meaning": "Phong phú",
+        "ex": "I've left ample stores of food and water for you.",
+        "ipaExTrans": "aɪv lɛft ˈæmpl stɔːz ɒv fuːd ænd ˈwɔːtə fɔː juː.",
+        "exMeaning": "Tôi đã để lại nhiều cửa hàng thực phẩm và nước cho bạn."
+    },
+    {
+        "word": "hundreds",
+        "type": "Adj",
+        "ipa": "ˈhʌndrədz",
+        "meaning": "hàng trăm",
+        "ex": "We're hundreds of miles from Parkside.",
+        "ipaExTrans": "wɪə ˈhʌndrədz ɒv maɪlz frɒm Parkside.",
+        "exMeaning": "Chúng tôi hàng trăm dặm từ Parkside."
+    },
+    {
+        "word": "paltry",
+        "type": "Adj",
+        "ipa": "ˈpɔːltri",
+        "meaning": "không đáng kể",
+        "ex": "Human griefs seem little worth assuaging; human happiness too paltry (at the best) to be worth increasing.",
+        "ipaExTrans": "ˈhjuːmən griːfs siːm ˈlɪtl wɜːθ əˈsweɪʤɪŋ; ˈhjuːmən ˈhæpɪnɪs tuː ˈpɔːltri (æt ðə bɛst) tuː biː wɜːθ ɪnˈkriːsɪŋ.",
+        "exMeaning": "Nỗi đau buồn của con người dường như ít có giá trị; hạnh phúc của con người quá nhạt nhẽo (tốt nhất) để có giá trị gia tăng."
+    },
+    {
+        "word": "astronomical",
+        "type": "Adj",
+        "ipa": "ˌæstrəˈnɒmɪkəl",
+        "meaning": "thiên văn",
+        "ex": "The odds against the coincidence were astronomical, until I considered the facts.",
+        "ipaExTrans": "ði ɒdz əˈgɛnst ðə kəʊˈɪnsɪdəns wɜːr ˌæstrəˈnɒmɪkəl, ənˈtɪl aɪ kənˈsɪdəd ðə fækts.",
+        "exMeaning": "Các tỷ lệ cược chống lại sự trùng hợp là thiên văn, cho đến khi tôi xem xét các sự kiện."
+    },
+    {
+        "word": "large",
+        "type": "Adj",
+        "ipa": "lɑːʤ",
+        "meaning": "lớn",
+        "ex": "His large eyes were bright and snappy.",
+        "ipaExTrans": "hɪz lɑːʤ aɪz wɜː braɪt ænd ˈsnæpi.",
+        "exMeaning": "Đôi mắt to của anh sáng ngời."
+    },
+    {
+        "word": "plentiful",
+        "type": "Adj",
+        "ipa": "ˈplɛntɪf(ə)l",
+        "meaning": "dồi dào",
+        "ex": "The sky was dark, the stars plentiful and bright.",
+        "ipaExTrans": "ðə skaɪ wɒz dɑːk, ðə stɑːz ˈplɛntɪf(ə)l ænd braɪt.",
+        "exMeaning": "Bầu trời tối đen, những ngôi sao dồi dào và tươi sáng."
+    },
+    {
+        "word": "bountiful",
+        "type": "Adj",
+        "ipa": "ˈbaʊntɪfʊl",
+        "meaning": "bội thu",
+        "ex": "So let's say the large corn farms all have a great year and a bountiful crop comes forth.",
+        "ipaExTrans": "səʊ lɛts seɪ ðə lɑːʤ kɔːn fɑːmz ɔːl hæv ə greɪt jɪər ænd ə ˈbaʊntɪfʊl krɒp kʌmz fɔːθ.",
+        "exMeaning": "Vì vậy, hãy nói rằng các trang trại ngô lớn đều có một năm tuyệt vời và một vụ mùa bội thu xuất hiện."
+    },
+    {
+        "word": "light",
+        "type": "Adj",
+        "ipa": "laɪt",
+        "meaning": "ánh sáng",
+        "ex": "She handed him a light blue shirt.",
+        "ipaExTrans": "ʃiː ˈhændɪd hɪm ə laɪt bluː ʃɜːt.",
+        "exMeaning": "Cô đưa cho anh chiếc áo màu xanh nhạt."
+    },
+    {
+        "word": "profuse",
+        "type": "Adj",
+        "ipa": "prəˈfjuːs",
+        "meaning": "thông thạo",
+        "ex": "He breaks out into profuse sweats and may vomit.",
+        "ipaExTrans": "hiː breɪks aʊt ˈɪntuː prəˈfjuːs swɛts ænd meɪ ˈvɒmɪt.",
+        "exMeaning": "Anh toát mồ hôi đầm đìa và có thể nôn mửa."
+    },
+    {
+        "word": "considerable",
+        "type": "Adj",
+        "ipa": "kənˈsɪdərəbl",
+        "meaning": "đáng kể",
+        "ex": "His note pad was ever present and he spent a considerable amount of time on the phone.",
+        "ipaExTrans": "hɪz nəʊt pæd wɒz ˈɛvə ˈprɛznt ænd hiː spɛnt ə kənˈsɪdərəbl əˈmaʊnt ɒv taɪm ɒn ðə fəʊn.",
+        "exMeaning": "Bảng ghi chú của anh ấy đã từng có mặt và anh ấy đã dành một khoảng thời gian đáng kể cho điện thoại."
+    },
+    {
+        "word": "limited",
+        "type": "Adj",
+        "ipa": "ˈlɪmɪtɪd",
+        "meaning": "hạn chế",
+        "ex": "After a few hours of limited rest, they were back in the saddle again.",
+        "ipaExTrans": "ˈɑːftər ə fjuː ˈaʊəz ɒv ˈlɪmɪtɪd rɛst, ðeɪ wɜː bæk ɪn ðə ˈsædl əˈgɛn.",
+        "exMeaning": "Sau vài giờ nghỉ ngơi hạn chế, họ lại trở lại trong yên xe."
+    },
+    {
+        "word": "several",
+        "type": "Adj",
+        "ipa": "ˈsɛvrəl",
+        "meaning": "một số",
+        "ex": "After several rings, it went to the message.",
+        "ipaExTrans": "ˈɑːftə ˈsɛvrəl rɪŋz, ɪt wɛnt tuː ðə ˈmɛsɪʤ.",
+        "exMeaning": "Sau vài hồi chuông, nó đi đến tin nhắn."
+    },
+    {
+        "word": "copious",
+        "type": "Adj",
+        "ipa": "ˈkəʊpiəs",
+        "meaning": "nhiều",
+        "ex": "Jackson wrote copious notes.",
+        "ipaExTrans": "ˈʤæksən rəʊt ˈkəʊpiəs nəʊts.",
+        "exMeaning": "Jackson viết nhiều ghi chú."
+    },
+    {
+        "word": "little",
+        "type": "Adj",
+        "ipa": "ˈlɪtl",
+        "meaning": "ít",
+        "ex": "The little man shook his bald head.",
+        "ipaExTrans": "ðə ˈlɪtl mæn ʃʊk hɪz bɔːld hɛd.",
+        "exMeaning": "Người đàn ông nhỏ bé lắc đầu hói."
+    },
+    {
+        "word": "sizable",
+        "type": "Adj",
+        "ipa": "ˈsaɪzəbl",
+        "meaning": "khá lớn",
+        "ex": "There was already a sizable gap between her wagon and the one in front of her.",
+        "ipaExTrans": "ðeə wɒz ɔːlˈrɛdi ə ˈsaɪzəbl gæp bɪˈtwiːn hɜː ˈwægən ænd ðə wʌn ɪn frʌnt ɒv hɜː.",
+        "exMeaning": "Đã có một khoảng cách khá lớn giữa toa xe của cô ấy và cái trước mặt cô ấy."
+    },
+    {
+        "word": "countless",
+        "type": "Adj",
+        "ipa": "ˈkaʊntlɪs",
+        "meaning": "vô số",
+        "ex": "He had twenty assassins to rescue and countless souls waiting to be claimed.",
+        "ipaExTrans": "hiː hæd ˈtwɛnti əˈsæsɪnz tuː ˈrɛskjuː ænd ˈkaʊntlɪs səʊlz ˈweɪtɪŋ tuː biː kleɪmd.",
+        "exMeaning": "Anh ta có hai mươi sát thủ để giải cứu và vô số linh hồn đang chờ được nhận."
+    },
+    {
+        "word": "many",
+        "type": "Adj",
+        "ipa": "ˈmɛni",
+        "meaning": "nhiều",
+        "ex": "You ask too many questions.",
+        "ipaExTrans": "juː ɑːsk tuː ˈmɛni ˈkwɛsʧənz.",
+        "exMeaning": "Bạn hỏi quá nhiều câu hỏi."
+    },
+    {
+        "word": "some",
+        "type": "Adj",
+        "ipa": "sʌm",
+        "meaning": "một số",
+        "ex": "Now go home and get some rest.",
+        "ipaExTrans": "naʊ gəʊ həʊm ænd gɛt sʌm rɛst.",
+        "exMeaning": "Bây giờ về nhà và nghỉ ngơi."
+    },
+    {
+        "word": "each",
+        "type": "Adj",
+        "ipa": "iːʧ",
+        "meaning": "mỗi",
+        "ex": "Suppose we each sing a song in turn.",
+        "ipaExTrans": "səˈpəʊz wiː iːʧ sɪŋ ə sɒŋ ɪn tɜːn.",
+        "exMeaning": "Giả sử mỗi chúng ta lần lượt hát một bài hát."
+    },
+    {
+        "word": "measly",
+        "type": "Adj",
+        "ipa": "ˈmiːzli",
+        "meaning": "bệnh sởi",
+        "ex": "Measly beef (that infected with the Cysticercus bovis) is easily recognized.",
+        "ipaExTrans": "ˈmiːzli biːf (ðæt ɪnˈfɛktɪd wɪð ðə Cysticercus bovis) ɪz ˈiːzɪli ˈrɛkəgnaɪzd.",
+        "exMeaning": "Thịt bò đo (mà bị nhiễm Cysticercus bovis) dễ dàng được nhận ra."
+    },
+    {
+        "word": "sparse",
+        "type": "Adj",
+        "ipa": "spɑːs",
+        "meaning": "thưa thớt",
+        "ex": "Information coming out of the disaster area is sparse.",
+        "ipaExTrans": "ˌɪnfəˈmeɪʃən ˈkʌmɪŋ aʊt ɒv ðə dɪˈzɑːstər ˈeərɪə ɪz spɑːs.",
+        "exMeaning": "Thông tin ra khỏi khu vực thảm họa là thưa thớt."
+    },
+    {
+        "word": "enough",
+        "type": "Adj",
+        "ipa": "ɪˈnʌf",
+        "meaning": "đủ",
+        "ex": "She had enough for the entire family.",
+        "ipaExTrans": "ʃiː hæd ɪˈnʌf fɔː ði ɪnˈtaɪə ˈfæmɪli.",
+        "exMeaning": "Cô đã có đủ cho cả gia đình."
+    },
+    {
+        "word": "mere",
+        "type": "Adj",
+        "ipa": "mɪə",
+        "meaning": "chỉ là",
+        "ex": "You have a great deal of freedom for a mere slave.",
+        "ipaExTrans": "juː hæv ə greɪt diːl ɒv ˈfriːdəm fɔːr ə mɪə sleɪv.",
+        "exMeaning": "Bạn có rất nhiều tự do cho một nô lệ đơn thuần."
+    },
+    {
+        "word": "substantial",
+        "type": "Adj",
+        "ipa": "səbˈstænʃəl",
+        "meaning": "đáng kể",
+        "ex": "The check was for a substantial amount.",
+        "ipaExTrans": "ðə ʧɛk wɒz fɔːr ə səbˈstænʃəl əˈmaʊnt.",
+        "exMeaning": "Kiểm tra là một số lượng đáng kể."
+    },
+    {
+        "word": "every",
+        "type": "Adj",
+        "ipa": "ˈɛvri",
+        "meaning": "mỗi",
+        "ex": "Every room is full.",
+        "ipaExTrans": "ˈɛvri ruːm ɪz fʊl.",
+        "exMeaning": "Phòng nào cũng đầy."
+    },
+    {
+        "word": "multiple",
+        "type": "Adj",
+        "ipa": "ˈmʌltɪpl",
+        "meaning": "nhiều",
+        "ex": "Let's make it multiple choice.",
+        "ipaExTrans": "lɛts meɪk ɪt ˈmʌltɪpl ʧɔɪs.",
+        "exMeaning": "Hãy làm cho nó nhiều sự lựa chọn."
+    },
+    {
+        "word": "teeming",
+        "type": "Adj",
+        "ipa": "ˈtiːmɪŋ",
+        "meaning": "chuộc",
+        "ex": "At one time, however, Mesopotamia was teeming with life.",
+        "ipaExTrans": "æt wʌn taɪm, haʊˈɛvə, ˌmɛsəpəˈteɪmɪə wɒz ˈtiːmɪŋ wɪð laɪf.",
+        "exMeaning": "Tuy nhiên, tại một thời điểm, Mesopotamia đã tràn đầy sức sống."
+    },
+    {
+        "word": "few",
+        "type": "Adj",
+        "ipa": "fjuː",
+        "meaning": "vài",
+        "ex": "The doctor will be in to talk to you in a few minutes.",
+        "ipaExTrans": "ðə ˈdɒktə wɪl biː ɪn tuː tɔːk tuː juː ɪn ə fjuː ˈmɪnɪts.",
+        "exMeaning": "Bác sĩ sẽ đến nói chuyện với bạn sau vài phút."
+    },
+    {
+        "word": "myriad",
+        "type": "Adj",
+        "ipa": "ˈmɪrɪəd",
+        "meaning": "vô số",
+        "ex": "A myriad of emotions flooded over Dean as Corday spoke.",
+        "ipaExTrans": "ə ˈmɪrɪəd ɒv ɪˈməʊʃənz ˈflʌdɪd ˈəʊvə diːn æz Corday spəʊk.",
+        "exMeaning": "Vô số cảm xúc tràn ngập trên Dean khi Corday nói."
+    },
+    {
+        "word": "ten",
+        "type": "Adj",
+        "ipa": "tɛn",
+        "meaning": "mười",
+        "ex": "What she knew was that her father and his lies had skewed her outlook on her world for ten years.",
+        "ipaExTrans": "wɒt ʃiː njuː wɒz ðæt hɜː ˈfɑːðər ænd hɪz laɪz hæd skjuːd hɜːr ˈaʊtlʊk ɒn hɜː wɜːld fɔː tɛn jɪəz.",
+        "exMeaning": "Những gì cô biết là cha cô và những lời dối trá của anh đã làm lệch hướng quan điểm của cô về thế giới của cô trong mười năm."
+    },
+    {
+        "word": "full",
+        "type": "Adj",
+        "ipa": "fʊl",
+        "meaning": "đầy",
+        "ex": "Slowly carrying the full cups into the living room, she handed one to Alex.",
+        "ipaExTrans": "ˈsləʊli ˈkæriɪŋ ðə fʊl kʌps ˈɪntuː ðə ˈlɪvɪŋ ruːm, ʃiː ˈhændɪd wʌn tuː ˈæləks.",
+        "exMeaning": "Chậm rãi mang đầy cốc vào phòng khách, cô đưa một cái cho Alex."
+    },
+    {
+        "word": "numerous",
+        "type": "Adj",
+        "ipa": "ˈnjuːmərəs",
+        "meaning": "nhiều",
+        "ex": "There are numerous side roads but this is becoming a massive man hunt.",
+        "ipaExTrans": "ðeər ɑː ˈnjuːmərəs saɪd rəʊdz bʌt ðɪs ɪz bɪˈkʌmɪŋ ə ˈmæsɪv mæn hʌnt.",
+        "exMeaning": "Có rất nhiều con đường phụ nhưng điều này đang trở thành một cuộc săn lùng đồ sộ."
+    },
+    {
+        "word": "very",
+        "type": "Adj",
+        "ipa": "ˈvɛri",
+        "meaning": "rất",
+        "ex": "You love him very much.",
+        "ipaExTrans": "juː lʌv hɪm ˈvɛri mʌʧ.",
+        "exMeaning": "Bạn yêu anh ấy rất nhiều."
+    }
+]

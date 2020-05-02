@@ -1,0 +1,860 @@
+[
+    {
+        "word": "abnormally",
+        "type": "adv",
+        "ipa": "æbˈnɔːməli",
+        "meaning": "bất thường",
+        "ex": "The skull is abnormally thick and the cerebral capacity small.",
+        "ipaExTrans": "ðə skʌl ɪz æbˈnɔːməli θɪk ænd ðə ˈsɛrɪbrəl kəˈpæsɪti smɔːl.",
+        "exMeaning": "Hộp sọ dày bất thường và dung tích não nhỏ."
+    },
+    {
+        "word": "absentmindedly",
+        "type": "adv",
+        "ipa": "ˌæbsəntˈmaɪndɪdli",
+        "meaning": "lơ đãng",
+        "ex": "What? she asked, glancing around to see what she'd absentmindedly done this time.",
+        "ipaExTrans": "wɒt? ʃiː ɑːskt, ˈglɑːnsɪŋ əˈraʊnd tuː siː wɒt ʃiːd ˌæbsəntˈmaɪndɪdli dʌn ðɪs taɪm.",
+        "exMeaning": "Gì? Cô hỏi, liếc nhìn xung quanh để xem những gì cô đã lơ đãng thực hiện lần này."
+    },
+    {
+        "word": "accidentally",
+        "type": "adv",
+        "ipa": "ˌæksɪˈdɛntəli",
+        "meaning": "vô tình",
+        "ex": "I can cover up the girls who accidentally get hit by cars.",
+        "ipaExTrans": "aɪ kæn ˈkʌvər ʌp ðə gɜːlz huː ˌæksɪˈdɛntəli gɛt hɪt baɪ kɑːz.",
+        "exMeaning": "Tôi có thể che đậy những cô gái vô tình bị xe đâm."
+    },
+    {
+        "word": "actually",
+        "type": "adv",
+        "ipa": "ˈækʧʊəli",
+        "meaning": "thực ra",
+        "ex": "Had anyone actually told her that or had she merely assumed it?",
+        "ipaExTrans": "hæd ˈɛnɪwʌn ˈækʧʊəli təʊld hɜː ðæt ɔː hæd ʃiː ˈmɪəli əˈsjuːmd ɪt?",
+        "exMeaning": "Có ai thực sự nói với cô ấy điều đó hay cô ấy chỉ đơn thuần giả định điều đó?"
+    },
+    {
+        "word": "adventurously",
+        "type": "adv",
+        "ipa": "ədˈvɛnʧərəsli",
+        "meaning": "phiêu lưu"
+    },
+    {
+        "word": "afterwards",
+        "type": "adv",
+        "ipa": "ˈɑːftəwədz",
+        "meaning": "sau đó",
+        "ex": "Soon afterwards he entered political life.",
+        "ipaExTrans": "suːn ˈɑːftəwədz hiː ˈɛntəd pəˈlɪtɪkəl laɪf.",
+        "exMeaning": "Ngay sau đó anh bước vào đời sống chính trị."
+    },
+    {
+        "word": "almost",
+        "type": "adv",
+        "ipa": "ˈɔːlməʊst",
+        "meaning": "hầu hết",
+        "ex": "At ten years old, Jonathan was almost as tall as she was.",
+        "ipaExTrans": "æt tɛn jɪəz əʊld, ˈʤɒnəθən wɒz ˈɔːlməʊst æz tɔːl æz ʃiː wɒz.",
+        "exMeaning": "Năm mười tuổi, Jonathan cao gần bằng cô."
+    },
+    {
+        "word": "always",
+        "type": "adv",
+        "ipa": "ˈɔːlweɪz",
+        "meaning": "luôn luôn",
+        "ex": "You've always taken care of us.",
+        "ipaExTrans": "juːv ˈɔːlweɪz ˈteɪkən keər ɒv ʌs.",
+        "exMeaning": "Bạn đã luôn chăm sóc chúng tôi."
+    },
+    {
+        "word": "annually",
+        "type": "adv",
+        "ipa": "ˈænjʊəli",
+        "meaning": "hàng năm",
+        "ex": "The value of the ore reduced annually is about $10,000,000.",
+        "ipaExTrans": "ðə ˈvæljuː ɒv ði ɔː rɪˈdjuːst ˈænjʊəli ɪz əˈbaʊt $10,000,000.",
+        "exMeaning": "Giá trị của quặng giảm hàng năm là khoảng 10.000.000 đô la."
+    },
+    {
+        "word": "anxiously",
+        "type": "adv",
+        "ipa": "ˈæŋkʃəsli",
+        "meaning": "lo lắng",
+        "ex": "She watched anxiously as he read her temperature.",
+        "ipaExTrans": "ʃiː wɒʧt ˈæŋkʃəsli æz hiː riːd hɜː ˈtɛmprɪʧə.",
+        "exMeaning": "Cô lo lắng nhìn anh khi đọc nhiệt độ của cô."
+    },
+    {
+        "word": "arrogantly",
+        "type": "adv",
+        "ipa": "ˈærəʊgəntli",
+        "meaning": "kiêu ngạo"
+    },
+    {
+        "word": "awkwardly",
+        "type": "adv",
+        "ipa": "ˈɔːkwədli",
+        "meaning": "lúng túng",
+        "ex": "For a moment they stood awkwardly over the grave.",
+        "ipaExTrans": "fɔːr ə ˈməʊmənt ðeɪ stʊd ˈɔːkwədli ˈəʊvə ðə greɪv.",
+        "exMeaning": "Trong một khoảnh khắc họ đứng lúng túng trên mộ."
+    },
+    {
+        "word": "bashfully",
+        "type": "adv",
+        "ipa": "ˈbæʃfʊli",
+        "meaning": "rụt rè"
+    },
+    {
+        "word": "beautifully",
+        "type": "adv",
+        "ipa": "ˈbjuːtəfʊli",
+        "meaning": "đẹp",
+        "ex": "The water is beautifully clear.",
+        "ipaExTrans": "ðə ˈwɔːtər ɪz ˈbjuːtəfʊli klɪə.",
+        "exMeaning": "Nước trong vắt."
+    },
+    {
+        "word": "bitterly",
+        "type": "adv",
+        "ipa": "ˈbɪtəli",
+        "meaning": "cay đắng",
+        "ex": "She supplied bitterly as she rinsed the last dish and put it into the rack.",
+        "ipaExTrans": "ʃiː səˈplaɪd ˈbɪtəli æz ʃiː rɪnst ðə lɑːst dɪʃ ænd pʊt ɪt ˈɪntuː ðə ræk.",
+        "exMeaning": "Cô cay đắng cung cấp khi rửa món ăn cuối cùng và đặt nó vào giá đỡ."
+    },
+    {
+        "word": "bleakly",
+        "type": "adv",
+        "ipa": "ˈbliːkli",
+        "meaning": "ảm đạm"
+    },
+    {
+        "word": "blindly",
+        "type": "adv",
+        "ipa": "ˈblaɪndli",
+        "meaning": "mù quáng",
+        "ex": "She turned, running blindly for the privacy of her wagon.",
+        "ipaExTrans": "ʃiː tɜːnd, ˈrʌnɪŋ ˈblaɪndli fɔː ðə ˈprɪvəsi ɒv hɜː ˈwægən.",
+        "exMeaning": "Cô quay lại, chạy một cách mù quáng vì sự riêng tư của chiếc xe của mình."
+    },
+    {
+        "word": "blissfully",
+        "type": "adv",
+        "ipa": "ˈblɪsfʊli",
+        "meaning": "hạnh phúc",
+        "ex": "If Denton hadn't come along, would she still be blissfully letting her father run her life?",
+        "ipaExTrans": "ɪf Denton ˈhædnt kʌm əˈlɒŋ, wʊd ʃiː stɪl biː ˈblɪsfʊli ˈlɛtɪŋ hɜː ˈfɑːðə rʌn hɜː laɪf?",
+        "exMeaning": "Nếu Denton không đi cùng, liệu cô có còn hạnh phúc để cha mình điều hành cuộc sống của mình?"
+    },
+    {
+        "word": "boastfully",
+        "type": "adv",
+        "ipa": "ˈbəʊstfʊli",
+        "meaning": "khoe khoang"
+    },
+    {
+        "word": "boldly",
+        "type": "adv",
+        "ipa": "ˈbəʊldli",
+        "meaning": "mạnh dạn",
+        "ex": "She stared boldly at him as he read from the book in his lap.",
+        "ipaExTrans": "ʃiː steəd ˈbəʊldli æt hɪm æz hiː riːd frɒm ðə bʊk ɪn hɪz læp.",
+        "exMeaning": "Cô mạnh dạn nhìn anh khi anh đọc từ cuốn sách trong lòng anh."
+    },
+    {
+        "word": "bravely",
+        "type": "adv",
+        "ipa": "ˈbreɪvli",
+        "meaning": "dũng cảm",
+        "ex": "The attack was bravely repulsed, and the peshwa immediately fled from his capital.",
+        "ipaExTrans": "ði əˈtæk wɒz ˈbreɪvli rɪˈpʌlst, ænd ðə peshwa ɪˈmiːdiətli flɛd frɒm hɪz ˈkæpɪtl.",
+        "exMeaning": "Cuộc tấn công đã bị đẩy lùi một cách dũng cảm, và peshwa ngay lập tức chạy trốn khỏi thủ đô của mình."
+    },
+    {
+        "word": "briefly",
+        "type": "adv",
+        "ipa": "ˈbriːfli",
+        "meaning": "Tóm tắt",
+        "ex": "She met his gaze briefly and looked away.",
+        "ipaExTrans": "ʃiː mɛt hɪz geɪz ˈbriːfli ænd lʊkt əˈweɪ.",
+        "exMeaning": "Cô thoáng thấy ánh mắt anh và nhìn đi chỗ khác."
+    },
+    {
+        "word": "brightly",
+        "type": "adv",
+        "ipa": "ˈbraɪtli",
+        "meaning": "rực rỡ",
+        "ex": "A fire burned brightly in the fireplace.",
+        "ipaExTrans": "ə ˈfaɪə bɜːnd ˈbraɪtli ɪn ðə ˈfaɪəˌpleɪs.",
+        "exMeaning": "Một ngọn lửa bùng cháy rực rỡ trong lò sưởi."
+    },
+    {
+        "word": "briskly",
+        "type": "adv",
+        "ipa": "ˈbrɪskli",
+        "meaning": "nhanh nhẹn",
+        "ex": "He turned and walked briskly back to the market.",
+        "ipaExTrans": "hiː tɜːnd ænd wɔːkt ˈbrɪskli bæk tuː ðə ˈmɑːkɪt.",
+        "exMeaning": "Anh quay lại và bước nhanh về chợ."
+    },
+    {
+        "word": "broadly",
+        "type": "adv",
+        "ipa": "ˈbrɔːdli",
+        "meaning": "rộng rãi",
+        "ex": "He smiled broadly and winked.",
+        "ipaExTrans": "hiː smaɪld ˈbrɔːdli ænd wɪŋkt.",
+        "exMeaning": "Anh cười thật tươi và nháy mắt."
+    },
+    {
+        "word": "busily",
+        "type": "adv",
+        "ipa": "ˈbɪzɪli",
+        "meaning": "bận rộn",
+        "ex": "The two boys were there, busily working with hammer and saw.",
+        "ipaExTrans": "ðə tuː bɔɪz wɜː ðeə, ˈbɪzɪli ˈwɜːkɪŋ wɪð ˈhæmər ænd sɔː.",
+        "exMeaning": "Hai cậu bé ở đó, bận rộn làm việc với búa và cưa."
+    },
+    {
+        "word": "calmly",
+        "type": "adv",
+        "ipa": "ˈkɑːmli",
+        "meaning": "bình tĩnh",
+        "ex": "I tried to think calmly and finally understood.",
+        "ipaExTrans": "aɪ traɪd tuː θɪŋk ˈkɑːmli ænd ˈfaɪnəli ˌʌndəˈstʊd.",
+        "exMeaning": "Tôi cố gắng bình tĩnh suy nghĩ và cuối cùng cũng hiểu."
+    },
+    {
+        "word": "carefully",
+        "type": "adv",
+        "ipa": "ˈkeəfli",
+        "meaning": "cẩn thận",
+        "ex": "She carefully lifted an egg.",
+        "ipaExTrans": "ʃiː ˈkeəfli ˈlɪftɪd ən ɛg.",
+        "exMeaning": "Cô cẩn thận nhấc một quả trứng."
+    },
+    {
+        "word": "carelessly",
+        "type": "adv",
+        "ipa": "ˈkeəlɪsli",
+        "meaning": "một cách bất cẩn",
+        "ex": "I know this letter is very carelessly written.",
+        "ipaExTrans": "aɪ nəʊ ðɪs ˈlɛtər ɪz ˈvɛri ˈkeəlɪsli ˈrɪtn.",
+        "exMeaning": "Tôi biết bức thư này được viết rất bất cẩn."
+    },
+    {
+        "word": "cautiously",
+        "type": "adv",
+        "ipa": "ˈkɔːʃəsli",
+        "meaning": "thận trọng",
+        "ex": "She peered cautiously over the edge, but couldn't see the car.",
+        "ipaExTrans": "ʃiː pɪəd ˈkɔːʃəsli ˈəʊvə ði ɛʤ, bʌt ˈkʊdnt siː ðə kɑː.",
+        "exMeaning": "Cô thận trọng nhìn qua mép, nhưng không thể nhìn thấy chiếc xe."
+    },
+    {
+        "word": "certainly",
+        "type": "adv",
+        "ipa": "ˈsɜːtnli",
+        "meaning": "chắc chắn",
+        "ex": "She certainly didn't feel any different.",
+        "ipaExTrans": "ʃiː ˈsɜːtnli dɪdnt fiːl ˈɛni ˈdɪfrənt.",
+        "exMeaning": "Cô chắc chắn không cảm thấy khác biệt."
+    },
+    {
+        "word": "cheerfully",
+        "type": "adv",
+        "ipa": "ˈʧɪəfʊli",
+        "meaning": "vui vẻ",
+        "ex": "The boy laughed cheerfully and jumped out.",
+        "ipaExTrans": "ðə bɔɪ lɑːft ˈʧɪəfʊli ænd ʤʌmpt aʊt.",
+        "exMeaning": "Cậu bé cười vui vẻ và nhảy ra."
+    },
+    {
+        "word": "clearly",
+        "type": "adv",
+        "ipa": "ˈklɪəli",
+        "meaning": "thông suốt",
+        "ex": "Man's clearly a homophobe.",
+        "ipaExTrans": "mænz ˈklɪəli ə homophobe.",
+        "exMeaning": "Con người rõ ràng là một homophobe."
+    },
+    {
+        "word": "cleverly",
+        "type": "adv",
+        "ipa": "ˈklɛvəli",
+        "meaning": "khéo léo",
+        "ex": "Either she had never seen him angry or he had cleverly concealed it - like every other emotion.",
+        "ipaExTrans": "ˈaɪðə ʃiː hæd ˈnɛvə siːn hɪm ˈæŋgri ɔː hiː hæd ˈklɛvəli kənˈsiːld ɪt - laɪk ˈɛvri ˈʌðər ɪˈməʊʃən.",
+        "exMeaning": "Hoặc là cô chưa bao giờ thấy anh tức giận hoặc anh đã khéo léo che giấu điều đó - như mọi cảm xúc khác."
+    },
+    {
+        "word": "closely",
+        "type": "adv",
+        "ipa": "ˈkləʊsli",
+        "meaning": "chặt chẽ",
+        "ex": "Dean spent the remainder of the work­day sorting reports and more closely reviewing the Byrne papers.",
+        "ipaExTrans": "diːn spɛnt ðə rɪˈmeɪndər ɒv ðə wɜːk­deɪ ˈsɔːtɪŋ rɪˈpɔːts ænd mɔː ˈkləʊsli rɪˈvjuːɪŋ ðə Byrne ˈpeɪpəz.",
+        "exMeaning": "Dean đã dành phần còn lại của các báo cáo sắp xếp ngày làm việc và xem xét kỹ hơn các bài báo của Byrne."
+    },
+    {
+        "word": "coaxingly",
+        "type": "adv",
+        "ipa": "ˈkəʊksɪŋli",
+        "meaning": "dỗ dành"
+    },
+    {
+        "word": "colorfully",
+        "type": "adv",
+        "ipa": "ˈkʌləf(ə)li",
+        "meaning": "màu sắc",
+        "ex": "swear colorfully is loudly affirmed approved of his him about how.",
+        "ipaExTrans": "sweə ˈkʌləf(ə)li ɪz ˈlaʊdli əˈfɜːmd əˈpruːvd ɒv hɪz hɪm əˈbaʊt haʊ.",
+        "exMeaning": "chửi thề đầy màu sắc là lớn tiếng khẳng định chấp thuận của anh ta về làm thế nào."
+    },
+    {
+        "word": "commonly",
+        "type": "adv",
+        "ipa": "ˈkɒmənli",
+        "meaning": "thông thường",
+        "ex": "He commonly went off in a rain.",
+        "ipaExTrans": "hiː ˈkɒmənli wɛnt ɒf ɪn ə reɪn.",
+        "exMeaning": "Anh ấy thường đi trong một cơn mưa."
+    },
+    {
+        "word": "continually",
+        "type": "adv",
+        "ipa": "kənˈtɪnjʊəli",
+        "meaning": "liên tục",
+        "ex": "She blushed continually and was irritable.",
+        "ipaExTrans": "ʃiː blʌʃt kənˈtɪnjʊəli ænd wɒz ˈɪrɪtəbl.",
+        "exMeaning": "Cô đỏ mặt liên tục và cáu kỉnh."
+    },
+    {
+        "word": "coolly",
+        "type": "adv",
+        "ipa": "ˈkuːli",
+        "meaning": "lạnh lùng",
+        "ex": "She faced him coolly, trying to control her temper.",
+        "ipaExTrans": "ʃiː feɪst hɪm ˈkuːli, ˈtraɪɪŋ tuː kənˈtrəʊl hɜː ˈtɛmpə.",
+        "exMeaning": "Cô lạnh lùng đối mặt với anh, cố gắng kiềm chế sự nóng nảy của mình."
+    },
+    {
+        "word": "correctly",
+        "type": "adv",
+        "ipa": "kəˈrɛktli",
+        "meaning": "chính xác",
+        "ex": "Your vocal cords did not heal correctly, Wynn told her.",
+        "ipaExTrans": "jɔː ˈvəʊkəl kɔːdz dɪd nɒt hiːl kəˈrɛktli, Wynn təʊld hɜː.",
+        "exMeaning": "Dây thanh âm của bạn không lành đúng cách, Wynn nói với cô ấy."
+    },
+    {
+        "word": "courageously",
+        "type": "adv",
+        "ipa": "kəˈreɪʤəsli",
+        "meaning": "can đảm",
+        "ex": "Carmen plunged into things courageously without taking the time to think things through.",
+        "ipaExTrans": "ˈkɑːmən plʌnʤd ˈɪntuː θɪŋz kəˈreɪʤəsli wɪˈðaʊt ˈteɪkɪŋ ðə taɪm tuː θɪŋk θɪŋz θruː.",
+        "exMeaning": "Cô can đảm lao vào mọi thứ mà không dành thời gian để suy nghĩ mọi chuyện."
+    },
+    {
+        "word": "crossly",
+        "type": "adv",
+        "ipa": "ˈkrɒsli",
+        "meaning": "cáu kỉnh",
+        "ex": "Do lie down, she added crossly, and buried her face in the pillow.",
+        "ipaExTrans": "duː laɪ daʊn, ʃiː ˈædɪd ˈkrɒsli, ænd ˈbɛrid hɜː feɪs ɪn ðə ˈpɪləʊ.",
+        "exMeaning": "Đừng nằm xuống, cô ấy thêm chéo, và vùi mặt vào gối."
+    },
+    {
+        "word": "cruelly",
+        "type": "adv",
+        "ipa": "ˈkrʊəli",
+        "meaning": "tàn nhẫn",
+        "ex": "He did not dislike the work, but was or thought himself cruelly treated.",
+        "ipaExTrans": "hiː dɪd nɒt dɪsˈlaɪk ðə wɜːk, bʌt wɒz ɔː θɔːt hɪmˈsɛlf ˈkrʊəli ˈtriːtɪd.",
+        "exMeaning": "Anh không thích công việc, nhưng hay nghĩ rằng mình bị đối xử tàn nhẫn."
+    },
+    {
+        "word": "curiously",
+        "type": "adv",
+        "ipa": "ˈkjʊərɪəsli",
+        "meaning": "tò mò",
+        "ex": "She looked at it curiously, then at Damian.",
+        "ipaExTrans": "ʃiː lʊkt æt ɪt ˈkjʊərɪəsli, ðɛn æt Damian.",
+        "exMeaning": "Cô tò mò nhìn nó, rồi nhìn Damian."
+    },
+    {
+        "word": "daily",
+        "type": "adv",
+        "ipa": "ˈdeɪli",
+        "meaning": "hằng ngày",
+        "ex": "He thanked me and went about his daily business.",
+        "ipaExTrans": "hiː θæŋkt miː ænd wɛnt əˈbaʊt hɪz ˈdeɪli ˈbɪznɪs.",
+        "exMeaning": "Anh ấy cảm ơn tôi và đi về công việc hàng ngày của anh ấy."
+    },
+    {
+        "word": "daintily",
+        "type": "adv",
+        "ipa": "ˈdeɪntɪli",
+        "meaning": "mờ nhạt"
+    },
+    {
+        "word": "dearly",
+        "type": "adv",
+        "ipa": "ˈdɪəli",
+        "meaning": "thân yêu",
+        "ex": "I love you very dearly because you are my friend.",
+        "ipaExTrans": "aɪ lʌv juː ˈvɛri ˈdɪəli bɪˈkɒz juː ɑː maɪ frɛnd.",
+        "exMeaning": "Tôi yêu bạn rất nhiều vì bạn là bạn của tôi."
+    },
+    {
+        "word": "deceivingly",
+        "type": "adv",
+        "ipa": "dɪˈsiːvɪŋli",
+        "meaning": "lừa dối"
+    },
+    {
+        "word": "deeply",
+        "type": "adv",
+        "ipa": "ˈdiːpli",
+        "meaning": "sâu sắc",
+        "ex": "She breathed deeply then told him everything.",
+        "ipaExTrans": "ʃiː briːðd ˈdiːpli ðɛn təʊld hɪm ˈɛvrɪθɪŋ.",
+        "exMeaning": "Cô thở sâu sau đó nói với anh tất cả."
+    },
+    {
+        "word": "defiantly",
+        "type": "adv",
+        "ipa": "dɪˈfaɪəntli",
+        "meaning": "thách thức",
+        "ex": "She met his gaze defiantly for a moment longer, but he made no attempt to argue.",
+        "ipaExTrans": "ʃiː mɛt hɪz geɪz dɪˈfaɪəntli fɔːr ə ˈməʊmənt ˈlɒŋgə, bʌt hiː meɪd nəʊ əˈtɛmpt tuː ˈɑːgjuː.",
+        "exMeaning": "Cô gặp ánh mắt anh thách thức một lúc lâu hơn, nhưng anh không hề tranh cãi."
+    },
+    {
+        "word": "deliberately",
+        "type": "adv",
+        "ipa": "dɪˈlɪbərɪtli",
+        "meaning": "thong thả",
+        "ex": "Someone had deliberately mis-marked their return route.",
+        "ipaExTrans": "ˈsʌmwʌn hæd dɪˈlɪbərɪtli mɪs-mɑːkt ðeə rɪˈtɜːn ruːt.",
+        "exMeaning": "Ai đó đã cố tình đánh dấu sai tuyến đường trở về của họ."
+    },
+    {
+        "word": "delightfully",
+        "type": "adv",
+        "ipa": "dɪˈlaɪtfʊli",
+        "meaning": "rất vui",
+        "ex": "His response was a soft groan that vibrated delightfully against her lips.",
+        "ipaExTrans": "hɪz rɪsˈpɒns wɒz ə sɒft grəʊn ðæt vaɪˈbreɪtɪd dɪˈlaɪtfʊli əˈgɛnst hɜː lɪps.",
+        "exMeaning": "Phản ứng của anh là một tiếng rên khe khẽ rung lên thích thú trên môi cô."
+    },
+    {
+        "word": "diligently",
+        "type": "adv",
+        "ipa": "ˈdɪlɪʤəntli",
+        "meaning": "siêng năng",
+        "ex": "Greek models were diligently studied by Virgil and Horace.",
+        "ipaExTrans": "griːk ˈmɒdlz wɜː ˈdɪlɪʤəntli ˈstʌdɪd baɪ ˈvɜːʤɪl ænd ˈhɒrɪs.",
+        "exMeaning": "Các mô hình Hy Lạp đã được Virgil và Horace nghiên cứu kỹ lưỡng."
+    },
+    {
+        "word": "dimly",
+        "type": "adv",
+        "ipa": "ˈdɪmli",
+        "meaning": "lờ mờ",
+        "ex": "Now this same room was dimly lighted by two candles.",
+        "ipaExTrans": "naʊ ðɪs seɪm ruːm wɒz ˈdɪmli ˈlaɪtɪd baɪ tuː ˈkændlz.",
+        "exMeaning": "Bây giờ căn phòng này đã được thắp sáng bằng hai ngọn nến."
+    },
+    {
+        "word": "doubtfully",
+        "type": "adv",
+        "ipa": "ˈdaʊtfʊli",
+        "meaning": "nghi ngờ",
+        "ex": "She eyed him doubtfully and then turned back to her packing.",
+        "ipaExTrans": "ʃiː aɪd hɪm ˈdaʊtfʊli ænd ðɛn tɜːnd bæk tuː hɜː ˈpækɪŋ.",
+        "exMeaning": "Cô nghi ngờ nhìn anh rồi quay lại với bao bì của mình."
+    },
+    {
+        "word": "dreamily",
+        "type": "adv",
+        "ipa": "ˈdriːmɪli",
+        "meaning": "mơ màng",
+        "ex": "She found herself staring dreamily into space, trying not to imagine what else he could do with his talented mouth.",
+        "ipaExTrans": "ʃiː faʊnd hɜːˈsɛlf ˈsteərɪŋ ˈdriːmɪli ˈɪntuː speɪs, ˈtraɪɪŋ nɒt tuː ɪˈmæʤɪn wɒt ɛls hiː kʊd duː wɪð hɪz ˈtæləntɪd maʊθ.",
+        "exMeaning": "Cô thấy mình đang mơ màng nhìn vào không gian, cố gắng không tưởng tượng ra những gì anh có thể làm với cái miệng tài năng của mình."
+    },
+    {
+        "word": "easily",
+        "type": "adv",
+        "ipa": "ˈiːzɪli",
+        "meaning": "dễ dàng",
+        "ex": "Believe me, it wasn't something I easily forgot.",
+        "ipaExTrans": "bɪˈliːv miː, ɪt wɒznt ˈsʌmθɪŋ aɪ ˈiːzɪli fəˈgɒt.",
+        "exMeaning": "Hãy tin tôi, đó không phải là thứ tôi dễ quên."
+    },
+    {
+        "word": "elegantly",
+        "type": "adv",
+        "ipa": "ˈɛlɪgəntli",
+        "meaning": "thanh lịch",
+        "ex": "Bilibin liked conversation as he liked work, only when it could be made elegantly witty.",
+        "ipaExTrans": "Bilibin laɪkt ˌkɒnvəˈseɪʃən æz hiː laɪkt wɜːk, ˈəʊnli wɛn ɪt kʊd biː meɪd ˈɛlɪgəntli ˈwɪti.",
+        "exMeaning": "Bilibin thích trò chuyện vì anh thích công việc, chỉ khi nó có thể được thực hiện một cách thanh lịch dí dỏm."
+    },
+    {
+        "word": "energetically",
+        "type": "adv",
+        "ipa": "ˌɛnəˈʤɛtɪk(ə)li",
+        "meaning": "hăng hái",
+        "ex": "The new government energetically proceeded to remedy this state of affairs.",
+        "ipaExTrans": "ðə njuː ˈgʌvnmənt ˌɛnəˈʤɛtɪk(ə)li prəˈsiːdɪd tuː ˈrɛmɪdi ðɪs steɪt ɒv əˈfeəz.",
+        "exMeaning": "Chính phủ mới hăng hái tiến hành khắc phục tình trạng này."
+    },
+    {
+        "word": "enormously",
+        "type": "adv",
+        "ipa": "ɪˈnɔːməsli",
+        "meaning": "rất nhiều",
+        "ex": "An enormously long row of carts full of wounded men had stopped in the street.",
+        "ipaExTrans": "ən ɪˈnɔːməsli lɒŋ rəʊ ɒv kɑːts fʊl ɒv ˈwuːndɪd mɛn hæd stɒpt ɪn ðə striːt.",
+        "exMeaning": "Một hàng dài những chiếc xe chở đầy những người đàn ông bị thương đã dừng lại trên đường."
+    },
+    {
+        "word": "enthusiastically",
+        "type": "adv",
+        "ipa": "ɪnˌθjuːzɪˈæstɪk(ə)li",
+        "meaning": "nhiệt tình",
+        "ex": "Thackeray wrote enthusiastically of the harbour.",
+        "ipaExTrans": "ˈθækəri rəʊt ɪnˌθjuːzɪˈæstɪk(ə)li ɒv ðə ˈhɑːbə.",
+        "exMeaning": "Thackeray đã nhiệt tình viết về bến cảng."
+    },
+    {
+        "word": "equally",
+        "type": "adv",
+        "ipa": "ˈiːkwəli",
+        "meaning": "như nhau",
+        "ex": "He was at least equally intrigued by hers.",
+        "ipaExTrans": "hiː wɒz æt liːst ˈiːkwəli ɪnˈtriːgd baɪ hɜːz.",
+        "exMeaning": "Anh ít nhất cũng bị thu hút bởi cô."
+    },
+    {
+        "word": "especially",
+        "type": "adv",
+        "ipa": "ɪsˈpɛʃəli",
+        "meaning": "đặc biệt",
+        "ex": "I enjoy traveling, especially to very different places.",
+        "ipaExTrans": "aɪ ɪnˈʤɔɪ ˈtrævlɪŋ, ɪsˈpɛʃəli tuː ˈvɛri ˈdɪfrənt ˈpleɪsɪz.",
+        "exMeaning": "Tôi thích đi du lịch, đặc biệt là đến những nơi rất khác nhau."
+    },
+    {
+        "word": "even",
+        "type": "adv",
+        "ipa": "ˈiːvən",
+        "meaning": "cũng",
+        "ex": "You always look neat and clean - even if you are a little out of style.",
+        "ipaExTrans": "juː ˈɔːlweɪz lʊk niːt ænd kliːn - ˈiːvən ɪf juː ɑːr ə ˈlɪtl aʊt ɒv staɪl.",
+        "exMeaning": "Bạn luôn trông gọn gàng và sạch sẽ - ngay cả khi bạn hơi lạc hậu."
+    },
+    {
+        "word": "evenly",
+        "type": "adv",
+        "ipa": "ˈiːvənli",
+        "meaning": "như nhau",
+        "ex": "I do, he replied as evenly as he was able to.",
+        "ipaExTrans": "aɪ duː, hiː rɪˈplaɪd æz ˈiːvənli æz hiː wɒz ˈeɪbl tuː.",
+        "exMeaning": "Tôi làm, anh trả lời đều đều như anh có thể."
+    },
+    {
+        "word": "eventually",
+        "type": "adv",
+        "ipa": "ɪˈvɛnʧəli",
+        "meaning": "cuối cùng",
+        "ex": "Eventually they stopped their chatter and fell silent.",
+        "ipaExTrans": "ɪˈvɛnʧəli ðeɪ stɒpt ðeə ˈʧætər ænd fɛl ˈsaɪlənt.",
+        "exMeaning": "Cuối cùng, họ dừng cuộc trò chuyện và im lặng."
+    },
+    {
+        "word": "exactly",
+        "type": "adv",
+        "ipa": "ɪgˈzæktli",
+        "meaning": "chính xác",
+        "ex": "They weren't exactly best of friends.",
+        "ipaExTrans": "ðeɪ wɜːnt ɪgˈzæktli bɛst ɒv frɛndz.",
+        "exMeaning": "Họ không chính xác là bạn thân."
+    },
+    {
+        "word": "excitedly",
+        "type": "adv",
+        "ipa": "ɪkˈsaɪtɪdli",
+        "meaning": "hào hứng",
+        "ex": "Felipa turned excitedly to Alex.",
+        "ipaExTrans": "Felipa tɜːnd ɪkˈsaɪtɪdli tuː ˈæləks.",
+        "exMeaning": "Felipa hào hứng quay sang Alex."
+    },
+    {
+        "word": "extremely",
+        "type": "adv",
+        "ipa": "ɪksˈtriːmli",
+        "meaning": "vô cùng",
+        "ex": "It was an extremely easy victory for me.",
+        "ipaExTrans": "ɪt wɒz ən ɪksˈtriːmli ˈiːzi ˈvɪktəri fɔː miː.",
+        "exMeaning": "Đó là một chiến thắng cực kỳ dễ dàng đối với tôi."
+    },
+    {
+        "word": "fairly",
+        "type": "adv",
+        "ipa": "ˈfeəli",
+        "meaning": "công bằng",
+        "ex": "He was cast out of the Immortal world fairly young.",
+        "ipaExTrans": "hiː wɒz kɑːst aʊt ɒv ði ɪˈmɔːtl wɜːld ˈfeəli jʌŋ.",
+        "exMeaning": "Anh ta bị loại khỏi thế giới bất tử khá trẻ."
+    },
+    {
+        "word": "faithfully",
+        "type": "adv",
+        "ipa": "ˈfeɪθfʊli",
+        "meaning": "trung thành",
+        "ex": "If they be willing faithfully to serve it, that satisfies.",
+        "ipaExTrans": "ɪf ðeɪ biː ˈwɪlɪŋ ˈfeɪθfʊli tuː sɜːv ɪt, ðæt ˈsætɪsfaɪz.",
+        "exMeaning": "Nếu họ sẵn sàng trung thành để phục vụ nó, điều đó thỏa mãn."
+    },
+    {
+        "word": "famously",
+        "type": "adv",
+        "ipa": "ˈfeɪməsli",
+        "meaning": "nổi tiếng"
+    },
+    {
+        "word": "far",
+        "type": "adv",
+        "ipa": "fɑː",
+        "meaning": "xa",
+        "ex": "So far her prayers had been unanswered.",
+        "ipaExTrans": "səʊ fɑː hɜː preəz hæd biːn ʌnˈɑːnsəd.",
+        "exMeaning": "Cho đến nay những lời cầu nguyện của cô đã không được trả lời."
+    },
+    {
+        "word": "fast",
+        "type": "adv",
+        "ipa": "fɑːst",
+        "meaning": "Nhanh",
+        "ex": "It was all so fast that she didn't have time to think.",
+        "ipaExTrans": "ɪt wɒz ɔːl səʊ fɑːst ðæt ʃiː dɪdnt hæv taɪm tuː θɪŋk.",
+        "exMeaning": "Mọi thứ nhanh đến mức cô không có thời gian để suy nghĩ."
+    },
+    {
+        "word": "fatally",
+        "type": "adv",
+        "ipa": "ˈfeɪtli",
+        "meaning": "gây tử vong",
+        "ex": "Stewart was fatally wounded, an advance was made at 3 P.M.",
+        "ipaExTrans": "ˈstjʊət wɒz ˈfeɪtli ˈwuːndɪd, ən ədˈvɑːns wɒz meɪd æt 3 piː.ɛm.",
+        "exMeaning": "Stewart bị thương nặng, một tiến bộ đã được thực hiện tại 3 P.M."
+    },
+    {
+        "word": "ferociously",
+        "type": "adv",
+        "ipa": "fəˈrəʊʃəsli",
+        "meaning": "dữ dội"
+    },
+    {
+        "word": "fervently",
+        "type": "adv",
+        "ipa": "ˈfɜːvəntli",
+        "meaning": "nhiệt thành",
+        "ex": "At the moment, she was fervently wishing she had stayed home.",
+        "ipaExTrans": "æt ðə ˈməʊmənt, ʃiː wɒz ˈfɜːvəntli ˈwɪʃɪŋ ʃiː hæd steɪd həʊm.",
+        "exMeaning": "Hiện tại, cô rất mong muốn được ở nhà."
+    },
+    {
+        "word": "fiercely",
+        "type": "adv",
+        "ipa": "ˈfɪəsli",
+        "meaning": "quyết liệt",
+        "ex": "It awoke more fiercely than before, straining against her resolution.",
+        "ipaExTrans": "ɪt əˈwəʊk mɔː ˈfɪəsli ðæn bɪˈfɔː, ˈstreɪnɪŋ əˈgɛnst hɜː ˌrɛzəˈluːʃən.",
+        "exMeaning": "Nó thức dậy dữ dội hơn trước, căng thẳng trước sự quyết tâm của cô."
+    },
+    {
+        "word": "fondly",
+        "type": "adv",
+        "ipa": "ˈfɒndli",
+        "meaning": "thương yêu",
+        "ex": "Bordeaux had one arm wrapped fondly around the shoulders of a saloon girl.",
+        "ipaExTrans": "bɔːˈdəʊ hæd wʌn ɑːm ræpt ˈfɒndli əˈraʊnd ðə ˈʃəʊldəz ɒv ə səˈluːn gɜːl.",
+        "exMeaning": "Bordeaux có một cánh tay quấn quanh vai một cô gái saloon."
+    },
+    {
+        "word": "foolishly",
+        "type": "adv",
+        "ipa": "ˈfuːlɪʃli",
+        "meaning": "dại dột",
+        "ex": "Don't talk foolishly, Dean said, trying to keep his voice light.",
+        "ipaExTrans": "dəʊnt tɔːk ˈfuːlɪʃli, diːn sɛd, ˈtraɪɪŋ tuː kiːp hɪz vɔɪs laɪt.",
+        "exMeaning": "Đừng nói chuyện dại dột, Dean nói, cố gắng giữ giọng nói nhẹ nhàng."
+    },
+    {
+        "word": "fortunately",
+        "type": "adv",
+        "ipa": "ˈfɔːʧnɪtli",
+        "meaning": "may mắn thay",
+        "ex": "Fortunately, breakfast was nothing like she imagined.",
+        "ipaExTrans": "ˈfɔːʧnɪtli, ˈbrɛkfəst wɒz ˈnʌθɪŋ laɪk ʃiː ɪˈmæʤɪnd.",
+        "exMeaning": "May mắn thay, bữa sáng không giống như cô tưởng tượng."
+    },
+    {
+        "word": "frankly",
+        "type": "adv",
+        "ipa": "ˈfræŋkli",
+        "meaning": "thẳng thắn",
+        "ex": "Quite frankly, he was never sure he could trust her.",
+        "ipaExTrans": "kwaɪt ˈfræŋkli, hiː wɒz ˈnɛvə ʃʊə hiː kʊd trʌst hɜː.",
+        "exMeaning": "Thẳng thắn mà nói, anh không bao giờ chắc chắn mình có thể tin cô."
+    },
+    {
+        "word": "frantically",
+        "type": "adv",
+        "ipa": "ˈfræntɪk(ə)li",
+        "meaning": "điên cuồng",
+        "ex": "Her heart raced as she frantically searched for a place to hide.",
+        "ipaExTrans": "hɜː hɑːt reɪst æz ʃiː ˈfræntɪk(ə)li sɜːʧt fɔːr ə pleɪs tuː haɪd.",
+        "exMeaning": "Trái tim cô đập loạn xạ khi cô điên cuồng tìm kiếm một nơi để trốn."
+    },
+    {
+        "word": "freely",
+        "type": "adv",
+        "ipa": "ˈfriːli",
+        "meaning": "tự do",
+        "ex": "Tears were running freely down her face.",
+        "ipaExTrans": "teəz wɜː ˈrʌnɪŋ ˈfriːli daʊn hɜː feɪs.",
+        "exMeaning": "Nước mắt chảy dài trên khuôn mặt cô."
+    },
+    {
+        "word": "frenetically",
+        "type": "adv",
+        "ipa": "frəˈnɛtɪk(ə)li",
+        "meaning": "điên cuồng"
+    },
+    {
+        "word": "frightfully",
+        "type": "adv",
+        "ipa": "ˈfraɪtfʊli",
+        "meaning": "đáng sợ",
+        "ex": "Here it's tolerable, said he, \"but with Bagration on the left flank they're getting it frightfully hot.\"",
+        "ipaExTrans": "hɪər ɪts ˈtɒlərəbl, sɛd hiː, \"bʌt wɪð Bagration ɒn ðə lɛft flæŋk ðeə ˈgɛtɪŋ ɪt ˈfraɪtfʊli hɒt.\"",
+        "exMeaning": "Ở đây, anh ta có thể chịu đựng được, nhưng với Bagration bên sườn trái, họ đang trở nên nóng bỏng khủng khiếp. \""
+    },
+    {
+        "word": "fully",
+        "type": "adv",
+        "ipa": "ˈfʊli",
+        "meaning": "đầy đủ",
+        "ex": "He was fully clothed and wore a light jacket.",
+        "ipaExTrans": "hiː wɒz ˈfʊli kləʊðd ænd wɔːr ə laɪt ˈʤækɪt.",
+        "exMeaning": "Anh ta mặc quần áo đầy đủ và mặc một chiếc áo khoác nhẹ."
+    },
+    {
+        "word": "furiously",
+        "type": "adv",
+        "ipa": "ˈfjʊərɪəsli",
+        "meaning": "giận dữ",
+        "ex": "And furiously popular it remained.",
+        "ipaExTrans": "ænd ˈfjʊərɪəsli ˈpɒpjʊlər ɪt rɪˈmeɪnd.",
+        "exMeaning": "Và nổi tiếng nó vẫn còn."
+    },
+    {
+        "word": "generally",
+        "type": "adv",
+        "ipa": "ˈʤɛnərəli",
+        "meaning": "nói chung là",
+        "ex": "Alex's sister generally had an opinion about everything, so it was no surprise that Katie had one about Lori.",
+        "ipaExTrans": "ˈæləksɪz ˈsɪstə ˈʤɛnərəli hæd ən əˈpɪnjən əˈbaʊt ˈɛvrɪθɪŋ, səʊ ɪt wɒz nəʊ səˈpraɪz ðæt ˈkeɪti hæd wʌn əˈbaʊt Lori.",
+        "exMeaning": "Chị gái của Alex thường có ý kiến ​​về mọi thứ, vì vậy không có gì ngạc nhiên khi Katie có một ý kiến ​​về Lori."
+    },
+    {
+        "word": "generously",
+        "type": "adv",
+        "ipa": "ˈʤɛnərəsli",
+        "meaning": "hào phóng",
+        "ex": "He also generously awarded those who helped him win battles.",
+        "ipaExTrans": "hiː ˈɔːlsəʊ ˈʤɛnərəsli əˈwɔːdɪd ðəʊz huː hɛlpt hɪm wɪn ˈbætlz.",
+        "exMeaning": "Ông cũng hào phóng trao tặng những người đã giúp ông chiến thắng trong các trận chiến."
+    },
+    {
+        "word": "gently",
+        "type": "adv",
+        "ipa": "ˈʤɛntli",
+        "meaning": "dịu dàng",
+        "ex": "Alex gently patted her on the back.",
+        "ipaExTrans": "ˈæləks ˈʤɛntli ˈpætɪd hɜːr ɒn ðə bæk.",
+        "exMeaning": "Alex nhẹ nhàng vỗ nhẹ vào lưng cô."
+    },
+    {
+        "word": "gladly",
+        "type": "adv",
+        "ipa": "ˈglædli",
+        "meaning": "rất vui",
+        "ex": "Yes, she could understand why she would walk gladly into death's arms.",
+        "ipaExTrans": "jɛs, ʃiː kʊd ˌʌndəˈstænd waɪ ʃiː wʊd wɔːk ˈglædli ˈɪntuː dɛθs ɑːmz.",
+        "exMeaning": "Phải, cô có thể hiểu tại sao cô lại vui vẻ bước vào vòng tay tử thần."
+    },
+    {
+        "word": "gleefully",
+        "type": "adv",
+        "ipa": "ˈgliːfʊli",
+        "meaning": "hân hoan",
+        "ex": "She'd spent the past four hundred years in college, gleefully learning more and more and working out of the lab he'd funded for her.",
+        "ipaExTrans": "ʃiːd spɛnt ðə pɑːst fɔː ˈhʌndrəd jɪəz ɪn ˈkɒlɪʤ, ˈgliːfʊli ˈlɜːnɪŋ mɔːr ænd mɔːr ænd ˈwɜːkɪŋ aʊt ɒv ðə læb hiːd ˈfʌndɪd fɔː hɜː.",
+        "exMeaning": "Cô đã dành bốn trăm năm qua ở trường đại học, vui vẻ học hỏi nhiều hơn và làm việc trong phòng thí nghiệm mà anh đã tài trợ cho cô."
+    },
+    {
+        "word": "gracefully",
+        "type": "adv",
+        "ipa": "ˈgreɪsfʊli",
+        "meaning": "duyên dáng",
+        "ex": "He gracefully swung her around.",
+        "ipaExTrans": "hiː ˈgreɪsfʊli swʌŋ hɜːr əˈraʊnd.",
+        "exMeaning": "Anh duyên dáng vung vẩy cô."
+    },
+    {
+        "word": "gratefully",
+        "type": "adv",
+        "ipa": "ˈgreɪtfʊli",
+        "meaning": "biết ơn",
+        "ex": "I accepted gratefully and asked him if there was any news on the camper.",
+        "ipaExTrans": "aɪ əkˈsɛptɪd ˈgreɪtfʊli ænd ɑːskt hɪm ɪf ðeə wɒz ˈɛni njuːz ɒn ðə ˈkæmpə.",
+        "exMeaning": "Tôi chấp nhận một cách biết ơn và hỏi anh ta nếu có bất kỳ tin tức nào về người cắm trại."
+    },
+    {
+        "word": "greatly",
+        "type": "adv",
+        "ipa": "ˈgreɪtli",
+        "meaning": "rất nhiều",
+        "ex": "He was greatly depressed.",
+        "ipaExTrans": "hiː wɒz ˈgreɪtli dɪˈprɛst.",
+        "exMeaning": "Anh vô cùng chán nản."
+    },
+    {
+        "word": "greedily",
+        "type": "adv",
+        "ipa": "ˈgriːdɪli",
+        "meaning": "tham ăn",
+        "ex": "He had none, but looked so unhappily and greedily at the others while they were eating!",
+        "ipaExTrans": "hiː hæd nʌn, bʌt lʊkt səʊ ʌnˈhæpɪli ænd ˈgriːdɪli æt ði ˈʌðəz waɪl ðeɪ wɜːr ˈiːtɪŋ!",
+        "exMeaning": "Anh ta không có ai, nhưng trông rất bất hạnh và tham lam với những người khác khi họ đang ăn!"
+    },
+    {
+        "word": "happily",
+        "type": "adv",
+        "ipa": "ˈhæpɪli",
+        "meaning": "hạnh phúc",
+        "ex": "They had been happily married for twenty years.",
+        "ipaExTrans": "ðeɪ hæd biːn ˈhæpɪli ˈmærɪd fɔː ˈtwɛnti jɪəz.",
+        "exMeaning": "Họ đã kết hôn hạnh phúc trong hai mươi năm."
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "word": "access",
+        "type": "truy cập",
+        "ipa": "ˈæksɛs",
+        "meaning": "to obtain, to gain entry (truy cập, đường vào)",
+        "tag": "Computers"
+    },
+    {
+        "word": "allocate",
+        "type": "chỉ định",
+        "ipa": "ˈæləʊkeɪt",
+        "meaning": "to designate for a specific purpose (chỉ định, chia phần, cấp phát)",
+        "tag": "Computers"
+    },
+    {
+        "word": "compatible",
+        "type": "tương thích",
+        "ipa": "kəmˈpætəbl",
+        "meaning": "able to function together (tương tác, thích ứng)",
+        "tag": "Computers"
+    },
+    {
+        "word": "delete",
+        "type": "xóa bỏ",
+        "ipa": "dɪˈliːt",
+        "meaning": "to remove; to erase (xóa)",
+        "tag": "Computers"
+    },
+    {
+        "word": "display",
+        "type": "trưng bày",
+        "ipa": "dɪsˈpleɪ",
+        "meaning": "what is visible on a monitor; v, to show (trình bày, trưng bày)",
+        "tag": "Computers"
+    },
+    {
+        "word": "duplicate",
+        "type": "bản sao",
+        "ipa": "ˈdjuːplɪkɪt",
+        "meaning": "to produce something equal; to make identical (bản sao, gấp đôi)",
+        "tag": "Computers"
+    },
+    {
+        "word": "fail",
+        "type": "Thất bại",
+        "ipa": "feɪl",
+        "meaning": "not to succeed; not to work correctly (trượt, không thành công)",
+        "tag": "Computers"
+    },
+    {
+        "word": "failure",
+        "type": "sự thất bại",
+        "ipa": "ˈfeɪljə",
+        "meaning": "(n) sự thất bại",
+        "tag": "Computers"
+    },
+    {
+        "word": "fallible",
+        "type": "ngụy biện",
+        "ipa": "ˈfæləbl",
+        "meaning": "(adj) có thể sai lầm; có thể là sai",
+        "tag": "Computers"
+    },
+    {
+        "word": "figure out",
+        "type": "tìm ra",
+        "ipa": "ˈfɪgər aʊt",
+        "meaning": "(v) to understand , to solve (chỉ ra, hiểu ra)",
+        "tag": "Computers"
+    },
+    {
+        "word": "ignore",
+        "type": "Làm lơ",
+        "ipa": "ɪgˈnɔː",
+        "meaning": "not to notice; to disregard (bỏ qua, lờ đi)",
+        "tag": "Computers"
+    },
+    {
+        "word": "search",
+        "type": "Tìm kiếm",
+        "ipa": "sɜːʧ",
+        "meaning": "to look for; n, investigation (tìm kiếm, tìm hiểu)",
+        "tag": "Computers"
+    },
+    {
+        "word": "warn",
+        "type": "cảnh báo",
+        "ipa": "wɔːn",
+        "meaning": "to alert; to tell about a danger or problem (cảnh báo)",
+        "tag": "Computers"
+    },
+    {
+        "word": "warning",
+        "type": "cảnh báo",
+        "ipa": "ˈwɔːnɪŋ",
+        "meaning": "(n) lời cảnh cáo, lời răn",
+        "tag": "Computers"
+    },
+    {
+        "word": "shut down",
+        "type": "tắt",
+        "ipa": "ʃʌt daʊn",
+        "meaning": "to turn off; to cease operation (đóng lại, ngừng lại)",
+        "tag": "Computers"
+    }
+]

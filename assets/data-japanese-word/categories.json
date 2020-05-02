@@ -1,0 +1,4 @@
+[
+    {"id": 2020, "position": 2020, "name": "TEST JAPANESE: hiragana", "date": "22/03/2020", "by": "DongHo", "url": "/assets/data-japanese-word/hiragana.json", "wShow": true, "eShow": false},
+    {"id": 2021, "position": 2021, "name": "TEST JAPANESE: katakana", "date": "22/03/2020", "by": "DongHo", "url": "/assets/data-japanese-word/katakana.json", "wShow": true, "eShow": false}
+]

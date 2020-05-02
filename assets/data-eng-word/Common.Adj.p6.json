@@ -1,0 +1,269 @@
+[
+    {
+        "word": "big",
+        "type": "Adj",
+        "ipa": "bɪg",
+        "meaning": "lớn",
+        "ex": "That would be a big help.",
+        "ipaExTrans": "ðæt wʊd biː ə bɪg hɛlp.",
+        "exMeaning": "Đó sẽ là một trợ giúp lớn."
+    },
+    {
+        "word": "colossal",
+        "type": "Adj",
+        "ipa": "kəˈlɒsl",
+        "meaning": "khổng lồ",
+        "ex": "You must think I'm a colossal liar.",
+        "ipaExTrans": "juː mʌst θɪŋk aɪm ə kəˈlɒsl ˈlaɪə.",
+        "exMeaning": "Bạn phải nghĩ tôi là một kẻ nói dối khổng lồ."
+    },
+    {
+        "word": "fat",
+        "type": "Adj",
+        "ipa": "fæt",
+        "meaning": "mập",
+        "ex": "I feel fat and lazy.",
+        "ipaExTrans": "aɪ fiːl fæt ænd ˈleɪzi.",
+        "exMeaning": "Tôi cảm thấy béo và lười biếng."
+    },
+    {
+        "word": "gigantic",
+        "type": "Adj",
+        "ipa": "ʤaɪˈgæntɪk",
+        "meaning": "khổng lồ",
+        "ex": "From the latter there grew a gigantic gourd.",
+        "ipaExTrans": "frɒm ðə ˈlætə ðeə gruː ə ʤaɪˈgæntɪk gʊəd.",
+        "exMeaning": "Từ sau đã phát triển một quả bầu khổng lồ."
+    },
+    {
+        "word": "great",
+        "type": "Adj",
+        "ipa": "greɪt",
+        "meaning": "tuyệt quá",
+        "ex": "You're doing a great job.",
+        "ipaExTrans": "jʊə ˈdu(ː)ɪŋ ə greɪt ʤɒb.",
+        "exMeaning": "Bạn đang làm một công việc tuyệt vời."
+    },
+    {
+        "word": "huge",
+        "type": "Adj",
+        "ipa": "hjuːʤ",
+        "meaning": "khổng lồ",
+        "ex": "His eyes looked huge when he was scared.",
+        "ipaExTrans": "hɪz aɪz lʊkt hjuːʤ wɛn hiː wɒz skeəd.",
+        "exMeaning": "Đôi mắt anh trông rất lớn khi anh sợ hãi."
+    },
+    {
+        "word": "immense",
+        "type": "Adj",
+        "ipa": "ɪˈmɛns",
+        "meaning": "bao la",
+        "ex": "The city has immense coal piers.",
+        "ipaExTrans": "ðə ˈsɪti hæz ɪˈmɛns kəʊl pɪəz.",
+        "exMeaning": "Thành phố có những bến than mênh mông."
+    },
+    {
+        "word": "large",
+        "type": "Adj",
+        "ipa": "lɑːʤ",
+        "meaning": "lớn",
+        "ex": "His large eyes were bright and snappy.",
+        "ipaExTrans": "hɪz lɑːʤ aɪz wɜː braɪt ænd ˈsnæpi.",
+        "exMeaning": "Đôi mắt to của anh sáng ngời."
+    },
+    {
+        "word": "little",
+        "type": "Adj",
+        "ipa": "ˈlɪtl",
+        "meaning": "ít",
+        "ex": "The little man shook his bald head.",
+        "ipaExTrans": "ðə ˈlɪtl mæn ʃʊk hɪz bɔːld hɛd.",
+        "exMeaning": "Người đàn ông nhỏ bé lắc đầu hói."
+    },
+    {
+        "word": "mammoth",
+        "type": "Adj",
+        "ipa": "ˈmæməθ",
+        "meaning": "voi ma mút",
+        "ex": "The geographical range of the mammoth was very extensive.",
+        "ipaExTrans": "ðə ʤɪəˈgræfɪkəl reɪnʤ ɒv ðə ˈmæməθ wɒz ˈvɛri ɪksˈtɛnsɪv.",
+        "exMeaning": "Phạm vi địa lý của voi ma mút rất rộng."
+    },
+    {
+        "word": "massive",
+        "type": "Adj",
+        "ipa": "ˈmæsɪv",
+        "meaning": "to lớn",
+        "ex": "Massive maple trees shaded back and front.",
+        "ipaExTrans": "ˈmæsɪv ˈmeɪpl triːz ˈʃeɪdɪd bæk ænd frʌnt.",
+        "exMeaning": "Cây phong khổng lồ râm mát phía sau và phía trước."
+    },
+    {
+        "word": "microscopic",
+        "type": "Adj",
+        "ipa": "ˌmaɪkrəsˈkɒpɪk",
+        "meaning": "kính hiển vi",
+        "ex": "In microscopic structure they all present the closest agreement with one another.",
+        "ipaExTrans": "ɪn ˌmaɪkrəsˈkɒpɪk ˈstrʌkʧə ðeɪ ɔːl ˈprɛznt ðə ˈkləʊsɪst əˈgriːmənt wɪð wʌn əˈnʌðə.",
+        "exMeaning": "Trong cấu trúc kính hiển vi, tất cả chúng thể hiện sự thỏa thuận gần nhất với nhau."
+    },
+    {
+        "word": "miniature",
+        "type": "Adj",
+        "ipa": "ˈmɪnəʧə",
+        "meaning": "thu nhỏ",
+        "ex": "Yeah, I think it's more like a miniature rodeo.",
+        "ipaExTrans": "jeə, aɪ θɪŋk ɪts mɔː laɪk ə ˈmɪnəʧə rəʊˈdeɪəʊ.",
+        "exMeaning": "Vâng, tôi nghĩ nó giống như một cuộc đua ngựa thu nhỏ."
+    },
+    {
+        "word": "petite",
+        "type": "Adj",
+        "ipa": "pəˈtiːt",
+        "meaning": "nhỏ nhắn",
+        "ex": "No, the petite woman ordered, her arms crossed.",
+        "ipaExTrans": "nəʊ, ðə pəˈtiːt ˈwʊmən ˈɔːdəd, hɜːr ɑːmz krɒst.",
+        "exMeaning": "Không, người phụ nữ nhỏ nhắn ra lệnh, khoanh tay."
+    },
+    {
+        "word": "puny",
+        "type": "Adj",
+        "ipa": "ˈpjuːni",
+        "meaning": "yếu đuối",
+        "ex": "Even if we are puny humans.",
+        "ipaExTrans": "ˈiːvən ɪf wiː ɑː ˈpjuːni ˈhjuːmənz.",
+        "exMeaning": "Ngay cả khi chúng ta đang trừng phạt con người."
+    },
+    {
+        "word": "scrawny",
+        "type": "Adj",
+        "ipa": "ˈskrɔːni",
+        "meaning": "nguệch ngoạc",
+        "ex": "He looked like any normal nerdy American with big glasses and a scrawny frame.",
+        "ipaExTrans": "hiː lʊkt laɪk ˈɛni ˈnɔːməl nerdy əˈmɛrɪkən wɪð bɪg ˈglɑːsɪz ænd ə ˈskrɔːni freɪm.",
+        "exMeaning": "Anh ta trông giống như bất kỳ người Mỹ bình thường nào với cặp kính to và khung hình nguệch ngoạc."
+    },
+    {
+        "word": "short",
+        "type": "Adj",
+        "ipa": "ʃɔːt",
+        "meaning": "ngắn",
+        "ex": "Life's too short as it is.",
+        "ipaExTrans": "laɪfs tuː ʃɔːt æz ɪt ɪz.",
+        "exMeaning": "Cuộc sống quá ngắn ngủi."
+    },
+    {
+        "word": "small",
+        "type": "Adj",
+        "ipa": "smɔːl",
+        "meaning": "nhỏ",
+        "ex": "It's a very small window.",
+        "ipaExTrans": "ɪts ə ˈvɛri smɔːl ˈwɪndəʊ.",
+        "exMeaning": "Đó là một cửa sổ rất nhỏ."
+    },
+    {
+        "word": "tall",
+        "type": "Adj",
+        "ipa": "tɔːl",
+        "meaning": "cao",
+        "ex": "The two tall peasants had their say.",
+        "ipaExTrans": "ðə tuː tɔːl ˈpɛzənts hæd ðeə seɪ.",
+        "exMeaning": "Hai người nông dân cao lớn đã lên tiếng."
+    },
+    {
+        "word": "teeny",
+        "type": "Adj",
+        "ipa": "ˈtiːni",
+        "meaning": "tuổi teen",
+        "ex": "Just a teeny slice of cake for me, please.",
+        "ipaExTrans": "ʤʌst ə ˈtiːni slaɪs ɒv keɪk fɔː miː, pliːz.",
+        "exMeaning": "Chỉ cần một lát bánh nhỏ cho tôi."
+    },
+    {
+        "word": "tiny",
+        "type": "Adj",
+        "ipa": "ˈtaɪni",
+        "meaning": "nhỏ bé",
+        "ex": "Some are very tiny and some are very large.",
+        "ipaExTrans": "sʌm ɑː ˈvɛri ˈtaɪni ænd sʌm ɑː ˈvɛri lɑːʤ.",
+        "exMeaning": "Một số rất nhỏ và một số rất lớn."
+    },
+    {
+        "word": "abundant",
+        "type": "Adj",
+        "ipa": "əˈbʌndənt",
+        "meaning": "phong phú",
+        "ex": "Pigs and goats were then abundant on the islands.",
+        "ipaExTrans": "pɪgz ænd gəʊts wɜː ðɛn əˈbʌndənt ɒn ði ˈaɪləndz.",
+        "exMeaning": "Lợn và dê sau đó có rất nhiều trên đảo."
+    },
+    {
+        "word": "jumbo",
+        "type": "Adj",
+        "ipa": "ˈʤʌmbəʊ",
+        "meaning": "jumbo",
+        "ex": "Jumbo is very strong and faithful.",
+        "ipaExTrans": "ˈʤʌmbəʊ ɪz ˈvɛri strɒŋ ænd ˈfeɪθfʊl.",
+        "exMeaning": "Jumbo rất mạnh mẽ và trung thành."
+    },
+    {
+        "word": "big-boned",
+        "type": "Adj",
+        "ipa": "bɪg-bəʊnd",
+        "meaning": "xương lớn"
+    },
+    {
+        "word": "chubby",
+        "type": "Adj",
+        "ipa": "ˈʧʌbi",
+        "meaning": "Mập mạp",
+        "ex": "Can she describe our chubby friend with the mustache?",
+        "ipaExTrans": "kæn ʃiː dɪsˈkraɪb ˈaʊə ˈʧʌbi frɛnd wɪð ðə məsˈtɑːʃ?",
+        "exMeaning": "Cô ấy có thể mô tả người bạn mũm mĩm của chúng tôi với bộ ria mép?"
+    },
+    {
+        "word": "long",
+        "type": "Adj",
+        "ipa": "lɒŋ",
+        "meaning": "Dài",
+        "ex": "Carmen, how long has she had this fever?",
+        "ipaExTrans": "ˈkɑːmən, haʊ lɒŋ hæz ʃiː hæd ðɪs ˈfiːvə?",
+        "exMeaning": "Cô bé bị sốt bao lâu rồi?"
+    },
+    {
+        "word": "giant",
+        "type": "Adj",
+        "ipa": "ˈʤaɪənt",
+        "meaning": "khổng lồ",
+        "ex": "Like a giant bath tub.",
+        "ipaExTrans": "laɪk ə ˈʤaɪənt bɑːθ tʌb.",
+        "exMeaning": "Giống như một bồn tắm khổng lồ."
+    },
+    {
+        "word": "majestic",
+        "type": "Adj",
+        "ipa": "məˈʤɛstɪk",
+        "meaning": "Hùng vĩ",
+        "ex": "A majestic oak, one of the finest trees in the Forest, stands near it.",
+        "ipaExTrans": "ə məˈʤɛstɪk əʊk, wʌn ɒv ðə ˈfaɪnɪst triːz ɪn ðə ˈfɒrɪst, stændz nɪər ɪt.",
+        "exMeaning": "Một cây sồi hùng vĩ, một trong những cây tốt nhất trong Rừng, đứng gần nó."
+    },
+    {
+        "word": "thin",
+        "type": "Adj",
+        "ipa": "θɪn",
+        "meaning": "gầy",
+        "ex": "You're skating on thin ice, Mr. Juror.",
+        "ipaExTrans": "jʊə ˈskeɪtɪŋ ɒn θɪn aɪs, Mr. ˈʤʊərə.",
+        "exMeaning": "Bạn đang trượt trên băng mỏng, ông Juror."
+    },
+    {
+        "word": "vast",
+        "type": "Adj",
+        "ipa": "vɑːst",
+        "meaning": "rộng lớn",
+        "ex": "He was so tall there was a vast difference in their height.",
+        "ipaExTrans": "hiː wɒz səʊ tɔːl ðeə wɒz ə vɑːst ˈdɪfrəns ɪn ðeə haɪt.",
+        "exMeaning": "Anh ta rất cao, có một sự khác biệt lớn về chiều cao của họ."
+    }
+]

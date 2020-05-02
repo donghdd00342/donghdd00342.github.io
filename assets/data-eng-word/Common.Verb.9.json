@@ -1,0 +1,602 @@
+[
+    {
+        "word": "shelter",
+        "type": "noun, verb",
+        "ipa": "ˈʃɛltə",
+        "meaning": "nơi trú ẩn"
+    },
+    {
+        "word": "shoe",
+        "type": "noun, verb",
+        "ipa": "ʃuː",
+        "meaning": "giày"
+    },
+    {
+        "word": "tackle",
+        "type": "noun, verb",
+        "ipa": "ˈtækl",
+        "meaning": "giải quyết"
+    },
+    {
+        "word": "tank",
+        "type": "noun, verb",
+        "ipa": "tæŋk",
+        "meaning": "xe tăng"
+    },
+    {
+        "word": "trust",
+        "type": "noun, verb",
+        "ipa": "trʌst",
+        "meaning": "Lòng tin"
+    },
+    {
+        "word": "assist",
+        "type": "noun, verb",
+        "ipa": "əˈsɪst",
+        "meaning": "hỗ trợ"
+    },
+    {
+        "word": "bake",
+        "type": "noun, verb",
+        "ipa": "beɪk",
+        "meaning": "nướng"
+    },
+    {
+        "word": "bar",
+        "type": "noun, verb, preposition",
+        "ipa": "bɑː",
+        "meaning": "quán ba"
+    },
+    {
+        "word": "bell",
+        "type": "noun, verb",
+        "ipa": "bɛl",
+        "meaning": "chuông"
+    },
+    {
+        "word": "bike",
+        "type": "noun, verb",
+        "ipa": "baɪk",
+        "meaning": "xe đạp"
+    },
+    {
+        "word": "blame",
+        "type": "noun, verb",
+        "ipa": "bleɪm",
+        "meaning": "khiển trách"
+    },
+    {
+        "word": "brick",
+        "type": "noun, verb",
+        "ipa": "brɪk",
+        "meaning": "gạch"
+    },
+    {
+        "word": "chair",
+        "type": "noun, verb",
+        "ipa": "ʧeə",
+        "meaning": "cái ghế"
+    },
+    {
+        "word": "closet",
+        "type": "noun, verb, adjective",
+        "ipa": "ˈklɒzɪt",
+        "meaning": "tủ quần áo"
+    },
+    {
+        "word": "clue",
+        "type": "noun, verb",
+        "ipa": "kluː",
+        "meaning": "đầu mối"
+    },
+    {
+        "word": "collar",
+        "type": "noun, verb",
+        "ipa": "ˈkɒlə",
+        "meaning": "cổ áo"
+    },
+    {
+        "word": "comment",
+        "type": "noun, verb",
+        "ipa": "ˈkɒmɛnt",
+        "meaning": "bình luận"
+    },
+    {
+        "word": "conference",
+        "type": "noun, verb",
+        "ipa": "ˈkɒnfərəns",
+        "meaning": "hội nghị"
+    },
+    {
+        "word": "devil",
+        "type": "noun, verb",
+        "ipa": "ˈdɛvl",
+        "meaning": "ác quỷ"
+    },
+    {
+        "word": "diet",
+        "type": "noun, verb",
+        "ipa": "ˈdaɪət",
+        "meaning": "chế độ ăn"
+    },
+    {
+        "word": "fear",
+        "type": "noun, verb",
+        "ipa": "fɪə",
+        "meaning": "nỗi sợ"
+    },
+    {
+        "word": "fuel",
+        "type": "noun, verb",
+        "ipa": "fjʊəl",
+        "meaning": "nhiên liệu"
+    },
+    {
+        "word": "glove",
+        "type": "noun, verb",
+        "ipa": "glʌv",
+        "meaning": "găng tay"
+    },
+    {
+        "word": "jacket",
+        "type": "noun, verb",
+        "ipa": "ˈʤækɪt",
+        "meaning": "Áo khoác"
+    },
+    {
+        "word": "lunch",
+        "type": "noun, verb",
+        "ipa": "lʌnʧ",
+        "meaning": "Bữa trưa"
+    },
+    {
+        "word": "monitor",
+        "type": "noun, verb",
+        "ipa": "ˈmɒnɪtə",
+        "meaning": "màn hình"
+    },
+    {
+        "word": "mortgage",
+        "type": "noun, verb",
+        "ipa": "ˈmɔːgɪʤ",
+        "meaning": "thế chấp"
+    },
+    {
+        "word": "nurse",
+        "type": "noun, verb",
+        "ipa": "nɜːs",
+        "meaning": "y tá"
+    },
+    {
+        "word": "pace",
+        "type": "noun, verb, preposition",
+        "ipa": "peɪs",
+        "meaning": "tốc độ"
+    },
+    {
+        "word": "panic",
+        "type": "noun, verb",
+        "ipa": "ˈpænɪk",
+        "meaning": "hoảng loạn"
+    },
+    {
+        "word": "peak",
+        "type": "noun, verb, adjective",
+        "ipa": "piːk",
+        "meaning": "cao điểm"
+    },
+    {
+        "word": "provided",
+        "type": "past, verb",
+        "ipa": "prəˈvaɪdɪd",
+        "meaning": "cung cấp"
+    },
+    {
+        "word": "reward",
+        "type": "noun, verb",
+        "ipa": "rɪˈwɔːd",
+        "meaning": "phần thưởng"
+    },
+    {
+        "word": "row",
+        "type": "noun, verb",
+        "ipa": "rəʊ",
+        "meaning": "hàng"
+    },
+    {
+        "word": "sandwich",
+        "type": "noun, verb",
+        "ipa": "ˈsænwɪʤ",
+        "meaning": "bánh mì sandwich"
+    },
+    {
+        "word": "shock",
+        "type": "noun, verb",
+        "ipa": "ʃɒk",
+        "meaning": "sốc"
+    },
+    {
+        "word": "spite",
+        "type": "noun, verb",
+        "ipa": "spaɪt",
+        "meaning": "mặc dù"
+    },
+    {
+        "word": "spray",
+        "type": "noun, verb",
+        "ipa": "spreɪ",
+        "meaning": "Xịt nước"
+    },
+    {
+        "word": "surprise",
+        "type": "noun, verb",
+        "ipa": "səˈpraɪz",
+        "meaning": "sự ngạc nhiên"
+    },
+    {
+        "word": "till",
+        "type": "noun, verb",
+        "ipa": "tɪl",
+        "meaning": "cho đến"
+    },
+    {
+        "word": "transition",
+        "type": "noun, verb",
+        "ipa": "trænˈsɪʒən",
+        "meaning": "quá độ"
+    },
+    {
+        "word": "weekend",
+        "type": "noun, verb",
+        "ipa": "ˈwiːkˈɛnd",
+        "meaning": "ngày cuối tuần"
+    },
+    {
+        "word": "yard",
+        "type": "noun, verb",
+        "ipa": "jɑːd",
+        "meaning": "sân"
+    },
+    {
+        "word": "alarm",
+        "type": "noun, verb",
+        "ipa": "əˈlɑːm",
+        "meaning": "báo thức"
+    },
+    {
+        "word": "bend",
+        "type": "noun, verb",
+        "ipa": "bɛnd",
+        "meaning": "bẻ cong"
+    },
+    {
+        "word": "bicycle",
+        "type": "noun, verb",
+        "ipa": "ˈbaɪsɪkl",
+        "meaning": "Xe đạp"
+    },
+    {
+        "word": "bite",
+        "type": "noun, verb",
+        "ipa": "baɪt",
+        "meaning": "cắn"
+    },
+    {
+        "word": "blind",
+        "type": "noun, verb, adjective",
+        "ipa": "blaɪnd",
+        "meaning": "mù"
+    },
+    {
+        "word": "bottle",
+        "type": "noun, verb",
+        "ipa": "ˈbɒtl",
+        "meaning": "chai"
+    },
+    {
+        "word": "cable",
+        "type": "noun, verb",
+        "ipa": "ˈkeɪbl",
+        "meaning": "cáp"
+    },
+    {
+        "word": "candle",
+        "type": "noun, verb",
+        "ipa": "ˈkændl",
+        "meaning": "nến"
+    },
+    {
+        "word": "clerk",
+        "type": "noun, verb",
+        "ipa": "klɑːk",
+        "meaning": "nhân viên bán hàng"
+    },
+    {
+        "word": "cloud",
+        "type": "noun, verb",
+        "ipa": "klaʊd",
+        "meaning": "đám mây"
+    },
+    {
+        "word": "concert",
+        "type": "noun, verb",
+        "ipa": "ˈkɒnsə(ː)t",
+        "meaning": "buổi hòa nhạc"
+    },
+    {
+        "word": "counter",
+        "type": "noun, verb, adverb",
+        "ipa": "ˈkaʊntə",
+        "meaning": "quầy tính tiền"
+    },
+    {
+        "word": "dirty",
+        "type": "adjective, verb",
+        "ipa": "ˈdɜːti",
+        "meaning": "dơ bẩn"
+    },
+    {
+        "word": "flower",
+        "type": "noun, verb",
+        "ipa": "ˈflaʊə",
+        "meaning": "hoa"
+    },
+    {
+        "word": "grandfather",
+        "type": "noun, verb",
+        "ipa": "ˈgrændˌfɑːðə",
+        "meaning": "ông nội"
+    },
+    {
+        "word": "harm",
+        "type": "noun, verb",
+        "ipa": "hɑːm",
+        "meaning": "làm hại"
+    },
+    {
+        "word": "knee",
+        "type": "noun, verb",
+        "ipa": "niː",
+        "meaning": "đầu gối"
+    },
+    {
+        "word": "lawyer",
+        "type": "noun, verb",
+        "ipa": "ˈlɔːjə",
+        "meaning": "luật sư"
+    },
+    {
+        "word": "load",
+        "type": "noun, verb",
+        "ipa": "ləʊd",
+        "meaning": "tải"
+    },
+    {
+        "word": "loose",
+        "type": "adjective, verb",
+        "ipa": "luːs",
+        "meaning": "lỏng lẻo"
+    },
+    {
+        "word": "mirror",
+        "type": "noun, verb",
+        "ipa": "ˈmɪrə",
+        "meaning": "gương"
+    },
+    {
+        "word": "neck",
+        "type": "noun, verb",
+        "ipa": "nɛk",
+        "meaning": "cái cổ"
+    },
+    {
+        "word": "pension",
+        "type": "noun, verb",
+        "ipa": "ˈpɛnʃən",
+        "meaning": "lương hưu"
+    },
+    {
+        "word": "plate",
+        "type": "noun, verb",
+        "ipa": "pleɪt",
+        "meaning": "đĩa"
+    },
+    {
+        "word": "pleased",
+        "type": "past, verb",
+        "ipa": "pliːzd",
+        "meaning": "vừa lòng"
+    },
+    {
+        "word": "proposed",
+        "type": "past, verb",
+        "ipa": "prəˈpəʊzd",
+        "meaning": "đề xuất"
+    },
+    {
+        "word": "ruin",
+        "type": "noun, verb",
+        "ipa": "rʊɪn",
+        "meaning": "hủy hoại"
+    },
+    {
+        "word": "ship",
+        "type": "noun, verb",
+        "ipa": "ʃɪp",
+        "meaning": "tàu"
+    },
+    {
+        "word": "skirt",
+        "type": "noun, verb",
+        "ipa": "skɜːt",
+        "meaning": "váy"
+    },
+    {
+        "word": "slice",
+        "type": "noun, verb",
+        "ipa": "slaɪs",
+        "meaning": "lát"
+    },
+    {
+        "word": "snow",
+        "type": "noun, verb",
+        "ipa": "snəʊ",
+        "meaning": "tuyết"
+    },
+    {
+        "word": "stroke",
+        "type": "noun, verb",
+        "ipa": "strəʊk",
+        "meaning": "Cú đánh"
+    },
+    {
+        "word": "switch",
+        "type": "noun, verb",
+        "ipa": "swɪʧ",
+        "meaning": "công tắc điện"
+    },
+    {
+        "word": "tired",
+        "type": "past, verb",
+        "ipa": "ˈtaɪəd",
+        "meaning": "mệt mỏi"
+    },
+    {
+        "word": "trash",
+        "type": "noun, verb",
+        "ipa": "træʃ",
+        "meaning": "rác"
+    },
+    {
+        "word": "tune",
+        "type": "noun, verb",
+        "ipa": "tjuːn",
+        "meaning": "điều chỉnh"
+    },
+    {
+        "word": "worried",
+        "type": "past, verb",
+        "ipa": "ˈwʌrid",
+        "meaning": "lo lắng"
+    },
+    {
+        "word": "zone",
+        "type": "noun, verb",
+        "ipa": "zəʊn",
+        "meaning": "vùng"
+    },
+    {
+        "word": "anger",
+        "type": "noun, verb",
+        "ipa": "ˈæŋgə",
+        "meaning": "Sự phẫn nộ"
+    },
+    {
+        "word": "award",
+        "type": "noun, verb",
+        "ipa": "əˈwɔːd",
+        "meaning": "giải thưởng"
+    },
+    {
+        "word": "bid",
+        "type": "noun, verb",
+        "ipa": "bɪd",
+        "meaning": "BID"
+    },
+    {
+        "word": "boot",
+        "type": "noun, verb",
+        "ipa": "buːt",
+        "meaning": "khởi động"
+    },
+    {
+        "word": "bug",
+        "type": "noun, verb",
+        "ipa": "bʌg",
+        "meaning": "lỗi"
+    },
+    {
+        "word": "camp",
+        "type": "noun, verb, adjective",
+        "ipa": "kæmp",
+        "meaning": "trại"
+    },
+    {
+        "word": "candy",
+        "type": "noun, verb",
+        "ipa": "ˈkændi",
+        "meaning": "cục kẹo"
+    },
+    {
+        "word": "carpet",
+        "type": "noun, verb",
+        "ipa": "ˈkɑːpɪt",
+        "meaning": "thảm"
+    },
+    {
+        "word": "cat",
+        "type": "noun, verb",
+        "ipa": "kæt",
+        "meaning": "con mèo"
+    },
+    {
+        "word": "champion",
+        "type": "noun, verb",
+        "ipa": "ˈʧæmpiən",
+        "meaning": "quán quân"
+    },
+    {
+        "word": "channel",
+        "type": "noun, verb",
+        "ipa": "ˈʧænl",
+        "meaning": "kênh"
+    },
+    {
+        "word": "clock",
+        "type": "noun, verb",
+        "ipa": "klɒk",
+        "meaning": "đồng hồ"
+    },
+    {
+        "word": "comfort",
+        "type": "noun, verb",
+        "ipa": "ˈkʌmfət",
+        "meaning": "thoải mái"
+    },
+    {
+        "word": "cow",
+        "type": "noun, verb",
+        "ipa": "kaʊ",
+        "meaning": "bò"
+    },
+    {
+        "word": "crack",
+        "type": "noun, verb, adjective",
+        "ipa": "kræk",
+        "meaning": "vết nứt"
+    },
+    {
+        "word": "disappointed",
+        "type": "past, verb",
+        "ipa": "ˌdɪsəˈpɔɪntɪd",
+        "meaning": "thất vọng"
+    },
+    {
+        "word": "empty",
+        "type": "adjective, verb, noun",
+        "ipa": "ˈɛmpti",
+        "meaning": "trống"
+    },
+    {
+        "word": "engineer",
+        "type": "noun, verb",
+        "ipa": "ˌɛnʤɪˈnɪə",
+        "meaning": "kỹ sư"
+    },
+    {
+        "word": "entrance",
+        "type": "noun, verb",
+        "ipa": "ˈɛntrəns",
+        "meaning": "cổng vào"
+    }
+]

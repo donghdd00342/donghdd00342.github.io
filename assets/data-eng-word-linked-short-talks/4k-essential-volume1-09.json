@@ -1,0 +1,222 @@
+[
+    {
+        "word": "against",
+        "ipa": "əˈgɛnst",
+        "type": "prep",
+        "tag": "chống lại",
+        "meaning": "To be against something is to be touching it or opposed to it.",
+        "context": "Chống lại một cái gì đó là chạm vào nó hoặc chống lại nó.",
+        "ex": "They both leaned against the wall.",
+        "ipaExTrans": "ðeɪ bəʊθ liːnd əˈgɛnst ðə wɔːl.",
+        "exMeaning": "Cả hai dựa vào tường."
+    },
+    {
+        "word": "beach",
+        "ipa": "biːʧ",
+        "type": "n",
+        "tag": "bờ biển",
+        "meaning": "The beach is a sandy or rocky place by the ocean.",
+        "context": "Bãi biển là một nơi cát hoặc đá bên đại dương.",
+        "ex": "The little girl built a sandcastle on the beach.",
+        "ipaExTrans": "ðə ˈlɪtl gɜːl bɪlt ə ˈsændˌkɑːsl ɒn ðə biːʧ.",
+        "exMeaning": "Cô bé xây một lâu đài cát trên bãi biển."
+    },
+    {
+        "word": "damage",
+        "ipa": "ˈdæmɪʤ",
+        "type": "v",
+        "tag": "hư hại",
+        "meaning": "To damage something is to break it.",
+        "context": "Làm hỏng một cái gì đó là phá vỡ nó.",
+        "ex": "The car was damaged in the accident.",
+        "ipaExTrans": "ðə kɑː wɒz ˈdæmɪʤd ɪn ði ˈæksɪdənt.",
+        "exMeaning": "Chiếc xe bị hư hại trong vụ tai nạn."
+    },
+    {
+        "word": "discover",
+        "ipa": "dɪsˈkʌvə",
+        "type": "v",
+        "tag": "khám phá",
+        "meaning": "To discover something is to find it for the first time.",
+        "context": "Để khám phá một cái gì đó là tìm thấy nó lần đầu tiên.",
+        "ex": "I discovered some new information in this book!",
+        "ipaExTrans": "aɪ dɪsˈkʌvəd sʌm njuː ˌɪnfəˈmeɪʃən ɪn ðɪs bʊk!",
+        "exMeaning": "Tôi phát hiện ra một số thông tin mới trong cuốn sách này!"
+    },
+    {
+        "word": "emotion",
+        "ipa": "ɪˈməʊʃən",
+        "type": "n",
+        "tag": "cảm xúc",
+        "meaning": "An emotion is how you feel.",
+        "context": "Một cảm xúc là cách bạn cảm nhận.",
+        "ex": "Anger is a common emotion that we all feel.",
+        "ipaExTrans": "ˈæŋgər ɪz ə ˈkɒmən ɪˈməʊʃən ðæt wiː ɔːl fiːl.",
+        "exMeaning": "Tức giận là một cảm xúc chung mà tất cả chúng ta đều cảm thấy."
+    },
+    {
+        "word": "fix",
+        "ipa": "fɪks",
+        "type": "v",
+        "tag": "sửa chữa",
+        "meaning": "To fix something is to make it work.",
+        "context": "Để sửa một cái gì đó là làm cho nó hoạt động.",
+        "ex": "My dad has many tools to help him fix broken things.",
+        "ipaExTrans": "maɪ dæd hæz ˈmɛni tuːlz tuː hɛlp hɪm fɪks ˈbrəʊkən θɪŋz.",
+        "exMeaning": "Bố tôi có nhiều công cụ để giúp ông sửa chữa những thứ bị hỏng."
+    },
+    {
+        "word": "frank",
+        "ipa": "fræŋk",
+        "type": "adj",
+        "tag": "thẳng thắn",
+        "meaning": "If you are frank, you are being very honest.",
+        "context": "Nếu bạn thẳng thắn, bạn đang rất trung thực.",
+        "ex": "The teacher had a frank discussion with her students.",
+        "ipaExTrans": "ðə ˈtiːʧə hæd ə fræŋk dɪsˈkʌʃən wɪð hɜː ˈstjuːdənts.",
+        "exMeaning": "Giáo viên đã có một cuộc thảo luận thẳng thắn với học sinh của mình."
+    },
+    {
+        "word": "identify",
+        "ipa": "aɪˈdɛntɪfaɪ",
+        "type": "v",
+        "tag": "nhận định",
+        "meaning": "To identify something is to be able to name it.",
+        "context": "Để xác định một cái gì đó là có thể đặt tên cho nó.",
+        "ex": "I used the file to identify his name.",
+        "ipaExTrans": "aɪ juːzd ðə faɪl tuː aɪˈdɛntɪfaɪ hɪz neɪm.",
+        "exMeaning": "Tôi đã sử dụng các tập tin để xác định tên của mình."
+    },
+    {
+        "word": "island",
+        "ipa": "ˈaɪlənd",
+        "type": "n",
+        "tag": "Đảo",
+        "meaning": "An island is land in the middle of water.",
+        "context": "Một hòn đảo là đất giữa nước.",
+        "ex": "japan is a group of islands.",
+        "ipaExTrans": "ʤəˈpæn ɪz ə gruːp ɒv ˈaɪləndz.",
+        "exMeaning": "Nhật Bản là một nhóm các đảo."
+    },
+    {
+        "word": "ocean",
+        "ipa": "ˈəʊʃən",
+        "type": "n",
+        "tag": "đại dương",
+        "meaning": "The ocean is all of the salt water that surrounds land.",
+        "context": "Đại dương là tất cả các nước mặn bao quanh đất liền.",
+        "ex": "The ocean can make powerful waves.",
+        "ipaExTrans": "ði ˈəʊʃən kæn meɪk ˈpaʊəfʊl weɪvz.",
+        "exMeaning": "Đại dương có thể tạo ra những con sóng mạnh mẽ."
+    },
+    {
+        "word": "perhaps",
+        "ipa": "pəˈhæps",
+        "type": "adv",
+        "tag": "có lẽ",
+        "meaning": "Perhaps is used when you say that something could happen.",
+        "context": "Có lẽ được sử dụng khi bạn nói rằng một cái gì đó có thể xảy ra.",
+        "ex": "Perhaps I will eat an apple for lunch.",
+        "ipaExTrans": "pəˈhæps aɪ wɪl iːt ən ˈæpl fɔː lʌnʧ.",
+        "exMeaning": "Có lẽ tôi sẽ ăn một quả táo cho bữa trưa."
+    },
+    {
+        "word": "pleasant",
+        "ipa": "ˈplɛznt",
+        "type": "adj",
+        "tag": "hài lòng",
+        "meaning": "If something is pleasant, you enjoy it",
+        "context": "Nếu một cái gì đó dễ chịu, bạn thích nó",
+        "ex": "The character had a pleasant look on its face.",
+        "ipaExTrans": "ðə ˈkærɪktə hæd ə ˈplɛznt lʊk ɒn ɪts feɪs.",
+        "exMeaning": "Các nhân vật có một cái nhìn dễ chịu trên khuôn mặt của nó."
+    },
+    {
+        "word": "prevent",
+        "ipa": "prɪˈvɛnt",
+        "type": "v",
+        "tag": "ngăn chặn",
+        "meaning": "To prevent something is to stop it from happening.",
+        "context": "Để ngăn chặn một cái gì đó là ngăn chặn nó xảy ra.",
+        "ex": "The handcuffs prevented me from moving my hands.",
+        "ipaExTrans": "ðə ˈhændkʌfs prɪˈvɛntɪd miː frɒm ˈmuːvɪŋ maɪ hændz.",
+        "exMeaning": "Cái còng tay ngăn tôi di chuyển tay."
+    },
+    {
+        "word": "rock",
+        "ipa": "rɒk",
+        "type": "n",
+        "tag": "đá",
+        "meaning": "A rock is a hard thing in the dirt.",
+        "context": "Một tảng đá là một điều khó khăn trong bụi bẩn.",
+        "ex": "I stacked rocks on top of one another",
+        "ipaExTrans": "aɪ stækt rɒks ɒn tɒp ɒv wʌn əˈnʌðə",
+        "exMeaning": "Tôi xếp chồng đá lên nhau"
+    },
+    {
+        "word": "save",
+        "ipa": "seɪv",
+        "type": "v",
+        "tag": "tiết kiệm, cứu giúp",
+        "meaning": "To save something is to keep it from being hurt.",
+        "context": "Để cứu một cái gì đó là để giữ cho nó khỏi bị tổn thương.",
+        "ex": "I want to help save the world.",
+        "ipaExTrans": "aɪ wɒnt tuː hɛlp seɪv ðə wɜːld.",
+        "exMeaning": "Tôi muốn giúp cứu thế giới."
+    },
+    {
+        "word": "step",
+        "ipa": "stɛp",
+        "type": "v",
+        "tag": "bước đi",
+        "meaning": "To step is to walk",
+        "context": "Bước là đi bộ",
+        "ex": "Be careful where you step.",
+        "ipaExTrans": "biː ˈkeəfʊl weə juː stɛp.",
+        "exMeaning": "Hãy cẩn thận nơi bạn bước."
+    },
+    {
+        "word": "still",
+        "ipa": "stɪl",
+        "type": "adv",
+        "tag": "vẫn",
+        "meaning": "Still is used when you say that a situation keeps going on.",
+        "context": "Vẫn được sử dụng khi bạn nói rằng một tình huống tiếp tục.",
+        "ex": "They are still waiting in line to get tickets.",
+        "ipaExTrans": "ðeɪ ɑː stɪl ˈweɪtɪŋ ɪn laɪn tuː gɛt ˈtɪkɪts.",
+        "exMeaning": "Họ vẫn đang xếp hàng để lấy vé."
+    },
+    {
+        "word": "taste",
+        "ipa": "teɪst",
+        "type": "n",
+        "tag": "nếm thử, vị",
+        "meaning": "A taste is the flavor something makes in your mouth.",
+        "context": "Một hương vị là hương vị một cái gì đó làm trong miệng của bạn.",
+        "ex": "The taste of the fruit was sweet.",
+        "ipaExTrans": "ðə teɪst ɒv ðə fruːt wɒz swiːt.",
+        "exMeaning": "Hương vị của trái cây thật ngọt ngào."
+    },
+    {
+        "word": "throw",
+        "ipa": "θrəʊ",
+        "type": "v",
+        "tag": "phi, ném",
+        "meaning": "To throw something is to use your hand to make it go through the air.",
+        "context": "Ném một cái gì đó là sử dụng bàn tay của bạn để làm cho nó bay trong không khí.",
+        "ex": "The pitcher can throw the baseball very fast.",
+        "ipaExTrans": "ðə ˈpɪʧə kæn θrəʊ ðə ˈbeɪsbɔːl ˈvɛri fɑːst.",
+        "exMeaning": "Người ném bóng có thể ném bóng chày rất nhanh."
+    },
+    {
+        "word": "wave",
+        "ipa": "weɪv",
+        "type": "n",
+        "tag": "làn sóng, tình trạng lúc lắc",
+        "meaning": "A wave is a line of water that moves higher than the rest of the water.",
+        "context": "Sóng là một dòng nước di chuyển cao hơn phần còn lại của nước.",
+        "ex": "The water was filled with large blue waves.",
+        "ipaExTrans": "ðə ˈwɔːtə wɒz fɪld wɪð lɑːʤ bluː weɪvz.",
+        "exMeaning": "Mặt nước tràn ngập những con sóng lớn màu xanh."
+    }
+]

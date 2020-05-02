@@ -1,0 +1,42 @@
+[
+    {
+        "sentence": "All temporary WORKERS are paid on an hourly basis and receive no benefits.",
+        "sentenceNeedFill": "All temporary _______ are paid on an hourly basis and receive no benefits.",
+        "ipa": "ɔːl ˈtɛmpərəri ˈwɜːkəz ɑː peɪd ɒn ən ˈaʊəli ˈbeɪsɪs ænd rɪˈsiːv nəʊ ˈbɛnɪfɪts.",
+        "tag": "WORKERS ",
+        "theFill": "WORKERS ",
+        "meaning": "Tất cả công nhân tạm thời được trả công theo giờ và không nhận bất cứ phúc lợi nào."
+    },
+    {
+        "sentence": "Ms.Nora decided to find a solution for the PROBLEM by herself.",
+        "sentenceNeedFill": "Ms.Nora decided to find a solution for the _______ by herself.",
+        "ipa": "Ms.ˈnɔːrə dɪˈsaɪdɪd tuː faɪnd ə səˈluːʃən fɔː ðə ˈprɒbləm baɪ hɜːˈsɛlf.",
+        "tag": "PROBLEM ",
+        "theFill": "PROBLEM ",
+        "meaning": "Bà Nora quyết định tự tìm ra giải pháp cho vấn đề."
+    },
+    {
+        "sentence": "She always uses the best service PROVIDERS regardless of expense.",
+        "sentenceNeedFill": "She always uses the best service _______ regardless of expense.",
+        "ipa": "ʃiː ˈɔːlweɪz ˈjuːzɪz ðə bɛst ˈsɜːvɪs prəˈvaɪdəz rɪˈgɑːdlɪs ɒv ɪksˈpɛns.",
+        "tag": "PROVIDERS ",
+        "theFill": "PROVIDERS ",
+        "meaning": "Cô ta luôn chọn nhà cung cấp tốt nhất bất kể chi phí thế nào."
+    },
+    {
+        "sentence": "We didn't SCHEDULE enough time for all the exhibits.",
+        "sentenceNeedFill": "We didn't _______ enough time for all the exhibits.",
+        "ipa": "wiː dɪdnt ˈʃɛdjuːl ɪˈnʌf taɪm fɔːr ɔːl ði ɪgˈzɪbɪts.",
+        "tag": "SCHEDULE ",
+        "theFill": "SCHEDULE ",
+        "meaning": "Chúng tôi đã không lên lịch đủ thời gian cho tất cả các cuộc triễn lãm."
+    },
+    {
+        "sentence": "It is important for the instrument to be properly tuned in ORDER to produce the intended notes.",
+        "sentenceNeedFill": "It is important for the instrument to be properly tuned in _______ to produce the intended notes.",
+        "ipa": "ɪt ɪz ɪmˈpɔːtənt fɔː ði ˈɪnstrʊmənt tuː biː ˈprɒpəli tjuːnd ɪn ˈɔːdə tuː ˈprɒdjuːs ði ɪnˈtɛndɪd nəʊts.",
+        "tag": "ORDER ",
+        "theFill": "ORDER",
+        "meaning": "Việc lên dây đàn đúng rất quan trọng để tạo ra nốt nhạc như ý muốn."
+    }
+]

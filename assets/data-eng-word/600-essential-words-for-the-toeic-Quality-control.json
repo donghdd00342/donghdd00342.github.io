@@ -1,0 +1,128 @@
+[
+    {
+        "word": "brand",
+        "type": "nhãn hiệu",
+        "ipa": "brænd",
+        "meaning": "n. an identifying mark or label, a trademark (nhãn, nhãn hiệu)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "conform",
+        "type": "tuân thủ",
+        "ipa": "kənˈfɔːm",
+        "meaning": "v. to match specifications or qualities (làm cho phù hợp)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "defect",
+        "type": "khiếm khuyết",
+        "ipa": "dɪˈfɛkt",
+        "meaning": "n. an imperfection or flaw (nhược điểm)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "defective",
+        "type": "khiếm khuyết",
+        "ipa": "dɪˈfɛktɪv",
+        "meaning": "adj. có khiếm khuyết, nhược điểm",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "enhance",
+        "type": "nâng cao",
+        "ipa": "ɪnˈhɑːns",
+        "meaning": "v. to make more attractive or valuable (tăng, nâng cao)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "garment",
+        "type": "quần áo",
+        "ipa": "ˈgɑːmənt",
+        "meaning": "n. an article of clothing (áo quần)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "inspect",
+        "type": "quan sát",
+        "ipa": "ɪnˈspɛkt",
+        "meaning": "v. to look at closely, to examine carefully or officially (kiểm tra, thanh tra)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "inspection",
+        "type": "kiểm tra",
+        "ipa": "ɪnˈspɛkʃən",
+        "meaning": "n. sự kiểm tra, sự xem xét",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "inspector",
+        "type": "thanh tra",
+        "ipa": "ɪnˈspɛktə",
+        "meaning": "n. Người kiểm tra, thanh tra",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "perceive",
+        "type": "nhận thức",
+        "ipa": "pəˈsiːv",
+        "meaning": "v. to notice, to become aware of, to see (nhận thức, lĩnh hội)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "perception",
+        "type": "nhận thức",
+        "ipa": "pəˈsɛpʃən",
+        "meaning": "n. sự nhận biết, nhận thức, cảm nhận",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "perceptive",
+        "type": "nhận thức",
+        "ipa": "pəˈsɛptɪv",
+        "meaning": "adj. thuộc về tri giác",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "repel",
+        "type": "đẩy lùi",
+        "ipa": "rɪˈpɛl",
+        "meaning": "v. to keep away, to fight against (đẩy xa, khước từ)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "repellent",
+        "type": "thuốc chống côn trùng",
+        "ipa": "rɪˈpɛlənt",
+        "meaning": "n. adj. đẩy xa, khước từ",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "take back",
+        "type": "lấy lại",
+        "ipa": "teɪk bæk",
+        "meaning": "b. to return something, to withdraw or retract (lấy lại, kéo lại)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "throw out",
+        "type": "ném ra",
+        "ipa": "θrəʊ aʊt",
+        "meaning": "v. to dispose of (vứt đi, bỏ đi)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "uniform",
+        "type": "đồng phục",
+        "ipa": "ˈjuːnɪfɔːm",
+        "meaning": "adj. Consistent in form or appearance (Cùng 1 kiểu, không thay đổi về tính cáh hay hình thức)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "wrinkle",
+        "type": "nếp nhăn",
+        "ipa": "ˈrɪŋkl",
+        "meaning": "n. a crease, ridge, or furrow, especially in skin or fabric (nếp nhăn)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    }
+]

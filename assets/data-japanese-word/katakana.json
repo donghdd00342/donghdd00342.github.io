@@ -1,0 +1,387 @@
+[
+    {
+        "word": "ア イ ウ エ オ",
+        "ipa": "a i u e o",
+        "meaning": "a i u e o"
+    },
+    {
+        "word": "カ キ ク ケ コ",
+        "ipa": "ka ki ku ke ko",
+        "meaning": "ka ki ku ke ko"
+    },
+    {
+        "word": "サ シ ス セ ソ",
+        "ipa": "sa shi su se so",
+        "meaning": "sa shi su se so"
+    },
+    {
+        "word": "タ チ ツ テ ト",
+        "ipa": "ta chi tsu te to",
+        "meaning": "ta chi tsu te to"
+    },
+    {
+        "word": "ナ ニ ヌ ネ ノ",
+        "ipa": "na ni nu ne no",
+        "meaning": "na ni nu ne no"
+    },
+    {
+        "word": "ハ ヒ フ ヘ ホ",
+        "ipa": "ha hi fu he ho",
+        "meaning": "ha hi fu he ho"
+    },
+    {
+        "word": "マ ミ ム メ モ",
+        "ipa": "ma mi mu me mo",
+        "meaning": "ma mi mu me mo"
+    },
+    {
+        "word": "ラ リ ル レ ロ",
+        "ipa": "ra ri ru re ro",
+        "meaning": "ra ri ru re ro"
+    },
+    {
+        "word": "イ ウ エ",
+        "ipa": "i u e",
+        "meaning": "i u e"
+    },
+    {
+        "word": "キ ク ケ",
+        "ipa": "ki ku ke",
+        "meaning": "ki ku ke"
+    },
+    {
+        "word": "シ ス セ",
+        "ipa": "shi su se",
+        "meaning": "shi su se"
+    },
+    {
+        "word": "チ ツ テ",
+        "ipa": "chi tsu te",
+        "meaning": "chi tsu te"
+    },
+    {
+        "word": "ニ ヌ ネ",
+        "ipa": "ni nu ne",
+        "meaning": "ni nu ne"
+    },
+    {
+        "word": "ヒ フ ヘ",
+        "ipa": "hi fu he",
+        "meaning": "hi fu he"
+    },
+    {
+        "word": "ミ ム メ",
+        "ipa": "mi mu me",
+        "meaning": "mi mu me"
+    },
+    {
+        "word": "リ ル レ",
+        "ipa": "ri ru re",
+        "meaning": "ri ru re"
+    },
+    {
+        "word": "ウ エ オ",
+        "ipa": "u e o",
+        "meaning": "u e o"
+    },
+    {
+        "word": "ク ケ コ",
+        "ipa": "ku ke ko",
+        "meaning": "ku ke ko"
+    },
+    {
+        "word": "ス セ ソ",
+        "ipa": "su se so",
+        "meaning": "su se so"
+    },
+    {
+        "word": "ツ テ ト",
+        "ipa": "tsu te to",
+        "meaning": "tsu te to"
+    },
+    {
+        "word": "ヌ ネ ノ",
+        "ipa": "nu ne no",
+        "meaning": "nu ne no"
+    },
+    {
+        "word": "フ ヘ ホ",
+        "ipa": "fu he ho",
+        "meaning": "fu he ho"
+    },
+    {
+        "word": "ム メ モ",
+        "ipa": "mu me mo",
+        "meaning": "mu me mo"
+    },
+    {
+        "word": "ル レ ロ",
+        "ipa": "ru re ro",
+        "meaning": "ru re ro"
+    },
+    {
+        "word": "ヤ ユ ヨ",
+        "ipa": "ya yu yo",
+        "meaning": "ya yu yo"
+    },
+    {
+        "word": "ワ ヲ ン",
+        "ipa": "wa wo n",
+        "meaning": "wa wo n"
+    },
+    {
+        "word": "ア ウ オ",
+        "ipa": "a u o",
+        "meaning": "a u o"
+    },
+    {
+        "word": "カ ク コ",
+        "ipa": "ka ku ko",
+        "meaning": "ka ku ko"
+    },
+    {
+        "word": "サ ス ソ",
+        "ipa": "sa su so",
+        "meaning": "sa su so"
+    },
+    {
+        "word": "タ ツ ト",
+        "ipa": "ta tsu to",
+        "meaning": "ta tsu to"
+    },
+    {
+        "word": "ナ ヌ ノ",
+        "ipa": "na nu no",
+        "meaning": "na nu no"
+    },
+    {
+        "word": "ハ フ ホ",
+        "ipa": "ha fu ho",
+        "meaning": "ha fu ho"
+    },
+    {
+        "word": "マ ム モ",
+        "ipa": "ma mu mo",
+        "meaning": "ma mu mo"
+    },
+    {
+        "word": "ラ ル ロ",
+        "ipa": "ra ru ro",
+        "meaning": "ra ru ro"
+    },
+    {
+        "word": "オ エ ウ イ ア",
+        "ipa": "o e u i a",
+        "meaning": "o e u i a"
+    },
+    {
+        "word": "コ ケ ク キ カ",
+        "ipa": "ko ke ku ki ka",
+        "meaning": "ko ke ku ki ka"
+    },
+    {
+        "word": "ソ セ ス シ サ",
+        "ipa": "so se su shi sa",
+        "meaning": "so se su shi sa"
+    },
+    {
+        "word": "ト テ ツ チ タ",
+        "ipa": "to te tsu chi ta",
+        "meaning": "to te tsu chi ta"
+    },
+    {
+        "word": "ノ ネ ヌ ニ ナ",
+        "ipa": "no ne nu ni na",
+        "meaning": "no ne nu ni na"
+    },
+    {
+        "word": "ホ ヘ フ ヒ ハ",
+        "ipa": "ho he fu hi ha",
+        "meaning": "ho he fu hi ha"
+    },
+    {
+        "word": "モ メ ム ミ マ",
+        "ipa": "mo me mu mi ma",
+        "meaning": "mo me mu mi ma"
+    },
+    {
+        "word": "ロ レ ル リ ラ",
+        "ipa": "ro re ru ri ra",
+        "meaning": "ro re ru ri ra"
+    },
+    {
+        "word": "エ ウ イ",
+        "ipa": "e u i",
+        "meaning": "e u i"
+    },
+    {
+        "word": "ケ ク キ",
+        "ipa": "ke ku ki",
+        "meaning": "ke ku ki"
+    },
+    {
+        "word": "セ ス シ",
+        "ipa": "se su shi",
+        "meaning": "se su shi"
+    },
+    {
+        "word": "テ ツ チ",
+        "ipa": "te tsu chi",
+        "meaning": "te tsu chi"
+    },
+    {
+        "word": "ネ ヌ ニ",
+        "ipa": "ne nu ni",
+        "meaning": "ne nu ni"
+    },
+    {
+        "word": "ヘ フ ヒ",
+        "ipa": "he fu hi",
+        "meaning": "he fu hi"
+    },
+    {
+        "word": "メ ム ミ",
+        "ipa": "me mu mi",
+        "meaning": "me mu mi"
+    },
+    {
+        "word": "レ ル リ",
+        "ipa": "re ru ri",
+        "meaning": "re ru ri"
+    },
+    {
+        "word": "ガ ギ グ ゲ ゴ",
+        "ipa": "k->ga k->gi k->gu k->ge k->go",
+        "meaning": "ga gi gu ge go"
+    },
+    {
+        "word": "ザ ジ ズ ゼ ゾ",
+        "ipa": "s->za sh->ji s->zu s->ze s->zo",
+        "meaning": "za ji zu ze zo"
+    },
+    {
+        "word": "ダ ヂ ヅ デ ド",
+        "ipa": "t->da ch->ji ts->zu t->de t->do",
+        "meaning": "da ji zu de do"
+    },
+    {
+        "word": "バ ビ ブ ベ ボ",
+        "ipa": "h->ba h->bi h->bu h->be h->bo",
+        "meaning": "ba bi bu be bo"
+    },
+    {
+        "word": "パ ピ プ ぺ ポ",
+        "ipa": "h->pa h->pi h->pu h->pe h->po",
+        "meaning": "pa pi pu pe po"
+    },
+    {
+        "word": "キャ キュ キョ",
+        "ipa": "kya kyu kyo",
+        "meaning": "kya kyu kyo"
+    },
+    {
+        "word": "ギャ ギュ ギョ",
+        "ipa": "k->gya k->gyu k->gyo",
+        "meaning": "gya gyu gyo"
+    },
+    {
+        "word": "シャ シュ ショ",
+        "ipa": "sha shu sho",
+        "meaning": "sha shu sho"
+    },
+    {
+        "word": "ジャ ジュ ジョ",
+        "ipa": "sh->ja sh->ju sh->jo",
+        "meaning": "ja ju jo"
+    },
+    {
+        "word": "チャ チュ チョ",
+        "ipa": "cha chu cho",
+        "meaning": "cha chu cho"
+    },
+    {
+        "word": "ヂャ ヂュ ヂョ",
+        "ipa": "ch->ja ch->ju ch->jo",
+        "meaning": "ja ju jo"
+    },
+    {
+        "word": "ニャ ニュ ニョ",
+        "ipa": "nya nyu nyo",
+        "meaning": "nya nyu nyo"
+    },
+    {
+        "word": "ヒャ ヒュ ヒョ",
+        "ipa": "hya hyu hyo",
+        "meaning": "hya hyu hyo"
+    },
+    {
+        "word": "ビャ ビュ ビョ",
+        "ipa": "h->bya h->byu h->byo",
+        "meaning": "bya byu byo"
+    },
+    {
+        "word": "ピャ ピュ ピョ",
+        "ipa": "h->pya h->pyu h->pyo",
+        "meaning": "pya pyu pyo"
+    },
+    {
+        "word": "ミャ ミュ ミョ",
+        "ipa": "mya myu myo",
+        "meaning": "mya myu myo"
+    },
+    {
+        "word": "リャ リュ リョ",
+        "ipa": "rya ryu ryo",
+        "meaning": "rya ryu ryo"
+    },
+    {
+        "word": "ア カ サ タ ナ ハ マ ラ",
+        "ipa": "a ka sa ta na ha ma ra",
+        "meaning": "a ka sa ta na ha ma ra"
+    },
+    {
+        "word": "イ キ シ チ ニ ヒ ミ リ",
+        "ipa": "i ki shi chi ni hi mi ri",
+        "meaning": "i ki shi chi ni hi mi ri"
+    },
+    {
+        "word": "ウ ク ス ツ ヌ フ ム ル",
+        "ipa": "u ku su tsu nu fu mu ru",
+        "meaning": "u ku su tsu nu fu mu ru"
+    },
+    {
+        "word": "エ ケ セ テ ネ ヘ メ レ",
+        "ipa": "e ke se te ne he me re",
+        "meaning": "e ke se te ne he me re"
+    },
+    {
+        "word": "オ コ ソ ト ノ ホ モ ロ",
+        "ipa": "o ko so to no ho mo ro",
+        "meaning": "o ko so to no ho mo ro"
+    },
+    {
+        "word": "ガ ザ ダ バ パ",
+        "ipa": "k->ga s->za t->da h->ba h->pa",
+        "meaning": "ga za da ba pa"
+    },
+    {
+        "word": "ギ ジ ヂ ビ ピ",
+        "ipa": "k->gi ch->ji sh->ji h->bi h->pi",
+        "meaning": "gi ji ji bi pi"
+    },
+    {
+        "word": "グ ズ ヅ ブ プ",
+        "ipa": "k->gu s->zu ts->zu h->bu h->pu",
+        "meaning": "gu zu zu bu pu"
+    },
+    {
+        "word": "ゲ ゼ デ ベ ぺ",
+        "ipa": "k->ge s->ze t->de h->be h->pe",
+        "meaning": "ge ze de be pe"
+    },
+    {
+        "word": "ゴ ゾ ド ボ ポ",
+        "ipa": "k->go s->zo t->do h->bo h->po",
+        "meaning": "go zo do bo po"
+    }
+]

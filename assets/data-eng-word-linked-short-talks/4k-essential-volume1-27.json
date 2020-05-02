@@ -1,0 +1,222 @@
+[
+    {
+        "word": "actually",
+        "ipa": "ˈækʧʊəli",
+        "type": "adv",
+        "tag": "thực ra, trên thực tế",
+        "meaning": "Actually means in fact or really.",
+        "context": "Trên thực tế có nghĩa là trong thực tế hoặc thực sự.",
+        "ex": "My dad looks a little mean, but actually he’s very kind.",
+        "ipaExTrans": "maɪ dæd lʊks ə ˈlɪtl miːn, bʌt ˈækʧʊəli hiːz ˈvɛri kaɪnd.",
+        "exMeaning": "Bố tôi có vẻ hơi xấu tính, nhưng thực ra ông rất tốt bụng."
+    },
+    {
+        "word": "bite",
+        "ipa": "baɪt",
+        "type": "n",
+        "tag": "cắn, cắn và xé",
+        "meaning": "Bite is the act of using your teeth to cut and tear into something.",
+        "context": "Cắn là hành động sử dụng răng của bạn để cắt và xé thành một cái gì đó.",
+        "ex": "The boy took a big bite out of his hamburger.",
+        "ipaExTrans": "ðə bɔɪ tʊk ə bɪg baɪt aʊt ɒv hɪz ˈhæmbɜːgə.",
+        "exMeaning": "Cậu bé cắn một miếng lớn từ chiếc bánh hamburger của mình."
+    },
+    {
+        "word": "coast",
+        "ipa": "kəʊst",
+        "type": "n",
+        "tag": "bờ biển",
+        "meaning": "The coast is the land by an ocean",
+        "context": "Bờ biển là vùng đất của một đại dương",
+        "ex": "I stayed on the southern coast of Australia.",
+        "ipaExTrans": "aɪ steɪd ɒn ðə ˈsʌðən kəʊst ɒv ɒˈstreɪliːə.",
+        "exMeaning": "Tôi ở lại bờ biển phía nam Australia."
+    },
+    {
+        "word": "deal",
+        "ipa": "diːl",
+        "type": "n",
+        "tag": "thỏa thuận",
+        "meaning": "A deal is an agreement that you have with another person.",
+        "context": "Thỏa thuận là một thỏa thuận mà bạn có với người khác.",
+        "ex": "I made a deal with the other company to give us some money.",
+        "ipaExTrans": "aɪ meɪd ə diːl wɪð ði ˈʌðə ˈkʌmpəni tuː gɪv ʌs sʌm ˈmʌni.",
+        "exMeaning": "Tôi đã thỏa thuận với công ty khác để cho chúng tôi một số tiền."
+    },
+    {
+        "word": "desert",
+        "ipa": "ˈdɛzət",
+        "type": "n",
+        "tag": "Sa mạc",
+        "meaning": "The desert is an area of land without many plants or water.",
+        "context": "Sa mạc là một vùng đất không có nhiều cây hoặc nước.",
+        "ex": "Not many plants grow in the desert.",
+        "ipaExTrans": "nɒt ˈmɛni plɑːnts grəʊ ɪn ðə ˈdɛzət.",
+        "exMeaning": "Không có nhiều cây mọc trong sa mạc."
+    },
+    {
+        "word": "earthquake",
+        "ipa": "ˈɜːθkweɪk",
+        "type": "n",
+        "tag": "động đất",
+        "meaning": "An earthquake is a shaking movement of the ground.",
+        "context": "Một trận động đất là một chuyển động rung chuyển của mặt đất.",
+        "ex": "The building shook during the earthquake.",
+        "ipaExTrans": "ðə ˈbɪldɪŋ ʃʊk ˈdjʊərɪŋ ði ˈɜːθkweɪk.",
+        "exMeaning": "Tòa nhà rung chuyển trong trận động đất."
+    },
+    {
+        "word": "effective",
+        "ipa": "ɪˈfɛktɪv",
+        "type": "adj",
+        "tag": "có hiệu lực, có hiệu quả",
+        "meaning": "If something is effective, it works well.",
+        "context": "Nếu một cái gì đó có hiệu quả, nó hoạt động tốt.",
+        "ex": "Swimming is an effective way to stay healthy.",
+        "ipaExTrans": "ˈswɪmɪŋ ɪz ən ɪˈfɛktɪv weɪ tuː steɪ ˈhɛlθi.",
+        "exMeaning": "Bơi lội là một cách hiệu quả để giữ sức khỏe."
+    },
+    {
+        "word": "examine",
+        "ipa": "ɪgˈzæmɪn",
+        "type": "v",
+        "tag": "xem xét, kiểm tra",
+        "meaning": "To examine something is to look at it carefully",
+        "context": "Kiểm tra một cái gì đó là xem xét nó một cách cẩn thận",
+        "ex": "The doctor examined my eyes today.",
+        "ipaExTrans": "ðə ˈdɒktər ɪgˈzæmɪnd maɪ aɪz təˈdeɪ.",
+        "exMeaning": "Các bác sĩ đã kiểm tra mắt của tôi ngày hôm nay."
+    },
+    {
+        "word": "false",
+        "ipa": "fɔːls",
+        "type": "adj",
+        "tag": "sai, không đúng",
+        "meaning": "If something is false, it is not correct",
+        "context": "Nếu có gì sai, nó không đúng",
+        "ex": "If you think the answer is false, press the red button.",
+        "ipaExTrans": "ɪf juː θɪŋk ði ˈɑːnsər ɪz fɔːls, prɛs ðə rɛd ˈbʌtn.",
+        "exMeaning": "Nếu bạn nghĩ câu trả lời là sai, hãy nhấn nút màu đỏ."
+    },
+    {
+        "word": "gift",
+        "ipa": "gɪft",
+        "type": "n",
+        "tag": "quà tặng, món quà",
+        "meaning": "A gift is something you give someone.",
+        "context": "Một món quà là thứ bạn tặng cho ai đó.",
+        "ex": "Dave received many gifts for Christmas.",
+        "ipaExTrans": "deɪv rɪˈsiːvd ˈmɛni gɪfts fɔː ˈkrɪsməs.",
+        "exMeaning": "Dave đã nhận được nhiều quà tặng cho Giáng sinh."
+    },
+    {
+        "word": "hunger",
+        "ipa": "ˈhʌŋgə",
+        "type": "n",
+        "tag": "đói bụng, nạn đói, khao khát",
+        "meaning": "Hunger is the feeling that you get when you need to eat.",
+        "context": "Đói là cảm giác mà bạn có được khi bạn cần ăn.",
+        "ex": "After playing all day long, he was filled with hunger",
+        "ipaExTrans": "ˈɑːftə ˈpleɪɪŋ ɔːl deɪ lɒŋ, hiː wɒz fɪld wɪð ˈhʌŋgə",
+        "exMeaning": "Sau khi chơi cả ngày, anh ta bị đói"
+    },
+    {
+        "word": "imagine",
+        "ipa": "ɪˈmæʤɪn",
+        "type": "v",
+        "tag": "tưởng tượng",
+        "meaning": "To imagine something is to think of it in your mind.",
+        "context": "Tưởng tượng một cái gì đó là nghĩ về nó trong tâm trí của bạn.",
+        "ex": "Sally imagined herself winning lots of money.",
+        "ipaExTrans": "ˈsæli ɪˈmæʤɪnd hɜːˈsɛlf ˈwɪnɪŋ lɒts ɒv ˈmʌni.",
+        "exMeaning": "Sally tưởng tượng mình giành được rất nhiều tiền."
+    },
+    {
+        "word": "journey",
+        "ipa": "ˈʤɜːni",
+        "type": "n",
+        "tag": "hành trình",
+        "meaning": "A journey is a long trip.",
+        "context": "Một hành trình là một chuyến đi dài.",
+        "ex": "I went on a journey across the country with my parents.",
+        "ipaExTrans": "aɪ wɛnt ɒn ə ˈʤɜːni əˈkrɒs ðə ˈkʌntri wɪð maɪ ˈpeərənts.",
+        "exMeaning": "Tôi đã đi trên một hành trình trên khắp đất nước với cha mẹ tôi."
+    },
+    {
+        "word": "puzzle",
+        "ipa": "ˈpʌzl",
+        "type": "n",
+        "tag": "câu đố",
+        "meaning": "A puzzle is something that is hard to understand.",
+        "context": "Một câu đố là một cái gì đó rất khó hiểu.",
+        "ex": "The question was a puzzle to him.",
+        "ipaExTrans": "ðə ˈkwɛsʧən wɒz ə ˈpʌzl tuː hɪm.",
+        "exMeaning": "Câu hỏi là một câu đố với anh ta."
+    },
+    {
+        "word": "quite",
+        "ipa": "kwaɪt",
+        "type": "adv",
+        "tag": "khá là, toàn vẹn, nguyên cả",
+        "meaning": "Quite is used to say that something is complete or very much.",
+        "context": "Khá được sử dụng để nói rằng một cái gì đó là hoàn thành hoặc rất nhiều.",
+        "ex": "I think typing on a keyboard is quite easy.",
+        "ipaExTrans": "aɪ θɪŋk ˈtaɪpɪŋ ɒn ə ˈkiːbɔːd ɪz kwaɪt ˈiːzi.",
+        "exMeaning": "Tôi nghĩ rằng gõ trên bàn phím là khá dễ dàng."
+    },
+    {
+        "word": "rather",
+        "ipa": "ˈrɑːðə",
+        "type": "adv",
+        "tag": "hơn, chút ít, thà",
+        "meaning": "Rather is used when you want to do one thing but not the other.",
+        "context": "Thay vào đó được sử dụng khi bạn muốn làm một việc nhưng không phải việc khác.",
+        "ex": "I would rather have the red one than the blue one.",
+        "ipaExTrans": "aɪ wʊd ˈrɑːðə hæv ðə rɛd wʌn ðæn ðə bluː wʌn.",
+        "exMeaning": "Tôi thà có cái màu đỏ còn hơn cái màu xanh."
+    },
+    {
+        "word": "specific",
+        "ipa": "spɪˈsɪfɪk",
+        "type": "adj",
+        "tag": "riêng, cụ thể",
+        "meaning": "If something is specific, it is precise or exact",
+        "context": "Nếu một cái gì đó là cụ thể, nó là chính xác hoặc chính xác",
+        "ex": "Please choose a specific place on the map",
+        "ipaExTrans": "pliːz ʧuːz ə spɪˈsɪfɪk pleɪs ɒn ðə mæp",
+        "exMeaning": "Vui lòng chọn một địa điểm cụ thể trên bản đồ"
+    },
+    {
+        "word": "tour",
+        "ipa": "tʊə",
+        "type": "n",
+        "tag": "chuyến du lịch",
+        "meaning": "A tour is a short trip in which you see many sights.",
+        "context": "Một tour du lịch là một chuyến đi ngắn trong đó bạn nhìn thấy nhiều điểm tham quan.",
+        "ex": "I took a tour of Asia and Europe",
+        "ipaExTrans": "aɪ tʊk ə tʊər ɒv ˈeɪʒə ænd ˈjʊərəp",
+        "exMeaning": "Tôi đã có một chuyến đi châu Á và châu Âu"
+    },
+    {
+        "word": "trip",
+        "ipa": "trɪp",
+        "type": "n",
+        "tag": "chuyến đi",
+        "meaning": "A trip is a journey to a certain place",
+        "context": "Một chuyến đi là một hành trình đến một nơi nào đó",
+        "ex": "Ken took a trip to the city yesterday.",
+        "ipaExTrans": "kɛn tʊk ə trɪp tuː ðə ˈsɪti ˈjɛstədeɪ.",
+        "exMeaning": "Ken đã có một chuyến đi đến thành phố ngày hôm qua."
+    },
+    {
+        "word": "value",
+        "ipa": "ˈvæljuː",
+        "type": "n",
+        "tag": "giá trị, đáng giá",
+        "meaning": "If something has value, it is worth a lot of money",
+        "context": "Nếu một cái gì đó có giá trị, nó đáng giá rất nhiều tiền",
+        "ex": "Matthew found a treasure of very high value.",
+        "ipaExTrans": "ˈmæθjuː faʊnd ə ˈtrɛʒər ɒv ˈvɛri haɪ ˈvæljuː.",
+        "exMeaning": "Matthew tìm thấy một kho báu có giá trị rất cao."
+    }
+]

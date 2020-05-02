@@ -1,0 +1,222 @@
+[
+    {
+        "word": "alive",
+        "ipa": "əˈlaɪv",
+        "type": "adj",
+        "tag": "sống sót",
+        "meaning": "If someone or something is alive, they are not dead.",
+        "context": "Nếu ai đó hoặc một cái gì đó còn sống, họ không chết.",
+        "ex": "My grandparents are still alive even though they are over 90.",
+        "ipaExTrans": "maɪ ˈgrænˌpeərənts ɑː stɪl əˈlaɪv ˈiːvən ðəʊ ðeɪ ɑːr ˈəʊvə 90.",
+        "exMeaning": "Ông bà tôi vẫn còn sống dù đã ngoài 90 tuổi."
+    },
+    {
+        "word": "bone",
+        "ipa": "bəʊn",
+        "type": "n",
+        "tag": "khúc xương",
+        "meaning": "A bone is a hard part of the body",
+        "context": "Xương là một phần cứng của cơ thể",
+        "ex": "I brought home a nice bone for my dog",
+        "ipaExTrans": "aɪ brɔːt həʊm ə naɪs bəʊn fɔː maɪ dɒg",
+        "exMeaning": "Tôi đã mang về một bộ xương đẹp cho con chó của tôi"
+    },
+    {
+        "word": "bother",
+        "ipa": "ˈbɒðə",
+        "type": "v",
+        "tag": "làm phiền",
+        "meaning": "To bother is to make the effort to do something",
+        "context": "Làm phiền là nỗ lực để làm một cái gì đó",
+        "ex": "No one bothered to wash the dishes today",
+        "ipaExTrans": "nəʊ wʌn ˈbɒðəd tuː wɒʃ ðə ˈdɪʃɪz təˈdeɪ",
+        "exMeaning": "Không ai bận tâm rửa bát hôm nay"
+    },
+    {
+        "word": "captain",
+        "ipa": "ˈkæptɪn",
+        "type": "n",
+        "tag": "đội trưởng, thuyền trưởng",
+        "meaning": "A captain is the person who leads a ship or airplane",
+        "context": "Thuyền trưởng là người điều khiển tàu hoặc máy bay",
+        "ex": "The captain sailed his ship to Australia.",
+        "ipaExTrans": "ðə ˈkæptɪn seɪld hɪz ʃɪp tuː ɒˈstreɪliːə.",
+        "exMeaning": "Thuyền trưởng đã chèo thuyền đến Úc."
+    },
+    {
+        "word": "conclusion",
+        "ipa": "kənˈkluːʒən",
+        "type": "n",
+        "tag": "phần kết luận, phần kết thúc",
+        "meaning": "The conclusion of something is the final part of it.",
+        "context": "Kết luận của một cái gì đó là phần cuối cùng của nó.",
+        "ex": "At the conclusion of the race, the spectators cheered for the winner.",
+        "ipaExTrans": "æt ðə kənˈkluːʒən ɒv ðə reɪs, ðə spɛkˈteɪtəz ʧɪəd fɔː ðə ˈwɪnə.",
+        "exMeaning": "Kết thúc cuộc đua, khán giả đã cổ vũ cho người chiến thắng."
+    },
+    {
+        "word": "doubt",
+        "ipa": "daʊt",
+        "type": "n",
+        "tag": "nghi ngờ",
+        "meaning": "Doubt is a feeling of not being sure",
+        "context": "Nghi ngờ là một cảm giác không chắc chắn",
+        "ex": "I have doubt that the story is true.",
+        "ipaExTrans": "aɪ hæv daʊt ðæt ðə ˈstɔːri ɪz truː.",
+        "exMeaning": "Tôi nghi ngờ rằng câu chuyện là có thật."
+    },
+    {
+        "word": "explore",
+        "ipa": "ɪksˈplɔː",
+        "type": "v",
+        "tag": "khám phá",
+        "meaning": "To explore is to look for new places",
+        "context": "Khám phá là tìm kiếm địa điểm mới",
+        "ex": "He wants to explore the world and see new things",
+        "ipaExTrans": "hiː wɒnts tuː ɪksˈplɔː ðə wɜːld ænd siː njuː θɪŋz",
+        "exMeaning": "Anh ấy muốn khám phá thế giới và nhìn thấy những điều mới"
+    },
+    {
+        "word": "foreign",
+        "ipa": "ˈfɒrɪn",
+        "type": "adj",
+        "tag": "ngoại quốc, nước ngoài",
+        "meaning": "If something is foreign, it is from a different country.",
+        "context": "Nếu một cái gì đó là nước ngoài, nó là từ một quốc gia khác.",
+        "ex": "Mexican food is a popular foreign food.",
+        "ipaExTrans": "ˈmɛksɪkən fuːd ɪz ə ˈpɒpjʊlə ˈfɒrɪn fuːd.",
+        "exMeaning": "Thực phẩm Mexico là một thực phẩm nước ngoài phổ biến."
+    },
+    {
+        "word": "glad",
+        "ipa": "glæd",
+        "type": "adj",
+        "tag": "vui vẻ",
+        "meaning": "If you are glad, you are happy",
+        "context": "Nếu bạn vui, bạn hạnh phúc",
+        "ex": "I am glad you came to my party",
+        "ipaExTrans": "aɪ æm glæd juː keɪm tuː maɪ ˈpɑːti",
+        "exMeaning": "Tôi rất vui vì bạn đã đến bữa tiệc của tôi"
+    },
+    {
+        "word": "however",
+        "ipa": "haʊˈɛvə",
+        "type": "adv",
+        "tag": "Tuy nhiên",
+        "meaning": "However means despite or not being influenced by something",
+        "context": "Tuy nhiên có nghĩa là bất chấp hoặc không bị ảnh hưởng bởi một cái gì đó",
+        "ex": "She is a great cook. However, she never had professional lessons",
+        "ipaExTrans": "ʃiː ɪz ə greɪt kʊk. haʊˈɛvə, ʃiː ˈnɛvə hæd prəˈfɛʃənl ˈlɛsnz",
+        "exMeaning": "Cô ấy là một đầu bếp tuyệt vời. Tuy nhiên, cô không bao giờ có những bài học chuyên nghiệp"
+    },
+    {
+        "word": "injustice",
+        "ipa": "ɪnˈʤʌstɪs",
+        "type": "n",
+        "tag": "sự bất công",
+        "meaning": "Injustice is a lack of fairness or justice",
+        "context": "Bất công là sự thiếu công bằng hoặc công bằng",
+        "ex": "Putting an innocent person in jail is an act of injustice.",
+        "ipaExTrans": "ˈpʊtɪŋ ən ˈɪnəsənt ˈpɜːsn ɪn ʤeɪl ɪz ən ækt ɒv ɪnˈʤʌstɪs.",
+        "exMeaning": "Đưa một người vô tội vào tù là một hành động bất công."
+    },
+    {
+        "word": "international",
+        "ipa": "ˌɪntə(ː)ˈnæʃənl",
+        "type": "adj",
+        "tag": "Quốc tế",
+        "meaning": "If something is international, it involves more than one country",
+        "context": "Nếu một cái gì đó là quốc tế, nó liên quan đến nhiều hơn một quốc gia",
+        "ex": "The United Nations is a powerful international organization.",
+        "ipaExTrans": "ðə jʊˈnaɪtɪd ˈneɪʃənz ɪz ə ˈpaʊəfʊl ˌɪntə(ː)ˈnæʃənl ˌɔːgənaɪˈzeɪʃən.",
+        "exMeaning": "Liên hợp quốc là một tổ chức quốc tế hùng mạnh."
+    },
+    {
+        "word": "lawyer",
+        "ipa": "ˈlɔːjə",
+        "type": "n",
+        "tag": "luật sư",
+        "meaning": "A lawyer works with the law and represents people in court",
+        "context": "Một luật sư làm việc với pháp luật và đại diện cho những người ở tòa án",
+        "ex": "The lawyer left the courthouse after the judge made her decision.",
+        "ipaExTrans": "ðə ˈlɔːjə lɛft ðə ˈkɔːtˈhaʊs ˈɑːftə ðə ˈʤʌʤ meɪd hɜː dɪˈsɪʒən.",
+        "exMeaning": "Luật sư rời tòa án sau khi thẩm phán đưa ra quyết định của cô."
+    },
+    {
+        "word": "mention",
+        "ipa": "ˈmɛnʃən",
+        "type": "v",
+        "tag": "đề cập đến",
+        "meaning": "To mention something is to talk about it.",
+        "context": "Để đề cập đến một cái gì đó là nói về nó.",
+        "ex": "The doctors mentioned the problems that the patient was having.",
+        "ipaExTrans": "ðə ˈdɒktəz ˈmɛnʃənd ðə ˈprɒbləmz ðæt ðə ˈpeɪʃənt wɒz ˈhævɪŋ.",
+        "exMeaning": "Các bác sĩ đã đề cập đến những vấn đề mà bệnh nhân đang gặp phải."
+    },
+    {
+        "word": "policy",
+        "ipa": "ˈpɒlɪsi",
+        "type": "n",
+        "tag": "chính sách",
+        "meaning": "A policy is a rule",
+        "context": "Chính sách là một quy tắc",
+        "ex": "He told us that his policy was to put customers first.",
+        "ipaExTrans": "hiː təʊld ʌs ðæt hɪz ˈpɒlɪsi wɒz tuː pʊt ˈkʌstəməz fɜːst.",
+        "exMeaning": "Ông nói với chúng tôi rằng chính sách của ông là đặt khách hàng lên hàng đầu."
+    },
+    {
+        "word": "social",
+        "ipa": "ˈsəʊʃəl",
+        "type": "adj",
+        "tag": "xã hội",
+        "meaning": "If something is social, it is about many people in a community.",
+        "context": "Nếu một cái gì đó là xã hội, đó là về nhiều người trong một cộng đồng.",
+        "ex": "People should come together and fix the world’s social problems",
+        "ipaExTrans": "ˈpiːpl ʃʊd kʌm təˈgɛðər ænd fɪks ðə wɜːldz ˈsəʊʃəl ˈprɒbləmz",
+        "exMeaning": "Mọi người nên đến với nhau và khắc phục các vấn đề xã hội của thế giới"
+    },
+    {
+        "word": "speech",
+        "ipa": "spiːʧ",
+        "type": "n",
+        "tag": "bài phát biểu",
+        "meaning": "A speech is something said to a group of people.",
+        "context": "Một bài phát biểu là một cái gì đó nói với một nhóm người.",
+        "ex": "She gave a speech to the class.",
+        "ipaExTrans": "ʃiː geɪv ə spiːʧ tuː ðə klɑːs.",
+        "exMeaning": "Cô đã phát biểu trước cả lớp."
+    },
+    {
+        "word": "staff",
+        "ipa": "stɑːf",
+        "type": "n",
+        "tag": "Nhân Viên, đội ngũ",
+        "meaning": "A staff is a group of people working together in a company.",
+        "context": "Một nhân viên là một nhóm người làm việc cùng nhau trong một công ty.",
+        "ex": "My dad has a staff of four people to help him at the office",
+        "ipaExTrans": "maɪ dæd hæz ə stɑːf ɒv fɔː ˈpiːpl tuː hɛlp hɪm æt ði ˈɒfɪs",
+        "exMeaning": "Bố tôi có một đội ngũ bốn người để giúp ông tại văn phòng."
+    },
+    {
+        "word": "toward",
+        "ipa": "təˈwɔːd",
+        "type": "prep",
+        "tag": "về phía",
+        "meaning": "If you go toward something, you go closer to it",
+        "context": "Nếu bạn đi về phía cái gì đó, bạn đến gần nó hơn",
+        "ex": "Santa walked toward my house with a special tree.",
+        "ipaExTrans": "ˈsæntə wɔːkt təˈwɔːd maɪ haʊs wɪð ə ˈspɛʃəl triː.",
+        "exMeaning": "Santa đi về phía nhà tôi với một cái cây đặc biệt."
+    },
+    {
+        "word": "wood",
+        "ipa": "wʊd",
+        "type": "n",
+        "tag": "gỗ",
+        "meaning": "Wood is the thing that trees are made of.",
+        "context": "Gỗ là thứ mà cây được tạo ra.",
+        "ex": "I put the pieces of wood in a pile.",
+        "ipaExTrans": "aɪ pʊt ðə ˈpiːsɪz ɒv wʊd ɪn ə paɪl.",
+        "exMeaning": "Tôi đặt những mảnh gỗ vào một đống."
+    }
+]

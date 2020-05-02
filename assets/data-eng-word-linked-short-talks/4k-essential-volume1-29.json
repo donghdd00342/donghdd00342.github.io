@@ -1,0 +1,222 @@
+[
+    {
+        "word": "advertise",
+        "ipa": "ˈædvətaɪz",
+        "type": "v",
+        "tag": "Quảng cáo",
+        "meaning": "To advertise is to tell people about something on TV, radio, etc.",
+        "context": "Để quảng cáo là nói với mọi người về một cái gì đó trên TV, đài phát thanh, vv",
+        "ex": "They used a rabbit to help them advertise their product.",
+        "ipaExTrans": "ðeɪ juːzd ə ˈræbɪt tuː hɛlp ðɛm ˈædvətaɪz ðeə ˈprɒdʌkt.",
+        "exMeaning": "Họ đã sử dụng một con thỏ để giúp họ quảng cáo sản phẩm của họ."
+    },
+    {
+        "word": "assign",
+        "ipa": "əˈsaɪn",
+        "type": "v",
+        "tag": "chỉ định, giao việc",
+        "meaning": "To assign something to someone is to tell them to do it.",
+        "context": "Giao việc cho ai đó là bảo họ làm việc đó.",
+        "ex": "I assigned the worker an important task.",
+        "ipaExTrans": "aɪ əˈsaɪnd ðə ˈwɜːkər ən ɪmˈpɔːtənt tɑːsk.",
+        "exMeaning": "Tôi giao cho công nhân một nhiệm vụ quan trọng."
+    },
+    {
+        "word": "audience",
+        "ipa": "ˈɔːdiəns",
+        "type": "n",
+        "tag": "khán giả",
+        "meaning": "An audience is a group of people who watch something together",
+        "context": "Khán giả là một nhóm người cùng xem một cái gì đó",
+        "ex": "There was a large audience at the game.",
+        "ipaExTrans": "ðeə wɒz ə lɑːʤ ˈɔːdiəns æt ðə geɪm.",
+        "exMeaning": "Có một lượng lớn khán giả tại trò chơi."
+    },
+    {
+        "word": "breakfast",
+        "ipa": "ˈbrɛkfəst",
+        "type": "n",
+        "tag": "bữa ăn sáng",
+        "meaning": "Breakfast is the first meal of the day.",
+        "context": "Bữa sáng là bữa ăn đầu tiên trong ngày.",
+        "ex": "I eat breakfast at 8:00 every morning",
+        "ipaExTrans": "aɪ iːt ˈbrɛkfəst æt 8:00 ˈɛvri ˈmɔːnɪŋ",
+        "exMeaning": "Tôi ăn sáng lúc 8:00 mỗi sáng"
+    },
+    {
+        "word": "competition",
+        "ipa": "ˌkɒmpɪˈtɪʃən",
+        "type": "n",
+        "tag": "cuộc thi",
+        "meaning": "A competition is a contest to see who is the best at something.",
+        "context": "Một cuộc thi là một cuộc thi để xem ai là người giỏi nhất.",
+        "ex": "He won the running competition over the weekend.",
+        "ipaExTrans": "hiː wʌn ðə ˈrʌnɪŋ ˌkɒmpɪˈtɪʃən ˈəʊvə ðə ˈwiːkˈɛnd.",
+        "exMeaning": "Anh ấy đã thắng cuộc thi chạy vào cuối tuần."
+    },
+    {
+        "word": "cool",
+        "ipa": "kuːl",
+        "type": "adj",
+        "tag": "mát mẻ",
+        "meaning": "If the weather is cool, it is a little bit cold.",
+        "context": "Nếu thời tiết mát mẻ, thì hơi lạnh một chút.",
+        "ex": "The weather is cool in the fall.",
+        "ipaExTrans": "ðə ˈwɛðər ɪz kuːl ɪn ðə fɔːl.",
+        "exMeaning": "Thời tiết mát mẻ vào mùa thu."
+    },
+    {
+        "word": "gain",
+        "ipa": "geɪn",
+        "type": "v",
+        "tag": "thu được, đạt được",
+        "meaning": "Ifyou gain something, you get more of it",
+        "context": "Nếu bạn đạt được một cái gì đó, bạn nhận được nhiều hơn về nó",
+        "ex": "I gained some weight over the summer.",
+        "ipaExTrans": "aɪ geɪnd sʌm weɪt ˈəʊvə ðə ˈsʌmə.",
+        "exMeaning": "Tôi đã tăng cân trong mùa hè."
+    },
+    {
+        "word": "importance",
+        "ipa": "ɪmˈpɔːtəns",
+        "type": "n",
+        "tag": "tầm quan trọng",
+        "meaning": "Importance means the quality or condition of being needed or valued.",
+        "context": "Tầm quan trọng có nghĩa là chất lượng hoặc điều kiện cần thiết hoặc có giá trị.",
+        "ex": "VIPs are people of great importance.",
+        "ipaExTrans": "viː-aɪ-piːz ɑː ˈpiːpl ɒv greɪt ɪmˈpɔːtəns.",
+        "exMeaning": "VIP là những người có tầm quan trọng lớn."
+    },
+    {
+        "word": "knowledge",
+        "ipa": "ˈnɒlɪʤ",
+        "type": "n",
+        "tag": "hiểu biết, kiến thức",
+        "meaning": "Knowledge is information that you have about something.",
+        "context": "Kiến thức là thông tin mà bạn có về một cái gì đó.",
+        "ex": "A music teacher should have good knowledge of music.",
+        "ipaExTrans": "ə ˈmjuːzɪk ˈtiːʧə ʃʊd hæv gʊd ˈnɒlɪʤ ɒv ˈmjuːzɪk.",
+        "exMeaning": "Một giáo viên âm nhạc nên có kiến thức tốt về âm nhạc."
+    },
+    {
+        "word": "major",
+        "ipa": "ˈmeɪʤə",
+        "type": "adj",
+        "tag": "chính, lớn, quan trọng",
+        "meaning": "If something is major, it is big or important.",
+        "context": "Nếu một cái gì đó là chính, nó là lớn hoặc quan trọng.",
+        "ex": "I have a major problem. My boss wants me to redo my project!",
+        "ipaExTrans": "aɪ hæv ə ˈmeɪʤə ˈprɒbləm. maɪ bɒs wɒnts miː tuː ˌriːˈduː maɪ ˈprɒʤɛkt!",
+        "exMeaning": "Tôi có một vấn đề lớn. Ông chủ của tôi muốn tôi làm lại dự án của tôi!"
+    },
+    {
+        "word": "mean",
+        "ipa": "miːn",
+        "type": "adj",
+        "tag": "nghĩa là, có nghĩa",
+        "meaning": "Mean describes someone who is unkind or cruel.",
+        "context": "Có nghĩa là mô tả một người không tử tế hoặc tàn nhẫn.",
+        "ex": "My co-worker is a very mean person. He gets angry very quickly.",
+        "ipaExTrans": "maɪ kəʊ-ˈwɜːkər ɪz ə ˈvɛri miːn ˈpɜːsn. hiː gɛts ˈæŋgri ˈvɛri ˈkwɪkli.",
+        "exMeaning": "Đồng nghiệp của tôi là một người rất có ý nghĩa. Anh ấy rất tức giận."
+    },
+    {
+        "word": "prefer",
+        "ipa": "priˈfɜː",
+        "type": "v",
+        "tag": "thích hơn",
+        "meaning": "Ifyou prefer something, you want it more than something else.",
+        "context": "Nếu bạn thích một cái gì đó, bạn muốn nó hơn một cái gì đó khác.",
+        "ex": "I prefer to take the path that will lead me to a bright future.",
+        "ipaExTrans": "aɪ priˈfɜː tuː teɪk ðə pɑːθ ðæt wɪl liːd miː tuː ə braɪt ˈfjuːʧə.",
+        "exMeaning": "Tôi thích đi theo con đường sẽ dẫn tôi đến một tương lai tươi sáng."
+    },
+    {
+        "word": "president",
+        "ipa": "ˈprɛzɪdənt",
+        "type": "n",
+        "tag": "chủ tịch, tổng thống",
+        "meaning": "A president is the leader of a country.",
+        "context": "Một tổng thống là lãnh đạo của một quốc gia.",
+        "ex": "The president of our country made an important announcement.",
+        "ipaExTrans": "ðə ˈprɛzɪdənt ɒv ˈaʊə ˈkʌntri meɪd ən ɪmˈpɔːtənt əˈnaʊnsmənt.",
+        "exMeaning": "Tổng thống nước ta đã đưa ra một thông báo quan trọng."
+    },
+    {
+        "word": "progress",
+        "ipa": "ˈprəʊgrəs",
+        "type": "n",
+        "tag": "sự phát triển, sự tiến tới, sự tiến bộ",
+        "meaning": "Progress is the act of getting closer to doing or finishing something.",
+        "context": "Tiến bộ là hành động tiến gần hơn đến việc làm hoặc hoàn thành một cái gì đó.",
+        "ex": "Our company made financial progress this year.",
+        "ipaExTrans": "ˈaʊə ˈkʌmpəni meɪd faɪˈnænʃəl ˈprəʊgrəs ðɪs jɪə.",
+        "exMeaning": "Công ty chúng tôi đã đạt được tiến bộ tài chính trong năm nay."
+    },
+    {
+        "word": "respect",
+        "ipa": "rɪsˈpɛkt",
+        "type": "n",
+        "tag": "sự tôn trọng",
+        "meaning": "Respect is a good opinion of someone because they are good.",
+        "context": "Tôn trọng là một ý kiến ​​tốt của một ai đó bởi vì họ là tốt.",
+        "ex": "I have great respect for firemen.",
+        "ipaExTrans": "aɪ hæv greɪt rɪsˈpɛkt fɔː ˈfaɪəmən.",
+        "exMeaning": "Tôi rất tôn trọng lính cứu hỏa."
+    },
+    {
+        "word": "rich",
+        "ipa": "rɪʧ",
+        "type": "adj",
+        "tag": "giàu có",
+        "meaning": "If you are rich, you have a lot of money.",
+        "context": "Nếu bạn giàu, bạn có rất nhiều tiền.",
+        "ex": "He’s rich. He can buy anything he wants",
+        "ipaExTrans": "hiːz rɪʧ. hiː kæn baɪ ˈɛnɪθɪŋ hiː wɒnts",
+        "exMeaning": "Anh giàu có. Anh ta có thể mua bất cứ thứ gì anh ta muốn"
+    },
+    {
+        "word": "skill",
+        "ipa": "skɪl",
+        "type": "n",
+        "tag": "kỹ năng",
+        "meaning": "A skill is the knowledge and ability that allows you to do something well.",
+        "context": "Một kỹ năng là kiến ​​thức và khả năng cho phép bạn làm điều gì đó tốt.",
+        "ex": "A snowboarder must have the right skills to do well.",
+        "ipaExTrans": "ə ˈsnəʊˌbɔːdə mʌst hæv ðə raɪt skɪlz tuː duː wɛl.",
+        "exMeaning": "Một người trượt tuyết phải có các kỹ năng phù hợp để làm tốt."
+    },
+    {
+        "word": "somehow",
+        "ipa": "ˈsʌmhaʊ",
+        "type": "adv",
+        "tag": "bằng cách nào đó",
+        "meaning": "Somehow means in a way or by some means which is not known.",
+        "context": "Bằng cách nào đó có nghĩa là theo một cách nào đó hoặc bằng một số phương tiện không được biết đến.",
+        "ex": "He somehow had to find a way to reach the life preserver.",
+        "ipaExTrans": "hiː ˈsʌmhaʊ hæd tuː faɪnd ə weɪ tuː riːʧ ðə laɪf prɪˈzɜːvə.",
+        "exMeaning": "Anh bằng cách nào đó đã phải tìm cách tiếp cận với người bảo vệ sự sống."
+    },
+    {
+        "word": "strength",
+        "ipa": "strɛŋθ",
+        "type": "n",
+        "tag": "sức mạnh",
+        "meaning": "Strength is the physical power that you have.",
+        "context": "Sức mạnh là sức mạnh thể chất mà bạn có.",
+        "ex": "Exercising will increase your strength and give you more power.",
+        "ipaExTrans": "ˈɛksəsaɪzɪŋ wɪl ˈɪnkriːs jɔː strɛŋθ ænd gɪv juː mɔː ˈpaʊə.",
+        "exMeaning": "Tập thể dục sẽ tăng sức mạnh của bạn và cung cấp cho bạn nhiều sức mạnh hơn."
+    },
+    {
+        "word": "vote",
+        "ipa": "vəʊt",
+        "type": "v",
+        "tag": "bỏ phiếu",
+        "meaning": "To vote is to officially choose between two or more things.",
+        "context": "Bỏ phiếu là chính thức lựa chọn giữa hai hoặc nhiều thứ.",
+        "ex": "I voted for Billy to be our class president.",
+        "ipaExTrans": "aɪ ˈvəʊtɪd fɔː ˈbɪli tuː biː ˈaʊə klɑːs ˈprɛzɪdənt.",
+        "exMeaning": "Tôi đã bình chọn cho Billy làm chủ tịch lớp chúng tôi."
+    }
+]

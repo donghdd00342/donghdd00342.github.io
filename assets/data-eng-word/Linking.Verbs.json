@@ -1,0 +1,326 @@
+[
+    {
+        "word": "am",
+        "type": "Forms of \"to be\"",
+        "ipa": "æm",
+        "meaning": "là",
+        "ex": "I am the housekeeper, not his mistress.",
+        "ipaExTrans": "aɪ æm ðə ˈhaʊsˌkiːpə, nɒt hɪz ˈmɪstrɪs.",
+        "exMeaning": "Tôi là quản gia, không phải tình nhân của anh."
+    },
+    {
+        "word": "is",
+        "type": "Forms of \"to be\"",
+        "ipa": "ɪz",
+        "meaning": "Là",
+        "ex": "Is he not wonderful?",
+        "ipaExTrans": "ɪz hiː nɒt ˈwʌndəfʊl?",
+        "exMeaning": "Là anh ấy không tuyệt vời?"
+    },
+    {
+        "word": "is being",
+        "type": "Forms of \"to be\"",
+        "ipa": "ɪz ˈbiːɪŋ",
+        "meaning": "đang được"
+    },
+    {
+        "word": "are",
+        "type": "Forms of \"to be\"",
+        "ipa": "ɑː",
+        "meaning": "Chúng tôi",
+        "ex": "Why are you disappointed in me?",
+        "ipaExTrans": "waɪ ɑː juː ˌdɪsəˈpɔɪntɪd ɪn miː?",
+        "exMeaning": "Tại sao bạn thất vọng về tôi?"
+    },
+    {
+        "word": "are being",
+        "type": "Forms of \"to be\"",
+        "ipa": "ɑː ˈbiːɪŋ",
+        "meaning": "đang được"
+    },
+    {
+        "word": "was",
+        "type": "Forms of \"to be\"",
+        "ipa": "wɒz",
+        "meaning": "là",
+        "ex": "His voice was controlled.",
+        "ipaExTrans": "hɪz vɔɪs wɒz kənˈtrəʊld.",
+        "exMeaning": "Giọng anh bị khống chế."
+    },
+    {
+        "word": "was being",
+        "type": "Forms of \"to be\"",
+        "ipa": "wɒz ˈbiːɪŋ",
+        "meaning": "đã được"
+    },
+    {
+        "word": "were",
+        "type": "Forms of \"to be\"",
+        "ipa": "wɜː",
+        "meaning": "là",
+        "ex": "You were very greedy, said the girl.",
+        "ipaExTrans": "\"juː wɜː ˈvɛri ˈgriːdi,\" sɛd ðə gɜːl.",
+        "exMeaning": "Bạn đã rất tham lam, cô gái nói."
+    },
+    {
+        "word": "has",
+        "type": "Forms of \"to be\"",
+        "ipa": "hæz",
+        "meaning": "có",
+        "ex": "Has anybody ever told you that you're beautiful?",
+        "ipaExTrans": "hæz ˈɛnɪˌbɒdi ˈɛvə təʊld juː ðæt jʊə ˈbjuːtəfʊl?",
+        "exMeaning": "Có ai từng nói với bạn rằng bạn đẹp chưa?"
+    },
+    {
+        "word": "has been",
+        "type": "Forms of \"to be\"",
+        "ipa": "hæz biːn",
+        "meaning": "đã được"
+    },
+    {
+        "word": "have been",
+        "type": "Forms of \"to be\"",
+        "ipa": "hæv biːn",
+        "meaning": "đã được"
+    },
+    {
+        "word": "will have been",
+        "type": "Forms of \"to be\"",
+        "ipa": "wɪl hæv biːn",
+        "meaning": "sẽ có được"
+    },
+    {
+        "word": "had been",
+        "type": "Forms of \"to be\"",
+        "ipa": "hæd biːn",
+        "meaning": "đã từng"
+    },
+    {
+        "word": "are being",
+        "type": "Forms of \"to be\"",
+        "ipa": "ɑː ˈbiːɪŋ",
+        "meaning": "đang được"
+    },
+    {
+        "word": "might have been",
+        "type": "Forms of \"to be\"",
+        "ipa": "maɪt hæv biːn",
+        "meaning": "Có lẽ đã"
+    },
+    {
+        "word": "become",
+        "type": "Forms of \"to become\"",
+        "ipa": "bɪˈkʌm",
+        "meaning": "trở nên",
+        "ex": "It's the only way for him to become a vamp.",
+        "ipaExTrans": "ɪts ði ˈəʊnli weɪ fɔː hɪm tuː bɪˈkʌm ə væmp.",
+        "exMeaning": "Đó là cách duy nhất để anh ta trở thành một vamp."
+    },
+    {
+        "word": "becomes",
+        "type": "Forms of \"to become\"",
+        "ipa": "bɪˈkʌmz",
+        "meaning": "trở thành",
+        "ex": "There's no question he'll walk away from what he's doing if it becomes public.",
+        "ipaExTrans": "ðeəz nəʊ ˈkwɛsʧən hiːl wɔːk əˈweɪ frɒm wɒt hiːz ˈdu(ː)ɪŋ ɪf ɪt bɪˈkʌmz ˈpʌblɪk.",
+        "exMeaning": "Không có câu hỏi anh ấy sẽ bỏ đi những gì anh ấy làm nếu nó trở nên công khai."
+    },
+    {
+        "word": "became",
+        "type": "Forms of \"to become\"",
+        "ipa": "bɪˈkeɪm",
+        "meaning": "đã trở thành",
+        "ex": "The grief was so strong that it became a nauseating pain.",
+        "ipaExTrans": "ðə griːf wɒz səʊ strɒŋ ðæt ɪt bɪˈkeɪm ə ˈnɔːsɪeɪtɪŋ peɪn.",
+        "exMeaning": "Nỗi đau đớn quá mạnh mẽ đến nỗi nó trở thành một nỗi đau buồn nôn."
+    },
+    {
+        "word": "has become",
+        "type": "Forms of \"to become\"",
+        "ipa": "hæz bɪˈkʌm",
+        "meaning": "đã trở thành"
+    },
+    {
+        "word": "have become",
+        "type": "Forms of \"to become\"",
+        "ipa": "hæv bɪˈkʌm",
+        "meaning": "đã trở thành"
+    },
+    {
+        "word": "had become",
+        "type": "Forms of \"to become\"",
+        "ipa": "hæd bɪˈkʌm",
+        "meaning": "đã trở thành"
+    },
+    {
+        "word": "will become",
+        "type": "Forms of \"to become\"",
+        "ipa": "wɪl bɪˈkʌm",
+        "meaning": "sẽ trở thành"
+    },
+    {
+        "word": "will have become",
+        "type": "Forms of \"to become\"",
+        "ipa": "wɪl hæv bɪˈkʌm",
+        "meaning": "sẽ trở thành"
+    },
+    {
+        "word": "seemed",
+        "type": "Forms of \"to seem\"",
+        "ipa": "siːmd",
+        "meaning": "dường như",
+        "ex": "A black cloud seemed to cover the earth.",
+        "ipaExTrans": "ə blæk klaʊd siːmd tuː ˈkʌvə ði ɜːθ.",
+        "exMeaning": "Một đám mây đen dường như bao phủ trái đất."
+    },
+    {
+        "word": "seeming",
+        "type": "Forms of \"to seem\"",
+        "ipa": "ˈsiːmɪŋ",
+        "meaning": "dường như",
+        "ex": "I saw you … I saw … She didn't know how to say what she'd seen without seeming like the craziest person in the world.",
+        "ipaExTrans": "\"aɪ sɔː juː … aɪ sɔː …\" ʃiː dɪdnt nəʊ haʊ tuː seɪ wɒt ʃiːd siːn wɪˈðaʊt ˈsiːmɪŋ laɪk ðə ˈkreɪzɪɪst ˈpɜːsn ɪn ðə wɜːld.",
+        "exMeaning": "Tôi đã nhìn thấy bạn, tôi đã nhìn thấy Cô ấy không biết nói những gì mình thấy mà không có vẻ là người điên rồ nhất thế giới."
+    },
+    {
+        "word": "seems",
+        "type": "Forms of \"to seem\"",
+        "ipa": "siːmz",
+        "meaning": "dường như",
+        "ex": "He always seems to have a plan.",
+        "ipaExTrans": "hiː ˈɔːlweɪz siːmz tuː hæv ə plæn.",
+        "exMeaning": "Ông dường như luôn có một kế hoạch."
+    },
+    {
+        "word": "has seemed",
+        "type": "Forms of \"to seem\"",
+        "ipa": "hæz siːmd",
+        "meaning": "dường như"
+    },
+    {
+        "word": "have seemed",
+        "type": "Forms of \"to seem\"",
+        "ipa": "hæv siːmd",
+        "meaning": "dường như"
+    },
+    {
+        "word": "had seemed",
+        "type": "Forms of \"to seem\"",
+        "ipa": "hæd siːmd",
+        "meaning": "dường như"
+    },
+    {
+        "word": "will seem",
+        "type": "Forms of \"to seem\"",
+        "ipa": "wɪl siːm",
+        "meaning": "sẽ có vẻ"
+    },
+    {
+        "word": "grow",
+        "type": "Linking Verbs",
+        "ipa": "grəʊ",
+        "meaning": "lớn lên",
+        "ex": "They all grow up.",
+        "ipaExTrans": "ðeɪ ɔːl grəʊ ʌp.",
+        "exMeaning": "Tất cả đều lớn lên."
+    },
+    {
+        "word": "look",
+        "type": "Linking Verbs",
+        "ipa": "lʊk",
+        "meaning": "nhìn",
+        "ex": "Do I look that bad?",
+        "ipaExTrans": "duː aɪ lʊk ðæt bæd?",
+        "exMeaning": "Trông tôi có tệ không?"
+    },
+    {
+        "word": "prove",
+        "type": "Linking Verbs",
+        "ipa": "pruːv",
+        "meaning": "chứng minh",
+        "ex": "I'm not asking you to prove anything.",
+        "ipaExTrans": "aɪm nɒt ˈɑːskɪŋ juː tuː pruːv ˈɛnɪθɪŋ.",
+        "exMeaning": "Tôi không yêu cầu bạn chứng minh bất cứ điều gì."
+    },
+    {
+        "word": "remain",
+        "type": "Linking Verbs",
+        "ipa": "rɪˈmeɪn",
+        "meaning": "vẫn còn",
+        "ex": "One would argue that energy costs will remain high.",
+        "ipaExTrans": "wʌn wʊd ˈɑːgjuː ðæt ˈɛnəʤi kɒsts wɪl rɪˈmeɪn haɪ.",
+        "exMeaning": "Người ta sẽ tranh luận rằng chi phí năng lượng sẽ vẫn cao."
+    },
+    {
+        "word": "smell",
+        "type": "Linking Verbs",
+        "ipa": "smɛl",
+        "meaning": "mùi",
+        "ex": "I love the smell of the ocean.",
+        "ipaExTrans": "aɪ lʌv ðə smɛl ɒv ði ˈəʊʃən.",
+        "exMeaning": "Tôi yêu mùi đại dương."
+    },
+    {
+        "word": "sound",
+        "type": "Linking Verbs",
+        "ipa": "saʊnd",
+        "meaning": "âm thanh",
+        "ex": "They heard the sound of voices behind them.",
+        "ipaExTrans": "ðeɪ hɜːd ðə saʊnd ɒv ˈvɔɪsɪz bɪˈhaɪnd ðɛm.",
+        "exMeaning": "Họ nghe thấy âm thanh của giọng nói đằng sau họ."
+    },
+    {
+        "word": "taste",
+        "type": "Linking Verbs",
+        "ipa": "teɪst",
+        "meaning": "nếm thử",
+        "ex": "That way you don't have to taste it.",
+        "ipaExTrans": "ðæt weɪ juː dəʊnt hæv tuː teɪst ɪt.",
+        "exMeaning": "Bằng cách đó bạn không phải nếm nó."
+    },
+    {
+        "word": "turn",
+        "type": "Linking Verbs",
+        "ipa": "tɜːn",
+        "meaning": "xoay",
+        "ex": "But let's see how things turn out.",
+        "ipaExTrans": "bʌt lɛts siː haʊ θɪŋz tɜːn aʊt.",
+        "exMeaning": "Nhưng hãy xem mọi thứ diễn ra như thế nào."
+    },
+    {
+        "word": "stay",
+        "type": "Linking Verbs",
+        "ipa": "steɪ",
+        "meaning": "ở lại",
+        "ex": "They wanted to stay at the party.",
+        "ipaExTrans": "ðeɪ ˈwɒntɪd tuː steɪ æt ðə ˈpɑːti.",
+        "exMeaning": "Họ muốn ở lại bữa tiệc."
+    },
+    {
+        "word": "get",
+        "type": "Linking Verbs",
+        "ipa": "gɛt",
+        "meaning": "được",
+        "ex": "Let's get in out of this cold wind.",
+        "ipaExTrans": "lɛts gɛt ɪn aʊt ɒv ðɪs kəʊld wɪnd.",
+        "exMeaning": "Hãy ra khỏi cơn gió lạnh này."
+    },
+    {
+        "word": "appear",
+        "type": "Linking Verbs",
+        "ipa": "əˈpɪə",
+        "meaning": "xuất hiện",
+        "ex": "I tried to appear resigned to defeat.",
+        "ipaExTrans": "aɪ traɪd tuː əˈpɪə rɪˈzaɪnd tuː dɪˈfiːt.",
+        "exMeaning": "Tôi đã cố tỏ ra cam chịu để đánh bại."
+    },
+    {
+        "word": "feel",
+        "type": "Linking Verbs",
+        "ipa": "fiːl",
+        "meaning": "cảm thấy",
+        "ex": "Do you think Jonathan might feel left out when the new baby comes?",
+        "ipaExTrans": "duː juː θɪŋk ˈʤɒnəθən maɪt fiːl lɛft aʊt wɛn ðə njuː ˈbeɪbi kʌmz?",
+        "exMeaning": "Bạn có nghĩ Jonathan có thể cảm thấy bị bỏ rơi khi em bé mới đến không?"
+    }
+]

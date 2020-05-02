@@ -1,0 +1,128 @@
+[
+    {
+        "word": "accurate",
+        "type": "chính xác",
+        "ipa": "ˈækjʊrɪt",
+        "meaning": "a, exact; errorless (đúng, chính xác)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "accuracy",
+        "type": "sự chính xác",
+        "ipa": "ˈækjʊrəsi",
+        "meaning": "n. sự chính xác",
+        "tag": "Shipping"
+    },
+    {
+        "word": "accurately",
+        "type": "chính xác",
+        "ipa": "ˈækjʊrɪtli",
+        "meaning": "adv. một cách chính xác",
+        "tag": "Shipping"
+    },
+    {
+        "word": "carrier",
+        "type": "vận chuyển",
+        "ipa": "ˈkærɪə",
+        "meaning": "n, a person or business that transports passengers or goods (người hoặc một hãng vận chuyển)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "catalog",
+        "type": "mục lục",
+        "ipa": "ˈkætəlɒg",
+        "meaning": "= catalogue (n) quyển danh mục hàng, bảng giá; (v) to make an itemized list of",
+        "tag": "Shipping"
+    },
+    {
+        "word": "fulfill",
+        "type": "hoàn thành",
+        "ipa": "fʊlˈfɪl",
+        "meaning": "v, to finish completely (thực hiện, hoàn thành, làm trọn (nhiệm vụ...))",
+        "tag": "Shipping"
+    },
+    {
+        "word": "fulfilment",
+        "type": "hoàn thành",
+        "ipa": "fʊlˈfɪlmənt",
+        "meaning": "n. sự hoàn thành, sự thực hiện",
+        "tag": "Shipping"
+    },
+    {
+        "word": "integral",
+        "type": "không thể thiếu",
+        "ipa": "ˈɪntɪgrəl",
+        "meaning": "a, necessary for completion (cần thiết, ko thể thiếu)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "inventory",
+        "type": "hàng tồn kho",
+        "ipa": "ˈɪnvəntri",
+        "meaning": "n, goods in stock; an itemized record of these goods ( bảng kê (hàng hóa) )",
+        "tag": "Shipping"
+    },
+    {
+        "word": "minimize",
+        "type": "giảm thiểu",
+        "ipa": "ˈmɪnɪmaɪz",
+        "meaning": "v, to reduce, to give less importance to (giảm tới mức tối thiểu)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "minimal",
+        "type": "tối thiểu",
+        "ipa": "ˈmɪnɪml",
+        "meaning": "adj. Minimum n. (tối thiểu)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "on hand",
+        "type": "trên tay",
+        "ipa": "ɒn hænd",
+        "meaning": "a, available (sẵn sàng, sẵn có)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "remember",
+        "type": "nhớ lại",
+        "ipa": "rɪˈmɛmbə",
+        "meaning": "v, to think of again (nhớ, nhớ lại)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "ship",
+        "type": "tàu",
+        "ipa": "ʃɪp",
+        "meaning": "v, to transport; to send (vận chuyển)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "shipper",
+        "type": "người giao hàng",
+        "ipa": "ˈʃɪpə",
+        "meaning": "n.người ship",
+        "tag": "Shipping"
+    },
+    {
+        "word": "shipment",
+        "type": "giao hàng",
+        "ipa": "ˈʃɪpmənt",
+        "meaning": "n. (việc gửi hàng)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "sufficient",
+        "type": "đủ",
+        "ipa": "səˈfɪʃənt",
+        "meaning": "a, as much as is needed (vừa đủ)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "supply",
+        "type": "cung cấp",
+        "ipa": "səˈplaɪ",
+        "meaning": "v, to make available for use (cung cấp) (n) stock (nguồn dự trữ)",
+        "tag": "Shipping"
+    }
+]

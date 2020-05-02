@@ -1,0 +1,114 @@
+[
+    {
+        "word": "affordable",
+        "type": "giá cả phải chăng",
+        "ipa": "əˈfɔːdəbl",
+        "meaning": "able to be paid for; not too expensive (hợp lý, giá cả phải chăng)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "as needed",
+        "type": "khi cần",
+        "ipa": "æz ˈniːdɪd",
+        "meaning": "as necessary (cần thiết)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "be in charge",
+        "type": "chịu trách nhiệm",
+        "ipa": "biː ɪn ʧɑːʤ",
+        "meaning": "to be in control or command of (có tráchnhiệm, nghĩa vụ)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "capacity",
+        "type": "sức chứa",
+        "ipa": "kəˈpæsɪti",
+        "meaning": "the ability to contain or hold; the maximum that something can hold (sức chứa, khả năng)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "durable",
+        "type": "bền chặt",
+        "ipa": "ˈdjʊərəbl",
+        "meaning": "sturdy, strong, lasting (lâu bền)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "initiative",
+        "type": "sáng kiến",
+        "ipa": "ɪˈnɪʃɪətɪv",
+        "meaning": "the first step; an active role (sáng kiến)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "physical",
+        "type": "vật lý",
+        "ipa": "ˈfɪzɪkəl",
+        "meaning": "perceived by the senses (vật chất, điều gì đó liên quan đến tự nhiên)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "provider",
+        "type": "các nhà cung cấp",
+        "ipa": "prəˈvaɪdə",
+        "meaning": "a supplier (nhà cung cấp)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "recur",
+        "type": "tái phát",
+        "ipa": "rɪˈkɜː",
+        "meaning": "to occur again or repeatedly (tái diễn, tái hiện)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "recurrence",
+        "type": "sự tái xuất",
+        "ipa": "rɪˈkʌrəns",
+        "meaning": "(n) sự tái diễn, tái hiện",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "recurring",
+        "type": "định kỳ",
+        "ipa": "rɪˈkɜːrɪŋ",
+        "meaning": "(adj) tái diễn, tái hiện; lại diễn ra; có định kỳ",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "reduction",
+        "type": "giảm",
+        "ipa": "rɪˈdʌkʃən",
+        "meaning": "a lessening , a decrease (thu nhỏ, giảm bớt)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "reduce",
+        "type": "giảm",
+        "ipa": "rɪˈdjuːs",
+        "meaning": "(v) giảm, giảm bớt, hạ",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "reducible",
+        "type": "giảm",
+        "ipa": "rɪˈdjuːsəbl",
+        "meaning": "(a) có thể giảm bớt",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "stay on top",
+        "type": "ở trên đỉnh",
+        "ipa": "steɪ ɒn tɒp",
+        "meaning": "to know what is going on; to know the latest information (cập nhật)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "stock",
+        "type": "cổ phần",
+        "ipa": "stɒk",
+        "meaning": "a supply; v, to keep on hand (dự trữ, cổ phần)",
+        "tag": "Office Technology"
+    }
+]

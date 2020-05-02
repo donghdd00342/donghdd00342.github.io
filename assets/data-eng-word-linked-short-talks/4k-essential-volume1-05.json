@@ -1,0 +1,222 @@
+[
+    {
+        "word": "aware",
+        "ipa": "əˈweə",
+        "type": "adj",
+        "tag": "nhận thức, hiểu rõ",
+        "meaning": "If you are aware of something, you know about it",
+        "context": "Nếu bạn biết điều gì đó, bạn sẽ biết về nó",
+        "ex": "I was not aware of the ringing phone.",
+        "ipaExTrans": "aɪ wɒz nɒt əˈweər ɒv ðə ˈrɪŋɪŋ fəʊn.",
+        "exMeaning": "Tôi đã không nhận thức được điện thoại đổ chuông."
+    },
+    {
+        "word": "badly",
+        "ipa": "ˈbædli",
+        "type": "adv",
+        "tag": "tệ",
+        "meaning": "Badly means in a severe or harmful way.",
+        "context": "Có nghĩa là xấu theo cách nghiêm trọng hoặc có hại.",
+        "ex": "He hurt his arm badly playing with friends",
+        "ipaExTrans": "hiː hɜːt hɪz ɑːm ˈbædli ˈpleɪɪŋ wɪð frɛndz",
+        "exMeaning": "Anh đau tay chơi xấu với bạn bè."
+    },
+    {
+        "word": "belong",
+        "ipa": "bɪˈlɒŋ",
+        "type": "v",
+        "tag": "thuộc về",
+        "meaning": "If something belongs to you, you own it.",
+        "context": "Nếu một cái gì đó thuộc về bạn, bạn sở hữu nó.",
+        "ex": "The blue suit belongs to Paul.",
+        "ipaExTrans": "ðə bluː sjuːt bɪˈlɒŋz tuː pɔːl.",
+        "exMeaning": "Bộ đồ màu xanh thuộc về Paul."
+    },
+    {
+        "word": "continue",
+        "ipa": "kənˈtɪnju(ː)",
+        "type": "v",
+        "tag": "tiếp tục",
+        "meaning": "To continue something is to keep doing it",
+        "context": "Tiếp tục một cái gì đó là tiếp tục làm nó",
+        "ex": "She stood under her umbrella as the rain continued to fall.",
+        "ipaExTrans": "ʃiː stʊd ˈʌndə hɜːr ʌmˈbrɛlə æz ðə reɪn kənˈtɪnju(ː)d tuː fɔːl.",
+        "exMeaning": "Cô đứng dưới chiếc ô của mình khi mưa tiếp tục rơi."
+    },
+    {
+        "word": "error",
+        "ipa": "ˈɛrə",
+        "type": "n",
+        "tag": "lỗi",
+        "meaning": "An error is something you do wrong",
+        "context": "Lỗi là do bạn làm sai",
+        "ex": "I made an error on my report, so my boss was angry",
+        "ipaExTrans": "aɪ meɪd ən ˈɛrər ɒn maɪ rɪˈpɔːt, səʊ maɪ bɒs wɒz ˈæŋgri",
+        "exMeaning": "Tôi đã làm một lỗi trên báo cáo của tôi, vì vậy ông chủ của tôi đã tức giận"
+    },
+    {
+        "word": "experience",
+        "ipa": "ɪksˈpɪərɪəns",
+        "type": "n",
+        "tag": "kinh nghiệm",
+        "meaning": "An experience is something you have seen or done",
+        "context": "Một kinh nghiệm là những gì bạn đã thấy hoặc làm",
+        "ex": "Rock climbing was a fun experience.",
+        "ipaExTrans": "rɒk ˈklaɪmɪŋ wɒz ə fʌn ɪksˈpɪərɪəns.",
+        "exMeaning": "Leo núi là một trải nghiệm thú vị."
+    },
+    {
+        "word": "field",
+        "ipa": "fiːld",
+        "type": "n",
+        "tag": "cánh đồng",
+        "meaning": "A field is a big area of land",
+        "context": "Một cánh đồng là một vùng đất rộng lớn",
+        "ex": "The field of flowers looked so pretty.",
+        "ipaExTrans": "ðə fiːld ɒv ˈflaʊəz lʊkt səʊ ˈprɪti.",
+        "exMeaning": "Cánh đồng hoa trông thật đẹp."
+    },
+    {
+        "word": "hurt",
+        "ipa": "hɜːt",
+        "type": "v",
+        "tag": "đau",
+        "meaning": "To hurt is to do something that makes you feel pain",
+        "context": "Làm tổn thương là làm điều gì đó khiến bạn cảm thấy đau",
+        "ex": "She hurt her leg falling down the stairs.",
+        "ipaExTrans": "ʃiː hɜːt hɜː lɛg ˈfɔːlɪŋ daʊn ðə steəz.",
+        "exMeaning": "Cô đau chân ngã xuống cầu thang."
+    },
+    {
+        "word": "judgment",
+        "ipa": "ˈʤʌʤmənt",
+        "type": "n",
+        "tag": "phán xét",
+        "meaning": "Judgment is the ability to form opinions or decisions.",
+        "context": "Phán quyết là khả năng hình thành ý kiến hoặc quyết định.",
+        "ex": "It’s good judgment to recycle your aluminum cans.",
+        "ipaExTrans": "ɪts gʊd ˈʤʌʤmənt tuː ˌriːˈsaɪkl jɔːr əˈljʊmɪnəm kænz.",
+        "exMeaning": "Nó phán đoán tốt để tái chế lon nhôm của bạn."
+    },
+    {
+        "word": "likely",
+        "ipa": "ˈlaɪkli",
+        "type": "adv",
+        "tag": "có khả năng",
+        "meaning": "If something likely happens, it will probably happen.",
+        "context": "Nếu một cái gì đó có khả năng xảy ra, nó có thể sẽ xảy ra.",
+        "ex": "I will likely stay at home and watch TV tonight.",
+        "ipaExTrans": "aɪ wɪl ˈlaɪkli steɪ æt həʊm ænd wɒʧ ˌtiːˈviː təˈnaɪt.",
+        "exMeaning": "Tôi có thể sẽ ở nhà và xem TV tối nay."
+    },
+    {
+        "word": "normal",
+        "ipa": "ˈnɔːməl",
+        "type": "adj",
+        "tag": "bình thường",
+        "meaning": "If something is normal, it is not strange nor surprising to you.",
+        "context": "Nếu một cái gì đó là bình thường, nó không phải là lạ cũng không gây ngạc nhiên cho bạn.",
+        "ex": "It is normal for me to bathe every night.",
+        "ipaExTrans": "ɪt ɪz ˈnɔːməl fɔː miː tuː beɪð ˈɛvri naɪt.",
+        "exMeaning": "Nó là bình thường cho tôi để tắm mỗi đêm."
+    },
+    {
+        "word": "rare",
+        "ipa": "reə",
+        "type": "adj",
+        "tag": "hiếm",
+        "meaning": "If something is rare, you do not see it very often.",
+        "context": "Nếu một cái gì đó là hiếm, bạn không nhìn thấy nó rất thường xuyên.",
+        "ex": "It is rare for him to miss his flight.",
+        "ipaExTrans": "ɪt ɪz reə fɔː hɪm tuː mɪs hɪz flaɪt.",
+        "exMeaning": "Rất hiếm khi anh ấy bị lỡ chuyến bay."
+    },
+    {
+        "word": "relax",
+        "ipa": "rɪˈlæks",
+        "type": "v",
+        "tag": "thư giãn",
+        "meaning": "To relax is to rest.",
+        "context": "Thư giãn là nghỉ ngơi.",
+        "ex": "The frog relaxed in the warm sun",
+        "ipaExTrans": "ðə frɒg rɪˈlækst ɪn ðə wɔːm sʌn",
+        "exMeaning": "Con ếch thư giãn dưới ánh mặt trời ấm áp."
+    },
+    {
+        "word": "request",
+        "ipa": "rɪˈkwɛst",
+        "type": "v",
+        "tag": "yêu cầu",
+        "meaning": "To request something is to ask for it.",
+        "context": "Yêu cầu một cái gì đó là yêu cầu nó.",
+        "ex": "The little girl requested a special gift from Santa Claus.",
+        "ipaExTrans": "ðə ˈlɪtl gɜːl rɪˈkwɛstɪd ə ˈspɛʃəl gɪft frɒm ˈsæntə klɔːz.",
+        "exMeaning": "Cô bé yêu cầu một món quà đặc biệt từ ông già Noel."
+    },
+    {
+        "word": "reside",
+        "ipa": "rɪˈzaɪd",
+        "type": "v",
+        "tag": "cư trú tại",
+        "meaning": "To reside means to live somewhere permanently or for a long time.",
+        "context": "Sống ở đó có nghĩa là sống ở đâu đó vĩnh viễn hoặc trong một thời gian dài.",
+        "ex": "My brother and his family reside in a lovely house on the beach",
+        "ipaExTrans": "maɪ ˈbrʌðər ænd hɪz ˈfæmɪli rɪˈzaɪd ɪn ə ˈlʌvli haʊs ɒn ðə biːʧ",
+        "exMeaning": "Anh trai và gia đình tôi sống trong một ngôi nhà xinh xắn trên bãi biển"
+    },
+    {
+        "word": "result",
+        "ipa": "rɪˈzʌlt",
+        "type": "n",
+        "tag": "kết quả",
+        "meaning": "A result is something that happens because of something else.",
+        "context": "Một kết quả là một cái gì đó xảy ra vì một cái gì đó khác.",
+        "ex": "As a result of all the rain, the man had to climb on the roof.",
+        "ipaExTrans": "æz ə rɪˈzʌlt ɒv ɔːl ðə reɪn, ðə mæn hæd tuː klaɪm ɒn ðə ruːf.",
+        "exMeaning": "Hậu quả của tất cả những cơn mưa, người đàn ông phải leo lên mái nhà."
+    },
+    {
+        "word": "roll",
+        "ipa": "rəʊl",
+        "type": "v",
+        "tag": "cuộn",
+        "meaning": "To roll is to move by turning over and over",
+        "context": "Để lăn là di chuyển bằng cách lật đi lật lại",
+        "ex": "You must roll the ball into the pins when you bowl.",
+        "ipaExTrans": "juː mʌst rəʊl ðə bɔːl ˈɪntuː ðə pɪnz wɛn juː bəʊl.",
+        "exMeaning": "Bạn phải lăn quả bóng vào các chân khi bạn tô."
+    },
+    {
+        "word": "since",
+        "ipa": "sɪns",
+        "type": "prep",
+        "tag": "từ",
+        "meaning": "Since is used to talk about a past event still happening now.",
+        "context": "Vì được sử dụng để nói về một sự kiện trong quá khứ vẫn còn xảy ra bây giờ.",
+        "ex": "Since 1992, he has been driving that car.",
+        "ipaExTrans": "sɪns 1992, hiː hæz biːn ˈdraɪvɪŋ ðæt kɑː.",
+        "exMeaning": "Từ năm 1992, anh đã lái chiếc xe đó."
+    },
+    {
+        "word": "visible",
+        "ipa": "ˈvɪzəbl",
+        "type": "adj",
+        "tag": "có thể nhìn thấy",
+        "meaning": "If something is visible, it can be seen.",
+        "context": "Nếu một cái gì đó có thể nhìn thấy, nó có thể được nhìn thấy.",
+        "ex": "The moon and stars were visible in the night sky.",
+        "ipaExTrans": "ðə muːn ænd stɑːz wɜː ˈvɪzəbl ɪn ðə naɪt skaɪ.",
+        "exMeaning": "Mặt trăng và các ngôi sao có thể nhìn thấy trên bầu trời đêm."
+    },
+    {
+        "word": "wild",
+        "ipa": "waɪld",
+        "type": "adj",
+        "tag": "hoang dã",
+        "meaning": "If something is wild, it is found in nature.",
+        "context": "Nếu một cái gì đó là hoang dã, nó được tìm thấy trong tự nhiên.",
+        "ex": "You should be careful around a fox, because it is a wild animal.",
+        "ipaExTrans": "juː ʃʊd biː ˈkeəfʊl əˈraʊnd ə fɒks, bɪˈkɒz ɪt ɪz ə waɪld ˈænɪməl.",
+        "exMeaning": "Bạn nên cẩn thận xung quanh một con cáo, bởi vì nó là một động vật hoang dã."
+    }
+]

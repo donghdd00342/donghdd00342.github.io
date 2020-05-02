@@ -1,0 +1,222 @@
+[
+    {
+        "word": "alien",
+        "ipa": "ˈeɪliən",
+        "type": "n",
+        "tag": "người ngoài hành tinh",
+        "meaning": "An alien is a creature from a different world.",
+        "context": "Một người ngoài hành tinh là một sinh vật từ một thế giới khác.",
+        "ex": "The alien came in peace.",
+        "ipaExTrans": "ði ˈeɪliən keɪm ɪn piːs.",
+        "exMeaning": "Người ngoài hành tinh đã đến trong hòa bình."
+    },
+    {
+        "word": "among",
+        "ipa": "əˈmʌŋ",
+        "type": "prep",
+        "tag": "ở giữa",
+        "meaning": "If you are among certain things, they are all around you",
+        "context": "Nếu bạn nằm trong số những thứ nhất định, chúng sẽ ở xung quanh bạn",
+        "ex": "There was a red apple among the green ones.",
+        "ipaExTrans": "ðeə wɒz ə rɛd ˈæpl əˈmʌŋ ðə griːn wʌnz.",
+        "exMeaning": "Có một quả táo đỏ trong số những quả xanh."
+    },
+    {
+        "word": "chart",
+        "ipa": "ʧɑːt",
+        "type": "n",
+        "tag": "đồ thị, biểu đồ",
+        "meaning": "A chart is a list of information",
+        "context": "Biểu đồ là danh sách thông tin",
+        "ex": "We used a chart to see how we had improved.",
+        "ipaExTrans": "wiː juːzd ə ʧɑːt tuː siː haʊ wiː hæd ɪmˈpruːvd.",
+        "exMeaning": "Chúng tôi đã sử dụng một biểu đồ để xem chúng tôi đã cải thiện như thế nào."
+    },
+    {
+        "word": "cloud",
+        "ipa": "klaʊd",
+        "type": "n",
+        "tag": "đám mây",
+        "meaning": "A cloud is a group of water drops in the sky",
+        "context": "Một đám mây là một nhóm giọt nước trên bầu trời",
+        "ex": "The sky was filled with white clouds.",
+        "ipaExTrans": "ðə skaɪ wɒz fɪld wɪð waɪt klaʊdz.",
+        "exMeaning": "Bầu trời đầy mây trắng."
+    },
+    {
+        "word": "comprehend",
+        "ipa": "ˌkɒmprɪˈhɛnd",
+        "type": "v",
+        "tag": "hiểu rõ",
+        "meaning": "To comprehend something is to understand it",
+        "context": "Hiểu một cái gì đó là hiểu nó",
+        "ex": "Henry could not comprehend the message.",
+        "ipaExTrans": "ˈhɛnri kʊd nɒt ˌkɒmprɪˈhɛnd ðə ˈmɛsɪʤ.",
+        "exMeaning": "Henry không thể hiểu được thông điệp."
+    },
+    {
+        "word": "describe",
+        "ipa": "dɪsˈkraɪb",
+        "type": "v",
+        "tag": "diễn tả",
+        "meaning": "To describe is to say or write what someone or something is like.",
+        "context": "Để mô tả là nói hoặc viết những gì một ai đó hoặc một cái gì đó là như thế nào.",
+        "ex": "They described their tree as colorful with gold ribbon and a star",
+        "ipaExTrans": "ðeɪ dɪsˈkraɪbd ðeə triː æz ˈkʌləf(ə)l wɪð gəʊld ˈrɪbən ænd ə stɑː",
+        "exMeaning": "Họ mô tả cây của họ nhiều màu sắc với ruy băng vàng và một ngôi sao"
+    },
+    {
+        "word": "ever",
+        "ipa": "ˈɛvə",
+        "type": "adv",
+        "tag": "luôn luôn, chẳng bao giờ",
+        "meaning": "Ever means at any time.",
+        "context": "Bao giờ có nghĩa là bất cứ lúc nào.",
+        "ex": "Going skiing last winter was the most fun I’ve ever had.",
+        "ipaExTrans": "ˈgəʊɪŋ ˈskiːɪŋ lɑːst ˈwɪntə wɒz ðə məʊst fʌn aɪv ˈɛvə hæd.",
+        "exMeaning": "Đi trượt tuyết vào mùa đông năm ngoái là niềm vui nhất tôi từng có."
+    },
+    {
+        "word": "fail",
+        "ipa": "feɪl",
+        "type": "v",
+        "tag": "Thất bại",
+        "meaning": "To fail means you do not succeed in what you try to do.",
+        "context": "Thất bại có nghĩa là bạn không thành công trong những gì bạn cố gắng làm.",
+        "ex": "Since he failed to get the job, he was sad.",
+        "ipaExTrans": "sɪns hiː feɪld tuː gɛt ðə ʤɒb, hiː wɒz sæd.",
+        "exMeaning": "Vì không nhận được công việc nên anh rất buồn."
+    },
+    {
+        "word": "friendly",
+        "ipa": "ˈfrɛndli",
+        "type": "adj",
+        "tag": "thân thiện",
+        "meaning": "Friendly is behaving in a pleasant, kind way toward someone",
+        "context": "Thân thiện là cư xử một cách dễ chịu, tử tế đối với ai đó",
+        "ex": "The friendly animals came up to the girl.",
+        "ipaExTrans": "ðə ˈfrɛndli ˈænɪməlz keɪm ʌp tuː ðə gɜːl.",
+        "exMeaning": "Các động vật thân thiện đã đến với cô gái."
+    },
+    {
+        "word": "grade",
+        "ipa": "greɪd",
+        "type": "n",
+        "tag": "cấp, hạng, thứ bậc",
+        "meaning": "A grade is a score or mark given to someone’s work.",
+        "context": "Điểm số là điểm số hoặc điểm được trao cho ai đó làm việc.",
+        "ex": "I managed to get good grades on my report card.",
+        "ipaExTrans": "aɪ ˈmænɪʤd tuː gɛt gʊd greɪdz ɒn maɪ rɪˈpɔːt kɑːd.",
+        "exMeaning": "Tôi quản lý để có được điểm tốt trong thẻ báo cáo của tôi."
+    },
+    {
+        "word": "instead",
+        "ipa": "ɪnˈstɛd",
+        "type": "adv",
+        "tag": "thay thế",
+        "meaning": "Instead means in place of",
+        "context": "Thay vào đó có nghĩa là thay vì",
+        "ex": "He ate the carrot instead of the ice cream",
+        "ipaExTrans": "hiː ɛt ðə ˈkærət ɪnˈstɛd ɒv ði aɪs kriːm",
+        "exMeaning": "Anh ăn cà rốt thay vì kem"
+    },
+    {
+        "word": "library",
+        "ipa": "ˈlaɪbrəri",
+        "type": "n",
+        "tag": "thư viện",
+        "meaning": "A library is a place where you go to read books.",
+        "context": "Thư viện là nơi bạn đến để đọc sách.",
+        "ex": "The library at school is full of books.",
+        "ipaExTrans": "ðə ˈlaɪbrəri æt skuːl ɪz fʊl ɒv bʊks.",
+        "exMeaning": "Thư viện ở trường đầy sách."
+    },
+    {
+        "word": "planet",
+        "ipa": "ˈplænɪt",
+        "type": "n",
+        "tag": "hành tinh",
+        "meaning": "A planet is a large round thing in space",
+        "context": "Một hành tinh là một vật tròn lớn trong không gian",
+        "ex": "Saturn is the planet with the ring around it.",
+        "ipaExTrans": "ˈsætən ɪz ðə ˈplænɪt wɪð ðə rɪŋ əˈraʊnd ɪt.",
+        "exMeaning": "Sao Thổ là hành tinh có vành đai xung quanh nó."
+    },
+    {
+        "word": "report",
+        "ipa": "rɪˈpɔːt",
+        "type": "n",
+        "tag": "báo cáo",
+        "meaning": "A report is something students write for school.",
+        "context": "Một báo cáo là một cái gì đó sinh viên viết cho trường học.",
+        "ex": "Karen had trouble writing her report.",
+        "ipaExTrans": "ˈkærən hæd ˈtrʌbl ˈraɪtɪŋ hɜː rɪˈpɔːt.",
+        "exMeaning": "Karen gặp khó khăn khi viết báo cáo của mình."
+    },
+    {
+        "word": "several",
+        "ipa": "ˈsɛvrəl",
+        "type": "adj",
+        "tag": "một số",
+        "meaning": "Several is more than two but not many.",
+        "context": "Một số là nhiều hơn hai nhưng không nhiều.",
+        "ex": "He had to read several books for class",
+        "ipaExTrans": "hiː hæd tuː riːd ˈsɛvrəl bʊks fɔː klɑːs",
+        "exMeaning": "Anh phải đọc vài cuốn sách cho lớp."
+    },
+    {
+        "word": "solve",
+        "ipa": "sɒlv",
+        "type": "v",
+        "tag": "gỡ rối",
+        "meaning": "To solve something is to find an answer to it",
+        "context": "Để giải quyết một cái gì đó là tìm một câu trả lời cho nó",
+        "ex": "All the students could easily solve the math problem",
+        "ipaExTrans": "ɔːl ðə ˈstjuːdənts kʊd ˈiːzɪli sɒlv ðə mæθ ˈprɒbləm",
+        "exMeaning": "Tất cả học sinh có thể dễ dàng giải bài toán"
+    },
+    {
+        "word": "suddenly",
+        "ipa": "ˈsʌdnli",
+        "type": "adv",
+        "tag": "đột ngột",
+        "meaning": "If something happens suddenly, it happens quickly and unexpectedly.",
+        "context": "Nếu một cái gì đó xảy ra đột ngột, nó xảy ra nhanh chóng và bất ngờ.",
+        "ex": "I was suddenly surprised by the cake my friends brought me.",
+        "ipaExTrans": "aɪ wɒz ˈsʌdnli səˈpraɪzd baɪ ðə keɪk maɪ frɛndz brɔːt miː.",
+        "exMeaning": "Tôi bất ngờ vì chiếc bánh mà bạn bè tôi mang cho tôi."
+    },
+    {
+        "word": "suppose",
+        "ipa": "səˈpəʊz",
+        "type": "v",
+        "tag": "giả sử, cho rằng, đoán rằng",
+        "meaning": "To suppose is to guess.",
+        "context": "Giả sử là đoán.",
+        "ex": "I suppose I should go home now.",
+        "ipaExTrans": "aɪ səˈpəʊz aɪ ʃʊd gəʊ həʊm naʊ.",
+        "exMeaning": "Tôi cho rằng tôi nên về nhà bây giờ."
+    },
+    {
+        "word": "universe",
+        "ipa": "ˈjuːnɪvɜːs",
+        "type": "n",
+        "tag": "vũ trụ",
+        "meaning": "The universe is the known or supposed objects in space",
+        "context": "Vũ trụ là những vật thể đã biết hoặc được cho là trong không gian",
+        "ex": "The universe is so large that it cannot be measured",
+        "ipaExTrans": "ðə ˈjuːnɪvɜːs ɪz səʊ lɑːʤ ðæt ɪt ˈkænɒt biː ˈmɛʒəd",
+        "exMeaning": "Vũ trụ rộng lớn đến mức không thể đo lường được"
+    },
+    {
+        "word": "view",
+        "ipa": "vjuː",
+        "type": "v",
+        "tag": "lượt xem",
+        "meaning": "To view is to look at something",
+        "context": "Nhìn là nhìn vào một cái gì đó",
+        "ex": "Michael likes to view himself in the mirror.",
+        "ipaExTrans": "ˈmaɪk(ə)l laɪks tuː vjuː hɪmˈsɛlf ɪn ðə ˈmɪrə.",
+        "exMeaning": "Michael thích nhìn mình trong gương."
+    }
+]

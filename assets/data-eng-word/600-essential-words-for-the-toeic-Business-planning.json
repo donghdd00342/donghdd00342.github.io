@@ -1,0 +1,65 @@
+[
+    {
+        "word": "address",
+        "type": "Địa chỉ",
+        "ipa": "əˈdrɛs",
+        "meaning": "to direct to the attention of (địa chỉ, chuyển đi tới )",
+        "tag": "Business planning"
+    },
+    {
+        "word": "demonstrate",
+        "type": "chứng minh",
+        "ipa": "ˈdɛmənstreɪt",
+        "meaning": "chứng minh, giải thích, bày tỏ, biểu lộ, làm thấy rõ",
+        "tag": "Business planning"
+    },
+    {
+        "word": "evaluate",
+        "type": "đánh giá",
+        "ipa": "ɪˈvæljʊeɪt",
+        "meaning": "to determine the value or impact of (ước lượng , định giá)",
+        "tag": "Business planning"
+    },
+    {
+        "word": "gather",
+        "type": "tụ họp",
+        "ipa": "ˈgæðə",
+        "meaning": "to accumulate, to conclude (tập hợp lại, tụ họp lại, kéo đến)",
+        "tag": "Business planning"
+    },
+    {
+        "word": "offer",
+        "type": "phục vụ",
+        "ipa": "ˈɒfə",
+        "meaning": "to propose, to present in order to meet a need or satisfy a requirement (đưa ra đề nghị)",
+        "tag": "Business planning"
+    },
+    {
+        "word": "primary",
+        "type": "sơ cấp",
+        "ipa": "ˈpraɪməri",
+        "meaning": "Most important, first in a list, series, or sequence (chủ yếu, chính, bậc nhất)",
+        "tag": "Business planning"
+    },
+    {
+        "word": "strategy",
+        "type": "chiến lược",
+        "ipa": "ˈstrætɪʤi",
+        "meaning": "a plan of action (chiến lược)",
+        "tag": "Business planning"
+    },
+    {
+        "word": "strategic",
+        "type": "chiến lược",
+        "ipa": "strəˈtiːʤɪk",
+        "meaning": "(a) (thuộc) chiến lược",
+        "tag": "Business planning"
+    },
+    {
+        "word": "substitute",
+        "type": "thay thế",
+        "ipa": "ˈsʌbstɪtjuːt",
+        "meaning": "to take the place of another (thế, thay thế)",
+        "tag": "Business planning"
+    }
+]

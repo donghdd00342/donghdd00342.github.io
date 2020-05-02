@@ -1,0 +1,897 @@
+[
+    {
+        "word": "react",
+        "type": "verb",
+        "ipa": "ri(ː)ˈækt",
+        "meaning": "phản ứng, phản đối lại",
+        "ex": "Young people tend to react against their parents.",
+        "ipaExTrans": "jʌŋ ˈpiːpl tɛnd tuː ri(ː)ˈækt əˈgɛnst ðeə ˈpeərənts.",
+        "exMeaning": "Những người trẻ tuổi có xu hướng phản ứng chống lại cha mẹ của họ."
+    },
+    {
+        "word": "recognize",
+        "type": "verb",
+        "ipa": "ˈrɛkəgnaɪz",
+        "meaning": "nhìn nhận; thừa nhận; chấp nhận",
+        "ex": "Everyone recognized his skill.",
+        "ipaExTrans": "ˈɛvrɪwʌn ˈrɛkəgnaɪzd hɪz skɪl.",
+        "exMeaning": "Mọi người đều công nhận kỹ năng của anh ấy."
+    },
+    {
+        "word": "relax",
+        "type": "verb",
+        "ipa": "rɪˈlæks",
+        "meaning": "thư giãn",
+        "ex": "He relaxed his grip for a second and the rope was dragged out of his hand.",
+        "ipaExTrans": "hiː rɪˈlækst hɪz grɪp fɔːr ə ˈsɛkənd ænd ðə rəʊp wɒz drægd aʊt ɒv hɪz hænd.",
+        "exMeaning": "Anh thả lỏng tay trong giây lát và sợi dây được kéo ra khỏi tay anh."
+    },
+    {
+        "word": "replace",
+        "type": "verb",
+        "ipa": "rɪˈpleɪs",
+        "meaning": "thay thế",
+        "ex": "Cars have replaced horses as the normal means of transport.",
+        "ipaExTrans": "kɑːz hæv rɪˈpleɪst ˈhɔːsɪz æz ðə ˈnɔːməl miːnz ɒv ˈtrænspɔːt.",
+        "exMeaning": "Ô tô đã thay thế ngựa như phương tiện giao thông bình thường."
+    },
+    {
+        "word": "borrow",
+        "type": "verb",
+        "ipa": "ˈbɒrəʊ",
+        "meaning": "vay",
+        "ex": "He borrowed a book from the library.",
+        "ipaExTrans": "hiː ˈbɒrəʊd ə bʊk frɒm ðə ˈlaɪbrəri.",
+        "exMeaning": "Anh mượn một cuốn sách từ thư viện."
+    },
+    {
+        "word": "earn",
+        "type": "verb",
+        "ipa": "ɜːn",
+        "meaning": "kiếm được; được hưởng",
+        "ex": "You can afford a car now that you’re earning.",
+        "ipaExTrans": "juː kæn əˈfɔːd ə kɑː naʊ ðæt jʊər ˈɜːnɪŋ.",
+        "exMeaning": "Bây giờ bạn có thể mua một chiếc xe hơi mà bạn kiếm được."
+    },
+    {
+        "word": "emphasize",
+        "type": "verb",
+        "ipa": "ˈɛmfəsaɪz",
+        "meaning": "nhấn mạnh",
+        "ex": "He emphasized the importance of working hard.",
+        "ipaExTrans": "hiː ˈɛmfəsaɪzd ði ɪmˈpɔːtəns ɒv ˈwɜːkɪŋ hɑːd.",
+        "exMeaning": "Ông nhấn mạnh tầm quan trọng của việc làm việc chăm chỉ."
+    },
+    {
+        "word": "enable",
+        "type": "verb",
+        "ipa": "ɪˈneɪbl",
+        "meaning": "cho phép",
+        "ex": "The money I inherited enabled me to go on a world cruise.",
+        "ipaExTrans": "ðə ˈmʌni aɪ ɪnˈhɛrɪtɪd ɪˈneɪbld miː tuː gəʊ ɒn ə wɜːld kruːz.",
+        "exMeaning": "Số tiền tôi được thừa kế cho phép tôi đi du thuyền thế giới."
+    },
+    {
+        "word": "operate",
+        "type": "verb",
+        "ipa": "ˈɒpəreɪt",
+        "meaning": "vận hành; điều khiển; phẫu thuật",
+        "ex": "The surgeon operated on her for appendicitis.",
+        "ipaExTrans": "ðə ˈsɜːʤən ˈɒpəreɪtɪd ɒn hɜː fɔːr əˌpɛndɪˈsaɪtɪs.",
+        "exMeaning": "Bác sĩ phẫu thuật cho cô ấy bị viêm ruột thừa."
+    },
+    {
+        "word": "reflect",
+        "type": "verb",
+        "ipa": "rɪˈflɛkt",
+        "meaning": "phản chiếu; cân nhắc",
+        "ex": "Give him a minute to reflect (on what he should do).",
+        "ipaExTrans": "gɪv hɪm ə ˈmɪnɪt tuː rɪˈflɛkt (ɒn wɒt hiː ʃʊd duː).",
+        "exMeaning": "Cho anh ta một phút để suy ngẫm (về những gì anh ta nên làm)."
+    },
+    {
+        "word": "anticipate",
+        "type": "verb",
+        "ipa": "ænˈtɪsɪpeɪt",
+        "meaning": "dự đoán; lường trước",
+        "ex": "A businessman must try to anticipate what his customers will want.",
+        "ipaExTrans": "ə ˈbɪznɪsmən mʌst traɪ tuː ænˈtɪsɪpeɪt wɒt hɪz ˈkʌstəməz wɪl wɒnt.",
+        "exMeaning": "Một doanh nhân phải cố gắng dự đoán những gì khách hàng của mình sẽ muốn."
+    },
+    {
+        "word": "assume",
+        "type": "verb",
+        "ipa": "əˈsjuːm",
+        "meaning": "giả định; đảm đương",
+        "ex": "He assumed the role of leader in the emergency.",
+        "ipaExTrans": "hiː əˈsjuːmd ðə rəʊl ɒv ˈliːdər ɪn ði ɪˈmɜːʤənsi.",
+        "exMeaning": "Ông đảm nhận vai trò lãnh đạo trong trường hợp khẩn cấp."
+    },
+    {
+        "word": "engage",
+        "type": "verb",
+        "ipa": "ɪnˈgeɪʤ",
+        "meaning": "thuê; đặt trước",
+        "ex": "He has engaged an entertainer for the children’s party.",
+        "ipaExTrans": "hiː hæz ɪnˈgeɪʤd ən ˌɛntəˈteɪnə fɔː ðə ˈʧɪldrənz ˈpɑːti.",
+        "exMeaning": "Anh ấy đã tham gia một trò giải trí cho bữa tiệc trẻ em."
+    },
+    {
+        "word": "enhance",
+        "type": "verb",
+        "ipa": "ɪnˈhɑːns",
+        "meaning": "nâng cao",
+        "ex": "The book greatly enhanced his reputation.",
+        "ipaExTrans": "ðə bʊk ˈgreɪtli ɪnˈhɑːnst hɪz ˌrɛpju(ː)ˈteɪʃən.",
+        "exMeaning": "Cuốn sách nâng cao đáng kể danh tiếng của ông."
+    },
+    {
+        "word": "examine",
+        "type": "verb",
+        "ipa": "ɪgˈzæmɪn",
+        "meaning": "xem xét; khảo sát; thẩm vấn",
+        "ex": "The detectives must examine the facts.",
+        "ipaExTrans": "ðə dɪˈtɛktɪvz mʌst ɪgˈzæmɪn ðə fækts.",
+        "exMeaning": "Các thám tử phải kiểm tra sự thật."
+    },
+    {
+        "word": "install",
+        "type": "verb",
+        "ipa": "ɪnˈstɔːl",
+        "meaning": "cài đặt, dựng lên; làm lễ nhậm chức",
+        "ex": "They soon installed themselves in the new house.",
+        "ipaExTrans": "ðeɪ suːn ɪnˈstɔːld ðəmˈsɛlvz ɪn ðə njuː haʊs.",
+        "exMeaning": "Họ sớm cài đặt trong ngôi nhà mới."
+    },
+    {
+        "word": "participate",
+        "type": "verb",
+        "ipa": "pɑːˈtɪsɪpeɪt",
+        "meaning": "tham dự",
+        "ex": "Did you participate in the discussion?",
+        "ipaExTrans": "dɪd juː pɑːˈtɪsɪpeɪt ɪn ðə dɪsˈkʌʃən?",
+        "exMeaning": "Bạn đã tham gia vào cuộc thảo luận?"
+    },
+    {
+        "word": "intend",
+        "type": "verb",
+        "ipa": "ɪnˈtɛnd",
+        "meaning": "có ý định",
+        "ex": "His remarks were intended to be a compliment.",
+        "ipaExTrans": "hɪz ˈrɪˈmɑːks wɜːr ɪnˈtɛndɪd tuː biː ə ˈkɒmplɪmənt.",
+        "exMeaning": "Nhận xét của ông được dự định là một lời khen."
+    },
+    {
+        "word": "introduce",
+        "type": "verb",
+        "ipa": "ˌɪntrəˈdjuːs",
+        "meaning": "giới thiệu",
+        "ex": "Let me introduce you to my mother",
+        "ipaExTrans": "lɛt miː ˌɪntrəˈdjuːs juː tuː maɪ ˈmʌðə",
+        "exMeaning": "Hãy để tôi giới thiệu bạn với mẹ tôi"
+    },
+    {
+        "word": "relate",
+        "type": "verb",
+        "ipa": "rɪˈleɪt",
+        "meaning": "liên quan; thuật lại",
+        "ex": "He related all that had happened to him.",
+        "ipaExTrans": "hiː rɪˈleɪtɪd ɔːl ðæt hæd ˈhæpənd tuː hɪm.",
+        "exMeaning": "Anh ta liên quan đến tất cả những gì đã xảy ra với anh ta."
+    },
+    {
+        "word": "settle",
+        "type": "verb",
+        "ipa": "ˈsɛtl",
+        "meaning": "giải quyết; đến nghỉ trên cái gì",
+        "ex": "I settled myself in the armchair.",
+        "ipaExTrans": "aɪ ˈsɛtld maɪˈsɛlf ɪn ði ˈɑːmˈʧeə.",
+        "exMeaning": "Tôi ngồi xuống ghế bành."
+    },
+    {
+        "word": "assure",
+        "type": "verb",
+        "ipa": "əˈʃʊə",
+        "meaning": "cam đoan; bảo đảm",
+        "ex": "You may be assured that we shall do all we can to help.",
+        "ipaExTrans": "juː meɪ biː əˈʃʊəd ðæt wiː ʃæl duː ɔːl wiː kæn tuː hɛlp.",
+        "exMeaning": "Bạn có thể yên tâm rằng chúng tôi sẽ làm tất cả những gì có thể để giúp đỡ."
+    },
+    {
+        "word": "attract",
+        "type": "verb",
+        "ipa": "əˈtrækt",
+        "meaning": "thu hút; hấp dẫn",
+        "ex": "What was it that attracted you to him?",
+        "ipaExTrans": "wɒt wɒz ɪt ðæt əˈtræktɪd juː tuː hɪm?",
+        "exMeaning": "Điều gì đã thu hút bạn đến với anh ấy?"
+    },
+    {
+        "word": "distribute",
+        "type": "verb",
+        "ipa": "dɪsˈtrɪbju(ː)t",
+        "meaning": "phân phát",
+        "ex": "He distributed sweets to all the children in the class.",
+        "ipaExTrans": "hiː dɪsˈtrɪbju(ː)tɪd swiːts tuː ɔːl ðə ˈʧɪldrən ɪn ðə klɑːs.",
+        "exMeaning": "Anh phân phát kẹo cho tất cả trẻ em trong lớp."
+    },
+    {
+        "word": "overcome",
+        "type": "verb",
+        "ipa": "ˌəʊvəˈkʌm",
+        "meaning": "vượt qua; khắc phục",
+        "tag": "Adj: mất tinh thần",
+        "ex": "She finally overcame her fear of the dark.",
+        "ipaExTrans": "ʃiː ˈfaɪnəli ˌəʊvəˈkeɪm hɜː fɪər ɒv ðə dɑːk.",
+        "exMeaning": "Cuối cùng cô đã vượt qua nỗi sợ bóng tối."
+    },
+    {
+        "word": "owe",
+        "type": "verb",
+        "ipa": "əʊ",
+        "meaning": "nợ",
+        "ex": "I owe (him) $10.",
+        "ipaExTrans": "aɪ əʊ (hɪm) $10.",
+        "exMeaning": "Tôi nợ (anh ta) $ 10."
+    },
+    {
+        "word": "succeed",
+        "type": "verb",
+        "ipa": "səkˈsiːd",
+        "meaning": "thành công; kế tục, kế tiếp",
+        "ex": "The cold summer was succeeded by a stormy autumn",
+        "ipaExTrans": "ðə kəʊld ˈsʌmə wɒz səkˈsiːdɪd baɪ ə ˈstɔːmi ˈɔːtəm",
+        "exMeaning": "Mùa hè lạnh đã thành công bởi một mùa thu bão tố"
+    },
+    {
+        "word": "suffer",
+        "type": "verb",
+        "ipa": "ˈsʌfə",
+        "meaning": "đau khổ; chịu đựng",
+        "ex": "He suffered terrible pain from his injuries",
+        "ipaExTrans": "hiː ˈsʌfəd ˈtɛrəbl peɪn frɒm hɪz ˈɪnʤəriz",
+        "exMeaning": "Anh ấy phải chịu đựng nỗi đau khủng khiếp từ vết thương của mình"
+    },
+    {
+        "word": "throw",
+        "type": "verb",
+        "ipa": "θrəʊ",
+        "meaning": "ném; lúng túng",
+        "ex": "He was completely thrown by her question.",
+        "ipaExTrans": "hiː wɒz kəmˈpliːtli θrəʊn baɪ hɜː ˈkwɛsʧən.",
+        "exMeaning": "Anh hoàn toàn bị ném bởi câu hỏi của cô."
+    },
+    {
+        "word": "acquire",
+        "type": "verb",
+        "ipa": "əˈkwaɪə",
+        "meaning": "có được, thu được",
+        "ex": "He acquired a lot of interesting antiques over the course of his life.",
+        "ipaExTrans": "hiː əˈkwaɪəd ə lɒt ɒv ˈɪntrɪstɪŋ ænˈtiːks ˈəʊvə ðə kɔːs ɒv hɪz laɪf.",
+        "exMeaning": "Anh ta có được rất nhiều đồ cổ thú vị trong suốt cuộc đời."
+    },
+    {
+        "word": "adapt",
+        "type": "verb",
+        "ipa": "əˈdæpt",
+        "meaning": "phỏng theo; sửa lại cho hợp",
+        "ex": "She always adapted easily to new circumstances",
+        "ipaExTrans": "ʃiː ˈɔːlweɪz əˈdæptɪd ˈiːzɪli tuː njuː ˈsɜːkəmstənsɪz",
+        "exMeaning": "Cô luôn dễ dàng thích nghi với hoàn cảnh mới."
+    },
+    {
+        "word": "adjust",
+        "type": "verb",
+        "ipa": "əˈʤʌst",
+        "meaning": "điều chỉnh",
+        "ex": "He soon adjusted to his new way of life.",
+        "ipaExTrans": "hiː suːn əˈʤʌstɪd tuː hɪz njuː weɪ ɒv laɪf.",
+        "exMeaning": "Anh sớm điều chỉnh lối sống mới."
+    },
+    {
+        "word": "argue",
+        "type": "verb",
+        "ipa": "ˈɑːgjuː",
+        "meaning": "tranh luận; cãi nhau; phản đối; thuyết phục",
+        "ex": "He argued her out of buying the dress.",
+        "ipaExTrans": "hiː ˈɑːgjuːd hɜːr aʊt ɒv ˈbaɪɪŋ ðə drɛs.",
+        "exMeaning": "Anh cãi cô ra mua váy."
+    },
+    {
+        "word": "arise",
+        "type": "verb",
+        "ipa": "əˈraɪz",
+        "meaning": "nảy sinh; xuất hiện",
+        "ex": "These problems have arisen as a result of your carelessness",
+        "ipaExTrans": "ðiːz ˈprɒbləmz hæv əˈrɪzn æz ə rɪˈzʌlt ɒv jɔː ˈkeəlɪsnəs",
+        "exMeaning": "Những vấn đề này đã phát sinh do sự bất cẩn của bạn"
+    },
+    {
+        "word": "encouraging",
+        "type": "verb",
+        "ipa": "ɪnˈkʌrɪʤɪŋ",
+        "meaning": "khích lệ",
+        "ex": "They received some encouraging news about their son’s recovery from illness.",
+        "ipaExTrans": "ðeɪ rɪˈsiːvd sʌm ɪnˈkʌrɪʤɪŋ njuːz əˈbaʊt ðeə sʌnz rɪˈkʌvəri frɒm ˈɪlnɪs.",
+        "exMeaning": "Họ đã nhận được một số tin tức đáng khích lệ về việc con trai họ hồi phục sau khi bị bệnh."
+    },
+    {
+        "word": "incorporate",
+        "type": "verb",
+        "ipa": "ɪnˈkɔːpərɪt",
+        "meaning": "kết hợp; bao gồm",
+        "ex": "The shopping centre incorporates a library and a bank.",
+        "ipaExTrans": "ðə ˈʃɒpɪŋ ˈsɛntər ɪnˈkɔːpərɪts ə ˈlaɪbrəri ænd ə bæŋk.",
+        "exMeaning": "Trung tâm mua sắm kết hợp thư viện và ngân hàng."
+    },
+    {
+        "word": "justify",
+        "type": "verb",
+        "ipa": "ˈʤʌstɪfaɪ",
+        "meaning": "biện minh; bào chữa",
+        "ex": "Your state of anxiety does not justify your being so rude to me.",
+        "ipaExTrans": "jɔː steɪt ɒv æŋˈzaɪəti dʌz nɒt ˈʤʌstɪfaɪ jɔː ˈbiːɪŋ səʊ ruːd tuː miː.",
+        "exMeaning": "Trạng thái lo lắng của bạn không biện minh cho việc bạn quá thô lỗ với tôi."
+    },
+    {
+        "word": "organize",
+        "type": "verb",
+        "ipa": "ˈɔːgənaɪz",
+        "meaning": "tổ chức; thành lập",
+        "ex": "He organized the workers into a trade union.",
+        "ipaExTrans": "hiː ˈɔːgənaɪzd ðə ˈwɜːkəz ˈɪntuː ə treɪd ˈjuːnjən.",
+        "exMeaning": "Ông tổ chức công nhân thành một công đoàn."
+    },
+    {
+        "word": "ought",
+        "type": "verb",
+        "ipa": "ɔːt",
+        "meaning": "nên; phải; chắc là",
+        "ex": "He ought to have been able to do it.",
+        "ipaExTrans": "hiː ɔːt tuː hæv biːn ˈeɪbl tuː duː ɪt.",
+        "exMeaning": "Anh ta nên có thể làm điều đó."
+    },
+    {
+        "word": "possess",
+        "type": "verb",
+        "ipa": "pəˈzɛs",
+        "meaning": "sở hữu; có",
+        "ex": "How much money does he possess?",
+        "ipaExTrans": "haʊ mʌʧ ˈmʌni dʌz hiː pəˈzɛs?",
+        "exMeaning": "Anh ta sở hữu bao nhiêu tiền?"
+    },
+    {
+        "word": "relieve",
+        "type": "verb",
+        "ipa": "rɪˈliːv",
+        "meaning": "giải tỏa; làm giảm; làm dịu",
+        "ex": "The doctor gave him some drugs to relieve the pain",
+        "ipaExTrans": "ðə ˈdɒktə geɪv hɪm sʌm drʌgz tuː rɪˈliːv ðə peɪn",
+        "exMeaning": "Bác sĩ đã cho anh ta một số loại thuốc để giảm đau"
+    },
+    {
+        "word": "retain",
+        "type": "verb",
+        "ipa": "rɪˈteɪn",
+        "meaning": "giữ lại; giữ được; nhớ được",
+        "ex": "He finds it difficult to retain information",
+        "ipaExTrans": "hiː faɪndz ɪt ˈdɪfɪkəlt tuː rɪˈteɪn ˌɪnfəˈmeɪʃən",
+        "exMeaning": "Anh ấy thấy khó giữ lại thông tin"
+    },
+    {
+        "word": "shut",
+        "type": "verb",
+        "ipa": "ʃʌt",
+        "meaning": "đóng cửa; đóng; gập, gấp lại",
+        "ex": "Shut your eyes and don’t look.",
+        "ipaExTrans": "ʃʌt jɔːr aɪz ænd dəʊnt lʊk.",
+        "exMeaning": "Hãy nhắm mắt lại và nhìn don don."
+    },
+    {
+        "word": "calculate",
+        "type": "verb",
+        "ipa": "ˈkælkjʊleɪt",
+        "meaning": "tính toán",
+        "ex": "Calculate the number of days in a century.",
+        "ipaExTrans": "ˈkælkjʊleɪt ðə ˈnʌmbər ɒv deɪz ɪn ə ˈsɛnʧʊri.",
+        "exMeaning": "Tính số ngày trong một thế kỷ."
+    },
+    {
+        "word": "compete",
+        "type": "verb",
+        "ipa": "kəmˈpiːt",
+        "meaning": "tranh đua",
+        "ex": "We are competing against them in the next round",
+        "ipaExTrans": "wiː ɑː kəmˈpiːtɪŋ əˈgɛnst ðɛm ɪn ðə nɛkst raʊnd",
+        "exMeaning": "Chúng tôi đang cạnh tranh với họ trong vòng tiếp theo"
+    },
+    {
+        "word": "consult",
+        "type": "verb",
+        "ipa": "kənˈsʌlt",
+        "meaning": "tham khảo ý kiến; tư vấn",
+        "ex": "He consulted with me about what we should do next.",
+        "ipaExTrans": "hiː kənˈsʌltɪd wɪð miː əˈbaʊt wɒt wiː ʃʊd duː nɛkst.",
+        "exMeaning": "Anh ấy đã hỏi ý kiến ​​tôi về những gì chúng ta nên làm tiếp theo."
+    },
+    {
+        "word": "deliver",
+        "type": "verb",
+        "ipa": "dɪˈlɪvə",
+        "meaning": "giao hàng; trình bày; đỡ đẻ",
+        "ex": "The postman delivers the letters once a day.",
+        "ipaExTrans": "ðə ˈpəʊstmən dɪˈlɪvəz ðə ˈlɛtəz wʌns ə deɪ.",
+        "exMeaning": "Người đưa thư gửi thư mỗi ngày một lần."
+    },
+    {
+        "word": "investigate",
+        "type": "verb",
+        "ipa": "ɪnˈvɛstɪgeɪt",
+        "meaning": "điều tra",
+        "ex": "The police are investigating the crime",
+        "ipaExTrans": "ðə pəˈliːs ɑːr ɪnˈvɛstɪgeɪtɪŋ ðə kraɪm",
+        "exMeaning": "Cảnh sát đang điều tra tội phạm"
+    },
+    {
+        "word": "negotiate",
+        "type": "verb",
+        "ipa": "nɪˈgəʊʃɪeɪt",
+        "meaning": "đàm phán; thương lượng",
+        "ex": "It was hard enough to get the two sides to sit down and negotiate a peace agreement.",
+        "ipaExTrans": "ɪt wɒz hɑːd ɪˈnʌf tuː gɛt ðə tuː saɪdz tuː sɪt daʊn ænd nɪˈgəʊʃɪeɪt ə piːs əˈgriːmənt.",
+        "exMeaning": "Nó đã đủ khó để khiến hai bên ngồi xuống và đàm phán một thỏa thuận hòa bình."
+    },
+    {
+        "word": "qualify",
+        "type": "verb",
+        "ipa": "ˈkwɒlɪfaɪ",
+        "meaning": "đủ điều kiện",
+        "ex": "She is too young to qualify for a place in the team.",
+        "ipaExTrans": "ʃiː ɪz tuː jʌŋ tuː ˈkwɒlɪfaɪ fɔːr ə pleɪs ɪn ðə tiːm.",
+        "exMeaning": "Cô ấy quá trẻ để đủ điều kiện cho một vị trí trong đội."
+    },
+    {
+        "word": "retire",
+        "type": "verb",
+        "ipa": "rɪˈtaɪə",
+        "meaning": "về hưu; rút lui",
+        "ex": "The troops were forced to retire to a safer position.",
+        "ipaExTrans": "ðə truːps wɜː fɔːst tuː rɪˈtaɪə tuː ə ˈseɪfə pəˈzɪʃən.",
+        "exMeaning": "Quân đội đã buộc phải nghỉ hưu đến một vị trí an toàn hơn."
+    },
+    {
+        "word": "rid",
+        "type": "verb",
+        "ipa": "rɪd",
+        "meaning": "thoát khỏi; tống khứ",
+        "ex": "We must try to rid the town of rats.",
+        "ipaExTrans": "wiː mʌst traɪ tuː rɪd ðə taʊn ɒv ræts.",
+        "exMeaning": "Chúng ta phải cố gắng để thoát khỏi thị trấn chuột."
+    },
+    {
+        "word": "weigh",
+        "type": "verb",
+        "ipa": "weɪ",
+        "meaning": "cân; là gánh nặng cho ai",
+        "ex": "She was weighed down with two large suitcases.",
+        "ipaExTrans": "ʃiː wɒz weɪd daʊn wɪð tuː lɑːʤ ˈsjuːtkeɪsɪz.",
+        "exMeaning": "Cô bị đè nặng với hai chiếc vali lớn."
+    },
+    {
+        "word": "arrive",
+        "type": "verb",
+        "ipa": "əˈraɪv",
+        "meaning": "đến",
+        "ex": "They arrived home last night",
+        "ipaExTrans": "ðeɪ əˈraɪvd həʊm lɑːst naɪt",
+        "exMeaning": "Họ đã về nhà tối qua"
+    },
+    {
+        "word": "attach",
+        "type": "verb",
+        "ipa": "əˈtæʧ",
+        "meaning": "đính kèm; gắn",
+        "ex": "I attached a label to my bag.",
+        "ipaExTrans": "aɪ əˈtæʧt ə ˈleɪbl tuː maɪ bæg.",
+        "exMeaning": "Tôi gắn một nhãn vào túi của tôi."
+    },
+    {
+        "word": "behave",
+        "type": "verb",
+        "ipa": "bɪˈheɪv",
+        "meaning": "hành xử; cư xử; đối xử",
+        "ex": "Metals behave in different ways when heated.",
+        "ipaExTrans": "ˈmɛtlz bɪˈheɪv ɪn ˈdɪfrənt weɪz wɛn ˈhiːtɪd.",
+        "exMeaning": "Kim loại hành xử theo những cách khác nhau khi đun nóng."
+    },
+    {
+        "word": "celebrate",
+        "type": "verb",
+        "ipa": "ˈsɛlɪbreɪt",
+        "meaning": "ăn mừng; kỷ niệm",
+        "ex": "I’m celebrating (my birthday) today.",
+        "ipaExTrans": "aɪm ˈsɛlɪbreɪtɪŋ (maɪ ˈbɜːθdeɪ) təˈdeɪ.",
+        "exMeaning": "Tôi kỷ niệm (sinh nhật của tôi) ngày hôm nay."
+    },
+    {
+        "word": "convince",
+        "type": "verb",
+        "ipa": "kənˈvɪns",
+        "meaning": "thuyết phục",
+        "ex": "She is convinced of his innocence.",
+        "ipaExTrans": "ʃiː ɪz kənˈvɪnst ɒv hɪz ˈɪnəsəns.",
+        "exMeaning": "Cô tin vào sự ngây thơ của anh."
+    },
+    {
+        "word": "disagree",
+        "type": "verb",
+        "ipa": "ˌdɪsəˈgriː",
+        "meaning": "không đồng ý",
+        "ex": "I disagree with you on that point.",
+        "ipaExTrans": "aɪ ˌdɪsəˈgriː wɪð juː ɒn ðæt pɔɪnt.",
+        "exMeaning": "Tôi không đồng ý với bạn về điểm đó."
+    },
+    {
+        "word": "establish",
+        "type": "verb",
+        "ipa": "ɪsˈtæblɪʃ",
+        "meaning": "thành lập; củng cố; chứng minh",
+        "ex": "The police established that he was guilty.",
+        "ipaExTrans": "ðə pəˈliːs ɪsˈtæblɪʃt ðæt hiː wɒz ˈgɪlti.",
+        "exMeaning": "Cảnh sát xác định rằng anh ta có tội."
+    },
+    {
+        "word": "ignore",
+        "type": "verb",
+        "ipa": "ɪgˈnɔː",
+        "meaning": "bỏ qua; không để ý",
+        "ex": "He ignored all my warnings.",
+        "ipaExTrans": "hiː ɪgˈnɔːd ɔːl maɪ ˈwɔːnɪŋz.",
+        "exMeaning": "Anh bỏ qua mọi cảnh báo của tôi."
+    },
+    {
+        "word": "imply",
+        "type": "verb",
+        "ipa": "ɪmˈplaɪ",
+        "meaning": "bao hàm, ngụ ý; ám chỉ",
+        "ex": "Are you implying that I am a liar?",
+        "ipaExTrans": "ɑː juː ɪmˈplaɪɪŋ ðæt aɪ æm ə ˈlaɪə?",
+        "exMeaning": "Bạn đang ám chỉ rằng tôi là kẻ nói dối?"
+    },
+    {
+        "word": "insist",
+        "type": "verb",
+        "ipa": "ɪnˈsɪst",
+        "meaning": "năn nỉ; khăng khăng; yêu cầu",
+        "ex": "She insisted on coming with me",
+        "ipaExTrans": "ʃiː ɪnˈsɪstɪd ɒn ˈkʌmɪŋ wɪð miː",
+        "exMeaning": "Cô ấy khăng khăng muốn đi cùng tôi"
+    },
+    {
+        "word": "pursue",
+        "type": "verb",
+        "ipa": "pəˈsjuː",
+        "meaning": "theo đuổi; truy bắt",
+        "ex": "He is pursuing his studies at university.",
+        "ipaExTrans": "hiː ɪz pəˈsjuːɪŋ hɪz ˈstʌdiz æt ˌjuːnɪˈvɜːsɪti.",
+        "exMeaning": "Anh đang theo đuổi việc học tại trường đại học."
+    },
+    {
+        "word": "specify",
+        "type": "verb",
+        "ipa": "ˈspɛsɪfaɪ",
+        "meaning": "chỉ định; ghi rõ; chỉ rõ; định rõ",
+        "ex": "He specified the main illnesses that are caused by poverty.",
+        "ipaExTrans": "hiː ˈspɛsɪfaɪd ðə meɪn ˈɪlnɪsɪz ðæt ɑː kɔːzd baɪ ˈpɒvəti.",
+        "exMeaning": "Ông chỉ định những căn bệnh chính gây ra bởi nghèo đói."
+    },
+    {
+        "word": "accuse",
+        "type": "verb",
+        "ipa": "əˈkjuːz",
+        "meaning": "buộc tội",
+        "ex": "They accused him of stealing the car.",
+        "ipaExTrans": "ðeɪ əˈkjuːzd hɪm ɒv ˈstiːlɪŋ ðə kɑː.",
+        "exMeaning": "Họ buộc tội anh ta ăn cắp xe."
+    },
+    {
+        "word": "admire",
+        "type": "verb",
+        "ipa": "ədˈmaɪə",
+        "meaning": "ngưỡng mộ; ngắm nhìn; khâm phục",
+        "ex": "I’ve just been admiring your new car.",
+        "ipaExTrans": "aɪv ʤʌst biːn ədˈmaɪərɪŋ jɔː njuː kɑː.",
+        "exMeaning": "Tôi vừa mới chiêm ngưỡng chiếc xe mới của bạn."
+    },
+    {
+        "word": "adopt",
+        "type": "verb",
+        "ipa": "əˈdɒpt",
+        "meaning": "thông qua; nhận con nuôi",
+        "ex": "The policy was adopted after a vote by the council.",
+        "ipaExTrans": "ðə ˈpɒlɪsi wɒz əˈdɒptɪd ˈɑːftər ə vəʊt baɪ ðə ˈkaʊns(ə)l.",
+        "exMeaning": "Chính sách đã được thông qua sau một cuộc bỏ phiếu của hội đồng."
+    },
+    {
+        "word": "belong",
+        "type": "verb",
+        "ipa": "bɪˈlɒŋ",
+        "meaning": "thuộc về; có liên quan với",
+        "ex": "This shoe belongs with that one.",
+        "ipaExTrans": "ðɪs ʃuː bɪˈlɒŋz wɪð ðæt wʌn.",
+        "exMeaning": "Giày này thuộc về cái đó."
+    },
+    {
+        "word": "commit",
+        "type": "verb",
+        "ipa": "kəˈmɪt",
+        "meaning": "cam kết; phạm phải",
+        "ex": "He committed the murder when he was drunk.",
+        "ipaExTrans": "hiː kəˈmɪtɪd ðə ˈmɜːdə wɛn hiː wɒz drʌŋk.",
+        "exMeaning": "Anh ta phạm tội giết người khi say rượu."
+    },
+    {
+        "word": "criticize",
+        "type": "verb",
+        "ipa": "ˈkrɪtɪsaɪz",
+        "meaning": "chỉ trích; phê bình",
+        "ex": "The course teaches students how to criticize literary works.",
+        "ipaExTrans": "ðə kɔːs ˈtiːʧɪz ˈstjuːdənts haʊ tuː ˈkrɪtɪsaɪz ˈlɪtərəri wɜːks.",
+        "exMeaning": "Khóa học dạy sinh viên cách phê bình tác phẩm văn học."
+    },
+    {
+        "word": "deserve",
+        "type": "verb",
+        "ipa": "dɪˈzɜːv",
+        "meaning": "xứng đáng",
+        "ex": "He deserves recognition of his achievements.",
+        "ipaExTrans": "hiː dɪˈzɜːvz ˌrɛkəgˈnɪʃən ɒv hɪz əˈʧiːvmənts.",
+        "exMeaning": "Anh ấy xứng đáng được công nhận thành tích của mình."
+    },
+    {
+        "word": "hesitate",
+        "type": "verb",
+        "ipa": "ˈhɛzɪteɪt",
+        "meaning": "do dự",
+        "ex": "Don’t hesitate to tell me if you have any complaints.",
+        "ipaExTrans": "dəʊnt ˈhɛzɪteɪt tuː tɛl miː ɪf juː hæv ˈɛni kəmˈpleɪnts.",
+        "exMeaning": "Don Patrick ngần ngại cho tôi biết nếu bạn có bất kỳ khiếu nại."
+    },
+    {
+        "word": "illustrate",
+        "type": "verb",
+        "ipa": "ˈɪləstreɪt",
+        "meaning": "Minh họa; giải thích",
+        "ex": "This diagram will illustrate what I mean.",
+        "ipaExTrans": "ðɪs ˈdaɪəgræm wɪl ˈɪləstreɪt wɒt aɪ miːn.",
+        "exMeaning": "Sơ đồ này sẽ minh họa những gì tôi muốn nói."
+    },
+    {
+        "word": "manufacture",
+        "type": "verb; noun",
+        "ipa": "ˌmænjʊˈfækʧərɪŋ",
+        "meaning": "chế tạo; sản xuất",
+        "ex": "This firm manufactures cars at the rate of two hundred per day.",
+        "ipaExTrans": "ðɪs fɜːm ˌmænjʊˈfækʧəz kɑːz æt ðə reɪt ɒv tuː ˈhʌndrəd pɜː deɪ.",
+        "exMeaning": "Công ty này sản xuất ô tô với mức hai trăm mỗi ngày."
+    },
+    {
+        "word": "persuade",
+        "type": "verb",
+        "ipa": "pəˈsweɪd",
+        "meaning": "thuyết phục",
+        "ex": "We eventually persuaded him that we were serious.",
+        "ipaExTrans": "wiː ɪˈvɛnʧəli pəˈsweɪdɪd hɪm ðæt wiː wɜː ˈsɪərɪəs.",
+        "exMeaning": "Cuối cùng chúng tôi đã thuyết phục anh ấy rằng chúng tôi nghiêm túc."
+    },
+    {
+        "word": "pour",
+        "type": "verb",
+        "ipa": "pɔː",
+        "meaning": "đổ",
+        "ex": "People were pouring out of the factory.",
+        "ipaExTrans": "ˈpiːpl wɜː ˈpɔːrɪŋ aʊt ɒv ðə ˈfæktəri.",
+        "exMeaning": "Mọi người đã đổ ra khỏi nhà máy."
+    },
+    {
+        "word": "propose",
+        "type": "verb",
+        "ipa": "prəˈpəʊz",
+        "meaning": "cầu hôn; đề ra mục đích; đề nghị",
+        "ex": "He proposes to build a new house.",
+        "ipaExTrans": "hiː prəˈpəʊzɪz tuː bɪld ə njuː haʊs.",
+        "exMeaning": "Ông đề xuất xây dựng một ngôi nhà mới."
+    },
+    {
+        "word": "remind",
+        "type": "verb",
+        "ipa": "ˈrɪmaɪnd",
+        "meaning": "nhắc lại; nhắc nhở",
+        "ex": "She reminded me of my promise.",
+        "ipaExTrans": "ʃiː ˈrɪmaɪndɪd miː ɒv maɪ ˈprɒmɪs.",
+        "exMeaning": "Cô ấy nhắc nhở tôi về lời hứa của tôi."
+    },
+    {
+        "word": "suppose",
+        "type": "verb",
+        "ipa": "səˈpəʊz",
+        "meaning": "giả sử; cho là, tin rằng",
+        "ex": "Who do you suppose telephoned today?",
+        "ipaExTrans": "huː duː juː səˈpəʊz ˈtɛlɪfəʊnd təˈdeɪ?",
+        "exMeaning": "Bạn cho rằng ai gọi điện thoại ngày hôm nay?"
+    },
+    {
+        "word": "guard",
+        "type": "verb, noun",
+        "ipa": "gɑːd",
+        "meaning": "bảo vệ; canh giữ; canh gác",
+        "ex": "Try to guard against making silly mistakes.",
+        "ipaExTrans": "traɪ tuː gɑːd əˈgɛnst ˈmeɪkɪŋ ˈsɪli mɪsˈteɪks.",
+        "exMeaning": "Cố gắng bảo vệ chống lại những sai lầm ngớ ngẩn."
+    },
+    {
+        "word": "excuse",
+        "type": "verb, noun",
+        "ipa": "ɪksˈkjuːs",
+        "meaning": "tha thứ; miễn cho",
+        "ex": "May I be excused from swimming practice today?",
+        "ipaExTrans": "meɪ aɪ biː ɪksˈkjuːzd frɒm ˈswɪmɪŋ ˈpræktɪs təˈdeɪ?",
+        "exMeaning": "Tôi có thể được miễn thực hành bơi ngày hôm nay?"
+    },
+    {
+        "word": "live",
+        "type": "verb, adjective, adverb",
+        "ipa": "lɪv",
+        "meaning": "trực tiếp; sống; có sự sống",
+        "ex": "a threat to virtually everything that lives on the planet.",
+        "ipaExTrans": "ə θrɛt tuː ˈvɜːtjʊəli ˈɛvrɪθɪŋ ðæt lɪvz ɒn ðə ˈplænɪt.",
+        "exMeaning": "một mối đe dọa cho hầu hết mọi thứ sống trên hành tinh."
+    },
+    {
+        "word": "purchase",
+        "type": "verb, noun",
+        "ipa": "ˈpɜːʧəs",
+        "meaning": "mua, tựa vào, bám vào",
+        "ex": "I purchased a new house.",
+        "ipaExTrans": "aɪ ˈpɜːʧəst ə njuː haʊs.",
+        "exMeaning": "Tôi đã mua một ngôi nhà mới."
+    },
+    {
+        "word": "deal",
+        "type": "verb, noun",
+        "ipa": "diːl",
+        "meaning": "thỏa thuận; kinh doanh; chia bài",
+        "ex": "I think he deals in stocks and shares.",
+        "ipaExTrans": "aɪ θɪŋk hiː diːlz ɪn stɒks ænd ʃeəz.",
+        "exMeaning": "Tôi nghĩ rằng anh ấy giao dịch cổ phiếu và cổ phiếu."
+    },
+    {
+        "word": "mean",
+        "type": "verb, adjective, noun",
+        "ipa": "miːn",
+        "meaning": "nghĩa là",
+        "tag": "Adj: ở giữa; trung bình; keo kiệt; tồi tàn",
+        "ex": "What do you mean by (saying/doing) that?",
+        "ipaExTrans": "wɒt duː juː miːn baɪ (ˈseɪɪŋ/ˈdu(ː)ɪŋ) ðæt?",
+        "exMeaning": "Bạn có ý nghĩa gì khi (nói / làm) điều đó?"
+    },
+    {
+        "word": "fall",
+        "type": "verb, noun",
+        "ipa": "fɔːl",
+        "meaning": "ngã; rơi; rơi xuống",
+        "ex": "The apple fell from the tree",
+        "ipaExTrans": "ði ˈæpl fɛl frɒm ðə triː",
+        "exMeaning": "Quả táo rơi khỏi cây"
+    },
+    {
+        "word": "produce",
+        "type": "verb, noun",
+        "ipa": "ˈprɒdjuːs",
+        "meaning": "sản xuất; đưa ra; gây ra; sinh đẻ",
+        "ex": "She produced a letter from her pocket.",
+        "ipaExTrans": "ʃiː prəˈdjuːst ə ˈlɛtə frɒm hɜː ˈpɒkɪt.",
+        "exMeaning": "Cô ấy sản xuất một lá thư từ túi của mình."
+    },
+    {
+        "word": "upset",
+        "type": "verb, adjective",
+        "ipa": "ʌpˈsɛt",
+        "meaning": "buồn bã; làm đổ; đánh đổ",
+        "ex": "He upset a glass of wine over the table.",
+        "ipaExTrans": "hiː ʌpˈsɛt ə glɑːs ɒv waɪn ˈəʊvə ðə ˈteɪbl.",
+        "exMeaning": "Anh bực bội một ly rượu vang trên bàn."
+    },
+    {
+        "word": "appropriate",
+        "type": "verb, adjective",
+        "ipa": "əˈprəʊprɪɪt",
+        "meaning": "chiếm đoạt",
+        "tag": "Adj: thích hợp",
+        "ex": "He was charged with appropriating company funds.",
+        "ipaExTrans": "hiː wɒz ʧɑːʤd wɪð əˈprəʊprɪeɪtɪŋ ˈkʌmpəni fʌndz.",
+        "exMeaning": "Anh ta bị buộc tội chiếm đoạt tiền của công ty."
+    },
+    {
+        "word": "reserve",
+        "type": "verb, noun",
+        "ipa": "rɪˈzɜːv",
+        "meaning": "dự trữ; đặt trước; dành cho",
+        "ex": "These seats are reserved for the committee members.",
+        "ipaExTrans": "ðiːz siːts ɑː rɪˈzɜːvd fɔː ðə kəˈmɪti ˈmɛmbəz.",
+        "exMeaning": "Những ghế này được dành riêng cho các thành viên ủy ban."
+    },
+    {
+        "word": "reach",
+        "type": "verb, noun",
+        "ipa": "riːʧ",
+        "meaning": "chạm tới; đến được; đạt được",
+        "ex": "Money is not important when you reach my age",
+        "ipaExTrans": "ˈmʌni ɪz nɒt ɪmˈpɔːtənt wɛn juː riːʧ maɪ eɪʤ",
+        "exMeaning": "Tiền không quan trọng khi bạn đến tuổi tôi"
+    },
+    {
+        "word": "rest",
+        "type": "verb, noun",
+        "ipa": "rɛst",
+        "meaning": "nghỉ ngơi",
+        "ex": "Stop reading for a minute and rest your eyes",
+        "ipaExTrans": "stɒp ˈriːdɪŋ fɔːr ə ˈmɪnɪt ænd rɛst jɔːr aɪz",
+        "exMeaning": "Ngừng đọc trong một phút và nghỉ ngơi đôi mắt của bạn"
+    },
+    {
+        "word": "charge",
+        "type": "verb, noun",
+        "ipa": "ʧɑːʤ",
+        "meaning": "sạc điện; ra giá; ghi sổ nợ; buộc tội; đột kích",
+        "ex": "They charge 50 cents for a pint of milk, but they don’t charge for delivery.",
+        "ipaExTrans": "ðeɪ ʧɑːʤ 50 sɛnts fɔːr ə paɪnt ɒv mɪlk, bʌt ðeɪ dəʊnt ʧɑːʤ fɔː dɪˈlɪvəri.",
+        "exMeaning": "Họ tính phí 50 xu cho một pint sữa, nhưng họ không tính phí giao hàng."
+    },
+    {
+        "word": "break",
+        "type": "verb, noun",
+        "ipa": "breɪk",
+        "meaning": "phá vỡ; chia ra; làm rời ra",
+        "ex": "I accidentally broke the vase.",
+        "ipaExTrans": "aɪ ˌæksɪˈdɛntəli brəʊk ðə vɑːz.",
+        "exMeaning": "Tôi vô tình làm vỡ cái bình."
+    },
+    {
+        "word": "stay",
+        "type": "verb, noun",
+        "ipa": "steɪ",
+        "meaning": "ở lại",
+        "ex": "Would you like to stay for supper?",
+        "ipaExTrans": "wʊd juː laɪk tuː steɪ fɔː ˈsʌpə?",
+        "exMeaning": "Bạn có muốn ở lại ăn tối?"
+    },
+    {
+        "word": "affect",
+        "type": "verb, noun",
+        "ipa": "əˈfɛkt",
+        "meaning": "có ảnh hưởng đến; ảnh hưởng; làm xúc động",
+        "ex": "The amount of rain affects the growth of the plants",
+        "ipaExTrans": "ði əˈmaʊnt ɒv reɪn əˈfɛkts ðə grəʊθ ɒv ðə plɑːnts",
+        "exMeaning": "Lượng mưa ảnh hưởng đến sự phát triển của cây"
+    },
+    {
+        "word": "cover",
+        "type": "verb, noun",
+        "ipa": "ˈkʌvə",
+        "meaning": "che phủ; trải ra",
+        "tag": "Noun: vỏ bọc ngoài; chỗ ẩn náu",
+        "ex": "My shoes are covered in paint.",
+        "ipaExTrans": "maɪ ʃuːz ɑː ˈkʌvəd ɪn peɪnt.",
+        "exMeaning": "Giày của tôi được phủ sơn."
+    },
+    {
+        "word": "rise",
+        "type": "verb, noun",
+        "ipa": "raɪz",
+        "meaning": "tăng lên; mọc lên; chuyển động lên trên; thức dậy",
+        "ex": "If the river rises much more, there will be a flood",
+        "ipaExTrans": "ɪf ðə ˈrɪvə ˈraɪzɪz mʌʧ mɔː, ðeə wɪl biː ə flʌd",
+        "exMeaning": "Nếu dòng sông dâng cao hơn nữa, sẽ có một trận lụt"
+    }
+]

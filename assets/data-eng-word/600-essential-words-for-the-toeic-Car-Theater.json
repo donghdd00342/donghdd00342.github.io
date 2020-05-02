@@ -1,0 +1,128 @@
+[
+    {
+        "word": "acting",
+        "type": "diễn xuất",
+        "ipa": "ˈæktɪŋ",
+        "meaning": "n. thủ vai, diễn xuất",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "approach",
+        "type": "tiếp cận",
+        "ipa": "əˈprəʊʧ",
+        "meaning": "v. n. tiếp cận, lại gần;",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "approachable",
+        "type": "dễ gần",
+        "ipa": "əˈprəʊʧəbl",
+        "meaning": "adj. có thể tiếp cận, lại gần",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "audience",
+        "type": "khán giả",
+        "ipa": "ˈɔːdiəns",
+        "meaning": "n. the spectators at a performance (khán giả)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "create",
+        "type": "tạo nên",
+        "ipa": "kri(ː)ˈeɪt",
+        "meaning": "v. to produce through artistic or imaginative effort (sáng tạo)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "creation",
+        "type": "sự sáng tạo",
+        "ipa": "kri(ː)ˈeɪʃən",
+        "meaning": "n. sự sáng tạo",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "creative",
+        "type": "sáng tạo",
+        "ipa": "kri(ː)ˈeɪtɪv",
+        "meaning": "adj. sáng tạo",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "dialogue",
+        "type": "hội thoại",
+        "ipa": "ˈdaɪəlɒg",
+        "meaning": "n. a conversation between two or more persons (giai thoại, hội thoại)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "element",
+        "type": "thành phần",
+        "ipa": "ˈɛlɪmənt",
+        "meaning": "n. fundamental or essential constituent (yếu tố, nguyên tố)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "experience",
+        "type": "kinh nghiệm",
+        "ipa": "ɪksˈpɪərɪəns",
+        "meaning": "n. kinh nghiệm",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "experienced",
+        "type": "có kinh nghiệm",
+        "ipa": "ɪksˈpɪərɪənst",
+        "meaning": "adj. kinh nghiệm, từng trãi",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "occur",
+        "type": "xảy ra",
+        "ipa": "əˈkɜː",
+        "meaning": "v. to take place; to come about (xuất hiện, nảy ra )",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "perform",
+        "type": "biểu diễn",
+        "ipa": "pəˈfɔːm",
+        "meaning": "v. to act before an audience, to give a public presentation of (diễn xuất, thực hiện)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "performance",
+        "type": "hiệu suất",
+        "ipa": "pəˈfɔːməns",
+        "meaning": "n. biểu diên, trình diễn, hiệu năng hoạt động",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "performer",
+        "type": "người biểu diễn",
+        "ipa": "pəˈfɔːmə",
+        "meaning": "n. người biểu diễn, thực hiện",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "rehearse",
+        "type": "diễn tập",
+        "ipa": "rɪˈhɜːs",
+        "meaning": "v. to practice in preparation for a public performance; to direct in rehearsal (Diễn tập, kể lại, thuật lại)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "review",
+        "type": "ôn tập",
+        "ipa": "rɪˈvjuː",
+        "meaning": "n. a critical estimate of a work or performance; v., writing a criticism of a performance (Sự phê bình, lời phê bình )",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "sold out",
+        "type": "bán hết",
+        "ipa": "səʊld aʊt",
+        "meaning": "adj. having all tickets or accommodations completely sold, especially ahead of time; v., to sell all the tickets (hết vé)",
+        "tag": "Theater (nhà hát)"
+    }
+]

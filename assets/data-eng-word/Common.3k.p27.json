@@ -1,0 +1,893 @@
+[
+    {
+        "word": "split",
+        "type": "v, n",
+        "ipa": "split",
+        "meaning": "chẻ, tách, chia ra; sự chẻ, sự tách sự chia ra",
+        "ex": "Remember now, split it fairly.",
+        "ipaExTrans": "rɪˈmɛmbə naʊ, splɪt ɪt ˈfeəli.",
+        "exMeaning": "Hãy nhớ bây giờ, chia nó một cách công bằng."
+    },
+    {
+        "word": "spoil",
+        "type": "v",
+        "ipa": "spɔil",
+        "meaning": "cướp, cướp đọat",
+        "ex": "Oh, you only spoil things for me.",
+        "ipaExTrans": "əʊ, juː ˈəʊnli spɔːɪl θɪŋz fɔː miː.",
+        "exMeaning": "Oh, bạn chỉ làm hỏng mọi thứ cho tôi."
+    },
+    {
+        "word": "spoken",
+        "type": "adj",
+        "ipa": "spoukn",
+        "meaning": "nói theo 1 cách nào đó",
+        "ex": "We hadn't spoken in several weeks.",
+        "ipaExTrans": "wiː ˈhædnt ˈspəʊkən ɪn ˈsɛvrəl wiːks.",
+        "exMeaning": "Chúng tôi đã không nói chuyện trong vài tuần."
+    },
+    {
+        "word": "spoon",
+        "type": "n",
+        "ipa": "spu:n",
+        "meaning": "cái thìa",
+        "ex": "He dumped a spoon full of green beans in his plate.",
+        "ipaExTrans": "hiː dʌmpt ə spuːn fʊl ɒv griːn biːnz ɪn hɪz pleɪt.",
+        "exMeaning": "Anh đổ một muỗng đầy đậu xanh vào đĩa của mình."
+    },
+    {
+        "word": "sport",
+        "type": "n",
+        "ipa": "spɔ:t",
+        "meaning": "thể thao",
+        "ex": "You be there to show her what a good sport you are.",
+        "ipaExTrans": "juː biː ðeə tuː ʃəʊ hɜː wɒt ə gʊd spɔːt juː ɑː.",
+        "exMeaning": "Bạn ở đó để cho cô ấy thấy bạn là một môn thể thao tốt."
+    },
+    {
+        "word": "spot",
+        "type": "n",
+        "ipa": "spɔt",
+        "meaning": "dấu, đốm, vết",
+        "ex": "It was a green tin, with a red spot on it.",
+        "ipaExTrans": "ɪt wɒz ə griːn tɪn, wɪð ə rɛd spɒt ɒn ɪt.",
+        "exMeaning": "Đó là một hộp thiếc màu xanh lá cây, với một đốm đỏ trên đó."
+    },
+    {
+        "word": "spray",
+        "type": "n, v",
+        "ipa": "spreɪ",
+        "meaning": "máy, ống, bình phụt, bơm, phun; bơm, phun, xịt",
+        "ex": "She dodged the spray of water.",
+        "ipaExTrans": "ʃiː dɒʤd ðə spreɪ ɒv ˈwɔːtə.",
+        "exMeaning": "Cô né nước xịt."
+    },
+    {
+        "word": "spread",
+        "type": "v",
+        "ipa": "spred",
+        "meaning": "trải, căng ra, bày ra; truyền bá",
+        "ex": "A slow, cold smile spread across his face.",
+        "ipaExTrans": "ə sləʊ, kəʊld smaɪl sprɛd əˈkrɒs hɪz feɪs.",
+        "exMeaning": "Một nụ cười chậm chạp, lạnh lùng lan trên mặt anh."
+    },
+    {
+        "word": "spring",
+        "type": "n",
+        "ipa": "sprɪŋ",
+        "meaning": "mùa xuân",
+        "ex": "The snow melted, leaving in its wake a harvest of spring flowers.",
+        "ipaExTrans": "ðə snəʊ ˈmɛltɪd, ˈliːvɪŋ ɪn ɪts weɪk ə ˈhɑːvɪst ɒv sprɪŋ ˈflaʊəz.",
+        "exMeaning": "Tuyết tan, để lại trong mùa thu của nó một mùa hoa."
+    },
+    {
+        "word": "square",
+        "type": "adj, n",
+        "ipa": "skweə",
+        "meaning": "vuông, vuông vắn; dạng hình vuông, hình vuông",
+        "ex": "This area is ten square miles, though.",
+        "ipaExTrans": "ðɪs ˈeərɪə ɪz tɛn skweə maɪlz, ðəʊ.",
+        "exMeaning": "Khu vực này là mười dặm vuông, mặc dù."
+    },
+    {
+        "word": "squeeze",
+        "type": "v, n",
+        "ipa": "skwi:z",
+        "meaning": "ép, vắt, xiết; sự ép, sự vắt, sự xiết",
+        "ex": "She smiled and reached out to squeeze his arm.",
+        "ipaExTrans": "ʃiː smaɪld ænd riːʧt aʊt tuː skwiːz hɪz ɑːm.",
+        "exMeaning": "Cô mỉm cười và đưa tay siết chặt cánh tay anh."
+    },
+    {
+        "word": "stable",
+        "type": "adj, n",
+        "ipa": "steibl",
+        "meaning": "ổn định, bình tĩnh, vững vàng; chuồng ngựa",
+        "ex": "I think a few days cleaning in the stable would pay for it.",
+        "ipaExTrans": "aɪ θɪŋk ə fjuː deɪz ˈkliːnɪŋ ɪn ðə ˈsteɪbl wʊd peɪ fɔːr ɪt.",
+        "exMeaning": "Tôi nghĩ rằng một vài ngày làm sạch trong chuồng sẽ trả tiền cho nó."
+    },
+    {
+        "word": "staff",
+        "type": "n",
+        "ipa": "sta:f",
+        "meaning": "gậy",
+        "ex": "(The staff officer smiled.)",
+        "ipaExTrans": "(ðə stɑːf ˈɒfɪsə smaɪld.)",
+        "exMeaning": "(Nhân viên phục vụ mỉm cười.)"
+    },
+    {
+        "word": "stage",
+        "type": "n",
+        "ipa": "steɪdʒ",
+        "meaning": "tầng, bệ, sân khấu, giai đoạn",
+        "ex": "He was in the stage play Boo!",
+        "ipaExTrans": "hiː wɒz ɪn ðə steɪʤ pleɪ buː!",
+        "exMeaning": "Anh ấy ở trong sân khấu chơi Boo!"
+    },
+    {
+        "word": "stair",
+        "type": "n",
+        "ipa": "steə",
+        "meaning": "bậc thang",
+        "ex": "She tripped over a stair and landed hard.",
+        "ipaExTrans": "ʃiː trɪpt ˈəʊvər ə steər ænd ˈlændɪd hɑːd.",
+        "exMeaning": "Cô bước qua một cầu thang và hạ cánh cứng."
+    },
+    {
+        "word": "stamp",
+        "type": "n, v",
+        "ipa": "stæmp",
+        "meaning": "tem; dán tem",
+        "ex": "You got his stamp of approval, you know.",
+        "ipaExTrans": "juː gɒt hɪz stæmp ɒv əˈpruːvəl, juː nəʊ.",
+        "exMeaning": "Bạn có dấu của ông ấy, bạn biết đấy."
+    },
+    {
+        "word": "stand",
+        "type": "v, n",
+        "ipa": "stænd",
+        "meaning": "đứng, sự đứng. stand up: đứng đậy",
+        "ex": "Don't just stand there.",
+        "ipaExTrans": "dəʊnt ʤʌst stænd ðeə.",
+        "exMeaning": "Đừng chỉ đứng đó."
+    },
+    {
+        "word": "standard",
+        "type": "n, adj",
+        "ipa": "stændəd",
+        "meaning": "tiêu chuẩn, chuẩn, mãu; làm tiêu chuẩn, phù hợp với tiêu chuẩn",
+        "ex": "The standard day is longer than ours, about thirty hours instead of twenty-four, with that divided evenly between day and night.",
+        "ipaExTrans": "ðə ˈstændəd deɪ ɪz ˈlɒŋgə ðæn ˈaʊəz, əˈbaʊt ˈθɜːti ˈaʊəz ɪnˈstɛd ɒv ˈtwɛnti-fɔː, wɪð ðæt dɪˈvaɪdɪd ˈiːvənli bɪˈtwiːn deɪ ænd naɪt.",
+        "exMeaning": "Ngày tiêu chuẩn dài hơn chúng ta, khoảng ba mươi giờ thay vì hai mươi bốn, với sự phân chia đồng đều giữa ngày và đêm."
+    },
+    {
+        "word": "star",
+        "type": "n, v",
+        "ipa": "stɑ:",
+        "meaning": "ngôi sao, dán sao, trang trí hình sao, đánh dấu sao",
+        "ex": "A silent film star, Charlie said.",
+        "ipaExTrans": "ə ˈsaɪlənt fɪlm stɑː, ˈʧɑːli sɛd.",
+        "exMeaning": "Một ngôi sao phim câm, Charlie nói."
+    },
+    {
+        "word": "stare",
+        "type": "v, n",
+        "ipa": "steə(r)",
+        "meaning": "nhìm chằm chằm; sự nhìn chằm chằm",
+        "ex": "The girl continued to stare at her.",
+        "ipaExTrans": "ðə gɜːl kənˈtɪnju(ː)d tuː steər æt hɜː.",
+        "exMeaning": "Cô gái tiếp tục nhìn chằm chằm vào cô."
+    },
+    {
+        "word": "start",
+        "type": "v, n",
+        "ipa": "stɑ:t",
+        "meaning": "bắt đầu, khởi động; sự bắt đầu, sự khởi đầu, khởi hành",
+        "ex": "It would start all over again.",
+        "ipaExTrans": "ɪt wʊd stɑːt ɔːl ˈəʊvər əˈgɛn.",
+        "exMeaning": "Nó sẽ bắt đầu lại từ đầu."
+    },
+    {
+        "word": "state",
+        "type": "n, adj, v",
+        "ipa": "steit",
+        "meaning": "nhà nước, quốc gia, chính quyền; (thuộc) nhà nước, có liên quan đến nhà nước; phát biểu, tuyên bố",
+        "ex": "Oh, what a terrible state he is in!",
+        "ipaExTrans": "əʊ, wɒt ə ˈtɛrəbl steɪt hiː ɪz ɪn!",
+        "exMeaning": "Ôi, thật là một trạng thái khủng khiếp!"
+    },
+    {
+        "word": "statement",
+        "type": "n",
+        "ipa": "steitmənt",
+        "meaning": "sự bày tỏ, sự phát biểu; sự tuyên bố, sự trình bày",
+        "ex": "No doubt he told them that Alexia had died, because after Jonathan's statement, that would be easiest.",
+        "ipaExTrans": "nəʊ daʊt hiː təʊld ðɛm ðæt Alexia hæd daɪd, bɪˈkɒz ˈɑːftə ˈʤɒnəθənz ˈsteɪtmənt, ðæt wʊd biː ˈiːzɪɪst.",
+        "exMeaning": "Không còn nghi ngờ gì nữa, ông nói với họ rằng Alexia đã chết, bởi vì sau tuyên bố của Jonathan, điều đó sẽ dễ dàng nhất."
+    },
+    {
+        "word": "station",
+        "type": "n",
+        "ipa": "steiʃn",
+        "meaning": "trạm, điểm, đồn",
+        "ex": "I left the station, not sure what to do next.",
+        "ipaExTrans": "aɪ lɛft ðə ˈsteɪʃən, nɒt ʃʊə wɒt tuː duː nɛkst.",
+        "exMeaning": "Tôi rời ga, không biết phải làm gì tiếp theo."
+    },
+    {
+        "word": "statue",
+        "type": "n",
+        "ipa": "stæt∫u:",
+        "meaning": "tượng",
+        "ex": "His gaze went to the statue of him.",
+        "ipaExTrans": "hɪz geɪz wɛnt tuː ðə ˈstætjuː ɒv hɪm.",
+        "exMeaning": "Ánh mắt anh nhìn vào bức tượng của anh."
+    },
+    {
+        "word": "status",
+        "type": "n",
+        "ipa": "ˈsteɪtəs , ˈstætəs",
+        "meaning": "tình trạng",
+        "ex": "His status is shown by his wergild.",
+        "ipaExTrans": "hɪz ˈsteɪtəs ɪz ʃəʊn baɪ hɪz wergild.",
+        "exMeaning": "Tình trạng của anh ấy được thể hiện bởi wergild của anh ấy."
+    },
+    {
+        "word": "stay",
+        "type": "v, n",
+        "ipa": "stei",
+        "meaning": "ở lại, lưu lại; sự ở lại, sự lưu lại",
+        "ex": "They wanted to stay at the party.",
+        "ipaExTrans": "ðeɪ ˈwɒntɪd tuː steɪ æt ðə ˈpɑːti.",
+        "exMeaning": "Họ muốn ở lại bữa tiệc."
+    },
+    {
+        "word": "steadily",
+        "type": "adv",
+        "ipa": "stedili",
+        "meaning": "vững chắc, vững vàng, kiên định",
+        "ex": "Instead of improving, Destiny got steadily worse.",
+        "ipaExTrans": "ɪnˈstɛd ɒv ɪmˈpruːvɪŋ, ˈdɛstɪni gɒt ˈstɛdɪli wɜːs.",
+        "exMeaning": "Thay vì cải thiện, Destiny dần trở nên tồi tệ hơn."
+    },
+    {
+        "word": "steady",
+        "type": "adj",
+        "ipa": "stedi",
+        "meaning": "vững chắc, vững vàng, kiến định",
+        "ex": "He closed his eyes and took a deep breath to steady himself.",
+        "ipaExTrans": "hiː kləʊzd hɪz aɪz ænd tʊk ə diːp brɛθ tuː ˈstɛdi hɪmˈsɛlf.",
+        "exMeaning": "Anh nhắm mắt và hít một hơi thật sâu để ổn định bản thân."
+    },
+    {
+        "word": "steal",
+        "type": "v",
+        "ipa": "sti:l",
+        "meaning": "ăn cắp, ăn trộm",
+        "ex": "Your goal is to steal a necklace with a red gem on it.",
+        "ipaExTrans": "jɔː gəʊl ɪz tuː stiːl ə ˈnɛklɪs wɪð ə rɛd ʤɛm ɒn ɪt.",
+        "exMeaning": "Mục tiêu của bạn là đánh cắp một chiếc vòng cổ có đá quý màu đỏ trên đó."
+    },
+    {
+        "word": "steam",
+        "type": "n",
+        "ipa": "stim",
+        "meaning": "hơi nước",
+        "ex": "Father took us to see steam boat it is like house.",
+        "ipaExTrans": "ˈfɑːðə tʊk ʌs tuː siː stiːm bəʊt ɪt ɪz laɪk haʊs.",
+        "exMeaning": "Cha đưa chúng tôi đi xem tàu ​​hơi nước giống như nhà."
+    },
+    {
+        "word": "steel",
+        "type": "n",
+        "ipa": "sti:l",
+        "meaning": "thép, ngành thép",
+        "ex": "From molten metal to the tempered steel of a blade, Eden replied.",
+        "ipaExTrans": "frɒm ˈməʊltən ˈmɛtl tuː ðə ˈtɛmpəd stiːl ɒv ə bleɪd, ˈiːdn rɪˈplaɪd.",
+        "exMeaning": "Từ kim loại nóng chảy đến thép cường lực của một lưỡi kiếm, Eden trả lời."
+    },
+    {
+        "word": "steep",
+        "type": "adj",
+        "ipa": "sti:p",
+        "meaning": "dốc, dốc đứng",
+        "ex": "She screamed again as she tumbled down a steep hill.",
+        "ipaExTrans": "ʃiː skriːmd əˈgɛn æz ʃiː ˈtʌmbld daʊn ə stiːp hɪl.",
+        "exMeaning": "Cô lại hét lên khi ngã xuống một ngọn đồi dốc."
+    },
+    {
+        "word": "steeply",
+        "type": "adv",
+        "ipa": "sti:pli",
+        "meaning": "dốc, cheo leo",
+        "ex": "The mountains generally fall steeply to the sea.",
+        "ipaExTrans": "ðə ˈmaʊntɪnz ˈʤɛnərəli fɔːl ˈstiːpli tuː ðə siː.",
+        "exMeaning": "Những ngọn núi thường rơi thẳng xuống biển."
+    },
+    {
+        "word": "steer",
+        "type": "v",
+        "ipa": "stiə",
+        "meaning": "lái (tàu, ô tô...)",
+        "ex": "He'd watched Sean subtly steer people away from it.",
+        "ipaExTrans": "hiːd wɒʧt ʃɔːn ˈsʌtli stɪə ˈpiːpl əˈweɪ frɒm ɪt.",
+        "exMeaning": "Anh đã xem Sean khéo léo lèo lái mọi người tránh xa nó."
+    },
+    {
+        "word": "step",
+        "type": "n, v",
+        "ipa": "step",
+        "meaning": "bước; bước, bước đi",
+        "ex": "Step this way, please.",
+        "ipaExTrans": "stɛp ðɪs weɪ, pliːz.",
+        "exMeaning": "Bước này, xin vui lòng."
+    },
+    {
+        "word": "stick",
+        "type": "v, n",
+        "ipa": "stick",
+        "meaning": "đâm, thọc, chọc, cắm, dính; cái gậy, qua củi, cán",
+        "ex": "I'll stick to biking.",
+        "ipaExTrans": "aɪl stɪk tuː ˈbaɪkɪŋ.",
+        "exMeaning": "Tôi sẽ đi xe đạp."
+    },
+    {
+        "word": "stick out, stick for",
+        "meaning": "đòi, đạt được cái gì"
+    },
+    {
+        "word": "sticky",
+        "type": "adj",
+        "ipa": "stiki",
+        "meaning": "dính; sánh; bầy nhầy, nhớp nháp",
+        "ex": "He dropped the sticky pouch in her hand.",
+        "ipaExTrans": "hiː drɒpt ðə ˈstɪki paʊʧ ɪn hɜː hænd.",
+        "exMeaning": "Anh đánh rơi cái túi dính trong tay cô."
+    },
+    {
+        "word": "stiff",
+        "type": "adj",
+        "ipa": "stif",
+        "meaning": "cứng, cứng rắn, kiên quyết",
+        "ex": "Sunday morning she was stiff and tired.",
+        "ipaExTrans": "ˈsʌndeɪ ˈmɔːnɪŋ ʃiː wɒz stɪf ænd ˈtaɪəd.",
+        "exMeaning": "Sáng chủ nhật cô cứng đờ và mệt mỏi."
+    },
+    {
+        "word": "stiffly",
+        "type": "adv",
+        "ipa": "stifli",
+        "meaning": "cứng, cứng rắn, kiên quyết",
+        "ex": "He turned and walked stiffly to his car.",
+        "ipaExTrans": "hiː tɜːnd ænd wɔːkt ˈstɪfli tuː hɪz kɑː.",
+        "exMeaning": "Anh quay lại và bước mạnh về phía xe của mình."
+    },
+    {
+        "word": "still",
+        "type": "adv, adj",
+        "ipa": "stil",
+        "meaning": "đứng yên; vẫn, vẫn còn",
+        "ex": "It is still a famous school.",
+        "ipaExTrans": "ɪt ɪz stɪl ə ˈfeɪməs skuːl.",
+        "exMeaning": "Nó vẫn là một ngôi trường nổi tiếng."
+    },
+    {
+        "word": "sting",
+        "type": "v, n",
+        "ipa": "stiɳ",
+        "meaning": "châm, chích, đốt; ngòi, vòi (ong, muỗi), nọc (rắn); sự châm, chích..",
+        "ex": "I felt a sharp sting as the blade cut.",
+        "ipaExTrans": "aɪ fɛlt ə ʃɑːp stɪŋ æz ðə bleɪd kʌt.",
+        "exMeaning": "Tôi cảm thấy đau nhói khi lưỡi cắt."
+    },
+    {
+        "word": "stir",
+        "type": "v",
+        "ipa": "stə:",
+        "meaning": "khuấy, đảo",
+        "ex": "She felt panic stir again.",
+        "ipaExTrans": "ʃiː fɛlt ˈpænɪk stɜːr əˈgɛn.",
+        "exMeaning": "Cô lại cảm thấy hoảng loạn cựa quậy."
+    },
+    {
+        "word": "stock",
+        "type": "n",
+        "ipa": "stə:",
+        "meaning": "kho sự trữ, hàng dự trữ, vốn",
+        "ex": "Guess we should start stock piling bottles.",
+        "ipaExTrans": "gɛs wiː ʃʊd stɑːt stɒk ˈpaɪlɪŋ ˈbɒtlz.",
+        "exMeaning": "Đoán chúng ta nên bắt đầu đóng chai cổ phiếu."
+    },
+    {
+        "word": "stomach",
+        "type": "n",
+        "ipa": "ˈstʌmək",
+        "meaning": "dạ dày",
+        "ex": "True, but her answer left Carmen's stomach tied in a knot.",
+        "ipaExTrans": "truː, bʌt hɜːr ˈɑːnsə lɛft ˈkɑːmənz ˈstʌmək taɪd ɪn ə nɒt.",
+        "exMeaning": "Đúng, nhưng câu trả lời của cô khiến bụng cô bị trói chặt."
+    },
+    {
+        "word": "stone",
+        "type": "n",
+        "ipa": "stoun",
+        "meaning": "đá",
+        "ex": "Dusty shouted as a chunk of stone crushed a stainless steel cabinet.",
+        "ipaExTrans": "ˈdʌsti ˈʃaʊtɪd æz ə ʧʌŋk ɒv stəʊn krʌʃt ə ˈsteɪnlɪs stiːl ˈkæbɪnɪt.",
+        "exMeaning": "Dusty hét lên khi một khối đá nghiền nát một cái tủ bằng thép không gỉ."
+    },
+    {
+        "word": "stop",
+        "type": "v, n",
+        "ipa": "stɔp",
+        "meaning": "dừng, ngưng, nghỉ, thôi; sự dừng, sự ngưng, sự đỗ lại",
+        "ex": "If everyone would stop talking about it...",
+        "ipaExTrans": "ɪf ˈɛvrɪwʌn wʊd stɒp ˈtɔːkɪŋ əˈbaʊt ɪt...",
+        "exMeaning": "Nếu mọi người sẽ ngừng nói về nó ..."
+    },
+    {
+        "word": "store",
+        "type": "n, v",
+        "ipa": "stɔ:",
+        "meaning": "cửa hàng, kho hàng; tích trữ, cho vào kho",
+        "ex": "She caught sight of herself in a store window.",
+        "ipaExTrans": "ʃiː kɔːt saɪt ɒv hɜːˈsɛlf ɪn ə stɔː ˈwɪndəʊ.",
+        "exMeaning": "Cô nhìn thấy mình trong một cửa sổ."
+    },
+    {
+        "word": "storm",
+        "type": "n",
+        "ipa": "stɔ:m",
+        "meaning": "cơn giông, b~o",
+        "ex": "The storm continued most of the night.",
+        "ipaExTrans": "ðə stɔːm kənˈtɪnju(ː)d məʊst ɒv ðə naɪt.",
+        "exMeaning": "Cơn bão tiếp tục suốt đêm."
+    },
+    {
+        "word": "story",
+        "type": "n",
+        "ipa": "stɔ:ri",
+        "meaning": "chuyện, câu chuyện",
+        "ex": "He told his wonderful story to the king; but the king would not believe him.",
+        "ipaExTrans": "hiː təʊld hɪz ˈwʌndəfʊl ˈstɔːri tuː ðə kɪŋ; bʌt ðə kɪŋ wʊd nɒt bɪˈliːv hɪm.",
+        "exMeaning": "Ông kể câu chuyện tuyệt vời của mình cho nhà vua; nhưng nhà vua sẽ không tin anh ta"
+    },
+    {
+        "word": "stove",
+        "type": "n",
+        "ipa": "stouv",
+        "meaning": "bếp lò, lò sưởi",
+        "ex": "He opened the door of the stove to peek.",
+        "ipaExTrans": "hiː ˈəʊpənd ðə dɔːr ɒv ðə stəʊv tuː piːk.",
+        "exMeaning": "Anh mở cửa bếp để nhìn trộm."
+    },
+    {
+        "word": "straight",
+        "type": "adv, adj",
+        "ipa": "streɪt",
+        "meaning": "thẳng, không cong",
+        "ex": "She looked him straight in the eye.",
+        "ipaExTrans": "ʃiː lʊkt hɪm streɪt ɪn ði aɪ.",
+        "exMeaning": "Cô nhìn thẳng vào mắt anh."
+    },
+    {
+        "word": "strain",
+        "type": "n",
+        "ipa": "strein",
+        "meaning": "sự căng thẳng, sự căng",
+        "ex": "Darian nodded, hearing the strain in her voice.",
+        "ipaExTrans": "Darian ˈnɒdɪd, ˈhɪərɪŋ ðə streɪn ɪn hɜː vɔɪs.",
+        "exMeaning": "Dary gật đầu, nghe giọng nói căng thẳng."
+    },
+    {
+        "word": "strange",
+        "type": "adj",
+        "ipa": "streindʤ",
+        "meaning": "xa lạ, chưa quen",
+        "ex": "Howard gave him a strange look.",
+        "ipaExTrans": "ˈhaʊəd geɪv hɪm ə streɪnʤ lʊk.",
+        "exMeaning": "Howard cho anh ta một cái nhìn kỳ lạ."
+    },
+    {
+        "word": "strangely",
+        "type": "adv",
+        "ipa": "streindʤli",
+        "meaning": "lạ, xa lạ, chưa quen",
+        "ex": "The voice was strangely timid.",
+        "ipaExTrans": "ðə vɔɪs wɒz ˈstreɪnʤli ˈtɪmɪd.",
+        "exMeaning": "Giọng nói rụt rè lạ lùng."
+    },
+    {
+        "word": "stranger",
+        "type": "n",
+        "ipa": "streinʤə",
+        "meaning": "người lạ",
+        "ex": "Who was this stranger and what had he done with sweet Alex?",
+        "ipaExTrans": "huː wɒz ðɪs ˈstreɪnʤər ænd wɒt hæd hiː dʌn wɪð swiːt ˈæləks?",
+        "exMeaning": "Ai là người lạ này và anh ta đã làm gì với Alex ngọt ngào?"
+    },
+    {
+        "word": "strategy",
+        "type": "n",
+        "ipa": "strætəʤɪ",
+        "meaning": "chiến lược",
+        "ex": "Thanks for revealing your strategy, she said in an acid tone.",
+        "ipaExTrans": "θæŋks fɔː rɪˈviːlɪŋ jɔː ˈstrætɪʤi, ʃiː sɛd ɪn ən ˈæsɪd təʊn.",
+        "exMeaning": "Cảm ơn vì đã tiết lộ chiến lược của bạn, cô nói bằng giọng axit."
+    },
+    {
+        "word": "stream",
+        "type": "n",
+        "ipa": "stri:m",
+        "meaning": "dòng suối",
+        "ex": "I switched boats mid stream and expected you to follow me.",
+        "ipaExTrans": "aɪ swɪʧt bəʊts mɪd striːm ænd ɪksˈpɛktɪd juː tuː ˈfɒləʊ miː.",
+        "exMeaning": "Tôi chuyển thuyền giữa dòng và mong bạn theo tôi."
+    },
+    {
+        "word": "strength",
+        "type": "n",
+        "ipa": "streɳθ",
+        "meaning": "sức mạnh, sức khỏe",
+        "ex": "She'd need her strength for what she planned.",
+        "ipaExTrans": "ʃiːd niːd hɜː strɛŋθ fɔː wɒt ʃiː plænd.",
+        "exMeaning": "Cô ấy sẽ cần sức mạnh của mình cho những gì cô ấy dự định."
+    },
+    {
+        "word": "stress",
+        "type": "n, v",
+        "meaning": "sự căng thẳng; căng thẳng, ép, làm căng",
+        "ex": "Diablo. He's Yancey's method of relieving stress and getting away from us women once in a while.",
+        "ipaExTrans": "Diablo. hiːz Yancey's ˈmɛθəd ɒv rɪˈliːvɪŋ strɛs ænd ˈgɛtɪŋ əˈweɪ frɒm ʌs ˈwɪmɪn wʌns ɪn ə waɪl.",
+        "exMeaning": "Diablo. Anh ấy là phương pháp của Yancey để giảm căng thẳng và tránh xa phụ nữ chúng ta thỉnh thoảng."
+    },
+    {
+        "word": "stressed",
+        "type": "adj",
+        "ipa": "strest",
+        "meaning": "bị căng thẳng, bị ép, bị căng",
+        "ex": "They're stressed out enough right now.",
+        "ipaExTrans": "ðeə strɛst aʊt ɪˈnʌf raɪt naʊ.",
+        "exMeaning": "Họ đang căng thẳng đủ ngay bây giờ."
+    },
+    {
+        "word": "stretch",
+        "type": "v",
+        "ipa": "strɛtʃ",
+        "meaning": "căng ra, duỗi ra, kéo dài ra",
+        "ex": "That's a stretch and a tug.",
+        "ipaExTrans": "ðæts ə strɛʧ ænd ə tʌg.",
+        "exMeaning": "Đó là một sự kéo dài và kéo co."
+    },
+    {
+        "word": "strict",
+        "type": "adj",
+        "ipa": "strikt",
+        "meaning": "nghiêm khắc, chặt chẽ,, khắt khe",
+        "ex": "In fact, he had given her strict orders not to lift anything.",
+        "ipaExTrans": "ɪn fækt, hiː hæd ˈgɪvn hɜː strɪkt ˈɔːdəz nɒt tuː lɪft ˈɛnɪθɪŋ.",
+        "exMeaning": "Trên thực tế, anh ta đã đưa ra mệnh lệnh nghiêm ngặt của cô không được nâng bất cứ thứ gì."
+    },
+    {
+        "word": "strictly",
+        "type": "adv",
+        "ipa": "striktli",
+        "meaning": "một cách nghiêm khắc",
+        "ex": "It has no military and is strictly neutral.",
+        "ipaExTrans": "ɪt hæz nəʊ ˈmɪlɪtəri ænd ɪz ˈstrɪktli ˈnjuːtrəl.",
+        "exMeaning": "Nó không có quân đội và hoàn toàn trung lập."
+    },
+    {
+        "word": "strike",
+        "type": "v, n",
+        "ipa": "straik",
+        "meaning": "đánh, đập, bãi công, đình công; cuộc bãi công, cuộc đình công",
+        "ex": "He heard the clock strike ten.",
+        "ipaExTrans": "hiː hɜːd ðə klɒk straɪk tɛn.",
+        "exMeaning": "Anh nghe tiếng đồng hồ điểm mười."
+    },
+    {
+        "word": "striking",
+        "type": "adj",
+        "ipa": "straikiɳ",
+        "meaning": "nổi bật, gây ấn tượng",
+        "ex": "He made a striking figure, so tall and lean.",
+        "ipaExTrans": "hiː meɪd ə ˈstraɪkɪŋ ˈfɪgə, səʊ tɔːl ænd liːn.",
+        "exMeaning": "Anh ta làm một hình thể nổi bật, rất cao và gầy."
+    },
+    {
+        "word": "string",
+        "type": "n",
+        "ipa": "strɪŋ",
+        "meaning": "dây, sợi dây",
+        "ex": "Someone tried to string him up.",
+        "ipaExTrans": "ˈsʌmwʌn traɪd tuː strɪŋ hɪm ʌp.",
+        "exMeaning": "Ai đó đã cố gắng xâu chuỗi anh ta lên."
+    },
+    {
+        "word": "strip",
+        "type": "v, n",
+        "ipa": "strip",
+        "meaning": "cởi, lột (quần áo); sự cởi quần áo",
+        "ex": "Strip down to your unmentionables.",
+        "ipaExTrans": "strɪp daʊn tuː jɔːr ʌnˈmɛnʃnəblz.",
+        "exMeaning": "Dải xuống unmentionables của bạn."
+    },
+    {
+        "word": "stripe",
+        "type": "n",
+        "ipa": "straɪp",
+        "meaning": "sọc, vằn, viền",
+        "ex": "The ribbon is red with a central stripe of blue.",
+        "ipaExTrans": "ðə ˈrɪbən ɪz rɛd wɪð ə ˈsɛntrəl straɪp ɒv bluː.",
+        "exMeaning": "Dải băng màu đỏ với một dải màu xanh trung tâm."
+    },
+    {
+        "word": "striped",
+        "type": "adj",
+        "ipa": "straipt",
+        "meaning": "có sọc, có vằn",
+        "ex": "The striped hyena is scattered over the country sparsely.",
+        "ipaExTrans": "ðə straɪpt haɪˈiːnə ɪz ˈskætəd ˈəʊvə ðə ˈkʌntri ˈspɑːsli.",
+        "exMeaning": "Linh cẩu sọc nằm rải rác trên đất nước thưa thớt."
+    },
+    {
+        "word": "stroke",
+        "type": "n, v",
+        "ipa": "strouk",
+        "meaning": "cú đánh, cú đòn; cái vuốt ve, sự vuốt ve; vuốt ve",
+        "ex": "With one stroke he lopped the wood in half.",
+        "ipaExTrans": "wɪð wʌn strəʊk hiː lɒpt ðə wʊd ɪn hɑːf.",
+        "exMeaning": "Với một cú đánh, anh ta chặt gỗ làm đôi."
+    },
+    {
+        "word": "strong",
+        "type": "adj",
+        "ipa": "strɔŋ , strɒŋ",
+        "meaning": "khỏe, mạnh, bền, vững, chắc chắn",
+        "ex": "He was strong and ready for every duty.",
+        "ipaExTrans": "hiː wɒz strɒŋ ænd ˈrɛdi fɔːr ˈɛvri ˈdjuːti.",
+        "exMeaning": "Anh ấy mạnh mẽ và sẵn sàng cho mọi nhiệm vụ."
+    },
+    {
+        "word": "strongly",
+        "type": "adv",
+        "ipa": "strɔŋli",
+        "meaning": "khỏe, chắc chắn",
+        "ex": "How strongly do you feel?",
+        "ipaExTrans": "haʊ ˈstrɒŋli duː juː fiːl?",
+        "exMeaning": "Bạn cảm thấy mạnh mẽ như thế nào?"
+    },
+    {
+        "word": "structure",
+        "type": "n",
+        "ipa": "strʌkt∫ə",
+        "meaning": "kết cấu, cấu trúc",
+        "ex": "He formalized the structure of medical inquiry as an independent science.",
+        "ipaExTrans": "hiː ˈfɔːməlaɪzd ðə ˈstrʌkʧər ɒv ˈmɛdɪkəl ɪnˈkwaɪəri æz ən ˌɪndɪˈpɛndənt ˈsaɪəns.",
+        "exMeaning": "Ông chính thức hóa cấu trúc của cuộc điều tra y tế như một khoa học độc lập."
+    },
+    {
+        "word": "struggle",
+        "type": "v, n",
+        "ipa": "strʌg(ə)l",
+        "meaning": "đấu tranh; cuộc đấu tranh, cuộc chiến đấu",
+        "ex": "Every struggle is a victory.",
+        "ipaExTrans": "ˈɛvri ˈstrʌgl ɪz ə ˈvɪktəri.",
+        "exMeaning": "Mỗi cuộc đấu tranh là một chiến thắng."
+    },
+    {
+        "word": "student",
+        "type": "n",
+        "ipa": "stju:dnt",
+        "meaning": "sinh viên",
+        "ex": "The exchange student was growling at her.",
+        "ipaExTrans": "ði ɪksˈʧeɪnʤ ˈstjuːdənt wɒz ˈgraʊlɪŋ æt hɜː.",
+        "exMeaning": "Học sinh trao đổi đang gầm gừ với cô."
+    },
+    {
+        "word": "studio",
+        "type": "n",
+        "ipa": "́stju:diou",
+        "meaning": "xưởng phim, trường quay; phòng thu",
+        "ex": "They ignored her studio and its contents.",
+        "ipaExTrans": "ðeɪ ɪgˈnɔːd hɜː ˈstjuːdɪəʊ ænd ɪts ˈkɒntɛnts.",
+        "exMeaning": "Họ bỏ qua studio của cô và nội dung của nó."
+    },
+    {
+        "word": "study",
+        "type": "n, v",
+        "ipa": "stʌdi",
+        "meaning": "sự học tập, sự nghiên cứu; học tập, nghiên cứu",
+        "ex": "I guess I should stay here and study as well, but...",
+        "ipaExTrans": "aɪ gɛs aɪ ʃʊd steɪ hɪər ænd ˈstʌdi æz wɛl, bʌt...",
+        "exMeaning": "Tôi đoán tôi cũng nên ở đây và học tập, nhưng ..."
+    },
+    {
+        "word": "stuff",
+        "type": "n",
+        "ipa": "stʌf",
+        "meaning": "chất liệu, chất",
+        "ex": "I'll take her over in the morning to get her stuff out of the car.",
+        "ipaExTrans": "aɪl teɪk hɜːr ˈəʊvər ɪn ðə ˈmɔːnɪŋ tuː gɛt hɜː stʌf aʊt ɒv ðə kɑː.",
+        "exMeaning": "Tôi sẽ đưa cô ấy vào buổi sáng để lấy đồ ra khỏi xe."
+    },
+    {
+        "word": "stupid",
+        "type": "adj",
+        "ipa": "ˈstupɪd , ˈstyupɪd",
+        "meaning": "ngu ngốc, ngu đần, ngớ ngẩn",
+        "ex": "I did a stupid thing last night.",
+        "ipaExTrans": "aɪ dɪd ə ˈstjuːpɪd θɪŋ lɑːst naɪt.",
+        "exMeaning": "Tôi đã làm một điều ngu ngốc đêm qua."
+    },
+    {
+        "word": "style",
+        "type": "n",
+        "ipa": "stail",
+        "meaning": "phong cách, kiểu, mẫu, loại",
+        "ex": "Her hair was short and dark and worn in an easy style that seemed to require little care.",
+        "ipaExTrans": "hɜː heə wɒz ʃɔːt ænd dɑːk ænd wɔːn ɪn ən ˈiːzi staɪl ðæt siːmd tuː rɪˈkwaɪə ˈlɪtl keə.",
+        "exMeaning": "Tóc của cô ấy ngắn và tối và được mặc theo kiểu dễ dàng mà dường như không cần chăm sóc nhiều."
+    },
+    {
+        "word": "subject",
+        "type": "n",
+        "ipa": "ˈsʌbdʒɪkt",
+        "meaning": "chủ đề, đề tài; chủ ngữ",
+        "ex": "She forced the subject from her mind.",
+        "ipaExTrans": "ʃiː fɔːst ðə ˈsʌbʤɪkt frɒm hɜː maɪnd.",
+        "exMeaning": "Cô buộc chủ đề từ tâm trí của mình."
+    },
+    {
+        "word": "substance",
+        "type": "n",
+        "ipa": "sʌbstəns",
+        "meaning": "chất liệu; bản chất; nội dung",
+        "ex": "The future system I foresee will not be different in substance, but only in degree.",
+        "ipaExTrans": "ðə ˈfjuːʧə ˈsɪstɪm aɪ fɔːˈsiː wɪl nɒt biː ˈdɪfrənt ɪn ˈsʌbstəns, bʌt ˈəʊnli ɪn dɪˈgriː.",
+        "exMeaning": "Hệ thống tương lai tôi thấy trước sẽ không khác nhau về chất, mà chỉ ở mức độ."
+    },
+    {
+        "word": "substantial",
+        "type": "adj",
+        "ipa": "səb ́stænʃəl",
+        "meaning": "thực tế, đáng kể, quan trọng",
+        "ex": "The check was for a substantial amount.",
+        "ipaExTrans": "ðə ʧɛk wɒz fɔːr ə səbˈstænʃəl əˈmaʊnt.",
+        "exMeaning": "Kiểm tra là một số lượng đáng kể."
+    },
+    {
+        "word": "substantially",
+        "type": "adv",
+        "ipa": "səb ́stænʃəli",
+        "meaning": "về thực chất, về căn bản"
+    },
+    {
+        "word": "substitute",
+        "type": "n, v",
+        "ipa": "́sʌbsti ̧tju:t",
+        "meaning": "người, vật thay thế; thay thế",
+        "ex": "I was positive all she did was substitute a different one for each letter in the alphabet.",
+        "ipaExTrans": "aɪ wɒz ˈpɒzətɪv ɔːl ʃiː dɪd wɒz ˈsʌbstɪtjuːt ə ˈdɪfrənt wʌn fɔːr iːʧ ˈlɛtər ɪn ði ˈælfəbɪt.",
+        "exMeaning": "Tôi đã tích cực tất cả những gì cô ấy đã làm là thay thế một chữ cái khác nhau cho mỗi chữ cái trong bảng chữ cái."
+    },
+    {
+        "word": "succeed",
+        "type": "v",
+        "ipa": "s>ək'si:d",
+        "meaning": "nối tiếp, kế tiếp; kế nghiệp, kế vị",
+        "ex": "If I succeed, I want my powers back.",
+        "ipaExTrans": "ɪf aɪ səkˈsiːd, aɪ wɒnt maɪ ˈpaʊəz bæk.",
+        "exMeaning": "Nếu tôi thành công, tôi muốn sức mạnh của tôi trở lại."
+    },
+    {
+        "word": "success",
+        "type": "n",
+        "ipa": "sək'si:d",
+        "meaning": "sự thành công, sự thành đạt",
+        "ex": "Each success has some failure along the way.",
+        "ipaExTrans": "iːʧ səkˈsɛs hæz sʌm ˈfeɪljər əˈlɒŋ ðə weɪ.",
+        "exMeaning": "Mỗi thành công có một số thất bại trên đường đi."
+    },
+    {
+        "word": "successful",
+        "type": "adj",
+        "ipa": "səkˈsɛsfəl",
+        "meaning": "thành công, thắng lợi, thành đạt",
+        "ex": "He was successful, in varying degrees in locating ninety-six.",
+        "ipaExTrans": "hiː wɒz səkˈsɛsfʊl, ɪn ˈveəriɪŋ dɪˈgriːz ɪn ləʊˈkeɪtɪŋ ˈnaɪnti-sɪks.",
+        "exMeaning": "Ông đã thành công, ở các mức độ khác nhau trong việc định vị chín mươi sáu."
+    },
+    {
+        "word": "successfully",
+        "type": "adv",
+        "ipa": "səkˈsɛsfəlli",
+        "meaning": "thành công, thắng lợi, thành đạt",
+        "ex": "7), fought successfully against them (I Sam.",
+        "ipaExTrans": "7), fɔːt səkˈsɛsfʊli əˈgɛnst ðɛm (aɪ sæm.",
+        "exMeaning": "7), đã chiến đấu thành công chống lại họ (I Sam."
+    },
+    {
+        "word": "such",
+        "type": "det, pron",
+        "ipa": "sʌtʃ",
+        "meaning": "như thế, như vậy, như là. such as đến nỗi, đến mức",
+        "ex": "I never saw such small pigs before.",
+        "ipaExTrans": "aɪ ˈnɛvə sɔː sʌʧ smɔːl pɪgz bɪˈfɔː.",
+        "exMeaning": "Tôi chưa bao giờ thấy những con lợn nhỏ như vậy trước đây."
+    },
+    {
+        "word": "suck",
+        "type": "v",
+        "ipa": "sʌk",
+        "meaning": "bú, hút; hấp thụ, tiếp thu",
+        "ex": "Deidre tried to suck in deep breaths.",
+        "ipaExTrans": "Deidre traɪd tuː sʌk ɪn diːp brɛθs.",
+        "exMeaning": "Deidre cố gắng hít vào những hơi thở sâu."
+    },
+    {
+        "word": "sudden",
+        "type": "adj",
+        "ipa": "sʌdn",
+        "meaning": "thình lình, đột ngột",
+        "ex": "Why all the sudden attention?",
+        "ipaExTrans": "waɪ ɔːl ðə ˈsʌdn əˈtɛnʃ(ə)n?",
+        "exMeaning": "Tại sao tất cả sự chú ý đột ngột?"
+    },
+    {
+        "word": "suddenly",
+        "type": "adv",
+        "ipa": "sʌdnli",
+        "meaning": "thình lình, đột ngột",
+        "ex": "Why would she suddenly remember that phrase?",
+        "ipaExTrans": "waɪ wʊd ʃiː ˈsʌdnli rɪˈmɛmbə ðæt freɪz?",
+        "exMeaning": "Tại sao cô ấy đột nhiên nhớ cụm từ đó?"
+    },
+    {
+        "word": "suf",
+        "type": "n",
+        "ipa": "stri:t",
+        "meaning": "phố, đường phố",
+        "ex": "suf.).",
+        "ipaExTrans": "suf.).",
+        "exMeaning": "suf.)."
+    },
+    {
+        "word": "suffer",
+        "type": "v",
+        "ipa": "sΛfə(r)",
+        "meaning": "chịu đựng, chịu thiệt hại, đấu khổ",
+        "ex": "Don't let him suffer because of me.'",
+        "ipaExTrans": "dəʊnt lɛt hɪm ˈsʌfə bɪˈkɒz ɒv miː.'",
+        "exMeaning": "Đừng để anh ấy đau khổ vì tôi. '"
+    },
+    {
+        "word": "suffering",
+        "type": "n",
+        "ipa": "sΛfəriŋ",
+        "meaning": "sự đau đớn, sự đau khổ",
+        "ex": "Israel is suffering for a great end.",
+        "ipaExTrans": "ˈɪzreɪəl ɪz ˈsʌfərɪŋ fɔːr ə greɪt ɛnd.",
+        "exMeaning": "Israel đang đau khổ vì một kết thúc tuyệt vời."
+    },
+    {
+        "word": "sufficient",
+        "type": "adj",
+        "ipa": "sə'fi∫nt",
+        "meaning": "(+ for) đủ, thích đáng",
+        "ex": "One reading was sufficient to stamp every detail of the story upon my memory forever.",
+        "ipaExTrans": "wʌn ˈriːdɪŋ wɒz səˈfɪʃənt tuː stæmp ˈɛvri ˈdiːteɪl ɒv ðə ˈstɔːri əˈpɒn maɪ ˈmɛməri fəˈrɛvə.",
+        "exMeaning": "Một lần đọc là đủ để ghi dấu từng chi tiết của câu chuyện vào trí nhớ của tôi mãi mãi."
+    },
+    {
+        "word": "sufficiently",
+        "type": "adv",
+        "ipa": "sə'fiʃəntli",
+        "meaning": "đủ, thích đáng",
+        "ex": "I cannot sufficiently commend that view.",
+        "ipaExTrans": "aɪ ˈkænɒt səˈfɪʃəntli kəˈmɛnd ðæt vjuː.",
+        "exMeaning": "Tôi không thể đủ khen ngợi quan điểm đó."
+    }
+]

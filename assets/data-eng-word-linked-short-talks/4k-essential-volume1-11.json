@@ -1,0 +1,222 @@
+[
+    {
+        "word": "anymore",
+        "ipa": "ˌɛniˈmɔː",
+        "type": "adv",
+        "tag": "nữa không",
+        "meaning": "Anymore means any longer",
+        "context": "Anymore có nghĩa là lâu hơn",
+        "ex": "Her old pants don’t fit her anymore.",
+        "ipaExTrans": "hɜːr əʊld pænts dəʊnt fɪt hɜːr ˌɛniˈmɔː.",
+        "exMeaning": "Chiếc quần cũ của cô không phù hợp với cô nữa."
+    },
+    {
+        "word": "asleep",
+        "ipa": "əˈsliːp",
+        "type": "adj",
+        "tag": "ngủ",
+        "meaning": "When a person is asleep, they are not awake.",
+        "context": "Khi một người đang ngủ, họ không tỉnh táo.",
+        "ex": "The baby has been asleep for hours",
+        "ipaExTrans": "ðə ˈbeɪbi hæz biːn əˈsliːp fɔːr ˈaʊəz",
+        "exMeaning": "Em bé đã ngủ hàng giờ."
+    },
+    {
+        "word": "berry",
+        "ipa": "ˈbɛri",
+        "type": "n",
+        "tag": "quả mọng",
+        "meaning": "A berry is a small round fruit that grows on certain plants and trees.",
+        "context": "Quả mọng là một quả tròn nhỏ mọc trên một số cây và cây nhất định.",
+        "ex": "The berry looked delicious.",
+        "ipaExTrans": "ðə ˈbɛri lʊkt dɪˈlɪʃəs.",
+        "exMeaning": "Quả mọng nhìn ngon."
+    },
+    {
+        "word": "collect",
+        "ipa": "kəˈlɛkt",
+        "type": "v",
+        "tag": "sưu tầm",
+        "meaning": "To collect things is to group them together all in one place.",
+        "context": "Để thu thập mọi thứ là nhóm chúng lại với nhau ở một nơi.",
+        "ex": "I collected shells when I was younger.",
+        "ipaExTrans": "aɪ kəˈlɛktɪd ʃɛlz wɛn aɪ wɒz ˈjʌŋə.",
+        "exMeaning": "Tôi đã thu thập vỏ khi tôi còn trẻ"
+    },
+    {
+        "word": "compete",
+        "ipa": "kəmˈpiːt",
+        "type": "v",
+        "tag": "tranh đua",
+        "meaning": "To compete is to try to be better than someone.",
+        "context": "Cạnh tranh là cố gắng để giỏi hơn ai đó.",
+        "ex": "He will compete with very good athletes.",
+        "ipaExTrans": "hiː wɪl kəmˈpiːt wɪð ˈvɛri gʊd ˈæθliːts.",
+        "exMeaning": "Anh ấy sẽ thi đấu với các vận động viên rất giỏi."
+    },
+    {
+        "word": "conversation",
+        "ipa": "ˌkɒnvəˈseɪʃən",
+        "type": "n",
+        "tag": "cuộc hội thoại",
+        "meaning": "A conversation is a talk between people.",
+        "context": "Một cuộc trò chuyện là một cuộc nói chuyện giữa mọi người.",
+        "ex": "There were two conversations going on at once.",
+        "ipaExTrans": "ðeə wɜː tuː ˌkɒnvəˈseɪʃənz ˈgəʊɪŋ ɒn æt wʌns.",
+        "exMeaning": "Có hai cuộc trò chuyện diễn ra cùng một lúc."
+    },
+    {
+        "word": "creature",
+        "ipa": "ˈkriːʧə",
+        "type": "n",
+        "tag": "sinh vật",
+        "meaning": "A creature is any living thing.",
+        "context": "Một sinh vật là bất kỳ sinh vật sống.",
+        "ex": "The creature we saw today was either a dolphin or a porpoise",
+        "ipaExTrans": "ðə ˈkriːʧə wiː sɔː təˈdeɪ wɒz ˈaɪðər ə ˈdɒlfɪn ɔːr ə ˈpɔːpəs",
+        "exMeaning": "Sinh vật mà chúng ta thấy hôm nay là cá heo hoặc cá heo"
+    },
+    {
+        "word": "decision",
+        "ipa": "dɪˈsɪʒən",
+        "type": "n",
+        "tag": "phán quyết, sự lựa chọn",
+        "meaning": "A decision is a choice",
+        "context": "Một quyết định là một sự lựa chọn",
+        "ex": "He made the wrong decision.",
+        "ipaExTrans": "hiː meɪd ðə rɒŋ dɪˈsɪʒən.",
+        "exMeaning": "Ông đã quyết định sai."
+    },
+    {
+        "word": "either",
+        "ipa": "ˈaɪðə",
+        "type": "conj",
+        "tag": "hoặc là",
+        "meaning": "Either is used with “or” to say there are two or more possibilities.",
+        "context": "Hoặc được sử dụng với những người hay sử dụng để nói rằng có hai hoặc nhiều khả năng.",
+        "ex": "You can choose to be either white or black when you play chess.",
+        "ipaExTrans": "juː kæn ʧuːz tuː biː ˈaɪðə waɪt ɔː blæk wɛn juː pleɪ ʧɛs.",
+        "exMeaning": "Bạn có thể chọn màu trắng hoặc đen khi chơi cờ."
+    },
+    {
+        "word": "forest",
+        "ipa": "ˈfɒrɪst",
+        "type": "n",
+        "tag": "rừng",
+        "meaning": "A forest is a place with lots of trees and animals.",
+        "context": "Một khu rừng là một nơi có rất nhiều cây cối và động vật.",
+        "ex": "I love to go walking in the forest",
+        "ipaExTrans": "aɪ lʌv tuː gəʊ ˈwɔːkɪŋ ɪn ðə ˈfɒrɪst",
+        "exMeaning": "Tôi thích đi dạo trong rừng"
+    },
+    {
+        "word": "ground",
+        "ipa": "graʊnd",
+        "type": "n",
+        "tag": "bãi đất, lòng đất",
+        "meaning": "The ground is the top part of the Earth that we walk on.",
+        "context": "Mặt đất là phần trên cùng của Trái đất mà chúng ta đi bộ.",
+        "ex": "The ground under our feet was dry and brown",
+        "ipaExTrans": "ðə graʊnd ˈʌndər ˈaʊə fiːt wɒz draɪ ænd braʊn",
+        "exMeaning": "Mặt đất dưới chân chúng tôi khô và nâu"
+    },
+    {
+        "word": "introduce",
+        "ipa": "ˌɪntrəˈdjuːs",
+        "type": "v",
+        "tag": "giới thiệu",
+        "meaning": "To introduce someone or something is to say who they are.",
+        "context": "Giới thiệu ai đó hoặc một cái gì đó là nói họ là ai.",
+        "ex": "I introduced myself to our newest co-worker today.",
+        "ipaExTrans": "aɪ ˌɪntrəˈdjuːst maɪˈsɛlf tuː ˈaʊə ˈnjuːɪst kəʊ-ˈwɜːkə təˈdeɪ.",
+        "exMeaning": "Tôi đã giới thiệu bản thân với đồng nghiệp mới nhất của chúng tôi ngày hôm nay."
+    },
+    {
+        "word": "marry",
+        "ipa": "ˈmæri",
+        "type": "v",
+        "tag": "kết hôn",
+        "meaning": "To marry is to legally become husband and wife.",
+        "context": "Kết hôn là trở thành vợ chồng hợp pháp.",
+        "ex": "Rose and Henry were married, and they lived happily.",
+        "ipaExTrans": "rəʊz ænd ˈhɛnri wɜː ˈmærɪd, ænd ðeɪ lɪvd ˈhæpɪli.",
+        "exMeaning": "Rose và Henry đã kết hôn, và họ sống hạnh phúc."
+    },
+    {
+        "word": "prepare",
+        "ipa": "prɪˈpeə",
+        "type": "v",
+        "tag": "chuẩn bị",
+        "meaning": "To prepare is to get ready for something.",
+        "context": "Để chuẩn bị là để sẵn sàng cho một cái gì đó.",
+        "ex": "I prepared my speech to the class.",
+        "ipaExTrans": "aɪ prɪˈpeəd maɪ spiːʧ tuː ðə klɑːs.",
+        "exMeaning": "Tôi chuẩn bị bài phát biểu của mình trước lớp."
+    },
+    {
+        "word": "sail",
+        "ipa": "seɪl",
+        "type": "v",
+        "tag": "chèo",
+        "meaning": "To sail is to move a boat on the water.",
+        "context": "Đi thuyền là di chuyển một chiếc thuyền trên mặt nước.",
+        "ex": "I love to sail my boat on the lake.",
+        "ipaExTrans": "aɪ lʌv tuː seɪl maɪ bəʊt ɒn ðə leɪk.",
+        "exMeaning": "Tôi thích chèo thuyền trên hồ."
+    },
+    {
+        "word": "serious",
+        "ipa": "ˈsɪərɪəs",
+        "type": "adj",
+        "tag": "nghiêm trọng",
+        "meaning": "When something is serious, it is bad or unsafe.",
+        "context": "Khi một cái gì đó nghiêm trọng, nó là xấu hoặc không an toàn.",
+        "ex": "The accident was very serious.",
+        "ipaExTrans": "ði ˈæksɪdənt wɒz ˈvɛri ˈsɪərɪəs.",
+        "exMeaning": "Vụ tai nạn rất nghiêm trọng."
+    },
+    {
+        "word": "spend",
+        "ipa": "spɛnd",
+        "type": "v",
+        "tag": "chi tiêu, xài",
+        "meaning": "To spend is to use time doing something or being somewhere",
+        "context": "Chi tiêu là sử dụng thời gian để làm một cái gì đó hoặc ở đâu đó",
+        "ex": "I like to spend my free time fishing.",
+        "ipaExTrans": "aɪ laɪk tuː spɛnd maɪ friː taɪm ˈfɪʃɪŋ.",
+        "exMeaning": "Tôi thích dành thời gian rảnh của mình để câu cá."
+    },
+    {
+        "word": "strange",
+        "ipa": "streɪnʤ",
+        "type": "adj",
+        "tag": "lạ, không quen, xa lạ",
+        "meaning": "When something is strange, it is not normal.",
+        "context": "Khi một cái gì đó là lạ, nó không bình thường.",
+        "ex": "Joe had a strange look on his face after he saw what happened.",
+        "ipaExTrans": "ˈʤəʊ hæd ə streɪnʤ lʊk ɒn hɪz feɪs ˈɑːftə hiː sɔː wɒt ˈhæpənd.",
+        "exMeaning": "Joe có một cái nhìn kỳ lạ trên khuôn mặt sau khi anh nhìn thấy những gì đã xảy ra."
+    },
+    {
+        "word": "truth",
+        "ipa": "truːθ",
+        "type": "n",
+        "tag": "sự thật",
+        "meaning": "The truth is a fact or something that is right.",
+        "context": "Sự thật là một sự thật hoặc một cái gì đó là đúng.",
+        "ex": "He was telling the truth about seeing a large green snake.",
+        "ipaExTrans": "hiː wɒz ˈtɛlɪŋ ðə truːθ əˈbaʊt ˈsiːɪŋ ə lɑːʤ griːn sneɪk.",
+        "exMeaning": "Anh ta đang nói sự thật về việc nhìn thấy một con rắn lớn màu xanh lá cây."
+    },
+    {
+        "word": "wake",
+        "ipa": "weɪk",
+        "type": "v",
+        "tag": "thức dậy",
+        "meaning": "To wake is to not be sleeping anymore.",
+        "context": "Thức dậy là không được ngủ nữa.",
+        "ex": "He is always full of energy when he wakes in the morning.",
+        "ipaExTrans": "hiː ɪz ˈɔːlweɪz fʊl ɒv ˈɛnəʤi wɛn hiː weɪks ɪn ðə ˈmɔːnɪŋ.",
+        "exMeaning": "Anh ấy luôn tràn đầy năng lượng khi thức dậy vào buổi sáng."
+    }
+]

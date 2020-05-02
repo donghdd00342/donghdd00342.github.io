@@ -1,0 +1,674 @@
+[
+    {
+        "word": "education",
+        "type": "Uncountable Nouns",
+        "ipa": "ˌɛdju(ː)ˈkeɪʃən",
+        "meaning": "giáo dục",
+        "ex": "Our young people need education and more organized activities.",
+        "ipaExTrans": "ˈaʊə jʌŋ ˈpiːpl niːd ˌɛdju(ː)ˈkeɪʃən ænd mɔːr ˈɔːgənaɪzd ækˈtɪvɪtiz.",
+        "exMeaning": "Những người trẻ tuổi của chúng ta cần giáo dục và các hoạt động có tổ chức hơn."
+    },
+    {
+        "word": "economics",
+        "type": "Uncountable Nouns",
+        "ipa": "ˌiːkəˈnɒmɪks",
+        "meaning": "Kinh tế học",
+        "ex": "As my economics professors insisted, cost is determined by scarcity and demand.",
+        "ipaExTrans": "æz maɪ ˌiːkəˈnɒmɪks prəˈfɛsəz ɪnˈsɪstɪd, kɒst ɪz dɪˈtɜːmɪnd baɪ ˈskeəsɪti ænd dɪˈmɑːnd.",
+        "exMeaning": "Như các giáo sư kinh tế của tôi nhấn mạnh, chi phí được xác định bởi sự khan hiếm và nhu cầu."
+    },
+    {
+        "word": "equipment",
+        "type": "Uncountable Nouns",
+        "ipa": "ɪˈkwɪpmənt",
+        "meaning": "Trang thiết bị",
+        "ex": "The electronic equipment had disappeared as well.",
+        "ipaExTrans": "ði ɪlɛkˈtrɒnɪk ɪˈkwɪpmənt hæd ˌdɪsəˈpɪəd æz wɛl.",
+        "exMeaning": "Các thiết bị điện tử cũng biến mất."
+    },
+    {
+        "word": "earth",
+        "type": "Uncountable Nouns",
+        "ipa": "ɜːθ",
+        "meaning": "Trái đất",
+        "ex": "The leader of the bad guys on earth died and was replaced.",
+        "ipaExTrans": "ðə ˈliːdər ɒv ðə bæd gaɪz ɒn ɜːθ daɪd ænd wɒz rɪˈpleɪst.",
+        "exMeaning": "Thủ lĩnh của những kẻ xấu trên trái đất đã chết và được thay thế."
+    },
+    {
+        "word": "expense",
+        "type": "Uncountable Nouns",
+        "ipa": "ɪksˈpɛns",
+        "meaning": "chi phí",
+        "ex": "I'm still waiting for his last expense account.",
+        "ipaExTrans": "aɪm stɪl ˈweɪtɪŋ fɔː hɪz lɑːst ɪksˈpɛns əˈkaʊnt.",
+        "exMeaning": "Tôi vẫn đang chờ tài khoản chi phí cuối cùng của anh ấy."
+    },
+    {
+        "word": "energy",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈɛnəʤi",
+        "meaning": "năng lượng",
+        "ex": "The boy was no longer sleepy, but full of energy and excitement.",
+        "ipaExTrans": "ðə bɔɪ wɒz nəʊ ˈlɒŋgə ˈsliːpi, bʌt fʊl ɒv ˈɛnəʤi ænd ɪkˈsaɪtmənt.",
+        "exMeaning": "Cậu bé không còn buồn ngủ, nhưng tràn đầy năng lượng và hứng thú."
+    },
+    {
+        "word": "electricity",
+        "type": "Uncountable Nouns",
+        "ipa": "ɪlɛkˈtrɪsɪti",
+        "meaning": "điện lực",
+        "ex": "After a century, electricity was still being generated.",
+        "ipaExTrans": "ˈɑːftər ə ˈsɛnʧʊri, ɪlɛkˈtrɪsɪti wɒz stɪl ˈbiːɪŋ ˈʤɛnəreɪtɪd.",
+        "exMeaning": "Sau một thế kỷ, điện vẫn được tạo ra."
+    },
+    {
+        "word": "enthusiasm",
+        "type": "Uncountable Nouns",
+        "ipa": "ɪnˈθjuːzɪæzm",
+        "meaning": "hăng hái",
+        "ex": "The student had an enthusiasm for science.",
+        "ipaExTrans": "ðə ˈstjuːdənt hæd ən ɪnˈθjuːzɪæzm fɔː ˈsaɪəns.",
+        "exMeaning": "Các sinh viên đã có một sự nhiệt tình cho khoa học."
+    },
+    {
+        "word": "environment",
+        "type": "Uncountable Nouns",
+        "ipa": "ɪnˈvaɪərənmənt",
+        "meaning": "Môi trường",
+        "ex": "The environment in the Arctic Circle is very hostile.",
+        "ipaExTrans": "ði ɪnˈvaɪərənmənt ɪn ði ˈɑːktɪk ˈsɜːkl ɪz ˈvɛri ˈhɒstaɪl.",
+        "exMeaning": "Môi trường ở Vòng Bắc Cực rất thù địch."
+    },
+    {
+        "word": "enjoyment",
+        "type": "Uncountable Nouns",
+        "ipa": "ɪnˈʤɔɪmənt",
+        "meaning": "sự hưởng thụ",
+        "ex": "I do want to tell you a few things for your safety and enjoyment, though.",
+        "ipaExTrans": "aɪ duː wɒnt tuː tɛl juː ə fjuː θɪŋz fɔː jɔː ˈseɪfti ænd ɪnˈʤɔɪmənt, ðəʊ.",
+        "exMeaning": "Tuy nhiên, tôi muốn nói với bạn một vài điều cho sự an toàn và hưởng thụ của bạn."
+    },
+    {
+        "word": "energy",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈɛnəʤi",
+        "meaning": "năng lượng",
+        "ex": "The boy was no longer sleepy, but full of energy and excitement.",
+        "ipaExTrans": "ðə bɔɪ wɒz nəʊ ˈlɒŋgə ˈsliːpi, bʌt fʊl ɒv ˈɛnəʤi ænd ɪkˈsaɪtmənt.",
+        "exMeaning": "Cậu bé không còn buồn ngủ, nhưng tràn đầy năng lượng và hứng thú."
+    },
+    {
+        "word": "envy",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈɛnvi",
+        "meaning": "đố kỵ",
+        "ex": "Why should I envy them?",
+        "ipaExTrans": "waɪ ʃʊd aɪ ˈɛnvi ðɛm?",
+        "exMeaning": "Tại sao tôi phải ghen tị với họ?"
+    },
+    {
+        "word": "evil",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈiːvl",
+        "meaning": "tà ác",
+        "ex": "There is no evil here.",
+        "ipaExTrans": "ðeər ɪz nəʊ ˈiːvl hɪə.",
+        "exMeaning": "Không có cái ác ở đây."
+    },
+    {
+        "word": "engineering",
+        "type": "Uncountable Nouns",
+        "ipa": "ˌɛnʤɪˈnɪərɪŋ",
+        "meaning": "kỹ thuật",
+        "ex": "While she knew his genetic engineering made him harder to kill, she'd never imagined he'd survived.",
+        "ipaExTrans": "waɪl ʃiː njuː hɪz ʤɪˈnɛtɪk ˌɛnʤɪˈnɪərɪŋ meɪd hɪm ˈhɑːdə tuː kɪl, ʃiːd ˈnɛvər ɪˈmæʤɪnd hiːd səˈvaɪvd.",
+        "exMeaning": "Trong khi cô biết kỹ thuật di truyền của anh khiến anh khó giết hơn, cô không bao giờ tưởng tượng được anh sẽ sống sót."
+    },
+    {
+        "word": "entertainment",
+        "type": "Uncountable Nouns",
+        "ipa": "ˌɛntəˈteɪnmənt",
+        "meaning": "sự giải trí",
+        "ex": "In his day, Shakespeare was low-brow entertainment for the common class.",
+        "ipaExTrans": "ɪn hɪz deɪ, ˈʃeɪkspɪə wɒz ləʊ-braʊ ˌɛntəˈteɪnmənt fɔː ðə ˈkɒmən klɑːs.",
+        "exMeaning": "Vào thời của ông, Shakespeare là người giải trí trán thấp cho tầng lớp chung."
+    },
+    {
+        "word": "evolution",
+        "type": "Uncountable Nouns",
+        "ipa": "ˌiːvəˈluːʃən",
+        "meaning": "sự phát triển",
+        "ex": "The doctrine of evolution in its finished and definite form is a modern product.",
+        "ipaExTrans": "ðə ˈdɒktrɪn ɒv ˌiːvəˈluːʃən ɪn ɪts ˈfɪnɪʃt ænd ˈdɛfɪnɪt fɔːm ɪz ə ˈmɒdən ˈprɒdʌkt.",
+        "exMeaning": "Học thuyết về sự tiến hóa ở dạng hoàn thiện và xác định của nó là một sản phẩm hiện đại."
+    },
+    {
+        "word": "existence",
+        "type": "Uncountable Nouns",
+        "ipa": "ɪgˈzɪstəns",
+        "meaning": "sự tồn tại",
+        "ex": "regard is had to the existence of anterior rights or duties.",
+        "ipaExTrans": "rɪˈgɑːd ɪz hæd tuː ði ɪgˈzɪstəns ɒv ænˈtɪərɪə raɪts ɔː ˈdjuːtiz.",
+        "exMeaning": "liên quan đến sự tồn tại của quyền hoặc nghĩa vụ trước."
+    },
+    {
+        "word": "ethics",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈɛθɪks",
+        "meaning": "đạo đức",
+        "ex": "Ethics is in much the same position.",
+        "ipaExTrans": "ˈɛθɪks ɪz ɪn mʌʧ ðə seɪm pəˈzɪʃən.",
+        "exMeaning": "Đạo đức là ở cùng một vị trí."
+    },
+    {
+        "word": "evidence",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈɛvɪdəns",
+        "meaning": "chứng cớ",
+        "ex": "All the evidence points to an accident.",
+        "ipaExTrans": "ɔːl ði ˈɛvɪdəns pɔɪnts tuː ən ˈæksɪdənt.",
+        "exMeaning": "Tất cả các bằng chứng chỉ ra một tai nạn."
+    },
+    {
+        "word": "employment",
+        "type": "Uncountable Nouns",
+        "ipa": "ɪmˈplɔɪmənt",
+        "meaning": "việc làm",
+        "ex": "Call the employment office.",
+        "ipaExTrans": "kɔːl ði ɪmˈplɔɪmənt ˈɒfɪs.",
+        "exMeaning": "Gọi văn phòng việc làm."
+    },
+    {
+        "word": "experience",
+        "type": "Uncountable Nouns",
+        "ipa": "ɪksˈpɪərɪəns",
+        "meaning": "kinh nghiệm",
+        "ex": "He has a lot of experience in these matters.",
+        "ipaExTrans": "hiː hæz ə lɒt ɒv ɪksˈpɪərɪəns ɪn ðiːz ˈmætəz.",
+        "exMeaning": "Ông có rất nhiều kinh nghiệm trong những vấn đề này."
+    },
+    {
+        "word": "failure",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈfeɪljə",
+        "meaning": "sự thất bại",
+        "ex": "Each success has some failure along the way.",
+        "ipaExTrans": "iːʧ səkˈsɛs hæz sʌm ˈfeɪljər əˈlɒŋ ðə weɪ.",
+        "exMeaning": "Mỗi thành công có một số thất bại trên đường đi."
+    },
+    {
+        "word": "fire",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈfaɪə",
+        "meaning": "ngọn lửa",
+        "ex": "A fire burned brightly in the fireplace.",
+        "ipaExTrans": "ə ˈfaɪə bɜːnd ˈbraɪtli ɪn ðə ˈfaɪəˌpleɪs.",
+        "exMeaning": "Một ngọn lửa bùng cháy rực rỡ trong lò sưởi."
+    },
+    {
+        "word": "fiction",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈfɪkʃən",
+        "meaning": "viễn tưởng",
+        "ex": "Just because it's fiction doesn't mean you can't learn from it.",
+        "ipaExTrans": "ʤʌst bɪˈkɒz ɪts ˈfɪkʃən dʌznt miːn juː kɑːnt lɜːn frɒm ɪt.",
+        "exMeaning": "Chỉ vì nó hư cấu không có nghĩa là bạn không thể học hỏi từ nó."
+    },
+    {
+        "word": "fashion",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈfæʃən",
+        "meaning": "thời trang",
+        "ex": "We cannot fashion them from machinery.",
+        "ipaExTrans": "wiː ˈkænɒt ˈfæʃən ðɛm frɒm məˈʃiːnəri.",
+        "exMeaning": "Chúng ta không thể thời trang chúng từ máy móc."
+    },
+    {
+        "word": "forgiveness",
+        "type": "Uncountable Nouns",
+        "ipa": "fəˈgɪvnɪs",
+        "meaning": "tha thứ",
+        "ex": "Even now, as his eyes sought her forgiveness, his chin stayed up proudly.",
+        "ipaExTrans": "ˈiːvən naʊ, æz hɪz aɪz sɔːt hɜː fəˈgɪvnɪs, hɪz ʧɪn steɪd ʌp ˈpraʊdli.",
+        "exMeaning": "Ngay cả bây giờ, khi đôi mắt anh tìm kiếm sự tha thứ của cô, cằm anh vẫn tự hào."
+    },
+    {
+        "word": "faith",
+        "type": "Uncountable Nouns",
+        "ipa": "feɪθ",
+        "meaning": "đức tin",
+        "ex": "Don't lose faith in yourself.",
+        "ipaExTrans": "dəʊnt luːz feɪθ ɪn jɔːˈsɛlf.",
+        "exMeaning": "Đừng đánh mất niềm tin vào chính mình."
+    },
+    {
+        "word": "flour",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈflaʊə",
+        "meaning": "bột mì",
+        "ex": "She rolled the pieces of meat in flour and fried them.",
+        "ipaExTrans": "ʃiː rəʊld ðə ˈpiːsɪz ɒv miːt ɪn ˈflaʊər ænd fraɪd ðɛm.",
+        "exMeaning": "Cô cuộn những miếng thịt trong bột và chiên chúng."
+    },
+    {
+        "word": "flu",
+        "type": "Uncountable Nouns",
+        "ipa": "fluː",
+        "meaning": "cúm",
+        "ex": "His place is as busy as a country doctor's waiting room in flu season.",
+        "ipaExTrans": "hɪz pleɪs ɪz æz ˈbɪzi æz ə ˈkʌntri ˈdɒktəz ˈweɪtɪŋ ruːm ɪn fluː ˈsiːzn.",
+        "exMeaning": "Nơi anh ấy bận rộn như phòng chờ của bác sĩ nông thôn trong mùa cúm."
+    },
+    {
+        "word": "fear",
+        "type": "Uncountable Nouns",
+        "ipa": "fɪə",
+        "meaning": "nỗi sợ",
+        "ex": "For a long time he wandered in fear from place to place.",
+        "ipaExTrans": "fɔːr ə lɒŋ taɪm hiː ˈwɒndəd ɪn fɪə frɒm pleɪs tuː pleɪs.",
+        "exMeaning": "Trong một thời gian dài, anh lang thang trong sợ hãi từ nơi này đến nơi khác."
+    },
+    {
+        "word": "fun",
+        "type": "Uncountable Nouns",
+        "ipa": "fʌn",
+        "meaning": "vui vẻ",
+        "ex": "We had fun together.",
+        "ipaExTrans": "wiː hæd fʌn təˈgɛðə.",
+        "exMeaning": "Chúng tôi đã vui vẻ cùng nhau."
+    },
+    {
+        "word": "fame",
+        "type": "Uncountable Nouns",
+        "ipa": "feɪm",
+        "meaning": "danh tiếng",
+        "ex": "His fame spread widely and rapidly.",
+        "ipaExTrans": "hɪz feɪm sprɛd ˈwaɪdli ænd ˈræpɪdli.",
+        "exMeaning": "Danh tiếng của anh lan truyền rộng rãi và nhanh chóng."
+    },
+    {
+        "word": "freedom",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈfriːdəm",
+        "meaning": "sự tự do",
+        "ex": "Maybe it wasn't the freedom he missed.",
+        "ipaExTrans": "ˈmeɪbiː ɪt wɒznt ðə ˈfriːdəm hiː mɪst.",
+        "exMeaning": "Có lẽ đó không phải là sự tự do mà anh bỏ lỡ."
+    },
+    {
+        "word": "food",
+        "type": "Uncountable Nouns",
+        "ipa": "fuːd",
+        "meaning": "món ăn",
+        "ex": "Lisa ate the food and washed the dishes.",
+        "ipaExTrans": "ˈliːsə ɛt ðə fuːd ænd wɒʃt ðə ˈdɪʃɪz.",
+        "exMeaning": "Lisa ăn thức ăn và rửa chén."
+    },
+    {
+        "word": "finance",
+        "type": "Uncountable Nouns",
+        "ipa": "faɪˈnæns",
+        "meaning": "tài chính",
+        "ex": "You could finance the entire government and its (hopefully) noble agenda, by this method alone.",
+        "ipaExTrans": "juː kʊd faɪˈnæns ði ɪnˈtaɪə ˈgʌvnmənt ænd ɪts (ˈhəʊpfʊli) ˈnəʊbl əˈʤɛndə, baɪ ðɪs ˈmɛθəd əˈləʊn.",
+        "exMeaning": "Bạn có thể tài trợ cho toàn bộ chính phủ và chương trình nghị sự cao quý (hy vọng) của nó, chỉ bằng phương pháp này."
+    },
+    {
+        "word": "fruit",
+        "type": "Uncountable Nouns",
+        "ipa": "fruːt",
+        "meaning": "trái cây"
+    },
+    {
+        "word": "fuel",
+        "type": "Uncountable Nouns",
+        "ipa": "fjʊəl",
+        "meaning": "nhiên liệu",
+        "ex": "The fuel used is fir-wood.",
+        "ipaExTrans": "ðə fjʊəl juːzd ɪz fɜː-wʊd.",
+        "exMeaning": "Nhiên liệu sử dụng là gỗ thông."
+    },
+    {
+        "word": "friendship",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈfrɛndʃɪp",
+        "meaning": "hữu nghị",
+        "ex": "I don't think our friendship will survive what is coming.",
+        "ipaExTrans": "aɪ dəʊnt θɪŋk ˈaʊə ˈfrɛndʃɪp wɪl səˈvaɪv wɒt ɪz ˈkʌmɪŋ.",
+        "exMeaning": "Tôi không nghĩ rằng tình bạn của chúng tôi sẽ tồn tại những gì sắp tới."
+    },
+    {
+        "word": "furniture",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈfɜːnɪʧə",
+        "meaning": "đồ nội thất",
+        "ex": "I didn't get any curtains or furniture yet.",
+        "ipaExTrans": "aɪ dɪdnt gɛt ˈɛni ˈkɜːtnz ɔː ˈfɜːnɪʧə jɛt.",
+        "exMeaning": "Tôi chưa nhận được bất kỳ rèm cửa hoặc đồ nội thất nào."
+    },
+    {
+        "word": "flesh",
+        "type": "Uncountable Nouns",
+        "ipa": "flɛʃ",
+        "meaning": "xác thịt",
+        "ex": "I am made of flesh and blood and bone, am I not?",
+        "ipaExTrans": "aɪ æm meɪd ɒv flɛʃ ænd blʌd ænd bəʊn, æm aɪ nɒt?",
+        "exMeaning": "Tôi được làm bằng thịt và máu và xương, phải không?"
+    },
+    {
+        "word": "gasoline",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈgæsəʊliːn",
+        "meaning": "xăng",
+        "ex": "I've got some gasoline I use in the lawn mower.",
+        "ipaExTrans": "aɪv gɒt sʌm ˈgæsəʊliːn aɪ juːz ɪn ðə lɔːn ˈməʊə.",
+        "exMeaning": "Tôi đã có một số xăng tôi sử dụng trong máy cắt cỏ."
+    },
+    {
+        "word": "genetics",
+        "type": "Uncountable Nouns",
+        "ipa": "ʤɪˈnɛtɪks",
+        "meaning": "di truyền"
+    },
+    {
+        "word": "garbage",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈgɑːbɪʤ",
+        "meaning": "rác",
+        "ex": "I thought you left some garbage and I burned it.",
+        "ipaExTrans": "aɪ θɔːt juː lɛft sʌm ˈgɑːbɪʤ ænd aɪ bɜːnd ɪt.",
+        "exMeaning": "Tôi nghĩ bạn để lại một số rác và tôi đã đốt nó."
+    },
+    {
+        "word": "growth",
+        "type": "Uncountable Nouns",
+        "ipa": "grəʊθ",
+        "meaning": "sự phát triển",
+        "ex": "Two parties had developed with the growth of the Church.",
+        "ipaExTrans": "tuː ˈpɑːtiz hæd dɪˈvɛləpt wɪð ðə grəʊθ ɒv ðə ʧɜːʧ.",
+        "exMeaning": "Hai đảng đã phát triển cùng với sự phát triển của Giáo hội."
+    },
+    {
+        "word": "grief",
+        "type": "Uncountable Nouns",
+        "ipa": "griːf",
+        "meaning": "nỗi buồn",
+        "ex": "To the grief of his mother he left the Roman church.",
+        "ipaExTrans": "tuː ðə griːf ɒv hɪz ˈmʌðə hiː lɛft ðə ˈrəʊmən ʧɜːʧ.",
+        "exMeaning": "Trước sự đau buồn của mẹ, anh rời khỏi nhà thờ La Mã."
+    },
+    {
+        "word": "grammar",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈgræmə",
+        "meaning": "ngữ pháp",
+        "ex": "There are a grammar school, a free school and a number of charities.",
+        "ipaExTrans": "ðeər ɑːr ə ˈgræmə skuːl, ə friː skuːl ænd ə ˈnʌmbər ɒv ˈʧærɪtiz.",
+        "exMeaning": "Có một trường học ngữ pháp, một trường học miễn phí và một số tổ chức từ thiện."
+    },
+    {
+        "word": "garlic",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈgɑːlɪk",
+        "meaning": "tỏi",
+        "ex": "He put a tray of garlic bread into the oven and the pungent smell of warming cheese filled the room.",
+        "ipaExTrans": "hiː pʊt ə treɪ ɒv ˈgɑːlɪk brɛd ˈɪntuː ði ˈʌvn ænd ðə ˈpʌnʤənt smɛl ɒv ˈwɔːmɪŋ ʧiːz fɪld ðə ruːm.",
+        "exMeaning": "Anh đặt một khay bánh mì tỏi vào lò nướng và mùi hăng của phô mai nóng lên khắp phòng."
+    },
+    {
+        "word": "gossip",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈgɒsɪp",
+        "meaning": "Mach lẻo",
+        "ex": "Neither would ever question nor gossip about their bosses.",
+        "ipaExTrans": "ˈnaɪðə wʊd ˈɛvə ˈkwɛsʧən nɔː ˈgɒsɪp əˈbaʊt ðeə ˈbɒsɪz.",
+        "exMeaning": "Không bao giờ có câu hỏi cũng không phải tin đồn về ông chủ của họ."
+    },
+    {
+        "word": "gold",
+        "type": "Uncountable Nouns",
+        "ipa": "gəʊld",
+        "meaning": "vàng",
+        "ex": "To a girl who enjoyed surprises, he was a gold mine.",
+        "ipaExTrans": "tuː ə gɜːl huː ɪnˈʤɔɪd səˈpraɪzɪz, hiː wɒz ə gəʊld maɪn.",
+        "exMeaning": "Đối với một cô gái thích sự ngạc nhiên, anh ta là một mỏ vàng."
+    },
+    {
+        "word": "gymnastics",
+        "type": "Uncountable Nouns",
+        "ipa": "ʤɪmˈnæstɪks",
+        "meaning": "thể dục",
+        "ex": "She instructed certain of her favourites in gymnastics and athletics, as a useful training for war.",
+        "ipaExTrans": "ʃiː ɪnˈstrʌktɪd ˈsɜːtn ɒv hɜː ˈfeɪvərɪts ɪn ʤɪmˈnæstɪks ænd æθˈlɛtɪks, æz ə ˈjuːsfʊl ˈtreɪnɪŋ fɔː wɔː.",
+        "exMeaning": "Cô đã hướng dẫn một số yêu thích của mình trong thể dục dụng cụ và điền kinh, như là một đào tạo hữu ích cho chiến tranh."
+    },
+    {
+        "word": "glass",
+        "type": "Uncountable Nouns",
+        "ipa": "glɑːs",
+        "meaning": "cốc thủy tinh",
+        "ex": "Could I have a glass of water?",
+        "ipaExTrans": "kʊd aɪ hæv ə glɑːs ɒv ˈwɔːtə?",
+        "exMeaning": "Cho tôi xin một cốc nước được không?"
+    },
+    {
+        "word": "grass",
+        "type": "Uncountable Nouns",
+        "ipa": "grɑːs",
+        "meaning": "cỏ",
+        "ex": "She made grass grow.",
+        "ipaExTrans": "ʃiː meɪd grɑːs grəʊ.",
+        "exMeaning": "Cô làm cỏ mọc."
+    },
+    {
+        "word": "golf",
+        "type": "Uncountable Nouns",
+        "ipa": "gɒlf",
+        "meaning": "golf",
+        "ex": "A little golf, but that just frustrates me and cost money.",
+        "ipaExTrans": "ə ˈlɪtl gɒlf, bʌt ðæt ʤʌst frʌsˈtreɪts miː ænd kɒst ˈmʌni.",
+        "exMeaning": "Một ít golf, nhưng điều đó chỉ làm tôi thất vọng và tốn tiền."
+    },
+    {
+        "word": "gratitude",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈgrætɪtjuːd",
+        "meaning": "lòng biết ơn",
+        "ex": "You have our undying gratitude for your donation!",
+        "ipaExTrans": "juː hæv ˈaʊər ʌnˈdaɪɪŋ ˈgrætɪtjuːd fɔː jɔː dəʊˈneɪʃən!",
+        "exMeaning": "Bạn có lòng biết ơn bất tận của chúng tôi cho sự đóng góp của bạn!"
+    },
+    {
+        "word": "ground",
+        "type": "Uncountable Nouns",
+        "ipa": "graʊnd",
+        "meaning": "đất",
+        "ex": "Jule lay on the ground a short distance away.",
+        "ipaExTrans": "Jule leɪ ɒn ðə graʊnd ə ʃɔːt ˈdɪstəns əˈweɪ.",
+        "exMeaning": "Jule nằm trên mặt đất một khoảng cách ngắn."
+    },
+    {
+        "word": "guilt",
+        "type": "Uncountable Nouns",
+        "ipa": "gɪlt",
+        "meaning": "cảm giác tội lỗi",
+        "ex": "She wasn't about to live with the guilt of hurting yet a third person she cared about.",
+        "ipaExTrans": "ʃiː wɒznt əˈbaʊt tuː lɪv wɪð ðə gɪlt ɒv ˈhɜːtɪŋ jɛt ə θɜːd ˈpɜːsn ʃiː keəd əˈbaʊt.",
+        "exMeaning": "Cô không định sống với cảm giác tội lỗi khi làm tổn thương người thứ ba mà cô quan tâm."
+    },
+    {
+        "word": "harm",
+        "type": "Uncountable Nouns",
+        "ipa": "hɑːm",
+        "meaning": "làm hại",
+        "ex": "I promise not to harm you.",
+        "ipaExTrans": "aɪ ˈprɒmɪs nɒt tuː hɑːm juː.",
+        "exMeaning": "Tôi hứa sẽ không làm hại bạn."
+    },
+    {
+        "word": "hair",
+        "type": "Uncountable Nouns",
+        "ipa": "heə",
+        "meaning": "tóc",
+        "ex": "Long dark lashes and black curly hair - he had it all.",
+        "ipaExTrans": "lɒŋ dɑːk ˈlæʃɪz ænd blæk ˈkɜːli heə - hiː hæd ɪt ɔːl.",
+        "exMeaning": "Hàng mi dài và mái tóc xoăn đen - anh có tất cả."
+    },
+    {
+        "word": "hardware",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈhɑːdweə",
+        "meaning": "phần cứng",
+        "ex": "The price of such hardware is in free fall.",
+        "ipaExTrans": "ðə praɪs ɒv sʌʧ ˈhɑːdweər ɪz ɪn friː fɔːl.",
+        "exMeaning": "Giá của phần cứng như vậy là rơi tự do."
+    },
+    {
+        "word": "hydrogen",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈhaɪdrɪʤən",
+        "meaning": "hydro",
+        "ex": "The gas contains a certain amount of hydrogen and oxides of carbon, also traces of nitrogen.",
+        "ipaExTrans": "ðə gæs kənˈteɪnz ə ˈsɜːtn əˈmaʊnt ɒv ˈhaɪdrɪʤən ænd ˈɒksaɪdz ɒv ˈkɑːbən, ˈɔːlsəʊ ˈtreɪsɪz ɒv ˈnaɪtrəʤən.",
+        "exMeaning": "Khí chứa một lượng hydro và oxit carbon nhất định, cũng là dấu vết của nitơ."
+    },
+    {
+        "word": "help",
+        "type": "Uncountable Nouns",
+        "ipa": "hɛlp",
+        "meaning": "Cứu giúp",
+        "ex": "So will help you God, and so only.",
+        "ipaExTrans": "səʊ wɪl hɛlp juː gɒd, ænd səʊ ˈəʊnli.",
+        "exMeaning": "Vì vậy, sẽ giúp bạn Thiên Chúa, và như vậy chỉ."
+    },
+    {
+        "word": "happiness",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈhæpɪnɪs",
+        "meaning": "hạnh phúc",
+        "ex": "I wish you all the happiness you so deserve.",
+        "ipaExTrans": "aɪ wɪʃ juː ɔːl ðə ˈhæpɪnɪs juː səʊ dɪˈzɜːv.",
+        "exMeaning": "Tôi chúc bạn hạnh phúc mà bạn xứng đáng."
+    },
+    {
+        "word": "health",
+        "type": "Uncountable Nouns",
+        "ipa": "hɛlθ",
+        "meaning": "Sức khỏe",
+        "ex": "Any deaf child or deaf and blind child in good health can be taught.",
+        "ipaExTrans": "ˈɛni dɛf ʧaɪld ɔː dɛf ænd blaɪnd ʧaɪld ɪn gʊd hɛlθ kæn biː tɔːt.",
+        "exMeaning": "Bất kỳ đứa trẻ điếc hoặc trẻ điếc và mù có sức khỏe tốt đều có thể được dạy."
+    },
+    {
+        "word": "hate",
+        "type": "Uncountable Nouns",
+        "ipa": "heɪt",
+        "meaning": "ghét",
+        "ex": "I hate peanut butter.",
+        "ipaExTrans": "aɪ heɪt ˈpiːnʌt ˈbʌtə.",
+        "exMeaning": "Tôi ghét bơ đậu phộng."
+    },
+    {
+        "word": "hope",
+        "type": "Uncountable Nouns",
+        "ipa": "həʊp",
+        "meaning": "mong",
+        "ex": "I hope you like it.",
+        "ipaExTrans": "aɪ həʊp juː laɪk ɪt.",
+        "exMeaning": "Tôi hy vọng bạn thích nó."
+    },
+    {
+        "word": "hospitality",
+        "type": "Uncountable Nouns",
+        "ipa": "ˌhɒspɪˈtælɪti",
+        "meaning": "lòng hiếu khách"
+    },
+    {
+        "word": "homework",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈhəʊmˌwɜːk",
+        "meaning": "bài tập về nhà",
+        "ex": "Yes. You helped me with my homework a lot.",
+        "ipaExTrans": "jɛs. juː hɛlpt miː wɪð maɪ ˈhəʊmˌwɜːk ə lɒt.",
+        "exMeaning": "Đúng. Bạn đã giúp tôi làm bài tập về nhà rất nhiều."
+    },
+    {
+        "word": "heat",
+        "type": "Uncountable Nouns",
+        "ipa": "hiːt",
+        "meaning": "nhiệt",
+        "ex": "The evening heat was stifling.",
+        "ipaExTrans": "ði ˈiːvnɪŋ hiːt wɒz ˈstaɪflɪŋ.",
+        "exMeaning": "Cái nóng buổi tối ngột ngạt."
+    },
+    {
+        "word": "hatred",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈheɪtrɪd",
+        "meaning": "sự thù ghét"
+    },
+    {
+        "word": "hunger",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈhʌŋgə",
+        "meaning": "nạn đói",
+        "ex": "He grew weak from hunger and thirst.",
+        "ipaExTrans": "hiː gruː wiːk frɒm ˈhʌŋgər ænd θɜːst.",
+        "exMeaning": "Anh trở nên yếu đuối vì đói và khát."
+    },
+    {
+        "word": "honey",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈhʌni",
+        "meaning": "mật ong",
+        "ex": "She tasted like honey, and he reveled in the warmth of her body, her hot mouth.",
+        "ipaExTrans": "ʃiː ˈteɪstɪd laɪk ˈhʌni, ænd hiː ˈrɛvld ɪn ðə wɔːmθ ɒv hɜː ˈbɒdi, hɜː hɒt maʊθ.",
+        "exMeaning": "Cô nếm như mật ong, và anh say sưa trong sự ấm áp của cơ thể cô, cái miệng nóng bỏng của cô."
+    },
+    {
+        "word": "humour",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈhjuːmə",
+        "meaning": "hài hước",
+        "ex": "It was only equalled in its ill humour by his attacks on Bavaria in 1870.",
+        "ipaExTrans": "ɪt wɒz ˈəʊnli ˈiːkwəld ɪn ɪts ɪl ˈhjuːmə baɪ hɪz əˈtæks ɒn bəˈveərɪə ɪn 1870.",
+        "exMeaning": "Nó chỉ được cân bằng trong sự hài hước tồi tệ của nó bằng các cuộc tấn công vào Bavaria năm 1870."
+    },
+    {
+        "word": "honesty",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈɒnɪsti",
+        "meaning": "trung thực",
+        "ex": "Carmen was all about honesty and innocence.",
+        "ipaExTrans": "ˈkɑːmən wɒz ɔːl əˈbaʊt ˈɒnɪsti ænd ˈɪnəsəns.",
+        "exMeaning": "Carmen là tất cả về sự trung thực và ngây thơ."
+    },
+    {
+        "word": "height",
+        "type": "Uncountable Nouns",
+        "ipa": "haɪt",
+        "meaning": "Chiều cao",
+        "ex": "The mountain ridges vary in height up to 4000 ft.",
+        "ipaExTrans": "ðə ˈmaʊntɪn ˈrɪʤɪz ˈveəri ɪn haɪt ʌp tuː 4000 ft.",
+        "exMeaning": "Các rặng núi có chiều cao khác nhau lên tới 4000 ft."
+    },
+    {
+        "word": "housework",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈhaʊswɜːk",
+        "meaning": "công việc nhà",
+        "ex": "Housework was a pleasant pastime.",
+        "ipaExTrans": "ˈhaʊswɜːk wɒz ə ˈplɛznt ˈpɑːstaɪm.",
+        "exMeaning": "Việc nhà là một trò tiêu khiển dễ chịu."
+    },
+    {
+        "word": "history",
+        "type": "Uncountable Nouns",
+        "ipa": "ˈhɪstəri",
+        "meaning": "lịch sử",
+        "ex": "Is there some history I should know about?",
+        "ipaExTrans": "ɪz ðeə sʌm ˈhɪstəri aɪ ʃʊd nəʊ əˈbaʊt?",
+        "exMeaning": "Có một số lịch sử tôi nên biết về?"
+    }
+]

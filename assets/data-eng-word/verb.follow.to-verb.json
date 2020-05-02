@@ -1,0 +1,484 @@
+[
+    {
+        "word": "afford",
+        "type": "động từ",
+        "ipa": "əˈfɔːd",
+        "meaning": "có thể chi trả",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "She can’t afford to be rude to her employer in case she gets fired.",
+        "ipaExTrans": "ʃiː kɑːnt əˈfɔːd tuː biː ruːd tuː hɜːr ɪmˈplɔɪər ɪn keɪs ʃiː gɛts ˈfaɪəd.",
+        "exMeaning": "Cô ấy có thể đủ khả năng để thô lỗ với chủ nhân của mình trong trường hợp cô ấy bị sa thải."
+    },
+    {
+        "word": "agree",
+        "type": "động từ",
+        "ipa": "əˈgriː",
+        "meaning": "đồng ý",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "I agreed with them that we should try again",
+        "ipaExTrans": "aɪ əˈgriːd wɪð ðɛm ðæt wiː ʃʊd traɪ əˈgɛn",
+        "exMeaning": "Tôi đồng ý với họ rằng chúng ta nên thử lại"
+    },
+    {
+        "word": "appear",
+        "type": "động từ",
+        "ipa": "əˈpɪə",
+        "meaning": "có vẻ",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "It appears that he is wrong",
+        "ipaExTrans": "ɪt əˈpɪəz ðæt hiː ɪz rɒŋ",
+        "exMeaning": "Có vẻ như anh ấy đã sai"
+    },
+    {
+        "word": "arrange",
+        "type": "động từ",
+        "ipa": "əˈreɪnʤ",
+        "meaning": "sắp xếp",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "Colin arranged the books in alphabetical order",
+        "ipaExTrans": "Colin əˈreɪnʤd ðə bʊks ɪn ˌælfəˈbɛtɪkəl ˈɔːdə",
+        "exMeaning": "Colin sắp xếp các cuốn sách theo thứ tự bảng chữ cái"
+    },
+    {
+        "word": "ask",
+        "type": "động từ",
+        "ipa": "ɑːsk",
+        "meaning": "yêu cầu",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "He asked me what the time was",
+        "ipaExTrans": "hiː ɑːskt miː wɒt ðə taɪm wɒz",
+        "exMeaning": "Anh ấy hỏi tôi mấy giờ rồi"
+    },
+    {
+        "word": "attempt",
+        "type": "động từ",
+        "ipa": "əˈtɛmpt",
+        "meaning": "cố gắng, thử",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "They failed in their attempt to climb Everest",
+        "ipaExTrans": "ðeɪ feɪld ɪn ðeər əˈtɛmpt tuː klaɪm ˈɛvərɪst",
+        "exMeaning": "Họ đã thất bại trong nỗ lực leo lên đỉnh núi"
+    },
+    {
+        "word": "beg",
+        "type": "động từ",
+        "ipa": "bɛg",
+        "meaning": "van xin, ăn xin",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "I beg you not to do it.",
+        "ipaExTrans": "aɪ bɛg juː nɒt tuː duː ɪt.",
+        "exMeaning": "Tôi xin bạn đừng làm điều đó."
+    },
+    {
+        "word": "can’t wait",
+        "type": "động từ",
+        "ipa": "kɑːnt weɪt",
+        "meaning": "nóng lòng được làm gì",
+        "tag": "Theo sau là một To + Verb"
+    },
+    {
+        "word": "care",
+        "type": "động từ",
+        "ipa": "keə",
+        "meaning": "quan tâm",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "Would you care to have dinner with me?",
+        "ipaExTrans": "wʊd juː keə tuː hæv ˈdɪnə wɪð miː?",
+        "exMeaning": "Bạn có quan tâm để ăn tối với tôi?"
+    },
+    {
+        "word": "choose",
+        "type": "động từ",
+        "ipa": "ʧuːz",
+        "meaning": "lựa chọn",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "If he chooses to resign, let him do so.",
+        "ipaExTrans": "ɪf hiː ˈʧuːzɪz tuː rɪˈzaɪn, lɛt hɪm duː səʊ.",
+        "exMeaning": "Nếu anh ấy chọn từ chức, hãy để anh ấy làm như vậy."
+    },
+    {
+        "word": "claim",
+        "type": "động từ",
+        "ipa": "kleɪm",
+        "meaning": "đòi hỏi",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "You can claim your money back if the goods are damaged.",
+        "ipaExTrans": "juː kæn kleɪm jɔː ˈmʌni bæk ɪf ðə gʊdz ɑː ˈdæmɪʤd.",
+        "exMeaning": "Bạn có thể đòi lại tiền nếu hàng hóa bị hư hại."
+    },
+    {
+        "word": "decide",
+        "type": "động từ",
+        "ipa": "dɪˈsaɪd",
+        "meaning": "quyết định",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "What decided you against going?",
+        "ipaExTrans": "wɒt dɪˈsaɪdɪd juː əˈgɛnst ˈgəʊɪŋ?",
+        "exMeaning": "Điều gì quyết định bạn chống lại đi?"
+    },
+    {
+        "word": "demand",
+        "type": "động từ",
+        "ipa": "dɪˈmɑːnd",
+        "meaning": "yêu cầu",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "The proposal demands careful thought.",
+        "ipaExTrans": "ðə prəˈpəʊzəl dɪˈmɑːndz ˈkeəfʊl θɔːt.",
+        "exMeaning": "Đề nghị đòi hỏi suy nghĩ cẩn thận."
+    },
+    {
+        "word": "deserve",
+        "type": "động từ",
+        "ipa": "dɪˈzɜːv",
+        "meaning": "xứng đáng",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "He deserves recognition of his achievements.",
+        "ipaExTrans": "hiː dɪˈzɜːvz ˌrɛkəgˈnɪʃən ɒv hɪz əˈʧiːvmənts.",
+        "exMeaning": "Anh ấy xứng đáng được công nhận thành tích của mình."
+    },
+    {
+        "word": "determine",
+        "type": "động từ",
+        "ipa": "dɪˈtɜːmɪn",
+        "meaning": "xác định",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "He tried to determine what had gone wrong.",
+        "ipaExTrans": "hiː traɪd tuː dɪˈtɜːmɪn wɒt hæd gɒn rɒŋ.",
+        "exMeaning": "Anh cố gắng xác định những gì đã đi sai."
+    },
+    {
+        "word": "expect",
+        "type": "động từ",
+        "ipa": "ɪksˈpɛkt",
+        "meaning": "kỳ vọng, mong đợi",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "They expect high wages for their extremely skilled work",
+        "ipaExTrans": "ðeɪ ɪksˈpɛkt haɪ ˈweɪʤɪz fɔː ðeər ɪksˈtriːmli skɪld wɜːk",
+        "exMeaning": "Họ mong đợi mức lương cao cho công việc cực kỳ lành nghề của họ"
+    },
+    {
+        "word": "fail",
+        "type": "động từ",
+        "ipa": "feɪl",
+        "meaning": "thất bại",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "They failed in their attempt",
+        "ipaExTrans": "ðeɪ feɪld ɪn ðeər əˈtɛmpt",
+        "exMeaning": "Họ đã thất bại trong nỗ lực của họ"
+    },
+    {
+        "word": "get",
+        "type": "động từ",
+        "ipa": "gɛt",
+        "meaning": "có cơ hội được làm gì đó",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "I got the book down from the shelf.",
+        "ipaExTrans": "aɪ gɒt ðə bʊk daʊn frɒm ðə ʃɛlf.",
+        "exMeaning": "Tôi nhận được cuốn sách từ kệ."
+    },
+    {
+        "word": "guarantee",
+        "type": "động từ",
+        "ipa": "ˌgærənˈtiː",
+        "meaning": "đảm bảo",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "I can’t guarantee that what he told me is correct.",
+        "ipaExTrans": "aɪ kɑːnt ˌgærənˈtiː ðæt wɒt hiː təʊld miː ɪz kəˈrɛkt.",
+        "exMeaning": "Tôi có thể bảo đảm rằng những gì anh ấy nói với tôi là chính xác."
+    },
+    {
+        "word": "hesitate",
+        "type": "động từ",
+        "ipa": "ˈhɛzɪteɪt",
+        "meaning": "chần chừ",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "I hesitate to say he lied but he certainly misled me",
+        "ipaExTrans": "aɪ ˈhɛzɪteɪt tuː seɪ hiː laɪd bʌt hiː ˈsɜːtnli mɪsˈlɛd miː",
+        "exMeaning": "Tôi ngần ngại nói anh nói dối nhưng chắc chắn anh đã lừa dối tôi"
+    },
+    {
+        "word": "hope",
+        "type": "động từ",
+        "ipa": "həʊp",
+        "meaning": "hy vọng",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "It’s unlikely that he’ll come now, but we keep on hoping",
+        "ipaExTrans": "ɪts ʌnˈlaɪkli ðæt hiːl kʌm naʊ, bʌt wiː kiːp ɒn ˈhəʊpɪŋ",
+        "exMeaning": "Nó không chắc là anh ấy sẽ đến bây giờ, nhưng chúng tôi tiếp tục hy vọng"
+    },
+    {
+        "word": "hurry",
+        "type": "động từ",
+        "ipa": "ˈhʌri",
+        "meaning": "vội vàng",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "You’d better hurry if you want to catch that bus",
+        "ipaExTrans": "juːd ˈbɛtə ˈhʌri ɪf juː wɒnt tuː kæʧ ðæt bʌs",
+        "exMeaning": "Bạn nên nhanh lên nếu bạn muốn bắt xe buýt đó"
+    },
+    {
+        "word": "learn",
+        "type": "động từ",
+        "ipa": "lɜːn",
+        "meaning": "học",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "She is learning (how) to swim.",
+        "ipaExTrans": "ʃiː ɪz ˈlɜːnɪŋ (haʊ) tuː swɪm.",
+        "exMeaning": "Cô ấy đang học (làm thế nào) để bơi."
+    },
+    {
+        "word": "manage",
+        "type": "động từ",
+        "ipa": "ˈmænɪʤ",
+        "meaning": "xoay sở được",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "She’s good at managing people.",
+        "ipaExTrans": "ʃiːz gʊd æt ˈmænɪʤɪŋ ˈpiːpl.",
+        "exMeaning": "Cô ấy giỏi quản lý con người."
+    },
+    {
+        "word": "neglect",
+        "type": "động từ",
+        "ipa": "nɪˈglɛkt",
+        "meaning": "bỏ bê",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "He neglected to answer the letter.",
+        "ipaExTrans": "hiː nɪˈglɛktɪd tuː ˈɑːnsə ðə ˈlɛtə.",
+        "exMeaning": "Anh lơ là trả lời thư."
+    },
+    {
+        "word": "offer",
+        "type": "động từ",
+        "ipa": "ˈɒfə",
+        "meaning": "mời chào",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "She offered the man a cup of tea",
+        "ipaExTrans": "ʃiː ˈɒfəd ðə mæn ə kʌp ɒv tiː",
+        "exMeaning": "Cô mời người đàn ông một tách trà"
+    },
+    {
+        "word": "pay",
+        "type": "động từ",
+        "ipa": "peɪ",
+        "meaning": "trả tiền",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "It’s time you paid your debts.",
+        "ipaExTrans": "ɪts taɪm juː peɪd jɔː dɛts.",
+        "exMeaning": "Đó là thời gian bạn trả nợ."
+    },
+    {
+        "word": "plan",
+        "type": "động từ",
+        "ipa": "plæn",
+        "meaning": "lên kế hoạch",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "I have worked out a plan for making a lot of money.",
+        "ipaExTrans": "aɪ hæv wɜːkt aʊt ə plæn fɔː ˈmeɪkɪŋ ə lɒt ɒv ˈmʌni.",
+        "exMeaning": "Tôi đã vạch ra một kế hoạch để kiếm được nhiều tiền."
+    },
+    {
+        "word": "prepare",
+        "type": "động từ",
+        "ipa": "prɪˈpeə",
+        "meaning": "chuẩn bị",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "Prepare yourself for a shock.",
+        "ipaExTrans": "prɪˈpeə jɔːˈsɛlf fɔːr ə ʃɒk.",
+        "exMeaning": "Chuẩn bị cho mình một cú sốc."
+    },
+    {
+        "word": "pretend",
+        "type": "động từ",
+        "ipa": "prɪˈtɛnd",
+        "meaning": "giả vờ",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "Let’s pretend that this room is a cave!",
+        "ipaExTrans": "lɛts prɪˈtɛnd ðæt ðɪs ruːm ɪz ə keɪv!",
+        "exMeaning": "Hãy giả vờ rằng căn phòng này là một cái hang!"
+    },
+    {
+        "word": "promise",
+        "type": "động từ",
+        "ipa": "ˈprɒmɪs",
+        "meaning": "hứa",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "This situation promises well for the future.",
+        "ipaExTrans": "ðɪs ˌsɪtjʊˈeɪʃən ˈprɒmɪsɪz wɛl fɔː ðə ˈfjuːʧə.",
+        "exMeaning": "Tình hình này hứa hẹn tốt cho tương lai."
+    },
+    {
+        "word": "prove",
+        "type": "động từ",
+        "ipa": "pruːv",
+        "meaning": "chứng minh",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "Can you prove your theory?",
+        "ipaExTrans": "kæn juː pruːv jɔː ˈθɪəri?",
+        "exMeaning": "Bạn có thể chứng minh lý thuyết của bạn?"
+    },
+    {
+        "word": "refuse",
+        "type": "động từ",
+        "ipa": "ˌriːˈfjuːz",
+        "meaning": "từ chối",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "She refused to believe what I said",
+        "ipaExTrans": "ʃiː ˌriːˈfjuːzd tuː bɪˈliːv wɒt aɪ sɛd",
+        "exMeaning": "Cô ấy từ chối tin những gì tôi nói"
+    },
+    {
+        "word": "request",
+        "type": "động từ",
+        "ipa": "rɪˈkwɛst",
+        "meaning": "yêu cầu",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "After frequent requests, he eventually agreed to sing.",
+        "ipaExTrans": "ˈɑːftə ˈfriːkwənt rɪˈkwɛsts, hiː ɪˈvɛnʧəli əˈgriːd tuː sɪŋ.",
+        "exMeaning": "Sau những yêu cầu thường xuyên, cuối cùng anh cũng đồng ý hát."
+    },
+    {
+        "word": "seem",
+        "type": "động từ",
+        "ipa": "siːm",
+        "meaning": "có vẻ",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "He seemed to hesitate for a minute.",
+        "ipaExTrans": "hiː siːmd tuː ˈhɛzɪteɪt fɔːr ə ˈmɪnɪt.",
+        "exMeaning": "Anh có vẻ do dự một phút."
+    },
+    {
+        "word": "tend",
+        "type": "động từ",
+        "ipa": "tɛnd",
+        "meaning": "có xu hướng",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "A shepherd tends his sheep.",
+        "ipaExTrans": "ə ˈʃɛpəd tɛndz hɪz ʃiːp.",
+        "exMeaning": "Một người chăn cừu chăm sóc con chiên của mình."
+    },
+    {
+        "word": "threaten",
+        "type": "động từ",
+        "ipa": "ˈθrɛtn",
+        "meaning": "đe dọa",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "He threatened me with violence / with a gun",
+        "ipaExTrans": "hiː ˈθrɛtnd miː wɪð ˈvaɪələns / wɪð ə gʌn",
+        "exMeaning": "Anh ta đe dọa tôi bằng bạo lực / bằng súng"
+    },
+    {
+        "word": "volunteer",
+        "type": "động từ",
+        "ipa": "ˌvɒlənˈtɪə",
+        "meaning": "xung phong, tình nguyện",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "Two or three people volunteered suggestions.",
+        "ipaExTrans": "tuː ɔː θriː ˈpiːpl ˌvɒlənˈtɪəd səˈʤɛsʧənz.",
+        "exMeaning": "Hai hoặc ba người tình nguyện đề nghị."
+    },
+    {
+        "word": "wait",
+        "type": "động từ",
+        "ipa": "weɪt",
+        "meaning": "chờ đợi",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "I was just waiting for that pile of dishes to fall!",
+        "ipaExTrans": "aɪ wɒz ʤʌst ˈweɪtɪŋ fɔː ðæt paɪl ɒv ˈdɪʃɪz tuː fɔːl!",
+        "exMeaning": "Tôi chỉ chờ đợi đống bát đĩa đó rơi xuống!"
+    },
+    {
+        "word": "want",
+        "type": "động từ",
+        "ipa": "wɒnt",
+        "meaning": "muốn",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "She wants to know where he is",
+        "ipaExTrans": "ʃiː wɒnts tuː nəʊ weə hiː ɪz",
+        "exMeaning": "Cô muốn biết anh đang ở đâu"
+    },
+    {
+        "word": "wish",
+        "type": "động từ",
+        "ipa": "wɪʃ",
+        "meaning": "mong muốn, ước muốn",
+        "tag": "Theo sau là một To + Verb",
+        "ex": "We wish to book some seats for the theatre",
+        "ipaExTrans": "wiː wɪʃ tuː bʊk sʌm siːts fɔː ðə ˈθɪətə",
+        "exMeaning": "Chúng tôi muốn đặt một số chỗ ngồi cho nhà hát"
+    },
+    {
+        "word": "begin",
+        "type": "động từ",
+        "ipa": "bɪˈgɪn",
+        "meaning": "bắt đầu",
+        "tag": "Đi với cả To + Verb và V-ing mà KHÔNG KHÁC BIỆT về nghĩa",
+        "ex": "The meeting began early.",
+        "ipaExTrans": "ðə ˈmiːtɪŋ bɪˈgæn ˈɜːli.",
+        "exMeaning": "Cuộc họp bắt đầu sớm."
+    },
+    {
+        "word": "can’t bear",
+        "type": "động từ",
+        "ipa": "kɑːnt beə",
+        "meaning": "không thể chịu đựng",
+        "tag": "Đi với cả To + Verb và V-ing mà KHÔNG KHÁC BIỆT về nghĩa"
+    },
+    {
+        "word": "can’t stand",
+        "type": "động từ",
+        "ipa": "kɑːnt stænd",
+        "meaning": "không thể chịu đựng",
+        "tag": "Đi với cả To + Verb và V-ing mà KHÔNG KHÁC BIỆT về nghĩa"
+    },
+    {
+        "word": "continue",
+        "type": "động từ",
+        "ipa": "kənˈtɪnju(ː)",
+        "meaning": "tiếp tục",
+        "tag": "Đi với cả To + Verb và V-ing mà KHÔNG KHÁC BIỆT về nghĩa",
+        "ex": "The noise continued for several hours",
+        "ipaExTrans": "ðə nɔɪz kənˈtɪnju(ː)d fɔː ˈsɛvrəl ˈaʊəz",
+        "exMeaning": "Tiếng ồn tiếp tục trong vài giờ"
+    },
+    {
+        "word": "hate",
+        "type": "động từ",
+        "ipa": "heɪt",
+        "meaning": "ghét",
+        "tag": "Đi với cả To + Verb và V-ing mà KHÔNG KHÁC BIỆT về nghĩa",
+        "ex": "I hate them for their cruelty to my father",
+        "ipaExTrans": "aɪ heɪt ðɛm fɔː ðeə ˈkru(ː)əlti tuː maɪ ˈfɑːðə",
+        "exMeaning": "Tôi ghét họ vì sự tàn nhẫn của họ đối với cha tôi"
+    },
+    {
+        "word": "like",
+        "type": "động từ",
+        "ipa": "laɪk",
+        "meaning": "thích",
+        "tag": "Đi với cả To + Verb và V-ing mà KHÔNG KHÁC BIỆT về nghĩa"
+    },
+    {
+        "word": "love",
+        "type": "động từ",
+        "ipa": "lʌv",
+        "meaning": "yêu thích",
+        "tag": "Đi với cả To + Verb và V-ing mà KHÔNG KHÁC BIỆT về nghĩa"
+    },
+    {
+        "word": "prefer",
+        "type": "động từ",
+        "ipa": "priˈfɜː",
+        "meaning": "thích hơn",
+        "tag": "Đi với cả To + Verb và V-ing mà KHÔNG KHÁC BIỆT về nghĩa",
+        "ex": "She would prefer to come with you rather than stay here.",
+        "ipaExTrans": "ʃiː wʊd priˈfɜː tuː kʌm wɪð juː ˈrɑːðə ðæn steɪ hɪə.",
+        "exMeaning": "Cô ấy thích đi với bạn hơn là ở đây."
+    },
+    {
+        "word": "start",
+        "type": "động từ",
+        "ipa": "stɑːt",
+        "meaning": "bắt đầu",
+        "tag": "Đi với cả To + Verb và V-ing mà KHÔNG KHÁC BIỆT về nghĩa"
+    }
+]

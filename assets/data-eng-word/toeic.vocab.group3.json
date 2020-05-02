@@ -1,0 +1,209 @@
+[
+    {
+        "word": "schedule",
+        "type": "động từ",
+        "ipa": "ˈʃɛdjuːl",
+        "meaning": "lên lịch",
+        "tag": "schedule (n) : thời gian biểu",
+        "context": "schedule something for something: lên thời gian cho cái gì đó",
+        "ex": "We didn't schedule enough time for all the exhibits.",
+        "ipaExTrans": "wiː dɪdnt ˈʃɛdjuːl ɪˈnʌf taɪm fɔːr ɔːl ði ɪgˈzɪbɪts.",
+        "exMeaning": "Chúng tôi đã không lên lịch đủ thời gian cho tất cả các cuộc triễn lãm."
+    },
+    {
+        "word": "work",
+        "type": "động từ",
+        "ipa": "wɜːk",
+        "meaning": "làm việc",
+        "tag": "work on something: làm việc gì đó",
+        "context": "working (adj) : (Nghĩa 1) lao động (Nghĩa 3) liên quan đến việc làm hay thời gian làm việc worker (n) : người lao động, công nhân, nhân viên work (n) : (Nghĩa 1) nghề nghiệp (Nghĩa 2) làm việc (Nghĩa 3) nhiệm vụ, công việc cần được làm (Nghĩa 6) công sức (thể chất hoặc tinh thần) để tạo ra gì đó (Nghĩa 7) tác phẩm (Nghĩa 9) tác phẩm (văn học, âm nhạc, hội họa...)",
+        "ex": "Dad's outside, working on the bike.",
+        "ipaExTrans": "dædz ˌaʊtˈsaɪd, ˈwɜːkɪŋ ɒn ðə baɪk.",
+        "exMeaning": "Bố ở ngoài, sửa chiếc xe đạp."
+    },
+    {
+        "word": "provide",
+        "type": "động từ",
+        "ipa": "prəˈvaɪd",
+        "meaning": "cung cấp",
+        "tag": "provision (n) : điều khoản; sự cung cấp, dự phòng, dự trữ provider (n) : nhà cung cấp",
+        "context": "provide something to somebody: cung cấp cái gì cho ai; provide something for somebody: cung cấp cái gì đó cho ai đó; provide somebody with something: cung cấp cho ai cái gì",
+        "ex": "Contact the school secretary who will provide you with the necessary forms.",
+        "ipaExTrans": "ˈkɒntækt ðə skuːl ˈsɛkrətri huː wɪl prəˈvaɪd juː wɪð ðə ˈnɛsɪsəri fɔːmz.",
+        "exMeaning": "Liên hệ thư ký trường, người mà sẽ cung cấp cho bạn các mẫu đơn cần thiết."
+    },
+    {
+        "word": "interview",
+        "type": "động từ",
+        "ipa": "ˈɪntəvjuː",
+        "meaning": "phỏng vấn",
+        "tag": "interview (n) : cuộc phỏng vấn interviewee (n) : người được phỏng vấn interviewer (n) : người phỏng vấn",
+        "context": "interview somebody for a job, etc.: phỏng vấn ai đó cho một công việc, vân vân",
+        "ex": "We interviewed ten people for the job.",
+        "ipaExTrans": "wiː ˈɪntəvjuːd tɛn ˈpiːpl fɔː ðə ʤɒb.",
+        "exMeaning": "Chúng tôi đã phỏng vấn 10 người cho công việc này."
+    },
+    {
+        "word": "order",
+        "type": "động từ",
+        "ipa": "ˈɔːdə",
+        "meaning": "ra lệnh",
+        "tag": "order (n) : (Nghĩa 1) trật tự, thứ tự (Nghĩa 5) đơn đặt hàng orderly (n) : hộ lý (bệnh viện)",
+        "ex": "The mother ordered the child to get dressed.",
+        "ipaExTrans": "ðə ˈmʌðər ˈɔːdəd ðə ʧaɪld tuː gɛt drɛst.",
+        "exMeaning": "Người mẹ đã ra lệnh cho đứa con mặc đồ vào."
+    },
+    {
+        "word": "problem",
+        "type": "danh từ",
+        "ipa": "ˈprɒbləm",
+        "meaning": "vấn đề (khó giải quyết hoặc khó hiểu)",
+        "ex": "I have some big problems and don't know how to solve them.",
+        "ipaExTrans": "aɪ hæv sʌm bɪg ˈprɒbləmz ænd dəʊnt nəʊ haʊ tuː sɒlv ðɛm.",
+        "exMeaning": "Tôi có vài vấn đề nghiêm trọng và tôi không biết cách xử lý chúng."
+    },
+    {
+        "word": "office",
+        "type": "danh từ",
+        "ipa": "ˈɒfɪs",
+        "meaning": "văn phòng",
+        "ex": "She loves to work in an office.",
+        "ipaExTrans": "ʃiː lʌvz tuː wɜːk ɪn ən ˈɒfɪs.",
+        "exMeaning": "Cô ta thích làm trong văn phòng."
+    },
+    {
+        "word": "cost",
+        "type": "động từ",
+        "ipa": "kɒst",
+        "meaning": "(có thể mua được với) giá, tốn",
+        "tag": "costly (adj) : tốn kém, giá đắt, cao giá cost (n) : (Nghĩa 1) giá, chi phí (Nghĩa 2) chi phí, phí tổn (Nghĩa 3) giá (công sức, tổn thất, thiệt hại để đạt được gì đó)",
+        "ex": "It costs a lot to buy a house in this part of the city.",
+        "ipaExTrans": "ɪt kɒsts ə lɒt tuː baɪ ə haʊs ɪn ðɪs pɑːt ɒv ðə ˈsɪti.",
+        "exMeaning": "Phải tốn nhiều tiền để mua một căn nhà ở khu này trong thành phố."
+    },
+    {
+        "word": "change",
+        "type": "động từ",
+        "ipa": "ʧeɪnʤ",
+        "meaning": "thay đổi",
+        "tag": "change (n) : tiền thừa hoàn lại (cho khách hàng) changeable (adj) : dễ/hay thay đổi",
+        "ex": "Could you help me change the oil?",
+        "ipaExTrans": "kʊd juː hɛlp miː ʧeɪnʤ ði ɔɪl?",
+        "exMeaning": "Bạn có thể giúp tôi thay dầu?"
+    },
+    {
+        "word": "write",
+        "type": "động từ",
+        "ipa": "raɪt",
+        "meaning": "viết",
+        "tag": "written (adj) : được viết thành văn bản writing (n) : sự viết writer (n) : nhà văn",
+        "ex": "Some of my friends didn't start learning to read and write until they were six.",
+        "ipaExTrans": "sʌm ɒv maɪ frɛndz dɪdnt stɑːt ˈlɜːnɪŋ tuː riːd ænd raɪt ənˈtɪl ðeɪ wɜː sɪks.",
+        "exMeaning": "Một số người bạn của tôi đến khi sáu tuổi mới bắt đầu học đọc và viết."
+    },
+    {
+        "word": "discuss",
+        "type": "động từ",
+        "ipa": "dɪsˈkʌs",
+        "meaning": "thảo luận, tranh luận (một vấn đề gì)",
+        "tag": "discussion (n) : cuộc thảo luận",
+        "context": "discuss something with somebody: thảo luận về cái gì đó với ai đó",
+        "ex": "Have you discussed the problem with your parents?",
+        "ipaExTrans": "hæv juː dɪsˈkʌst ðə ˈprɒbləm wɪð jɔː ˈpeərənts?",
+        "exMeaning": "Bạn đã thảo luận vấn đề này với bố mẹ mình chưa?"
+    },
+    {
+        "word": "client",
+        "type": "danh từ",
+        "ipa": "ˈklaɪənt",
+        "meaning": "khách hàng",
+        "tag": "clientele (n) : nhóm khách hàng",
+        "ex": "Companies do their best not to disappoint their clients.",
+        "ipaExTrans": "ˈkʌmpəniz duː ðeə bɛst nɒt tuː ˌdɪsəˈpɔɪnt ðeə ˈklaɪənts.",
+        "exMeaning": "Các công ty cố hết sức mình để không phụ lòng khách hàng."
+    },
+    {
+        "word": "way",
+        "type": "danh từ",
+        "ipa": "weɪ",
+        "meaning": "cách thức/phong cách làm gì",
+        "ex": "Is there a quicker way to get to his place?",
+        "ipaExTrans": "ɪz ðeər ə ˈkwɪkə weɪ tuː gɛt tuː hɪz pleɪs?",
+        "exMeaning": "Có cách nào đến chỗ anh ta nhanh hơn không?"
+    },
+    {
+        "word": "product",
+        "type": "danh từ",
+        "ipa": "ˈprɒdʌkt",
+        "meaning": "sản phẩm",
+        "tag": "production (n) : (Nghĩa 1) (sự) sản xuất (Nghĩa 4) tác phẩm điện ảnh/vở kịch được công chiếu; việc sản xuất phim/kịch unproductive (adj) : kém năng suất; không đủ tiêu chí",
+        "ex": "Always try to improve the quality of your products.",
+        "ipaExTrans": "ˈɔːlweɪz traɪ tuː ɪmˈpruːv ðə ˈkwɒlɪti ɒv jɔː ˈprɒdʌkts.",
+        "exMeaning": "Hãy luôn cố gắng cải thiện chất lượng sản phẩm."
+    },
+    {
+        "word": "increase",
+        "type": "động từ",
+        "ipa": "ˈɪnkriːs",
+        "meaning": "gia tăng",
+        "tag": "increasingly (adv) : ngày càng increase (n) : sự gia tăng",
+        "context": "increase by something: tăng bao nhiêu; increase something (by something): tăng cái gì đó (bao nhiêu); increase with something: tăng theo cái gì đó; increase (from A) (to B): tăng (từ A) (lên B)",
+        "ex": "Blood pressure increases with age.",
+        "ipaExTrans": "blʌd ˈprɛʃər ˈɪnkriːsɪz wɪð eɪʤ.",
+        "exMeaning": "Huyết áp tăng theo tuổi."
+    },
+    {
+        "word": "form",
+        "type": "động từ",
+        "ipa": "fɔːm",
+        "meaning": "bắt đầu hình thành; tạo thành",
+        "tag": "form (n) : (Nghĩa 1) dạng, loại (Nghĩa 2) hình thức, hình thái, dạng (Nghĩa 3) mẫu (đơn...)"
+    },
+    {
+        "word": "year",
+        "type": "danh từ",
+        "ipa": "jɪə",
+        "meaning": "năm",
+        "ex": "Every four years, people go to vote.",
+        "ipaExTrans": "ˈɛvri fɔː jɪəz, ˈpiːpl gəʊ tuː vəʊt.",
+        "exMeaning": "Mỗi bốn năm, người ta đi bầu."
+    },
+    {
+        "word": "card",
+        "type": "danh từ",
+        "ipa": "kɑːd",
+        "meaning": "giấy cứng",
+        "ex": "Credit card holders struggle very hard to reduce the amount they owe.",
+        "ipaExTrans": "ˈkrɛdɪt kɑːd ˈhəʊldəz ˈstrʌgl ˈvɛri hɑːd tuː rɪˈdjuːs ði əˈmaʊnt ðeɪ əʊ.",
+        "exMeaning": "Chủ thẻ tín dụng phải rất cố gắng để giảm số tiền họ nợ."
+    },
+    {
+        "word": "equipment",
+        "type": "danh từ",
+        "ipa": "ɪˈkwɪpmənt",
+        "meaning": "trang thiết bị",
+        "tag": "equip (v) : (Nghĩa 1) trang bị (Nghĩa 2) trang bị (cho ai...cái gì)",
+        "ex": "We need a suitable piece of equipment for this project.",
+        "ipaExTrans": "wiː niːd ə ˈsjuːtəbl piːs ɒv ɪˈkwɪpmənt fɔː ðɪs ˈprɒʤɛkt.",
+        "exMeaning": "Chúng ta cần một thiết bị phù hợp cho dự án này."
+    },
+    {
+        "word": "price",
+        "type": "danh từ",
+        "ipa": "praɪs",
+        "meaning": "giá",
+        "tag": "price (v) : định giá, đặt giá priceless (adj) : cực kỳ có giá trị hoặc quan trọng",
+        "ex": "What is the price of this computer?",
+        "ipaExTrans": "wɒt ɪz ðə praɪs ɒv ðɪs kəmˈpjuːtə?",
+        "exMeaning": "Giá của cái máy vi tính này là bao nhiêu?"
+    },
+    {
+        "word": "food",
+        "type": "danh từ",
+        "ipa": "fuːd",
+        "meaning": "thực phẩm, thức ăn",
+        "ex": "We buy food at a supermarket.",
+        "ipaExTrans": "wiː baɪ fuːd æt ə ˈsjuːpəˌmɑːkɪt.",
+        "exMeaning": "Chúng tôi mua thức ăn trong một siêu thị."
+    }
+]

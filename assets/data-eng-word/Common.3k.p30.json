@@ -1,0 +1,859 @@
+[
+    {
+        "word": "treat",
+        "type": "v",
+        "ipa": "tri:t",
+        "meaning": "đối xử, đối đãi, cư xử",
+        "ex": "Don't treat me that way, Alex.",
+        "ipaExTrans": "dəʊnt triːt miː ðæt weɪ, ˈæləks.",
+        "exMeaning": "Đừng đối xử với tôi như vậy, Alex."
+    },
+    {
+        "word": "treatment",
+        "type": "n",
+        "ipa": "tri:tmənt",
+        "meaning": "sự đối xử, >sự cư xử",
+        "ex": "I need a diagnosis, and I need a treatment plan to combat this illness.",
+        "ipaExTrans": "aɪ niːd ə ˌdaɪəgˈnəʊsɪs, ænd aɪ niːd ə ˈtriːtmənt plæn tuː ˈkɒmbæt ðɪs ˈɪlnɪs.",
+        "exMeaning": "Tôi cần chẩn đoán, và tôi cần một kế hoạch điều trị để chống lại căn bệnh này."
+    },
+    {
+        "word": "tree",
+        "type": "n",
+        "ipa": "tri:",
+        "meaning": "cây",
+        "ex": "The Christmas tree could only be seen from the back of the house, but that didn't matter.",
+        "ipaExTrans": "ðə ˈkrɪsməs triː kʊd ˈəʊnli biː siːn frɒm ðə bæk ɒv ðə haʊs, bʌt ðæt dɪdnt ˈmætə.",
+        "exMeaning": "Cây Giáng sinh chỉ có thể được nhìn thấy từ phía sau nhà, nhưng điều đó không thành vấn đề."
+    },
+    {
+        "word": "trend",
+        "type": "n",
+        "ipa": "trend",
+        "meaning": "phương hướng, xu hướng, chiều >hướng",
+        "ex": "The isothermal lines trend from south-east to north-west.",
+        "ipaExTrans": "ði ˌaɪsəʊˈθɜːməl laɪnz trɛnd frɒm ˈsaʊθˈiːst tuː nɔːθ-wɛst.",
+        "exMeaning": "Các đường đẳng nhiệt có xu hướng từ đông nam sang tây bắc."
+    },
+    {
+        "word": "trial",
+        "type": "n",
+        "ipa": "traiəl",
+        "meaning": "sự thử nghiệm, cuộc thử nghiệm",
+        "ex": "He was sent for trial and condemned to hard labor, I believe.",
+        "ipaExTrans": "hiː wɒz sɛnt fɔː ˈtraɪəl ænd kənˈdɛmd tuː hɑːd ˈleɪbə, aɪ bɪˈliːv.",
+        "exMeaning": "Anh ấy đã bị đưa ra xét xử và bị kết án lao động khổ sai, tôi tin thế."
+    },
+    {
+        "word": "triangle",
+        "type": "n",
+        "ipa": "́trai ̧æηgl",
+        "meaning": "hình tam giác",
+        "ex": "The district of Bugey occupies the triangle formed by the Rhone in the south-east of the department.",
+        "ipaExTrans": "ðə ˈdɪstrɪkt ɒv Bugey ˈɒkjʊpaɪz ðə ˈtraɪæŋgl fɔːmd baɪ ðə Rhone ɪn ðə ˈsaʊθˈiːst ɒv ðə dɪˈpɑːtmənt.",
+        "exMeaning": "Quận Bugey chiếm tam giác được hình thành bởi Rhone ở phía đông nam của bộ."
+    },
+    {
+        "word": "trick",
+        "type": "n, v",
+        "ipa": "trik",
+        "meaning": "mưu mẹo, thủ đoạn, trò lừa gạt, >lừa gạt",
+        "ex": "It was some sort of trick to get her to slip up.",
+        "ipaExTrans": "ɪt wɒz sʌm sɔːt ɒv trɪk tuː gɛt hɜː tuː slɪp ʌp.",
+        "exMeaning": "Đó là một số mẹo để khiến cô ấy trượt lên."
+    },
+    {
+        "word": "trip",
+        "type": "n,v",
+        "ipa": "trip",
+        "meaning": "cuộc dạo chơi, cuộc du ngoạn; đi >dạo, du ngoạn",
+        "ex": "Outside of this being her first trip in an airplane, the rest of the flight was uneventful.",
+        "ipaExTrans": "ˌaʊtˈsaɪd ɒv ðɪs ˈbiːɪŋ hɜː fɜːst trɪp ɪn ən ˈeəpleɪn, ðə rɛst ɒv ðə flaɪt wɒz ˌʌnɪˈvɛntfʊl.",
+        "exMeaning": "Ngoài chuyến đi đầu tiên của cô trên một chiếc máy bay, phần còn lại của chuyến bay là không có chuyện gì xảy ra."
+    },
+    {
+        "word": "tropical",
+        "type": "adj",
+        "ipa": "́trɔpikəl",
+        "meaning": "nhiệt đới",
+        "ex": "The tropical belt of high pressure persists all the year tion of ture.",
+        "ipaExTrans": "ðə ˈtrɒpɪkəl bɛlt ɒv haɪ ˈprɛʃə pəˈsɪsts ɔːl ðə jɪə tion ɒv ture.",
+        "exMeaning": "Vành đai nhiệt đới của áp suất cao vẫn tồn tại suốt cả năm."
+    },
+    {
+        "word": "trouble",
+        "type": "n",
+        "ipa": "trʌbl",
+        "meaning": "điều lo lắng, điều muộn phiền",
+        "ex": "I had trouble keeping up with him.",
+        "ipaExTrans": "aɪ hæd ˈtrʌbl ˈkiːpɪŋ ʌp wɪð hɪm.",
+        "exMeaning": "Tôi gặp khó khăn trong việc theo kịp anh ta."
+    },
+    {
+        "word": "trousers",
+        "type": "n",
+        "ipa": "́trauzə:z",
+        "meaning": "quần tây",
+        "ex": "He stepped into his new trousers, inhaling deeply before buttoning them.",
+        "ipaExTrans": "hiː stɛpt ˈɪntuː hɪz njuː ˈtraʊzəz, ɪnˈheɪlɪŋ ˈdiːpli bɪˈfɔː ˈbʌtnɪŋ ðɛm.",
+        "exMeaning": "Anh bước vào chiếc quần mới, hít sâu trước khi cài nút."
+    },
+    {
+        "word": "truck",
+        "type": "n",
+        "ipa": "trʌk",
+        "meaning": "sự trao đổi, sự đổi chác",
+        "ex": "The blue truck was nowhere in sight.",
+        "ipaExTrans": "ðə bluː trʌk wɒz ˈnəʊweər ɪn saɪt.",
+        "exMeaning": "Chiếc xe tải màu xanh không ở đâu trong tầm mắt."
+    },
+    {
+        "word": "TRUE",
+        "type": "adj",
+        "ipa": "tru:",
+        "meaning": "đúng, thật",
+        "ex": "A few months ago she didn't know the true meaning of love.",
+        "ipaExTrans": "ə fjuː mʌnθs əˈgəʊ ʃiː dɪdnt nəʊ ðə truː ˈmiːnɪŋ ɒv lʌv.",
+        "exMeaning": "Vài tháng trước cô không biết ý nghĩa thực sự của tình yêu."
+    },
+    {
+        "word": "truly",
+        "type": "adv",
+        "ipa": "tru:li",
+        "meaning": "đúng sự thật, đích thực, thực sự",
+        "ex": "She truly wanted to help him.",
+        "ipaExTrans": "ʃiː ˈtruːli ˈwɒntɪd tuː hɛlp hɪm.",
+        "exMeaning": "Cô thực sự muốn giúp anh."
+    },
+    {
+        "word": "trust",
+        "type": "n, v",
+        "ipa": "trʌst",
+        "meaning": "niềm tin, sự phó thác; tin, tin cậy, phó thác",
+        "ex": "I thought I could trust you.",
+        "ipaExTrans": "aɪ θɔːt aɪ kʊd trʌst juː.",
+        "exMeaning": "Tôi nghĩ rằng tôi có thể tin tưởng bạn."
+    },
+    {
+        "word": "truth",
+        "type": "n",
+        "ipa": "tru:θ",
+        "meaning": "sự thật",
+        "ex": "The truth was so painful.",
+        "ipaExTrans": "ðə truːθ wɒz səʊ ˈpeɪnfʊl.",
+        "exMeaning": "Sự thật quá đau đớn."
+    },
+    {
+        "word": "try",
+        "type": "v",
+        "ipa": "trai",
+        "meaning": "thử, cố gắng",
+        "ex": "Why don't you try calling your family again?",
+        "ipaExTrans": "waɪ dəʊnt juː traɪ ˈkɔːlɪŋ jɔː ˈfæmɪli əˈgɛn?",
+        "exMeaning": "Tại sao bạn không thử gọi lại gia đình?"
+    },
+    {
+        "word": "tube",
+        "type": "n",
+        "ipa": "tju:b",
+        "meaning": "ống, tuýp",
+        "ex": "This time he created enough suction to pull her nipple well into his mouth - feeding tube and all.",
+        "ipaExTrans": "ðɪs taɪm hiː kri(ː)ˈeɪtɪd ɪˈnʌf ˈsʌkʃən tuː pʊl hɜː ˈnɪpl wɛl ˈɪntuː hɪz maʊθ - ˈfiːdɪŋ tjuːb ænd ɔːl.",
+        "exMeaning": "Lần này anh tạo ra đủ lực hút để kéo núm vú của cô vào miệng - ống cho ăn và tất cả."
+    },
+    {
+        "word": "Tuesday (abbr Tue, Tues)",
+        "type": "n",
+        "ipa": "́tju:zdi",
+        "meaning": "thứ 3"
+    },
+    {
+        "word": "tune",
+        "type": "n, v",
+        "ipa": "tun , tyun",
+        "meaning": "điệu, giai điệu; lên dây, so dây (đàn)",
+        "ex": "She was humming a tune I didn't recognize.",
+        "ipaExTrans": "ʃiː wɒz ˈhʌmɪŋ ə tjuːn aɪ dɪdnt ˈrɛkəgnaɪz.",
+        "exMeaning": "Cô ấy đang ngân nga một giai điệu mà tôi không nhận ra."
+    },
+    {
+        "word": "tunnel",
+        "type": "n",
+        "ipa": "tʌnl",
+        "meaning": "đường hầm, hang",
+        "ex": "There's a tunnel under here.",
+        "ipaExTrans": "ðeəz ə ˈtʌnl ˈʌndə hɪə.",
+        "exMeaning": "Có một đường hầm dưới đây."
+    },
+    {
+        "word": "turn",
+        "type": "v, n",
+        "ipa": "tə:n",
+        "meaning": "quay, xoay, vặn; sự quay, vòng quay",
+        "ex": "But let's see how things turn out.",
+        "ipaExTrans": "bʌt lɛts siː haʊ θɪŋz tɜːn aʊt.",
+        "exMeaning": "Nhưng hãy xem mọi thứ diễn ra như thế nào."
+    },
+    {
+        "word": "TV television",
+        "meaning": "vô tuyến truyền hình"
+    },
+    {
+        "word": "twice",
+        "type": "adv",
+        "ipa": "twaɪs",
+        "meaning": "hai lần"
+    },
+    {
+        "word": "twin",
+        "type": "n, adj",
+        "ipa": "twɪn",
+        "meaning": "sinh đôi, tạo thành cặp; cặp song sinh",
+        "ex": "In these as in other respects, however, it is a lesser twin of Walden.",
+        "ipaExTrans": "ɪn ðiːz æz ɪn ˈʌðə rɪsˈpɛkts, haʊˈɛvə, ɪt ɪz ə ˈlɛsə twɪn ɒv Walden.",
+        "exMeaning": "Tuy nhiên, trong những khía cạnh khác, đó là một cặp song sinh ít hơn của Walden."
+    },
+    {
+        "word": "twist",
+        "type": "v, n",
+        "ipa": "twist",
+        "meaning": "xoắn, cuộn, quắn; sự xoắn, vòng xoắn",
+        "ex": "She tried to twist away from him.",
+        "ipaExTrans": "ʃiː traɪd tuː twɪst əˈweɪ frɒm hɪm.",
+        "exMeaning": "Cô cố gắng tránh xa anh."
+    },
+    {
+        "word": "twisted",
+        "type": "adj",
+        "ipa": "twistid",
+        "meaning": "được xoắn, được cuộn",
+        "ex": "She gently twisted her arm free.",
+        "ipaExTrans": "ʃiː ˈʤɛntli ˈtwɪstɪd hɜːr ɑːm friː.",
+        "exMeaning": "Cô nhẹ nhàng vặn tay mình."
+    },
+    {
+        "word": "type",
+        "type": "n, v",
+        "ipa": "taip",
+        "meaning": "loại, kiểu, mẫu; phân loại, xếp loại",
+        "ex": "She continued to type while I put in the call.",
+        "ipaExTrans": "ʃiː kənˈtɪnju(ː)d tuː taɪp waɪl aɪ pʊt ɪn ðə kɔːl.",
+        "exMeaning": "Cô ấy tiếp tục gõ trong khi tôi gọi."
+    },
+    {
+        "word": "typical",
+        "type": "adj",
+        "ipa": "́tipikəl",
+        "meaning": "tiêu biểu, điển hình, đặc trưng",
+        "ex": "It was a typical night.",
+        "ipaExTrans": "ɪt wɒz ə ˈtɪpɪk(ə)l naɪt.",
+        "exMeaning": "Đó là một đêm điển hình."
+    },
+    {
+        "word": "typically",
+        "type": "adv",
+        "ipa": "́tipikəlli",
+        "meaning": "điển hình, tiêu biểu",
+        "ex": "When we think of decoding the genome, we typically think in terms of the human genome.",
+        "ipaExTrans": "wɛn wiː θɪŋk ɒv ˈdiːkəʊdɪŋ ðə ˈʤiːnəʊm, wiː ˈtɪpɪk(ə)li θɪŋk ɪn tɜːmz ɒv ðə ˈhjuːmən ˈʤiːnəʊm.",
+        "exMeaning": "Khi chúng ta nghĩ đến việc giải mã bộ gen, chúng ta thường nghĩ về bộ gen của con người."
+    },
+    {
+        "word": "tyre",
+        "type": "n",
+        "ipa": "taiз",
+        "meaning": "lốp, vỏ xe",
+        "ex": "The king of Tyre, who recognized David's newly won position (v.",
+        "ipaExTrans": "ðə kɪŋ ɒv ˈtaɪə, huː ˈrɛkəgnaɪzd ˈdeɪvɪdz ˈnjuːli wʌn pəˈzɪʃən (viː.",
+        "exMeaning": "Vua xứ Tyre, người đã công nhận vị trí mới giành được của David (v."
+    },
+    {
+        "word": "ugly",
+        "type": "adj",
+        "ipa": "ʌgli",
+        "meaning": "xấu xí, xấu xa",
+        "ex": "I wasn't ugly, but I didn't consider myself beautiful.",
+        "ipaExTrans": "aɪ wɒznt ˈʌgli, bʌt aɪ dɪdnt kənˈsɪdə maɪˈsɛlf ˈbjuːtəfʊl.",
+        "exMeaning": "Tôi không xấu, nhưng tôi không cho rằng mình đẹp."
+    },
+    {
+        "word": "ultimate",
+        "type": "adj",
+        "ipa": "ˈʌltəmɪt",
+        "meaning": "cuối cùng, sau cùng",
+        "ex": "The only ultimate cause is God.",
+        "ipaExTrans": "ði ˈəʊnli ˈʌltɪmɪt kɔːz ɪz gɒd.",
+        "exMeaning": "Nguyên nhân cuối cùng duy nhất là Thiên Chúa."
+    },
+    {
+        "word": "ultimately",
+        "type": "adv",
+        "ipa": "́ʌltimətli",
+        "meaning": "cuối cùng, sau cùng",
+        "ex": "He is their father and he is ultimately responsible.",
+        "ipaExTrans": "hiː ɪz ðeə ˈfɑːðər ænd hiː ɪz ˈʌltɪmɪtli rɪsˈpɒnsəbl.",
+        "exMeaning": "Ông là cha của họ và cuối cùng ông chịu trách nhiệm."
+    },
+    {
+        "word": "umbrella",
+        "type": "n",
+        "ipa": "ʌm'brelə",
+        "meaning": "ô, dù",
+        "ex": "She held an umbrella and was dressed in a grey suit.",
+        "ipaExTrans": "ʃiː hɛld ən ʌmˈbrɛlə ænd wɒz drɛst ɪn ə greɪ sjuːt.",
+        "exMeaning": "Cô cầm một chiếc ô và mặc một bộ đồ màu xám."
+    },
+    {
+        "word": "unable",
+        "type": "adj",
+        "ipa": "ʌn'eibl",
+        "meaning": "không có năng lực, không có tài, không thể, không có khẳ năng",
+        "ex": "She fluffed the pillow and changed position, unable to sleep.",
+        "ipaExTrans": "ʃiː flʌft ðə ˈpɪləʊ ænd ʧeɪnʤd pəˈzɪʃən, ʌnˈeɪbl tuː sliːp.",
+        "exMeaning": "Cô lộn gối và thay đổi tư thế, không thể ngủ được."
+    },
+    {
+        "word": "unacceptable",
+        "type": "adj",
+        "ipa": "ʌnək'septəbl",
+        "meaning": "không chấp nhận được",
+        "ex": "But before he had finished he felt that his jest was unacceptable and had not come off.",
+        "ipaExTrans": "bʌt bɪˈfɔː hiː hæd ˈfɪnɪʃt hiː fɛlt ðæt hɪz ʤɛst wɒz ˌʌnəkˈsɛptəbl ænd hæd nɒt kʌm ɒf.",
+        "exMeaning": "Nhưng trước khi anh ta kết thúc, anh ta cảm thấy rằng trò đùa của anh ta không thể chấp nhận được và đã không xảy ra."
+    },
+    {
+        "word": "unacceptable",
+        "ipa": "̧ʌnək ́septəbl",
+        "meaning": "không thể chấp nhận",
+        "ex": "But before he had finished he felt that his jest was unacceptable and had not come off.",
+        "ipaExTrans": "bʌt bɪˈfɔː hiː hæd ˈfɪnɪʃt hiː fɛlt ðæt hɪz ʤɛst wɒz ˌʌnəkˈsɛptəbl ænd hæd nɒt kʌm ɒf.",
+        "exMeaning": "Nhưng trước khi anh ta kết thúc, anh ta cảm thấy rằng trò đùa của anh ta không thể chấp nhận được và đã không xảy ra."
+    },
+    {
+        "word": "uncertain",
+        "type": "adj",
+        "ipa": "ʌn'sə:tn",
+        "meaning": "thiếu chính xác, không chắc chắn",
+        "ex": "He was silent, uncertain how to answer.",
+        "ipaExTrans": "hiː wɒz ˈsaɪlənt, ʌnˈsɜːtn haʊ tuː ˈɑːnsə.",
+        "exMeaning": "Anh im lặng, không biết phải trả lời thế nào."
+    },
+    {
+        "word": "uncertain, certain",
+        "ipa": "ʌn'sə:tn",
+        "meaning": "không chắc chắn, khôn biết rõ ràng"
+    },
+    {
+        "word": "uncle",
+        "type": "n",
+        "ipa": "ʌηkl",
+        "meaning": "chú, bác",
+        "ex": "What does your uncle do on the planet?",
+        "ipaExTrans": "wɒt dʌz jɔːr ˈʌŋkl duː ɒn ðə ˈplænɪt?",
+        "exMeaning": "Chú của bạn làm gì trên hành tinh này?"
+    },
+    {
+        "word": "uncomfortable",
+        "type": "adj",
+        "ipa": "ʌη ́tkʌmfətəbl",
+        "meaning": "bất tiện, khó chịu, không thoải má",
+        "ex": "It was uncomfortable, but safe.",
+        "ipaExTrans": "ɪt wɒz ʌnˈkʌmfətəbl, bʌt seɪf.",
+        "exMeaning": "Thật khó chịu, nhưng an toàn."
+    },
+    {
+        "word": "uncomfortable",
+        "ipa": "ʌη ́kʌmfətəbl",
+        "meaning": "bất tiện, không tiện lợi",
+        "ex": "It was uncomfortable, but safe.",
+        "ipaExTrans": "ɪt wɒz ʌnˈkʌmfətəbl, bʌt seɪf.",
+        "exMeaning": "Thật khó chịu, nhưng an toàn."
+    },
+    {
+        "word": "unconscious",
+        "type": "adj",
+        "ipa": "ʌn'kɔnʃəs",
+        "meaning": "bất tỉnh, không có ý thức, không biết rõ",
+        "ex": "He was unconscious and lay like a distorted corpse.",
+        "ipaExTrans": "hiː wɒz ʌnˈkɒnʃəs ænd leɪ laɪk ə dɪsˈtɔːtɪd kɔːps.",
+        "exMeaning": "Anh ta bất tỉnh và nằm như một xác chết bị bóp méo."
+    },
+    {
+        "word": "unconscious",
+        "ipa": "ʌn'kɔnʃəs",
+        "meaning": "bất tỉnh, ngất đi",
+        "ex": "He was unconscious and lay like a distorted corpse.",
+        "ipaExTrans": "hiː wɒz ʌnˈkɒnʃəs ænd leɪ laɪk ə dɪsˈtɔːtɪd kɔːps.",
+        "exMeaning": "Anh ta bất tỉnh và nằm như một xác chết bị bóp méo."
+    },
+    {
+        "word": "uncontrolled",
+        "type": "adj",
+        "ipa": "ʌnkən'trould",
+        "meaning": "không bị điều khiển, không bị kiểm tra, không bị hạn chế",
+        "ex": "dent, and in creating for themselves an uncontrolled 1462- monarchical authority.",
+        "ipaExTrans": "dɛnt, ænd ɪn kri(ː)ˈeɪtɪŋ fɔː ðəmˈsɛlvz ən ˌʌnkənˈtrəʊld 1462- mɒˈnɑːkɪkəl ɔːˈθɒrɪti.",
+        "exMeaning": "và tạo ra cho mình một quyền lực quân chủ 1462 không kiểm soát."
+    },
+    {
+        "word": "uncontrolled",
+        "ipa": "ʌnkən'trould",
+        "meaning": "không bị kiềm chế, không bị kiểm tra",
+        "ex": "dent, and in creating for themselves an uncontrolled 1462- monarchical authority.",
+        "ipaExTrans": "dɛnt, ænd ɪn kri(ː)ˈeɪtɪŋ fɔː ðəmˈsɛlvz ən ˌʌnkənˈtrəʊld 1462- mɒˈnɑːkɪkəl ɔːˈθɒrɪti.",
+        "exMeaning": "và tạo ra cho mình một quyền lực quân chủ 1462 không kiểm soát."
+    },
+    {
+        "word": "under",
+        "type": "adv, prep",
+        "ipa": "ʌndə",
+        "meaning": "dưới, ở dưới; ở phía dưới, về phía dưới",
+        "ex": "Then the horse bunched up under him.",
+        "ipaExTrans": "ðɛn ðə hɔːs bʌnʧt ʌp ˈʌndə hɪm.",
+        "exMeaning": "Rồi con ngựa chụm lại dưới anh."
+    },
+    {
+        "word": "underground",
+        "type": "adj, adv",
+        "ipa": "ʌndəgraund",
+        "meaning": "dưới mặt đất, ngầm dưới đất; ngầm",
+        "ex": "He breathed deeply, not realizing how musty the underground world was until he breathed fresh air.",
+        "ipaExTrans": "hiː briːðd ˈdiːpli, nɒt ˈrɪəlaɪzɪŋ haʊ ˈmʌsti ði ˈʌndəgraʊnd wɜːld wɒz ənˈtɪl hiː briːðd frɛʃ eə.",
+        "exMeaning": "Anh thở sâu, không nhận ra thế giới ngầm như thế nào cho đến khi anh hít thở không khí trong lành."
+    },
+    {
+        "word": "underneath",
+        "type": "prep, adv",
+        "ipa": "̧ʌndə ́ni:θ",
+        "meaning": "dưới, bên dưới",
+        "ex": "She scrambled from underneath the wagon and hastily threw her blankets under the seat.",
+        "ipaExTrans": "ʃiː ˈskræmbld frɒm ˌʌndəˈniːθ ðə ˈwægən ænd ˈheɪstɪli θruː hɜː ˈblæŋkɪts ˈʌndə ðə siːt.",
+        "exMeaning": "Cô scrambled từ bên dưới toa xe và vội vàng ném chăn của mình dưới ghế."
+    },
+    {
+        "word": "understand",
+        "type": "v",
+        "ipa": "ʌndə'stænd",
+        "meaning": "hiểu, nhận thức"
+    },
+    {
+        "word": "understanding",
+        "type": "n",
+        "ipa": "ʌndərˈstændɪŋ",
+        "meaning": "trí tuệ, sự hiểu biết",
+        "ex": "He is well educated, understanding and intelligent.",
+        "ipaExTrans": "hiː ɪz wɛl ˈɛdju(ː)keɪtɪd, ˌʌndəˈstændɪŋ ænd ɪnˈtɛlɪʤənt.",
+        "exMeaning": "Ông được đào tạo tốt, sự hiểu biết và thông minh."
+    },
+    {
+        "word": "underwater",
+        "type": "adj, adv",
+        "ipa": "́ʌndə ̧wɔtə",
+        "meaning": "ở dưới mặt nước, dưới mặt nước",
+        "ex": "There is a diversity of underwater habitats present there.",
+        "ipaExTrans": "ðeər ɪz ə daɪˈvɜːsɪti ɒv ˈʌndəˈwɔːtə ˈhæbɪtæts ˈprɛznt ðeə.",
+        "exMeaning": "Có một sự đa dạng của môi trường sống dưới nước trình bày ở đó."
+    },
+    {
+        "word": "underwear",
+        "type": "n",
+        "ipa": "ʌndəweə",
+        "meaning": "quần lót",
+        "ex": "Then, impishly, handed her the underwear as well.",
+        "ipaExTrans": "ðɛn, ˈɪmpɪʃli, ˈhændɪd hɜː ði ˈʌndəweər æz wɛl.",
+        "exMeaning": "Sau đó, ma mãnh, đưa cho cô những đồ lót là tốt."
+    },
+    {
+        "word": "undo",
+        "type": "v",
+        "ipa": "ʌn ́du:",
+        "meaning": "tháo, gỡ; xóa bỏ, hủy bỏ",
+        "ex": "It was too late to undo what he had done.",
+        "ipaExTrans": "ɪt wɒz tuː leɪt tuː ʌnˈduː wɒt hiː hæd dʌn.",
+        "exMeaning": "Nó đã quá muộn để undo những gì ông đã làm."
+    },
+    {
+        "word": "unemployed",
+        "type": "adj",
+        "ipa": "̧ʌnim ́plɔid",
+        "meaning": "thất nghiệp; không dùng, không sử dụng được",
+        "ex": "Howard was unemployed but was forced to eat an expensive lease.",
+        "ipaExTrans": "ˈhaʊəd wɒz ˌʌnɪmˈplɔɪd bʌt wɒz fɔːst tuː iːt ən ɪksˈpɛnsɪv liːs.",
+        "exMeaning": "Howard là người thất nghiệp nhưng đã buộc phải ăn một thuê đắt tiền."
+    },
+    {
+        "word": "unemployment",
+        "type": "n",
+        "ipa": "Δnim'ploimзnt",
+        "meaning": "sự thất nghiệp, nạn thất nghiệp",
+        "ex": "The unemployment rate in Ouray was one-point-four.",
+        "ipaExTrans": "ði ˌʌnɪmˈplɔɪmənt reɪt ɪn Ouray wɒz wʌn-pɔɪnt-fɔː.",
+        "exMeaning": "Tỷ lệ thất nghiệp tại Ouray là một điểm bốn."
+    },
+    {
+        "word": "unexpected",
+        "type": "adj",
+        "ipa": "̧ʌniks ́pektid",
+        "meaning": "bất ngờ, gây ngạc nhiên",
+        "ex": "Her breath escaped in an unexpected sigh.",
+        "ipaExTrans": "hɜː brɛθ ɪsˈkeɪpt ɪn ən ˌʌnɪksˈpɛktɪd saɪ.",
+        "exMeaning": "Hơi thở của cô đã trốn thoát trong một tiếng thở dài bất ngờ."
+    },
+    {
+        "word": "unexpectedly",
+        "type": "adv",
+        "ipa": "Δniks'pektid",
+        "meaning": "bất ngờ, gây ngạc nhiên",
+        "ex": "In September 1665 the king unexpectedly paid him a visit at Wimborne.",
+        "ipaExTrans": "ɪn sɛpˈtɛmbə 1665 ðə kɪŋ ˌʌnɪksˈpɛktɪdli peɪd hɪm ə ˈvɪzɪt æt Wimborne.",
+        "exMeaning": "Trong tháng 9 năm 1665 nhà vua bất ngờ trả cho anh ta một lần ở Wimborne."
+    },
+    {
+        "word": "unfair",
+        "type": "adj",
+        "ipa": "ʌn ́fɛə",
+        "meaning": "gian lận, không công bằng; bất lợi",
+        "ex": "Was he being unfair, taking the easy way out?",
+        "ipaExTrans": "wɒz hiː ˈbiːɪŋ ʌnˈfeə, ˈteɪkɪŋ ði ˈiːzi weɪ aʊt?",
+        "exMeaning": "Được ông là không công bằng, lấy đường ra dễ dàng?"
+    },
+    {
+        "word": "Unfair, unfairly",
+        "ipa": "ʌn ́fɛə",
+        "meaning": "không đúng, không công bằng, gian lận"
+    },
+    {
+        "word": "unfairly",
+        "type": "adv",
+        "ipa": "ʌn ́fɛəli",
+        "meaning": "gian lận, không công bằng; bất lợi",
+        "ex": "Some feel it is unfairly intrusive.",
+        "ipaExTrans": "sʌm fiːl ɪt ɪz ʌnˈfeəli ɪnˈtruːsɪv.",
+        "exMeaning": "Một số cảm nhận đó là không công bằng xâm nhập."
+    },
+    {
+        "word": "unfortunate",
+        "type": "adj",
+        "ipa": "Λnfo:'t∫əneit",
+        "meaning": "không may, rủi ro, bất hạnh",
+        "ex": "There wasn't any evidence to suggest other than an unfortunate accident.",
+        "ipaExTrans": "ðeə wɒznt ˈɛni ˈɛvɪdəns tuː səˈʤɛst ˈʌðə ðæn ən ʌnˈfɔːʧnɪt ˈæksɪdənt.",
+        "exMeaning": "Không có bất kỳ bằng chứng cho thấy không phải là một tai nạn đáng tiếc."
+    },
+    {
+        "word": "unfortunately",
+        "type": "adv",
+        "ipa": "ʌn ́fɔ:tʃənətli",
+        "meaning": "một cách đáng tiếc, một cách không may",
+        "ex": "Unfortunately, this session was unsuccessful.",
+        "ipaExTrans": "ʌnˈfɔːʧnɪtli, ðɪs ˈsɛʃən wɒz ˌʌnsəkˈsɛsfʊl.",
+        "exMeaning": "Thật không may, phiên này đã không thành công."
+    },
+    {
+        "word": "unfriendly",
+        "type": "adj",
+        "ipa": "ʌn ́frendli",
+        "meaning": "không thân thiện, không có thiện cảm",
+        "ex": "Her unfriendly gaze shifted to Katie.",
+        "ipaExTrans": "hɜːr ʌnˈfrɛndli geɪz ˈʃɪftɪd tuː ˈkeɪti.",
+        "exMeaning": "Ánh mắt không thân thiện của cô chuyển sang Katie."
+    },
+    {
+        "word": "unhappiness",
+        "type": "n",
+        "ipa": "ʌn ́hæpinis",
+        "meaning": "nỗi buồn, sự bất hạnh"
+    },
+    {
+        "word": "unhappy",
+        "type": "adj",
+        "ipa": "ʌn ́hæpi",
+        "meaning": "buồn rầu, khốn khổ",
+        "ex": "If thou art determined,&nbsp;O God, to destroy me, the unhappy Angevin exclaimed, \"let my fall be gradual!\"",
+        "ipaExTrans": "ɪf ðaʊ ɑːt dɪˈtɜːmɪnd,&nbsp;əʊ gɒd, tuː dɪsˈtrɔɪ miː, ði ʌnˈhæpi ˈænʤɪvɪn ɪksˈkleɪmd, \"lɛt maɪ fɔːl biː ˈgrædjʊəl!\"",
+        "exMeaning": "Nếu ngươi đã hối xác định, Hỡi Đức Chúa Trời, để tiêu diệt tôi, Angevin không hài lòng kêu lên, \"chúng ta hãy sụp đổ của tôi sẽ dần dần!\""
+    },
+    {
+        "word": "uniform",
+        "type": "n, adj",
+        "ipa": "ˈjunəˌfɔrm",
+        "meaning": "đồng phục; đều, giống nhấu, đồng dạng",
+        "ex": "Her black uniform was clean and waiting for her.",
+        "ipaExTrans": "hɜː blæk ˈjuːnɪfɔːm wɒz kliːn ænd ˈweɪtɪŋ fɔː hɜː.",
+        "exMeaning": "Đồng phục màu đen của cô đã sạch và chờ đợi cho cô ấy."
+    },
+    {
+        "word": "unimportant",
+        "type": "adj",
+        "ipa": "̧ʌnim ́pɔ:tənt",
+        "meaning": "khônh quan trọng, không trọng đạ",
+        "ex": "It was unimportant... then.",
+        "ipaExTrans": "ɪt wɒz ˌʌnɪmˈpɒtənt... ðɛn.",
+        "exMeaning": "Đó là không quan trọng ... sau đó."
+    },
+    {
+        "word": "union",
+        "type": "n",
+        "ipa": "ju:njən",
+        "meaning": "liên hiệp, sự đoàn kết, sự hiệp nhất",
+        "ex": "They were the bond of union between Church and state.",
+        "ipaExTrans": "ðeɪ wɜː ðə bɒnd ɒv ˈjuːnjən bɪˈtwiːn ʧɜːʧ ænd steɪt.",
+        "exMeaning": "Họ là những trái phiếu của công đoàn giữa Giáo Hội và nhà nước."
+    },
+    {
+        "word": "unique",
+        "type": "adj",
+        "ipa": "ju: ́ni:k",
+        "meaning": "độc nhất vô nhị",
+        "ex": "His paintings were so unique as to require no signature for identification.",
+        "ipaExTrans": "hɪz ˈpeɪntɪŋz wɜː səʊ juːˈniːk æz tuː rɪˈkwaɪə nəʊ ˈsɪgnɪʧə fɔːr aɪˌdɛntɪfɪˈkeɪʃən.",
+        "exMeaning": "Bức tranh cậu bé trông thật độc đáo như yêu cầu không có chữ ký để nhận dạng."
+    },
+    {
+        "word": "unit",
+        "type": "n",
+        "ipa": "ju:nit",
+        "meaning": "đơn vị",
+        "ex": "The medical unit has healed me.",
+        "ipaExTrans": "ðə ˈmɛdɪkəl ˈjuːnɪt hæz hiːld miː.",
+        "exMeaning": "Các đơn vị y tế đã chữa lành cho tôi."
+    },
+    {
+        "word": "unite",
+        "type": "v",
+        "ipa": "ju: ́nait",
+        "meaning": "liên kết, hợp nhất, hợp lại, kết thân",
+        "ex": "The guests welcomed Pierre because he always helped to enliven and unite any company he was in.",
+        "ipaExTrans": "ðə gɛsts ˈwɛlkəmd pɪə bɪˈkɒz hiː ˈɔːlweɪz hɛlpt tuː ɪnˈlaɪvn ænd juːˈnaɪt ˈɛni ˈkʌmpəni hiː wɒz ɪn.",
+        "exMeaning": "Những vị khách chào đón Pierre vì ông luôn giúp để làm sinh động và đoàn kết bất kỳ công ty mà ông đang ở."
+    },
+    {
+        "word": "united",
+        "type": "adj",
+        "ipa": "ju:'naitid",
+        "meaning": "liên minh, đoàn kết, chung, thống nhất",
+        "ex": "There are video pictures of the motor home entry from Canada back into the United States.",
+        "ipaExTrans": "ðeər ɑː ˈvɪdɪəʊ ˈpɪkʧəz ɒv ðə ˈməʊtə həʊm ˈɛntri frɒm ˈkænədə bæk ˈɪntuː ðə jʊˈnaɪtɪd steɪts.",
+        "exMeaning": "Có những hình ảnh video của mục nhà di động từ Canada trở lại Hoa Kỳ."
+    },
+    {
+        "word": "universe",
+        "type": "n",
+        "ipa": "ju:nivə:s",
+        "meaning": "vũ trụ",
+        "ex": "The universe is wider than our views of it.",
+        "ipaExTrans": "ðə ˈjuːnɪvɜːs ɪz ˈwaɪdə ðæn ˈaʊə vjuːz ɒv ɪt.",
+        "exMeaning": "Vũ trụ là rộng hơn so với quan điểm của chúng ta về nó."
+    },
+    {
+        "word": "university",
+        "type": "n",
+        "ipa": "̧ju:ni ́və:siti",
+        "meaning": "trường đại học",
+        "ex": "On a hunch, she called the University of Arkansas.",
+        "ipaExTrans": "ɒn ə hʌnʧ, ʃiː kɔːld ðə ˌjuːnɪˈvɜːsɪti ɒv ˈɑːkənsɔː.",
+        "exMeaning": "Trên một linh cảm, cô được gọi là Đại học Arkansas."
+    },
+    {
+        "word": "unkind",
+        "type": "adj",
+        "ipa": "ʌn ́kaind",
+        "meaning": "độc ác, tàn nhẫn",
+        "ex": "Monica was a sweetheart who never said an unkind word about a soul.",
+        "ipaExTrans": "ˈmɒnɪkə wɒz ə ˈswiːthɑːt huː ˈnɛvə sɛd ən ʌnˈkaɪnd wɜːd əˈbaʊt ə səʊl.",
+        "exMeaning": "Monica là một người yêu người không bao giờ nói một từ không tốt về một linh hồn."
+    },
+    {
+        "word": "unknown",
+        "type": "adj",
+        "ipa": "ʌn'noun",
+        "meaning": "không biết",
+        "ex": "The immense, the unknown, enfolded me.",
+        "ipaExTrans": "ði ɪˈmɛns, ði ʌnˈnəʊn, ɪnˈfəʊldɪd miː.",
+        "exMeaning": "Các mênh mông, cái không biết, bao bọc tôi."
+    },
+    {
+        "word": "unless",
+        "type": "conj",
+        "ipa": "ʌn ́les",
+        "meaning": "trừ phi, trừ khi, nếu không",
+        "ex": "I don't want you to give that number to anyone unless it's an emergency, you understand?",
+        "ipaExTrans": "aɪ dəʊnt wɒnt juː tuː gɪv ðæt ˈnʌmbə tuː ˈɛnɪwʌn ənˈlɛs ɪts ən ɪˈmɜːʤənsi, juː ˌʌndəˈstænd?",
+        "exMeaning": "Tôi không muốn bạn để cung cấp cho rằng số cho bất cứ ai trừ khi nó là một trường hợp khẩn cấp, bạn có hiểu không?"
+    },
+    {
+        "word": "unlike",
+        "type": "prep, adj",
+        "ipa": "ʌn ́laik",
+        "meaning": "khác, không giống",
+        "ex": "This was so unlike the girl I'd known for a lifetime.",
+        "ipaExTrans": "ðɪs wɒz səʊ ʌnˈlaɪk ðə gɜːl aɪd nəʊn fɔːr ə ˈlaɪftaɪm.",
+        "exMeaning": "Đây là rất không giống như các cô gái mà tôi muốn gọi cho một đời."
+    },
+    {
+        "word": "unlikely",
+        "type": "adj",
+        "ipa": "ʌnˈlaɪkli",
+        "meaning": "không thể xảy ra, không chắc xảy ra",
+        "ex": "It was an unlikely spot for water.",
+        "ipaExTrans": "ɪt wɒz ən ʌnˈlaɪkli spɒt fɔː ˈwɔːtə.",
+        "exMeaning": "Đó là một vị trí không cho nước."
+    },
+    {
+        "word": "unload",
+        "type": "v",
+        "ipa": "ʌn ́loud",
+        "meaning": "cất gánh nặng, dỡ hàng",
+        "ex": "Just unload one or two carts.",
+        "ipaExTrans": "ʤʌst ʌnˈləʊd wʌn ɔː tuː kɑːts.",
+        "exMeaning": "Chỉ cần dỡ bỏ một hoặc hai xe."
+    },
+    {
+        "word": "unlucky",
+        "type": "adj",
+        "ipa": "ʌn ́lʌki",
+        "meaning": "không gặp may, bất hạnh",
+        "ex": "He could not have chosen a more unlucky time for his own quiet.",
+        "ipaExTrans": "hiː kʊd nɒt hæv ˈʧəʊzn ə mɔːr ʌnˈlʌki taɪm fɔː hɪz əʊn ˈkwaɪət.",
+        "exMeaning": "Ông không thể chọn một thời gian không may mắn hơn cho yên tĩnh của riêng mình."
+    },
+    {
+        "word": "unnecessary",
+        "type": "adj",
+        "ipa": "ʌn'nesisəri",
+        "meaning": "không cần thiết, không mong muốn"
+    },
+    {
+        "word": "unpleasant",
+        "type": "adj",
+        "ipa": "ʌn'plezənt",
+        "meaning": "không dễ chịu, khó chịu, khó ưa",
+        "ex": "Let's not think of unpleasant things right now.",
+        "ipaExTrans": "lɛts nɒt θɪŋk ɒv ʌnˈplɛznt θɪŋz raɪt naʊ.",
+        "exMeaning": "Đừng nghĩ đến những điều khó chịu ngay bây giờ."
+    },
+    {
+        "word": "unreasonable",
+        "type": "adj",
+        "ipa": "ʌnˈrizənəbəl",
+        "meaning": "vô lý",
+        "ex": "It was an unreasonable request, and yet his response angered her.",
+        "ipaExTrans": "ɪt wɒz ən ʌnˈriːznəbl rɪˈkwɛst, ænd jɛt hɪz rɪsˈpɒns ˈæŋgəd hɜː.",
+        "exMeaning": "Đó là một yêu cầu không hợp lý, nhưng phản ứng của ông tức giận của mình."
+    },
+    {
+        "word": "unsteady",
+        "type": "adj",
+        "ipa": "ʌn ́stedi",
+        "meaning": "không chắc, không ổn định",
+        "ex": "She gave a startled squeal and fumbled on the unsteady ladder.",
+        "ipaExTrans": "ʃiː geɪv ə ˈstɑːtld skwiːl ænd ˈfʌmbld ɒn ði ʌnˈstɛdi ˈlædə.",
+        "exMeaning": "Cô đã đưa ra một tiếng hét giật mình và dò dẫm trên những bậc thang không ổn định."
+    },
+    {
+        "word": "unsuccessful",
+        "type": "adj",
+        "ipa": "̧ʌnsək ́sesful",
+        "meaning": "không thành công, thất bại",
+        "ex": "When the first two tries proved unsuccessful, tempers frayed even more.",
+        "ipaExTrans": "wɛn ðə fɜːst tuː traɪz pruːvd ˌʌnsəkˈsɛsfʊl, ˈtɛmpəz freɪd ˈiːvən mɔː.",
+        "exMeaning": "Khi hai cố gắng đầu tiên chứng minh không thành công, nổi nóng sờn thậm chí nhiều hơn."
+    },
+    {
+        "word": "untidy",
+        "type": "adj",
+        "ipa": "ʌn ́taidi",
+        "meaning": "không gọn gàng, không ngăn nắp, lộn xộn",
+        "ex": "The princess was as untidy as her father was tidy.",
+        "ipaExTrans": "ðə prɪnˈsɛs wɒz æz ʌnˈtaɪdi æz hɜː ˈfɑːðə wɒz ˈtaɪdi.",
+        "exMeaning": "Công chúa là như lộn xộn như cha cô đã gọn gàng."
+    },
+    {
+        "word": "until, till",
+        "type": "conj, prep",
+        "ipa": "ʌn ́til",
+        "meaning": "trước khi, cho đến khi"
+    },
+    {
+        "word": "Unusual",
+        "ipa": "ʌn ́ju:ʒuəl",
+        "meaning": "hiếm, khác thường",
+        "ex": "It was unusual having nothing to do.",
+        "ipaExTrans": "ɪt wɒz ʌnˈjuːʒʊəl ˈhævɪŋ ˈnʌθɪŋ tuː duː.",
+        "exMeaning": "Nó là không bình thường có gì để làm."
+    },
+    {
+        "word": "unusually",
+        "type": "adv",
+        "ipa": "ʌn ́ju:ʒuəlli",
+        "meaning": "cực kỳ, khác thường",
+        "ex": "Last October I heard of an unusually bright little girl in Texas.",
+        "ipaExTrans": "lɑːst ɒkˈtəʊbər aɪ hɜːd ɒv ən ʌnˈjuːʒʊəli braɪt ˈlɪtl gɜːl ɪn ˈtɛksəs.",
+        "exMeaning": "Tháng Mười năm ngoái tôi nghe nói về một cô bé sáng bất thường ở Texas."
+    },
+    {
+        "word": "Unwilling",
+        "ipa": "ʌn ́wiliη",
+        "meaning": "không muốn, không có ý định",
+        "ex": "At first I was rather unwilling to study Latin grammar.",
+        "ipaExTrans": "æt fɜːst aɪ wɒz ˈrɑːðər ʌnˈwɪlɪŋ tuː ˈstʌdi ˈlætɪn ˈgræmə.",
+        "exMeaning": "Lúc đầu, tôi khá không muốn học ngữ pháp Latinh."
+    },
+    {
+        "word": "unwillingly",
+        "type": "adv",
+        "ipa": "ʌn ́wiliηgli",
+        "meaning": "không sẵn lòng, miễn cưỡng",
+        "ex": "In 1303 the pope unwillingly ratified the treaty.",
+        "ipaExTrans": "ɪn 1303 ðə pəʊp ʌnˈwɪlɪŋli ˈrætɪfaɪd ðə ˈtriːti.",
+        "exMeaning": "Trong năm 1303 Đức Giáo Hoàng miễn cưỡng phê chuẩn hiệp ước."
+    },
+    {
+        "word": "up",
+        "type": "adv, prep",
+        "ipa": "Λp",
+        "meaning": "ở trên, lên trên, lên"
+    },
+    {
+        "word": "upon",
+        "type": "prep",
+        "ipa": "ə ́pɔn",
+        "meaning": "trên, ở trên",
+        "ex": "I will handle her upon my return, he said.",
+        "ipaExTrans": "aɪ wɪl ˈhændl hɜːr əˈpɒn maɪ rɪˈtɜːn, hiː sɛd.",
+        "exMeaning": "Tôi sẽ xử lý cô khi trở về tôi, ông nói."
+    },
+    {
+        "word": "upper",
+        "type": "adj",
+        "ipa": "́ʌpə",
+        "meaning": "cao hơn",
+        "ex": "HR passed it to upper management.",
+        "ipaExTrans": "eɪʧ-ɑː pɑːst ɪt tuː ˈʌpə ˈmænɪʤmənt.",
+        "exMeaning": "Nhân sự thông qua nó để quản lý cấp trên."
+    },
+    {
+        "word": "upset",
+        "type": "v, adj",
+        "ipa": "ʌpˈsɛt",
+        "meaning": "làm đổ, đánh đổ",
+        "ex": "The kid was already too upset about something.",
+        "ipaExTrans": "ðə kɪd wɒz ɔːlˈrɛdi tuː ʌpˈsɛt əˈbaʊt ˈsʌmθɪŋ.",
+        "exMeaning": "Cậu bé đã được quá khó chịu về điều gì đó."
+    },
+    {
+        "word": "upsetting",
+        "type": "adj",
+        "ipa": "ʌp ́setiη",
+        "meaning": "tính đánh đổ, làm đổ",
+        "ex": "I know leaving is upsetting, but something else is bothering her.",
+        "ipaExTrans": "aɪ nəʊ ˈliːvɪŋ ɪz ʌpˈsɛtɪŋ, bʌt ˈsʌmθɪŋ ɛls ɪz ˈbɒðərɪŋ hɜː.",
+        "exMeaning": "Tôi biết để lại được làm xáo trộn, nhưng cái gì khác là làm phiền cô."
+    },
+    {
+        "word": "upside down",
+        "type": "adv",
+        "ipa": "́ʌp ̧said",
+        "meaning": "lộn ngược"
+    }
+]

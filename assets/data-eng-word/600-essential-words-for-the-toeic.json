@@ -1,0 +1,5952 @@
+[
+    {
+        "word": "abide by",
+        "type": "tuân thủ",
+        "ipa": "əˈbaɪd baɪ",
+        "meaning": "(v)to comply with, to conform ( Tuân theo )",
+        "tag": "Contracts"
+    },
+    {
+        "word": "agreement",
+        "type": "hợp đồng",
+        "ipa": "əˈgriːmənt",
+        "meaning": "(n)a mutual arrangement, a contract (hợp đồng, giao kèo)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "agreeable",
+        "type": "dễ chịu",
+        "ipa": "əˈgrɪəbl",
+        "meaning": "(adj)đồng ý, tán thành, bằng lòng, thoả thuận",
+        "tag": "Contracts"
+    },
+    {
+        "word": "assurance",
+        "type": "đảm bảo",
+        "ipa": "əˈʃʊərəns",
+        "meaning": "(n)guarantee, confidence (sự chắc chắn; sự tin chắc; điều chắc chắn, điều tin chắc)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "determine",
+        "type": "mục đích",
+        "ipa": "dɪˈtɜːmɪn",
+        "meaning": "(v)to find out, to influence (định, xác định, định rõ)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "engage",
+        "type": "thuê",
+        "ipa": "ɪnˈgeɪʤ",
+        "meaning": "(v)to hire, to involve (thuê, đính hôn, giao ước)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "establish",
+        "type": "thành lập",
+        "ipa": "ɪsˈtæblɪʃ",
+        "meaning": "(v)to institute permanently, to bring about (thành lập, thiết lập)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "obligate",
+        "type": "bắt buộc",
+        "ipa": "ˈɒblɪgeɪt",
+        "meaning": "(v)to bind legally or morally ( ràng buộc, ép buộc)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "obligation",
+        "type": "nghĩa vụ",
+        "ipa": "ˌɒblɪˈgeɪʃən",
+        "meaning": "(n)nghĩa vụ, bổn phận ,sự ràng buộc",
+        "tag": "Contracts"
+    },
+    {
+        "word": "provision",
+        "type": "điều khoản",
+        "ipa": "prəˈvɪʒən",
+        "meaning": "(n)a measure taken beforehand, a stipulation (điều khoản)",
+        "tag": "Contracts"
+    },
+    {
+        "word": "provider",
+        "type": "các nhà cung cấp",
+        "ipa": "prəˈvaɪdə",
+        "meaning": "(n)nhà cung cấp",
+        "tag": "Contracts"
+    },
+    {
+        "word": "resolve",
+        "type": "giải quyết",
+        "ipa": "rɪˈzɒlv",
+        "meaning": "(v)to deal with successfully, to declare ( giải quyết )",
+        "tag": "Contracts"
+    },
+    {
+        "word": "specify",
+        "type": "chỉ định",
+        "ipa": "ˈspɛsɪfaɪ",
+        "meaning": "(v)to mention explicitly ( chỉ rõ, ghi rõ, định rõ, ghi chú vào phần chi tiết kỹ thuật )",
+        "tag": "Contracts"
+    },
+    {
+        "word": "specific",
+        "type": "riêng",
+        "ipa": "spɪˈsɪfɪk",
+        "meaning": "(adj)cụ thể, rõ ràng, rành mạch",
+        "tag": "Contracts"
+    },
+    {
+        "word": "attract",
+        "type": "thu hút",
+        "ipa": "əˈtrækt",
+        "meaning": "(v)to draw by appeal ( hấp dẫn, lôi cuốn )",
+        "tag": "Marketing"
+    },
+    {
+        "word": "attraction",
+        "type": "sức hút",
+        "ipa": "əˈtrækʃ(ə)n",
+        "meaning": "(n)sự hấp dẫn, lôi cuốn",
+        "tag": "Marketing"
+    },
+    {
+        "word": "comparison",
+        "type": "so sánh",
+        "ipa": "kəmˈpærɪsn",
+        "meaning": "(n)sự so sánh",
+        "tag": "Marketing"
+    },
+    {
+        "word": "comparable",
+        "type": "so sánh",
+        "ipa": "ˈkɒmpərəbl",
+        "meaning": "(adj)tương đồng và có thể so sánh được.",
+        "tag": "Marketing"
+    },
+    {
+        "word": "consume",
+        "type": "tiêu thụ",
+        "ipa": "kənˈsjuːm",
+        "meaning": "(v)to absorb, to use up (dùng, tiêu thụ)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "consumable",
+        "type": "tiêu hao",
+        "ipa": "kənˈsjuːməbl",
+        "meaning": "(adj)có thể ăn được, có thể tiêu thụ được",
+        "tag": "Marketing"
+    },
+    {
+        "word": "convince",
+        "type": "thuyết phục",
+        "ipa": "kənˈvɪns",
+        "meaning": "(v)to bring to believe by argument, to persuade (làm cho tin, làm cho nghe theo, thuyết phục)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "current",
+        "type": "hiện hành",
+        "ipa": "ˈkʌrənt",
+        "meaning": "(adj)hiện tại, hiện thời, (n) đang lưu hành",
+        "tag": "Marketing"
+    },
+    {
+        "word": "fad",
+        "type": "ham mê",
+        "ipa": "fæd",
+        "meaning": "(n)a practice followed enthusiastically for a short time, a craze (mốt)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "inspire",
+        "type": "truyền cảm hứng",
+        "ipa": "ɪnˈspaɪə",
+        "meaning": "(v)to spur on, to stimulate imagination or emotion. (truyền (cảm hứng, ý nghĩ...); truyền cảm hứng cho (ai), gây cảm hứng cho (ai)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "market",
+        "type": "thị trường",
+        "ipa": "ˈmɑːkɪt",
+        "meaning": "(n)the course of buying and selling a product, n. the demand for a product (giá thị trường; tình hình thị trường)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "persuade",
+        "type": "truy vấn",
+        "ipa": "pəˈsweɪd",
+        "meaning": "(v)to move by argument or logic (làm cho tin; thuyết phục)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "productive",
+        "type": "năng suất",
+        "ipa": "prəˈdʌktɪv",
+        "meaning": "auseful, getting a lot done (thực hiện được nhiều, hữu ích, có năng suất)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "satisfy",
+        "type": "thỏa mãn",
+        "ipa": "ˈsætɪsfaɪ",
+        "meaning": "(v)to make happy (làm thoả mãn, làm vừa lòng, đáp ứng (được yêu cầu, điều kiện...))",
+        "tag": "Marketing"
+    },
+    {
+        "word": "characteristic",
+        "type": "đặc trưng",
+        "ipa": "ˌkærɪktəˈrɪstɪk",
+        "meaning": "Revealing of individual traits (riêng, riêng biệt, đặc thù, đặc trưng)",
+        "tag": "Warranties (bảo hành)"
+    },
+    {
+        "word": "consequence",
+        "type": "kết quả",
+        "ipa": "ˈkɒnsɪkwəns",
+        "meaning": "that which follows necessarily (hậu quả, kết quả)",
+        "tag": "Warranties (bảo hành)"
+    },
+    {
+        "word": "consider",
+        "type": "xem xét",
+        "ipa": "kənˈsɪdə",
+        "meaning": "to think about carefully (cân nhắc, xem xét, suy xét, suy nghĩ)",
+        "tag": "Warranties (bảo hành)"
+    },
+    {
+        "word": "cover",
+        "type": "che",
+        "ipa": "ˈkʌvə",
+        "meaning": "to provide protection against (che, phủ, bao phủ, bao trùm, bao bọc)",
+        "tag": "Warranties (bảo hành)"
+    },
+    {
+        "word": "expire",
+        "type": "hết hiệu lực",
+        "ipa": "ɪksˈpaɪə",
+        "meaning": "to come to an end (mãn hạn, kết thúc, hết hiệu lực (luật); mai một, mất đi)",
+        "tag": "Warranties (bảo hành)"
+    },
+    {
+        "word": "frequently",
+        "type": "thường xuyên",
+        "ipa": "ˈfriːkwəntli",
+        "meaning": "Occurring commonly, widespread (thường xuyên, hay xảy ra, có luôn)",
+        "tag": "Warranties (bảo hành)"
+    },
+    {
+        "word": "imply",
+        "type": "bao hàm, ngụ ý",
+        "ipa": "ɪmˈplaɪ",
+        "meaning": "to indicate by inference (ý nói; ngụ ý; bao hàm ý)",
+        "tag": "Warranties (bảo hành)"
+    },
+    {
+        "word": "reputation",
+        "type": "uy tín",
+        "ipa": "ˌrɛpju(ː)ˈteɪʃən",
+        "meaning": "the overall quality of character (tiếng tốt, thanh danh, danh tiếng)",
+        "tag": "Warranties (bảo hành)"
+    },
+    {
+        "word": "reputable",
+        "type": "có uy tín",
+        "ipa": "ˈrɛpjʊtəbl",
+        "meaning": "có uy tín, danh tiếng",
+        "tag": "Warranties (bảo hành)"
+    },
+    {
+        "word": "require",
+        "type": "yêu cầu",
+        "ipa": "rɪˈkwaɪə",
+        "meaning": "(v) yêu cầu",
+        "tag": "Warranties (bảo hành)"
+    },
+    {
+        "word": "vary",
+        "type": "khác nhau",
+        "ipa": "ˈveəri",
+        "meaning": "(v) thay đổi, biến đổi",
+        "tag": "Warranties (bảo hành)"
+    },
+    {
+        "word": "address",
+        "type": "Địa chỉ",
+        "ipa": "əˈdrɛs",
+        "meaning": "to direct to the attention of (địa chỉ, chuyển đi tới )",
+        "tag": "Business planning"
+    },
+    {
+        "word": "demonstrate",
+        "type": "chứng minh",
+        "ipa": "ˈdɛmənstreɪt",
+        "meaning": "chứng minh, giải thích, bày tỏ, biểu lộ, làm thấy rõ",
+        "tag": "Business planning"
+    },
+    {
+        "word": "evaluate",
+        "type": "đánh giá",
+        "ipa": "ɪˈvæljʊeɪt",
+        "meaning": "to determine the value or impact of (ước lượng , định giá)",
+        "tag": "Business planning"
+    },
+    {
+        "word": "gather",
+        "type": "tụ họp",
+        "ipa": "ˈgæðə",
+        "meaning": "to accumulate, to conclude (tập hợp lại, tụ họp lại, kéo đến)",
+        "tag": "Business planning"
+    },
+    {
+        "word": "offer",
+        "type": "phục vụ",
+        "ipa": "ˈɒfə",
+        "meaning": "to propose, to present in order to meet a need or satisfy a requirement (đưa ra đề nghị)",
+        "tag": "Business planning"
+    },
+    {
+        "word": "primary",
+        "type": "sơ cấp",
+        "ipa": "ˈpraɪməri",
+        "meaning": "Most important, first in a list, series, or sequence (chủ yếu, chính, bậc nhất)",
+        "tag": "Business planning"
+    },
+    {
+        "word": "strategy",
+        "type": "chiến lược",
+        "ipa": "ˈstrætɪʤi",
+        "meaning": "a plan of action (chiến lược)",
+        "tag": "Business planning"
+    },
+    {
+        "word": "strategic",
+        "type": "chiến lược",
+        "ipa": "strəˈtiːʤɪk",
+        "meaning": "(a) (thuộc) chiến lược",
+        "tag": "Business planning"
+    },
+    {
+        "word": "substitute",
+        "type": "thay thế",
+        "ipa": "ˈsʌbstɪtjuːt",
+        "meaning": "to take the place of another (thế, thay thế)",
+        "tag": "Business planning"
+    },
+    {
+        "word": "attend",
+        "type": "tham gia",
+        "ipa": "əˈtɛnd",
+        "meaning": "to go to, to pay attention to (dự, có mặt)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "attendee",
+        "type": "người tham dự",
+        "ipa": "attendee",
+        "meaning": "(n) người tham dự",
+        "tag": "Conferences"
+    },
+    {
+        "word": "attendance",
+        "type": "tham dự",
+        "ipa": "əˈtɛndəns",
+        "meaning": "(n) sự tham dự",
+        "tag": "Conferences"
+    },
+    {
+        "word": "get in touch",
+        "type": "liên lạc",
+        "ipa": "gɛt ɪn tʌʧ",
+        "meaning": "(v) to make contact with (giu lien lạc)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "hold",
+        "type": "giữ",
+        "ipa": "həʊld",
+        "meaning": "to accommodate; to conduct (tổ chức, tiến hành)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "location",
+        "type": "vị trí",
+        "ipa": "ləʊˈkeɪʃən",
+        "meaning": "(n) a position or site (vị trí)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "accommodate",
+        "type": "chứa",
+        "ipa": "əˈkɒmədeɪt",
+        "meaning": "to fit, to provide with something needed (điều tiết, làm cho thích nghi, làm cho phù hợp)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "accommodating",
+        "type": "đáp ứng",
+        "ipa": "əˈkɒmədeɪtɪŋ",
+        "meaning": "(adj) điều tiết, thuận tiện, tiện lợi; dễ dãi, dễ tính",
+        "tag": "Conferences"
+    },
+    {
+        "word": "accommodation",
+        "type": "chỗ ở",
+        "ipa": "əˌkɒməˈdeɪʃ(ə)n",
+        "meaning": "(n) nhà trọ, chổ ở, nơi ăn nghỉ",
+        "tag": "Conferences"
+    },
+    {
+        "word": "overcrowded",
+        "type": "quá đông",
+        "ipa": "ˌəʊvəˈkraʊdɪd",
+        "meaning": "too crowded (kéo vào quá đông, dồn vào quá đông)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "arrangement",
+        "type": "sắp xếp",
+        "ipa": "əˈreɪnʤmənt",
+        "meaning": "the plan or organization (sự sắp xếp, sự sắp đặt, cái được sắp xếp, cái được sắp đặt)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "register",
+        "type": "Đăng ký",
+        "ipa": "ˈrɛʤɪstə",
+        "meaning": "(v) to record (đăng ký)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "registration",
+        "type": "đăng ký",
+        "ipa": "ˌrɛʤɪsˈtreɪʃən",
+        "meaning": "sự đăng ký",
+        "tag": "Conferences"
+    },
+    {
+        "word": "association",
+        "type": "hiệp hội",
+        "ipa": "əˌsəʊsɪˈeɪʃ(ə)n",
+        "meaning": "an organization of persons or groups having a common interest (hội, hội liên hiệp; đoàn thể, công ty)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "select",
+        "type": "lựa chọn",
+        "ipa": "sɪˈlɛkt",
+        "meaning": "to choose from a group (chọn, lựa chọn)",
+        "tag": "Conferences"
+    },
+    {
+        "word": "take part in",
+        "type": "tham gia",
+        "ipa": "teɪk pɑːt ɪn",
+        "meaning": "(v) tham gia, tham dự",
+        "tag": "Conferences"
+    },
+    {
+        "word": "access",
+        "type": "truy cập",
+        "ipa": "ˈæksɛs",
+        "meaning": "to obtain, to gain entry (truy cập, đường vào)",
+        "tag": "Computers"
+    },
+    {
+        "word": "allocate",
+        "type": "chỉ định",
+        "ipa": "ˈæləʊkeɪt",
+        "meaning": "to designate for a specific purpose (chỉ định, chia phần, cấp phát)",
+        "tag": "Computers"
+    },
+    {
+        "word": "compatible",
+        "type": "tương thích",
+        "ipa": "kəmˈpætəbl",
+        "meaning": "able to function together (tương tác, thích ứng)",
+        "tag": "Computers"
+    },
+    {
+        "word": "delete",
+        "type": "xóa bỏ",
+        "ipa": "dɪˈliːt",
+        "meaning": "to remove; to erase (xóa)",
+        "tag": "Computers"
+    },
+    {
+        "word": "display",
+        "type": "trưng bày",
+        "ipa": "dɪsˈpleɪ",
+        "meaning": "what is visible on a monitor; v, to show (trình bày, trưng bày)",
+        "tag": "Computers"
+    },
+    {
+        "word": "duplicate",
+        "type": "bản sao",
+        "ipa": "ˈdjuːplɪkɪt",
+        "meaning": "to produce something equal; to make identical (bản sao, gấp đôi)",
+        "tag": "Computers"
+    },
+    {
+        "word": "fail",
+        "type": "Thất bại",
+        "ipa": "feɪl",
+        "meaning": "not to succeed; not to work correctly (trượt, không thành công)",
+        "tag": "Computers"
+    },
+    {
+        "word": "failure",
+        "type": "sự thất bại",
+        "ipa": "ˈfeɪljə",
+        "meaning": "(n) sự thất bại",
+        "tag": "Computers"
+    },
+    {
+        "word": "fallible",
+        "type": "ngụy biện",
+        "ipa": "ˈfæləbl",
+        "meaning": "(adj) có thể sai lầm; có thể là sai",
+        "tag": "Computers"
+    },
+    {
+        "word": "figure out",
+        "type": "tìm ra",
+        "ipa": "ˈfɪgər aʊt",
+        "meaning": "(v) to understand , to solve (chỉ ra, hiểu ra)",
+        "tag": "Computers"
+    },
+    {
+        "word": "ignore",
+        "type": "Làm lơ",
+        "ipa": "ɪgˈnɔː",
+        "meaning": "not to notice; to disregard (bỏ qua, lờ đi)",
+        "tag": "Computers"
+    },
+    {
+        "word": "search",
+        "type": "Tìm kiếm",
+        "ipa": "sɜːʧ",
+        "meaning": "to look for; n, investigation (tìm kiếm, tìm hiểu)",
+        "tag": "Computers"
+    },
+    {
+        "word": "warn",
+        "type": "cảnh báo",
+        "ipa": "wɔːn",
+        "meaning": "to alert; to tell about a danger or problem (cảnh báo)",
+        "tag": "Computers"
+    },
+    {
+        "word": "warning",
+        "type": "cảnh báo",
+        "ipa": "ˈwɔːnɪŋ",
+        "meaning": "(n) lời cảnh cáo, lời răn",
+        "tag": "Computers"
+    },
+    {
+        "word": "shut down",
+        "type": "tắt",
+        "ipa": "ʃʌt daʊn",
+        "meaning": "to turn off; to cease operation (đóng lại, ngừng lại)",
+        "tag": "Computers"
+    },
+    {
+        "word": "affordable",
+        "type": "giá cả phải chăng",
+        "ipa": "əˈfɔːdəbl",
+        "meaning": "able to be paid for; not too expensive (hợp lý, giá cả phải chăng)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "as needed",
+        "type": "khi cần",
+        "ipa": "æz ˈniːdɪd",
+        "meaning": "as necessary (cần thiết)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "be in charge",
+        "type": "chịu trách nhiệm",
+        "ipa": "biː ɪn ʧɑːʤ",
+        "meaning": "to be in control or command of (có tráchnhiệm, nghĩa vụ)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "capacity",
+        "type": "sức chứa",
+        "ipa": "kəˈpæsɪti",
+        "meaning": "the ability to contain or hold; the maximum that something can hold (sức chứa, khả năng)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "durable",
+        "type": "bền chặt",
+        "ipa": "ˈdjʊərəbl",
+        "meaning": "sturdy, strong, lasting (lâu bền)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "initiative",
+        "type": "sáng kiến",
+        "ipa": "ɪˈnɪʃɪətɪv",
+        "meaning": "the first step; an active role (sáng kiến)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "physical",
+        "type": "vật lý",
+        "ipa": "ˈfɪzɪkəl",
+        "meaning": "perceived by the senses (vật chất, điều gì đó liên quan đến tự nhiên)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "provider",
+        "type": "các nhà cung cấp",
+        "ipa": "prəˈvaɪdə",
+        "meaning": "a supplier (nhà cung cấp)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "recur",
+        "type": "tái phát",
+        "ipa": "rɪˈkɜː",
+        "meaning": "to occur again or repeatedly (tái diễn, tái hiện)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "recurrence",
+        "type": "sự tái xuất",
+        "ipa": "rɪˈkʌrəns",
+        "meaning": "(n) sự tái diễn, tái hiện",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "recurring",
+        "type": "định kỳ",
+        "ipa": "rɪˈkɜːrɪŋ",
+        "meaning": "(adj) tái diễn, tái hiện; lại diễn ra; có định kỳ",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "reduction",
+        "type": "giảm",
+        "ipa": "rɪˈdʌkʃən",
+        "meaning": "a lessening , a decrease (thu nhỏ, giảm bớt)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "reduce",
+        "type": "giảm",
+        "ipa": "rɪˈdjuːs",
+        "meaning": "(v) giảm, giảm bớt, hạ",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "reducible",
+        "type": "giảm",
+        "ipa": "rɪˈdjuːsəbl",
+        "meaning": "(a) có thể giảm bớt",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "stay on top",
+        "type": "ở trên đỉnh",
+        "ipa": "steɪ ɒn tɒp",
+        "meaning": "to know what is going on; to know the latest information (cập nhật)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "stock",
+        "type": "cổ phần",
+        "ipa": "stɒk",
+        "meaning": "a supply; v, to keep on hand (dự trữ, cổ phần)",
+        "tag": "Office Technology"
+    },
+    {
+        "word": "appreciate",
+        "type": "đánh giá",
+        "ipa": "əˈpriːʃɪeɪt",
+        "meaning": "to recognize, understand the importance of; to be thankful for (đánh giá cao)",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "appreciation",
+        "type": "sự đánh giá",
+        "ipa": "əˌpriːʃɪˈeɪʃ(ə)n",
+        "meaning": "(n) sự đánh giá đúng, sự đánh giá cao, sự hiểu rõ giá trị",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "bring in",
+        "type": "mang vào",
+        "ipa": "brɪŋ ɪn",
+        "meaning": "to hire or recruit; to cause to appear",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "casual",
+        "type": "binh thương",
+        "ipa": "ˈkæʒjʊəl",
+        "meaning": "informal (thân mật, không nghi thức)",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "code",
+        "type": "mã",
+        "ipa": "kəʊd",
+        "meaning": "rules of behavior (bộ luật, quy luật)",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "be exposed to",
+        "type": "được tiếp xúc với",
+        "ipa": "biː ɪksˈpəʊzd tuː",
+        "meaning": "to become aware of; to gain experience in",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "glimpse",
+        "type": "nhìn thoáng qua",
+        "ipa": "glɪmps",
+        "meaning": "a quick look (lướt qua, thoáng qua)",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "made of",
+        "type": "làm bằng",
+        "ipa": "meɪd ɒv",
+        "meaning": "to consist of (tạo nên)",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "out of",
+        "type": "ra khỏi",
+        "ipa": "aʊt ɒv",
+        "meaning": "no longer having, missing (hết, mất)",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "outdated",
+        "type": "lỗi thời",
+        "ipa": "aʊtˈdeɪtɪd",
+        "meaning": "obsolete; not currently in use (hết hạn)",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "practice",
+        "type": "thực hành",
+        "ipa": "ˈpræktɪs",
+        "meaning": "to repeat in order to learn (tập luyện)",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "practical",
+        "type": "thực dụng",
+        "ipa": "ˈpræktɪkəl",
+        "meaning": "thực tế, thiết thực",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "reinforce",
+        "type": "củng cố",
+        "ipa": "ˌriːɪnˈfɔːs",
+        "meaning": "to strengthen, support (tăng cường, củng cố; tăng viện; tăng thêm sức mạnh)",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "reinforcement",
+        "type": "gia cố",
+        "ipa": "ˌriːɪnˈfɔːsmənt",
+        "meaning": "noun of Reinforce (sự tăng cường, sự củng cố; sự tăng viện)",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "verbal",
+        "type": "bằng lời nói",
+        "ipa": "ˈvɜːbəl",
+        "meaning": "oral (bằng lời nói )",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "verbalize",
+        "type": "bằng lời nói",
+        "ipa": "ˈvɜːbəlaɪz",
+        "meaning": "(v) diễn tả bằng lời nói",
+        "tag": "Office Procedures"
+    },
+    {
+        "word": "disk",
+        "type": "đĩa",
+        "ipa": "dɪsk",
+        "meaning": "an object used to store digital information (đĩa máy tính)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "facilitate",
+        "type": "tạo điều kiện",
+        "ipa": "fəˈsɪlɪteɪt",
+        "meaning": "to make easier (làm cho dễ dàng, thuận tiện)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "network",
+        "type": "mạng",
+        "ipa": "ˈnɛtwɜːk",
+        "meaning": "an interconnected group or system (mạng lưới)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "popularity",
+        "type": "phổ biến",
+        "ipa": "ˌpɒpjʊˈlærɪti",
+        "meaning": "the state of being widely admired, sought (tính đại chúng, phổ biến)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "popularize",
+        "type": "phổ biến",
+        "ipa": "ˈpɒpjʊləraɪz",
+        "meaning": "(v) đại chúng hóa; truyền bá, phổ biến",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "process",
+        "type": "quá trình",
+        "ipa": "ˈprəʊsɛs",
+        "meaning": "a series of operations or actions to bring about a result (quy trình)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "replace",
+        "type": "thay thế",
+        "ipa": "rɪˈpleɪs",
+        "meaning": "to put back in a former place or position (đặt lại chỗ cũ, thay thế)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "replaceable",
+        "type": "thay thế",
+        "ipa": "rɪˈpleɪsəbl",
+        "meaning": "có thể thay thế",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "revolution",
+        "type": "Cuộc cách mạng",
+        "ipa": "ˌrɛvəˈluːʃən",
+        "meaning": "a sudden or momentous change in a situation (cuộc cách mạng, quay vòng)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "revolutionize",
+        "type": "cách mạng hóa",
+        "ipa": "ˌrɛvəˈluːʃnaɪz",
+        "meaning": "verb cách mạng hóa",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "revolutionary",
+        "type": "cách mạng",
+        "ipa": "ˌrɛvəˈluːʃnəri",
+        "meaning": "adj of revolution (mang tính cách mạng)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "sharp",
+        "type": "nhọn",
+        "ipa": "ʃɑːp",
+        "meaning": "abrupt or acute; smart (rõ rệt, sắc nét; thông minh, sắc sảo)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "skill",
+        "type": "kỹ năng",
+        "ipa": "skɪl",
+        "meaning": "developed ability (kỹ năng)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "software",
+        "type": "phần mềm",
+        "ipa": "ˈsɒftweə",
+        "meaning": "the programs for a computer (phần mềm)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "storage",
+        "type": "lưu trữ",
+        "ipa": "ˈstɔːrɪʤ",
+        "meaning": "the safekeeping of goods or information (kho, sự dự trữ)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "store",
+        "type": "cửa hàng",
+        "ipa": "stɔː",
+        "meaning": "lưu trữ",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "technical",
+        "type": "kỹ thuật",
+        "ipa": "ˈtɛknɪkəl",
+        "meaning": "special skill or knowledge (Kỹ thuật)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "technicality",
+        "type": "kỹ thuật",
+        "ipa": "ˌtɛknɪˈkælɪti",
+        "meaning": "n. chi tiết kỹ thuật",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "assemble",
+        "type": "tập hợp",
+        "ipa": "əˈsɛmbl",
+        "meaning": "to put together; to bring together (thu thập, lắp ráp)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "beforehand",
+        "type": "Tới trước",
+        "ipa": "bɪˈfɔːhænd",
+        "meaning": "early, in advance (sẵn sàng trước)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "complicated",
+        "type": "phức tạp",
+        "ipa": "ˈkɒmplɪkeɪtɪd",
+        "meaning": "not easy to understand (phức tạp)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "courier",
+        "type": "chuyển phát nhanh",
+        "ipa": "ˈkʊrɪə",
+        "meaning": "a messenger (người đưa thư, đưa tin)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "express",
+        "type": "bày tỏ",
+        "ipa": "ɪksˈprɛs",
+        "meaning": "fast and direct (nhanh, hỏa tốc, tốc hành)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "fold",
+        "type": "gập lại",
+        "ipa": "fəʊld",
+        "meaning": "to bend paper (gấp lại, gấp nếp lại)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "layout",
+        "type": "bố trí",
+        "ipa": "ˈleɪaʊt",
+        "meaning": "a format; the organization of material on a page (Sự bố trí trang giấy)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "mention",
+        "type": "đề cập đến",
+        "ipa": "ˈmɛnʃən",
+        "meaning": "to refer to; n, something read or written (đưa ra, đề cập đến)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "mentionable",
+        "type": "đề cập đến",
+        "ipa": "ˈmɛnʃənəbl",
+        "meaning": "adj of mention (đáng kể, đáng đề cập)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "petition",
+        "type": "kiến nghị",
+        "ipa": "pɪˈtɪʃən",
+        "meaning": "a formal, written request; v, to make a formal request (lời thỉnh cầu, đề nghị)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "proof",
+        "type": "bằng chứng",
+        "ipa": "pruːf",
+        "meaning": "to look for errors (dò lỗi, review)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "proofreader",
+        "type": "người đọc thử",
+        "ipa": "ˈpruːfˌriːdə",
+        "meaning": "Người soát lỗi, người review",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "registered",
+        "type": "đã đăng ký",
+        "ipa": "ˈrɛʤɪstəd",
+        "meaning": "recorded and tracked (đã đăng ký, được bảo đảm (thư))",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "revise",
+        "type": "xem lại",
+        "ipa": "rɪˈvaɪz",
+        "meaning": "to rewrite (sửa lại, bản sửa)",
+        "tag": "Correspondence (quan hệ thư từ)"
+    },
+    {
+        "word": "abundant",
+        "type": "phong phú",
+        "ipa": "əˈbʌndənt",
+        "meaning": "plentiful, in large quantities; n, a large number (phong phú, nhiều)",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "accomplishment",
+        "type": "thành tựu",
+        "ipa": "əˈkɒmplɪʃmənt",
+        "meaning": "an achievement, a success (Việc đã hoàn thành, thành quả, thành tựu, thành tích)",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "accomplish",
+        "type": "đạt được",
+        "ipa": "əˈkɒmplɪʃ",
+        "meaning": "Hoàn thành, làm xong, làm trọn",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "bring together",
+        "type": "gom lại",
+        "ipa": "brɪŋ təˈgɛðə",
+        "meaning": "to join, to gather ( gom lại; nhóm lại, họp lại)",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "candidate",
+        "type": "ứng cử viên",
+        "ipa": "ˈkændɪdɪt",
+        "meaning": "one being considered for a position, office (thí sinh, ứng viên, ứng cử viên)",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "come up with",
+        "type": "nghĩ ra",
+        "ipa": "kʌm ʌp wɪð",
+        "meaning": "to plan, to invent, to think of (lên kế hoạch, ý định)",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "commensurate",
+        "type": "tương xứng",
+        "ipa": "kəˈmɛnʃərɪt",
+        "meaning": "in proportion to, corresponding, equal to (( + to, with) tương xứng với)",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "match",
+        "type": "trận đấu",
+        "ipa": "mæʧ",
+        "meaning": "a fit, a similarity (vừa)",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "profile",
+        "type": "Hồ sơ",
+        "ipa": "ˈprəʊfaɪl",
+        "meaning": "a group of characteristics or traits (Tiểu sử sơ lược; mô tả sơ lược)",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "qualification",
+        "type": "trình độ chuyên môn",
+        "ipa": "ˌkwɒlɪfɪˈkeɪʃən",
+        "meaning": "requirements, qualities, or abilities needed for something (Phẩm chất, năng lực, )",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "qualify",
+        "type": "đủ điều kiện",
+        "ipa": "ˈkwɒlɪfaɪ",
+        "meaning": "(Đủ tư cách, khả năng, điều kiện)",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "recruit",
+        "type": "tuyển dụng",
+        "ipa": "rɪˈkruːt",
+        "meaning": "to attract people to join an organization of a cause (tuyển dụng)",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "submit",
+        "type": "Gửi đi",
+        "ipa": "səbˈmɪt",
+        "meaning": "to present for consideration (gửi, nộp)",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "submission",
+        "type": "nộp hồ sơ",
+        "ipa": "səbˈmɪʃən",
+        "meaning": "submittal, noun of submit",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "time-consuming",
+        "type": "mất thời gian",
+        "ipa": "ˈtaɪmkənˈsjuːmɪŋ",
+        "meaning": "taking up a lot of time, lengthy (cần nhiều thời jan)",
+        "tag": "Job Advertising and Recruiting"
+    },
+    {
+        "word": "ability",
+        "type": "có khả năng",
+        "ipa": "əˈbɪlɪti",
+        "meaning": "a skill, a competence (năng lực, khả năng)",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "apply",
+        "type": "ứng dụng",
+        "ipa": "əˈplaɪ",
+        "meaning": "to look for; to submit an application (Xin việc, tìm việc)",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "applicant",
+        "type": "người nộp đơn",
+        "ipa": "ˈæplɪkənt",
+        "meaning": "người nộp đơn xin việc, ứng viên",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "background",
+        "type": "lý lịch",
+        "ipa": "ˈbækgraʊnd",
+        "meaning": "a person’s experience, education, and family history (kinh nghiệm)",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "be ready for",
+        "type": "sẵn sàng cho",
+        "ipa": "biː ˈrɛdi fɔː",
+        "meaning": "to be prepared ( sẵn sàng cho…)",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "call in",
+        "type": "gọi trong",
+        "ipa": "kɔːl ɪn",
+        "meaning": "to request (yêu cầu, ,mời tới)",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "confidence",
+        "type": "sự tự tin",
+        "ipa": "ˈkɒnfɪdəns",
+        "meaning": "a belief in one’s ability (sự tự tin)",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "constantly",
+        "type": "liên tục",
+        "ipa": "ˈkɒnstəntli",
+        "meaning": "on a continual basis, happening all the time (liên tục, luôn luôn, không đổi)",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "expert",
+        "type": "chuyên gia",
+        "ipa": "ˈɛkspɜːt",
+        "meaning": "a specialist (nhà chuyên môn, chuyên sâu, thành thạo)",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "expertise",
+        "type": "chuyên môn",
+        "ipa": "ˌɛkspɜːˈtiːz",
+        "meaning": "(n) sự thành thạo, sự tinh thông",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "follow up",
+        "type": "theo sát",
+        "ipa": "ˈfɒləʊ ʌp",
+        "meaning": "to take additional steps, to continue (tiếp tục, tiếp theo)",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "hesitate",
+        "type": "do dự",
+        "ipa": "ˈhɛzɪteɪt",
+        "meaning": "(v) ngập ngừng, do dự; ngần ngại",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "hesitant",
+        "type": "do dự",
+        "ipa": "ˈhɛzɪtənt",
+        "meaning": "(a) do dự, ngập ngừng, lưỡng lự, không nhất quyết",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "hesitation",
+        "type": "do dự",
+        "ipa": "ˌhɛzɪˈteɪʃən",
+        "meaning": "(n) sự do dự, sự ngập ngừng, sự lưỡng lự, sự không nhất quyết",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "present",
+        "type": "hiện tại",
+        "ipa": "ˈprɛznt",
+        "meaning": "to introduce, to show, to offer for consideration (trình bày, giới thiệu)",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "presentable",
+        "type": "đoan trang",
+        "ipa": "prɪˈzɛntəbl",
+        "meaning": "a. looking suitable or good enough, especially in the way you are dressed (chỉnh tề, coi được)",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "weakness",
+        "type": "yếu đuối",
+        "ipa": "ˈwiːknɪs",
+        "meaning": "(n) nhược điểm, điểm yếu..",
+        "tag": "Applying and Interviewing (xin việc và phỏng vấn)"
+    },
+    {
+        "word": "conduct",
+        "type": "hạnh kiểm",
+        "ipa": "ˈkɒndʌkt",
+        "meaning": "to hold, to take place, to behave (tổ chức, diễn ra; hạnh kiểm, cách cư xử)",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "conductor",
+        "type": "Nhạc trưởng",
+        "ipa": "kənˈdʌktə",
+        "meaning": "(n) người bán vé (xe điện, xe buýt,...); người chỉ huy, người điều khiển",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "generate",
+        "type": "tạo ra",
+        "ipa": "ˈʤɛnəreɪt",
+        "meaning": "to create, to produce ,tạo ra, sinh ra",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "generator",
+        "type": "máy phát điện",
+        "ipa": "ˈʤɛnəreɪtə",
+        "meaning": "(n) a machine that produces something, especially electricity (máy sinh, máy phát; máy phát điện)",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "hire",
+        "type": "Thuê",
+        "ipa": "ˈhaɪə",
+        "meaning": "(v) to employ (n) an employee (thuê, tuyển)",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "keep up with",
+        "type": "theo kịp với",
+        "ipa": "kiːp ʌp wɪð",
+        "meaning": "to stay equal with (theo kịp)",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "look up to",
+        "type": "tìm đến",
+        "ipa": "lʊk ʌp tuː",
+        "meaning": "to admire, to think highly of (Khâm phục, ngưỡng mộ)",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "mentor",
+        "type": "người hướng dẫn",
+        "ipa": "ˈmɛntɔː",
+        "meaning": "người hướng dẫn",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "on track",
+        "type": "theo dõi",
+        "ipa": "ɒn træk",
+        "meaning": "oa. on schedule; focused (Theo lịch trình, đúng tiến độ; tập trung)",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "reject",
+        "type": "Từ chối",
+        "ipa": "ˈriːʤɛkt",
+        "meaning": "to turn down, to say no, to not accept ( từ chối )",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "set up",
+        "type": "thiết lập",
+        "ipa": "sɛt ʌp",
+        "meaning": "to establish, to arrange; a , arranged (thiết lập, tạo dựng)",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "succeed",
+        "type": "thành công",
+        "ipa": "səkˈsiːd",
+        "meaning": "v. thành công",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "success",
+        "type": "sự thành công",
+        "ipa": "səkˈsɛs",
+        "meaning": "(n) sự thành công, sự thắng lợi",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "successful",
+        "type": "thành công",
+        "ipa": "səkˈsɛsfʊl",
+        "meaning": "(a) có kết quả, thành công, thắng lợi, thành đạt",
+        "tag": "Hiring and Training (mướn và đào tạo)"
+    },
+    {
+        "word": "base",
+        "type": "căn cứ",
+        "ipa": "beɪs",
+        "meaning": "v. (+ sth on sth) dựa vào, căn cứ vào",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "basis",
+        "type": "nền tảng",
+        "ipa": "ˈbeɪsɪs",
+        "meaning": "n. a base or foundation (nền tảng, cơ sở)",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "be aware of",
+        "type": "coi chừng",
+        "ipa": "biː əˈweər ɒv",
+        "meaning": "(v) biết, nhận thấy, nhận thức thấy",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "benefit",
+        "type": "lợi ích",
+        "ipa": "ˈbɛnɪfɪt",
+        "meaning": "(n) tiền trợ cấp, phúc lợi (v) giúp ích cho, làm lợi cho",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "beneficial",
+        "type": "có lợi",
+        "ipa": "ˌbɛnɪˈfɪʃəl",
+        "meaning": "(a) có ích, có lợi, tốt",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "compensate",
+        "type": "đền bù",
+        "ipa": "ˈkɒmpɛnseɪt",
+        "meaning": "v. (+ s.o for sth) bù, đền bù, bồi thường",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "compensation",
+        "type": "đền bù",
+        "ipa": "ˌkɒmpɛnˈseɪʃən",
+        "meaning": "(n) sự đền bù, sự bồi thường",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "compensatory",
+        "type": "bù",
+        "ipa": "kəmˈpɛnsətəri",
+        "meaning": "adj bù đắp, bồi thường",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "delicate",
+        "type": "mong manh",
+        "ipa": "ˈdɛlɪkɪt",
+        "meaning": "lịch thiệp, khéo (trong cách đối xử), nhã nhặn, tế nhị, ý tứ",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "eligible",
+        "type": "đủ điều kiện",
+        "ipa": "ˈɛlɪʤəbl",
+        "meaning": "đủ tư cách, thích hợp",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "flexible",
+        "type": "Linh hoạt",
+        "ipa": "ˈflɛksəbl",
+        "meaning": "(a) Linh động, linh hoạt",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "negotiate",
+        "type": "đàm phán",
+        "ipa": "nɪˈgəʊʃɪeɪt",
+        "meaning": "(v) đàm phán, thương lượng",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "negotiation",
+        "type": "đàm phán",
+        "ipa": "nɪˌgəʊʃɪˈeɪʃən",
+        "meaning": "(n) sự đàm phán, sự thương lượng",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "negotiator",
+        "type": "người đàm phán",
+        "ipa": "nɪˈgəʊʃɪeɪtə",
+        "meaning": "(n) người đàm phán, người thương lượng",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "raise",
+        "type": "nâng cao",
+        "ipa": "reɪz",
+        "meaning": "n. an increase in salary; v. to move up",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "retire",
+        "type": "về hưu",
+        "ipa": "rɪˈtaɪə",
+        "meaning": "v. về hưu",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "retirement",
+        "type": "sự nghỉ hưu",
+        "ipa": "rɪˈtaɪəmənt",
+        "meaning": "sự về hưu",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "vested",
+        "type": "mặc vest",
+        "ipa": "ˈvɛstɪd",
+        "meaning": "được quyền, được phép",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "wage",
+        "type": "tiền lương",
+        "ipa": "weɪʤ",
+        "meaning": "tiền công, tiền lương ̣(compare: Salary)",
+        "tag": "Salaries and benefits (lương và trợ cấp)"
+    },
+    {
+        "word": "achieve",
+        "type": "Hoàn thành",
+        "ipa": "əˈʧiːv",
+        "meaning": "giành được, hoàn thành",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "achievement",
+        "type": "thành tích",
+        "ipa": "əˈʧiːvmənt",
+        "meaning": "noun sự giành được, hoàn thành",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "achiever",
+        "type": "người thành đạt",
+        "ipa": "əˈʧiːvə",
+        "meaning": "người thành đạt, thành công",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "contribute",
+        "type": "Góp phần",
+        "ipa": "kənˈtrɪbju(ː)t",
+        "meaning": "đóng góp, góp phần",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "contribution",
+        "type": "sự đóng góp",
+        "ipa": "ˌkɒntrɪˈbjuːʃən",
+        "meaning": "sự đóng góp",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "contributor",
+        "type": "người đóng góp",
+        "ipa": "kənˈtrɪbjʊtə",
+        "meaning": "người góp phần",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "dedication",
+        "type": "cống hiến",
+        "ipa": "ˌdɛdɪˈkeɪʃən",
+        "meaning": "(n) sự cống hiến, sự hiến dâng",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "dedicate",
+        "type": "dâng hiến",
+        "ipa": "ˈdɛdɪkeɪt",
+        "meaning": "(v) cống hiến, hiến dâng",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "dedicated",
+        "type": "tận tâm",
+        "ipa": "ˈdɛdɪkeɪtɪd",
+        "meaning": "(a) tận tụy, tận tâm",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "look forward to",
+        "type": "trông mong",
+        "ipa": "lʊk ˈfɔːwəd tuː",
+        "meaning": "(v) chờ đợi, mong đợi",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "look to",
+        "type": "nhìn vào",
+        "ipa": "lʊk tuː",
+        "meaning": "(v) trông chờ vào, phụ thuộc vào",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "loyal",
+        "type": "trung thành",
+        "ipa": "ˈlɔɪəl",
+        "meaning": "(a) trung thành",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "loyalty",
+        "type": "lòng trung thành",
+        "ipa": "ˈlɔɪəlti",
+        "meaning": "(n) sự trung thành, lòng trung thành",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "merit",
+        "type": "n: Xứng đáng",
+        "ipa": "ˈmɛrɪt",
+        "meaning": "(n) giá trị, công lao, công trạng",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "obvious",
+        "type": "hiển nhiên",
+        "ipa": "ˈɒbvɪəs",
+        "meaning": "(a) rõ ràng, rành mạch, hiển nhiên",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "productive",
+        "type": "năng suất",
+        "ipa": "prəˈdʌktɪv",
+        "meaning": "a. useful, getting a lot done (thực hiện được nhiều, hữu ích, có năng suất)",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "promote",
+        "type": "khuyến khích",
+        "ipa": "prəˈməʊt",
+        "meaning": "(v) đề đạt, tiến cử",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "promotion",
+        "type": "khuyến mãi",
+        "ipa": "prəˈməʊʃən",
+        "meaning": "(n) sự thăng chức, thăng tiến",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "promoter",
+        "type": "người ủng hộ",
+        "ipa": "prəˈməʊtə",
+        "meaning": "(n) người đề nghị, tiến cử",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "recognition",
+        "type": "sự công nhận",
+        "ipa": "ˌrɛkəgˈnɪʃən",
+        "meaning": "(n) sự công nhận, sự thừa nhận",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "value",
+        "type": "giá trị",
+        "ipa": "ˈvæljuː",
+        "meaning": "v. to state the worth (định giá, đánh giá)",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "pension",
+        "type": "lương hưu",
+        "ipa": "ˈpɛnʃən",
+        "meaning": "(n) lương hưu, tiền trợ cấp; (v) trả lương hưu, trợ cấp cho",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "produce",
+        "type": "sản xuất",
+        "ipa": "ˈprɒdjuːs",
+        "meaning": "(v) sản xuất",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "praise",
+        "type": "khen ngợi",
+        "ipa": "preɪz",
+        "meaning": "(v) (n) khen ngợi, ca ngợi, ca tụng, tán tụng, tán dương",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "bargain",
+        "type": "trả giá",
+        "ipa": "ˈbɑːgɪn",
+        "meaning": "(v) mặc cả, thương lượng; (n) sự mặc cả, món hời",
+        "tag": "Shopping"
+    },
+    {
+        "word": "bear",
+        "type": "chịu",
+        "ipa": "beə",
+        "meaning": "v, to have a tolerance for, to endure (chịu đựng)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "behavior",
+        "type": "hành vi",
+        "ipa": "bɪˈheɪvjə",
+        "meaning": "n, the manner of one’s action (cách ứng xử, đối xử)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "checkout",
+        "type": "Thủ tục thanh toán",
+        "ipa": "ˈʧəkˈaʊt",
+        "meaning": "n, the act, time, or place of checking out, as at a hotel or a supermarket (thanh toán, quầy thanh toán)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "comfort",
+        "type": "thoải mái",
+        "ipa": "ˈkʌmfət",
+        "meaning": "n, a condition or feeling of pleasurable ease, well-being, and contentment (thỏai mái, dễ dàng)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "comfortable",
+        "type": "Thoải mái",
+        "ipa": "ˈkʌmf(ə)təbl",
+        "meaning": "adj, thỏai mái, dễ dàng",
+        "tag": "Shopping"
+    },
+    {
+        "word": "expand",
+        "type": "mở rộng",
+        "ipa": "ɪksˈpænd",
+        "meaning": "v, to increase the size, volume, quantity, or scope of; to enlarge (mở rộng, phát triển)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "expansion",
+        "type": "sự bành trướng",
+        "ipa": "ɪksˈpænʃən",
+        "meaning": "n. sự mở rộng, sự bành trướng",
+        "tag": "Shopping"
+    },
+    {
+        "word": "expanded",
+        "type": "mở rộng",
+        "ipa": "ɪksˈpændɪd",
+        "meaning": "adj. nới rộng",
+        "tag": "Shopping"
+    },
+    {
+        "word": "explore",
+        "type": "khám phá",
+        "ipa": "ɪksˈplɔː",
+        "meaning": "v,to investigate systematically (khám phá, thăm dò, thám hiểm)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "exploration",
+        "type": "thăm dò",
+        "ipa": "ˌɛksplɔːˈreɪʃən",
+        "meaning": "n. sự thăm dò, sự khảo sát",
+        "tag": "Shopping"
+    },
+    {
+        "word": "exploratory",
+        "type": "thám hiểm",
+        "ipa": "ɛksˈplɔːrətəri",
+        "meaning": "adj. để thăm dò, để khảo sát",
+        "tag": "Shopping"
+    },
+    {
+        "word": "item",
+        "type": "mục",
+        "ipa": "ˈaɪtəm",
+        "meaning": "n,a single article or unit (mặt hàng, món)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "mandatory",
+        "type": "bắt buộc",
+        "ipa": "ˈmændətəri",
+        "meaning": "a, required or commanded, obligatory (bắt buộc)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "merchandise",
+        "type": "hàng hóa",
+        "ipa": "ˈmɜːʧəndaɪz",
+        "meaning": "n, items available in stores (hàng hóa mua bán); (v) buôn bán, quảng bá sản phẩm",
+        "tag": "Shopping"
+    },
+    {
+        "word": "strict",
+        "type": "nghiêm khắc",
+        "ipa": "strɪkt",
+        "meaning": "a, precise. Exact (chính xác, chặt chẽ, nghiêm ngặt)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "strictness",
+        "type": "nghiêm khắc",
+        "ipa": "ˈstrɪktnəs",
+        "meaning": "n, sự chặt chẽ, tính chính xác, nghiêm ngặt",
+        "tag": "Shopping"
+    },
+    {
+        "word": "trend",
+        "type": "khuynh hướng",
+        "ipa": "trɛnd",
+        "meaning": "n, the current style (xu hướng, xu thế)",
+        "tag": "Shopping"
+    },
+    {
+        "word": "mandate",
+        "type": "thi hành",
+        "ipa": "ˈmændeɪt",
+        "meaning": "(n) (v) chỉ thị, yêu cầu",
+        "tag": "Shopping"
+    },
+    {
+        "word": "merchant",
+        "type": "thương gia",
+        "ipa": "ˈmɜːʧənt",
+        "meaning": "(n) nhà buôn, lái buôn; thương gia",
+        "tag": "Shopping"
+    },
+    {
+        "word": "diverse",
+        "type": "phong phú",
+        "ipa": "daɪˈvɜːs",
+        "meaning": "adj. đa dạng",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "diversify",
+        "type": "đa dạng hóa",
+        "ipa": "daɪˈvɜːsɪfaɪ",
+        "meaning": "v. đa dạng hóa",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "diversity",
+        "type": "đa dạng",
+        "ipa": "daɪˈvɜːsɪti",
+        "meaning": "n. sự đa dạng",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "enterprise",
+        "type": "doanh nghiệp",
+        "ipa": "ˈɛntəpraɪz",
+        "meaning": "n. a businesss; a large project (Công trình dự án lớn; tổ chức kinh doanh, hãng)",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "essential",
+        "type": "Thiết yếu",
+        "ipa": "ɪˈsɛnʃəl",
+        "meaning": "adj. cần thiết, thiết yếu, cốt yếu, chủ yếu; n. yếu tố cần thiết",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "everyday",
+        "type": "Hằng ngày",
+        "ipa": "ˈɛvrɪdeɪ",
+        "meaning": "thông thường, tầm thường, chuyện xảy ra hàng ngày",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "function",
+        "type": "chức năng",
+        "ipa": "ˈfʌŋkʃən",
+        "meaning": "(v) vận hành (n) chức năng, trách nhiệm",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "functional",
+        "type": "chức năng",
+        "ipa": "ˈfʌŋkʃənl",
+        "meaning": "adj chức năng, trách nhiệm",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "maintain",
+        "type": "duy trì",
+        "ipa": "meɪnˈteɪn",
+        "meaning": "v. duy trì",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "maintainability",
+        "type": "khả năng bảo trì",
+        "ipa": "meɪnˌteɪnəˈbɪlɪti",
+        "meaning": "noun sự duy trì, bảo trì",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "maintainable",
+        "type": "duy trì",
+        "ipa": "meɪnˈteɪnəbl",
+        "meaning": "adj. có thể duy trì",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "obtain",
+        "type": "đạt được",
+        "ipa": "əbˈteɪn",
+        "meaning": "v. đạt được, có được",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "prerequisite",
+        "type": "điều kiện tiên quyết",
+        "ipa": "ˌpriːˈrɛkwɪzɪt",
+        "meaning": "n. điều kiện trước hết, điều kiện tiên quyết",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "quality",
+        "type": "chất lượng",
+        "ipa": "ˈkwɒlɪti",
+        "meaning": "chất lượng, phẩm chất",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "smooth",
+        "type": "trơn tru",
+        "ipa": "smuːð",
+        "meaning": "a. êm thấm, suôn sẻ; hòa nhã, lệ độ; ngọt xớt",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "smooth out",
+        "type": "làm mịn",
+        "ipa": "smuːð aʊt",
+        "meaning": "v. Làm cho suôn sẻ",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "stationery",
+        "type": "văn phòng phẩm",
+        "ipa": "ˈsteɪʃnəri",
+        "meaning": "n. đồ dùng văn phòng",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "enterprising",
+        "type": "dám nghĩ dám làm",
+        "ipa": "ˈɛntəpraɪzɪŋ",
+        "meaning": "adj. dám làm; mạnh dạn",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "essence",
+        "type": "Bản chất",
+        "ipa": "ˈɛsns",
+        "meaning": "bản chất, thực chất",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "accurate",
+        "type": "chính xác",
+        "ipa": "ˈækjʊrɪt",
+        "meaning": "a, exact; errorless (đúng, chính xác)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "accuracy",
+        "type": "sự chính xác",
+        "ipa": "ˈækjʊrəsi",
+        "meaning": "n. sự chính xác",
+        "tag": "Shipping"
+    },
+    {
+        "word": "accurately",
+        "type": "chính xác",
+        "ipa": "ˈækjʊrɪtli",
+        "meaning": "adv. một cách chính xác",
+        "tag": "Shipping"
+    },
+    {
+        "word": "carrier",
+        "type": "vận chuyển",
+        "ipa": "ˈkærɪə",
+        "meaning": "n, a person or business that transports passengers or goods (người hoặc một hãng vận chuyển)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "catalog",
+        "type": "mục lục",
+        "ipa": "ˈkætəlɒg",
+        "meaning": "= catalogue (n) quyển danh mục hàng, bảng giá; (v) to make an itemized list of",
+        "tag": "Shipping"
+    },
+    {
+        "word": "fulfill",
+        "type": "hoàn thành",
+        "ipa": "fʊlˈfɪl",
+        "meaning": "v, to finish completely (thực hiện, hoàn thành, làm trọn (nhiệm vụ...))",
+        "tag": "Shipping"
+    },
+    {
+        "word": "fulfilment",
+        "type": "hoàn thành",
+        "ipa": "fʊlˈfɪlmənt",
+        "meaning": "n. sự hoàn thành, sự thực hiện",
+        "tag": "Shipping"
+    },
+    {
+        "word": "integral",
+        "type": "không thể thiếu",
+        "ipa": "ˈɪntɪgrəl",
+        "meaning": "a, necessary for completion (cần thiết, ko thể thiếu)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "inventory",
+        "type": "hàng tồn kho",
+        "ipa": "ˈɪnvəntri",
+        "meaning": "n, goods in stock; an itemized record of these goods ( bảng kê (hàng hóa) )",
+        "tag": "Shipping"
+    },
+    {
+        "word": "minimize",
+        "type": "giảm thiểu",
+        "ipa": "ˈmɪnɪmaɪz",
+        "meaning": "v, to reduce, to give less importance to (giảm tới mức tối thiểu)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "minimal",
+        "type": "tối thiểu",
+        "ipa": "ˈmɪnɪml",
+        "meaning": "adj. Minimum n. (tối thiểu)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "on hand",
+        "type": "trên tay",
+        "ipa": "ɒn hænd",
+        "meaning": "a, available (sẵn sàng, sẵn có)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "remember",
+        "type": "nhớ lại",
+        "ipa": "rɪˈmɛmbə",
+        "meaning": "v, to think of again (nhớ, nhớ lại)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "ship",
+        "type": "tàu",
+        "ipa": "ʃɪp",
+        "meaning": "v, to transport; to send (vận chuyển)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "shipper",
+        "type": "người giao hàng",
+        "ipa": "ˈʃɪpə",
+        "meaning": "n.người ship",
+        "tag": "Shipping"
+    },
+    {
+        "word": "shipment",
+        "type": "giao hàng",
+        "ipa": "ˈʃɪpmənt",
+        "meaning": "n. (việc gửi hàng)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "sufficient",
+        "type": "đủ",
+        "ipa": "səˈfɪʃənt",
+        "meaning": "a, as much as is needed (vừa đủ)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "supply",
+        "type": "cung cấp",
+        "ipa": "səˈplaɪ",
+        "meaning": "v, to make available for use (cung cấp) (n) stock (nguồn dự trữ)",
+        "tag": "Shipping"
+    },
+    {
+        "word": "charge",
+        "type": "sạc điện",
+        "ipa": "ʧɑːʤ",
+        "meaning": "n, an expense or a cost; v, to demand payment (thu phí)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "compile",
+        "type": "biên dịch",
+        "ipa": "kəmˈpaɪl",
+        "meaning": "v, to gather together from several sources (thu thập, biên soạn)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "customer",
+        "type": "khách hàng",
+        "ipa": "ˈkʌstəmə",
+        "meaning": "n, one who purchases a commodity or service (khách hàng)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "discount",
+        "type": "giảm giá",
+        "ipa": "ˈdɪskaʊnt",
+        "meaning": "n, a reduction in price; to reduce in price (giảm giá)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "efficient",
+        "type": "Có hiệu quả",
+        "ipa": "ɪˈfɪʃənt",
+        "meaning": "a, acting or producing effectively with a minimum of waste (có hiệu lực, hiệu quả)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "estimate",
+        "type": "ước tính",
+        "ipa": "ˈɛstɪmɪt",
+        "meaning": "v, to approximate the amount or value of something; to form am opinion About something (ước lượng. định giá)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "estimation",
+        "type": "ước lượng",
+        "ipa": "ˌɛstɪˈmeɪʃən",
+        "meaning": "a judgement or opinion about the value or quality of somebody/something",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "impose",
+        "type": "áp đặt",
+        "ipa": "ɪmˈpəʊz",
+        "meaning": "v, to establish or apply as compulsory; to force upon others (áp đặt, ép buộc, bắt ai phải làm gì đó)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "imposition",
+        "type": "áp đặt",
+        "ipa": "ˌɪmpəˈzɪʃən",
+        "meaning": "n. imposing adj. (đánh thuế ai đó, sự áp đặt, bắt buộc)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "mistake",
+        "type": "sai lầm",
+        "ipa": "mɪsˈteɪk",
+        "meaning": "n, an error or a fault (lỗi)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "mistaken",
+        "type": "nhầm",
+        "ipa": "mɪsˈteɪkən",
+        "meaning": "adj. sai lầm; hiểu sai, hiểu lầm",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "order",
+        "type": "đặt hàng",
+        "ipa": "ˈɔːdə",
+        "meaning": "n, a request made to purchase something ; v, to command or direct (đơn đặt hàng; ra lệnh, chỉ huy)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "prompt",
+        "type": "lời nhắc",
+        "ipa": "prɒmpt",
+        "meaning": "adj, v : be on time or punctual, carried out without delay, n. a reminder or a cue (mau lẹ, nhanh chóng; ngay, ngay tức thì, tức thời)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "promptness",
+        "type": "nhanh chóng",
+        "ipa": "ˈprɒmptnəs",
+        "meaning": "n. sự mau lẹ, sự nhanh chóng",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "rectify",
+        "type": "cải chính",
+        "ipa": "ˈrɛktɪfaɪ",
+        "meaning": "v. to set right or correct ( khắc phục, chỉnh sửa )",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "term",
+        "type": "kỳ hạn",
+        "ipa": "tɜːm",
+        "meaning": "n. conditions (điều khoản; giá; điều kiện)",
+        "tag": "Invoices (Hóa đơn)"
+    },
+    {
+        "word": "adjust",
+        "type": "điều chỉnh",
+        "ipa": "əˈʤʌst",
+        "meaning": "v. to change in order to match or fit, to cause to correspond (điều chỉnh, dàn xếp )",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "adjustment",
+        "type": "điều chỉnh",
+        "ipa": "əˈʤʌstmənt",
+        "meaning": "n. sự điều chỉnh, sự dàn xếp",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "adjustable",
+        "type": "điều chỉnh",
+        "ipa": "əˈʤʌstəbl",
+        "meaning": "adj. có thể điều chỉnh, dàn xếp",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "automatic",
+        "type": "tự động",
+        "ipa": "ˌɔːtəˈmætɪk",
+        "meaning": "adj. Operating independently (tự động)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "automation",
+        "type": "tự động hóa",
+        "ipa": "ˌɔːtəˈmeɪʃ(ə)n",
+        "meaning": "n. sự tự động",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "automatically",
+        "type": "tự động",
+        "ipa": "ˌɔːtəˈmætɪkəli",
+        "meaning": "adv. trạng thái tự động",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "crucial",
+        "type": "quan trọng",
+        "ipa": "ˈkruːʃəl",
+        "meaning": "adj. Extremely significant or important (quyết định; cốt yếu, chủ yếu)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "discrepancy",
+        "type": "sự khác biệt",
+        "ipa": "dɪsˈkrɛpənsi",
+        "meaning": "n. a divergence or disagreement (sự khác nhau, sự ko thống nhất, sự ko nhất quán)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "disturb",
+        "type": "làm phiền",
+        "ipa": "dɪsˈtɜːb",
+        "meaning": "v. to interfere with, to interrupt (làm phiền)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "disturbance",
+        "type": "xáo trộn",
+        "ipa": "dɪsˈtɜːbəns",
+        "meaning": "n. sự náo động; kẻ quấy rầy",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "liability",
+        "type": "trách nhiệm pháp lý",
+        "ipa": "ˌlaɪəˈbɪlɪti",
+        "meaning": "n. an obligation a responsibility (trách nhiệm pháp lý; cái gây khó khăn trở ngại)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "reflect",
+        "type": "phản chiếu",
+        "ipa": "rɪˈflɛkt",
+        "meaning": "v. to given back a likeness (phản chiếu, phản ánh)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "reflection",
+        "type": "phản ánh",
+        "ipa": "rɪˈflɛkʃən",
+        "meaning": "n. sự phản ánh, sự phản chiếu",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "reflector",
+        "type": "phản xạ",
+        "ipa": "rɪˈflɛktə",
+        "meaning": "n. gương phản xạ, vật phản xạ",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "run",
+        "type": "chạy",
+        "ipa": "rʌn",
+        "meaning": "v. to operate (chạy, hoạt động)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "scan",
+        "type": "quét",
+        "ipa": "skæn",
+        "meaning": "v. to look over quickly (xem lướt, xem qua)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "subtract",
+        "type": "trừ",
+        "ipa": "səbˈtrækt",
+        "meaning": "v. to take away, to deduct (trừ đi, khấu trừ)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "tedious",
+        "type": "tẻ nhạt",
+        "ipa": "ˈtiːdiəs",
+        "meaning": "adj. Tiresome by reason of length, slowness, or dullness, boring (chán ngăt, buồn tẻ)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "verify",
+        "type": "kiểm chứng",
+        "ipa": "ˈvɛrɪfaɪ",
+        "meaning": "v. to prove the truth of (Xác minh, kiểm lại)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "accept",
+        "type": "Chấp nhận",
+        "ipa": "əkˈsɛpt",
+        "meaning": "v. to receive, to respond favorably (đồng ý, chấp thuận)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "acceptance",
+        "type": "chấp thuận",
+        "ipa": "əkˈsɛptəns",
+        "meaning": "n. sự đồng ý, chấp thuận",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "acceptable",
+        "type": "chấp nhận được",
+        "ipa": "əkˈsɛptəbl",
+        "meaning": "adj. có thể đồng ý, chấp thuận",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "balance",
+        "type": "thăng bằng",
+        "ipa": "ˈbæləns",
+        "meaning": "n. the remainder, v. to compute the difference between credits and debits of an account.(Số dư (tài khoản))",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "borrow",
+        "type": "vay",
+        "ipa": "ˈbɒrəʊ",
+        "meaning": "v. to use temporarily (vay mượn)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "cautious",
+        "type": "dè dặt",
+        "ipa": "ˈkɔːʃəs",
+        "meaning": "adj. Careful, wary (thận trọng, cẩn thận)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "deduct",
+        "type": "khấu trừ",
+        "ipa": "dɪˈdʌkt",
+        "meaning": "v. to take away from a total, to subtract (khấu trừ). Synonym: Subtract",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "deductible",
+        "type": "khấu trừ",
+        "ipa": "dɪˈdʌktɪbl",
+        "meaning": "adj có thể khấu trừ",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "deduction",
+        "type": "khấu trừ",
+        "ipa": "dɪˈdʌkʃən",
+        "meaning": "n. sự khấu trừ",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "dividend",
+        "type": "cổ tức",
+        "ipa": "ˈdɪvɪdɛnd",
+        "meaning": "n. a share in a distribution (Cổ tức - khoản tiền được chia cho các cổ đông; lãi cổ phần).",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "down payment",
+        "type": "tiền đặt cọc",
+        "ipa": "daʊn ˈpeɪmənt",
+        "meaning": "n. an initial partial payment (Sự trả trước 1 phần khi mua hàng).",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "mortgage",
+        "type": "thế chấp",
+        "ipa": "ˈmɔːgɪʤ",
+        "meaning": "n. the amount due on a property, v. to borrow money with your house as collateral.(cầm cố, thế chấp)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "restriction",
+        "type": "sự hạn chế",
+        "ipa": "rɪsˈtrɪkʃən",
+        "meaning": "n. a limitation (sự giới hạn,hạn chế).",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "restrict",
+        "type": "hạn chế",
+        "ipa": "rɪsˈtrɪkt",
+        "meaning": "v. hạn chế, giới hạn, thu hẹp",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "restricted",
+        "type": "hạn chế",
+        "ipa": "rɪsˈtrɪktɪd",
+        "meaning": "adj. Bị hạn chế, có giới hạn",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "signature",
+        "type": "Chữ ký",
+        "ipa": "ˈsɪgnɪʧə",
+        "meaning": "n. the name of a person written by the person (chữ ký)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "sign",
+        "type": "ký tên",
+        "ipa": "saɪn",
+        "meaning": "v. ký",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "take out",
+        "type": "đưa ra",
+        "ipa": "teɪk aʊt",
+        "meaning": "v. withdraw, remove (rút tiền)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "transaction",
+        "type": "Giao dịch",
+        "ipa": "trænˈzækʃən",
+        "meaning": "n. a business deal (giao dịch; sự giải quyết công việc)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "accounting",
+        "type": "kế toán",
+        "ipa": "əˈkaʊntɪŋ",
+        "meaning": "n. the recording and gathering of financial information for a company (công việc kế toán)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "accountant",
+        "type": "viên kế toán",
+        "ipa": "əˈkaʊntənt",
+        "meaning": "n. (nhân viên kế toán)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "accumulate",
+        "type": "tích trữ",
+        "ipa": "əˈkjuːmjʊleɪt",
+        "meaning": "v. to gather, to collect (tích lũy, gom góp).",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "accumulation",
+        "type": "tích lũy",
+        "ipa": "əˌkjuːmjʊˈleɪʃ(ə)n",
+        "meaning": "n. sự tích lũy, sự góp nhặt",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "accumulated",
+        "type": "tích lũy",
+        "ipa": "əˈkjuːmjʊleɪtɪd",
+        "meaning": "adj. tích lũy",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "asset",
+        "type": "tài sản",
+        "ipa": "ˈæsɛt",
+        "meaning": "n. something of value (tài sản)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "audit",
+        "type": "kiểm toán",
+        "ipa": "ˈɔːdɪt",
+        "meaning": "n. a formal examination of financial records, v. to examine the financial (kiểm toán)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "budget",
+        "type": "ngân sách",
+        "ipa": "ˈbʌʤɪt",
+        "meaning": "(n) ngân quỹ, ngân sách. (v) ghi vào ngân sách",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "budgetary",
+        "type": "ngân sách",
+        "ipa": "ˈbʌʤɪtəri",
+        "meaning": "(adj) thuộc về ngân quỹ, ngân sách",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "build up",
+        "type": "xây dựng lên",
+        "ipa": "bɪld ʌp",
+        "meaning": "n. to increase over time (Sự tăng cường)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "client",
+        "type": "khách hàng",
+        "ipa": "ˈklaɪənt",
+        "meaning": "n. a customer (khách hàng)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "debt",
+        "type": "món nợ",
+        "ipa": "dɛt",
+        "meaning": "n. something owed, as in money or goods (khỏan nợ)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "outstanding",
+        "type": "nổi bật",
+        "ipa": "aʊtˈstændɪŋ",
+        "meaning": "adj. Still due, not paid or settled (còn tồn tại, chưa giải quyết xong, chưa trả nợ).",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "profitable",
+        "type": "có lãi",
+        "ipa": "ˈprɒfɪtəbl",
+        "meaning": "adj. advantageous, beneficial (có sinh lời).",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "profit",
+        "type": "lợi nhuận",
+        "ipa": "ˈprɒfɪt",
+        "meaning": "v. n. (lợi nhuận, thu hồi).",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "reconcile",
+        "type": "hòa giải",
+        "ipa": "ˈrɛkənsaɪl",
+        "meaning": "v. to make consistent (1.giải hòa, giảng hòa; 2.điều hòa, 3.đành cam chịu)",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "turnover",
+        "type": "doanh số",
+        "ipa": "ˈtɜːnˌəʊvə",
+        "meaning": "n. 1.doanh thu, 2. vốn luân chuyển, 3.số công nhân thôi việc",
+        "tag": "Accounting (thanh toán)"
+    },
+    {
+        "word": "aggressive",
+        "type": "xâm lược",
+        "ipa": "əˈgrɛsɪv",
+        "meaning": "adj. Competitive, assertive (gây hấn, hung hăng, hùng hỗ)",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "attitude",
+        "type": "Thái độ",
+        "ipa": "ˈætɪtjuːd",
+        "meaning": "n. a felling about something or someone (thái độ, quan điểm)",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "commitment",
+        "type": "lời cam kết",
+        "ipa": "kəˈmɪtmənt",
+        "meaning": "n. a promise ( sự thỏa thuận,sự thỏa ước, sự cam kết)",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "commit",
+        "type": "cam kết",
+        "ipa": "kəˈmɪt",
+        "meaning": "v. thỏa thuận, thỏa ước, cam kết",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "noncommittal",
+        "type": "không phổ biến",
+        "ipa": "ˈnɒnkəˈmɪtl",
+        "meaning": "adj. không hứa hẹn, cam kết",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "conservative",
+        "type": "thận trọng",
+        "ipa": "kənˈsɜːvətɪv",
+        "meaning": "adj. Cautious, restrained (dè dặt, thận trọng; bảo thủ)",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "fund",
+        "type": "quỹ",
+        "ipa": "fʌnd",
+        "meaning": "n. an amount of money for something specific, v to provide money for (nguồn tiền, quỹ dự trữ).",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "invest",
+        "type": "đầu tư",
+        "ipa": "ɪnˈvɛst",
+        "meaning": "v. to put money into a business or activity with the hope of making more money, to put effort into something (đầu tư)",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "investment",
+        "type": "đầu tư",
+        "ipa": "ɪnˈvɛstmənt",
+        "meaning": "n. Sự đầu tư",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "investor",
+        "type": "nhà đầu tư",
+        "ipa": "ɪnˈvɛstə",
+        "meaning": "n. Người đầu tư, nhà đầu tư",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "long-term",
+        "type": "lâu dài",
+        "ipa": "ˈlɒŋtɜːm",
+        "meaning": "adj. involving or extending over a long period (dài hạn)",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "portfolio",
+        "type": "danh mục đầu tư",
+        "ipa": "pɔːtˈfəʊliəʊ",
+        "meaning": "n. a list of investments (danh mục vốn đầu tư)",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "pull-out",
+        "type": "kéo ra",
+        "ipa": "ˈpʊlˈaʊt",
+        "meaning": "v. to withdraw, to stop participating, n. a withdrawal, removal (rút tiền, rút lui)",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "resource",
+        "type": "nguồn",
+        "ipa": "rɪˈsɔːs",
+        "meaning": "n. assets, valuable things (nguồn, tài nguyên)",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "return",
+        "type": "trở về",
+        "ipa": "rɪˈtɜːn",
+        "meaning": "n. the amount of money gained as profit (tiền thu về, tiền lãi)",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "returnable",
+        "type": "có thể trả lại",
+        "ipa": "rɪˈtɜːnəbl",
+        "meaning": "adj. được trả lại, có thể trả lại",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "wise",
+        "type": "khôn ngoan",
+        "ipa": "waɪz",
+        "meaning": "adj. Knowledgeable, able to offer advice based on experience (Từng trải hiểu biết nhiều, khôn ngoan, sáng suốt).",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "wisdom",
+        "type": "sự khôn ngoan",
+        "ipa": "ˈwɪzdəm",
+        "meaning": "n. Sự khôn ngoan, sáng suốt",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "wisely",
+        "type": "khôn ngoan",
+        "ipa": "ˈwaɪzli",
+        "meaning": "adv. một cách khôn ngoan",
+        "tag": "Investments (đầu tư)"
+    },
+    {
+        "word": "calculate",
+        "type": "tính toán",
+        "ipa": "ˈkælkjʊleɪt",
+        "meaning": "v. to figure out, to compute (tính toán)",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "calculation",
+        "type": "phép tính",
+        "ipa": "ˌkælkjʊˈleɪʃən",
+        "meaning": "n, phép tính",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "calculator",
+        "type": "máy tính",
+        "ipa": "ˈkælkjʊleɪtə",
+        "meaning": "n. máy tính",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "deadline",
+        "type": "hạn chót",
+        "ipa": "ˈdɛdlaɪn",
+        "meaning": "n. a time by which something must be finished (hạn cuối)",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "file",
+        "type": "tập tin",
+        "ipa": "faɪl",
+        "meaning": "sắp xếp, sắp đặt tài liệu",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "fill out",
+        "type": "điền",
+        "ipa": "fɪl aʊt",
+        "meaning": "v. to complete (hoàn tất, hoàn thành)",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "give up",
+        "type": "bỏ cuộc",
+        "ipa": "gɪv ʌp",
+        "meaning": "v. to quit, to stop (đầu hàng, tạm dừng, tạm ngưng)",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "joint",
+        "type": "chung",
+        "ipa": "ʤɔɪnt",
+        "meaning": "adj. together; shared (chung (giữa hai hay nhiều người))",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "owe",
+        "type": "nợ",
+        "ipa": "əʊ",
+        "meaning": "v. to have a debt; to be obligated to pay (nợ, cần phải trả)",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "owner",
+        "type": "chủ nhân",
+        "ipa": "ˈəʊnə",
+        "meaning": "n. người chủ, chủ nhân",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "penalty",
+        "type": "phạt",
+        "ipa": "ˈpɛnlti",
+        "meaning": "n. a punishment, a consequence (khoản tiền phạt, hình phạt)",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "penalize",
+        "type": "xử phạt",
+        "ipa": "ˈpiːnəlaɪz",
+        "meaning": "v. trừng trị, trừng phạt",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "penal",
+        "type": "hình phạt",
+        "ipa": "ˈpiːnl",
+        "meaning": "adj. (thuộc) hình phạt; (thuộc) hình sự",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "prepare",
+        "type": "chuẩn bị",
+        "ipa": "prɪˈpeə",
+        "meaning": "v. to make ready (chuẩn bị)",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "preparation",
+        "type": "sự chuẩn bị",
+        "ipa": "ˌprɛpəˈreɪʃən",
+        "meaning": "n. sự chuẩn bị",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "preparatory",
+        "type": "chuẩn bị",
+        "ipa": "prɪˈpærətəri",
+        "meaning": "adj. để sửa soạn, để chuẩn bị, để dự bị",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "refund",
+        "type": "Hoàn tiền",
+        "ipa": "ˈriːfʌnd",
+        "meaning": "n. the amount paid back, v, to give back (trả lại, hoàn trả)",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "spouse",
+        "type": "vợ / chồng",
+        "ipa": "spaʊz",
+        "meaning": "n. a husband or wife (vợ hoặc chồng)",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "withhold",
+        "type": "giữ lại",
+        "ipa": "wɪðˈhəʊld",
+        "meaning": "v. to keep from. To refrain from (giấu, giữ lại)",
+        "tag": "Taxes (nộp thuế)"
+    },
+    {
+        "word": "desired",
+        "type": "mong muốn",
+        "ipa": "dɪˈzaɪəd",
+        "meaning": "adj. Wished or longed for (thèm muốn; mong muốn, ao ước, khát khao, mơ ước)",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "desire",
+        "type": "khao khát",
+        "ipa": "dɪˈzaɪə",
+        "meaning": "v. to wish for (thèm muốn; mong muốn, ao ước, khát khao, mơ ước)",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "detail",
+        "type": "chi tiết",
+        "ipa": "ˈdiːteɪl",
+        "meaning": "v. to report or relate minutely or in particulars (kể chi tiết, trình bày tỉ mỉ)",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "forecast",
+        "type": "dự báo",
+        "ipa": "ˈfɔːkɑːst",
+        "meaning": "n, a prediction of a future event .v. to estimate or calculate in advance (dự đoán, dự báo trước)",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "level",
+        "type": "cấp độ",
+        "ipa": "ˈlɛvl",
+        "meaning": "n. a relative position or rank on a scale (mức độ, hạng)",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "overall",
+        "type": "tổng thể",
+        "ipa": "ˈəʊvərɔːl",
+        "meaning": "adj. Regarded as a whole, general (tòan bộ, tổng thể, tất cả)",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "perspective",
+        "type": "Góc nhìn cá nhân",
+        "ipa": "pəˈspɛktɪv",
+        "meaning": "n. a mental view or outlook (viễn cảnh, triển vọng; tương lai, tiến độ)",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "projected",
+        "type": "dự kiến",
+        "ipa": "prəˈʤɛktɪd",
+        "meaning": "adj. Estimated, or predicted based on present data",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "project",
+        "type": "dự án",
+        "ipa": "ˈprɒʤɛkt",
+        "meaning": "n. dự án",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "reality",
+        "type": "thực tế",
+        "ipa": "ri(ː)ˈælɪti",
+        "meaning": "n. sự thật",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "realistic",
+        "type": "thực tế",
+        "ipa": "rɪəˈlɪstɪk",
+        "meaning": "adj. (thực tế, hiện thực)",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "target",
+        "type": "Mục tiêu",
+        "ipa": "ˈtɑːgɪt",
+        "meaning": "v. to establish as a goal, n. a goal (mục tiêu)",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "translation",
+        "type": "dịch",
+        "ipa": "trænsˈleɪʃən",
+        "meaning": "n. the act or process of translating (bản dịch, bài dịch)",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "translate",
+        "type": "Phiên dịch",
+        "ipa": "trænsˈleɪt",
+        "meaning": "v. dịch",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "translatable",
+        "type": "có thể dịch",
+        "ipa": "trænsˈleɪtəbl",
+        "meaning": "adj. có thể dịch được",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "typical",
+        "type": "điển hình",
+        "ipa": "ˈtɪpɪk(ə)l",
+        "meaning": "adj. Conforming to a type (tiêu biểu, điển hình; đặc thù, đặc trưng)",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "yield",
+        "type": "năng suất",
+        "ipa": "jiːld",
+        "meaning": "n. an amount produced, v. to produce a profit (lợi nhuận, lợi tức; sinh lợi)",
+        "tag": "Financial Statements (báo cáo tài chính)"
+    },
+    {
+        "word": "adjacent",
+        "type": "liền kề",
+        "ipa": "əˈʤeɪsənt",
+        "meaning": "adj. next to (gần kề, kế liền, sát ngay)",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "collaboration",
+        "type": "hợp tác",
+        "ipa": "kəˌlæbəˈreɪʃən",
+        "meaning": "n. the act of working with someone (sự hợp tác, cộng tác)",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "collaborate",
+        "type": "hợp tác",
+        "ipa": "kəˈlæbəreɪt",
+        "meaning": "v. (+with sb) (on sth) hợp tác, cộng tác",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "concentrate",
+        "type": "tập trung",
+        "ipa": "ˈkɒnsəntreɪt",
+        "meaning": "v. to focus, to think about (trọng tâm, tập trung)",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "conducive",
+        "type": "thuận lợi",
+        "ipa": "kənˈdjuːsɪv",
+        "meaning": "adj. Contributing to, leading to ( có lợi, thuận lợi )",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "disrupt",
+        "type": "phá vỡ",
+        "ipa": "dɪsˈrʌpt",
+        "meaning": "v. to interrupt, to disturb (phá vỡ, quấy rối)",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "disruption",
+        "type": "gián đoạn",
+        "ipa": "dɪsˈrʌpʃən",
+        "meaning": "n. interruption, disturbance (sự phá vỡ, sự quấy rối)",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "disruptive",
+        "type": "gây rối",
+        "ipa": "dɪsˈrʌptɪv",
+        "meaning": "adj. phá vỡ, quấy rối",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "hamper",
+        "type": "cản trở",
+        "ipa": "ˈhæmpə",
+        "meaning": "v. to impede or interfere (ngăn trở, cản trở)",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "inconsiderate",
+        "type": "vô tâm",
+        "ipa": "ˌɪnkənˈsɪdərɪt",
+        "meaning": "adj. Rude, impolite. (thiếu chu đáo, thiếu thận trọng, khinh suất)",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "lobby",
+        "type": "sảnh đợi",
+        "ipa": "ˈlɒbi",
+        "meaning": "n. an anteroom, foyer, or waiting room (phòng khách, phòng chờ)",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "move up",
+        "type": "đi lên",
+        "ipa": "muːv ʌp",
+        "meaning": "v. to advance, improve position (thăng tiến, thăng chức)",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "open to",
+        "type": "mở",
+        "ipa": "ˈəʊpən tuː",
+        "meaning": "adj. Receptive to, vulnerable (dễ tiếp thu, dễ lĩnh hội; dễ bị chỉ trích)",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "opt",
+        "type": "opt",
+        "ipa": "ɒpt",
+        "meaning": "v. to choose, to decide on (+for, to, out) chọn, chọn lựa",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "option",
+        "type": "Lựa chọn",
+        "ipa": "ˈɒpʃən",
+        "meaning": "n. (optimal > adj). something that you can choose to have or do; the freedom to choose what you do.",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "scrutinize",
+        "type": "xem xét kỹ lưỡng",
+        "ipa": "ˈskruːtɪnaɪz",
+        "meaning": "v. to look at carefully and closely (xem xét kỹ lưỡng, nghiên cứu cẩn thận)",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "scrutiny",
+        "type": "xem xét kỹ lưỡng",
+        "ipa": "ˈskruːtɪni",
+        "meaning": "n. sự xem xét kỹ lưỡng, cẩn thận",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "inscrutable",
+        "type": "khó hiểu",
+        "ipa": "ɪnˈskruːtəbl",
+        "meaning": "adj. không thể xem xét; bí hiểm, khó hiểu",
+        "tag": "Property and departments (Trụ sở & Các phòng ban)"
+    },
+    {
+        "word": "adhere (to something)",
+        "type": "tuân thủ (một cái gì đó)",
+        "ipa": "ədˈhɪə (tuː ˈsʌmθɪŋ)",
+        "meaning": "v. to follow, to pay attention to (Tuân thủ)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "agenda",
+        "type": "chương trình nghị sự",
+        "ipa": "əˈʤɛndə",
+        "meaning": "n. a list of topics to be discussed (Những vấn đề, công việc phải bàn tại cuộc hợp)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "bring up",
+        "type": "Mang lên",
+        "ipa": "brɪŋ ʌp",
+        "meaning": "v. to introduce a topic (giới thiệu, đưa ra)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "conclude",
+        "type": "kết luận",
+        "ipa": "kənˈkluːd",
+        "meaning": "v. to stop, to come to a decision (kết luận, kết thúc)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "conclusion",
+        "type": "phần kết luận",
+        "ipa": "kənˈkluːʒən",
+        "meaning": "n. phần kết luận, kết quả",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "conclusive",
+        "type": "kết luận",
+        "ipa": "kənˈkluːsɪv",
+        "meaning": "adj. để kết thúc, để quyết định)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "go ahead",
+        "type": "đi trước",
+        "ipa": "gəʊ əˈhɛd",
+        "meaning": "v. to proceed with, n. permission to do something (tiếp tục, tiến triển)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "goal",
+        "type": "mục tiêu",
+        "ipa": "gəʊl",
+        "meaning": "n. objective, purpose (mục tiêu, mục đích)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "lengthy",
+        "type": "dài dòng",
+        "ipa": "ˈlɛŋθi",
+        "meaning": "adj. Long in time, duration, or distance (dài dòng)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "matter",
+        "type": "vấn đề",
+        "ipa": "ˈmætə",
+        "meaning": "n. an item, issue, topic of interest (vấn đề, chủ đề)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "periodically",
+        "type": "định kỳ",
+        "ipa": "ˌpɪərɪˈɒdɪkəli",
+        "meaning": "adv. From time to time (định kỳ)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "period",
+        "type": "giai đoạn = Stage",
+        "ipa": "ˈpɪərɪəd",
+        "meaning": "n. thời hạn, thời kỳ",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "periodic",
+        "type": "định kỳ",
+        "ipa": "ˌpɪərɪˈɒdɪk",
+        "meaning": "adj. chu kỳ, định kỳ",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "priority",
+        "type": "sự ưu tiên",
+        "ipa": "praɪˈɒrɪti",
+        "meaning": "n. something of importance, something that should be done before other things (sự ưu tiên)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "prioritize",
+        "type": "ưu tiên",
+        "ipa": "praɪˈɒrɪˌtaɪz",
+        "meaning": "v. ưu tiên",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "prior",
+        "type": "trước",
+        "ipa": "ˈpraɪə",
+        "meaning": "adj. ưu tiên",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "progress",
+        "type": "phát triển",
+        "ipa": "ˈprəʊgrəs",
+        "meaning": "n. a movement forward, v. to move forward on something, especially work or a project (sự tiến bộ, sự tiến lên)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "progression",
+        "type": "tiến triển",
+        "ipa": "prəʊˈgrɛʃən",
+        "meaning": "n. sự tiến bộ, tiến triển",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "progressive",
+        "type": "cấp tiến",
+        "ipa": "prəʊˈgrɛsɪv",
+        "meaning": "adj. tiến bộ, tiến triển",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "waste",
+        "type": "chất thải",
+        "ipa": "weɪst",
+        "meaning": "b. not to use wisely, n. not worthwhile. (không giá trị)",
+        "tag": "Board Meetings and committees (cuộc họp hội đồng qtri)"
+    },
+    {
+        "word": "brand",
+        "type": "nhãn hiệu",
+        "ipa": "brænd",
+        "meaning": "n. an identifying mark or label, a trademark (nhãn, nhãn hiệu)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "conform",
+        "type": "tuân thủ",
+        "ipa": "kənˈfɔːm",
+        "meaning": "v. to match specifications or qualities (làm cho phù hợp)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "defect",
+        "type": "khiếm khuyết",
+        "ipa": "dɪˈfɛkt",
+        "meaning": "n. an imperfection or flaw (nhược điểm)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "defective",
+        "type": "khiếm khuyết",
+        "ipa": "dɪˈfɛktɪv",
+        "meaning": "adj. có khiếm khuyết, nhược điểm",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "enhance",
+        "type": "nâng cao",
+        "ipa": "ɪnˈhɑːns",
+        "meaning": "v. to make more attractive or valuable (tăng, nâng cao)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "garment",
+        "type": "quần áo",
+        "ipa": "ˈgɑːmənt",
+        "meaning": "n. an article of clothing (áo quần)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "inspect",
+        "type": "quan sát",
+        "ipa": "ɪnˈspɛkt",
+        "meaning": "v. to look at closely, to examine carefully or officially (kiểm tra, thanh tra)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "inspection",
+        "type": "kiểm tra",
+        "ipa": "ɪnˈspɛkʃən",
+        "meaning": "n. sự kiểm tra, sự xem xét",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "inspector",
+        "type": "thanh tra",
+        "ipa": "ɪnˈspɛktə",
+        "meaning": "n. Người kiểm tra, thanh tra",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "perceive",
+        "type": "nhận thức",
+        "ipa": "pəˈsiːv",
+        "meaning": "v. to notice, to become aware of, to see (nhận thức, lĩnh hội)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "perception",
+        "type": "nhận thức",
+        "ipa": "pəˈsɛpʃən",
+        "meaning": "n. sự nhận biết, nhận thức, cảm nhận",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "perceptive",
+        "type": "nhận thức",
+        "ipa": "pəˈsɛptɪv",
+        "meaning": "adj. thuộc về tri giác",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "repel",
+        "type": "đẩy lùi",
+        "ipa": "rɪˈpɛl",
+        "meaning": "v. to keep away, to fight against (đẩy xa, khước từ)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "repellent",
+        "type": "thuốc chống côn trùng",
+        "ipa": "rɪˈpɛlənt",
+        "meaning": "n. adj. đẩy xa, khước từ",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "take back",
+        "type": "lấy lại",
+        "ipa": "teɪk bæk",
+        "meaning": "b. to return something, to withdraw or retract (lấy lại, kéo lại)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "throw out",
+        "type": "ném ra",
+        "ipa": "θrəʊ aʊt",
+        "meaning": "v. to dispose of (vứt đi, bỏ đi)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "uniform",
+        "type": "đồng phục",
+        "ipa": "ˈjuːnɪfɔːm",
+        "meaning": "adj. Consistent in form or appearance (Cùng 1 kiểu, không thay đổi về tính cáh hay hình thức)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "wrinkle",
+        "type": "nếp nhăn",
+        "ipa": "ˈrɪŋkl",
+        "meaning": "n. a crease, ridge, or furrow, especially in skin or fabric (nếp nhăn)",
+        "tag": "Quality control (kiểm soát chất lượng)"
+    },
+    {
+        "word": "anxious",
+        "type": "lo lắng",
+        "ipa": "ˈæŋkʃəs",
+        "meaning": "adj. Worried (lo âu, băn khoăn)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "anxiety",
+        "type": "sự lo ngại",
+        "ipa": "æŋˈzaɪəti",
+        "meaning": "n. mối lo âu",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "ascertain",
+        "type": "xác minh",
+        "ipa": "ˌæsəˈteɪn",
+        "meaning": "v. to discover, to find out for certain (tìm hiểu một cách chắc chắn",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "assume",
+        "type": "giả định",
+        "ipa": "əˈsjuːm",
+        "meaning": "v. to take upon oneself, to believe to be true (cho rằng, thừa nhận)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "assumed",
+        "type": "giả định",
+        "ipa": "əˈsjuːmd",
+        "meaning": "adj. cho rằng, thừa nhận",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "assumption",
+        "type": "giả thiết",
+        "ipa": "əˈsʌmpʃ(ə)n",
+        "meaning": "n. giả thuyết, giả định",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "decade",
+        "type": "thập kỷ",
+        "ipa": "ˈdɛkeɪd",
+        "meaning": "n. a period of ten years (thập kỷ)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "examine",
+        "type": "xem xét",
+        "ipa": "ɪgˈzæmɪn",
+        "meaning": "v. to interrogate, to scrutinize (xem xét chi tiết)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "experiment",
+        "type": "thí nghiệm",
+        "ipa": "ɪksˈpɛrɪmənt",
+        "meaning": "v. to try out a new procedure or idea, n. a test or trial (thí nghiệm, thử nghiệm)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "experimentation",
+        "type": "thử nghiệm",
+        "ipa": "ɛksˌpɛrɪmɛnˈteɪʃən",
+        "meaning": "n. cuộc thử nghiệm",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "experimental",
+        "type": "thực nghiệm",
+        "ipa": "ɛksˌpɛrɪˈmɛntl",
+        "meaning": "adj. thử nghiệm",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "logical",
+        "type": "hợp lý",
+        "ipa": "ˈlɒʤɪkəl",
+        "meaning": "adj. formally valid, using orderly reasoning (hợp lý, có lý)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "research",
+        "type": "nghiên cứu",
+        "ipa": "rɪˈsɜːʧ",
+        "meaning": "n. the act of collecting in formation about a particular subject (nghiên cứu)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "responsibility",
+        "type": "nhiệm vụ",
+        "ipa": "rɪsˌpɒnsəˈbɪlɪti",
+        "meaning": "n. task (bổn phận, trách nhiệm)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "responsible",
+        "type": "chịu trách nhiệm",
+        "ipa": "rɪsˈpɒnsəbl",
+        "meaning": "adj. chịu trách nhiệm",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "responsibly",
+        "type": "có trách nhiệm",
+        "ipa": "rɪsˈpɒnsəbli",
+        "meaning": "adv. có trách nhiệm",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "solve",
+        "type": "gỡ rối",
+        "ipa": "sɒlv",
+        "meaning": "v. to find a solution, explanation, or answer (giải quyết, làm sáng tỏ một vấn đề)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "supervisor",
+        "type": "giám sát viên",
+        "ipa": "ˈsjuːpəvaɪzə",
+        "meaning": "n. an administrator in charge (người giám sát)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "systematic",
+        "type": "có hệ thống",
+        "ipa": "ˌsɪstɪˈmætɪk",
+        "meaning": "adj. Methodical in procedure, organized (có phương pháp, hệ thống)",
+        "tag": "Product Development (phát triển sản phẩm)"
+    },
+    {
+        "word": "apprehensive",
+        "type": "E sợ",
+        "ipa": "ˌæprɪˈhɛnsɪv",
+        "meaning": "adj. Anxious about the future ( e ngại, sợ)",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "apprehend",
+        "type": "bắt giữ",
+        "ipa": "ˌæprɪˈhɛnd",
+        "meaning": "v. sợ/thấu hiểu/bắt giữ",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "apprehension",
+        "type": "e ngại",
+        "ipa": "ˌæprɪˈhɛnʃ(ə)n",
+        "meaning": "n. mối lo sợ",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "circumstance",
+        "type": "hoàn cảnh",
+        "ipa": "ˈsɜːkəmstəns",
+        "meaning": "n. a condition, a situation (tình thế, tình huống)",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "condition",
+        "type": "điều kiện",
+        "ipa": "kənˈdɪʃən",
+        "meaning": "n. the state of something, a requirement (điều kiện)",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "conditional",
+        "type": "có điều kiện",
+        "ipa": "kənˈdɪʃənl",
+        "meaning": "adj. điều kiện",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "due to",
+        "type": "do",
+        "ipa": "djuː tuː",
+        "meaning": "prep. Because of ( bởi vì, nguyên nhân dẫn đến cái gì)",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "fluctuate",
+        "type": "dao động",
+        "ipa": "ˈflʌktjʊeɪt",
+        "meaning": "v. to go up and down, to change (dao động, thay đổi bất thường)",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "fluctuation",
+        "type": "biến động",
+        "ipa": "ˌflʌktjʊˈeɪʃən",
+        "meaning": "n. fluctuating gerund. (sự giao động)",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "get out of",
+        "type": "ra khỏi",
+        "ipa": "gɛt aʊt ɒv",
+        "meaning": "v. to escape, to exit (thoát khỏi, rời khỏi)",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "indicator",
+        "type": "chỉ số",
+        "ipa": "ˈɪndɪkeɪtə",
+        "meaning": "n. a sign, a signal.",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "indicate",
+        "type": "biểu thị",
+        "ipa": "ˈɪndɪkeɪt",
+        "meaning": "v. chỉ ra, tỏ ra",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "indication",
+        "type": "chỉ định",
+        "ipa": "ˌɪndɪˈkeɪʃən",
+        "meaning": "n. sự chỉ thị/dấu hiệu chỉ dẫn",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "lease",
+        "type": "cho thuê",
+        "ipa": "liːs",
+        "meaning": "n. a contract to pay to use property for an amount of time, v. to make a contract to use property ( Hợp đồng cho thuê)",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "lock into",
+        "type": "khóa vào",
+        "ipa": "lɒk ˈɪntuː",
+        "meaning": "v. to commit, to be unable to change (thỏa thuận ko thay đổi)",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "occupancy",
+        "type": "chiếm",
+        "ipa": "ˈɒkjʊpənsi",
+        "meaning": "n. the state of being or living in a certain place (sở hữu, chiếm hữu)",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "option",
+        "type": "Lựa chọn",
+        "ipa": "ˈɒpʃən",
+        "meaning": "n. a choice, an alternative ( sự lựa chọn)",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "subject to",
+        "type": "tùy thuộc vào",
+        "ipa": "ˈsʌbʤɪkt tuː",
+        "meaning": "adj. Under legal power, dependent (tùy thuộc vào cái gì đó, dựa theo cái gì đó)",
+        "tag": "Renting and Leasing (thuê và cho thuê)"
+    },
+    {
+        "word": "appeal",
+        "type": "kháng cáo",
+        "ipa": "əˈpiːl",
+        "meaning": "adj. to be attractive or interesting (sự hấp dẫn, thích thú)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "arrive",
+        "type": "đến",
+        "ipa": "əˈraɪv",
+        "meaning": "v. to reach a destination (tới một nơi)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "compromise",
+        "type": "thỏa hiệp",
+        "ipa": "ˈkɒmprəmaɪz",
+        "meaning": "n., a settlement of differences in which each side makes concessions (sự thỏa hiệp, thỏa ước)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "daring",
+        "type": "táo bạo",
+        "ipa": "ˈdeərɪŋ",
+        "meaning": "adj., to have the courage required (táo bạo, liều lĩnh)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "familiar",
+        "type": "Quen biết",
+        "ipa": "fəˈmɪliə",
+        "meaning": "adj., often encountered or seen; common (quen thuộc, quen, tương tự)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "guide",
+        "type": "hướng dẫn",
+        "ipa": "gaɪd",
+        "meaning": "n. one who leads, directs, or gives advice (người hướng dẫn)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "guidance",
+        "type": "hướng dẫn",
+        "ipa": "ˈgaɪdəns",
+        "meaning": "n. sự hướng dẫn",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "guidable",
+        "type": "hướng dẫn",
+        "ipa": "ˈgaɪdəbl",
+        "meaning": "adj. Có thể chỉ đạo, có thể hướng dẫn, có thể dìu dắt",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "majority",
+        "type": "số đông",
+        "ipa": "məˈʤɒrɪti",
+        "meaning": "n. the greater number or part (phần lớn, đa số)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "mix",
+        "type": "pha trộn",
+        "ipa": "mɪks",
+        "meaning": "v. trộn lẫn, hòa lẫn",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "mixture",
+        "type": "hỗn hợp",
+        "ipa": "ˈmɪksʧə",
+        "meaning": "n. Sự pha trộn, sự hỗn hợp",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "mixable",
+        "type": "có thể trộn",
+        "ipa": "ˈmɪksəbl",
+        "meaning": "adj. Có thể trộn lẫn, có thể pha lẫn, có thể hoà lẫn",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "rely",
+        "type": "dựa",
+        "ipa": "rɪˈlaɪ",
+        "meaning": "v. to have confidence in; to depend on (tin cậy vào, dựa vào)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "reliability",
+        "type": "độ tin cậy",
+        "ipa": "rɪˌlaɪəˈbɪlɪti",
+        "meaning": "n. Sự đáng tin cậy; tính đáng tin cậy",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "reliable",
+        "type": "đáng tin cậy",
+        "ipa": "rɪˈlaɪəbl",
+        "meaning": "adj. Chắc chắn, đáng tin cậy; xác thực (tin tức...)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "secure",
+        "type": "đảm bảo",
+        "ipa": "sɪˈkjʊə",
+        "meaning": "v. to get possession of; to obtain (bảo đảm)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "subjective",
+        "type": "chủ quan",
+        "ipa": "səbˈʤɛktɪv",
+        "meaning": "adj., particular to a given person; highly personal; not objective (chủ quan)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "suggest",
+        "type": "đề xuất",
+        "ipa": "səˈʤɛst",
+        "meaning": "v. to offer for consideration or action (gợi ý)",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "suggestion",
+        "type": "gợi ý",
+        "ipa": "səˈʤɛsʧən",
+        "meaning": "n. sự gợi ý",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "suggestible",
+        "type": "gợi ý",
+        "ipa": "səˈʤɛstəbl",
+        "meaning": "adj. có thể đề nghị được",
+        "tag": "Selecting a Restaurant (chọn lựa nhà hàng)"
+    },
+    {
+        "word": "basic",
+        "type": "căn bản",
+        "ipa": "ˈbeɪsɪk",
+        "meaning": "adj., serving as a starting point or basis (cơ bản, căn bản)",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "complete",
+        "type": "hoàn thành",
+        "ipa": "kəmˈpliːt",
+        "meaning": "adj., having all necessary or normal parts, components, or steps (đầy đủ, trọn vẹn)",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "completion",
+        "type": "hoàn thành",
+        "ipa": "kəmˈpliːʃən",
+        "meaning": "n. sự hoàn thành",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "completely",
+        "type": "hoàn toàn",
+        "ipa": "kəmˈpliːtli",
+        "meaning": "adv. làm cho đầy đủ",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "excite",
+        "type": "hưng phấn",
+        "ipa": "ɪkˈsaɪt",
+        "meaning": "v. to arouse an emotion (kích động)",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "excitement",
+        "type": "sự phấn khích",
+        "ipa": "ɪkˈsaɪtmənt",
+        "meaning": "n. sự phấn khích",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "exciting",
+        "type": "thú vị",
+        "ipa": "ɪkˈsaɪtɪŋ",
+        "meaning": "adj. hứng thú, lý thú, hồi hộp",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "flavor",
+        "type": "hương vị",
+        "ipa": "ˈfleɪvə",
+        "meaning": "n. a distinctive taste (vị ngọt, mùi thơm phảng phất)",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "forget",
+        "type": "quên",
+        "ipa": "fəˈgɛt",
+        "meaning": "v. to be unable to remember (quên)",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "forgetful",
+        "type": "đãng trí",
+        "ipa": "fəˈgɛtfʊl",
+        "meaning": "adj. cẩu thả, hay quên, trí nhớ không tốt",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "forgettable",
+        "type": "đáng quên",
+        "ipa": "fəˈgɛtəbl",
+        "meaning": "adj. có thể quên được",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "ingredient",
+        "type": "thành phần",
+        "ipa": "ɪnˈgriːdiənt",
+        "meaning": "n. an element in a mixture (thành phần)",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "judge",
+        "type": "thẩm phán",
+        "ipa": "ˈʤʌʤ",
+        "meaning": "v. to form an opinion (đánh giá)",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "mix-up",
+        "type": "trộn lên",
+        "ipa": "ˈmɪksˈʌp",
+        "meaning": "n. a confusion; v. to confuse (lẫn lộn, bối rối)",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "patron",
+        "type": "người bảo trợ",
+        "ipa": "ˈpeɪtrən",
+        "meaning": "n. a customer, especially a regular customer (khách hàng quen)",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "predict",
+        "type": "dự đoán",
+        "ipa": "prɪˈdɪkt",
+        "meaning": "v. to state, tell about, or make known in advance (dự đoán, dự báo)",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "prediction",
+        "type": "sự dự đoán",
+        "ipa": "prɪˈdɪkʃən",
+        "meaning": "n. sự dự báo, sự dự đoán; lời dự đoán, lời tiên tri",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "predictable",
+        "type": "dự đoán",
+        "ipa": "prɪˈdɪktəbl",
+        "meaning": "adj. có thể đoán trước, có thể dự đoán, dự báo",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "random",
+        "type": "ngẫu nhiên",
+        "ipa": "ˈrændəm",
+        "meaning": "adj. having no specific pattern, purpose, or objective (ngẫu nhiên, tình cờ)",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "remind",
+        "type": "nhắc lại",
+        "ipa": "ˈrɪmaɪnd",
+        "meaning": "v. to cause to remember (nhắc nhở)",
+        "tag": "Eating out (ăn bên ngoài)"
+    },
+    {
+        "word": "burdensome",
+        "type": "gánh nặng",
+        "ipa": "ˈbɜːdnsəm",
+        "meaning": "adj. of or like a burden; onerous (nặng nề, phiền toái)",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "common",
+        "type": "chung",
+        "ipa": "ˈkɒmən",
+        "meaning": "adj. widespread, frequent, usual (thông thường, phổ biến)",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "in common",
+        "type": "điểm chung",
+        "ipa": "ɪn ˈkɒmən",
+        "meaning": "n. điểm chung, giống",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "commonly",
+        "type": "thông thường",
+        "ipa": "ˈkɒmənli",
+        "meaning": "adv. thông thường, phổ biến",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "delivery",
+        "type": "chuyển",
+        "ipa": "dɪˈlɪvəri",
+        "meaning": "n. the act of conveying or delivering (giao hàng)",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "elegant",
+        "type": "thanh lịch",
+        "ipa": "ˈɛlɪgənt",
+        "meaning": "adj. exhibiting refined, tasteful beauty (thanh lịch, trang nhã)",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "elegance",
+        "type": "sang trọng",
+        "ipa": "ˈɛlɪgəns",
+        "meaning": "n. sự thanh lịch",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "elegantly",
+        "type": "thanh lịch",
+        "ipa": "ˈɛlɪgəntli",
+        "meaning": "adv. thanh lịch",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "fall to",
+        "type": "rơi xuống",
+        "ipa": "fɔːl tuː",
+        "meaning": "v. to become one’s responsibility ( trách nhiệm được giao cho )",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "impress",
+        "type": "gây ấn tượng",
+        "ipa": "ˈɪmprɛs",
+        "meaning": "v. to affect strongly, often favorably (ấn tượng)",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "impression",
+        "type": "ấn tượng",
+        "ipa": "ɪmˈprɛʃən",
+        "meaning": "n. sự ấn tượng",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "individual",
+        "type": "cá nhân",
+        "ipa": "ˌɪndɪˈvɪdjʊəl",
+        "meaning": "adj. by or for one person; special; particular (cá nhân, riêng lẻ)",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "individualize",
+        "type": "cá nhân hóa",
+        "ipa": "ˌɪndɪˈvɪdjʊəlaɪz",
+        "meaning": "v. cá nhân hóa, chỉ rõ",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "individually",
+        "type": "cá nhân",
+        "ipa": "ˌɪndɪˈvɪdjʊəli",
+        "meaning": "adv. cá nhân, riêng lẻ",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "list",
+        "type": "danh sách",
+        "ipa": "lɪst",
+        "meaning": "n. danh sách",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "multiple",
+        "type": "nhiều",
+        "ipa": "ˈmʌltɪpl",
+        "meaning": "adj. having, relating to , or consisting of more than one part (nhiều, phức tạp)",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "narrow",
+        "type": "hẹp",
+        "ipa": "ˈnærəʊ",
+        "meaning": "v. to limit or restrict; adj., limited (chật hẹp, hạn chế)",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "pick up",
+        "type": "nhặt lên",
+        "ipa": "pɪk ʌp",
+        "meaning": "v. to take on passengers or freight (đón (ai đó))",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "settle",
+        "type": "giải quyết",
+        "ipa": "ˈsɛtl",
+        "meaning": "v. to make compensation for, to pay; to choose (định cư, ổn định)",
+        "tag": "Ordering Lunch (gọi món ăn trưa)"
+    },
+    {
+        "word": "accustom to",
+        "type": "quen với",
+        "ipa": "əˈkʌstəm tuː",
+        "meaning": "v. to become familiar with, to become used to (làm quen với cái gì)",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "apprentice",
+        "type": "học nghề",
+        "ipa": "əˈprɛntɪs",
+        "meaning": "n. a student worker in a chosen field (tập sự, người mới vào nghề)",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "apprenticeship",
+        "type": "sự học việc",
+        "ipa": "əˈprɛntɪʃɪp",
+        "meaning": "n. sự tập sự, học nghề",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "culinary",
+        "type": "ẩm thực",
+        "ipa": "ˈkʌlɪnəri",
+        "meaning": "adj. relating to the kitchen or cooking (việc bếp núc)",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "demanding",
+        "type": "đòi hỏi",
+        "ipa": "dɪˈmɑːndɪŋ",
+        "meaning": "adj. requiring much effort or attention (Đòi hỏi khắt khe)",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "draw",
+        "type": "vẽ tranh",
+        "ipa": "drɔː",
+        "meaning": "v. to cause to come by attracting (kéo, lôi kéo)",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "incorporate",
+        "type": "kết hợp",
+        "ipa": "ɪnˈkɔːpərɪt",
+        "meaning": "v. to unite one thing with something else already in existence (sát nhập chặt chẽ)",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "incorporation",
+        "type": "tổ chức",
+        "ipa": "ɪnˌkɔːpəˈreɪʃən",
+        "meaning": "n. sự kết hợp, cộng tác",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "influx",
+        "type": "dòng",
+        "ipa": "ˈɪnflʌks",
+        "meaning": "n. a flowing in (dòng chảy vào)",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "method",
+        "type": "phương pháp",
+        "ipa": "ˈmɛθəd",
+        "meaning": "n. a procedure (phương pháp, cách thức)",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "methodology",
+        "type": "phương pháp luận",
+        "ipa": "ˌmɛθəˈdɒləʤi",
+        "meaning": "n. phương pháp luận",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "methodical",
+        "type": "có phương pháp",
+        "ipa": "mɪˈθɒdɪkəl",
+        "meaning": "adj. có phương pháp",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "outlet",
+        "type": "ổ cắm",
+        "ipa": "ˈaʊtlɛt",
+        "meaning": "n. a means of release or gratification, as for energies, drives, or desires (lối ra, lối thoát)",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "profession",
+        "type": "nghề nghiệp",
+        "ipa": "prəˈfɛʃən",
+        "meaning": "n. an occupation requiring considerable training and specialized study (nghề nghiệp)",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "professional",
+        "type": "chuyên nghiệp",
+        "ipa": "prəˈfɛʃənl",
+        "meaning": "adj. chuyên nghiệp",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "professionally",
+        "type": "chuyên nghiệp",
+        "ipa": "prəˈfɛʃnəli",
+        "meaning": "adv. một cách chuyên nghiệp",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "relinquish",
+        "type": "từ bỏ",
+        "ipa": "rɪˈlɪŋkwɪʃ",
+        "meaning": "v. to let go; to surrender (từ bỏ)",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "theme",
+        "type": "chủ đề",
+        "ipa": "θiːm",
+        "meaning": "n. an implicit or recurrent idea; a motif (chủ đề, đề tài)",
+        "tag": "Cooking as a career (Nghề nấu ăn)"
+    },
+    {
+        "word": "assist",
+        "type": "hỗ trợ",
+        "ipa": "əˈsɪst",
+        "meaning": "v. to give help or support to ( trợ giúp, hỗ trợ )",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "assistance",
+        "type": "hỗ trợ",
+        "ipa": "əˈsɪstəns",
+        "meaning": "n. sự giúp đỡ, người giúp việc",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "assistant",
+        "type": "phụ tá",
+        "ipa": "əˈsɪstənt",
+        "meaning": "n. trợ lý",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "coordinate",
+        "type": "danh từ: Tọa độ",
+        "ipa": "kəʊˈɔːdnɪt",
+        "meaning": "v. to adjust or arrange parts to work together (sắp xếp, sẳp đặt)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "dimension",
+        "type": "kích thước",
+        "ipa": "dɪˈmɛnʃən",
+        "meaning": "n. a measure of width, height, or length (kích thước)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "exact",
+        "type": "chính xác",
+        "ipa": "ɪgˈzækt",
+        "meaning": "adj. characterized by accurate measurements or inferences (chính xác)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "general",
+        "type": "chung",
+        "ipa": "ˈʤɛnərəl",
+        "meaning": "adj. involving only the main feature rather than precise details (hầu hết, phổ biến)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "generalize",
+        "type": "khái quát hóa",
+        "ipa": "ˈʤɛnərəlaɪz",
+        "meaning": "v. khái quát hóa, tổng quát hóa",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "generally",
+        "type": "nói chung là",
+        "ipa": "ˈʤɛnərəli",
+        "meaning": "adv. đại khái, chung chung",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "ideal",
+        "type": "lý tưởng",
+        "ipa": "aɪˈdɪəl",
+        "meaning": "adj. imaginary; existing as a perfect model (quan niệm, tưởng tượng, mẫu hình lý tưởng)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "idealize",
+        "type": "lý tưởng hóa",
+        "ipa": "aɪˈdɪəlaɪz",
+        "meaning": "v. lý tưởng hóa, theo lý tưởng",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "lead time",
+        "type": "thời gian dẫn",
+        "ipa": "liːd taɪm",
+        "meaning": "khoảng thời gian giữa lúc bắt đầu và lúc hoàn thành một quá trình sx mới",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "plan",
+        "type": "kế hoạch",
+        "ipa": "plæn",
+        "meaning": "n. kế hoạch",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "proximity",
+        "type": "gần",
+        "ipa": "prɒkˈsɪmɪti",
+        "meaning": "n. the state, quality, sense, or fact of being near or next to; closeness (sự gần gũi)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "regulation",
+        "type": "Quy định",
+        "ipa": "ˌrɛgjʊˈleɪʃən",
+        "meaning": "n. rules, laws, or controls; v., to control (sự điều chỉnh, qui tắc, điều lệ)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "regulate",
+        "type": "điều tiết",
+        "ipa": "ˈrɛgjʊleɪt",
+        "meaning": "v. điều chỉnh",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "regulatory",
+        "type": "quy định",
+        "ipa": "ˈrɛgjʊleɪt(ə)ri",
+        "meaning": "adj. điều chỉnh, quy định",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "site",
+        "type": "Địa điểm",
+        "ipa": "saɪt",
+        "meaning": "n. a place or setting (vị trí, địa điểm)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "stage",
+        "type": "sân khấu",
+        "ipa": "steɪʤ",
+        "meaning": "v. to exhibit or present (Trình diễn)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "agency",
+        "type": "đại lý",
+        "ipa": "ˈeɪʤənsi",
+        "meaning": "n., an establishment engaged in doing business (đại lý)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "announcement",
+        "type": "sự thông báo",
+        "ipa": "əˈnaʊnsmənt",
+        "meaning": "n. a public notification (sự thông báo)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "announce",
+        "type": "thông báo",
+        "ipa": "əˈnaʊns",
+        "meaning": "v. thông báo",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "announcer",
+        "type": "phát thanh viên",
+        "ipa": "əˈnaʊnsə",
+        "meaning": "n. người thông báo",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "beverage",
+        "type": "đồ uống",
+        "ipa": "ˈbɛvərɪʤ",
+        "meaning": "n. a drink other than plain water (đồ uống, thức uống)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "blanket",
+        "type": "cái mền",
+        "ipa": "ˈblæŋkɪt",
+        "meaning": "n. a covering for keeping warm, especially during sleep; any full coverage; v., to cover uniformly (Mền, chăn)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "board",
+        "type": "bảng",
+        "ipa": "bɔːd",
+        "meaning": "v. to enter a boat, plane, or train; to furnish to see the roads v.,(lên tàu)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "onboard",
+        "type": "trên tàu",
+        "ipa": "ˈɒnbɔːd",
+        "meaning": "adj. trên tàu",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "claim",
+        "type": "yêu cầu",
+        "ipa": "kleɪm",
+        "meaning": "v. to take as rightful; to retrieve (đòi hỏi, quyền yêu sách)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "delay",
+        "type": "sự chậm trễ",
+        "ipa": "dɪˈleɪ",
+        "meaning": "v. n. trì hoãn",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "embark",
+        "type": "tham gia",
+        "ipa": "ɪmˈbɑːk",
+        "meaning": "v. to go onboard a flight or ship; to begin (Lên tàu)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "itinerary",
+        "type": "hành trình",
+        "ipa": "aɪˈtɪnərəri",
+        "meaning": "n. a proposed rout for a journey, showing dates and means of travel (lịch trình bay)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "prohibit",
+        "type": "cấm",
+        "ipa": "prəˈhɪbɪt",
+        "meaning": "v. to forbid by authority or to prevent (ngăn cấm, ngăn chặn)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "valid",
+        "type": "có hiệu lực",
+        "ipa": "ˈvælɪd",
+        "meaning": "adj. having legal efficacy or correctness (hiệu lực)",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "validate",
+        "type": "xác nhận",
+        "ipa": "ˈvælɪdeɪt",
+        "meaning": "v. chứng thực, xác nhận",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "validation",
+        "type": "Thẩm định",
+        "ipa": "ˌvælɪˈdeɪʃən",
+        "meaning": "n. sự chứng thực, xác nhận",
+        "tag": "General Travel (du lịch tổng quan)"
+    },
+    {
+        "word": "deal with",
+        "type": "đôi pho vơi",
+        "ipa": "diːl wɪð",
+        "meaning": "v. phrase, to attend to; mange; to see to (bàn về cái gì, thỏa thuận cái gì)",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "destination",
+        "type": "Nơi Đến",
+        "ipa": "ˌdɛstɪˈneɪʃən",
+        "meaning": "n. the place to which one is going or directed (điểm đến)",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "distinguish",
+        "type": "phân biệt",
+        "ipa": "dɪsˈtɪŋgwɪʃ",
+        "meaning": "v. to make noticeable or different (nhận ra, nhận biết)",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "distinguishable",
+        "type": "phân biệt",
+        "ipa": "dɪsˈtɪŋgwɪʃəbl",
+        "meaning": "adj. có thể nhận ra",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "distinguishably",
+        "type": "phân biệt",
+        "ipa": "dɪsˈtɪŋgwɪʃəbli",
+        "meaning": "adv. nhận ra, nhận biết",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "economical",
+        "type": "tiết kiệm",
+        "ipa": "ˌiːkəˈnɒmɪkəl",
+        "meaning": "adj. intended to save money, time, or effort (tiết kiệm)",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "economy",
+        "type": "nên kinh tê",
+        "ipa": "i(ː)ˈkɒnəmi",
+        "meaning": "n. sự tiết kiệm",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "economize",
+        "type": "tiết kiệm",
+        "ipa": "i(ː)ˈkɒnəmaɪz",
+        "meaning": "v. tiết kiệm",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "equivalent",
+        "type": "tương đương",
+        "ipa": "ɪˈkwɪvələnt",
+        "meaning": "adj. equal (tương đương)",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "excursion",
+        "type": "chuyến tham quan",
+        "ipa": "ɪksˈkɜːʃən",
+        "meaning": "n. a pleasure trip; a trip at a reduced fare (chuyến thăm quan)",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "expensive",
+        "type": "đắt",
+        "ipa": "ɪksˈpɛnsɪv",
+        "meaning": "adj. marked by high prices (đắt tiền)",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "expense",
+        "type": "chi phí",
+        "ipa": "ɪksˈpɛns",
+        "meaning": "n. chi phí,chi tiêu",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "expensively",
+        "type": "rộng rãi",
+        "ipa": "ɪksˈpɛnsɪvli",
+        "meaning": "adv. tốn kém, đắt tiền",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "extend",
+        "type": "mở rộng",
+        "ipa": "ɪksˈtɛnd",
+        "meaning": "v. to make longer; to offer (keó dài, dành cho)",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "prospective",
+        "type": "tương lai",
+        "ipa": "prəsˈpɛktɪv",
+        "meaning": "adj. likely to become or be (về sau, sắp tới)",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "situation",
+        "type": "tình hình",
+        "ipa": "ˌsɪtjʊˈeɪʃən",
+        "meaning": "n. the combination of circumstances at a given moment (vị trí, tình thế)",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "substantial",
+        "type": "đáng kể",
+        "ipa": "səbˈstænʃəl",
+        "meaning": "adj. considerable in importance, value degree amount, or extent (đáng kể, quan trọng)",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "substance",
+        "type": "vật chất",
+        "ipa": "ˈsʌbstəns",
+        "meaning": "n. Chất liệu; vật chất, bản chất...",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "substantially",
+        "type": "đáng kể",
+        "ipa": "səbˈstænʃəli",
+        "meaning": "adv. đáng kể, có tính chất quan trọng",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "system",
+        "type": "hệ thống",
+        "ipa": "ˈsɪstɪm",
+        "meaning": "n. a functionally related group of elements (hệ thống)",
+        "tag": "Airlines (hàng không)"
+    },
+    {
+        "word": "comprehensive",
+        "type": "toàn diện",
+        "ipa": "ˌkɒmprɪˈhɛnsɪv",
+        "meaning": "adj. covering broadly; inclusive (bao gồm, bao hàm)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "comprehensiveness",
+        "type": "tính toàn diện",
+        "ipa": "ˌkɒmprɪˈhɛnsɪvnəs",
+        "meaning": "n. sự toàn diện",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "comprehensively",
+        "type": "toàn diện",
+        "ipa": "ˌkɒmprɪˈhɛnsɪvli",
+        "meaning": "adv. toàn diện",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "deluxe",
+        "type": "sang trọng",
+        "ipa": "dɪˈlʌks",
+        "meaning": "adj. noticeably luxurious (thuộc loại sang trọng, xa xỉ)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "directory",
+        "type": "danh mục",
+        "ipa": "dɪˈrɛktəri",
+        "meaning": "n. a book or collection of information or directions (danh mục, danh bạ)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "duration",
+        "type": "thời lượng",
+        "ipa": "djʊəˈreɪʃən",
+        "meaning": "n. the time during which something lasts (khoảng thời gian)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "entitle",
+        "type": "phụ đề",
+        "ipa": "ɪnˈtaɪtl",
+        "meaning": "v. to allow or qualify (cho quyền làm gì)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "fare",
+        "type": "giá vé",
+        "ipa": "feə",
+        "meaning": "n. the money paid for transportation (tiền xe, tiền vé)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "offset",
+        "type": "bù lại",
+        "ipa": "ˈɒfsɛt",
+        "meaning": "v. to counterbalance (đền bù, bù đắp)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "operate",
+        "type": "vận hành",
+        "ipa": "ˈɒpəreɪt",
+        "meaning": "v. to perform a function (hoạt động)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "operation",
+        "type": "hoạt động",
+        "ipa": "ˌɒpəˈreɪʃən",
+        "meaning": "n. operational adj.,(sự hoạt động)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "punctual",
+        "type": "đúng giờ",
+        "ipa": "ˈpʌŋktjʊəl",
+        "meaning": "adj. prompt (đúng giờ)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "punctuality",
+        "type": "đúng giờ",
+        "ipa": "ˌpʌŋktjʊˈælɪti",
+        "meaning": "n. sự đúng giờ",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "punctually",
+        "type": "đúng giờ",
+        "ipa": "ˈpʌŋktjʊəli",
+        "meaning": "adv. tính đúng giờ",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "relatively",
+        "type": "tương đối",
+        "ipa": "ˈrɛlətɪvli",
+        "meaning": "adv. somewhat (tương đối, vừa phải)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "remainder",
+        "type": "phần còn lại",
+        "ipa": "rɪˈmeɪndə",
+        "meaning": "n. the remaining part (phần còn lại)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "remote",
+        "type": "Xa xôi",
+        "ipa": "rɪˈməʊt",
+        "meaning": "adj. far removed (xa xôi, tách biệt)",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "remoteness",
+        "type": "xa xôi",
+        "ipa": "rɪˈməʊtnəs",
+        "meaning": "n. sự xa xôi, vùng sâu vùng xa",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "remotely",
+        "type": "từ xa",
+        "ipa": "rɪˈməʊtli",
+        "meaning": "adv. Sự xa xôi, rất xa",
+        "tag": "Trains (tàu hỏa)"
+    },
+    {
+        "word": "advance",
+        "type": "nâng cao",
+        "ipa": "ədˈvɑːns",
+        "meaning": "n. sự cải tiến; v. tiến bộ, thúc đẩy",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "chain",
+        "type": "chuỗi",
+        "ipa": "ʧeɪn",
+        "meaning": "n, a group of enterprises under a single control ( dãy, chuỗi, loạt. Các công việc kinh doanh do 1 người làm chủ)",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "check in",
+        "type": "đăng ký vào",
+        "ipa": "ʧɛk ɪn",
+        "meaning": "v. to register at a hotel; to report one’s presence (đăng ký ở khách sạn, sự đăng ký đi máy bay)",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "confirm",
+        "type": "xác nhận",
+        "ipa": "kənˈfɜːm",
+        "meaning": "v. to validate ( xác nhận; chứng thực)",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "confirmation",
+        "type": "xác nhận",
+        "ipa": "ˌkɒnfəˈmeɪʃən",
+        "meaning": "n. sự xác nhận; chứng thực",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "confirmed",
+        "type": "đã xác nhận",
+        "ipa": "kənˈfɜːmd",
+        "meaning": "adj. xác nhận",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "expect",
+        "type": "chờ đợi",
+        "ipa": "ɪksˈpɛkt",
+        "meaning": "v. to consider probable or reasonable (đoán trước, liệu trước)",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "expectation",
+        "type": "sự mong đợi",
+        "ipa": "ˌɛkspɛkˈteɪʃən",
+        "meaning": "n. Sự mong đợi",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "housekeeper",
+        "type": "Người quản gia",
+        "ipa": "ˈhaʊsˌkiːpə",
+        "meaning": "n. someone employed to do domestic work (quản gia)",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "notify",
+        "type": "thông báo",
+        "ipa": "ˈnəʊtɪfaɪ",
+        "meaning": "v. to report (thông báo, cho biết)",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "preclude",
+        "type": "ngăn chặn",
+        "ipa": "prɪˈkluːd",
+        "meaning": "v. to make impossible; to rule out (ngăn cản, ngăn ngừa)",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "quote",
+        "type": "Trích dẫn",
+        "ipa": "kwəʊt",
+        "meaning": "v. to give exact information on; n., a quotation ( trích dẫn)",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "quotation",
+        "type": "bảng báo giá",
+        "ipa": "kwəʊˈteɪʃən",
+        "meaning": "n. quotable adj., (lời trích dẫn)",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "rate",
+        "type": "tỷ lệ",
+        "ipa": "reɪt",
+        "meaning": "n. the payment or price according to a standard (giá (cả))",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "reserve",
+        "type": "dự trữ",
+        "ipa": "rɪˈzɜːv",
+        "meaning": "v. to set aside (đặt trước, dự trữ, dự phòng, để dành)",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "reservation",
+        "type": "Dự phòng",
+        "ipa": "ˌrɛzəˈveɪʃən",
+        "meaning": "n. sự đặt chỗ trước",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "service",
+        "type": "dịch vụ",
+        "ipa": "ˈsɜːvɪs",
+        "meaning": "n. useful functions (dịch vụ)",
+        "tag": "Hotels (khách sạn)"
+    },
+    {
+        "word": "busy",
+        "type": "bận",
+        "ipa": "ˈbɪzi",
+        "meaning": "adj. engaged in activity (bận)",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "coincide",
+        "type": "trùng hợp",
+        "ipa": "ˌkəʊɪnˈsaɪd",
+        "meaning": "v. to happen at the same time (xảy ra trùng khớp, đồng thời)",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "coincidence",
+        "type": "sự trùng hợp",
+        "ipa": "kəʊˈɪnsɪdəns",
+        "meaning": "n. sự trùng hợp, đồng thời",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "coincidentally",
+        "type": "trùng hợp",
+        "ipa": "kəʊˌɪnsɪˈdɛntli",
+        "meaning": "adv. trùng hợp ngẫu nhiên",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "confusion",
+        "type": "sự hoang mang",
+        "ipa": "kənˈfjuːʒən",
+        "meaning": "n. a lack of clarity, order, or understanding (nhầm lẫn, bối rối)",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "contact",
+        "type": "tiếp xúc",
+        "ipa": "ˈkɒntækt",
+        "meaning": "v. to get in touch with (liên hệ với ai)",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "disappoint",
+        "type": "thất vọng",
+        "ipa": "ˌdɪsəˈpɔɪnt",
+        "meaning": "v. to fail to satisfy the hope, desire, or expectation of (làm thất vọng)",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "intend",
+        "type": "có ý định",
+        "ipa": "ɪnˈtɛnd",
+        "meaning": "v. to have in mind (dự định)",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "intention",
+        "type": "ý định",
+        "ipa": "ɪnˈtɛnʃən",
+        "meaning": "n. sự dự tính, dự định",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "intent",
+        "type": "ý định",
+        "ipa": "ɪnˈtɛnt",
+        "meaning": "adj. dự định",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "license",
+        "type": "giấy phép",
+        "ipa": "ˈlaɪsəns",
+        "meaning": "n. the legal permission to do or own a specified thing (cấp phép, giấy phép)",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "nervous",
+        "type": "lo lắng",
+        "ipa": "ˈnɜːvəs",
+        "meaning": "adj. easily agitated or distressed; uneasy or apprehensive (hồi hộp, lo lắng)",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "nervousness",
+        "type": "hồi hộp",
+        "ipa": "ˈnɜːvəsnəs",
+        "meaning": "n. sự hồi hợp, lo lắng",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "nervously",
+        "type": "lo lắng",
+        "ipa": "ˈnɜːvəsli",
+        "meaning": "adv. hồi hợp, lo lắng",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "optional",
+        "type": "không bắt buộc",
+        "ipa": "ˈɒpʃənl",
+        "meaning": "adj. not compulsory or automatic (tùy ý, ko bắt buộc)",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "tempt",
+        "type": "cám dỗ",
+        "ipa": "tɛmpt",
+        "meaning": "v. to be inviting or attractive to (lôi kéo, xúc giục)",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "temptation",
+        "type": "sự cám dỗ",
+        "ipa": "tɛmpˈteɪʃən",
+        "meaning": "n. sự lôi kéo, cám dỗ",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "tempting",
+        "type": "hấp dẫn",
+        "ipa": "ˈtɛmptɪŋ",
+        "meaning": "adj. cám dỗ",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "thrill",
+        "type": "sợ hãi",
+        "ipa": "θrɪl",
+        "meaning": "n. the source or cause of excitement or emotion (rùng mình, rùng rợn li kỳ)",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "tier",
+        "type": "tầng",
+        "ipa": "ˈtaɪə",
+        "meaning": "n. a rank or class (dãy, tầng, lớp)",
+        "tag": "Car Rentals (cho thuê xe)"
+    },
+    {
+        "word": "attain",
+        "type": "đạt được",
+        "ipa": "əˈteɪn",
+        "meaning": "v. to achieve (đạt được, giành được)",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "attainment",
+        "type": "đạt được",
+        "ipa": "əˈteɪnmənt",
+        "meaning": "n. sự đạt được, giành được",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "attainable",
+        "type": "đạt được",
+        "ipa": "əˈteɪnəbl",
+        "meaning": "adj. có thể đạt được",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "combine",
+        "type": "phối hợp",
+        "ipa": "ˈkɒmbaɪn",
+        "meaning": "v. to come together (kết hợp, phối hợp)",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "continue",
+        "type": "tiếp tục",
+        "ipa": "kənˈtɪnju(ː)",
+        "meaning": "v. to maintain without interruption ( tiếp tục)",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "continuation",
+        "type": "tiếp tục",
+        "ipa": "kənˌtɪnjʊˈeɪʃən",
+        "meaning": "n. sự tiếp diễn, tiếp tục",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "continual",
+        "type": "liên tục",
+        "ipa": "kənˈtɪnjʊəl",
+        "meaning": "adj. tiếp tục",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "description",
+        "type": "sự miêu tả",
+        "ipa": "dɪsˈkrɪpʃən",
+        "meaning": "n. a representation in words or pictures (sự mô tả, diễn tả)",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "describe",
+        "type": "diễn tả",
+        "ipa": "dɪsˈkraɪb",
+        "meaning": "v. miêu tả",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "descriptive",
+        "type": "mô tả",
+        "ipa": "dɪsˈkrɪptɪv",
+        "meaning": "adj. dùng để tả, thích miêu tả",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "disperse",
+        "type": "phân tán",
+        "ipa": "dɪsˈpɜːs",
+        "meaning": "v. to spread widely, to scatter (phân tán)",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "entertainment",
+        "type": "sự giải trí",
+        "ipa": "ˌɛntəˈteɪnmənt",
+        "meaning": "n. a diverting performance or activity (sự giải trí)",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "entertain",
+        "type": "sự giải trí",
+        "ipa": "ˌɛntəˈteɪn",
+        "meaning": "v. giải trí",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "entertaining",
+        "type": "giải trí",
+        "ipa": "ˌɛntəˈteɪnɪŋ",
+        "meaning": "adj. giải trí",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "influence",
+        "type": "ảnh hưởng",
+        "ipa": "ˈɪnflʊəns",
+        "meaning": "v. to alter or affect (ảnh hưởng, tác động)",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "range",
+        "type": "phạm vi",
+        "ipa": "reɪnʤ",
+        "meaning": "n. the scope (phạm vi, trình độ, lĩnh vực)",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "release",
+        "type": "giải phóng",
+        "ipa": "rɪˈliːs",
+        "meaning": "v. to make available to the pubic; to give permission for performance (công bố, phát hành)",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "represent",
+        "type": "đại diện",
+        "ipa": "ˌrɛprɪˈzɛnt",
+        "meaning": "v. to typify (đóng, diễn kịch)",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "separate",
+        "type": "tách rời",
+        "ipa": "ˈsɛprɪt",
+        "meaning": "adj. detached; kept apart (tách bạch, tách tiêng)",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "successive",
+        "type": "kế tiếp",
+        "ipa": "səkˈsɛsɪv",
+        "meaning": "adj. following in order (kế tiếp, nối tiếp, liên tục liên tiếp)",
+        "tag": "Movies (Phim ảnh)"
+    },
+    {
+        "word": "acting",
+        "type": "diễn xuất",
+        "ipa": "ˈæktɪŋ",
+        "meaning": "n. thủ vai, diễn xuất",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "approach",
+        "type": "tiếp cận",
+        "ipa": "əˈprəʊʧ",
+        "meaning": "v. n. tiếp cận, lại gần;",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "approachable",
+        "type": "dễ gần",
+        "ipa": "əˈprəʊʧəbl",
+        "meaning": "adj. có thể tiếp cận, lại gần",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "audience",
+        "type": "khán giả",
+        "ipa": "ˈɔːdiəns",
+        "meaning": "n. the spectators at a performance (khán giả)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "create",
+        "type": "tạo nên",
+        "ipa": "kri(ː)ˈeɪt",
+        "meaning": "v. to produce through artistic or imaginative effort (sáng tạo)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "creation",
+        "type": "sự sáng tạo",
+        "ipa": "kri(ː)ˈeɪʃən",
+        "meaning": "n. sự sáng tạo",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "creative",
+        "type": "sáng tạo",
+        "ipa": "kri(ː)ˈeɪtɪv",
+        "meaning": "adj. sáng tạo",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "dialogue",
+        "type": "hội thoại",
+        "ipa": "ˈdaɪəlɒg",
+        "meaning": "n. a conversation between two or more persons (giai thoại, hội thoại)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "element",
+        "type": "thành phần",
+        "ipa": "ˈɛlɪmənt",
+        "meaning": "n. fundamental or essential constituent (yếu tố, nguyên tố)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "experience",
+        "type": "kinh nghiệm",
+        "ipa": "ɪksˈpɪərɪəns",
+        "meaning": "n. kinh nghiệm",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "experienced",
+        "type": "có kinh nghiệm",
+        "ipa": "ɪksˈpɪərɪənst",
+        "meaning": "adj. kinh nghiệm, từng trãi",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "occur",
+        "type": "xảy ra",
+        "ipa": "əˈkɜː",
+        "meaning": "v. to take place; to come about (xuất hiện, nảy ra )",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "perform",
+        "type": "biểu diễn",
+        "ipa": "pəˈfɔːm",
+        "meaning": "v. to act before an audience, to give a public presentation of (diễn xuất, thực hiện)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "performance",
+        "type": "hiệu suất",
+        "ipa": "pəˈfɔːməns",
+        "meaning": "n. biểu diên, trình diễn, hiệu năng hoạt động",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "performer",
+        "type": "người biểu diễn",
+        "ipa": "pəˈfɔːmə",
+        "meaning": "n. người biểu diễn, thực hiện",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "rehearse",
+        "type": "diễn tập",
+        "ipa": "rɪˈhɜːs",
+        "meaning": "v. to practice in preparation for a public performance; to direct in rehearsal (Diễn tập, kể lại, thuật lại)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "review",
+        "type": "ôn tập",
+        "ipa": "rɪˈvjuː",
+        "meaning": "n. a critical estimate of a work or performance; v., writing a criticism of a performance (Sự phê bình, lời phê bình )",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "sold out",
+        "type": "bán hết",
+        "ipa": "səʊld aʊt",
+        "meaning": "adj. having all tickets or accommodations completely sold, especially ahead of time; v., to sell all the tickets (hết vé)",
+        "tag": "Theater (nhà hát)"
+    },
+    {
+        "word": "available",
+        "type": "có sẵn",
+        "ipa": "əˈveɪləbl",
+        "meaning": "adj. ready for use; willing to serve (sẵn sàng để dùng)",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "broad",
+        "type": "rộng lớn",
+        "ipa": "brɔːd",
+        "meaning": "adj. covering a wide scope (rộng rãi, rõ ràng)",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "category",
+        "type": "thể loại",
+        "ipa": "ˈkætɪgəri",
+        "meaning": "n. a division in a system of classification; a general class of ideas (hạng, loại)",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "categorize",
+        "type": "phân loại",
+        "ipa": "ˈkætɪgəraɪz",
+        "meaning": "v. phân loại xác thực",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "disparate",
+        "type": "khác biệt",
+        "ipa": "ˈdɪspərɪt",
+        "meaning": "adj. fundamentally distinct or different (khác loại)",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "divide",
+        "type": "chia",
+        "ipa": "dɪˈvaɪd",
+        "meaning": "v. to separate into parts (phân chia)",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "favorite",
+        "type": "yêu thích",
+        "ipa": "ˈfeɪvərɪt",
+        "meaning": "adj. preferred (ưa thích)",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "favorable",
+        "type": "thuận lợi",
+        "ipa": "ˈfeɪvərəbl",
+        "meaning": "adj. thuận lợi, thuận tiện",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "favorably",
+        "type": "thuận lợi",
+        "ipa": "ˈfeɪvərəbli",
+        "meaning": "adv. thuận lợi",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "instinct",
+        "type": "bản năng",
+        "ipa": "ˈɪnstɪŋkt",
+        "meaning": "n. an inborn pattern that is a powerful motivation (bản năng)",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "preference",
+        "type": "ưu tiên",
+        "ipa": "ˈprɛfərəns",
+        "meaning": "n. someone or something liked over another or others (sự ưa thích, thích cái gì hơn)",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "prefer",
+        "type": "thích hơn",
+        "ipa": "priˈfɜː",
+        "meaning": "v. thích hơn",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "preferential",
+        "type": "ưu đãi",
+        "ipa": "ˌprɛfəˈrɛnʃəl",
+        "meaning": "adj. ưu đãi, ưu tiên",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "reason",
+        "type": "lý do",
+        "ipa": "ˈriːzn",
+        "meaning": "n. the basis or motive for a action; an underlying fact or cause (lý do)",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "relaxation",
+        "type": "thư giãn",
+        "ipa": "ˌriːlækˈseɪʃən",
+        "meaning": "n. sự thư giãn, giải trí",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "relax",
+        "type": "thư giãn",
+        "ipa": "rɪˈlæks",
+        "meaning": "v. thư giãn",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "relaxed",
+        "type": "thư giãn",
+        "ipa": "rɪˈlækst",
+        "meaning": "adj. thư giãn",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "taste",
+        "type": "nếm thử",
+        "ipa": "teɪst",
+        "meaning": "n. the ability to discern what is excellent or appropriate (sở thích,thị hiếu)",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "urge",
+        "type": "thúc giục",
+        "ipa": "ɜːʤ",
+        "meaning": "v. to advocate earnestly; a., a natural desire (thúc giục, giục giã)",
+        "tag": "Music (âm nhạc)"
+    },
+    {
+        "word": "acquire",
+        "type": "có được, thu được",
+        "ipa": "əˈkwaɪə",
+        "meaning": "v. to gain possession of; to get by one’s own efforts (mua được, thâu được)",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "admire",
+        "type": "ngưỡng mộ",
+        "ipa": "ədˈmaɪə",
+        "meaning": "v. to regard with pleasure; to have esteem or respect for (Khâm phục, hâm mộ)",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "collection",
+        "type": "bộ sưu tập",
+        "ipa": "kəˈlɛkʃən",
+        "meaning": "n. a group of objects or works to be seen, studied, or kept together (bộ sưu tập)",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "collect",
+        "type": "sưu tầm",
+        "ipa": "kəˈlɛkt",
+        "meaning": "v. thu thập, sưu tầm",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "collector",
+        "type": "người sưu tầm",
+        "ipa": "kəˈlɛktə",
+        "meaning": "n. người thu thập, sưu tầm",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "criticism",
+        "type": "sự chỉ trích",
+        "ipa": "ˈkrɪtɪsɪzm",
+        "meaning": "n. an evaluation, especially of literary or other artistic works (sự phê bình, bình phẩm)",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "criticize",
+        "type": "chỉ trích",
+        "ipa": "ˈkrɪtɪsaɪz",
+        "meaning": "v. Phê bình",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "express",
+        "type": "bày tỏ",
+        "ipa": "ɪksˈprɛs",
+        "meaning": "v. to give an opinion or depict emotion (bày tỏ, biểu lộ tình cảm)",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "fashion",
+        "type": "thời trang",
+        "ipa": "ˈfæʃən",
+        "meaning": "n. the prevailing style or custom (thời trang)",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "leisure",
+        "type": "giải trí",
+        "ipa": "ˈlɛʒə",
+        "meaning": "n. freedom from time-consuming duties; free time (thời gian rảnh rỗi)",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "respond",
+        "type": "trả lời",
+        "ipa": "rɪsˈpɒnd",
+        "meaning": "v. to make a reply; to react (hồi âm, phúc đáp)",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "response",
+        "type": "phản ứng",
+        "ipa": "rɪsˈpɒns",
+        "meaning": "n. sự trả lời",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "responsive",
+        "type": "phản ứng nhanh nhẹn",
+        "ipa": "rɪsˈpɒnsɪv",
+        "meaning": "adj. đáp lại",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "schedule",
+        "type": "lịch trình",
+        "ipa": "ˈʃɛdjuːl",
+        "meaning": "n. a list of times of events; v., to enter on a schedule (lịch trình, kế hoạch làm việc)",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "significant",
+        "type": "có ý nghĩa",
+        "ipa": "sɪgˈnɪfɪkənt",
+        "meaning": "adj. meaningful; having a major effect; important (quan trọng, trọng đại, đáng kể)",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "specialize",
+        "type": "chuyên",
+        "ipa": "ˈspɛʃəlaɪz",
+        "meaning": "v. to concentrate on a particular activity (chuyên môn hóa)",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "specialist",
+        "type": "chuyên gia",
+        "ipa": "ˈspɛʃəlɪst",
+        "meaning": "n. chuyên gia",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "specialized",
+        "type": "chuyên nghành",
+        "ipa": "ˈspɛʃəlaɪzd",
+        "meaning": "adj. chuyên môn",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "spectrum",
+        "type": "quang phổ",
+        "ipa": "ˈspɛktrəm",
+        "meaning": "n. a range of related qualities, ideas, or activities ( sự phân bổ theo tính chất, số lượng, hành vi)",
+        "tag": "Museums (Bảo tàng)"
+    },
+    {
+        "word": "assignment",
+        "type": "phân công",
+        "ipa": "əˈsaɪnmənt",
+        "meaning": "(n) something, such as a task (sự giao việc, phân công)",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "choose",
+        "type": "chọn",
+        "ipa": "ʧuːz",
+        "meaning": "(v) chọn, lựa chọn",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "constantly",
+        "type": "liên tục",
+        "ipa": "ˈkɒnstəntli",
+        "meaning": "on a continual basis, happening all the time (liên tục, luôn luôn, không đổi)",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "constitute",
+        "type": "cấu tạo",
+        "ipa": "ˈkɒnstɪtjuːt",
+        "meaning": "(v) to be the elements or parts of (cấu tạo)",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "decision",
+        "type": "phán quyết",
+        "ipa": "dɪˈsɪʒən",
+        "meaning": "(n) sự quyết định, sự lựa chọn",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "disseminate",
+        "type": "phổ biến",
+        "ipa": "dɪˈsɛmɪneɪt",
+        "meaning": "(v) truyền bá, phổ biến, phân tán",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "impact",
+        "type": "sự va chạm",
+        "ipa": "ˈɪmpækt",
+        "meaning": "(n,v) tác động, ảnh hưởng",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "in-depth",
+        "type": "chuyên sâu",
+        "ipa": "ɪn-dɛpθ",
+        "meaning": "(adj) in complete detail; thorough (chuyên sâu)",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "investigate",
+        "type": "điều tra",
+        "ipa": "ɪnˈvɛstɪgeɪt",
+        "meaning": "(v) to uncover and report hidden information (khảo sát, điều tra)",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "link",
+        "type": "liên kết",
+        "ipa": "lɪŋk",
+        "meaning": "liên kết",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "subscribe",
+        "type": "đăng ký",
+        "ipa": "səbˈskraɪb",
+        "meaning": "(v) to receive a periodical regularly on order (đăng ký, đặt mua)",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "thorough",
+        "type": "kỹ lưỡng",
+        "ipa": "ˈθʌrə",
+        "meaning": "(adj) exhaustively complete (kỹ lưỡng, chuyên sâu, tỉ mỉ)",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "thoroughness",
+        "type": "kỹ lưỡng",
+        "ipa": "ˈθʌrənɪs",
+        "meaning": "(n) sự kỹ lưỡng, tỉ mỉ",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "thoroughly",
+        "type": "triệt để",
+        "ipa": "ˈθʌrəli",
+        "meaning": "(adv) kỹ lưỡng",
+        "tag": "Media (Phương tiện truyền thông)"
+    },
+    {
+        "word": "annually",
+        "type": "hàng năm",
+        "ipa": "ˈænjʊəli",
+        "meaning": "(adv) once a year (hàng năm)",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "appointment",
+        "type": "cuộc hẹn",
+        "ipa": "əˈpɔɪntmənt",
+        "meaning": "cuộc hẹn",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "assess",
+        "type": "đánh giá",
+        "ipa": "əˈsɛs",
+        "meaning": "(v) to determine the value or rate of something (tính giá, định giá)",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "diagnose",
+        "type": "chẩn đoán",
+        "ipa": "ˈdaɪəgnəʊz",
+        "meaning": "(v) to recognize a disease; to analyze the nature of something (chuẩn đoán)",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "effective",
+        "type": "có hiệu lực",
+        "ipa": "ɪˈfɛktɪv",
+        "meaning": "(adj) producing the desired effect; being in effect (có hiệu lực, có kết quả)",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "instrument",
+        "type": "dụng cụ",
+        "ipa": "ˈɪnstrʊmənt",
+        "meaning": "(n) a tool for precise work; the mean whereby something is achieved (dụng cụ đo lường, dụng cụ kiểm tra)",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "manage",
+        "type": "quản lý",
+        "ipa": "ˈmænɪʤ",
+        "meaning": "(v) quản lý",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "prevent",
+        "type": "ngăn chặn",
+        "ipa": "prɪˈvɛnt",
+        "meaning": "(v) to keep from happening (ngăn ngừa, ngăn cản)",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "recommendation",
+        "type": "sự giới thiệu",
+        "ipa": "ˌrɛkəmɛnˈdeɪʃən",
+        "meaning": "(n) advice; endorsement",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "record",
+        "type": "ghi lại",
+        "ipa": "ˈrɛkɔːd",
+        "meaning": "(n) kỷ lục, hồ sơ lý lịch",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "refer",
+        "type": "tham khảo",
+        "ipa": "rɪˈfɜː",
+        "meaning": "(v) tham khảo",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "serious",
+        "type": "nghiêm trọng",
+        "ipa": "ˈsɪərɪəs",
+        "meaning": "(adj) Nghiêm trọng",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "aware",
+        "type": "nhận thức",
+        "ipa": "əˈweə",
+        "meaning": "nhận thức",
+        "tag": "Dentist's Office"
+    },
+    {
+        "word": "catch up",
+        "type": "bắt kịp",
+        "ipa": "kæʧ ʌp",
+        "meaning": "(v) to bring up to date (bắt kịp)",
+        "tag": "Dentist's Office"
+    },
+    {
+        "word": "distraction",
+        "type": "mất tập trung",
+        "ipa": "dɪsˈtrækʃən",
+        "meaning": "(n) the act of being turned away from the focus (sự không tập trung, sự phân tâm)",
+        "tag": "Dentist's Office"
+    },
+    {
+        "word": "encouragement",
+        "type": "sự khuyến khích",
+        "ipa": "ɪnˈkʌrɪʤmənt",
+        "meaning": "(n) inspiration or support (sự động viên, sự giúp đỡ)",
+        "tag": "Dentist's Office"
+    },
+    {
+        "word": "evident",
+        "type": "hiển nhiên",
+        "ipa": "ˈɛvɪdənt",
+        "meaning": "(adj) easily seen or understood; obvious (hiển nhiên, rõ ràng)",
+        "tag": "Dentist's Office"
+    },
+    {
+        "word": "habit",
+        "type": "thói quen",
+        "ipa": "ˈhæbɪt",
+        "meaning": "(n) thói quen",
+        "tag": "Dentist's Office"
+    },
+    {
+        "word": "illuminate",
+        "type": "chiếu sáng",
+        "ipa": "ɪˈljuːmɪneɪt",
+        "meaning": "(v) to provider or brighten with light (chiếu sáng, rọi sáng)",
+        "tag": "Dentist's Office"
+    },
+    {
+        "word": "irritate",
+        "type": "kích thích",
+        "ipa": "ˈɪrɪteɪt",
+        "meaning": "(v) to chafer or inflame, to bother (làm viêm, sưng tấy)",
+        "tag": "Dentist's Office"
+    },
+    {
+        "word": "overview",
+        "type": "Tổng quat",
+        "ipa": "ˈəʊvəvjuː",
+        "meaning": "(n) an summary; a survey; a quick look (tổng quan, nhìn lướt qua)",
+        "tag": "Dentist's Office"
+    },
+    {
+        "word": "position",
+        "type": "Chức vụ",
+        "ipa": "pəˈzɪʃən",
+        "meaning": "(n) the right or appropriate place (đúng chỗ, vị trí thích hợp)",
+        "tag": "Dentist's Office"
+    },
+    {
+        "word": "regularly",
+        "type": "thường xuyên",
+        "ipa": "ˈrɛgjʊləli",
+        "meaning": "(adv) đều đặn, thường xuyên",
+        "tag": "Dentist's Office"
+    },
+    {
+        "word": "restore",
+        "type": "khôi phục",
+        "ipa": "rɪsˈtɔː",
+        "meaning": "(v) to bring back to an original condition (phục hồi lại)",
+        "tag": "Dentist's Office"
+    },
+    {
+        "word": "allow",
+        "type": "cho phép",
+        "ipa": "əˈlaʊ",
+        "meaning": "(v) to let do or happen; to permit",
+        "tag": "Health Insurance ( Bảo hiểm sức khoẻ )"
+    },
+    {
+        "word": "alternative",
+        "type": "thay thế",
+        "ipa": "ɔːlˈtɜːnətɪv",
+        "meaning": "(adj) allowing a choice; other (lựa chọn, phương pháp thay thế)",
+        "tag": "Health Insurance ( Bảo hiểm sức khoẻ )"
+    },
+    {
+        "word": "aspect",
+        "type": "khía cạnh",
+        "ipa": "ˈæspɛkt",
+        "meaning": "(n) khía cạnh, (adj) tình trạng",
+        "tag": "Health Insurance ( Bảo hiểm sức khoẻ )"
+    },
+    {
+        "word": "concern",
+        "type": "liên quan",
+        "ipa": "kənˈsɜːn",
+        "meaning": "(n) anxiety; worry",
+        "tag": "Health Insurance ( Bảo hiểm sức khoẻ )"
+    },
+    {
+        "word": "emphasize",
+        "type": "nhấn mạnh",
+        "ipa": "ˈɛmfəsaɪz",
+        "meaning": "(v) chú trọng, nhấn mạnh",
+        "tag": "Health Insurance ( Bảo hiểm sức khoẻ )"
+    },
+    {
+        "word": "incur",
+        "type": "gánh chịu",
+        "ipa": "ɪnˈkɜː",
+        "meaning": "(v) to become subject to (gánh chịu)",
+        "tag": "Health Insurance ( Bảo hiểm sức khoẻ )"
+    },
+    {
+        "word": "personnel",
+        "type": "nhân viên",
+        "ipa": "ˌpɜːsəˈnɛl",
+        "meaning": "(n) a group of employees or workers",
+        "tag": "Health Insurance ( Bảo hiểm sức khoẻ )"
+    },
+    {
+        "word": "policy",
+        "type": "chính sách",
+        "ipa": "ˈpɒlɪsi",
+        "meaning": "chính sách",
+        "tag": "Health Insurance ( Bảo hiểm sức khoẻ )"
+    },
+    {
+        "word": "portion",
+        "type": "phần",
+        "ipa": "ˈpɔːʃən",
+        "meaning": "(n) a section or quantity within a larger thing; a part of a whole (một phần, một đoạn)",
+        "tag": "Health Insurance ( Bảo hiểm sức khoẻ )"
+    },
+    {
+        "word": "regardless",
+        "type": "bất kể",
+        "ipa": "rɪˈgɑːdlɪs",
+        "meaning": "(adv) in spite of (bất chấp, bất kể)",
+        "tag": "Health Insurance ( Bảo hiểm sức khoẻ )"
+    },
+    {
+        "word": "salary",
+        "type": "lương",
+        "ipa": "ˈsæləri",
+        "meaning": "(n) money that employees receive for doing their job, usually paid every month",
+        "tag": "Health Insurance ( Bảo hiểm sức khoẻ )"
+    },
+    {
+        "word": "suit",
+        "type": "bộ đồ",
+        "ipa": "sjuːt",
+        "meaning": "(v) to be appropriate; to satisfy (thích hợp)",
+        "tag": "Health Insurance ( Bảo hiểm sức khoẻ )"
+    },
+    {
+        "word": "admit",
+        "type": "thừa nhận",
+        "ipa": "ədˈmɪt",
+        "meaning": "(v) to permit to enter (chấp nhận, cho vào)",
+        "tag": "Hospitals (Bệnh viện)"
+    },
+    {
+        "word": "authorize",
+        "type": "ủy quyền",
+        "ipa": "ˈɔːθəraɪz",
+        "meaning": "(v) to approve (cho phép, ủy quyền)",
+        "tag": "Hospitals (Bệnh viện)"
+    },
+    {
+        "word": "designate",
+        "type": "chỉ định",
+        "ipa": "ˈdɛzɪgnɪt",
+        "meaning": "(v) to indicate or specify (đặt tên, chỉ rõ)",
+        "tag": "Hospitals (Bệnh viện)"
+    },
+    {
+        "word": "escort",
+        "type": "hộ tống",
+        "ipa": "ˈɛskɔːt",
+        "meaning": "(n) a person accompanying another to guide or protect (người dẫn đường, người bảo vệ)",
+        "tag": "Hospitals (Bệnh viện)"
+    },
+    {
+        "word": "identify",
+        "type": "nhận định",
+        "ipa": "aɪˈdɛntɪfaɪ",
+        "meaning": "(v) to ascertain the name or belongings of (nhận ra)",
+        "tag": "Hospitals (Bệnh viện)"
+    },
+    {
+        "word": "mission",
+        "type": "sứ mệnh",
+        "ipa": "ˈmɪʃən",
+        "meaning": "(n) an inner calling to pursue an activity or perform a service (sứ mệnh, nhiệm vụ)",
+        "tag": "Hospitals (Bệnh viện)"
+    },
+    {
+        "word": "permit",
+        "type": "giấy phép",
+        "ipa": "ˈpɜːmɪt",
+        "meaning": "(v) to allow (cho phép)",
+        "tag": "Hospitals (Bệnh viện)"
+    },
+    {
+        "word": "pertinent",
+        "type": "thích hợp",
+        "ipa": "ˈpɜːtɪnənt",
+        "meaning": "(adj) having relevance to the matter at hand (thích hợp, đúng chỗ)",
+        "tag": "Hospitals (Bệnh viện)"
+    },
+    {
+        "word": "procedure",
+        "type": "thủ tục",
+        "ipa": "prəˈsiːʤə",
+        "meaning": "(n) a series of steps taken to accomplish an end (phương thức, thủ tục)",
+        "tag": "Hospitals (Bệnh viện)"
+    },
+    {
+        "word": "result",
+        "type": "kết quả",
+        "ipa": "rɪˈzʌlt",
+        "meaning": "(n) an outcome",
+        "tag": "Hospitals (Bệnh viện)"
+    },
+    {
+        "word": "statement",
+        "type": "tuyên bố",
+        "ipa": "ˈsteɪtmənt",
+        "meaning": "(n) an accounting showing an amount due; a bill (báo cáo, bản kê)",
+        "tag": "Hospitals (Bệnh viện)"
+    },
+    {
+        "word": "usually",
+        "type": "thông thường",
+        "ipa": "ˈjuːʒʊəli",
+        "meaning": "(adv) customarily (thông thường, theo lẽ thường)",
+        "tag": "Hospitals (Bệnh viện)"
+    },
+    {
+        "word": "consult",
+        "type": "tham khảo ý kiến",
+        "ipa": "kənˈsʌlt",
+        "meaning": "to seek advice or information of (hỏi ý kiến, tham khảo)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "control",
+        "type": "điều khiển",
+        "ipa": "kənˈtrəʊl",
+        "meaning": "to exercise authoritative or dominating influence (kiểm tra, kiểm soát, thử lại)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "convenient",
+        "type": "tiện lợi",
+        "ipa": "kənˈviːniənt",
+        "meaning": "suited or favorable to one’s purpose; easy to reach (tiện lợi, thuận lợi; thích hợp)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "detect",
+        "type": "phát hiện",
+        "ipa": "dɪˈtɛkt",
+        "meaning": "to discover or ascertain (dò ra, tìm ra, khám phá ra, phát hiện ra)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "detection",
+        "type": "phát hiện",
+        "ipa": "dɪˈtɛkʃən",
+        "meaning": "(n) sự dò ra, sự phát hiện ra",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "detectable",
+        "type": "có thể phát hiện",
+        "ipa": "dɪˈtɛktəbl",
+        "meaning": "(adj) dò ra, phát hiện",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "factor",
+        "type": "hệ số",
+        "ipa": "ˈfæktə",
+        "meaning": "a contribution to an accomplishment, a result, or a process (nhân tố)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "interaction",
+        "type": "sự tương tác",
+        "ipa": "ˌɪntərˈækʃən",
+        "meaning": "an influence; a mutual activity (tác động qua lại)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "limit",
+        "type": "giới hạn",
+        "ipa": "ˈlɪmɪt",
+        "meaning": "the point beyond which something cannot proceed (giới hạn, hạn độ)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "monitor",
+        "type": "màn hình",
+        "ipa": "ˈmɒnɪtə",
+        "meaning": "to keep track of (giám sát)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "potential",
+        "type": "tiềm năng",
+        "ipa": "pəʊˈtɛnʃəl",
+        "meaning": "capable of being but not ye in existence; possible (tiềm năng)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "sample",
+        "type": "mẫu vật",
+        "ipa": "ˈsɑːmpl",
+        "meaning": "a portion, piece, or segment that is representative of a whole (mẫu, mẫu hàng)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "sense",
+        "type": "giác quan",
+        "ipa": "sɛns",
+        "meaning": "a judgment; an intellectual interpretation (khả năng phán đoán)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "volunteer",
+        "type": "Tình nguyện viên",
+        "ipa": "ˌvɒlənˈtɪə",
+        "meaning": "one who performs a service without pay; v., to perform as a volunteer (người tình nguyện, người xung phong)",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "volunteerism",
+        "type": "tình nguyện",
+        "ipa": "ˌvɒlənˈtɪərɪz(ə)m",
+        "meaning": "hoạt động tình nguyện",
+        "tag": "Pharmacy (dược khoa)"
+    },
+    {
+        "word": "voluntary",
+        "type": "tình nguyện",
+        "ipa": "ˈvɒləntəri",
+        "meaning": "adj, tự nguyện",
+        "tag": "Pharmacy (dược khoa)"
+    }
+]

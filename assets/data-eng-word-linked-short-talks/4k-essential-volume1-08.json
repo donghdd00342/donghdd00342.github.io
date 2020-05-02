@@ -1,0 +1,222 @@
+[
+    {
+        "word": "accept",
+        "ipa": "əkˈsɛpt",
+        "type": "v",
+        "tag": "Chấp nhận",
+        "meaning": "To accept something that is offered is to take it.",
+        "context": "Chấp nhận một cái gì đó được cung cấp là lấy nó.",
+        "ex": "I accepted the girl’s very nice gift.",
+        "ipaExTrans": "aɪ əkˈsɛptɪd ðə gɜːlz ˈvɛri naɪs gɪft.",
+        "exMeaning": "Tôi nhận món quà của cô gái rất đẹp."
+    },
+    {
+        "word": "arrange",
+        "ipa": "əˈreɪnʤ",
+        "type": "v",
+        "tag": "sắp xếp",
+        "meaning": "To arrange things is to put them in the right place.",
+        "context": "Sắp xếp mọi thứ là đặt chúng đúng chỗ.",
+        "ex": "Please arrange the bowling pins in order so we can play.",
+        "ipaExTrans": "pliːz əˈreɪnʤ ðə ˈbəʊlɪŋ pɪnz ɪn ˈɔːdə səʊ wiː kæn pleɪ.",
+        "exMeaning": "Vui lòng sắp xếp các chân bowling theo thứ tự để chúng tôi có thể chơi."
+    },
+    {
+        "word": "attend",
+        "ipa": "əˈtɛnd",
+        "type": "v",
+        "tag": "tham gia",
+        "meaning": "To attend something is to go to it",
+        "context": "Tham dự một cái gì đó là đi đến nó",
+        "ex": "My sister and I attend the same school.",
+        "ipaExTrans": "maɪ ˈsɪstər ænd aɪ əˈtɛnd ðə seɪm skuːl.",
+        "exMeaning": "Chị tôi và tôi học cùng trường."
+    },
+    {
+        "word": "balance",
+        "ipa": "ˈbæləns",
+        "type": "v",
+        "tag": "thăng bằng",
+        "meaning": "To balance something is to keep it from falling",
+        "context": "Để cân bằng một cái gì đó là giữ cho nó khỏi rơi",
+        "ex": "We saw an elephant balance itself on a ball.",
+        "ipaExTrans": "wiː sɔː ən ˈɛlɪfənt ˈbæləns ɪtˈsɛlf ɒn ə bɔːl.",
+        "exMeaning": "Chúng tôi thấy một con voi tự cân bằng trên một quả bóng."
+    },
+    {
+        "word": "contrast",
+        "ipa": "ˈkɒntrɑːst",
+        "type": "n",
+        "tag": "tương phản, sự trái ngược",
+        "meaning": "A contrast is the sharp difference between two things",
+        "context": "Một sự tương phản là sự khác biệt rõ ràng giữa hai điều",
+        "ex": "The contrast between my parents is very noticeable.",
+        "ipaExTrans": "ðə ˈkɒntrɑːst bɪˈtwiːn maɪ ˈpeərənts ɪz ˈvɛri ˈnəʊtɪsəbl.",
+        "exMeaning": "Sự tương phản giữa bố mẹ tôi rất đáng chú ý."
+    },
+    {
+        "word": "encourage",
+        "ipa": "ɪnˈkʌrɪʤ",
+        "type": "v",
+        "tag": "khuyến khích",
+        "meaning": "To encourage someone is to make them want to do something.",
+        "context": "Để khuyến khích ai đó là làm cho họ muốn làm một cái gì đó.",
+        "ex": "My football coach will encourage us when we are losing.",
+        "ipaExTrans": "maɪ ˈfʊtbɔːl kəʊʧ wɪl ɪnˈkʌrɪʤ ʌs wɛn wiː ɑː ˈluːzɪŋ.",
+        "exMeaning": "Huấn luyện viên bóng đá của tôi sẽ khuyến khích chúng tôi khi chúng tôi đang thua."
+    },
+    {
+        "word": "familiar",
+        "ipa": "fəˈmɪliə",
+        "type": "adj",
+        "tag": "quen biết, thân thiết, thân tình",
+        "meaning": "If someone or something is familiar to you, you know them well.",
+        "context": "Nếu ai đó hoặc một cái gì đó quen thuộc với bạn, bạn biết họ rõ.",
+        "ex": "The two friends were very familiar with each other.",
+        "ipaExTrans": "ðə tuː frɛndz wɜː ˈvɛri fəˈmɪliə wɪð iːʧ ˈʌðə.",
+        "exMeaning": "Hai người bạn rất thân với nhau."
+    },
+    {
+        "word": "grab",
+        "ipa": "græb",
+        "type": "v",
+        "tag": "vồ lấy",
+        "meaning": "To grab is to take a hold of someone or something suddenly.",
+        "context": "Nắm bắt là nắm lấy một ai đó hoặc một cái gì đó đột ngột.",
+        "ex": "grabbed a pear from the tree.",
+        "ipaExTrans": "græbd ə peə frɒm ðə triː.",
+        "exMeaning": "Lấy một quả lê từ cây."
+    },
+    {
+        "word": "hang",
+        "ipa": "hæŋ",
+        "type": "v",
+        "tag": "treo",
+        "meaning": "To hang something is to keep it above the ground.",
+        "context": "Để treo một cái gì đó là giữ nó trên mặt đất.",
+        "ex": "drew a picture of my family, and my mother hung it on the wall.",
+        "ipaExTrans": "druː ə ˈpɪkʧər ɒv maɪ ˈfæmɪli, ænd maɪ ˈmʌðə hʌŋ ɪt ɒn ðə wɔːl.",
+        "exMeaning": "đã vẽ một bức tranh của gia đình tôi và mẹ tôi treo nó trên tường."
+    },
+    {
+        "word": "huge",
+        "ipa": "hjuːʤ",
+        "type": "adj",
+        "tag": "khổng lồ",
+        "meaning": "If something is huge, it is very big",
+        "context": "Nếu một cái gì đó lớn, nó rất lớn",
+        "ex": "At work, my father drives a huge truck",
+        "ipaExTrans": "æt wɜːk, maɪ ˈfɑːðə draɪvz ə hjuːʤ trʌk",
+        "exMeaning": "Tại nơi làm việc, cha tôi lái một chiếc xe tải lớn"
+    },
+    {
+        "word": "necessary",
+        "ipa": "ˈnɛsɪsəri",
+        "type": "adj",
+        "tag": "cần thiết",
+        "meaning": "If something is necessary, you must do it.",
+        "context": "Nếu một cái gì đó là cần thiết, bạn phải làm điều đó.",
+        "ex": "It is necessary to have a passport when you travel to a foreign country.",
+        "ipaExTrans": "ɪt ɪz ˈnɛsɪsəri tuː hæv ə ˈpɑːspɔːt wɛn juː ˈtrævl tuː ə ˈfɒrɪn ˈkʌntri.",
+        "exMeaning": "Cần phải có hộ chiếu khi bạn đi du lịch nước ngoài."
+    },
+    {
+        "word": "pattern",
+        "ipa": "ˈpætən",
+        "type": "n",
+        "tag": "mẫu, mô hình",
+        "meaning": "A pattern is a way in which something is done or organized",
+        "context": "Một mô hình là một cách mà một cái gì đó được thực hiện hoặc tổ chức",
+        "ex": "My pattern of brushing my teeth is the same as most people’s.",
+        "ipaExTrans": "maɪ ˈpætən ɒv ˈbrʌʃɪŋ maɪ tiːθ ɪz ðə seɪm æz məʊst ˈpiːplz.",
+        "exMeaning": "Mô hình đánh răng của tôi cũng giống như hầu hết mọi người."
+    },
+    {
+        "word": "propose",
+        "ipa": "prəˈpəʊz",
+        "type": "v",
+        "tag": "đề xuất, trình ra, cầu hôn",
+        "meaning": "To propose something is to say that it should be done",
+        "context": "Đề xuất một cái gì đó là nói rằng nó nên được thực hiện",
+        "ex": "Santa Claus proposed that I try to be a good boy all year.",
+        "ipaExTrans": "ˈsæntə klɔːz prəˈpəʊzd ðæt aɪ traɪ tuː biː ə gʊd bɔɪ ɔːl jɪə.",
+        "exMeaning": "Santa Claus đề nghị tôi cố gắng trở thành một cậu bé tốt cả năm."
+    },
+    {
+        "word": "purpose",
+        "ipa": "ˈpɜːpəs",
+        "type": "n",
+        "tag": "mục đích, ý muốn, điều dự định",
+        "meaning": "A purpose is the reason that you do something.",
+        "context": "Một mục đích là lý do mà bạn làm một cái gì đó.",
+        "ex": "The purpose of exercising is to get into shape.",
+        "ipaExTrans": "ðə ˈpɜːpəs ɒv ˈɛksəsaɪzɪŋ ɪz tuː gɛt ˈɪntuː ʃeɪp.",
+        "exMeaning": "Mục đích của việc tập thể dục là để có được hình dạng."
+    },
+    {
+        "word": "release",
+        "ipa": "rɪˈliːs",
+        "type": "v",
+        "tag": "giải phóng, thoát ra, phóng thích",
+        "meaning": "To release something is to stop holding it",
+        "context": "Phát hành một cái gì đó là ngừng giữ nó",
+        "ex": "She released the bird from her hands.",
+        "ipaExTrans": "ʃiː rɪˈliːst ðə bɜːd frɒm hɜː hændz.",
+        "exMeaning": "Cô thả con chim ra khỏi tay mình."
+    },
+    {
+        "word": "require",
+        "ipa": "rɪˈkwaɪə",
+        "type": "v",
+        "tag": "yêu cầu",
+        "meaning": "To require something is to say that it is necessary.",
+        "context": "Yêu cầu một cái gì đó là nói rằng nó là cần thiết.",
+        "ex": "We require teachers to have a university degree.",
+        "ipaExTrans": "wiː rɪˈkwaɪə ˈtiːʧəz tuː hæv ə ˌjuːnɪˈvɜːsɪti dɪˈgriː.",
+        "exMeaning": "Chúng tôi yêu cầu giáo viên phải có bằng đại học."
+    },
+    {
+        "word": "single",
+        "ipa": "ˈsɪŋgl",
+        "type": "adj",
+        "tag": "Độc thân",
+        "meaning": "If something is single, then there is only one.",
+        "context": "Nếu một cái gì đó là duy nhất, thì chỉ có một.",
+        "ex": "I have a single key in my hand.",
+        "ipaExTrans": "aɪ hæv ə ˈsɪŋgl kiː ɪn maɪ hænd.",
+        "exMeaning": "Tôi có một chìa khóa trong tay."
+    },
+    {
+        "word": "success",
+        "ipa": "səkˈsɛs",
+        "type": "n",
+        "tag": "sự thành công",
+        "meaning": "Success is doing something well that you choose to do",
+        "context": "Thành công là làm điều gì đó tốt mà bạn chọn làm",
+        "ex": "My daughter was a big success at school.",
+        "ipaExTrans": "maɪ ˈdɔːtə wɒz ə bɪg səkˈsɛs æt skuːl.",
+        "exMeaning": "Con gái tôi là một thành công lớn ở trường."
+    },
+    {
+        "word": "tear",
+        "ipa": "teə",
+        "type": "v",
+        "tag": "xé rách, nước mắt",
+        "meaning": "To tear something means to pull it apart.",
+        "context": "Xé một cái gì đó có nghĩa là kéo nó ra.",
+        "ex": "It is easy to tear paper.",
+        "ipaExTrans": "ɪt ɪz ˈiːzi tuː teə ˈpeɪpə.",
+        "exMeaning": "Nó rất dễ xé giấy."
+    },
+    {
+        "word": "theory",
+        "ipa": "ˈθɪəri",
+        "type": "n",
+        "tag": "học thuyết",
+        "meaning": "A theory is an idea about how something works.",
+        "context": "Một lý thuyết là một ý tưởng về cách một cái gì đó hoạt động.",
+        "ex": "We talked about Einstein’s theory of relativity in class.",
+        "ipaExTrans": "wiː tɔːkt əˈbaʊt ˈaɪnstaɪnz ˈθɪəri ɒv ˌrɛləˈtɪvɪti ɪn klɑːs.",
+        "exMeaning": "Chúng tôi đã nói về lý thuyết tương đối Einstein Einstein trong lớp."
+    }
+]

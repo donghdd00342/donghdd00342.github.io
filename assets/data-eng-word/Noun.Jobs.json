@@ -1,0 +1,479 @@
+[
+    {
+        "word": "accountant",
+        "type": "Noun nghề nghiệp",
+        "ipa": "əˈkaʊntənt",
+        "meaning": "Kế toán",
+        "ex": "He was, after all, taking time off work during the busiest time of the year for an accountant to be with her.",
+        "ipaExTrans": "hiː wɒz, ˈɑːftər ɔːl, ˈteɪkɪŋ taɪm ɒf wɜːk ˈdjʊərɪŋ ðə ˈbɪzɪɪst taɪm ɒv ðə jɪə fɔːr ən əˈkaʊntənt tuː biː wɪð hɜː.",
+        "exMeaning": "Rốt cuộc, anh đã dành thời gian nghỉ làm trong thời gian bận rộn nhất trong năm để một kế toán viên ở bên cô."
+    },
+    {
+        "word": "actor",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈæktə",
+        "meaning": "Nam diễn viên",
+        "ex": "He was a spectator rather than an actor on the stage of the world.",
+        "ipaExTrans": "hiː wɒz ə spɛkˈteɪtə ˈrɑːðə ðæn ən ˈæktər ɒn ðə steɪʤ ɒv ðə wɜːld.",
+        "exMeaning": "Ông là một khán giả chứ không phải là một diễn viên trên sân khấu của thế giới."
+    },
+    {
+        "word": "actress",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈæktrɪs",
+        "meaning": "Nữ diễn viên",
+        "ex": "Pretend like you're an actress, like Toni.",
+        "ipaExTrans": "prɪˈtɛnd laɪk jʊər ən ˈæktrɪs, laɪk Toni.",
+        "exMeaning": "Giả vờ như bạn là một nữ diễn viên, như Toni."
+    },
+    {
+        "word": "architect",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈɑːkɪtɛkt",
+        "meaning": "Kiến trúc sư",
+        "ex": "Great Architect of Nature, help me to find the true path out of the labyrinth of lies!",
+        "ipaExTrans": "greɪt ˈɑːkɪtɛkt ɒv ˈneɪʧə, hɛlp miː tuː faɪnd ðə truː pɑːθ aʊt ɒv ðə ˈlæbərɪnθ ɒv laɪz!",
+        "exMeaning": "Kiến trúc sư vĩ đại của thiên nhiên, hãy giúp tôi tìm ra con đường thực sự thoát khỏi mê cung dối trá!"
+    },
+    {
+        "word": "artist",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈɑːtɪst",
+        "meaning": "Họa sĩ",
+        "ex": "Everyone wanted to meet the artist and discuss the work they were interested in.",
+        "ipaExTrans": "ˈɛvrɪwʌn ˈwɒntɪd tuː miːt ði ˈɑːtɪst ænd dɪsˈkʌs ðə wɜːk ðeɪ wɜːr ˈɪntrɪstɪd ɪn.",
+        "exMeaning": "Mọi người đều muốn gặp nghệ sĩ và thảo luận về công việc họ quan tâm."
+    },
+    {
+        "word": "assembler",
+        "type": "Noun nghề nghiệp",
+        "ipa": "əˈsɛmblə",
+        "meaning": "Công nhân lắp ráp",
+        "ex": "F A - Used to embed assembler within Forth words.",
+        "ipaExTrans": "ɛf eɪ - juːzd tuː ɪmˈbɛd əˈsɛmblə wɪˈðɪn fɔːθ wɜːdz.",
+        "exMeaning": "F A - Được sử dụng để nhúng trình biên dịch trong các từ Forth."
+    },
+    {
+        "word": "astronomer",
+        "type": "Noun nghề nghiệp",
+        "ipa": "əsˈtrɒnəmə",
+        "meaning": "Nhà thiên văn học",
+        "ex": "REGIOMONTANUS (1436-1476), German astronomer, was born at Konigsberg in Franconia on the 6th of June 1436.",
+        "ipaExTrans": "ˌriːˈʤiː-aɪ-əʊ-ɛm-əʊ-ɛn-tiː-eɪ-ɛn-juː-ɛs (1436-1476), ˈʤɜːmən əsˈtrɒnəmə, wɒz bɔːn æt Konigsberg ɪn Franconia ɒn ðiː 6th ɒv ʤuːn 1436.",
+        "exMeaning": "REGIOMONTANUS (1436-1476), nhà thiên văn học người Đức, sinh ra tại Konigsberg ở Franconia vào ngày 6 tháng 6 năm 1436."
+    },
+    {
+        "word": "author",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈɔːθə",
+        "meaning": "Nhà văn",
+        "ex": "It's a famous author named Miss Gladys Turnbull.",
+        "ipaExTrans": "ɪts ə ˈfeɪməs ˈɔːθə neɪmd mɪs ˈglædɪs Turnbull.",
+        "exMeaning": "Đó là một tác giả nổi tiếng tên là Miss Gladys Turnbull."
+    },
+    {
+        "word": "babysister",
+        "type": "Noun nghề nghiệp",
+        "ipa": "babysister",
+        "meaning": "Người giữ trẻ hộ"
+    },
+    {
+        "word": "baker",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈbeɪkə",
+        "meaning": "Thợ làm bánh mì"
+    },
+    {
+        "word": "barber",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈbɑːbə",
+        "meaning": "Thợ hớt tóc",
+        "ex": "It was where the barber shop used to be located.",
+        "ipaExTrans": "ɪt wɒz weə ðə ˈbɑːbə ʃɒp juːzd tuː biː ləʊˈkeɪtɪd.",
+        "exMeaning": "Đó là nơi các cửa hàng cắt tóc từng được đặt."
+    },
+    {
+        "word": "bartender",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈbɑːˌtɛndə",
+        "meaning": "Người pha rượu",
+        "ex": "The bartender should be here any minute.",
+        "ipaExTrans": "ðə ˈbɑːˌtɛndə ʃʊd biː hɪər ˈɛni ˈmɪnɪt.",
+        "exMeaning": "Người pha chế nên ở đây bất cứ lúc nào."
+    },
+    {
+        "word": "bricklayer",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈbrɪkˌleɪə",
+        "meaning": "Thợ nề thợ hồ",
+        "ex": "THOMAS BLACKLOCK (1721-1791), Scottish poet, the son of a bricklayer, was born at Annan, in Dumfriesshire, in 1721.",
+        "ipaExTrans": "ˈtɒməs biː-ɛl-eɪ-siː-keɪ-ɛl-əʊ-siː-keɪ (1721-1791), ˈskɒtɪʃ ˈpəʊɪt, ðə sʌn ɒv ə ˈbrɪkˌleɪə, wɒz bɔːn æt Annan, ɪn Dumfriesshire, ɪn 1721.",
+        "exMeaning": "THOMAS BLACKLOCK (1721-1791), nhà thơ người Scotland, con trai của một thợ hồ, sinh ra tại Annan, ở Dumfriesshire, vào năm 1721."
+    },
+    {
+        "word": "businessman",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈbɪznɪsmən",
+        "meaning": "doanh nhân",
+        "ex": "That's the businessman in me talking, not your father.",
+        "ipaExTrans": "ðæts ðə ˈbɪznɪsmən ɪn miː ˈtɔːkɪŋ, nɒt jɔː ˈfɑːðə.",
+        "exMeaning": "Đó là doanh nhân trong tôi nói chuyện, không phải cha bạn."
+    },
+    {
+        "word": "bus driver",
+        "type": "Noun nghề nghiệp",
+        "ipa": "bʌs ˈdraɪvə",
+        "meaning": "Tài xế xe buýt"
+    },
+    {
+        "word": "butcher",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈbʊʧə",
+        "meaning": "Người bán thịt",
+        "ex": "His father, James Foe, was a butcher and a citizen of London.",
+        "ipaExTrans": "hɪz ˈfɑːðə, ʤeɪmz fəʊ, wɒz ə ˈbʊʧər ænd ə ˈsɪtɪzn ɒv ˈlʌndən.",
+        "exMeaning": "Cha của anh, James Foe, là một người bán thịt và một công dân London."
+    },
+    {
+        "word": "carpenter",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈkɑːpɪntə",
+        "meaning": "Thợ mộc",
+        "ex": "These are in some genera From Carpenter, Proc. R.",
+        "ipaExTrans": "ðiːz ɑːr ɪn sʌm ˈʤɛnərə frɒm ˈkɑːpɪntə, Proc. ɑː.",
+        "exMeaning": "Đây là trong một số chi từ Carpenter, Proc. R."
+    },
+    {
+        "word": "cashier",
+        "type": "Noun nghề nghiệp",
+        "ipa": "kæˈʃɪə",
+        "meaning": "Nhân viên thu ngân",
+        "ex": "The cashier shrugged but complied with his request, writing up an additional charge slip.",
+        "ipaExTrans": "ðə kæˈʃɪə ʃrʌgd bʌt kəmˈplaɪd wɪð hɪz rɪˈkwɛst, ˈraɪtɪŋ ʌp ən əˈdɪʃənl ʧɑːʤ slɪp.",
+        "exMeaning": "Nhân viên thu ngân nhún vai nhưng tuân thủ yêu cầu của anh ta, viết một phiếu tính phí bổ sung."
+    },
+    {
+        "word": "chef cook",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ʃɛf kʊk",
+        "meaning": "Đầu bếp"
+    },
+    {
+        "word": "delivery",
+        "type": "Noun nghề nghiệp",
+        "ipa": "dɪˈlɪvəri",
+        "meaning": "person Nhân viên giao hàng",
+        "ex": "The real surprise came with his presence in the delivery room.",
+        "ipaExTrans": "ðə rɪəl səˈpraɪz keɪm wɪð hɪz ˈprɛzns ɪn ðə dɪˈlɪvəri ruːm.",
+        "exMeaning": "Sự ngạc nhiên thực sự đến với sự hiện diện của anh ấy trong phòng sinh."
+    },
+    {
+        "word": "cleaner",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈkliːnə",
+        "meaning": "Người dọn dẹp  khu vực hay một nơi (như ở văn phòng)",
+        "ex": "It is cleaner than coke and is said to FIG.",
+        "ipaExTrans": "ɪt ɪz ˈkliːnə ðæn kəʊk ænd ɪz sɛd tuː fɪg.",
+        "exMeaning": "Nó sạch hơn than cốc và được nói với FIG."
+    },
+    {
+        "word": "computer software engineer",
+        "type": "Noun nghề nghiệp",
+        "ipa": "kəmˈpjuːtə ˈsɒftweər ˌɛnʤɪˈnɪə",
+        "meaning": "Kĩ sư phần mềm máy tính"
+    },
+    {
+        "word": "construction worker",
+        "type": "Noun nghề nghiệp",
+        "ipa": "kənˈstrʌkʃən ˈwɜːkə",
+        "meaning": "Công nhân xây dựng"
+    },
+    {
+        "word": "custodian janitor",
+        "type": "Noun nghề nghiệp",
+        "ipa": "kʌˈstəʊdiən ˈʤænɪtə",
+        "meaning": "Người quét dọn"
+    },
+    {
+        "word": "customer service representative",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈkʌstəmə ˈsɜːvɪs ˌrɛprɪˈzɛntətɪv",
+        "meaning": "Người đại diện của dịch vụ hỗ trợ khách hàng"
+    },
+    {
+        "word": "dentist",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈdɛntɪst",
+        "meaning": "Nha sĩ",
+        "ex": "Couldn't he have gone to the doctor or the dentist or some­place?",
+        "ipaExTrans": "ˈkʊdnt hiː hæv gɒn tuː ðə ˈdɒktər ɔː ðə ˈdɛntɪst ɔː sʌm­pleɪs?",
+        "exMeaning": "Anh ta không thể đi đến bác sĩ hay nha sĩ hay nơi nào đó sao?"
+    },
+    {
+        "word": "designer",
+        "type": "Noun nghề nghiệp",
+        "ipa": "dɪˈzaɪnə",
+        "meaning": "Nhà thiết kế",
+        "ex": "Tables with designer shoes on them stood beside the truck.",
+        "ipaExTrans": "ˈteɪblz wɪð dɪˈzaɪnə ʃuːz ɒn ðɛm stʊd bɪˈsaɪd ðə trʌk.",
+        "exMeaning": "Bàn có giày thiết kế trên chúng đứng cạnh xe tải."
+    },
+    {
+        "word": "dockworker",
+        "type": "Noun nghề nghiệp",
+        "ipa": "dockworker",
+        "meaning": "Công nhân bốc xếp ở cảng"
+    },
+    {
+        "word": "doctor",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈdɒktə",
+        "meaning": "Bác sĩ",
+        "ex": "The doctor called today to see if my condition had improved with the medication.",
+        "ipaExTrans": "ðə ˈdɒktə kɔːld təˈdeɪ tuː siː ɪf maɪ kənˈdɪʃən hæd ɪmˈpruːvd wɪð ðə ˌmɛdɪˈkeɪʃən.",
+        "exMeaning": "Bác sĩ gọi hôm nay để xem tình trạng của tôi đã được cải thiện với thuốc chưa."
+    },
+    {
+        "word": "dustman refuse collector",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈdʌstmən ˌriːˈfjuːz kəˈlɛktə",
+        "meaning": "Người thu rác"
+    },
+    {
+        "word": "electrician",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ɪlɛkˈtrɪʃən",
+        "meaning": "Thợ điện",
+        "ex": "Clark, the Electrician, 38, p. 747).",
+        "ipaExTrans": "klɑːk, ði ɪlɛkˈtrɪʃən, 38, piː. 747).",
+        "exMeaning": "Clark, Thợ điện, 38, tr. 747)."
+    },
+    {
+        "word": "engineer",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˌɛnʤɪˈnɪə",
+        "meaning": "Kĩ sư",
+        "ex": "It was then fortified by the engineer.",
+        "ipaExTrans": "ɪt wɒz ðɛn ˈfɔːtɪfaɪd baɪ ði ˌɛnʤɪˈnɪə.",
+        "exMeaning": "Sau đó nó được củng cố bởi các kỹ sư."
+    },
+    {
+        "word": "factory worker",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈfæktəri ˈwɜːkə",
+        "meaning": "Công nhân nhà máy"
+    },
+    {
+        "word": "farmer",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈfɑːmə",
+        "meaning": "Nông dân",
+        "ex": "The farmer replies, \"You can't get there from here.\"",
+        "ipaExTrans": "ðə ˈfɑːmə rɪˈplaɪz, \"juː kɑːnt gɛt ðeə frɒm hɪə.\"",
+        "exMeaning": "Người nông dân trả lời: \"Bạn không thể đến đó từ đây.\""
+    },
+    {
+        "word": "fireman fire fighter",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈfaɪəmən ˈfaɪə ˈfaɪtə",
+        "meaning": "Lính cứu hỏa"
+    },
+    {
+        "word": "fisherman",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈfɪʃəmən",
+        "meaning": "Ngư dân"
+    },
+    {
+        "word": "flight attendant",
+        "type": "Noun nghề nghiệp",
+        "ipa": "flaɪt əˈtɛndənt",
+        "meaning": "Tiếp viên hàng không"
+    },
+    {
+        "word": "gardener landscaper",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈgɑːdnə ˈlænskeɪpə",
+        "meaning": "Người làm vườn"
+    },
+    {
+        "word": "garment worker",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈgɑːmənt ˈwɜːkə",
+        "meaning": "Công nhân may"
+    },
+    {
+        "word": "hairdresser",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈheəˌdrɛsə",
+        "meaning": "Thợ làm tóc"
+    },
+    {
+        "word": "journalist reporter",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈʤɜːnəlɪst rɪˈpɔːtə",
+        "meaning": "Phóng viên"
+    },
+    {
+        "word": "lawyer",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈlɔːjə",
+        "meaning": "Luật sư",
+        "ex": "Maybe she wanted to talk to a lawyer first.",
+        "ipaExTrans": "ˈmeɪbiː ʃiː ˈwɒntɪd tuː tɔːk tuː ə ˈlɔːjə fɜːst.",
+        "exMeaning": "Có lẽ cô ấy muốn nói chuyện với một luật sư đầu tiên."
+    },
+    {
+        "word": "lecturer",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈlɛkʧərə",
+        "meaning": "Giảng viên đại học",
+        "ex": "round each lecturer in 22, Sultans private entrance.",
+        "ipaExTrans": "raʊnd iːʧ ˈlɛkʧərər ɪn 22, ˈsʌltənz ˈpraɪvɪt ˈɛntrəns.",
+        "exMeaning": "vòng mỗi giảng viên ở 22, lối vào tư nhân của người Hồi giáo."
+    },
+    {
+        "word": "librarian",
+        "type": "Noun nghề nghiệp",
+        "ipa": "laɪˈbreərɪən",
+        "meaning": "Thủ thư",
+        "ex": "Cynthia's widowed mother was a librarian in a small Indiana town.",
+        "ipaExTrans": "ˈsɪnθɪəz ˈwɪdəʊd ˈmʌðə wɒz ə laɪˈbreərɪən ɪn ə smɔːl ˌɪndiˈænə taʊn.",
+        "exMeaning": "Người mẹ góa của Cynthia là một thủ thư ở một thị trấn nhỏ ở Indiana."
+    },
+    {
+        "word": "lifeguard",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈlaɪfgɑːd",
+        "meaning": "Nhân viên cứu hộ",
+        "ex": "The chemical is harsh on fabric, which is why most lifeguard uniform swimsuits are made from specially manufactured materials that don't fade or discolor easily.",
+        "ipaExTrans": "ðə ˈkɛmɪkəl ɪz hɑːʃ ɒn ˈfæbrɪk, wɪʧ ɪz waɪ məʊst ˈlaɪfgɑːd ˈjuːnɪfɔːm ˈswɪmsuːts ɑː meɪd frɒm ˈspɛʃəli ˌmænjʊˈfækʧəd məˈtɪərɪəlz ðæt dəʊnt feɪd ɔː dɪsˈkʌlər ˈiːzɪli.",
+        "exMeaning": "Hóa chất này rất khó chịu trên vải, đó là lý do tại sao hầu hết các bộ đồ bơi đồng phục của nhân viên cứu hộ được làm từ các vật liệu được sản xuất đặc biệt không dễ bị phai màu hoặc biến màu."
+    },
+    {
+        "word": "manager",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈmænɪʤə",
+        "meaning": "Quản lý",
+        "ex": "In his sixteenth year he entered the office of his father, who was partner and manager of a firm of engineers.",
+        "ipaExTrans": "ɪn hɪz ˈsɪksˈtiːnθ jɪə hiː ˈɛntəd ði ˈɒfɪs ɒv hɪz ˈfɑːðə, huː wɒz ˈpɑːtnər ænd ˈmænɪʤər ɒv ə fɜːm ɒv ˌɛnʤɪˈnɪəz.",
+        "exMeaning": "Năm thứ mười sáu, ông vào văn phòng của cha mình, người là đối tác và quản lý của một công ty kỹ sư."
+    },
+    {
+        "word": "model",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈmɒdl",
+        "meaning": "Người mẫu",
+        "ex": "This model came out back this winter.",
+        "ipaExTrans": "ðɪs ˈmɒdl keɪm aʊt bæk ðɪs ˈwɪntə.",
+        "exMeaning": "Mô hình này đã trở lại vào mùa đông này."
+    },
+    {
+        "word": "musician",
+        "type": "Noun nghề nghiệp",
+        "ipa": "mju(ː)ˈzɪʃən",
+        "meaning": "Nhạc sĩ",
+        "ex": "They were sons of a musician and poet, Jonas Columbus (1586-1663).",
+        "ipaExTrans": "ðeɪ wɜː sʌnz ɒv ə mju(ː)ˈzɪʃən ænd ˈpəʊɪt, Jonas kəˈlʌmbəs (1586-1663).",
+        "exMeaning": "Họ là con trai của một nhạc sĩ và nhà thơ, Jonas Columbus (1586-1663)."
+    },
+    {
+        "word": "nurse",
+        "type": "Noun nghề nghiệp",
+        "ipa": "nɜːs",
+        "meaning": "Y tá",
+        "ex": "I've come to sit with you a bit, Masha, said the nurse, \"and here I've brought the prince's wedding candles to light before his saint, my angel,\" she said with a sigh.",
+        "ipaExTrans": "aɪv kʌm tuː sɪt wɪð juː ə bɪt, ˈmɑːʃə, sɛd ðə nɜːs, \"ænd hɪər aɪv brɔːt ðə ˈprɪnsɪz ˈwɛdɪŋ ˈkændlz tuː laɪt bɪˈfɔː hɪz seɪnt, maɪ ˈeɪnʤəl,\" ʃiː sɛd wɪð ə saɪ.",
+        "exMeaning": "Tôi đã đến ngồi với bạn một chút, Masha, y tá nói, \"và ở đây tôi đã mang nến cưới của hoàng tử đến thắp sáng trước vị thánh của anh ta, thiên thần của tôi,\" cô nói với một tiếng thở dài."
+    },
+    {
+        "word": "painter",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈpeɪntə",
+        "meaning": "Thợ sơn",
+        "ex": "times all the resources of the sculptor and the painter were employed to beautify it externally and internally.",
+        "ipaExTrans": "taɪmz ɔːl ðə rɪˈsɔːsɪz ɒv ðə ˈskʌlptər ænd ðə ˈpeɪntə wɜːr ɪmˈplɔɪd tuː ˈbjuːtɪfaɪ ɪt ɛksˈtɜːnli ænd ɪnˈtɜːnəli.",
+        "exMeaning": "lần tất cả các tài nguyên của nhà điêu khắc và họa sĩ đã được sử dụng để làm đẹp nó bên ngoài và bên trong."
+    },
+    {
+        "word": "pharmacist",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈfɑːməsɪst",
+        "meaning": "Dược sĩ",
+        "ex": "The principle of \" one man one shop \" is general; a pharmacist may not own more than one shop in the same town.",
+        "ipaExTrans": "ðə ˈprɪnsəpl ɒv \" wʌn mæn wʌn ʃɒp \" ɪz ˈʤɛnərəl; ə ˈfɑːməsɪst meɪ nɒt əʊn mɔː ðæn wʌn ʃɒp ɪn ðə seɪm taʊn.",
+        "exMeaning": "Nguyên tắc \"một người một cửa hàng\" là chung chung; một dược sĩ không được sở hữu nhiều hơn một cửa hàng trong cùng một thị trấn."
+    },
+    {
+        "word": "photographer",
+        "type": "Noun nghề nghiệp",
+        "ipa": "fəˈtɒgrəfə",
+        "meaning": "Thợ chụp ảnh",
+        "ex": "The elderly photographer was as bad as Fred.",
+        "ipaExTrans": "ði ˈɛldəli fəˈtɒgrəfə wɒz æz bæd æz frɛd.",
+        "exMeaning": "Nhiếp ảnh gia cao tuổi cũng tệ như Fred."
+    },
+    {
+        "word": "pilot",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈpaɪlət",
+        "meaning": "Phi công",
+        "ex": "It is strongly fortified, and there are a lighthouse, and lifeboat and pilot stations.",
+        "ipaExTrans": "ɪt ɪz ˈstrɒŋli ˈfɔːtɪfaɪd, ænd ðeər ɑːr ə ˈlaɪthaʊs, ænd ˈlaɪfbəʊt ænd ˈpaɪlət ˈsteɪʃənz.",
+        "exMeaning": "Nó được củng cố mạnh mẽ, và có một ngọn hải đăng, xuồng cứu sinh và trạm thí điểm."
+    },
+    {
+        "word": "politician",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˌpɒlɪˈtɪʃən",
+        "meaning": "Chính trị gia",
+        "ex": "He'd never seen the politician up against something he couldn't defeat.",
+        "ipaExTrans": "hiːd ˈnɛvə siːn ðə ˌpɒlɪˈtɪʃən ʌp əˈgɛnst ˈsʌmθɪŋ hiː ˈkʊdnt dɪˈfiːt.",
+        "exMeaning": "Anh chưa bao giờ thấy chính trị gia chống lại thứ gì đó mà anh không thể đánh bại."
+    },
+    {
+        "word": "policeman policewoman",
+        "type": "Noun nghề nghiệp",
+        "ipa": "pəˈliːsmən pəˈliːsˌwʊmən",
+        "meaning": "Nam nữ cảnh sát"
+    },
+    {
+        "word": "receptionist",
+        "type": "Noun nghề nghiệp",
+        "ipa": "rɪˈsɛpʃənɪst",
+        "meaning": "Nhân viên tiếp tân",
+        "ex": "I'll tell my receptionist to make you an appointment for next week.",
+        "ipaExTrans": "aɪl tɛl maɪ rɪˈsɛpʃənɪst tuː meɪk juː ən əˈpɔɪntmənt fɔː nɛkst wiːk.",
+        "exMeaning": "Tôi sẽ nói với nhân viên tiếp tân của tôi để hẹn bạn vào tuần tới."
+    },
+    {
+        "word": "saleperson",
+        "type": "Noun nghề nghiệp",
+        "ipa": "saleperson",
+        "meaning": "Nhân viên bán hàng"
+    },
+    {
+        "word": "scientist",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈsaɪəntɪst",
+        "meaning": "Nhà khoa học",
+        "ex": "The scientist hopped up with a cheerful salute.",
+        "ipaExTrans": "ðə ˈsaɪəntɪst hɒpt ʌp wɪð ə ˈʧɪəfʊl səˈluːt.",
+        "exMeaning": "Các nhà khoa học nhảy lên với một lời chào vui vẻ."
+    },
+    {
+        "word": "secretary",
+        "type": "Noun nghề nghiệp",
+        "ipa": "ˈsɛkrətri",
+        "meaning": "Thư kí",
+        "ex": "She heard the secretary typing.",
+        "ipaExTrans": "ʃiː hɜːd ðə ˈsɛkrətri ˈtaɪpɪŋ.",
+        "exMeaning": "Cô nghe tiếng thư ký đánh máy."
+    },
+    {
+        "word": "security guard",
+        "type": "Noun nghề nghiệp",
+        "ipa": "sɪˈkjʊərɪti gɑːd",
+        "meaning": "Nhân viên bảo vệ"
+    }
+]

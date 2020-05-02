@@ -1,0 +1,236 @@
+[
+    {
+        "word": "broad",
+        "type": "Adj",
+        "ipa": "brɔːd",
+        "meaning": "rộng lớn",
+        "ex": "The old man looked up with a broad smile.",
+        "ipaExTrans": "ði əʊld mæn lʊkt ʌp wɪð ə brɔːd smaɪl.",
+        "exMeaning": "Ông già ngước lên với nụ cười rộng mở."
+    },
+    {
+        "word": "chubby",
+        "type": "Adj",
+        "ipa": "ˈʧʌbi",
+        "meaning": "Mập mạp",
+        "ex": "Can she describe our chubby friend with the mustache?",
+        "ipaExTrans": "kæn ʃiː dɪsˈkraɪb ˈaʊə ˈʧʌbi frɛnd wɪð ðə məsˈtɑːʃ?",
+        "exMeaning": "Cô ấy có thể mô tả người bạn mũm mĩm của chúng tôi với bộ ria mép?"
+    },
+    {
+        "word": "crooked",
+        "type": "Adj",
+        "ipa": "krʊkt",
+        "meaning": "quanh co",
+        "ex": "Cynthia crooked her eyebrow.",
+        "ipaExTrans": "ˈsɪnθɪə krʊkt hɜːr ˈaɪbraʊ.",
+        "exMeaning": "Cynthia nhíu mày."
+    },
+    {
+        "word": "curved",
+        "type": "Adj",
+        "ipa": "kɜːvd",
+        "meaning": "cong",
+        "ex": "The black checkers are flat and the white ones curved on top.",
+        "ipaExTrans": "ðə blæk ˈʧɛkəz ɑː flæt ænd ðə waɪt wʌnz kɜːvd ɒn tɒp.",
+        "exMeaning": "Cờ đen phẳng và những cái trắng cong trên đầu."
+    },
+    {
+        "word": "deep",
+        "type": "Adj",
+        "ipa": "diːp",
+        "meaning": "sâu",
+        "ex": "She drew a deep breath.",
+        "ipaExTrans": "ʃiː druː ə diːp brɛθ.",
+        "exMeaning": "Cô hít một hơi thật sâu."
+    },
+    {
+        "word": "flat",
+        "type": "Adj",
+        "ipa": "flæt",
+        "meaning": "bằng phẳng",
+        "ex": "He had just fixed a flat on his bike.",
+        "ipaExTrans": "hiː hæd ʤʌst fɪkst ə flæt ɒn hɪz baɪk.",
+        "exMeaning": "Anh ta vừa sửa một chiếc xe đạp."
+    },
+    {
+        "word": "high",
+        "type": "Adj",
+        "ipa": "haɪ",
+        "meaning": "cao",
+        "ex": "Her instincts on high alarm, she met Xander's gaze.",
+        "ipaExTrans": "hɜːr ˈɪnstɪŋkts ɒn haɪ əˈlɑːm, ʃiː mɛt Xander's geɪz.",
+        "exMeaning": "Bản năng của cô ở mức báo động cao, cô bắt gặp ánh mắt của Xander."
+    },
+    {
+        "word": "hollow",
+        "type": "Adj",
+        "ipa": "ˈhɒləʊ",
+        "meaning": "rỗng",
+        "ex": "The blue-bird makes her nest in a hollow tree and her eggs are blue.",
+        "ipaExTrans": "ðə bluː-bɜːd meɪks hɜː nɛst ɪn ə ˈhɒləʊ triː ænd hɜːr ɛgz ɑː bluː.",
+        "exMeaning": "Con chim màu xanh làm cho tổ của nó trong một cái cây rỗng và trứng của nó có màu xanh."
+    },
+    {
+        "word": "low",
+        "type": "Adj",
+        "ipa": "ləʊ",
+        "meaning": "Thấp",
+        "ex": "His voice was low and gentle.",
+        "ipaExTrans": "hɪz vɔɪs wɒz ləʊ ænd ˈʤɛntl.",
+        "exMeaning": "Giọng anh trầm và dịu dàng."
+    },
+    {
+        "word": "narrow",
+        "type": "Adj",
+        "ipa": "ˈnærəʊ",
+        "meaning": "hẹp",
+        "ex": "He pointed to a set of narrow stairs.",
+        "ipaExTrans": "hiː ˈpɔɪntɪd tuː ə sɛt ɒv ˈnærəʊ steəz.",
+        "exMeaning": "Anh chỉ vào một bộ cầu thang hẹp."
+    },
+    {
+        "word": "refined",
+        "type": "Adj",
+        "ipa": "rɪˈfaɪnd",
+        "meaning": "tinh chế",
+        "ex": "My senses are more refined than yours.",
+        "ipaExTrans": "maɪ ˈsɛnsɪz ɑː mɔː rɪˈfaɪnd ðæn jɔːz.",
+        "exMeaning": "Các giác quan của tôi tinh tế hơn của bạn."
+    },
+    {
+        "word": "round",
+        "type": "Adj",
+        "ipa": "raʊnd",
+        "meaning": "tròn",
+        "ex": "You ready for round two?",
+        "ipaExTrans": "juː ˈrɛdi fɔː raʊnd tuː?",
+        "exMeaning": "Bạn đã sẵn sàng cho vòng hai?"
+    },
+    {
+        "word": "shallow",
+        "type": "Adj",
+        "ipa": "ˈʃæləʊ",
+        "meaning": "Nông cạn",
+        "ex": "His breathing was shallow and fast.",
+        "ipaExTrans": "hɪz ˈbriːðɪŋ wɒz ˈʃæləʊ ænd fɑːst.",
+        "exMeaning": "Hơi thở của anh thật nông và nhanh."
+    },
+    {
+        "word": "skinny",
+        "type": "Adj",
+        "ipa": "ˈskɪni",
+        "meaning": "gầy",
+        "ex": "She moved closer to Ully, even while knowing the skinny nerd was the least likely to defend her.",
+        "ipaExTrans": "ʃiː muːvd ˈkləʊsə tuː Ully, ˈiːvən waɪl ˈnəʊɪŋ ðə ˈskɪni nɜːd wɒz ðə liːst ˈlaɪkli tuː dɪˈfɛnd hɜː.",
+        "exMeaning": "Cô tiến lại gần Ully, ngay cả khi biết mọt sách gầy gò là người ít có khả năng bảo vệ cô nhất."
+    },
+    {
+        "word": "square",
+        "type": "Adj",
+        "ipa": "skweə",
+        "meaning": "Quảng trường",
+        "ex": "This area is ten square miles, though.",
+        "ipaExTrans": "ðɪs ˈeərɪə ɪz tɛn skweə maɪlz, ðəʊ.",
+        "exMeaning": "Khu vực này là mười dặm vuông, mặc dù."
+    },
+    {
+        "word": "steep",
+        "type": "Adj",
+        "ipa": "stiːp",
+        "meaning": "dốc",
+        "ex": "She screamed again as she tumbled down a steep hill.",
+        "ipaExTrans": "ʃiː skriːmd əˈgɛn æz ʃiː ˈtʌmbld daʊn ə stiːp hɪl.",
+        "exMeaning": "Cô lại hét lên khi ngã xuống một ngọn đồi dốc."
+    },
+    {
+        "word": "straight",
+        "type": "Adj",
+        "ipa": "streɪt",
+        "meaning": "thẳng",
+        "ex": "She looked him straight in the eye.",
+        "ipaExTrans": "ʃiː lʊkt hɪm streɪt ɪn ði aɪ.",
+        "exMeaning": "Cô nhìn thẳng vào mắt anh."
+    },
+    {
+        "word": "wide",
+        "type": "Adj",
+        "ipa": "waɪd",
+        "meaning": "rộng",
+        "ex": "For a long time she lay wide awake with her eyes closed.",
+        "ipaExTrans": "fɔːr ə lɒŋ taɪm ʃiː leɪ waɪd əˈweɪk wɪð hɜːr aɪz kləʊzd.",
+        "exMeaning": "Trong một thời gian dài, cô nằm thức dậy với đôi mắt nhắm nghiền."
+    },
+    {
+        "word": "distorted",
+        "type": "Adj",
+        "ipa": "dɪsˈtɔːtɪd",
+        "meaning": "bị bóp méo",
+        "ex": "Hairy considered the crystals to be only distorted cubic forms.",
+        "ipaExTrans": "ˈheəri kənˈsɪdəd ðə ˈkrɪstlz tuː biː ˈəʊnli dɪsˈtɔːtɪd ˈkjuːbɪk fɔːmz.",
+        "exMeaning": "Hairy coi các tinh thể chỉ là dạng khối bị biến dạng."
+    },
+    {
+        "word": "rotund",
+        "type": "Adj",
+        "ipa": "rəʊˈtʌnd",
+        "meaning": "mục nát",
+        "ex": "I'll be the rotund brunette no one wants to talk to!",
+        "ipaExTrans": "aɪl biː ðə rəʊˈtʌnd bruːˈnɛt nəʊ wʌn wɒnts tuː tɔːk tuː!",
+        "exMeaning": "Tôi sẽ là cậu bé tóc nâu không ai muốn nói chuyện!"
+    },
+    {
+        "word": "fluffy",
+        "type": "Adj",
+        "ipa": "ˈflʌfi",
+        "meaning": "lông tơ",
+        "ex": "The fluffy white tail of a rabbit bobbed through the brush as the terrified animal bounded away.",
+        "ipaExTrans": "ðə ˈflʌfi waɪt teɪl ɒv ə ˈræbɪt bɒbd θruː ðə brʌʃ æz ðə ˈtɛrɪfaɪd ˈænɪməl ˈbaʊndɪd əˈweɪ.",
+        "exMeaning": "Cái đuôi trắng mịn của một con thỏ luồn qua bàn chải khi con vật kinh hoàng lao đi."
+    },
+    {
+        "word": "circular",
+        "type": "Adj",
+        "ipa": "ˈsɜːkjʊlə",
+        "meaning": "dạng hình tròn",
+        "ex": "The rubber is circular in section, and about 2 in.",
+        "ipaExTrans": "ðə ˈrʌbər ɪz ˈsɜːkjʊlər ɪn ˈsɛkʃən, ænd əˈbaʊt 2 ɪn.",
+        "exMeaning": "Cao su là hình tròn trong phần, và khoảng 2 in."
+    },
+    {
+        "word": "globular",
+        "type": "Adj",
+        "ipa": "ˈglɒbjʊlə",
+        "meaning": "hình cầu",
+        "ex": "To reach the honey in the spur of the flower, the insect must thrust its proboscis into the flower close under the globular head of the stigma.",
+        "ipaExTrans": "tuː riːʧ ðə ˈhʌni ɪn ðə spɜːr ɒv ðə ˈflaʊə, ði ˈɪnsɛkt mʌst θrʌst ɪts prəʊˈbɒsɪs ˈɪntuː ðə ˈflaʊə kləʊs ˈʌndə ðə ˈglɒbjʊlə hɛd ɒv ðə ˈstɪgmə.",
+        "exMeaning": "Để đạt được mật ong trong sự thúc đẩy của bông hoa, côn trùng phải đẩy vòi của nó vào bông hoa gần đầu hình cầu của nhụy."
+    },
+    {
+        "word": "cylindrical",
+        "type": "Adj",
+        "ipa": "sɪˈlɪndrɪkəl",
+        "meaning": "hình trụ",
+        "ex": "Cylindrical organs may exhibit similar phenomena.",
+        "ipaExTrans": "sɪˈlɪndrɪkəl ˈɔːgənz meɪ ɪgˈzɪbɪt ˈsɪmɪlə fɪˈnɒmɪnə.",
+        "exMeaning": "Các cơ quan hình trụ có thể biểu hiện hiện tượng tương tự."
+    },
+    {
+        "word": "triangular",
+        "type": "Adj",
+        "ipa": "traɪˈæŋgjʊlə",
+        "meaning": "hình tam giác",
+        "ex": "Moonlight spilled over triangular roofs into grassy front yards.",
+        "ipaExTrans": "ˈmuːnlaɪt spɪld ˈəʊvə traɪˈæŋgjʊlə ruːfs ˈɪntuː ˈgrɑːsi frʌnt jɑːdz.",
+        "exMeaning": "Ánh trăng tràn qua những mái nhà hình tam giác vào sân trước cỏ."
+    },
+    {
+        "word": "oval",
+        "type": "Adj",
+        "ipa": "ˈəʊvəl",
+        "meaning": "hình trái xoan",
+        "ex": "It is oval in shape, and retains its medieval fortifications.",
+        "ipaExTrans": "ɪt ɪz ˈəʊvəl ɪn ʃeɪp, ænd rɪˈteɪnz ɪts ˌmɛdɪˈiːvəl ˌfɔːtɪfɪˈkeɪʃənz.",
+        "exMeaning": "Nó có hình bầu dục, và giữ lại các công sự thời trung cổ."
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "word": "ancient",
+        "type": "Adj",
+        "ipa": "ˈeɪnʃ(ə)nt",
+        "meaning": "cổ xưa",
+        "ex": "It looked ancient, and he opened it carefully.",
+        "ipaExTrans": "ɪt lʊkt ˈeɪnʃ(ə)nt, ænd hiː ˈəʊpənd ɪt ˈkeəfli.",
+        "exMeaning": "Trông nó thật cổ kính, và anh mở nó cẩn thận."
+    },
+    {
+        "word": "brief",
+        "type": "Adj",
+        "ipa": "briːf",
+        "meaning": "tóm tắt",
+        "ex": "There was a brief pause.",
+        "ipaExTrans": "ðeə wɒz ə briːf pɔːz.",
+        "exMeaning": "Có một khoảng dừng ngắn."
+    },
+    {
+        "word": "early",
+        "type": "Adj",
+        "ipa": "ˈɜːli",
+        "meaning": "sớm",
+        "ex": "It's late and I have to get up early tomorrow.",
+        "ipaExTrans": "ɪts leɪt ænd aɪ hæv tuː gɛt ʌp ˈɜːli təˈmɒrəʊ.",
+        "exMeaning": "Muộn rồi tôi phải dậy sớm vào ngày mai."
+    },
+    {
+        "word": "fast",
+        "type": "Adj",
+        "ipa": "fɑːst",
+        "meaning": "Nhanh",
+        "ex": "It was all so fast that she didn't have time to think.",
+        "ipaExTrans": "ɪt wɒz ɔːl səʊ fɑːst ðæt ʃiː dɪdnt hæv taɪm tuː θɪŋk.",
+        "exMeaning": "Mọi thứ nhanh đến mức cô không có thời gian để suy nghĩ."
+    },
+    {
+        "word": "future",
+        "type": "Adj",
+        "ipa": "ˈfjuːʧə",
+        "meaning": "Tương lai",
+        "ex": "What a future that will be!",
+        "ipaExTrans": "wɒt ə ˈfjuːʧə ðæt wɪl biː!",
+        "exMeaning": "Thật là một tương lai sẽ có!"
+    },
+    {
+        "word": "late",
+        "type": "Adj",
+        "ipa": "leɪt",
+        "meaning": "muộn",
+        "ex": "It's late, and I'm tired.",
+        "ipaExTrans": "ɪts leɪt, ænd aɪm ˈtaɪəd.",
+        "exMeaning": "Muộn rồi, tôi mệt rồi."
+    },
+    {
+        "word": "long",
+        "type": "Adj",
+        "ipa": "lɒŋ",
+        "meaning": "Dài",
+        "ex": "Carmen, how long has she had this fever?",
+        "ipaExTrans": "ˈkɑːmən, haʊ lɒŋ hæz ʃiː hæd ðɪs ˈfiːvə?",
+        "exMeaning": "Cô bé bị sốt bao lâu rồi?"
+    },
+    {
+        "word": "modern",
+        "type": "Adj",
+        "ipa": "ˈmɒdən",
+        "meaning": "hiện đại",
+        "ex": "The road leading to the castle was modern blacktop.",
+        "ipaExTrans": "ðə rəʊd ˈliːdɪŋ tuː ðə ˈkɑːsl wɒz ˈmɒdən blacktop.",
+        "exMeaning": "Con đường dẫn đến lâu đài là bảng đen hiện đại."
+    },
+    {
+        "word": "old",
+        "type": "Adj",
+        "ipa": "əʊld",
+        "meaning": "cũ",
+        "ex": "My parents used to listen to those old songs.",
+        "ipaExTrans": "maɪ ˈpeərənts juːzd tuː ˈlɪsn tuː ðəʊz əʊld sɒŋz.",
+        "exMeaning": "Bố mẹ tôi thường nghe những bài hát cũ đó."
+    },
+    {
+        "word": "prehistoric",
+        "type": "Adj",
+        "ipa": "ˌpriːhɪsˈtɒrɪk",
+        "meaning": "thời tiền sử",
+        "ex": "The whole neighborhood is rich in prehistoric remains.",
+        "ipaExTrans": "ðə həʊl ˈneɪbəhʊd ɪz rɪʧ ɪn ˌpriːhɪsˈtɒrɪk rɪˈmeɪnz.",
+        "exMeaning": "Toàn bộ khu phố rất giàu di tích thời tiền sử."
+    },
+    {
+        "word": "quick",
+        "type": "Adj",
+        "ipa": "kwɪk",
+        "meaning": "nhanh chóng",
+        "ex": "She took a quick step back.",
+        "ipaExTrans": "ʃiː tʊk ə kwɪk stɛp bæk.",
+        "exMeaning": "Cô lùi lại một bước."
+    },
+    {
+        "word": "rapid",
+        "type": "Adj",
+        "ipa": "ˈræpɪd",
+        "meaning": "nhanh",
+        "ex": "His response to the accusation was rapid.",
+        "ipaExTrans": "hɪz rɪsˈpɒns tuː ði ˌækju(ː)ˈzeɪʃ(ə)n wɒz ˈræpɪd.",
+        "exMeaning": "Phản ứng của ông trước lời buộc tội là nhanh chóng."
+    },
+    {
+        "word": "short",
+        "type": "Adj",
+        "ipa": "ʃɔːt",
+        "meaning": "ngắn",
+        "ex": "Life's too short as it is.",
+        "ipaExTrans": "laɪfs tuː ʃɔːt æz ɪt ɪz.",
+        "exMeaning": "Cuộc sống quá ngắn ngủi."
+    },
+    {
+        "word": "slow",
+        "type": "Adj",
+        "ipa": "sləʊ",
+        "meaning": "chậm",
+        "ex": "A slow smile came to his lips.",
+        "ipaExTrans": "ə sləʊ smaɪl keɪm tuː hɪz lɪps.",
+        "exMeaning": "Một nụ cười chậm chạp nở trên môi anh."
+    },
+    {
+        "word": "swift",
+        "type": "Adj",
+        "ipa": "swɪft",
+        "meaning": "nhanh",
+        "ex": "Her answer came swift and certain.",
+        "ipaExTrans": "hɜːr ˈɑːnsə keɪm swɪft ænd ˈsɜːtn.",
+        "exMeaning": "Câu trả lời của cô đến nhanh chóng và chắc chắn."
+    },
+    {
+        "word": "young",
+        "type": "Adj",
+        "ipa": "jʌŋ",
+        "meaning": "trẻ",
+        "ex": "The young girl ran off without a word.",
+        "ipaExTrans": "ðə jʌŋ gɜːl ræn ɒf wɪˈðaʊt ə wɜːd.",
+        "exMeaning": "Cô gái trẻ chạy đi không nói một lời."
+    },
+    {
+        "word": "annual",
+        "type": "Adj",
+        "ipa": "ˈænjʊəl",
+        "meaning": "hàng năm",
+        "ex": "I miss their annual calendar.",
+        "ipaExTrans": "aɪ mɪs ðeər ˈænjʊəl ˈkælɪndə.",
+        "exMeaning": "Tôi nhớ lịch hàng năm của họ."
+    },
+    {
+        "word": "futuristic",
+        "type": "Adj",
+        "ipa": "ˌfjuːʧəˈrɪstɪk",
+        "meaning": "tương lai",
+        "ex": "Her latest novel is a futuristic thriller, set in the twenty-first century.",
+        "ipaExTrans": "hɜː ˈleɪtɪst ˈnɒvəl ɪz ə ˌfjuːʧəˈrɪstɪk ˈθrɪlə, sɛt ɪn ðə ˈtwɛnti-fɜːst ˈsɛnʧʊri.",
+        "exMeaning": "Cuốn tiểu thuyết mới nhất của cô là một phim kinh dị tương lai, lấy bối cảnh thế kỷ hai mươi mốt."
+    },
+    {
+        "word": "historical",
+        "type": "Adj",
+        "ipa": "hɪsˈtɒrɪkəl",
+        "meaning": "lịch sử",
+        "ex": "What causes historical events?",
+        "ipaExTrans": "wɒt ˈkɔːzɪz hɪsˈtɒrɪkəl ɪˈvɛnts?",
+        "exMeaning": "Điều gì gây ra sự kiện lịch sử?"
+    },
+    {
+        "word": "regular",
+        "type": "Adj",
+        "ipa": "ˈrɛgjʊlə",
+        "meaning": "đều đặn",
+        "ex": "Tonight she was having fun, but it wasn't something she would enjoy doing on a regular basis.",
+        "ipaExTrans": "təˈnaɪt ʃiː wɒz ˈhævɪŋ fʌn, bʌt ɪt wɒznt ˈsʌmθɪŋ ʃiː wʊd ɪnˈʤɔɪ ˈdu(ː)ɪŋ ɒn ə ˈrɛgjʊlə ˈbeɪsɪs.",
+        "exMeaning": "Tối nay cô ấy đã vui vẻ, nhưng đó không phải là điều cô ấy sẽ thích làm thường xuyên."
+    },
+    {
+        "word": "daily",
+        "type": "Adj",
+        "ipa": "ˈdeɪli",
+        "meaning": "hằng ngày",
+        "ex": "He thanked me and went about his daily business.",
+        "ipaExTrans": "hiː θæŋkt miː ænd wɛnt əˈbaʊt hɪz ˈdeɪli ˈbɪznɪs.",
+        "exMeaning": "Anh ấy cảm ơn tôi và đi về công việc hàng ngày của anh ấy."
+    },
+    {
+        "word": "irregular",
+        "type": "Adj",
+        "ipa": "ɪˈrɛgjʊlə",
+        "meaning": "không thường xuyên",
+        "ex": "Releasing the goods without an invoice is most irregular.",
+        "ipaExTrans": "rɪˈliːsɪŋ ðə gʊdz wɪˈðaʊt ən ˈɪnvɔɪs ɪz məʊst ɪˈrɛgjʊlə.",
+        "exMeaning": "Phát hành hàng hóa mà không có hóa đơn là bất thường nhất."
+    },
+    {
+        "word": "eternal",
+        "type": "Adj",
+        "ipa": "i(ː)ˈtɜːnl",
+        "meaning": "Vĩnh hằng",
+        "ex": "Some people are very concerned about their eternal destiny.",
+        "ipaExTrans": "sʌm ˈpiːpl ɑː ˈvɛri kənˈsɜːnd əˈbaʊt ðeər i(ː)ˈtɜːnl ˈdɛstɪni.",
+        "exMeaning": "Một số người rất quan tâm đến số phận vĩnh cửu của họ."
+    },
+    {
+        "word": "speed",
+        "type": "Adj",
+        "ipa": "spiːd",
+        "meaning": "tốc độ",
+        "ex": "He drove the speed limit - no more, no less.",
+        "ipaExTrans": "hiː drəʊv ðə spiːd ˈlɪmɪt - nəʊ mɔː, nəʊ lɛs.",
+        "exMeaning": "Anh lái xe giới hạn tốc độ - không hơn, không kém."
+    },
+    {
+        "word": "speedy",
+        "type": "Adj",
+        "ipa": "ˈspiːdi",
+        "meaning": "nhanh chóng",
+        "ex": "In any case, from this time events followed one another to a speedy conclusion.",
+        "ipaExTrans": "ɪn ˈɛni keɪs, frɒm ðɪs taɪm ɪˈvɛnts ˈfɒləʊd wʌn əˈnʌðə tuː ə ˈspiːdi kənˈkluːʒən.",
+        "exMeaning": "Trong mọi trường hợp, từ thời điểm này, các sự kiện theo nhau đến một kết luận nhanh chóng."
+    },
+    {
+        "word": "first",
+        "type": "Adj",
+        "ipa": "fɜːst",
+        "meaning": "Đầu tiên",
+        "ex": "It was the first money that he had ever had.",
+        "ipaExTrans": "ɪt wɒz ðə fɜːst ˈmʌni ðæt hiː hæd ˈɛvə hæd.",
+        "exMeaning": "Đó là số tiền đầu tiên mà anh từng có."
+    },
+    {
+        "word": "fleet",
+        "type": "Adj",
+        "ipa": "fliːt",
+        "meaning": "đội tàu",
+        "ex": "There's a fleet of nice ladies at the courthouse that are always happy to help.",
+        "ipaExTrans": "ðeəz ə fliːt ɒv naɪs ˈleɪdɪz æt ðə ˈkɔːtˈhaʊs ðæt ɑːr ˈɔːlweɪz ˈhæpi tuː hɛlp.",
+        "exMeaning": "Có một đội ngũ những người phụ nữ tốt bụng tại tòa án luôn sẵn lòng giúp đỡ."
+    },
+    {
+        "word": "waiting",
+        "type": "Adj",
+        "ipa": "ˈweɪtɪŋ",
+        "meaning": "đang chờ đợi",
+        "ex": "Are you still there, waiting for me to come to you?",
+        "ipaExTrans": "ɑː juː stɪl ðeə, ˈweɪtɪŋ fɔː miː tuː kʌm tuː juː?",
+        "exMeaning": "Bạn vẫn ở đó, chờ đợi tôi đến với bạn?"
+    }
+]

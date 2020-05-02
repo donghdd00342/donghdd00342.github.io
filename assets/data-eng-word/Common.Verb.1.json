@@ -1,0 +1,862 @@
+[
+    {
+        "word": "come",
+        "type": "verb",
+        "ipa": "kʌm",
+        "meaning": "past tense came /keim/ | past participle come; đi đến; sắp tới; đứng giữa; làm thế nào; đạt tới một điều gì; lên tới; ",
+        "context": "past tense came /keim/ | past participle come; đi đến; sắp tới; đứng giữa; làm thế nào; đạt tới một điều gì; lên tới; ",
+        "ex": "What are things coming to? We have come to an agreement.",
+        "ipaExTrans": "wɒt ɑː θɪŋz ˈkʌmɪŋ tuː? wiː hæv kʌm tuː ən əˈgriːmənt.",
+        "exMeaning": "Những gì đang đến? Chúng tôi đã đi đến một thỏa thuận."
+    },
+    {
+        "word": "include",
+        "type": "verb",
+        "ipa": "ɪnˈkluːd",
+        "meaning": "bao gồm",
+        "context": "bao gồm",
+        "ex": "Am I included in the team?",
+        "ipaExTrans": "æm aɪ ɪnˈkluːdɪd ɪn ðə tiːm?",
+        "exMeaning": "Tôi có được bao gồm trong đội không?"
+    },
+    {
+        "word": "thank",
+        "type": "verb",
+        "ipa": "θæŋk",
+        "meaning": "cảm ơn",
+        "context": "cảm ơn",
+        "ex": "She thanked him for inviting her.",
+        "ipaExTrans": "ʃiː θæŋkt hɪm fɔːr ɪnˈvaɪtɪŋ hɜː.",
+        "exMeaning": "Cô cảm ơn anh vì đã mời cô."
+    },
+    {
+        "word": "provide",
+        "type": "verb",
+        "ipa": "prəˈvaɪd",
+        "meaning": "cung cấp; chu cấp",
+        "context": "cung cấp; chu cấp",
+        "ex": "He is unable to provide for his family.",
+        "ipaExTrans": "hiː ɪz ʌnˈeɪbl tuː prəˈvaɪd fɔː hɪz ˈfæmɪli.",
+        "exMeaning": "Anh ấy không thể cung cấp cho gia đình."
+    },
+    {
+        "word": "create",
+        "type": "verb",
+        "ipa": "kri(ː)ˈeɪt",
+        "meaning": "tạo nên; phong cấp",
+        "context": "tạo nên; phong cấp",
+        "ex": "The circus created great excitement.",
+        "ipaExTrans": "ðə ˈsɜːkəs kri(ː)ˈeɪtɪd greɪt ɪkˈsaɪtmənt.",
+        "exMeaning": "Xiếc tạo ra sự phấn khích lớn."
+    },
+    {
+        "word": "add",
+        "type": "verb",
+        "ipa": "æd",
+        "meaning": "thêm vào; cộng; bổ sung; làm tăng thêm",
+        "context": "thêm vào; cộng; bổ sung; làm tăng thêm",
+        "ex": "He admitted that he had made a mistake, and added that he was sorry.",
+        "ipaExTrans": "hiː ədˈmɪtɪd ðæt hiː hæd meɪd ə mɪsˈteɪk, ænd ˈædɪd ðæt hiː wɒz ˈsɒri.",
+        "exMeaning": "Anh ấy thừa nhận rằng anh ấy đã phạm sai lầm, và nói thêm rằng anh ấy xin lỗi."
+    },
+    {
+        "word": "understand",
+        "type": "verb",
+        "ipa": "ˌʌndəˈstænd",
+        "meaning": "past tense, past participle understood /-ˈstud/; hiểu được ý; hiểu, nhận thức được; hiểu, nhận ra",
+        "context": "past tense, past participle understood /-ˈstud/; hiểu được ý; hiểu, nhận thức được; hiểu, nhận ra",
+        "ex": "Speak slowly to foreigners so that they’ll understand you.",
+        "ipaExTrans": "spiːk ˈsləʊli tuː ˈfɒrɪnəz səʊ ðæt ðeɪl ˌʌndəˈstænd juː.",
+        "exMeaning": "Nói chậm với người nước ngoài để họ sẽ hiểu bạn."
+    },
+    {
+        "word": "consider",
+        "type": "verb",
+        "ipa": "kənˈsɪdə",
+        "meaning": "xem xét; cân nhắc; tính đến; coi như",
+        "context": "xem xét; cân nhắc; tính đến; coi như",
+        "ex": "You must consider other people’s feelings.",
+        "ipaExTrans": "juː mʌst kənˈsɪdər ˈʌðə ˈpiːplz ˈfiːlɪŋz.",
+        "exMeaning": "Bạn phải xem xét những người khác cảm xúc."
+    },
+    {
+        "word": "choose",
+        "type": "verb",
+        "ipa": "ʧuːz",
+        "meaning": "past tense chose /tʃouz/ | past participle chosen /ˈtʃouzn/; chọn, lựa; quyết định; ",
+        "context": "past tense chose /tʃouz/ | past participle chosen /ˈtʃouzn/; chọn, lựa; quyết định; ",
+        "ex": "If he chooses to resign, let him do so.",
+        "ipaExTrans": "ɪf hiː ˈʧuːzɪz tuː rɪˈzaɪn, lɛt hɪm duː səʊ.",
+        "exMeaning": "Nếu anh ấy chọn từ chức, hãy để anh ấy làm như vậy."
+    },
+    {
+        "word": "develop",
+        "type": "verb",
+        "ipa": "dɪˈvɛləp",
+        "meaning": "past tense, past participle developed; mở rộng; phát triển; bộc lộ rõ; rửa ảnh",
+        "context": "past tense, past participle developed; mở rộng; phát triển; bộc lộ rõ; rửa ảnh",
+        "ex": "He developed the habit of getting up early.",
+        "ipaExTrans": "hiː dɪˈvɛləpt ðə ˈhæbɪt ɒv ˈgɛtɪŋ ʌp ˈɜːli.",
+        "exMeaning": "Anh phát triển thói quen dậy sớm."
+    },
+    {
+        "word": "remember",
+        "type": "verb",
+        "ipa": "rɪˈmɛmbə",
+        "meaning": "nhớ; nhớ đến ai; chuyển lời chúc đến ai",
+        "context": "nhớ; nhớ đến ai; chuyển lời chúc đến ai",
+        "ex": "He remembered her in his will.",
+        "ipaExTrans": "hiː rɪˈmɛmbəd hɜːr ɪn hɪz wɪl.",
+        "exMeaning": "Anh nhớ cô trong ý chí của anh."
+    },
+    {
+        "word": "determine",
+        "type": "verb",
+        "ipa": "dɪˈtɜːmɪn",
+        "meaning": "quyết định; xác định",
+        "context": "quyết định; xác định",
+        "ex": "He tried to determine what had gone wrong.",
+        "ipaExTrans": "hiː traɪd tuː dɪˈtɜːmɪn wɒt hæd gɒn rɒŋ.",
+        "exMeaning": "Anh cố gắng xác định những gì đã đi sai."
+    },
+    {
+        "word": "grow",
+        "type": "verb",
+        "ipa": "grəʊ",
+        "meaning": "past tense grew /ɡruː/ | past participle grown; phát triển; gia tăng; làm phát triển; trở thành; trở thành",
+        "context": "past tense grew /ɡruː/ | past participle grown; phát triển; gia tăng; làm phát triển; trở thành; trở thành",
+        "ex": "Your daughter has grown into a beautiful woman.",
+        "ipaExTrans": "jɔː ˈdɔːtə hæz grəʊn ˈɪntuː ə ˈbjuːtəfʊl ˈwʊmən.",
+        "exMeaning": "Con gái của bạn đã trở thành một người phụ nữ xinh đẹp."
+    },
+    {
+        "word": "allow",
+        "type": "verb",
+        "ipa": "əˈlaʊ",
+        "meaning": "cho phép; tính đến; cho",
+        "context": "cho phép; tính đến; cho",
+        "ex": "Smoking is not allowed inside the restaurant.",
+        "ipaExTrans": "ˈsməʊkɪŋ ɪz nɒt əˈlaʊd ɪnˈsaɪd ðə ˈrɛstrɒnt.",
+        "exMeaning": "Hút thuốc không được phép trong nhà hàng."
+    },
+    {
+        "word": "supply",
+        "type": "verb",
+        "ipa": "səˈplaɪ",
+        "meaning": "past tense, past participle supplied; cung cấp, tiếp tế; (NOUN: sự cung cấp; nguồn, hàng cung cấp)",
+        "context": "past tense, past participle supplied; cung cấp, tiếp tế; (NOUN: sự cung cấp; nguồn, hàng cung cấp)",
+        "ex": "The shop was unable to supply what she wanted.",
+        "ipaExTrans": "ðə ʃɒp wɒz ʌnˈeɪbl tuː səˈplaɪ wɒt ʃiː ˈwɒntɪd.",
+        "exMeaning": "Cửa hàng không thể cung cấp những gì cô ấy muốn."
+    },
+    {
+        "word": "bring",
+        "type": "verb",
+        "ipa": "brɪŋ",
+        "meaning": "past tense, past participle brought /broːt/; mang lại; làm cho",
+        "context": "past tense, past participle brought /broːt/; mang lại; làm cho",
+        "ex": "This medicine will bring you relief.",
+        "ipaExTrans": "ðɪs ˈmɛdsɪn wɪl brɪŋ juː rɪˈliːf.",
+        "exMeaning": "Thuốc này sẽ mang lại cho bạn sự nhẹ nhõm."
+    },
+    {
+        "word": "improve",
+        "type": "verb",
+        "ipa": "ɪmˈpruːv",
+        "meaning": "cải thiện",
+        "context": "cải thiện",
+        "ex": "They recently improved the design of that car.",
+        "ipaExTrans": "ðeɪ ˈriːsntli ɪmˈpruːvd ðə dɪˈzaɪn ɒv ðæt kɑː.",
+        "exMeaning": "Gần đây họ đã cải tiến thiết kế của chiếc xe đó."
+    },
+    {
+        "word": "maintain",
+        "type": "verb",
+        "ipa": "meɪnˈteɪn",
+        "meaning": "tiếp tục; bảo dưỡng; nuôi dưỡng; xác nhận",
+        "context": "tiếp tục; bảo dưỡng; nuôi dưỡng; xác nhận",
+        "ex": "How can you maintain a wife and three children on your small salary?",
+        "ipaExTrans": "haʊ kæn juː meɪnˈteɪn ə waɪf ænd θriː ˈʧɪldrən ɒn jɔː smɔːl ˈsæləri?",
+        "exMeaning": "Làm thế nào bạn có thể duy trì một người vợ và ba đứa con với mức lương nhỏ của bạn?"
+    },
+    {
+        "word": "begin",
+        "type": "verb",
+        "ipa": "bɪˈgɪn",
+        "meaning": "present participle beginning | past tense began /biˈɡan/ | past participle begun /biˈɡan/; bắt đầu",
+        "context": "present participle beginning | past tense began /biˈɡan/ | past participle begun /biˈɡan/; bắt đầu",
+        "ex": "The meeting began early.",
+        "ipaExTrans": "ðə ˈmiːtɪŋ bɪˈgæn ˈɜːli.",
+        "exMeaning": "Cuộc họp bắt đầu sớm."
+    },
+    {
+        "word": "exist",
+        "type": "verb",
+        "ipa": "ɪgˈzɪst",
+        "meaning": "tồn tại; tiếp tục sống",
+        "context": "tồn tại; tiếp tục sống",
+        "ex": "It is possible to exist on bread and water.",
+        "ipaExTrans": "ɪt ɪz ˈpɒsəbl tuː ɪgˈzɪst ɒn brɛd ænd ˈwɔːtə.",
+        "exMeaning": "Có thể tồn tại trên bánh mì và nước."
+    },
+    {
+        "word": "tend",
+        "type": "verb",
+        "ipa": "tɛnd",
+        "meaning": "trông nom, chăm sóc",
+        "context": "trông nom, chăm sóc",
+        "ex": "A shepherd tends his sheep.",
+        "ipaExTrans": "ə ˈʃɛpəd tɛndz hɪz ʃiːp.",
+        "exMeaning": "Một người chăn cừu chăm sóc con chiên của mình."
+    },
+    {
+        "word": "enjoy",
+        "type": "verb",
+        "ipa": "ɪnˈʤɔɪ",
+        "meaning": "thích thú;  có được",
+        "context": "thích thú;  có được",
+        "ex": "He enjoyed good health all his life.",
+        "ipaExTrans": "hiː ɪnˈʤɔɪd gʊd hɛlθ ɔːl hɪz laɪf.",
+        "exMeaning": "Ông được hưởng sức khỏe tốt suốt đời."
+    },
+    {
+        "word": "perform",
+        "type": "verb",
+        "ipa": "pəˈfɔːm",
+        "meaning": "tiến hành; biểu diễn",
+        "context": "tiến hành; biểu diễn",
+        "ex": "The doctor performed the operation.",
+        "ipaExTrans": "ðə ˈdɒktə pəˈfɔːmd ði ˌɒpəˈreɪʃən.",
+        "exMeaning": "Bác sĩ thực hiện ca phẫu thuật."
+    },
+    {
+        "word": "decide",
+        "type": "verb",
+        "ipa": "dɪˈsaɪd",
+        "meaning": "quyết định",
+        "context": "quyết định",
+        "ex": "What decided you against going?",
+        "ipaExTrans": "wɒt dɪˈsaɪdɪd juː əˈgɛnst ˈgəʊɪŋ?",
+        "exMeaning": "Điều gì quyết định bạn chống lại đi?"
+    },
+    {
+        "word": "identify",
+        "type": "verb",
+        "ipa": "aɪˈdɛntɪfaɪ",
+        "meaning": "past tense, past participle identified; nhận ra; nhận dạng; coi như nhau",
+        "context": "past tense, past participle identified; nhận ra; nhận dạng; coi như nhau",
+        "ex": "Would you be able to identify the man who robbed you?",
+        "ipaExTrans": "wʊd juː biː ˈeɪbl tuː aɪˈdɛntɪfaɪ ðə mæn huː rɒbd juː?",
+        "exMeaning": "Bạn có thể xác định người đàn ông đã cướp bạn?"
+    },
+    {
+        "word": "continue",
+        "type": "verb",
+        "ipa": "kənˈtɪnju(ː)",
+        "meaning": "tiếp tục; tiếp diễn",
+        "context": "tiếp tục; tiếp diễn",
+        "ex": "He continued his talk after the interval.",
+        "ipaExTrans": "hiː kənˈtɪnju(ː)d hɪz tɔːk ˈɑːftə ði ˈɪntəvəl.",
+        "exMeaning": "Anh tiếp tục cuộc nói chuyện của mình sau khoảng thời gian."
+    },
+    {
+        "word": "protect",
+        "type": "verb",
+        "ipa": "prəˈtɛkt",
+        "meaning": "bảo vệ",
+        "context": "bảo vệ",
+        "ex": "Which type of helmet protects the head best?",
+        "ipaExTrans": "wɪʧ taɪp ɒv ˈhɛlmɪt prəˈtɛkts ðə hɛd bɛst?",
+        "exMeaning": "Những loại mũ bảo vệ đầu tốt nhất?"
+    },
+    {
+        "word": "require",
+        "type": "verb",
+        "ipa": "rɪˈkwaɪə",
+        "meaning": "cần đến; yêu cầu",
+        "context": "cần đến; yêu cầu",
+        "ex": "You are required by law to send your children to school.",
+        "ipaExTrans": "juː ɑː rɪˈkwaɪəd baɪ lɔː tuː sɛnd jɔː ˈʧɪldrən tuː skuːl.",
+        "exMeaning": "Bạn được pháp luật yêu cầu gửi con đến trường."
+    },
+    {
+        "word": "occur",
+        "type": "verb",
+        "ipa": "əˈkɜː",
+        "meaning": "past tense, past participle occurred; xảy ra; nảy ra; tìm thấy",
+        "context": "past tense, past participle occurred; xảy ra; nảy ra; tìm thấy",
+        "ex": "Oil occurs under the sea.",
+        "ipaExTrans": "ɔɪl əˈkɜːz ˈʌndə ðə siː.",
+        "exMeaning": "Dầu xảy ra dưới biển."
+    },
+    {
+        "word": "write",
+        "type": "verb",
+        "ipa": "raɪt",
+        "meaning": "past tense wrote /rout/ | past participle written /ˈritn/; viết; viết sách; viết thư",
+        "context": "past tense wrote /rout/ | past participle written /ˈritn/; viết; viết sách; viết thư",
+        "ex": "They wrote their names on a sheet of paper.",
+        "ipaExTrans": "ðeɪ rəʊt ðeə neɪmz ɒn ə ʃiːt ɒv ˈpeɪpə.",
+        "exMeaning": "Họ đã viết tên của họ trên một tờ giấy."
+    },
+    {
+        "word": "approach",
+        "type": "verb",
+        "ipa": "əˈprəʊʧ",
+        "meaning": "đến gần; (NOUN: sự đến gần; lối vào; sự tiếp cận",
+        "context": "đến gần; (NOUN: sự đến gần; lối vào; sự tiếp cận",
+        "ex": "Christmas is approaching.",
+        "ipaExTrans": "ˈkrɪsməs ɪz əˈprəʊʧɪŋ.",
+        "exMeaning": "Giáng sinh đang đến gần."
+    },
+    {
+        "word": "avoid",
+        "type": "verb",
+        "ipa": "əˈvɔɪd",
+        "meaning": "to keep away from (a place, person or thing) => tránh",
+        "context": "to keep away from (a place, person or thing) => tránh",
+        "ex": "He drove carefully to avoid the holes in the road.",
+        "ipaExTrans": "hiː drəʊv ˈkeəfli tuː əˈvɔɪd ðə həʊlz ɪn ðə rəʊd.",
+        "exMeaning": "Anh lái xe cẩn thận để tránh những lỗ hổng trên đường."
+    },
+    {
+        "word": "prepare",
+        "type": "verb",
+        "ipa": "prɪˈpeə",
+        "meaning": "to make or get ready => chuẩn bị",
+        "context": "to make or get ready => chuẩn bị",
+        "ex": "Prepare yourself for a shock.",
+        "ipaExTrans": "prɪˈpeə jɔːˈsɛlf fɔːr ə ʃɒk.",
+        "exMeaning": "Chuẩn bị cho mình một cú sốc."
+    },
+    {
+        "word": "build",
+        "type": "verb",
+        "ipa": "bɪld",
+        "meaning": "past tense, past participle built /-t/; xây dựng; vóc người",
+        "context": "past tense, past participle built /-t/; xây dựng; vóc người",
+        "ex": "a man of heavy build.",
+        "ipaExTrans": "ə mæn ɒv ˈhɛvi bɪld.",
+        "exMeaning": "Một người đàn ông xây dựng nặng nề."
+    },
+    {
+        "word": "achieve",
+        "type": "verb",
+        "ipa": "əˈʧiːv",
+        "meaning": "to gain or reach successfully => đạt được",
+        "context": "to gain or reach successfully => đạt được",
+        "ex": "Steve achieved his ambition of becoming a pilot.",
+        "ipaExTrans": "stiːv əˈʧiːvd hɪz æmˈbɪʃ(ə)n ɒv bɪˈkʌmɪŋ ə ˈpaɪlət.",
+        "exMeaning": "Steve đạt được tham vọng trở thành phi công."
+    },
+    {
+        "word": "believe",
+        "type": "verb",
+        "ipa": "bɪˈliːv",
+        "meaning": "công nhận; tin tưởng; tưởng",
+        "context": "công nhận; tin tưởng; tưởng",
+        "ex": "I believe his story.",
+        "ipaExTrans": "aɪ bɪˈliːv hɪz ˈstɔːri.",
+        "exMeaning": "Tôi tin câu chuyện của anh ấy."
+    },
+    {
+        "word": "receive",
+        "type": "verb",
+        "ipa": "rɪˈsiːv",
+        "meaning": "nhận được; tiếp đón; kết nạp; chào đón; chứa chấp đồ gian",
+        "context": "nhận được; tiếp đón; kết nạp; chào đón; chứa chấp đồ gian",
+        "ex": "He was received into the group.",
+        "ipaExTrans": "hiː wɒz rɪˈsiːvd ˈɪntuː ðə gruːp.",
+        "exMeaning": "Anh được nhận vào nhóm."
+    },
+    {
+        "word": "seem",
+        "type": "verb",
+        "ipa": "siːm",
+        "meaning": "to have the appearance or give the impression of being or doing => dường như",
+        "context": "to have the appearance or give the impression of being or doing => dường như",
+        "ex": "He seemed to hesitate for a minute.",
+        "ipaExTrans": "hiː siːmd tuː ˈhɛzɪteɪt fɔːr ə ˈmɪnɪt.",
+        "exMeaning": "Anh có vẻ do dự một phút."
+    },
+    {
+        "word": "discuss",
+        "type": "verb",
+        "ipa": "dɪsˈkʌs",
+        "meaning": "to talk about => thảo luận",
+        "context": "to talk about => thảo luận",
+        "ex": "We had a meeting to discuss our plans for the future.",
+        "ipaExTrans": "wiː hæd ə ˈmiːtɪŋ tuː dɪsˈkʌs ˈaʊə plænz fɔː ðə ˈfjuːʧə.",
+        "exMeaning": "Chúng tôi đã có một cuộc họp để thảo luận về kế hoạch của chúng tôi cho tương lai."
+    },
+    {
+        "word": "realize",
+        "type": "verb",
+        "ipa": "ˈrɪəlaɪz",
+        "meaning": "nhận ra; thực hiện; kiếm được",
+        "context": "nhận ra; thực hiện; kiếm được",
+        "ex": "He realized his ambition to become an astronaut",
+        "ipaExTrans": "hiː ˈrɪəlaɪzd hɪz æmˈbɪʃ(ə)n tuː bɪˈkʌm ən ˈæstrənɔːt",
+        "exMeaning": "Anh nhận ra tham vọng trở thành phi hành gia của mình"
+    },
+    {
+        "word": "contain",
+        "type": "verb",
+        "ipa": "kənˈteɪn",
+        "meaning": "chứa đựng; kiềm chế",
+        "context": "chứa đựng; kiềm chế",
+        "ex": "He could hardly contain his excitement.",
+        "ipaExTrans": "hiː kʊd ˈhɑːdli kənˈteɪn hɪz ɪkˈsaɪtmənt.",
+        "exMeaning": "Anh khó có thể kiềm chế sự phấn khích của mình."
+    },
+    {
+        "word": "follow",
+        "type": "verb",
+        "ipa": "ˈfɒləʊ",
+        "meaning": "theo sau; dọc theo một con đường, lối nhỏ…; hiểu; hành động theo",
+        "context": "theo sau; dọc theo một con đường, lối nhỏ…; hiểu; hành động theo",
+        "ex": "I followed his advice.",
+        "ipaExTrans": "aɪ ˈfɒləʊd hɪz ədˈvaɪs.",
+        "exMeaning": "Tôi làm theo lời khuyên của anh ấy."
+    },
+    {
+        "word": "refer",
+        "type": "verb",
+        "ipa": "rɪˈfɜː",
+        "meaning": "past tense, past participle referred; nhắc tới; liên quan tới; chuyển sang; giới thiệu; tra cứu",
+        "context": "past tense, past participle referred; nhắc tới; liên quan tới; chuyển sang; giới thiệu; tra cứu",
+        "ex": "If I’m not sure how to spell a word, I refer to a dictionary.",
+        "ipaExTrans": "ɪf aɪm nɒt ʃʊə haʊ tuː spɛl ə wɜːd, aɪ rɪˈfɜː tuː ə ˈdɪkʃ(ə)n(ə)ri.",
+        "exMeaning": "Nếu tôi không biết cách đánh vần một từ, tôi sẽ tham khảo từ điển."
+    },
+    {
+        "word": "solve",
+        "type": "verb",
+        "ipa": "sɒlv",
+        "meaning": "giải, tìm ra lời giải; phá(án)",
+        "context": "giải, tìm ra lời giải; phá(án)",
+        "ex": "The mathematics teacher gave the children some problems to solve.",
+        "ipaExTrans": "ðə ˌmæθɪˈmætɪks ˈtiːʧə geɪv ðə ˈʧɪldrən sʌm ˈprɒbləmz tuː sɒlv.",
+        "exMeaning": "Giáo viên toán đã cho các em một số vấn đề cần giải quyết."
+    },
+    {
+        "word": "describe",
+        "type": "verb",
+        "ipa": "dɪsˈkraɪb",
+        "meaning": "mô tả; to say that one is something => cho là",
+        "context": "mô tả; to say that one is something => cho là",
+        "ex": "He described what had happened.",
+        "ipaExTrans": "hiː dɪsˈkraɪbd wɒt hæd ˈhæpənd.",
+        "exMeaning": "Ông mô tả những gì đã xảy ra."
+    },
+    {
+        "word": "prefer",
+        "type": "verb",
+        "ipa": "priˈfɜː",
+        "meaning": "past tense, past participle preferred; to like better => thích hơn",
+        "context": "past tense, past participle preferred; to like better => thích hơn",
+        "ex": "She would prefer to come with you rather than stay here.",
+        "ipaExTrans": "ʃiː wʊd priˈfɜː tuː kʌm wɪð juː ˈrɑːðə ðæn steɪ hɪə.",
+        "exMeaning": "Cô ấy thích đi với bạn hơn là ở đây."
+    },
+    {
+        "word": "prevent",
+        "type": "verb",
+        "ipa": "prɪˈvɛnt",
+        "meaning": "to stop (someone doing something or something happening) => ngăn chặn",
+        "context": "to stop (someone doing something or something happening) => ngăn chặn",
+        "ex": "He prevented me from going.",
+        "ipaExTrans": "hiː prɪˈvɛntɪd miː frɒm ˈgəʊɪŋ.",
+        "exMeaning": "Anh ngăn tôi đi."
+    },
+    {
+        "word": "discover",
+        "type": "verb",
+        "ipa": "dɪsˈkʌvə",
+        "meaning": "khám phá; to find out => tìm ra",
+        "context": "khám phá; to find out => tìm ra",
+        "ex": "Try to discover what’s going on!",
+        "ipaExTrans": "traɪ tuː dɪsˈkʌvə wɒts ˈgəʊɪŋ ɒn!",
+        "exMeaning": "Hãy thử khám phá những gì đang diễn ra!"
+    },
+    {
+        "word": "ensure",
+        "type": "verb",
+        "ipa": "ɪnˈʃʊə",
+        "meaning": "to make sure => bảo đảm",
+        "context": "to make sure => bảo đảm",
+        "ex": "Ensure that your television set is switched off at night.",
+        "ipaExTrans": "ɪnˈʃʊə ðæt jɔː ˈtɛlɪˌvɪʒən sɛt ɪz swɪʧt ɒf æt naɪt.",
+        "exMeaning": "Đảm bảo rằng TV của bạn được tắt vào ban đêm."
+    },
+    {
+        "word": "expect",
+        "type": "verb",
+        "ipa": "ɪksˈpɛkt",
+        "meaning": "mong chờ; hy vọng; đòi hỏi; cho rằng",
+        "context": "mong chờ; hy vọng; đòi hỏi; cho rằng",
+        "ex": "They expect high wages for their extremely skilled work",
+        "ipaExTrans": "ðeɪ ɪksˈpɛkt haɪ ˈweɪʤɪz fɔː ðeər ɪksˈtriːmli skɪld wɜːk",
+        "exMeaning": "Họ mong đợi mức lương cao cho công việc cực kỳ lành nghề của họ"
+    },
+    {
+        "word": "invest",
+        "type": "verb",
+        "ipa": "ɪnˈvɛst",
+        "meaning": "đầu tư; phong chức",
+        "context": "đầu tư; phong chức",
+        "ex": "He invested (20,000 dollars) in a building firm.",
+        "ipaExTrans": "hiː ɪnˈvɛstɪd (20,000 ˈdɒləz) ɪn ə ˈbɪldɪŋ fɜːm.",
+        "exMeaning": "Ông đã đầu tư (20.000 đô la) vào một công ty xây dựng."
+    },
+    {
+        "word": "reduce",
+        "type": "verb",
+        "ipa": "rɪˈdjuːs",
+        "meaning": "to make less, smaller etc => giảm; giảm cân bằng cách ăn kiêng; làm cho",
+        "context": "to make less, smaller etc => giảm; giảm cân bằng cách ăn kiêng; làm cho",
+        "ex": "The train reduced speed.",
+        "ipaExTrans": "ðə treɪn rɪˈdjuːst spiːd.",
+        "exMeaning": "Tàu giảm tốc."
+    },
+    {
+        "word": "speak",
+        "type": "verb",
+        "ipa": "spiːk",
+        "meaning": "past tense spoke /spouk/ | past participle spoken /ˈspoukən/; nói, phát ra lời; nói chuyện; nói được; nói rõ, chứng tỏ; phát biểu, diễn thuyết",
+        "context": "past tense spoke /spouk/ | past participle spoken /ˈspoukən/; nói, phát ra lời; nói chuyện; nói được; nói rõ, chứng tỏ; phát biểu, diễn thuyết",
+        "ex": "He spoke a few words to us.",
+        "ipaExTrans": "hiː spəʊk ə fjuː wɜːdz tuː ʌs.",
+        "exMeaning": "Anh ấy nói vài lời với chúng tôi."
+    },
+    {
+        "word": "appear",
+        "type": "verb",
+        "ipa": "əˈpɪə",
+        "meaning": "xuất hiện; đến; xuất hiện trước công chúng; dường như",
+        "context": "xuất hiện; đến; xuất hiện trước công chúng; dường như",
+        "ex": "He appeared in time for dinner.",
+        "ipaExTrans": "hiː əˈpɪəd ɪn taɪm fɔː ˈdɪnə.",
+        "exMeaning": "Anh xuất hiện đúng giờ cho bữa tối."
+    },
+    {
+        "word": "explain",
+        "type": "verb",
+        "ipa": "ɪksˈpleɪn",
+        "meaning": "to make (something) clear or easy to understand; to give, or be, a reason for => giải thích",
+        "context": "to make (something) clear or easy to understand; to give, or be, a reason for => giải thích",
+        "ex": "Can you explain the bus timetable to me?",
+        "ipaExTrans": "kæn juː ɪksˈpleɪn ðə bʌs ˈtaɪmˌteɪb(ə)l tuː miː?",
+        "exMeaning": "Bạn có thể giải thích thời gian biểu xe buýt cho tôi?"
+    },
+    {
+        "word": "explore",
+        "type": "verb",
+        "ipa": "ɪksˈplɔː",
+        "meaning": "to search or travel through (a place) for the purpose of discovery => thăm dò; thám hiểm; khảo sát tỉ mỉ",
+        "context": "to search or travel through (a place) for the purpose of discovery => thăm dò; thám hiểm; khảo sát tỉ mỉ",
+        "ex": "Let’s go exploring in the caves.",
+        "ipaExTrans": "lɛts gəʊ ɪksˈplɔːrɪŋ ɪn ðə keɪvz.",
+        "exMeaning": "Hãy cùng đi khám phá trong các hang động."
+    },
+    {
+        "word": "involve",
+        "type": "verb",
+        "ipa": "ɪnˈvɒlv",
+        "meaning": "to require; to bring as a result => đòi hỏi; cần phải; dính dáng",
+        "context": "to require; to bring as a result => đòi hỏi; cần phải; dính dáng",
+        "ex": "His job involves a lot of travelling.",
+        "ipaExTrans": "hɪz ʤɒb ɪnˈvɒlvz ə lɒt ɒv ˈtrævlɪŋ.",
+        "exMeaning": "Công việc của anh ấy liên quan đến rất nhiều chuyến du lịch."
+    },
+    {
+        "word": "lose",
+        "type": "verb",
+        "ipa": "luːz",
+        "meaning": "to stop having; to have no longer => mất; not to win => thua; lãng phí",
+        "context": "to stop having; to have no longer => mất; not to win => thua; lãng phí",
+        "ex": "She has lost interest in her work.",
+        "ipaExTrans": "ʃiː hæz lɒst ˈɪntrɪst ɪn hɜː wɜːk.",
+        "exMeaning": "Cô đã mất hứng thú với công việc của mình."
+    },
+    {
+        "word": "afford",
+        "type": "verb",
+        "ipa": "əˈfɔːd",
+        "meaning": "(usually with can, could) to be able to spend money, time etc on or for something => đủ khả năng làm gì",
+        "context": "(usually with can, could) to be able to spend money, time etc on or for something => đủ khả năng làm gì",
+        "ex": "She can’t afford to be rude to her employer in case she gets fired.",
+        "ipaExTrans": "ʃiː kɑːnt əˈfɔːd tuː biː ruːd tuː hɜːr ɪmˈplɔɪər ɪn keɪs ʃiː gɛts ˈfaɪəd.",
+        "exMeaning": "Cô ấy có thể đủ khả năng để thô lỗ với chủ nhân của mình trong trường hợp cô ấy bị sa thải."
+    },
+    {
+        "word": "agree",
+        "type": "verb",
+        "ipa": "əˈgriː",
+        "meaning": "past tense, past participle agreed; đồng tình; đồng ý; phù hợp; hoà thuận",
+        "context": "past tense, past participle agreed; đồng tình; đồng ý; phù hợp; hoà thuận",
+        "ex": "I agreed with them that we should try again",
+        "ipaExTrans": "aɪ əˈgriːd wɪð ðɛm ðæt wiː ʃʊd traɪ əˈgɛn",
+        "exMeaning": "Tôi đồng ý với họ rằng chúng ta nên thử lại"
+    },
+    {
+        "word": "hear",
+        "type": "verb",
+        "ipa": "hɪə",
+        "meaning": "past tense, past participle heard /həːd/; to (be able to) receive (sounds) by ear => nghe; to listen to for some purpose => lắng nghe",
+        "context": "past tense, past participle heard /həːd/; to (be able to) receive (sounds) by ear => nghe; to listen to for some purpose => lắng nghe",
+        "ex": "I didn’t hear you come in.",
+        "ipaExTrans": "aɪ dɪdnt hɪə juː kʌm ɪn.",
+        "exMeaning": "Tôi đã không nghe thấy bạn đến."
+    },
+    {
+        "word": "remain",
+        "type": "verb",
+        "ipa": "rɪˈmeɪn",
+        "meaning": "to be left => còn lại; to stay; not to leave => ở lại; to continue to be => tiếp tục tồn tại",
+        "context": "to be left => còn lại; to stay; not to leave => ở lại; to continue to be => tiếp tục tồn tại",
+        "ex": "A great many things still remain to be done.",
+        "ipaExTrans": "ə greɪt ˈmɛni θɪŋz stɪl rɪˈmeɪn tuː biː dʌn.",
+        "exMeaning": "Rất nhiều điều vẫn còn phải làm."
+    },
+    {
+        "word": "represent",
+        "type": "verb",
+        "ipa": "ˌrɛprɪˈzɛnt",
+        "meaning": "to speak or act on behalf of => đại diện; tượng trưng; thể hiện",
+        "context": "to speak or act on behalf of => đại diện; tượng trưng; thể hiện",
+        "ex": "You have been chosen to represent our association at the conference.",
+        "ipaExTrans": "juː hæv biːn ˈʧəʊzn tuː ˌrɛprɪˈzɛnt ˈaʊər əˌsəʊsɪˈeɪʃ(ə)n æt ðə ˈkɒnfərəns.",
+        "exMeaning": "Bạn đã được chọn để đại diện cho hiệp hội của chúng tôi tại hội nghị."
+    },
+    {
+        "word": "apply",
+        "type": "verb",
+        "ipa": "əˈplaɪ",
+        "meaning": "past tense, past participle applied; đặt cái gì vào cái gì; áp dụng; thỉnh cầu/ yêu cầu; có ảnh hưởng; có hiệu lực",
+        "context": "past tense, past participle applied; đặt cái gì vào cái gì; áp dụng; thỉnh cầu/ yêu cầu; có ảnh hưởng; có hiệu lực",
+        "ex": "He applied his wits to planning their escape.",
+        "ipaExTrans": "hiː əˈplaɪd hɪz wɪts tuː ˈplænɪŋ ðeər ɪsˈkeɪp.",
+        "exMeaning": "Anh ta áp dụng trí thông minh của mình để lên kế hoạch trốn thoát."
+    },
+    {
+        "word": "forget",
+        "type": "verb",
+        "ipa": "fəˈgɛt",
+        "meaning": "past tense forgot /fəˈɡot/ | past participle forgotten /fəˈɡotn/; to fail to remember => quên; quên lãng; hành động không đứng đắn",
+        "context": "past tense forgot /fəˈɡot/ | past participle forgotten /fəˈɡotn/; to fail to remember => quên; quên lãng; hành động không đứng đắn",
+        "ex": "She forgot herself and criticized her boss during the company party.",
+        "ipaExTrans": "ʃiː fəˈgɒt hɜːˈsɛlf ænd ˈkrɪtɪsaɪzd hɜː bɒs ˈdjʊərɪŋ ðə ˈkʌmpəni ˈpɑːti.",
+        "exMeaning": "Cô đã quên mình và chỉ trích ông chủ của mình trong bữa tiệc của công ty."
+    },
+    {
+        "word": "recommend",
+        "type": "verb",
+        "ipa": "ˌrɛkəˈmɛnd",
+        "meaning": "to advise => khuyên; giới thiệu",
+        "context": "to advise => khuyên; giới thiệu",
+        "ex": "The doctor recommended a long holiday.",
+        "ipaExTrans": "ðə ˈdɒktə ˌrɛkəˈmɛndɪd ə lɒŋ ˈhɒlədeɪ.",
+        "exMeaning": "Các bác khuyên nên nghỉ dài."
+    },
+    {
+        "word": "rely",
+        "type": "verb",
+        "ipa": "rɪˈlaɪ",
+        "meaning": "to trust (someone) to do something; to be certain that (something will happen) => tin tưởng; to depend on or need => phụ thuộc",
+        "context": "to trust (someone) to do something; to be certain that (something will happen) => tin tưởng; to depend on or need => phụ thuộc",
+        "ex": "I am relying on you to help me.",
+        "ipaExTrans": "aɪ æm rɪˈlaɪɪŋ ɒn juː tuː hɛlp miː.",
+        "exMeaning": "Tôi đang dựa vào bạn để giúp tôi."
+    },
+    {
+        "word": "vary",
+        "type": "verb",
+        "ipa": "ˈveəri",
+        "meaning": "past tense, past participle varied; to make, be or become different => thay đổi, biến đổi",
+        "context": "past tense, past participle varied; to make, be or become different => thay đổi, biến đổi",
+        "ex": "These apples vary in size from small to medium.",
+        "ipaExTrans": "ðiːz ˈæplz ˈveəri ɪn saɪz frɒm smɔːl tuː ˈmiːdiəm.",
+        "exMeaning": "Những quả táo này có kích thước khác nhau từ nhỏ đến trung bình."
+    },
+    {
+        "word": "generate",
+        "type": "verb",
+        "ipa": "ˈʤɛnəreɪt",
+        "meaning": "to cause or produce => tạo ra; phát ra",
+        "context": "to cause or produce => tạo ra; phát ra",
+        "ex": "His suggestions generated a lot of ill-feeling.",
+        "ipaExTrans": "hɪz səˈʤɛsʧənz ˈʤɛnəreɪtɪd ə lɒt ɒv ˈɪlˈfiːlɪŋ.",
+        "exMeaning": "Đề xuất của ông tạo ra rất nhiều cảm giác xấu."
+    },
+    {
+        "word": "obtain",
+        "type": "verb",
+        "ipa": "əbˈteɪn",
+        "meaning": "to get; to become the possessor of => đạt được",
+        "context": "to get; to become the possessor of => đạt được",
+        "ex": "He obtained a large sum of money by selling the house.",
+        "ipaExTrans": "hiː əbˈteɪnd ə lɑːʤ sʌm ɒv ˈmʌni baɪ ˈsɛlɪŋ ðə haʊs.",
+        "exMeaning": "Ông đã kiếm được một khoản tiền lớn bằng cách bán nhà."
+    },
+    {
+        "word": "accept",
+        "type": "verb",
+        "ipa": "əkˈsɛpt",
+        "meaning": "to take (something offered) => chấp nhận; to believe in, agree to or acknowledge => thừa nhận",
+        "context": "to take (something offered) => chấp nhận; to believe in, agree to or acknowledge => thừa nhận",
+        "ex": "We accept your account of what happened.",
+        "ipaExTrans": "wiː əkˈsɛpt jɔːr əˈkaʊnt ɒv wɒt ˈhæpənd.",
+        "exMeaning": "Chúng tôi chấp nhận tài khoản của bạn về những gì đã xảy ra."
+    },
+    {
+        "word": "communicate",
+        "type": "verb",
+        "ipa": "kəˈmjuːnɪkeɪt",
+        "meaning": "to tell (information etc) => truyền đạt; to get in touch (with) => liên lạc với",
+        "context": "to tell (information etc) => truyền đạt; to get in touch (with) => liên lạc với",
+        "ex": "The Internet has made it much easier to communicate with people abroad.",
+        "ipaExTrans": "ði ˈɪntəˌnɛt hæz meɪd ɪt mʌʧ ˈiːzɪə tuː kəˈmjuːnɪkeɪt wɪð ˈpiːpl əˈbrɔːd.",
+        "exMeaning": "Internet đã giúp việc giao tiếp với mọi người ở nước ngoài dễ dàng hơn nhiều."
+    },
+    {
+        "word": "complain",
+        "type": "verb",
+        "ipa": "kəmˈpleɪn",
+        "meaning": "to state one’s displeasure, dissatisfaction etc => than phiền; (with of) to state that one has (pain, discomfort etc) => kể lại một sự đau đớn",
+        "context": "to state one’s displeasure, dissatisfaction etc => than phiền; (with of) to state that one has (pain, discomfort etc) => kể lại một sự đau đớn",
+        "ex": "I’m going to complain to the police about the noise.",
+        "ipaExTrans": "aɪm ˈgəʊɪŋ tuː kəmˈpleɪn tuː ðə pəˈliːs əˈbaʊt ðə nɔɪz.",
+        "exMeaning": "Tôi sẽ đi khiếu nại với cảnh sát về tiếng ồn."
+    },
+    {
+        "word": "depend",
+        "type": "verb",
+        "ipa": "dɪˈpɛnd",
+        "meaning": "to rely on => tin tưởng; to rely on receiving necessary (financial) support from => tùy thuộc",
+        "context": "to rely on => tin tưởng; to rely on receiving necessary (financial) support from => tùy thuộc",
+        "ex": "You can’t depend on his arriving on time.",
+        "ipaExTrans": "juː kɑːnt dɪˈpɛnd ɒn hɪz əˈraɪvɪŋ ɒn taɪm.",
+        "exMeaning": "Bạn có thể phụ thuộc vào việc anh ấy đến đúng giờ."
+    },
+    {
+        "word": "enter",
+        "type": "verb",
+        "ipa": "ˈɛntə",
+        "meaning": "to go or come in; to come or go into (a place) => đi vào; gia nhập; đăng ký; bắt đầu",
+        "context": "to go or come in; to come or go into (a place) => đi vào; gia nhập; đăng ký; bắt đầu",
+        "ex": "Did you enter your name in the visitors’ book?",
+        "ipaExTrans": "dɪd juː ˈɛntə jɔː neɪm ɪn ðə ˈvɪzɪtəz bʊk?",
+        "exMeaning": "Bạn đã nhập tên của bạn trong cuốn sách của khách truy cập?"
+    },
+    {
+        "word": "happen",
+        "type": "verb",
+        "ipa": "ˈhæpən",
+        "meaning": "to take place or occur; to occur by chance => xảy ra; cái gì đã xảy ra với người/vật; to do or be by chance => tình cờ",
+        "context": "to take place or occur; to occur by chance => xảy ra; cái gì đã xảy ra với người/vật; to do or be by chance => tình cờ",
+        "ex": "She’s late, something must have happened to her.",
+        "ipaExTrans": "ʃiːz leɪt, ˈsʌmθɪŋ mʌst hæv ˈhæpənd tuː hɜː.",
+        "exMeaning": "Cô ấy trễ, chuyện gì đó đã xảy ra với cô ấy."
+    },
+    {
+        "word": "indicate",
+        "type": "verb",
+        "ipa": "ˈɪndɪkeɪt",
+        "meaning": "to point out or show => chỉ ra",
+        "context": "to point out or show => chỉ ra",
+        "ex": "We can paint an arrow here to indicate the right path.",
+        "ipaExTrans": "wiː kæn peɪnt ən ˈærəʊ hɪə tuː ˈɪndɪkeɪt ðə raɪt pɑːθ.",
+        "exMeaning": "Chúng ta có thể vẽ một mũi tên ở đây để chỉ ra con đường đúng."
+    },
+    {
+        "word": "suggest",
+        "type": "verb",
+        "ipa": "səˈʤɛst",
+        "meaning": "to put (an idea etc) before another person etc for consideration; to propose => đề nghị, đề xuất; xảy đến với ai, nảy ra trong trí óc",
+        "context": "to put (an idea etc) before another person etc for consideration; to propose => đề nghị, đề xuất; xảy đến với ai, nảy ra trong trí óc",
+        "ex": "I suggest doing it a different way.",
+        "ipaExTrans": "aɪ səˈʤɛst ˈdu(ː)ɪŋ ɪt ə ˈdɪfrənt weɪ.",
+        "exMeaning": "Tôi đề nghị làm điều đó một cách khác nhau."
+    },
+    {
+        "word": "survive",
+        "type": "verb",
+        "ipa": "səˈvaɪv",
+        "meaning": "to remain alive in spite of (a disaster etc) => sống qua được; to live longer than => sống lâu hơn",
+        "context": "to remain alive in spite of (a disaster etc) => sống qua được; to live longer than => sống lâu hơn",
+        "ex": "Few birds managed to survive the bad winter.",
+        "ipaExTrans": "fjuː bɜːdz ˈmænɪʤd tuː səˈvaɪv ðə bæd ˈwɪntə.",
+        "exMeaning": "Rất ít loài chim tìm cách sống sót qua mùa đông tồi tệ."
+    },
+    {
+        "word": "appreciate",
+        "type": "verb",
+        "ipa": "əˈpriːʃɪeɪt",
+        "meaning": "to be grateful for (something) => cảm kích; to value (someone or something) highly => đánh giá cao; to increase in value => lên giá",
+        "context": "to be grateful for (something) => cảm kích; to value (someone or something) highly => đánh giá cao; to increase in value => lên giá",
+        "ex": "I appreciate all your hard work.",
+        "ipaExTrans": "aɪ əˈpriːʃɪeɪt ɔːl jɔː hɑːd wɜːk.",
+        "exMeaning": "Tôi đánh giá cao tất cả công việc khó khăn của bạn."
+    },
+    {
+        "word": "compare",
+        "type": "verb",
+        "ipa": "kəmˈpeə",
+        "meaning": "to put (things etc) side by side in order to see to what extent they are the same or different => so sánh; ví; đáng được so sánh",
+        "context": "to put (things etc) side by side in order to see to what extent they are the same or different => so sánh; ví; đáng được so sánh",
+        "ex": "This is a good essay compared with your last one.",
+        "ipaExTrans": "ðɪs ɪz ə gʊd ˈɛseɪ kəmˈpeəd wɪð jɔː lɑːst wʌn.",
+        "exMeaning": "Đây là một bài luận tốt so với bài cuối cùng của bạn."
+    },
+    {
+        "word": "imagine",
+        "type": "verb",
+        "ipa": "ɪˈmæʤɪn",
+        "meaning": "to form a mental picture of (something) => tưởng tượng; tưởng rằng; to think; to suppose => ngỡ rằng",
+        "context": "to form a mental picture of (something) => tưởng tượng; tưởng rằng; to think; to suppose => ngỡ rằng",
+        "ex": "Children often imagine that there are frightening animals under their beds.",
+        "ipaExTrans": "ˈʧɪldrən ˈɒf(ə)n ɪˈmæʤɪn ðæt ðeər ɑː ˈfraɪtnɪŋ ˈænɪməlz ˈʌndə ðeə bɛdz.",
+        "exMeaning": "Trẻ em thường tưởng tượng rằng có những con vật đáng sợ dưới giường của chúng."
+    },
+    {
+        "word": "manage",
+        "type": "verb",
+        "ipa": "ˈmænɪʤ",
+        "meaning": "to be in control or charge of => quản lý; to be manager of => lãnh đạo; to deal with, or control => kiểm soát; giải quyết",
+        "context": "to be in control or charge of => quản lý; to be manager of => lãnh đạo; to deal with, or control => kiểm soát; giải quyết",
+        "ex": "James manages the local football team.",
+        "ipaExTrans": "ʤeɪmz ˈmænɪʤɪz ðə ˈləʊkəl ˈfʊtbɔːl tiːm.",
+        "exMeaning": "James quản lý đội bóng đá địa phương."
+    },
+    {
+        "word": "differ",
+        "type": "verb",
+        "ipa": "ˈdɪfə",
+        "meaning": "(often with from) to be not like or alike => khác; to disagree (with) => không đồng ý với",
+        "context": "(often with from) to be not like or alike => khác; to disagree (with) => không đồng ý với",
+        "ex": "Her approach differs from mine.",
+        "ipaExTrans": "hɜːr əˈprəʊʧ ˈdɪfəz frɒm maɪn.",
+        "exMeaning": "Cách tiếp cận của cô ấy khác với tôi."
+    },
+    {
+        "word": "encourage",
+        "type": "verb",
+        "ipa": "ɪnˈkʌrɪʤ",
+        "meaning": "to give support, confidence or hope to => khuyến khích; to urge (a person) to do something => thúc giục",
+        "context": "to give support, confidence or hope to => khuyến khích; to urge (a person) to do something => thúc giục",
+        "ex": "You should not encourage him in his extravagance.",
+        "ipaExTrans": "juː ʃʊd nɒt ɪnˈkʌrɪʤ hɪm ɪn hɪz ɪksˈtrævɪgəns.",
+        "exMeaning": "Bạn không nên khuyến khích anh ta ngông cuồng."
+    },
+    {
+        "word": "expand",
+        "type": "verb",
+        "ipa": "ɪksˈpænd",
+        "meaning": "to make or grow larger; to spread out wider => nở ra; mở rộng",
+        "context": "to make or grow larger; to spread out wider => nở ra; mở rộng",
+        "ex": "The school’s activities have been expanded to include climbing and mountaineering.",
+        "ipaExTrans": "ðə skuːlz ækˈtɪvɪtiz hæv biːn ɪksˈpændɪd tuː ɪnˈkluːd ˈklaɪmɪŋ ænd ˌmaʊntɪˈnɪərɪŋ.",
+        "exMeaning": "Các hoạt động của trường học đã được mở rộng để bao gồm leo núi và leo núi."
+    }
+]

@@ -1,0 +1,584 @@
+[
+    {
+        "word": "on vacation",
+        "type": "Prep Phrases",
+        "ipa": "ɒn vəˈkeɪʃən",
+        "meaning": "đang đi nghỉ"
+    },
+    {
+        "word": "on trial",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈtraɪəl",
+        "meaning": "xét xử"
+    },
+    {
+        "word": "on the way to",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə weɪ tuː",
+        "meaning": "trên đường đến"
+    },
+    {
+        "word": "on the way",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə weɪ",
+        "meaning": "trên đường"
+    },
+    {
+        "word": "on the verge of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə vɜːʤ ɒv",
+        "meaning": "trên bờ vực của"
+    },
+    {
+        "word": "on the understanding that",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ði ˌʌndəˈstændɪŋ ðæt",
+        "meaning": "trên sự hiểu biết rằng"
+    },
+    {
+        "word": "on the top of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə tɒp ɒv",
+        "meaning": "trên đỉnh của"
+    },
+    {
+        "word": "on the tip of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə tɪp ɒv",
+        "meaning": "trên đỉnh của"
+    },
+    {
+        "word": "on the stroke of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə strəʊk ɒv",
+        "meaning": "trên đột quỵ của"
+    },
+    {
+        "word": "on the strength of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə strɛŋθ ɒv",
+        "meaning": "về sức mạnh của"
+    },
+    {
+        "word": "on the second floor",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə ˈsɛkənd flɔː",
+        "meaning": "trên tầng hai"
+    },
+    {
+        "word": "on the run",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə rʌn",
+        "meaning": "trên đường chạy trốn"
+    },
+    {
+        "word": "on the roof",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə ruːf",
+        "meaning": "trên mái nhà"
+    },
+    {
+        "word": "on the radio",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə ˈreɪdɪəʊ",
+        "meaning": "trên đài phát thanh"
+    },
+    {
+        "word": "on the phone",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə fəʊn",
+        "meaning": "trên điện thoại"
+    },
+    {
+        "word": "on the point of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə pɔɪnt ɒv",
+        "meaning": "trên quan điểm của"
+    },
+    {
+        "word": "on the part of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə pɑːt ɒv",
+        "meaning": "trên một phần của"
+    },
+    {
+        "word": "on the outskirts",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ði ˈaʊtskɜːts",
+        "meaning": "ở ngoại ô"
+    },
+    {
+        "word": "on the off-chance",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ði ɒf-ʧɑːns",
+        "meaning": "nhân cơ hội"
+    },
+    {
+        "word": "on the move",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə muːv",
+        "meaning": "di chuyển"
+    },
+    {
+        "word": "on the menu",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə ˈmɛnjuː",
+        "meaning": "trên thực đơn"
+    },
+    {
+        "word": "on the last day",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə lɑːst deɪ",
+        "meaning": "Vào ngày cuối cùng"
+    },
+    {
+        "word": "on the job",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə ʤɒb",
+        "meaning": "trong công việc"
+    },
+    {
+        "word": "on the increase",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ði ˈɪnkriːs",
+        "meaning": "tăng"
+    },
+    {
+        "word": "on the hour",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ði ˈaʊə",
+        "meaning": "vào giờ"
+    },
+    {
+        "word": "on the horizon",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə həˈraɪzn",
+        "meaning": "trên đường chân trời"
+    },
+    {
+        "word": "on the grounds of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə graʊndz ɒv",
+        "meaning": "với lý do"
+    },
+    {
+        "word": "on the first day",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə fɜːst deɪ",
+        "meaning": "vào ngày đầu tiên"
+    },
+    {
+        "word": "on the eve of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ði iːv ɒv",
+        "meaning": "vào đêm trước"
+    },
+    {
+        "word": "on the edge of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ði ɛʤ ɒv",
+        "meaning": "trên các cạnh của"
+    },
+    {
+        "word": "on the dot",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə dɒt",
+        "meaning": "trên chấm"
+    },
+    {
+        "word": "on the corner",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə ˈkɔːnə",
+        "meaning": "ở góc"
+    },
+    {
+        "word": "on the ceiling",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə ˈsiːlɪŋ",
+        "meaning": "trên trần nhà"
+    },
+    {
+        "word": "on the brink of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðə brɪŋk ɒv",
+        "meaning": "trên bờ vực của"
+    },
+    {
+        "word": "on the assumption",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ði əˈsʌmpʃ(ə)n",
+        "meaning": "trên giả định"
+    },
+    {
+        "word": "on the agenda",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ði əˈʤɛndə",
+        "meaning": "chương trình nghị sự"
+    },
+    {
+        "word": "on that day",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ðæt deɪ",
+        "meaning": "vào ngày đó"
+    },
+    {
+        "word": "on tiptoe",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈtɪptəʊ",
+        "meaning": "nhón chân"
+    },
+    {
+        "word": "on time",
+        "type": "Prep Phrases",
+        "ipa": "ɒn taɪm",
+        "meaning": "kịp thời"
+    },
+    {
+        "word": "on television",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈtɛlɪˌvɪʒən",
+        "meaning": "trên tivi"
+    },
+    {
+        "word": "on suspicion of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn səsˈpɪʃən ɒv",
+        "meaning": "vì nghi ngờ"
+    },
+    {
+        "word": "on strike",
+        "type": "Prep Phrases",
+        "ipa": "ɒn straɪk",
+        "meaning": "đình công"
+    },
+    {
+        "word": "on show",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ʃəʊ",
+        "meaning": "trong chương trình"
+    },
+    {
+        "word": "on second thoughts",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈsɛkənd θɔːts",
+        "meaning": "về ý nghĩ thứ hai"
+    },
+    {
+        "word": "on sale",
+        "type": "Prep Phrases",
+        "ipa": "ɒn seɪl",
+        "meaning": "giảm giá"
+    },
+    {
+        "word": "on remand",
+        "type": "Prep Phrases",
+        "ipa": "ɒn rɪˈmɑːnd",
+        "meaning": "tạm giam"
+    },
+    {
+        "word": "on reflection",
+        "type": "Prep Phrases",
+        "ipa": "ɒn rɪˈflɛkʃən",
+        "meaning": "về sự phản ánh"
+    },
+    {
+        "word": "on purpose",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈpɜːpəs",
+        "meaning": "về mục đích"
+    },
+    {
+        "word": "on principle",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈprɪnsəpl",
+        "meaning": "dựa trên nguyên tắc"
+    },
+    {
+        "word": "on patrol",
+        "type": "Prep Phrases",
+        "ipa": "ɒn pəˈtrəʊl",
+        "meaning": "đi tuần tra"
+    },
+    {
+        "word": "on parade",
+        "type": "Prep Phrases",
+        "ipa": "ɒn pəˈreɪd",
+        "meaning": "diễu hành"
+    },
+    {
+        "word": "on paper",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈpeɪpə",
+        "meaning": "trên giấy"
+    },
+    {
+        "word": "on order",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈɔːdə",
+        "meaning": "theo đơn đặt hàng"
+    },
+    {
+        "word": "on occasion",
+        "type": "Prep Phrases",
+        "ipa": "ɒn əˈkeɪʒən",
+        "meaning": "nhân dịp"
+    },
+    {
+        "word": "on no account",
+        "type": "Prep Phrases",
+        "ipa": "ɒn nəʊ əˈkaʊnt",
+        "meaning": "trên không có tài khoản"
+    },
+    {
+        "word": "on my wedding day",
+        "type": "Prep Phrases",
+        "ipa": "ɒn maɪ ˈwɛdɪŋ deɪ",
+        "meaning": "vào ngày cưới của tôi"
+    },
+    {
+        "word": "on my birthday",
+        "type": "Prep Phrases",
+        "ipa": "ɒn maɪ ˈbɜːθdeɪ",
+        "meaning": "trong ngày sinh nhật của tôi"
+    },
+    {
+        "word": "on leave",
+        "type": "Prep Phrases",
+        "ipa": "ɒn liːv",
+        "meaning": "nghỉ"
+    },
+    {
+        "word": "on impulse",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈɪmpʌls",
+        "meaning": "thúc đẩy"
+    },
+    {
+        "word": "on horseback",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈhɔːsbæk",
+        "meaning": "trên lưng ngựa"
+    },
+    {
+        "word": "on holiday",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈhɒlədeɪ",
+        "meaning": "trong kỳ nghỉ"
+    },
+    {
+        "word": "on hand",
+        "type": "Prep Phrases",
+        "ipa": "ɒn hænd",
+        "meaning": "trên tay"
+    },
+    {
+        "word": "on guard",
+        "type": "Prep Phrases",
+        "ipa": "ɒn gɑːd",
+        "meaning": "cảnh giác"
+    },
+    {
+        "word": "on good terms",
+        "type": "Prep Phrases",
+        "ipa": "ɒn gʊd tɜːmz",
+        "meaning": "về mặt tốt"
+    },
+    {
+        "word": "on foot",
+        "type": "Prep Phrases",
+        "ipa": "ɒn fʊt",
+        "meaning": "bằng chân"
+    },
+    {
+        "word": "on fire",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈfaɪə",
+        "meaning": "cháy"
+    },
+    {
+        "word": "on file",
+        "type": "Prep Phrases",
+        "ipa": "ɒn faɪl",
+        "meaning": "trong hồ sơ"
+    },
+    {
+        "word": "on end",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ɛnd",
+        "meaning": "vào cuối"
+    },
+    {
+        "word": "on edge",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ɛʤ",
+        "meaning": "trên mép"
+    },
+    {
+        "word": "on display",
+        "type": "Prep Phrases",
+        "ipa": "ɒn dɪsˈpleɪ",
+        "meaning": "trưng bày"
+    },
+    {
+        "word": "on credit",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈkrɛdɪt",
+        "meaning": "về tín dụng"
+    },
+    {
+        "word": "on condition that",
+        "type": "Prep Phrases",
+        "ipa": "ɒn kənˈdɪʃən ðæt",
+        "meaning": "với điều kiện là"
+    },
+    {
+        "word": "on business",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈbɪznɪs",
+        "meaning": "đi công tác"
+    },
+    {
+        "word": "on board",
+        "type": "Prep Phrases",
+        "ipa": "ɒn bɔːd",
+        "meaning": "trên tàu"
+    },
+    {
+        "word": "on behalf of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn bɪˈhɑːf ɒv",
+        "meaning": "thay mặt cho"
+    },
+    {
+        "word": "on bail",
+        "type": "Prep Phrases",
+        "ipa": "ɒn beɪl",
+        "meaning": "tại ngoại"
+    },
+    {
+        "word": "on average",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ˈævərɪʤ",
+        "meaning": "Trung bình"
+    },
+    {
+        "word": "on approval",
+        "type": "Prep Phrases",
+        "ipa": "ɒn əˈpruːvəl",
+        "meaning": "phê duyệt"
+    },
+    {
+        "word": "on an island",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ən ˈaɪlənd",
+        "meaning": "trên một hòn đảo"
+    },
+    {
+        "word": "on an island",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ən ˈaɪlənd",
+        "meaning": "trên một hòn đảo"
+    },
+    {
+        "word": "on an expedition",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ən ˌɛkspɪˈdɪʃən",
+        "meaning": "trong một chuyến thám hiểm"
+    },
+    {
+        "word": "on account of",
+        "type": "Prep Phrases",
+        "ipa": "ɒn əˈkaʊnt ɒv",
+        "meaning": "trên tài khoản của"
+    },
+    {
+        "word": "on a wall",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə wɔːl",
+        "meaning": "trên một bức tường"
+    },
+    {
+        "word": "on a train",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə treɪn",
+        "meaning": "trên một chuyến tàu"
+    },
+    {
+        "word": "on a summer evening",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə ˈsʌmər ˈiːvnɪŋ",
+        "meaning": "vào một buổi tối mùa hè"
+    },
+    {
+        "word": "on a spree",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə spriː",
+        "meaning": "trên một cuộc vui"
+    },
+    {
+        "word": "on a ship",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə ʃɪp",
+        "meaning": "trên một con tàu"
+    },
+    {
+        "word": "on a regular basis",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə ˈrɛgjʊlə ˈbeɪsɪs",
+        "meaning": "một cách thường xuyên"
+    },
+    {
+        "word": "on a plane",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə pleɪn",
+        "meaning": "trên máy bay"
+    },
+    {
+        "word": "on a pension",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə ˈpɛnʃən",
+        "meaning": "về lương hưu"
+    },
+    {
+        "word": "on a motorbike",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə ˈməʊtəˌbaɪk",
+        "meaning": "trên xe máy"
+    },
+    {
+        "word": "on a list",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə lɪst",
+        "meaning": "trong danh sách"
+    },
+    {
+        "word": "on a large / small scale",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə lɑːʤ / smɔːl skeɪl",
+        "meaning": "trên quy mô lớn / nhỏ"
+    },
+    {
+        "word": "on a journey/ trip/ cruise",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə ˈʤɜːni/ trɪp/ kruːz",
+        "meaning": "trên một hành trình / chuyến đi / hành trình"
+    },
+    {
+        "word": "on a diet",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə ˈdaɪət",
+        "meaning": "ăn kiêng"
+    },
+    {
+        "word": "on a bus",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə bʌs",
+        "meaning": "trên xe buýt"
+    },
+    {
+        "word": "on a bicycle",
+        "type": "Prep Phrases",
+        "ipa": "ɒn ə ˈbaɪsɪkl",
+        "meaning": "trên một chiếc xe đạp"
+    }
+]

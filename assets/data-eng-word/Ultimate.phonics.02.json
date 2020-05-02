@@ -1,0 +1,6002 @@
+[
+    {
+        "word": "scoop",
+        "type": "oo",
+        "ipa": "skuːp",
+        "meaning": "muỗng, xúc"
+    },
+    {
+        "word": "scoot",
+        "type": "oo",
+        "ipa": "skuːt",
+        "meaning": "xe tay ga"
+    },
+    {
+        "word": "shoo",
+        "type": "oo",
+        "ipa": "ʃuː",
+        "meaning": "shoo"
+    },
+    {
+        "word": "shoot",
+        "type": "oo",
+        "ipa": "ʃuːt",
+        "meaning": "bắn"
+    },
+    {
+        "word": "sloop",
+        "type": "oo",
+        "ipa": "sluːp",
+        "meaning": "khẩu hiệu"
+    },
+    {
+        "word": "snoop",
+        "type": "oo",
+        "ipa": "snuːp",
+        "meaning": "rình mò"
+    },
+    {
+        "word": "spool",
+        "type": "oo",
+        "ipa": "spuːl",
+        "meaning": "ống chỉ"
+    },
+    {
+        "word": "spoof",
+        "type": "oo",
+        "ipa": "spuːf",
+        "meaning": "giả mạo"
+    },
+    {
+        "word": "spook",
+        "type": "oo",
+        "ipa": "spuːk",
+        "meaning": "ma quái"
+    },
+    {
+        "word": "spoon",
+        "type": "oo",
+        "ipa": "spuːn",
+        "meaning": "cái thìa"
+    },
+    {
+        "word": "stool",
+        "type": "oo",
+        "ipa": "stuːl",
+        "meaning": "ghế đẩu"
+    },
+    {
+        "word": "stoop",
+        "type": "oo",
+        "ipa": "stuːp",
+        "meaning": "lưng tôm"
+    },
+    {
+        "word": "swoon",
+        "type": "oo",
+        "ipa": "swuːn",
+        "meaning": "ngất"
+    },
+    {
+        "word": "swoop",
+        "type": "oo",
+        "ipa": "swuːp",
+        "meaning": "swoop"
+    },
+    {
+        "word": "boo",
+        "type": "oo",
+        "ipa": "buː",
+        "meaning": "boo"
+    },
+    {
+        "word": "boom",
+        "type": "oo",
+        "ipa": "buːm",
+        "meaning": "bùng nổ"
+    },
+    {
+        "word": "boon",
+        "type": "oo",
+        "ipa": "buːn",
+        "meaning": "lợi"
+    },
+    {
+        "word": "boot",
+        "type": "oo",
+        "ipa": "buːt",
+        "meaning": "khởi động"
+    },
+    {
+        "word": "booth",
+        "type": "oo",
+        "ipa": "buːð",
+        "meaning": "gian hàng"
+    },
+    {
+        "word": "boost",
+        "type": "oo",
+        "ipa": "buːst",
+        "meaning": "tăng"
+    },
+    {
+        "word": "brood",
+        "type": "oo",
+        "ipa": "bruːd",
+        "meaning": "ấp trứng"
+    },
+    {
+        "word": "broom",
+        "type": "oo",
+        "ipa": "brʊm",
+        "meaning": "chổi"
+    },
+    {
+        "word": "bloom",
+        "type": "oo",
+        "ipa": "bluːm",
+        "meaning": "hoa"
+    },
+    {
+        "word": "coo",
+        "type": "oo",
+        "ipa": "kuː",
+        "meaning": "thì thầm"
+    },
+    {
+        "word": "cool",
+        "type": "oo",
+        "ipa": "kuːl",
+        "meaning": "mát mẻ"
+    },
+    {
+        "word": "coop",
+        "type": "oo",
+        "ipa": "kuːp",
+        "meaning": "chuồng"
+    },
+    {
+        "word": "croon",
+        "type": "oo",
+        "ipa": "kruːn",
+        "meaning": "croon"
+    },
+    {
+        "word": "doom",
+        "type": "oo",
+        "ipa": "duːm",
+        "meaning": "sự chết"
+    },
+    {
+        "word": "drool",
+        "type": "oo",
+        "ipa": "druːl",
+        "meaning": "chảy nước dãi"
+    },
+    {
+        "word": "droop",
+        "type": "oo",
+        "ipa": "druːp",
+        "meaning": "rủ xuống"
+    },
+    {
+        "word": "food",
+        "type": "oo",
+        "ipa": "fuːd",
+        "meaning": "món ăn"
+    },
+    {
+        "word": "fool",
+        "type": "oo",
+        "ipa": "fuːl",
+        "meaning": "ngu xuẩn"
+    },
+    {
+        "word": "goo",
+        "type": "oo",
+        "ipa": "guː",
+        "meaning": "yêu"
+    },
+    {
+        "word": "goof",
+        "type": "oo",
+        "ipa": "guːf",
+        "meaning": "ngốc"
+    },
+    {
+        "word": "goon",
+        "type": "oo",
+        "ipa": "guːn",
+        "meaning": "đi tiếp"
+    },
+    {
+        "word": "gloom",
+        "type": "oo",
+        "ipa": "gluːm",
+        "meaning": "bóng tối"
+    },
+    {
+        "word": "groom",
+        "type": "oo",
+        "ipa": "grʊm",
+        "meaning": "chú rể"
+    },
+    {
+        "word": "hoop",
+        "type": "oo",
+        "ipa": "huːp",
+        "meaning": "hoop"
+    },
+    {
+        "word": "hoot",
+        "type": "oo",
+        "ipa": "huːt",
+        "meaning": "hoot"
+    },
+    {
+        "word": "loop",
+        "type": "oo",
+        "ipa": "luːp",
+        "meaning": "vòng"
+    },
+    {
+        "word": "loot",
+        "type": "oo",
+        "ipa": "luːt",
+        "meaning": "cướp bóc"
+    },
+    {
+        "word": "loom",
+        "type": "oo",
+        "ipa": "luːm",
+        "meaning": "khung cửi"
+    },
+    {
+        "word": "loon",
+        "type": "oo",
+        "ipa": "luːn",
+        "meaning": "loon"
+    },
+    {
+        "word": "noon",
+        "type": "oo",
+        "ipa": "nuːn",
+        "meaning": "không bật"
+    },
+    {
+        "word": "moo",
+        "type": "oo",
+        "ipa": "muː",
+        "meaning": "moo"
+    },
+    {
+        "word": "moon",
+        "type": "oo",
+        "ipa": "muːn",
+        "meaning": "mặt trăng"
+    },
+    {
+        "word": "mood",
+        "type": "oo",
+        "ipa": "muːd",
+        "meaning": "tâm trạng"
+    },
+    {
+        "word": "mooch",
+        "type": "oo",
+        "ipa": "muːʧ",
+        "meaning": "đi lang thang"
+    },
+    {
+        "word": "pool",
+        "type": "oo",
+        "ipa": "puːl",
+        "meaning": "hồ bơi"
+    },
+    {
+        "word": "poor",
+        "type": "oo",
+        "ipa": "pʊə",
+        "meaning": "nghèo"
+    },
+    {
+        "word": "pooch",
+        "type": "oo",
+        "ipa": "puːʧ",
+        "meaning": "chú chó"
+    },
+    {
+        "word": "proof",
+        "type": "oo",
+        "ipa": "pruːf",
+        "meaning": "bằng chứng"
+    },
+    {
+        "word": "roof",
+        "type": "oo",
+        "ipa": "ruːf",
+        "meaning": "mái nhà"
+    },
+    {
+        "word": "room",
+        "type": "oo",
+        "ipa": "ruːm",
+        "meaning": "phòng"
+    },
+    {
+        "word": "root",
+        "type": "oo",
+        "ipa": "ruːt",
+        "meaning": "nguồn gốc"
+    },
+    {
+        "word": "roost",
+        "type": "oo",
+        "ipa": "ruːst",
+        "meaning": "gà trống"
+    },
+    {
+        "word": "too",
+        "type": "oo",
+        "ipa": "tuː",
+        "meaning": "quá"
+    },
+    {
+        "word": "tool",
+        "type": "oo",
+        "ipa": "tuːl",
+        "meaning": "dụng cụ"
+    },
+    {
+        "word": "toot",
+        "type": "oo",
+        "ipa": "tuːt",
+        "meaning": "thổi còi"
+    },
+    {
+        "word": "tooth",
+        "type": "oo",
+        "ipa": "tuːθ",
+        "meaning": "răng"
+    },
+    {
+        "word": "troop",
+        "type": "oo",
+        "ipa": "truːp",
+        "meaning": "đoàn quân"
+    },
+    {
+        "word": "woo",
+        "type": "oo",
+        "ipa": "wuː",
+        "meaning": "woo"
+    },
+    {
+        "word": "zoo",
+        "type": "oo",
+        "ipa": "zuː",
+        "meaning": "vườn bách thú"
+    },
+    {
+        "word": "zoom",
+        "type": "oo",
+        "ipa": "zuːm",
+        "meaning": "thu phóng"
+    },
+    {
+        "word": "aid",
+        "type": "ai",
+        "ipa": "eɪd",
+        "meaning": "viện trợ"
+    },
+    {
+        "word": "ail",
+        "type": "ai",
+        "ipa": "eɪl",
+        "meaning": "đau"
+    },
+    {
+        "word": "aim",
+        "type": "ai",
+        "ipa": "eɪm",
+        "meaning": "mục đích"
+    },
+    {
+        "word": "bail",
+        "type": "ai",
+        "ipa": "beɪl",
+        "meaning": "bảo lãnh"
+    },
+    {
+        "word": "bait",
+        "type": "ai",
+        "ipa": "beɪt",
+        "meaning": "mồi"
+    },
+    {
+        "word": "braid",
+        "type": "ai",
+        "ipa": "breɪd",
+        "meaning": "bện"
+    },
+    {
+        "word": "brain",
+        "type": "ai",
+        "ipa": "breɪn",
+        "meaning": "óc"
+    },
+    {
+        "word": "chain",
+        "type": "ai",
+        "ipa": "ʧeɪn",
+        "meaning": "chuỗi"
+    },
+    {
+        "word": "claim",
+        "type": "ai",
+        "ipa": "kleɪm",
+        "meaning": "yêu cầu"
+    },
+    {
+        "word": "hail",
+        "type": "ai",
+        "ipa": "heɪl",
+        "meaning": "kêu"
+    },
+    {
+        "word": "jail",
+        "type": "ai",
+        "ipa": "ʤeɪl",
+        "meaning": "nhà tù"
+    },
+    {
+        "word": "nail",
+        "type": "ai",
+        "ipa": "neɪl",
+        "meaning": "móng tay"
+    },
+    {
+        "word": "fail",
+        "type": "ai",
+        "ipa": "feɪl",
+        "meaning": "Thất bại"
+    },
+    {
+        "word": "faint",
+        "type": "ai",
+        "ipa": "feɪnt",
+        "meaning": "mờ nhạt"
+    },
+    {
+        "word": "faith",
+        "type": "ai",
+        "ipa": "feɪθ",
+        "meaning": "đức tin"
+    },
+    {
+        "word": "flail",
+        "type": "ai",
+        "ipa": "fleɪl",
+        "meaning": "con sáo"
+    },
+    {
+        "word": "frail",
+        "type": "ai",
+        "ipa": "freɪl",
+        "meaning": "yếu đuối"
+    },
+    {
+        "word": "gain",
+        "type": "ai",
+        "ipa": "geɪn",
+        "meaning": "thu được"
+    },
+    {
+        "word": "gait",
+        "type": "ai",
+        "ipa": "geɪt",
+        "meaning": "dáng đi"
+    },
+    {
+        "word": "grain",
+        "type": "ai",
+        "ipa": "greɪn",
+        "meaning": "ngũ cốc"
+    },
+    {
+        "word": "drain",
+        "type": "ai",
+        "ipa": "dreɪn",
+        "meaning": "cống"
+    },
+    {
+        "word": "maid",
+        "type": "ai",
+        "ipa": "meɪd",
+        "meaning": "người giúp việc"
+    },
+    {
+        "word": "mail",
+        "type": "ai",
+        "ipa": "meɪl",
+        "meaning": "thư"
+    },
+    {
+        "word": "main",
+        "type": "ai",
+        "ipa": "meɪn",
+        "meaning": "chủ yếu"
+    },
+    {
+        "word": "laid",
+        "type": "ai",
+        "ipa": "leɪd",
+        "meaning": "đặt"
+    },
+    {
+        "word": "lain",
+        "type": "ai",
+        "ipa": "leɪn",
+        "meaning": "mất"
+    },
+    {
+        "word": "paid",
+        "type": "ai",
+        "ipa": "peɪd",
+        "meaning": "đã thanh toán"
+    },
+    {
+        "word": "pail",
+        "type": "ai",
+        "ipa": "peɪl",
+        "meaning": "thùng"
+    },
+    {
+        "word": "pain",
+        "type": "ai",
+        "ipa": "peɪn",
+        "meaning": "đau đớn"
+    },
+    {
+        "word": "paint",
+        "type": "ai",
+        "ipa": "peɪnt",
+        "meaning": "Sơn"
+    },
+    {
+        "word": "plain",
+        "type": "ai",
+        "ipa": "pleɪn",
+        "meaning": "trơn"
+    },
+    {
+        "word": "vain",
+        "type": "ai",
+        "ipa": "veɪn",
+        "meaning": "vô ích"
+    },
+    {
+        "word": "raid",
+        "type": "ai",
+        "ipa": "reɪd",
+        "meaning": "đột kích"
+    },
+    {
+        "word": "rail",
+        "type": "ai",
+        "ipa": "reɪl",
+        "meaning": "đường sắt"
+    },
+    {
+        "word": "rain",
+        "type": "ai",
+        "ipa": "reɪn",
+        "meaning": "mưa"
+    },
+    {
+        "word": "tail",
+        "type": "ai",
+        "ipa": "teɪl",
+        "meaning": "đuôi"
+    },
+    {
+        "word": "taint",
+        "type": "ai",
+        "ipa": "teɪnt",
+        "meaning": "vết bẩn"
+    },
+    {
+        "word": "trail",
+        "type": "ai",
+        "ipa": "treɪl",
+        "meaning": "đường mòn"
+    },
+    {
+        "word": "train",
+        "type": "ai",
+        "ipa": "treɪn",
+        "meaning": "xe lửa"
+    },
+    {
+        "word": "trait",
+        "type": "ai",
+        "ipa": "treɪt",
+        "meaning": "đặc điểm"
+    },
+    {
+        "word": "sail",
+        "type": "ai",
+        "ipa": "seɪl",
+        "meaning": "chèo"
+    },
+    {
+        "word": "saint",
+        "type": "ai",
+        "ipa": "seɪnt",
+        "meaning": "thánh"
+    },
+    {
+        "word": "snail",
+        "type": "ai",
+        "ipa": "sneɪl",
+        "meaning": "ốc sên"
+    },
+    {
+        "word": "Spain",
+        "type": "ai",
+        "ipa": "speɪn",
+        "meaning": "Tây Ban Nha"
+    },
+    {
+        "word": "sprain",
+        "type": "ai",
+        "ipa": "spreɪn",
+        "meaning": "bong gân"
+    },
+    {
+        "word": "staid",
+        "type": "ai",
+        "ipa": "steɪd",
+        "meaning": "nghiêm trang"
+    },
+    {
+        "word": "stain",
+        "type": "ai",
+        "ipa": "steɪn",
+        "meaning": "vết bẩn"
+    },
+    {
+        "word": "strain",
+        "type": "ai",
+        "ipa": "streɪn",
+        "meaning": "sự căng thẳng, quá tải"
+    },
+    {
+        "word": "wail",
+        "type": "ai",
+        "ipa": "weɪl",
+        "meaning": "than vãn"
+    },
+    {
+        "word": "waif",
+        "type": "ai",
+        "ipa": "weɪf",
+        "meaning": "từ bỏ"
+    },
+    {
+        "word": "wait",
+        "type": "ai",
+        "ipa": "weɪt",
+        "meaning": "chờ đợi"
+    },
+    {
+        "word": "waist",
+        "type": "ai",
+        "ipa": "weɪst",
+        "meaning": "eo"
+    },
+    {
+        "word": "quail",
+        "type": "ai",
+        "ipa": "kweɪl",
+        "meaning": "chim cun cút"
+    },
+    {
+        "word": "quaint",
+        "type": "ai",
+        "ipa": "kweɪnt",
+        "meaning": "kỳ lạ"
+    },
+    {
+        "word": "air",
+        "type": "air",
+        "ipa": "eə",
+        "meaning": "không khí"
+    },
+    {
+        "word": "chair",
+        "type": "air",
+        "ipa": "ʧeə",
+        "meaning": "cái ghế"
+    },
+    {
+        "word": "fair",
+        "type": "air",
+        "ipa": "feə",
+        "meaning": "hội chợ"
+    },
+    {
+        "word": "flair",
+        "type": "air",
+        "ipa": "fleə",
+        "meaning": "tư cách"
+    },
+    {
+        "word": "hair",
+        "type": "air",
+        "ipa": "heə",
+        "meaning": "tóc"
+    },
+    {
+        "word": "lair",
+        "type": "air",
+        "ipa": "leə",
+        "meaning": "hang ổ"
+    },
+    {
+        "word": "pair",
+        "type": "air",
+        "ipa": "peə",
+        "meaning": "đôi"
+    },
+    {
+        "word": "stair",
+        "type": "air",
+        "ipa": "steə",
+        "meaning": "cầu thang"
+    },
+    {
+        "word": "day",
+        "type": "ay",
+        "ipa": "deɪ",
+        "meaning": "ngày"
+    },
+    {
+        "word": "lay",
+        "type": "ay",
+        "ipa": "leɪ",
+        "meaning": "đặt nằm"
+    },
+    {
+        "word": "may",
+        "type": "ay",
+        "ipa": "meɪ",
+        "meaning": "có thể"
+    },
+    {
+        "word": "ray",
+        "type": "ay",
+        "ipa": "reɪ",
+        "meaning": "cá đuối"
+    },
+    {
+        "word": "way",
+        "type": "ay",
+        "ipa": "weɪ",
+        "meaning": "đường"
+    },
+    {
+        "word": "pay",
+        "type": "ay",
+        "ipa": "peɪ",
+        "meaning": "trả"
+    },
+    {
+        "word": "play",
+        "type": "ay",
+        "ipa": "pleɪ",
+        "meaning": "chơi"
+    },
+    {
+        "word": "pray",
+        "type": "ay",
+        "ipa": "preɪ",
+        "meaning": "cầu nguyện"
+    },
+    {
+        "word": "say",
+        "type": "ay",
+        "ipa": "seɪ",
+        "meaning": "Nói"
+    },
+    {
+        "word": "slay",
+        "type": "ay",
+        "ipa": "sleɪ",
+        "meaning": "giết"
+    },
+    {
+        "word": "stay",
+        "type": "ay",
+        "ipa": "steɪ",
+        "meaning": "ở lại"
+    },
+    {
+        "word": "sway",
+        "type": "ay",
+        "ipa": "sweɪ",
+        "meaning": "lắc lư"
+    },
+    {
+        "word": "spray",
+        "type": "ay",
+        "ipa": "spreɪ",
+        "meaning": "Xịt nước"
+    },
+    {
+        "word": "stray",
+        "type": "ay",
+        "ipa": "streɪ",
+        "meaning": "đi lạc"
+    },
+    {
+        "word": "jay",
+        "type": "ay",
+        "ipa": "ʤeɪ",
+        "meaning": "jay"
+    },
+    {
+        "word": "hay",
+        "type": "ay",
+        "ipa": "heɪ",
+        "meaning": "hay"
+    },
+    {
+        "word": "nay",
+        "type": "ay",
+        "ipa": "neɪ",
+        "meaning": "này"
+    },
+    {
+        "word": "bay",
+        "type": "ay",
+        "ipa": "beɪ",
+        "meaning": "vịnh"
+    },
+    {
+        "word": "bray",
+        "type": "ay",
+        "ipa": "breɪ",
+        "meaning": "cầu thủ"
+    },
+    {
+        "word": "Fay",
+        "type": "ay",
+        "ipa": "feɪ",
+        "meaning": "Fay"
+    },
+    {
+        "word": "fray",
+        "type": "ay",
+        "ipa": "freɪ",
+        "meaning": "sờn"
+    },
+    {
+        "word": "gay",
+        "type": "ay",
+        "ipa": "geɪ",
+        "meaning": "đồng tính"
+    },
+    {
+        "word": "gray",
+        "type": "ay",
+        "ipa": "greɪ",
+        "meaning": "màu xám"
+    },
+    {
+        "word": "clay",
+        "type": "ay",
+        "ipa": "kleɪ",
+        "meaning": "đất sét"
+    },
+    {
+        "word": "tray",
+        "type": "ay",
+        "ipa": "treɪ",
+        "meaning": "cái mâm"
+    },
+    {
+        "word": "oaf",
+        "type": "oa",
+        "ipa": "əʊf",
+        "meaning": "oaf"
+    },
+    {
+        "word": "oak",
+        "type": "oa",
+        "ipa": "əʊk",
+        "meaning": "gỗ sồi"
+    },
+    {
+        "word": "oat",
+        "type": "oa",
+        "ipa": "əʊt",
+        "meaning": "yến mạch"
+    },
+    {
+        "word": "oath",
+        "type": "oa",
+        "ipa": "əʊθ",
+        "meaning": "tuyên thệ"
+    },
+    {
+        "word": "boat",
+        "type": "oa",
+        "ipa": "bəʊt",
+        "meaning": "thuyền"
+    },
+    {
+        "word": "boast",
+        "type": "oa",
+        "ipa": "bəʊst",
+        "meaning": "khoe khoang"
+    },
+    {
+        "word": "bloat",
+        "type": "oa",
+        "ipa": "bləʊt",
+        "meaning": "sưng lên"
+    },
+    {
+        "word": "broach",
+        "type": "oa",
+        "ipa": "brəʊʧ",
+        "meaning": "chuốt"
+    },
+    {
+        "word": "foal",
+        "type": "oa",
+        "ipa": "fəʊl",
+        "meaning": "con ngựa con"
+    },
+    {
+        "word": "foam",
+        "type": "oa",
+        "ipa": "fəʊm",
+        "meaning": "bọt"
+    },
+    {
+        "word": "float",
+        "type": "oa",
+        "ipa": "fləʊt",
+        "meaning": "Phao nổi"
+    },
+    {
+        "word": "goad",
+        "type": "oa",
+        "ipa": "gəʊd",
+        "meaning": "con dê"
+    },
+    {
+        "word": "goal",
+        "type": "oa",
+        "ipa": "gəʊl",
+        "meaning": "mục tiêu"
+    },
+    {
+        "word": "goat",
+        "type": "oa",
+        "ipa": "gəʊt",
+        "meaning": "con dê"
+    },
+    {
+        "word": "gloat",
+        "type": "oa",
+        "ipa": "gləʊt",
+        "meaning": "hả hê"
+    },
+    {
+        "word": "groan",
+        "type": "oa",
+        "ipa": "grəʊn",
+        "meaning": "than van"
+    },
+    {
+        "word": "coal",
+        "type": "oa",
+        "ipa": "kəʊl",
+        "meaning": "than"
+    },
+    {
+        "word": "coat",
+        "type": "oa",
+        "ipa": "kəʊt",
+        "meaning": "áo choàng ngoài"
+    },
+    {
+        "word": "coax",
+        "type": "oa",
+        "ipa": "kəʊks",
+        "meaning": "dỗ dành"
+    },
+    {
+        "word": "coast",
+        "type": "oa",
+        "ipa": "kəʊst",
+        "meaning": "bờ biển"
+    },
+    {
+        "word": "coach",
+        "type": "oa",
+        "ipa": "kəʊʧ",
+        "meaning": "huấn luyện viên"
+    },
+    {
+        "word": "cloak",
+        "type": "oa",
+        "ipa": "kləʊk",
+        "meaning": "áo choàng"
+    },
+    {
+        "word": "croak",
+        "type": "oa",
+        "ipa": "krəʊk",
+        "meaning": "vẹo"
+    },
+    {
+        "word": "load",
+        "type": "oa",
+        "ipa": "ləʊd",
+        "meaning": "tải"
+    },
+    {
+        "word": "loaf",
+        "type": "oa",
+        "ipa": "ləʊf",
+        "meaning": "ổ bánh mì"
+    },
+    {
+        "word": "loan",
+        "type": "oa",
+        "ipa": "ləʊn",
+        "meaning": "tiền vay"
+    },
+    {
+        "word": "moat",
+        "type": "oa",
+        "ipa": "məʊt",
+        "meaning": "hào nước"
+    },
+    {
+        "word": "moan",
+        "type": "oa",
+        "ipa": "məʊn",
+        "meaning": "kêu van"
+    },
+    {
+        "word": "road",
+        "type": "oa",
+        "ipa": "rəʊd",
+        "meaning": "đường"
+    },
+    {
+        "word": "roam",
+        "type": "oa",
+        "ipa": "rəʊm",
+        "meaning": "đi lang thang"
+    },
+    {
+        "word": "roach",
+        "type": "oa",
+        "ipa": "rəʊʧ",
+        "meaning": "con gián"
+    },
+    {
+        "word": "roast",
+        "type": "oa",
+        "ipa": "rəʊst",
+        "meaning": "nướng"
+    },
+    {
+        "word": "toad",
+        "type": "oa",
+        "ipa": "təʊd",
+        "meaning": "con cóc"
+    },
+    {
+        "word": "toast",
+        "type": "oa",
+        "ipa": "təʊst",
+        "meaning": "bánh mì nướng"
+    },
+    {
+        "word": "throat",
+        "type": "oa",
+        "ipa": "θrəʊt",
+        "meaning": "họng"
+    },
+    {
+        "word": "soap",
+        "type": "oa",
+        "ipa": "səʊp",
+        "meaning": "xà bông tắm"
+    },
+    {
+        "word": "soak",
+        "type": "oa",
+        "ipa": "səʊk",
+        "meaning": "ngâm"
+    },
+    {
+        "word": "shoal",
+        "type": "oa",
+        "ipa": "ʃəʊl",
+        "meaning": "bãi cạn"
+    },
+    {
+        "word": "poach",
+        "type": "oa",
+        "ipa": "pəʊʧ",
+        "meaning": "câu trộm"
+    },
+    {
+        "word": "hoax",
+        "type": "oa",
+        "ipa": "həʊks",
+        "meaning": "chơi khăm"
+    },
+    {
+        "word": "oar",
+        "type": "oa",
+        "ipa": "ɔː",
+        "meaning": "mái chèo"
+    },
+    {
+        "word": "soar",
+        "type": "oa",
+        "ipa": "sɔː",
+        "meaning": "bay lên"
+    },
+    {
+        "word": "roar",
+        "type": "oa",
+        "ipa": "rɔː",
+        "meaning": "Gầm"
+    },
+    {
+        "word": "boar",
+        "type": "oa",
+        "ipa": "bɔː",
+        "meaning": "heo rừng"
+    },
+    {
+        "word": "hoard",
+        "type": "oa",
+        "ipa": "hɔːd",
+        "meaning": "tích trữ"
+    },
+    {
+        "word": "board",
+        "type": "oa",
+        "ipa": "bɔːd",
+        "meaning": "bảng"
+    },
+    {
+        "word": "out",
+        "type": "ou",
+        "ipa": "aʊt",
+        "meaning": "ngoài"
+    },
+    {
+        "word": "bout",
+        "type": "ou",
+        "ipa": "baʊt",
+        "meaning": "cơn"
+    },
+    {
+        "word": "pout",
+        "type": "ou",
+        "ipa": "paʊt",
+        "meaning": "bĩu môi"
+    },
+    {
+        "word": "rout",
+        "type": "ou",
+        "ipa": "raʊt",
+        "meaning": "thói quen"
+    },
+    {
+        "word": "trout",
+        "type": "ou",
+        "ipa": "traʊt",
+        "meaning": "cá hồi"
+    },
+    {
+        "word": "shout",
+        "type": "ou",
+        "ipa": "ʃaʊt",
+        "meaning": "kêu la"
+    },
+    {
+        "word": "scout",
+        "type": "ou",
+        "ipa": "skaʊt",
+        "meaning": "trinh sát"
+    },
+    {
+        "word": "stout",
+        "type": "ou",
+        "ipa": "staʊt",
+        "meaning": "bia đen"
+    },
+    {
+        "word": "snout",
+        "type": "ou",
+        "ipa": "snaʊt",
+        "meaning": "mõm"
+    },
+    {
+        "word": "spout",
+        "type": "ou",
+        "ipa": "spaʊt",
+        "meaning": "vòi"
+    },
+    {
+        "word": "sprout",
+        "type": "ou",
+        "ipa": "spraʊt",
+        "meaning": "mọc mầm"
+    },
+    {
+        "word": "clout",
+        "type": "ou",
+        "ipa": "klaʊt",
+        "meaning": "ảnh hưởng"
+    },
+    {
+        "word": "flout",
+        "type": "ou",
+        "ipa": "flaʊt",
+        "meaning": "coi thường"
+    },
+    {
+        "word": "south",
+        "type": "ou",
+        "ipa": "saʊθ",
+        "meaning": "miền Nam"
+    },
+    {
+        "word": "mouth",
+        "type": "ou",
+        "ipa": "maʊθ",
+        "meaning": "mồm"
+    },
+    {
+        "word": "ouch",
+        "type": "ou",
+        "ipa": "aʊʧ",
+        "meaning": "ouch"
+    },
+    {
+        "word": "pouch",
+        "type": "ou",
+        "ipa": "paʊʧ",
+        "meaning": "túi"
+    },
+    {
+        "word": "couch",
+        "type": "ou",
+        "ipa": "kaʊʧ",
+        "meaning": "đi văng"
+    },
+    {
+        "word": "slouch",
+        "type": "ou",
+        "ipa": "slaʊʧ",
+        "meaning": "trượt"
+    },
+    {
+        "word": "crouch",
+        "type": "ou",
+        "ipa": "kraʊʧ",
+        "meaning": "Khúm núm"
+    },
+    {
+        "word": "grouch",
+        "type": "ou",
+        "ipa": "graʊʧ",
+        "meaning": "nhóm"
+    },
+    {
+        "word": "our",
+        "type": "ou",
+        "ipa": "ˈaʊə",
+        "meaning": "của chúng tôi"
+    },
+    {
+        "word": "flour",
+        "type": "ou",
+        "ipa": "ˈflaʊə",
+        "meaning": "bột mì"
+    },
+    {
+        "word": "sour",
+        "type": "ou",
+        "ipa": "ˈsaʊə",
+        "meaning": "chua"
+    },
+    {
+        "word": "scour",
+        "type": "ou",
+        "ipa": "ˈskaʊə",
+        "meaning": "cọ rửa"
+    },
+    {
+        "word": "noun",
+        "type": "ou",
+        "ipa": "naʊn",
+        "meaning": "danh từ"
+    },
+    {
+        "word": "foul",
+        "type": "ou",
+        "ipa": "faʊl",
+        "meaning": "Hôi"
+    },
+    {
+        "word": "loud",
+        "type": "ou",
+        "ipa": "laʊd",
+        "meaning": "to tiếng"
+    },
+    {
+        "word": "cloud",
+        "type": "ou",
+        "ipa": "klaʊd",
+        "meaning": "đám mây"
+    },
+    {
+        "word": "proud",
+        "type": "ou",
+        "ipa": "praʊd",
+        "meaning": "tự hào"
+    },
+    {
+        "word": "shroud",
+        "type": "ou",
+        "ipa": "ʃraʊd",
+        "meaning": "liệm"
+    },
+    {
+        "word": "bound",
+        "type": "ou",
+        "ipa": "baʊnd",
+        "meaning": "ràng buộc"
+    },
+    {
+        "word": "found",
+        "type": "ou",
+        "ipa": "faʊnd",
+        "meaning": "tìm"
+    },
+    {
+        "word": "hound",
+        "type": "ou",
+        "ipa": "haʊnd",
+        "meaning": "chó săn"
+    },
+    {
+        "word": "mound",
+        "type": "ou",
+        "ipa": "maʊnd",
+        "meaning": "gò"
+    },
+    {
+        "word": "pound",
+        "type": "ou",
+        "ipa": "paʊnd",
+        "meaning": "pao"
+    },
+    {
+        "word": "round",
+        "type": "ou",
+        "ipa": "raʊnd",
+        "meaning": "tròn"
+    },
+    {
+        "word": "ground",
+        "type": "ou",
+        "ipa": "graʊnd",
+        "meaning": "đất"
+    },
+    {
+        "word": "sound",
+        "type": "ou",
+        "ipa": "saʊnd",
+        "meaning": "âm thanh"
+    },
+    {
+        "word": "wound",
+        "type": "ou",
+        "ipa": "wuːnd",
+        "meaning": "chạm đến"
+    },
+    {
+        "word": "count",
+        "type": "ou",
+        "ipa": "kaʊnt",
+        "meaning": "đếm"
+    },
+    {
+        "word": "mount",
+        "type": "ou",
+        "ipa": "maʊnt",
+        "meaning": "gắn kết"
+    },
+    {
+        "word": "cow",
+        "type": "ow",
+        "ipa": "kaʊ",
+        "meaning": "bò"
+    },
+    {
+        "word": "bow",
+        "type": "ow",
+        "ipa": "baʊ",
+        "meaning": "cây cung"
+    },
+    {
+        "word": "now",
+        "type": "ow",
+        "ipa": "naʊ",
+        "meaning": "hiện nay"
+    },
+    {
+        "word": "how",
+        "type": "ow",
+        "ipa": "haʊ",
+        "meaning": "làm sao"
+    },
+    {
+        "word": "vow",
+        "type": "ow",
+        "ipa": "vaʊ",
+        "meaning": "thề"
+    },
+    {
+        "word": "wow",
+        "type": "ow",
+        "ipa": "waʊ",
+        "meaning": "ồ"
+    },
+    {
+        "word": "pow",
+        "type": "ow",
+        "ipa": "paʊ",
+        "meaning": "pow"
+    },
+    {
+        "word": "plow",
+        "type": "ow",
+        "ipa": "plaʊ",
+        "meaning": "cày"
+    },
+    {
+        "word": "prow",
+        "type": "ow",
+        "ipa": "praʊ",
+        "meaning": "mũi nhọn"
+    },
+    {
+        "word": "chow",
+        "type": "ow",
+        "ipa": "ʧaʊ",
+        "meaning": "chow"
+    },
+    {
+        "word": "brow",
+        "type": "ow",
+        "ipa": "braʊ",
+        "meaning": "trán"
+    },
+    {
+        "word": "brown",
+        "type": "ow",
+        "ipa": "braʊn",
+        "meaning": "nâu"
+    },
+    {
+        "word": "town",
+        "type": "ow",
+        "ipa": "taʊn",
+        "meaning": "thị trấn"
+    },
+    {
+        "word": "gown",
+        "type": "ow",
+        "ipa": "gaʊn",
+        "meaning": "áo choàng"
+    },
+    {
+        "word": "down",
+        "type": "ow",
+        "ipa": "daʊn",
+        "meaning": "xuống"
+    },
+    {
+        "word": "clown",
+        "type": "ow",
+        "ipa": "klaʊn",
+        "meaning": "thằng hề"
+    },
+    {
+        "word": "drown",
+        "type": "ow",
+        "ipa": "draʊn",
+        "meaning": "chết chìm"
+    },
+    {
+        "word": "frown",
+        "type": "ow",
+        "ipa": "fraʊn",
+        "meaning": "nhăn mặt"
+    },
+    {
+        "word": "crown",
+        "type": "ow",
+        "ipa": "kraʊn",
+        "meaning": "Vương miện"
+    },
+    {
+        "word": "crowd",
+        "type": "ow",
+        "ipa": "kraʊd",
+        "meaning": "bầy đàn"
+    },
+    {
+        "word": "owl",
+        "type": "ow",
+        "ipa": "aʊl",
+        "meaning": "cú"
+    },
+    {
+        "word": "fowl",
+        "type": "ow",
+        "ipa": "faʊl",
+        "meaning": "gia cầm"
+    },
+    {
+        "word": "howl",
+        "type": "ow",
+        "ipa": "haʊl",
+        "meaning": "hú"
+    },
+    {
+        "word": "jowl",
+        "type": "ow",
+        "ipa": "ʤaʊl",
+        "meaning": "hàm"
+    },
+    {
+        "word": "yowl",
+        "type": "ow",
+        "ipa": "jaʊl",
+        "meaning": "yowl"
+    },
+    {
+        "word": "scowl",
+        "type": "ow",
+        "ipa": "skaʊl",
+        "meaning": "cau có"
+    },
+    {
+        "word": "growl",
+        "type": "ow",
+        "ipa": "graʊl",
+        "meaning": "gầm gừ"
+    },
+    {
+        "word": "prowl",
+        "type": "ow",
+        "ipa": "praʊl",
+        "meaning": "đi dạo"
+    },
+    {
+        "word": "paw",
+        "type": "aw",
+        "ipa": "pɔː",
+        "meaning": "móng vuốt"
+    },
+    {
+        "word": "jaw",
+        "type": "aw",
+        "ipa": "ʤɔː",
+        "meaning": "hàm"
+    },
+    {
+        "word": "law",
+        "type": "aw",
+        "ipa": "lɔː",
+        "meaning": "pháp luật"
+    },
+    {
+        "word": "saw",
+        "type": "aw",
+        "ipa": "sɔː",
+        "meaning": "cái cưa"
+    },
+    {
+        "word": "caw",
+        "type": "aw",
+        "ipa": "kɒ",
+        "meaning": "caw"
+    },
+    {
+        "word": "raw",
+        "type": "aw",
+        "ipa": "rɔː",
+        "meaning": "nguyên"
+    },
+    {
+        "word": "claw",
+        "type": "aw",
+        "ipa": "klɔː",
+        "meaning": "móng vuốt"
+    },
+    {
+        "word": "flaw",
+        "type": "aw",
+        "ipa": "flɔː",
+        "meaning": "lỗ hổng"
+    },
+    {
+        "word": "slaw",
+        "type": "aw",
+        "ipa": "slɔː",
+        "meaning": "sinh vật"
+    },
+    {
+        "word": "draw",
+        "type": "aw",
+        "ipa": "drɔː",
+        "meaning": "vẽ tranh"
+    },
+    {
+        "word": "straw",
+        "type": "aw",
+        "ipa": "strɔː",
+        "meaning": "Rơm rạ"
+    },
+    {
+        "word": "thaw",
+        "type": "aw",
+        "ipa": "θɔː",
+        "meaning": "tan băng"
+    },
+    {
+        "word": "awl",
+        "type": "aw",
+        "ipa": "ɔːl",
+        "meaning": "dù sao"
+    },
+    {
+        "word": "bawl",
+        "type": "aw",
+        "ipa": "bɔːl",
+        "meaning": "la"
+    },
+    {
+        "word": "brawl",
+        "type": "aw",
+        "ipa": "brɔːl",
+        "meaning": "cãi lộn"
+    },
+    {
+        "word": "crawl",
+        "type": "aw",
+        "ipa": "krɔːl",
+        "meaning": "bò"
+    },
+    {
+        "word": "drawl",
+        "type": "aw",
+        "ipa": "drɔːl",
+        "meaning": "rút ra"
+    },
+    {
+        "word": "shawl",
+        "type": "aw",
+        "ipa": "ʃɔːl",
+        "meaning": "khăn choàng"
+    },
+    {
+        "word": "scrawl",
+        "type": "aw",
+        "ipa": "skrɔːl",
+        "meaning": "nguệch ngoạc"
+    },
+    {
+        "word": "sprawl",
+        "type": "aw",
+        "ipa": "sprɔːl",
+        "meaning": "ngổn ngang"
+    },
+    {
+        "word": "dawn",
+        "type": "aw",
+        "ipa": "dɔːn",
+        "meaning": "bình minh"
+    },
+    {
+        "word": "pawn",
+        "type": "aw",
+        "ipa": "pɔːn",
+        "meaning": "cầm đồ"
+    },
+    {
+        "word": "lawn",
+        "type": "aw",
+        "ipa": "lɔːn",
+        "meaning": "cừu con"
+    },
+    {
+        "word": "fawn",
+        "type": "aw",
+        "ipa": "fɔːn",
+        "meaning": "bình minh"
+    },
+    {
+        "word": "yawn",
+        "type": "aw",
+        "ipa": "jɔːn",
+        "meaning": "ngáp"
+    },
+    {
+        "word": "prawn",
+        "type": "aw",
+        "ipa": "prɔːn",
+        "meaning": "tôm"
+    },
+    {
+        "word": "drawn",
+        "type": "aw",
+        "ipa": "drɔːn",
+        "meaning": "vẽ"
+    },
+    {
+        "word": "brawn",
+        "type": "aw",
+        "ipa": "brɔːn",
+        "meaning": "ẩu đả"
+    },
+    {
+        "word": "hawk",
+        "type": "aw",
+        "ipa": "hɔːk",
+        "meaning": "chim ưng"
+    },
+    {
+        "word": "squawk",
+        "type": "aw",
+        "ipa": "skwɔːk",
+        "meaning": "chim ưng"
+    },
+    {
+        "word": "squaw",
+        "type": "aw",
+        "ipa": "skwɔː",
+        "meaning": "con mực"
+    },
+    {
+        "word": "haul",
+        "type": "au",
+        "ipa": "hɔːl",
+        "meaning": "lôi"
+    },
+    {
+        "word": "maul",
+        "type": "au",
+        "ipa": "mɔːl",
+        "meaning": "maul"
+    },
+    {
+        "word": "fault",
+        "type": "au",
+        "ipa": "fɔːlt",
+        "meaning": "lỗi"
+    },
+    {
+        "word": "vault",
+        "type": "au",
+        "ipa": "vɔːlt",
+        "meaning": "hầm"
+    },
+    {
+        "word": "laud",
+        "type": "au",
+        "ipa": "lɔːd",
+        "meaning": "tán dương"
+    },
+    {
+        "word": "taut",
+        "type": "au",
+        "ipa": "tɔːt",
+        "meaning": "taut"
+    },
+    {
+        "word": "gaunt",
+        "type": "au",
+        "ipa": "gɔːnt",
+        "meaning": "hốc hác"
+    },
+    {
+        "word": "daunt",
+        "type": "au",
+        "ipa": "dɔːnt",
+        "meaning": "nản chí"
+    },
+    {
+        "word": "haunt",
+        "type": "au",
+        "ipa": "hɔːnt",
+        "meaning": "ám ảnh"
+    },
+    {
+        "word": "jaunt",
+        "type": "au",
+        "ipa": "ʤɔːnt",
+        "meaning": "đi chơi"
+    },
+    {
+        "word": "taunt",
+        "type": "au",
+        "ipa": "tɔːnt",
+        "meaning": "chế nhạo"
+    },
+    {
+        "word": "flaunt",
+        "type": "au",
+        "ipa": "flɔːnt",
+        "meaning": "phô trương"
+    },
+    {
+        "word": "launch",
+        "type": "au",
+        "ipa": "lɔːnʧ",
+        "meaning": "phóng"
+    },
+    {
+        "word": "haunch",
+        "type": "au",
+        "ipa": "hɔːnʧ",
+        "meaning": "hông"
+    },
+    {
+        "word": "paunch",
+        "type": "au",
+        "ipa": "pɔːnʧ",
+        "meaning": "paunch"
+    },
+    {
+        "word": "boy",
+        "type": "oy",
+        "ipa": "bɔɪ",
+        "meaning": "con trai"
+    },
+    {
+        "word": "joy",
+        "type": "oy",
+        "ipa": "ʤɔɪ",
+        "meaning": "vui sướng"
+    },
+    {
+        "word": "coy",
+        "type": "oy",
+        "ipa": "kɔɪ",
+        "meaning": "nhút nhát"
+    },
+    {
+        "word": "toy",
+        "type": "oy",
+        "ipa": "tɔɪ",
+        "meaning": "đồ chơi"
+    },
+    {
+        "word": "Roy",
+        "type": "oy",
+        "ipa": "rɔɪ",
+        "meaning": "Roy"
+    },
+    {
+        "word": "soy",
+        "type": "oy",
+        "ipa": "sɔɪ",
+        "meaning": "đậu nành"
+    },
+    {
+        "word": "ploy",
+        "type": "oy",
+        "ipa": "plɔɪ",
+        "meaning": "mưu đồ"
+    },
+    {
+        "word": "oil",
+        "type": "oi",
+        "ipa": "ɔɪl",
+        "meaning": "dầu"
+    },
+    {
+        "word": "boil",
+        "type": "oi",
+        "ipa": "bɔɪl",
+        "meaning": "sôi lên"
+    },
+    {
+        "word": "coil",
+        "type": "oi",
+        "ipa": "kɔɪl",
+        "meaning": "xôn xao"
+    },
+    {
+        "word": "soil",
+        "type": "oi",
+        "ipa": "sɔɪl",
+        "meaning": "đất"
+    },
+    {
+        "word": "foil",
+        "type": "oi",
+        "ipa": "fɔɪl",
+        "meaning": "giấy bạc"
+    },
+    {
+        "word": "toil",
+        "type": "oi",
+        "ipa": "tɔɪl",
+        "meaning": "nhà vệ sinh"
+    },
+    {
+        "word": "broil",
+        "type": "oi",
+        "ipa": "brɔɪl",
+        "meaning": "môi giới"
+    },
+    {
+        "word": "spoil",
+        "type": "oi",
+        "ipa": "spɔːɪl",
+        "meaning": "hư hỏng"
+    },
+    {
+        "word": "coin",
+        "type": "oi",
+        "ipa": "kɔɪn",
+        "meaning": "đồng tiền"
+    },
+    {
+        "word": "loin",
+        "type": "oi",
+        "ipa": "lɔɪn",
+        "meaning": "thịt thăn"
+    },
+    {
+        "word": "join",
+        "type": "oi",
+        "ipa": "ʤɔɪn",
+        "meaning": "tham gia"
+    },
+    {
+        "word": "joint",
+        "type": "oi",
+        "ipa": "ʤɔɪnt",
+        "meaning": "chung"
+    },
+    {
+        "word": "point",
+        "type": "oi",
+        "ipa": "pɔɪnt",
+        "meaning": "điểm"
+    },
+    {
+        "word": "foist",
+        "type": "oi",
+        "ipa": "fɔɪst",
+        "meaning": "cho phép"
+    },
+    {
+        "word": "hoist",
+        "type": "oi",
+        "ipa": "hɔɪst",
+        "meaning": "vận thăng"
+    },
+    {
+        "word": "moist",
+        "type": "oi",
+        "ipa": "mɔɪst",
+        "meaning": "ẩm"
+    },
+    {
+        "word": "oink",
+        "type": "oi",
+        "ipa": "ɔɪŋk",
+        "meaning": "oink"
+    },
+    {
+        "word": "void",
+        "type": "oi",
+        "ipa": "vɔɪd",
+        "meaning": "khoảng trống"
+    },
+    {
+        "word": "sense",
+        "type": "Silent \"e\" at end",
+        "ipa": "sɛns",
+        "meaning": "giác quan"
+    },
+    {
+        "word": "tense",
+        "type": "Silent \"e\" at end",
+        "ipa": "tɛns",
+        "meaning": "bẩn quá"
+    },
+    {
+        "word": "rinse",
+        "type": "Silent \"e\" at end",
+        "ipa": "rɪns",
+        "meaning": "rửa sạch"
+    },
+    {
+        "word": "else",
+        "type": "Silent \"e\" at end",
+        "ipa": "ɛls",
+        "meaning": "khác"
+    },
+    {
+        "word": "geese",
+        "type": "Silent \"e\" at end",
+        "ipa": "giːs",
+        "meaning": "ngỗng"
+    },
+    {
+        "word": "goose",
+        "type": "Silent \"e\" at end",
+        "ipa": "guːs",
+        "meaning": "ngỗng"
+    },
+    {
+        "word": "loose",
+        "type": "Silent \"e\" at end",
+        "ipa": "luːs",
+        "meaning": "lỏng lẻo"
+    },
+    {
+        "word": "moose",
+        "type": "Silent \"e\" at end",
+        "ipa": "muːs",
+        "meaning": "nai sừng tấm"
+    },
+    {
+        "word": "noose",
+        "type": "Silent \"e\" at end",
+        "ipa": "nuːs",
+        "meaning": "thòng lọng"
+    },
+    {
+        "word": "house",
+        "type": "Silent \"e\" at end",
+        "ipa": "haʊs",
+        "meaning": "nhà ở"
+    },
+    {
+        "word": "mouse",
+        "type": "Silent \"e\" at end",
+        "ipa": "maʊs",
+        "meaning": "chuột"
+    },
+    {
+        "word": "blouse",
+        "type": "Silent \"e\" at end",
+        "ipa": "blaʊz",
+        "meaning": "áo cánh"
+    },
+    {
+        "word": "coarse",
+        "type": "Silent \"e\" at end",
+        "ipa": "kɔːs",
+        "meaning": "thô"
+    },
+    {
+        "word": "hoarse",
+        "type": "Silent \"e\" at end",
+        "ipa": "hɔːs",
+        "meaning": "khàn"
+    },
+    {
+        "word": "crease",
+        "type": "Silent \"e\" at end",
+        "ipa": "kriːs",
+        "meaning": "nếp gấp"
+    },
+    {
+        "word": "grease",
+        "type": "Silent \"e\" at end",
+        "ipa": "griːs",
+        "meaning": "dầu mỡ"
+    },
+    {
+        "word": "breeze",
+        "type": "Silent \"e\" at end",
+        "ipa": "briːz",
+        "meaning": "gió nhẹ"
+    },
+    {
+        "word": "freeze",
+        "type": "Silent \"e\" at end",
+        "ipa": "friːz",
+        "meaning": "Đông cứng"
+    },
+    {
+        "word": "sneeze",
+        "type": "Silent \"e\" at end",
+        "ipa": "sniːz",
+        "meaning": "hắt hơi"
+    },
+    {
+        "word": "squeeze",
+        "type": "Silent \"e\" at end",
+        "ipa": "skwiːz",
+        "meaning": "vắt kiệt"
+    },
+    {
+        "word": "leave",
+        "type": "Silent \"e\" at end",
+        "ipa": "liːv",
+        "meaning": "rời khỏi"
+    },
+    {
+        "word": "weave",
+        "type": "Silent \"e\" at end",
+        "ipa": "wiːv",
+        "meaning": "dệt"
+    },
+    {
+        "word": "sleeve",
+        "type": "Silent \"e\" at end",
+        "ipa": "sliːv",
+        "meaning": "Măng xông"
+    },
+    {
+        "word": "solve",
+        "type": "Silent \"e\" at end",
+        "ipa": "sɒlv",
+        "meaning": "gỡ rối"
+    },
+    {
+        "word": "twelve",
+        "type": "Silent \"e\" at end",
+        "ipa": "twɛlv",
+        "meaning": "mười hai"
+    },
+    {
+        "word": "groove",
+        "type": "Silent \"e\" at end",
+        "ipa": "gruːv",
+        "meaning": "rãnh"
+    },
+    {
+        "word": "that",
+        "type": "th = voiced",
+        "ipa": "ðæt",
+        "meaning": "cái đó"
+    },
+    {
+        "word": "than",
+        "type": "th = voiced",
+        "ipa": "ðæn",
+        "meaning": "hơn"
+    },
+    {
+        "word": "them",
+        "type": "th = voiced",
+        "ipa": "ðɛm",
+        "meaning": "họ"
+    },
+    {
+        "word": "then",
+        "type": "th = voiced",
+        "ipa": "ðɛn",
+        "meaning": "sau đó"
+    },
+    {
+        "word": "this",
+        "type": "th = voiced",
+        "ipa": "ðɪs",
+        "meaning": "điều này"
+    },
+    {
+        "word": "thus",
+        "type": "th = voiced",
+        "ipa": "ðʌs",
+        "meaning": "do đó"
+    },
+    {
+        "word": "smooth",
+        "type": "th = voiced",
+        "ipa": "smuːð",
+        "meaning": "trơn tru"
+    },
+    {
+        "word": "breathe",
+        "type": "th = voiced",
+        "ipa": "briːð",
+        "meaning": "thở"
+    },
+    {
+        "word": "as",
+        "type": "s = /z/",
+        "ipa": "æz",
+        "meaning": "như"
+    },
+    {
+        "word": "is",
+        "type": "s = /z/",
+        "ipa": "ɪz",
+        "meaning": "Là"
+    },
+    {
+        "word": "has",
+        "type": "s = /z/",
+        "ipa": "hæz",
+        "meaning": "có"
+    },
+    {
+        "word": "his",
+        "type": "s = /z/",
+        "ipa": "hɪz",
+        "meaning": "của anh ấy"
+    },
+    {
+        "word": "ease",
+        "type": "s = /z/",
+        "ipa": "iːz",
+        "meaning": "giảm bớt"
+    },
+    {
+        "word": "tease",
+        "type": "s = /z/",
+        "ipa": "tiːz",
+        "meaning": "trêu chọc"
+    },
+    {
+        "word": "please",
+        "type": "s = /z/",
+        "ipa": "pliːz",
+        "meaning": "xin vui lòng"
+    },
+    {
+        "word": "cheese",
+        "type": "s = /z/",
+        "ipa": "ʧiːz",
+        "meaning": "phô mai"
+    },
+    {
+        "word": "choose",
+        "type": "s = /z/",
+        "ipa": "ʧuːz",
+        "meaning": "chọn"
+    },
+    {
+        "word": "raise",
+        "type": "s = /z/",
+        "ipa": "reɪz",
+        "meaning": "nâng cao"
+    },
+    {
+        "word": "praise",
+        "type": "s = /z/",
+        "ipa": "preɪz",
+        "meaning": "khen ngợi"
+    },
+    {
+        "word": "cause",
+        "type": "s = /z/",
+        "ipa": "kɔːz",
+        "meaning": "nguyên nhân"
+    },
+    {
+        "word": "pause",
+        "type": "s = /z/",
+        "ipa": "pɔːz",
+        "meaning": "tạm ngừng"
+    },
+    {
+        "word": "noise",
+        "type": "s = /z/",
+        "ipa": "nɔɪz",
+        "meaning": "tiếng ồn"
+    },
+    {
+        "word": "poise",
+        "type": "s = /z/",
+        "ipa": "pɔɪz",
+        "meaning": "đĩnh đạc"
+    },
+    {
+        "word": "browse",
+        "type": "s = /z/",
+        "ipa": "braʊz",
+        "meaning": "duyệt"
+    },
+    {
+        "word": "its",
+        "type": "s = /s/ ending",
+        "ipa": "ɪts",
+        "meaning": "nó là"
+    },
+    {
+        "word": "sits",
+        "type": "s = /s/ ending",
+        "ipa": "sɪts",
+        "meaning": "ngồi"
+    },
+    {
+        "word": "fits",
+        "type": "s = /s/ ending",
+        "ipa": "fɪts",
+        "meaning": "phù hợp"
+    },
+    {
+        "word": "lots",
+        "type": "s = /s/ ending",
+        "ipa": "lɒts",
+        "meaning": "rất nhiều"
+    },
+    {
+        "word": "spots",
+        "type": "s = /s/ ending",
+        "ipa": "spɒts",
+        "meaning": "điểm"
+    },
+    {
+        "word": "gets",
+        "type": "s = /s/ ending",
+        "ipa": "gɛts",
+        "meaning": "được"
+    },
+    {
+        "word": "nuts",
+        "type": "s = /s/ ending",
+        "ipa": "nʌts",
+        "meaning": "quả hạch"
+    },
+    {
+        "word": "boots",
+        "type": "s = /s/ ending",
+        "ipa": "buːts",
+        "meaning": "giày ống"
+    },
+    {
+        "word": "roots",
+        "type": "s = /s/ ending",
+        "ipa": "ruːts",
+        "meaning": "rễ"
+    },
+    {
+        "word": "floats",
+        "type": "s = /s/ ending",
+        "ipa": "fləʊts",
+        "meaning": "phao"
+    },
+    {
+        "word": "seats",
+        "type": "s = /s/ ending",
+        "ipa": "siːts",
+        "meaning": "ghế ngồi"
+    },
+    {
+        "word": "sheets",
+        "type": "s = /s/ ending",
+        "ipa": "ʃiːts",
+        "meaning": "tờ"
+    },
+    {
+        "word": "streets",
+        "type": "s = /s/ ending",
+        "ipa": "striːts",
+        "meaning": "đường phố"
+    },
+    {
+        "word": "fists",
+        "type": "s = /s/ ending",
+        "ipa": "fɪsts",
+        "meaning": "nắm đấm"
+    },
+    {
+        "word": "lasts",
+        "type": "s = /s/ ending",
+        "ipa": "lɑːsts",
+        "meaning": "kéo dài"
+    },
+    {
+        "word": "costs",
+        "type": "s = /s/ ending",
+        "ipa": "kɒsts",
+        "meaning": "chi phí"
+    },
+    {
+        "word": "trusts",
+        "type": "s = /s/ ending",
+        "ipa": "trʌsts",
+        "meaning": "tin tưởng"
+    },
+    {
+        "word": "gifts",
+        "type": "s = /s/ ending",
+        "ipa": "gɪfts",
+        "meaning": "những món quà"
+    },
+    {
+        "word": "facts",
+        "type": "s = /s/ ending",
+        "ipa": "fækts",
+        "meaning": "sự thật"
+    },
+    {
+        "word": "pants",
+        "type": "s = /s/ ending",
+        "ipa": "pænts",
+        "meaning": "quân dai"
+    },
+    {
+        "word": "plants",
+        "type": "s = /s/ ending",
+        "ipa": "plɑːnts",
+        "meaning": "cây"
+    },
+    {
+        "word": "points",
+        "type": "s = /s/ ending",
+        "ipa": "pɔɪnts",
+        "meaning": "điểm"
+    },
+    {
+        "word": "counts",
+        "type": "s = /s/ ending",
+        "ipa": "kaʊnts",
+        "meaning": "đếm"
+    },
+    {
+        "word": "cheeks",
+        "type": "s = /s/ ending",
+        "ipa": "ʧiːks",
+        "meaning": "má"
+    },
+    {
+        "word": "weeks",
+        "type": "s = /s/ ending",
+        "ipa": "wiːks",
+        "meaning": "tuần"
+    },
+    {
+        "word": "asks",
+        "type": "s = /s/ ending",
+        "ipa": "ɑːsks",
+        "meaning": "hỏi"
+    },
+    {
+        "word": "blanks",
+        "type": "s = /s/ ending",
+        "ipa": "blæŋks",
+        "meaning": "khoảng trống"
+    },
+    {
+        "word": "thanks",
+        "type": "s = /s/ ending",
+        "ipa": "θæŋks",
+        "meaning": "cảm ơn"
+    },
+    {
+        "word": "thinks",
+        "type": "s = /s/ ending",
+        "ipa": "θɪŋks",
+        "meaning": "nghĩ"
+    },
+    {
+        "word": "cuffs",
+        "type": "s = /s/ ending",
+        "ipa": "kʌfs",
+        "meaning": "còng"
+    },
+    {
+        "word": "lips",
+        "type": "s = /s/ ending",
+        "ipa": "lɪps",
+        "meaning": "đôi môi"
+    },
+    {
+        "word": "tips",
+        "type": "s = /s/ ending",
+        "ipa": "tɪps",
+        "meaning": "lời khuyên"
+    },
+    {
+        "word": "cups",
+        "type": "s = /s/ ending",
+        "ipa": "kʌps",
+        "meaning": "cốc"
+    },
+    {
+        "word": "shops",
+        "type": "s = /s/ ending",
+        "ipa": "ʃɒps",
+        "meaning": "cửa hàng"
+    },
+    {
+        "word": "stops",
+        "type": "s = /s/ ending",
+        "ipa": "stɒps",
+        "meaning": "dừng lại"
+    },
+    {
+        "word": "crops",
+        "type": "s = /s/ ending",
+        "ipa": "krɒps",
+        "meaning": "mùa màng"
+    },
+    {
+        "word": "scraps",
+        "type": "s = /s/ ending",
+        "ipa": "skræps",
+        "meaning": "phế liệu"
+    },
+    {
+        "word": "helps",
+        "type": "s = /s/ ending",
+        "ipa": "hɛlps",
+        "meaning": "giúp"
+    },
+    {
+        "word": "bumps",
+        "type": "s = /s/ ending",
+        "ipa": "bʌmps",
+        "meaning": "va chạm"
+    },
+    {
+        "word": "clumps",
+        "type": "s = /s/ ending",
+        "ipa": "klʌmps",
+        "meaning": "khóm"
+    },
+    {
+        "word": "lamps",
+        "type": "s = /s/ ending",
+        "ipa": "læmps",
+        "meaning": "đèn"
+    },
+    {
+        "word": "keeps",
+        "type": "s = /s/ ending",
+        "ipa": "kiːps",
+        "meaning": "giữ"
+    },
+    {
+        "word": "sweeps",
+        "type": "s = /s/ ending",
+        "ipa": "swiːps",
+        "meaning": "quét"
+    },
+    {
+        "word": "troops",
+        "type": "s = /s/ ending",
+        "ipa": "truːps",
+        "meaning": "quân đội"
+    },
+    {
+        "word": "socks",
+        "type": "s = /s/ ending",
+        "ipa": "sɒks",
+        "meaning": "vớ"
+    },
+    {
+        "word": "rocks",
+        "type": "s = /s/ ending",
+        "ipa": "rɒks",
+        "meaning": "đá"
+    },
+    {
+        "word": "blocks",
+        "type": "s = /s/ ending",
+        "ipa": "blɒks",
+        "meaning": "khối"
+    },
+    {
+        "word": "backs",
+        "type": "s = /s/ ending",
+        "ipa": "bæks",
+        "meaning": "lưng"
+    },
+    {
+        "word": "tracks",
+        "type": "s = /s/ ending",
+        "ipa": "træks",
+        "meaning": "bài hát"
+    },
+    {
+        "word": "slacks",
+        "type": "s = /s/ ending",
+        "ipa": "slæks",
+        "meaning": "quần lót"
+    },
+    {
+        "word": "stacks",
+        "type": "s = /s/ ending",
+        "ipa": "stæks",
+        "meaning": "ngăn xếp"
+    },
+    {
+        "word": "checks",
+        "type": "s = /s/ ending",
+        "ipa": "ʧɛks",
+        "meaning": "Séc"
+    },
+    {
+        "word": "picks",
+        "type": "s = /s/ ending",
+        "ipa": "pɪks",
+        "meaning": "chọn"
+    },
+    {
+        "word": "sticks",
+        "type": "s = /s/ ending",
+        "ipa": "stɪks",
+        "meaning": "gậy"
+    },
+    {
+        "word": "bricks",
+        "type": "s = /s/ ending",
+        "ipa": "brɪks",
+        "meaning": "gạch"
+    },
+    {
+        "word": "tricks",
+        "type": "s = /s/ ending",
+        "ipa": "trɪks",
+        "meaning": "thủ thuật"
+    },
+    {
+        "word": "ribs",
+        "type": "s = /z/ ending",
+        "ipa": "rɪbz",
+        "meaning": "xương sườn"
+    },
+    {
+        "word": "kids",
+        "type": "s = /z/ ending",
+        "ipa": "kɪdz",
+        "meaning": "trẻ em"
+    },
+    {
+        "word": "reads",
+        "type": "s = /z/ ending",
+        "ipa": "riːdz",
+        "meaning": "đọc"
+    },
+    {
+        "word": "hands",
+        "type": "s = /z/ ending",
+        "ipa": "hændz",
+        "meaning": "tay"
+    },
+    {
+        "word": "stands",
+        "type": "s = /z/ ending",
+        "ipa": "stændz",
+        "meaning": "khán đài"
+    },
+    {
+        "word": "needs",
+        "type": "s = /z/ ending",
+        "ipa": "niːdz",
+        "meaning": "nhu cầu"
+    },
+    {
+        "word": "seeds",
+        "type": "s = /z/ ending",
+        "ipa": "siːdz",
+        "meaning": "hạt giống"
+    },
+    {
+        "word": "weeds",
+        "type": "s = /z/ ending",
+        "ipa": "wiːdz",
+        "meaning": "cỏ dại"
+    },
+    {
+        "word": "pounds",
+        "type": "s = /z/ ending",
+        "ipa": "paʊndz",
+        "meaning": "bảng"
+    },
+    {
+        "word": "sounds",
+        "type": "s = /z/ ending",
+        "ipa": "saʊndz",
+        "meaning": "âm thanh"
+    },
+    {
+        "word": "clouds",
+        "type": "s = /z/ ending",
+        "ipa": "klaʊdz",
+        "meaning": "những đám mây"
+    },
+    {
+        "word": "bags",
+        "type": "s = /z/ ending",
+        "ipa": "bægz",
+        "meaning": "túi"
+    },
+    {
+        "word": "wags",
+        "type": "s = /z/ ending",
+        "ipa": "wægz",
+        "meaning": "wags"
+    },
+    {
+        "word": "eggs",
+        "type": "s = /z/ ending",
+        "ipa": "ɛgz",
+        "meaning": "trứng"
+    },
+    {
+        "word": "legs",
+        "type": "s = /z/ ending",
+        "ipa": "lɛgz",
+        "meaning": "chân"
+    },
+    {
+        "word": "songs",
+        "type": "s = /z/ ending",
+        "ipa": "sɒŋz",
+        "meaning": "bài hát"
+    },
+    {
+        "word": "sings",
+        "type": "s = /z/ ending",
+        "ipa": "sɪŋz",
+        "meaning": "hát"
+    },
+    {
+        "word": "wings",
+        "type": "s = /z/ ending",
+        "ipa": "wɪŋz",
+        "meaning": "cánh"
+    },
+    {
+        "word": "things",
+        "type": "s = /z/ ending",
+        "ipa": "θɪŋz",
+        "meaning": "nhiều thứ"
+    },
+    {
+        "word": "ours",
+        "type": "s = /z/ ending",
+        "ipa": "ˈaʊəz",
+        "meaning": "của chúng tôi"
+    },
+    {
+        "word": "goals",
+        "type": "s = /z/ ending",
+        "ipa": "gəʊlz",
+        "meaning": "bàn thắng"
+    },
+    {
+        "word": "tools",
+        "type": "s = /z/ ending",
+        "ipa": "tuːlz",
+        "meaning": "công cụ"
+    },
+    {
+        "word": "nails",
+        "type": "s = /z/ ending",
+        "ipa": "neɪlz",
+        "meaning": "móng tay"
+    },
+    {
+        "word": "feels",
+        "type": "s = /z/ ending",
+        "ipa": "fiːlz",
+        "meaning": "cảm thấy"
+    },
+    {
+        "word": "wheels",
+        "type": "s = /z/ ending",
+        "ipa": "wiːlz",
+        "meaning": "bánh xe"
+    },
+    {
+        "word": "meals",
+        "type": "s = /z/ ending",
+        "ipa": "miːlz",
+        "meaning": "bữa ăn"
+    },
+    {
+        "word": "hills",
+        "type": "s = /z/ ending",
+        "ipa": "hɪlz",
+        "meaning": "đồi"
+    },
+    {
+        "word": "pills",
+        "type": "s = /z/ ending",
+        "ipa": "pɪlz",
+        "meaning": "thuốc"
+    },
+    {
+        "word": "smells",
+        "type": "s = /z/ ending",
+        "ipa": "smɛlz",
+        "meaning": "có mùi"
+    },
+    {
+        "word": "seems",
+        "type": "s = /z/ ending",
+        "ipa": "siːmz",
+        "meaning": "dường như"
+    },
+    {
+        "word": "dreams",
+        "type": "s = /z/ ending",
+        "ipa": "driːmz",
+        "meaning": "những giấc mơ"
+    },
+    {
+        "word": "plans",
+        "type": "s = /z/ ending",
+        "ipa": "plænz",
+        "meaning": "các kế hoạch"
+    },
+    {
+        "word": "twins",
+        "type": "s = /z/ ending",
+        "ipa": "twɪnz",
+        "meaning": "anh em sinh đôi"
+    },
+    {
+        "word": "means",
+        "type": "s = /z/ ending",
+        "ipa": "miːnz",
+        "meaning": "có nghĩa"
+    },
+    {
+        "word": "jeans",
+        "type": "s = /z/ ending",
+        "ipa": "ʤiːnz",
+        "meaning": "Quần jean"
+    },
+    {
+        "word": "cleans",
+        "type": "s = /z/ ending",
+        "ipa": "kliːnz",
+        "meaning": "làm sạch"
+    },
+    {
+        "word": "rains",
+        "type": "s = /z/ ending",
+        "ipa": "reɪnz",
+        "meaning": "mưa"
+    },
+    {
+        "word": "towns",
+        "type": "s = /z/ ending",
+        "ipa": "taʊnz",
+        "meaning": "thị trấn"
+    },
+    {
+        "word": "ears",
+        "type": "s = /z/ ending",
+        "ipa": "ɪəz",
+        "meaning": "đôi tai"
+    },
+    {
+        "word": "years",
+        "type": "s = /z/ ending",
+        "ipa": "jɪəz",
+        "meaning": "năm"
+    },
+    {
+        "word": "fears",
+        "type": "s = /z/ ending",
+        "ipa": "fɪəz",
+        "meaning": "sợ hãi"
+    },
+    {
+        "word": "cheers",
+        "type": "s = /z/ ending",
+        "ipa": "ʧɪəz",
+        "meaning": "chúc mừng"
+    },
+    {
+        "word": "stairs",
+        "type": "s = /z/ ending",
+        "ipa": "steəz",
+        "meaning": "cầu thang"
+    },
+    {
+        "word": "laws",
+        "type": "s = /z/ ending",
+        "ipa": "lɔːz",
+        "meaning": "luật pháp"
+    },
+    {
+        "word": "paws",
+        "type": "s = /z/ ending",
+        "ipa": "pɔːz",
+        "meaning": "bàn chân"
+    },
+    {
+        "word": "claws",
+        "type": "s = /z/ ending",
+        "ipa": "klɔːz",
+        "meaning": "móng vuốt"
+    },
+    {
+        "word": "days",
+        "type": "s = /z/ ending",
+        "ipa": "deɪz",
+        "meaning": "ngày"
+    },
+    {
+        "word": "ways",
+        "type": "s = /z/ ending",
+        "ipa": "weɪz",
+        "meaning": "cách"
+    },
+    {
+        "word": "boys",
+        "type": "s = /z/ ending",
+        "ipa": "bɔɪz",
+        "meaning": "những cậu bé"
+    },
+    {
+        "word": "toys",
+        "type": "s = /z/ ending",
+        "ipa": "tɔɪz",
+        "meaning": "đồ chơi"
+    },
+    {
+        "word": "peas",
+        "type": "s = /z/ ending",
+        "ipa": "piːz",
+        "meaning": "đậu Hà Lan"
+    },
+    {
+        "word": "trees",
+        "type": "s = /z/ ending",
+        "ipa": "triːz",
+        "meaning": "cây"
+    },
+    {
+        "word": "comes",
+        "type": "s = /z/ ending",
+        "ipa": "kʌmz",
+        "meaning": "đến"
+    },
+    {
+        "word": "gives",
+        "type": "s = /z/ ending",
+        "ipa": "gɪvz",
+        "meaning": "cho"
+    },
+    {
+        "word": "lives",
+        "type": "s = /z/ ending",
+        "ipa": "lɪvz",
+        "meaning": "cuộc sống"
+    },
+    {
+        "word": "leaves",
+        "type": "s = /z/ ending",
+        "ipa": "liːvz",
+        "meaning": "lá"
+    },
+    {
+        "word": "sleeves",
+        "type": "s = /z/ ending",
+        "ipa": "sliːvz",
+        "meaning": "tay áo"
+    },
+    {
+        "word": "misses",
+        "type": "es ending",
+        "ipa": "ˈmɪsɪz",
+        "meaning": "nhớ"
+    },
+    {
+        "word": "passes",
+        "type": "es ending",
+        "ipa": "ˈpɑːsɪz",
+        "meaning": "vượt qua"
+    },
+    {
+        "word": "classes",
+        "type": "es ending",
+        "ipa": "ˈklɑːsɪz",
+        "meaning": "các lớp học"
+    },
+    {
+        "word": "glasses",
+        "type": "es ending",
+        "ipa": "ˈglɑːsɪz",
+        "meaning": "kính"
+    },
+    {
+        "word": "dresses",
+        "type": "es ending",
+        "ipa": "ˈdrɛsɪz",
+        "meaning": "váy đầm"
+    },
+    {
+        "word": "buses",
+        "type": "es ending",
+        "ipa": "ˈbʌsɪz",
+        "meaning": "xe buýt"
+    },
+    {
+        "word": "fixes",
+        "type": "es ending",
+        "ipa": "ˈfɪksɪz",
+        "meaning": "sửa lỗi"
+    },
+    {
+        "word": "boxes",
+        "type": "es ending",
+        "ipa": "ˈbɒksɪz",
+        "meaning": "hộp"
+    },
+    {
+        "word": "taxes",
+        "type": "es ending",
+        "ipa": "ˈtæksɪz",
+        "meaning": "thuế"
+    },
+    {
+        "word": "brushes",
+        "type": "es ending",
+        "ipa": "ˈbrʌʃɪz",
+        "meaning": "bút vẽ"
+    },
+    {
+        "word": "ashes",
+        "type": "es ending",
+        "ipa": "ˈæʃɪz",
+        "meaning": "tro tàn"
+    },
+    {
+        "word": "crashes",
+        "type": "es ending",
+        "ipa": "ˈkræʃɪz",
+        "meaning": "tai nạn"
+    },
+    {
+        "word": "dishes",
+        "type": "es ending",
+        "ipa": "ˈdɪʃɪz",
+        "meaning": "chén đĩa"
+    },
+    {
+        "word": "wishes",
+        "type": "es ending",
+        "ipa": "ˈwɪʃɪz",
+        "meaning": "mong muốn"
+    },
+    {
+        "word": "inches",
+        "type": "es ending",
+        "ipa": "ˈɪnʧɪz",
+        "meaning": "inch"
+    },
+    {
+        "word": "branches",
+        "type": "es ending",
+        "ipa": "ˈbrɑːnʧɪz",
+        "meaning": "chi nhánh"
+    },
+    {
+        "word": "peaches",
+        "type": "es ending",
+        "ipa": "ˈpiːʧɪz",
+        "meaning": "trái đào"
+    },
+    {
+        "word": "reaches",
+        "type": "es ending",
+        "ipa": "ˈriːʧɪz",
+        "meaning": "đạt"
+    },
+    {
+        "word": "teaches",
+        "type": "es ending",
+        "ipa": "ˈtiːʧɪz",
+        "meaning": "dạy"
+    },
+    {
+        "word": "coaches",
+        "type": "es ending",
+        "ipa": "ˈkəʊʧɪz",
+        "meaning": "xe khách"
+    },
+    {
+        "word": "launches",
+        "type": "es ending",
+        "ipa": "ˈlɔːnʧɪz",
+        "meaning": "ra mắt"
+    },
+    {
+        "word": "itches",
+        "type": "es ending",
+        "ipa": "ˈɪʧɪz",
+        "meaning": "ngứa"
+    },
+    {
+        "word": "pitches",
+        "type": "es ending",
+        "ipa": "ˈpɪʧɪz",
+        "meaning": "sân"
+    },
+    {
+        "word": "stitches",
+        "type": "es ending",
+        "ipa": "ˈstɪʧɪz",
+        "meaning": "khâu"
+    },
+    {
+        "word": "matches",
+        "type": "es ending",
+        "ipa": "ˈmæʧɪz",
+        "meaning": "diêm"
+    },
+    {
+        "word": "patches",
+        "type": "es ending",
+        "ipa": "ˈpæʧɪz",
+        "meaning": "bản vá lỗi"
+    },
+    {
+        "word": "stretches",
+        "type": "es ending",
+        "ipa": "ˈstrɛʧɪz",
+        "meaning": "trải dài"
+    },
+    {
+        "word": "crutches",
+        "type": "es ending",
+        "ipa": "ˈkrʌʧɪz",
+        "meaning": "nạng"
+    },
+    {
+        "word": "needed",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈniːdɪd",
+        "meaning": "cần thiết"
+    },
+    {
+        "word": "crowded",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈkraʊdɪd",
+        "meaning": "Đông người"
+    },
+    {
+        "word": "loaded",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈləʊdɪd",
+        "meaning": "nạp vào"
+    },
+    {
+        "word": "boarded",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈbɔːdɪd",
+        "meaning": "lên máy bay"
+    },
+    {
+        "word": "landed",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈlændɪd",
+        "meaning": "hạ cánh"
+    },
+    {
+        "word": "handed",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈhændɪd",
+        "meaning": "trao tay"
+    },
+    {
+        "word": "stranded",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈstrændɪd",
+        "meaning": "mắc kẹt"
+    },
+    {
+        "word": "ended",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈɛndɪd",
+        "meaning": "đã kết thúc"
+    },
+    {
+        "word": "pounded",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈpaʊndɪd",
+        "meaning": "giã nát"
+    },
+    {
+        "word": "sounded",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈsaʊndɪd",
+        "meaning": "nghe có vẻ"
+    },
+    {
+        "word": "acted",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈæktɪd",
+        "meaning": "đã hành động"
+    },
+    {
+        "word": "lifted",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈlɪftɪd",
+        "meaning": "nâng lên"
+    },
+    {
+        "word": "melted",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈmɛltɪd",
+        "meaning": "tan chảy"
+    },
+    {
+        "word": "waited",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈweɪtɪd",
+        "meaning": "chờ đợi"
+    },
+    {
+        "word": "heated",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈhiːtɪd",
+        "meaning": "đun nóng"
+    },
+    {
+        "word": "floated",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈfləʊtɪd",
+        "meaning": "thả nổi"
+    },
+    {
+        "word": "rested",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈrɛstɪd",
+        "meaning": "nghỉ ngơi"
+    },
+    {
+        "word": "tested",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈtɛstɪd",
+        "meaning": "thử nghiệm"
+    },
+    {
+        "word": "roasted",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈrəʊstɪd",
+        "meaning": "rang"
+    },
+    {
+        "word": "toasted",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈtəʊstɪd",
+        "meaning": "nướng"
+    },
+    {
+        "word": "trusted",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈtrʌstɪd",
+        "meaning": "đáng tin cậy"
+    },
+    {
+        "word": "rented",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈrɛntɪd",
+        "meaning": "đã thuê"
+    },
+    {
+        "word": "hunted",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈhʌntɪd",
+        "meaning": "săn bắn"
+    },
+    {
+        "word": "counted",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈkaʊntɪd",
+        "meaning": "tính"
+    },
+    {
+        "word": "haunted",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈhɔːntɪd",
+        "meaning": "ma ám"
+    },
+    {
+        "word": "pointed",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈpɔɪntɪd",
+        "meaning": "nhọn"
+    },
+    {
+        "word": "printed",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈprɪntɪd",
+        "meaning": "in"
+    },
+    {
+        "word": "planted",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈplɑːntɪd",
+        "meaning": "trồng"
+    },
+    {
+        "word": "painted",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈpeɪntɪd",
+        "meaning": "Sơn"
+    },
+    {
+        "word": "fainted",
+        "type": "ed = /ed/ ending",
+        "ipa": "ˈfeɪntɪd",
+        "meaning": "ngất đi"
+    },
+    {
+        "word": "filled",
+        "type": "ed = /d/ ending",
+        "ipa": "fɪld",
+        "meaning": "đầy"
+    },
+    {
+        "word": "spilled",
+        "type": "ed = /d/ ending",
+        "ipa": "spɪld",
+        "meaning": "tràn"
+    },
+    {
+        "word": "yelled",
+        "type": "ed = /d/ ending",
+        "ipa": "jɛld",
+        "meaning": "hét lên"
+    },
+    {
+        "word": "smelled",
+        "type": "ed = /d/ ending",
+        "ipa": "smɛld",
+        "meaning": "ngửi"
+    },
+    {
+        "word": "cooled",
+        "type": "ed = /d/ ending",
+        "ipa": "kuːld",
+        "meaning": "làm mát"
+    },
+    {
+        "word": "fooled",
+        "type": "ed = /d/ ending",
+        "ipa": "fuːld",
+        "meaning": "bị lừa"
+    },
+    {
+        "word": "mailed",
+        "type": "ed = /d/ ending",
+        "ipa": "meɪld",
+        "meaning": "gửi qua đường bưu điện"
+    },
+    {
+        "word": "sailed",
+        "type": "ed = /d/ ending",
+        "ipa": "seɪld",
+        "meaning": "đi thuyền"
+    },
+    {
+        "word": "boiled",
+        "type": "ed = /d/ ending",
+        "ipa": "bɔɪld",
+        "meaning": "luộc"
+    },
+    {
+        "word": "spoiled",
+        "type": "ed = /d/ ending",
+        "ipa": "spɔːɪld",
+        "meaning": "hư hỏng"
+    },
+    {
+        "word": "howled",
+        "type": "ed = /d/ ending",
+        "ipa": "haʊld",
+        "meaning": "hú"
+    },
+    {
+        "word": "growled",
+        "type": "ed = /d/ ending",
+        "ipa": "graʊld",
+        "meaning": "gầm gừ"
+    },
+    {
+        "word": "crawled",
+        "type": "ed = /d/ ending",
+        "ipa": "krɔːld",
+        "meaning": "bò"
+    },
+    {
+        "word": "soared",
+        "type": "ed = /d/ ending",
+        "ipa": "sɔːd",
+        "meaning": "tăng vọt"
+    },
+    {
+        "word": "cheered",
+        "type": "ed = /d/ ending",
+        "ipa": "ʧɪəd",
+        "meaning": "cổ vũ"
+    },
+    {
+        "word": "steered",
+        "type": "ed = /d/ ending",
+        "ipa": "stɪəd",
+        "meaning": "chỉ đạo"
+    },
+    {
+        "word": "aimed",
+        "type": "ed = /d/ ending",
+        "ipa": "eɪmd",
+        "meaning": "nhằm vào"
+    },
+    {
+        "word": "claimed",
+        "type": "ed = /d/ ending",
+        "ipa": "kleɪmd",
+        "meaning": "yêu cầu bồi thường"
+    },
+    {
+        "word": "seemed",
+        "type": "ed = /d/ ending",
+        "ipa": "siːmd",
+        "meaning": "dường như"
+    },
+    {
+        "word": "dreamed",
+        "type": "ed = /d/ ending",
+        "ipa": "driːmd",
+        "meaning": "mơ ước"
+    },
+    {
+        "word": "rained",
+        "type": "ed = /d/ ending",
+        "ipa": "reɪnd",
+        "meaning": "mưa"
+    },
+    {
+        "word": "sprained",
+        "type": "ed = /d/ ending",
+        "ipa": "spreɪnd",
+        "meaning": "bong gân"
+    },
+    {
+        "word": "moaned",
+        "type": "ed = /d/ ending",
+        "ipa": "məʊnd",
+        "meaning": "rên rỉ"
+    },
+    {
+        "word": "groaned",
+        "type": "ed = /d/ ending",
+        "ipa": "grəʊnd",
+        "meaning": "rên rỉ"
+    },
+    {
+        "word": "loaned",
+        "type": "ed = /d/ ending",
+        "ipa": "ləʊnd",
+        "meaning": "mượn"
+    },
+    {
+        "word": "cleaned",
+        "type": "ed = /d/ ending",
+        "ipa": "kliːnd",
+        "meaning": "làm sạch"
+    },
+    {
+        "word": "yawned",
+        "type": "ed = /d/ ending",
+        "ipa": "jɔːnd",
+        "meaning": "ngáp"
+    },
+    {
+        "word": "frowned",
+        "type": "ed = /d/ ending",
+        "ipa": "fraʊnd",
+        "meaning": "nhíu mày"
+    },
+    {
+        "word": "stayed",
+        "type": "ed = /d/ ending",
+        "ipa": "steɪd",
+        "meaning": "đã ở lại"
+    },
+    {
+        "word": "played",
+        "type": "ed = /d/ ending",
+        "ipa": "pleɪd",
+        "meaning": "chơi"
+    },
+    {
+        "word": "asked",
+        "type": "ed = /t/ ending",
+        "ipa": "ɑːskt",
+        "meaning": "yêu cầu"
+    },
+    {
+        "word": "soaked",
+        "type": "ed = /t/ ending",
+        "ipa": "səʊkt",
+        "meaning": "ướt sũng"
+    },
+    {
+        "word": "packed",
+        "type": "ed = /t/ ending",
+        "ipa": "pækt",
+        "meaning": "đóng gói"
+    },
+    {
+        "word": "cracked",
+        "type": "ed = /t/ ending",
+        "ipa": "krækt",
+        "meaning": "nứt"
+    },
+    {
+        "word": "picked",
+        "type": "ed = /t/ ending",
+        "ipa": "pɪkt",
+        "meaning": "chọn"
+    },
+    {
+        "word": "tricked",
+        "type": "ed = /t/ ending",
+        "ipa": "trɪkt",
+        "meaning": "bị lừa"
+    },
+    {
+        "word": "locked",
+        "type": "ed = /t/ ending",
+        "ipa": "lɒkt",
+        "meaning": "bị khóa"
+    },
+    {
+        "word": "thanked",
+        "type": "ed = /t/ ending",
+        "ipa": "θæŋkt",
+        "meaning": "cảm ơn"
+    },
+    {
+        "word": "winked",
+        "type": "ed = /t/ ending",
+        "ipa": "wɪŋkt",
+        "meaning": "nháy mắt"
+    },
+    {
+        "word": "blinked",
+        "type": "ed = /t/ ending",
+        "ipa": "blɪŋkt",
+        "meaning": "chớp mắt"
+    },
+    {
+        "word": "jumped",
+        "type": "ed = /t/ ending",
+        "ipa": "ʤʌmpt",
+        "meaning": "nhảy"
+    },
+    {
+        "word": "camped",
+        "type": "ed = /t/ ending",
+        "ipa": "kæmpt",
+        "meaning": "cắm trại"
+    },
+    {
+        "word": "helped",
+        "type": "ed = /t/ ending",
+        "ipa": "hɛlpt",
+        "meaning": "đã giúp"
+    },
+    {
+        "word": "fixed",
+        "type": "ed = /t/ ending",
+        "ipa": "fɪkst",
+        "meaning": "đã sửa"
+    },
+    {
+        "word": "tossed",
+        "type": "ed = /t/ ending",
+        "ipa": "tɒst",
+        "meaning": "quăng"
+    },
+    {
+        "word": "crossed",
+        "type": "ed = /t/ ending",
+        "ipa": "krɒst",
+        "meaning": "vượt qua"
+    },
+    {
+        "word": "missed",
+        "type": "ed = /t/ ending",
+        "ipa": "mɪst",
+        "meaning": "bỏ lỡ"
+    },
+    {
+        "word": "passed",
+        "type": "ed = /t/ ending",
+        "ipa": "pɑːst",
+        "meaning": "thông qua"
+    },
+    {
+        "word": "dressed",
+        "type": "ed = /t/ ending",
+        "ipa": "drɛst",
+        "meaning": "mặc quần áo"
+    },
+    {
+        "word": "sniffed",
+        "type": "ed = /t/ ending",
+        "ipa": "snɪft",
+        "meaning": "đánh hơi"
+    },
+    {
+        "word": "reached",
+        "type": "ed = /t/ ending",
+        "ipa": "riːʧt",
+        "meaning": "đạt"
+    },
+    {
+        "word": "coached",
+        "type": "ed = /t/ ending",
+        "ipa": "kəʊʧt",
+        "meaning": "huấn luyện"
+    },
+    {
+        "word": "matched",
+        "type": "ed = /t/ ending",
+        "ipa": "mæʧt",
+        "meaning": "phù hợp"
+    },
+    {
+        "word": "pitched",
+        "type": "ed = /t/ ending",
+        "ipa": "pɪʧt",
+        "meaning": "ném"
+    },
+    {
+        "word": "stretched",
+        "type": "ed = /t/ ending",
+        "ipa": "strɛʧt",
+        "meaning": "kéo dài"
+    },
+    {
+        "word": "brushed",
+        "type": "ed = /t/ ending",
+        "ipa": "brʌʃt",
+        "meaning": "đã chải"
+    },
+    {
+        "word": "wished",
+        "type": "ed = /t/ ending",
+        "ipa": "wɪʃt",
+        "meaning": "chúc"
+    },
+    {
+        "word": "fished",
+        "type": "ed = /t/ ending",
+        "ipa": "fɪʃt",
+        "meaning": "đánh cá"
+    },
+    {
+        "word": "crashed",
+        "type": "ed = /t/ ending",
+        "ipa": "kræʃt",
+        "meaning": "bị rơi"
+    },
+    {
+        "word": "splashed",
+        "type": "ed = /t/ ending",
+        "ipa": "splæʃt",
+        "meaning": "văng"
+    },
+    {
+        "word": "nodded",
+        "type": "Double cons. + ed ending",
+        "ipa": "ˈnɒdɪd",
+        "meaning": "gật đầu"
+    },
+    {
+        "word": "skidded",
+        "type": "Double cons. + ed ending",
+        "ipa": "ˈskɪdɪd",
+        "meaning": "bỏ qua"
+    },
+    {
+        "word": "chatted",
+        "type": "Double cons. + ed ending",
+        "ipa": "ˈʧætɪd",
+        "meaning": "tán gẫu"
+    },
+    {
+        "word": "dotted",
+        "type": "Double cons. + ed ending",
+        "ipa": "ˈdɒtɪd",
+        "meaning": "say mê"
+    },
+    {
+        "word": "spotted",
+        "type": "Double cons. + ed ending",
+        "ipa": "ˈspɒtɪd",
+        "meaning": "phát hiện"
+    },
+    {
+        "word": "trotted",
+        "type": "Double cons. + ed ending",
+        "ipa": "ˈtrɒtɪd",
+        "meaning": "chạy nước rút"
+    },
+    {
+        "word": "tagged",
+        "type": "Double cons. + ed ending",
+        "ipa": "tægd",
+        "meaning": "được gắn thẻ"
+    },
+    {
+        "word": "wagged",
+        "type": "Double cons. + ed ending",
+        "ipa": "wægd",
+        "meaning": "vẫy"
+    },
+    {
+        "word": "begged",
+        "type": "Double cons. + ed ending",
+        "ipa": "bɛgd",
+        "meaning": "năn nỉ"
+    },
+    {
+        "word": "jogged",
+        "type": "Double cons. + ed ending",
+        "ipa": "ʤɒgd",
+        "meaning": "chạy bộ"
+    },
+    {
+        "word": "hugged",
+        "type": "Double cons. + ed ending",
+        "ipa": "hʌgd",
+        "meaning": "ôm"
+    },
+    {
+        "word": "bugged",
+        "type": "Double cons. + ed ending",
+        "ipa": "bʌgd",
+        "meaning": "nghe lén"
+    },
+    {
+        "word": "shrugged",
+        "type": "Double cons. + ed ending",
+        "ipa": "ʃrʌgd",
+        "meaning": "nhún vai"
+    },
+    {
+        "word": "hummed",
+        "type": "Double cons. + ed ending",
+        "ipa": "hʌmd",
+        "meaning": "ngân nga"
+    },
+    {
+        "word": "grinned",
+        "type": "Double cons. + ed ending",
+        "ipa": "grɪnd",
+        "meaning": "cười toe toét"
+    },
+    {
+        "word": "planned",
+        "type": "Double cons. + ed ending",
+        "ipa": "plænd",
+        "meaning": "đã lên kế hoạch"
+    },
+    {
+        "word": "rubbed",
+        "type": "Double cons. + ed ending",
+        "ipa": "rʌbd",
+        "meaning": "cọ xát"
+    },
+    {
+        "word": "grabbed",
+        "type": "Double cons. + ed ending",
+        "ipa": "græbd",
+        "meaning": "nắm lấy"
+    },
+    {
+        "word": "slipped",
+        "type": "Double cons. + ed ending",
+        "ipa": "slɪpt",
+        "meaning": "trượt"
+    },
+    {
+        "word": "skipped",
+        "type": "Double cons. + ed ending",
+        "ipa": "skɪpt",
+        "meaning": "bỏ qua"
+    },
+    {
+        "word": "shipped",
+        "type": "Double cons. + ed ending",
+        "ipa": "ʃɪpt",
+        "meaning": "vận chuyển"
+    },
+    {
+        "word": "trapped",
+        "type": "Double cons. + ed ending",
+        "ipa": "træpt",
+        "meaning": "bị mắc kẹt"
+    },
+    {
+        "word": "clapped",
+        "type": "Double cons. + ed ending",
+        "ipa": "klæpt",
+        "meaning": "vỗ tay"
+    },
+    {
+        "word": "flapped",
+        "type": "Double cons. + ed ending",
+        "ipa": "flæpt",
+        "meaning": "vỗ"
+    },
+    {
+        "word": "popped",
+        "type": "Double cons. + ed ending",
+        "ipa": "pɒpt",
+        "meaning": "xuất hiện"
+    },
+    {
+        "word": "hopped",
+        "type": "Double cons. + ed ending",
+        "ipa": "hɒpt",
+        "meaning": "nhảy"
+    },
+    {
+        "word": "stopped",
+        "type": "Double cons. + ed ending",
+        "ipa": "stɒpt",
+        "meaning": "dừng lại"
+    },
+    {
+        "word": "shopped",
+        "type": "Double cons. + ed ending",
+        "ipa": "ʃɒpt",
+        "meaning": "mua sắm"
+    },
+    {
+        "word": "dropped",
+        "type": "Double cons. + ed ending",
+        "ipa": "drɒpt",
+        "meaning": "giảm"
+    },
+    {
+        "word": "chopped",
+        "type": "Double cons. + ed ending",
+        "ipa": "ʧɒpt",
+        "meaning": "băm nhỏ"
+    },
+    {
+        "word": "being",
+        "type": "ing ending",
+        "ipa": "ˈbiːɪŋ",
+        "meaning": "được"
+    },
+    {
+        "word": "going",
+        "type": "ing ending",
+        "ipa": "ˈgəʊɪŋ",
+        "meaning": "đang đi"
+    },
+    {
+        "word": "doing",
+        "type": "ing ending",
+        "ipa": "ˈdu(ː)ɪŋ",
+        "meaning": "đang làm"
+    },
+    {
+        "word": "acting",
+        "type": "ing ending",
+        "ipa": "ˈæktɪŋ",
+        "meaning": "diễn xuất"
+    },
+    {
+        "word": "resting",
+        "type": "ing ending",
+        "ipa": "ˈrɛstɪŋ",
+        "meaning": "nghỉ ngơi"
+    },
+    {
+        "word": "meeting",
+        "type": "ing ending",
+        "ipa": "ˈmiːtɪŋ",
+        "meaning": "gặp gỡ"
+    },
+    {
+        "word": "painting",
+        "type": "ing ending",
+        "ipa": "ˈpeɪntɪŋ",
+        "meaning": "bức vẽ"
+    },
+    {
+        "word": "pointing",
+        "type": "ing ending",
+        "ipa": "ˈpɔɪntɪŋ",
+        "meaning": "Chỉ trỏ"
+    },
+    {
+        "word": "counting",
+        "type": "ing ending",
+        "ipa": "ˈkaʊntɪŋ",
+        "meaning": "đếm"
+    },
+    {
+        "word": "fixing",
+        "type": "ing ending",
+        "ipa": "ˈfɪksɪŋ",
+        "meaning": "sửa chữa"
+    },
+    {
+        "word": "ending",
+        "type": "ing ending",
+        "ipa": "ˈɛndɪŋ",
+        "meaning": "kết thúc"
+    },
+    {
+        "word": "sending",
+        "type": "ing ending",
+        "ipa": "ˈsɛndɪŋ",
+        "meaning": "gửi"
+    },
+    {
+        "word": "landing",
+        "type": "ing ending",
+        "ipa": "ˈlændɪŋ",
+        "meaning": "đổ bộ"
+    },
+    {
+        "word": "standing",
+        "type": "ing ending",
+        "ipa": "ˈstændɪŋ",
+        "meaning": "đứng"
+    },
+    {
+        "word": "needing",
+        "type": "ing ending",
+        "ipa": "ˈniːdɪŋ",
+        "meaning": "cần"
+    },
+    {
+        "word": "speeding",
+        "type": "ing ending",
+        "ipa": "ˈspiːdɪŋ",
+        "meaning": "sự chạy mau"
+    },
+    {
+        "word": "reading",
+        "type": "ing ending",
+        "ipa": "ˈriːdɪŋ",
+        "meaning": "đọc hiểu"
+    },
+    {
+        "word": "playing",
+        "type": "ing ending",
+        "ipa": "ˈpleɪɪŋ",
+        "meaning": "đang chơi"
+    },
+    {
+        "word": "saying",
+        "type": "ing ending",
+        "ipa": "ˈseɪɪŋ",
+        "meaning": "nói"
+    },
+    {
+        "word": "staying",
+        "type": "ing ending",
+        "ipa": "ˈsteɪɪŋ",
+        "meaning": "ở lại"
+    },
+    {
+        "word": "keeping",
+        "type": "ing ending",
+        "ipa": "ˈkiːpɪŋ",
+        "meaning": "duy trì"
+    },
+    {
+        "word": "sleeping",
+        "type": "ing ending",
+        "ipa": "ˈsliːpɪŋ",
+        "meaning": "ngủ"
+    },
+    {
+        "word": "helping",
+        "type": "ing ending",
+        "ipa": "ˈhɛlpɪŋ",
+        "meaning": "giúp đỡ"
+    },
+    {
+        "word": "camping",
+        "type": "ing ending",
+        "ipa": "ˈkæmpɪŋ",
+        "meaning": "cắm trại"
+    },
+    {
+        "word": "teaching",
+        "type": "ing ending",
+        "ipa": "ˈtiːʧɪŋ",
+        "meaning": "giảng bài"
+    },
+    {
+        "word": "matching",
+        "type": "ing ending",
+        "ipa": "ˈmæʧɪŋ",
+        "meaning": "phù hợp"
+    },
+    {
+        "word": "asking",
+        "type": "ing ending",
+        "ipa": "ˈɑːskɪŋ",
+        "meaning": "hỏi"
+    },
+    {
+        "word": "thinking",
+        "type": "ing ending",
+        "ipa": "ˈθɪŋkɪŋ",
+        "meaning": "Suy nghĩ"
+    },
+    {
+        "word": "singing",
+        "type": "ing ending",
+        "ipa": "ˈsɪŋɪŋ",
+        "meaning": "ca hát"
+    },
+    {
+        "word": "hanging",
+        "type": "ing ending",
+        "ipa": "ˈhæŋɪŋ",
+        "meaning": "treo"
+    },
+    {
+        "word": "raining",
+        "type": "ing ending",
+        "ipa": "ˈreɪnɪŋ",
+        "meaning": "mưa"
+    },
+    {
+        "word": "cleaning",
+        "type": "ing ending",
+        "ipa": "ˈkliːnɪŋ",
+        "meaning": "làm sạch"
+    },
+    {
+        "word": "feeling",
+        "type": "ing ending",
+        "ipa": "ˈfiːlɪŋ",
+        "meaning": "cảm giác"
+    },
+    {
+        "word": "spelling",
+        "type": "ing ending",
+        "ipa": "ˈspɛlɪŋ",
+        "meaning": "chính tả"
+    },
+    {
+        "word": "fishing",
+        "type": "ing ending",
+        "ipa": "ˈfɪʃɪŋ",
+        "meaning": "đánh bắt cá"
+    },
+    {
+        "word": "stopping",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈstɒpɪŋ",
+        "meaning": "dừng lại"
+    },
+    {
+        "word": "shopping",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈʃɒpɪŋ",
+        "meaning": "mua sắm"
+    },
+    {
+        "word": "chopping",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈʧɒpɪŋ",
+        "meaning": "băm nhỏ"
+    },
+    {
+        "word": "clapping",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈklæpɪŋ",
+        "meaning": "vỗ tay"
+    },
+    {
+        "word": "skipping",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈskɪpɪŋ",
+        "meaning": "bỏ qua"
+    },
+    {
+        "word": "shipping",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈʃɪpɪŋ",
+        "meaning": "Đang chuyển hàng"
+    },
+    {
+        "word": "dripping",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈdrɪpɪŋ",
+        "meaning": "nhỏ giọt"
+    },
+    {
+        "word": "rubbing",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈrʌbɪŋ",
+        "meaning": "cọ xát"
+    },
+    {
+        "word": "whizzing",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈwɪzɪŋ",
+        "meaning": "rít"
+    },
+    {
+        "word": "planning",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈplænɪŋ",
+        "meaning": "lập kế hoạch"
+    },
+    {
+        "word": "winning",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈwɪnɪŋ",
+        "meaning": "chiến thắng"
+    },
+    {
+        "word": "spinning",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈspɪnɪŋ",
+        "meaning": "quay"
+    },
+    {
+        "word": "grinning",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈgrɪnɪŋ",
+        "meaning": "cười toe toét"
+    },
+    {
+        "word": "running",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈrʌnɪŋ",
+        "meaning": "đang chạy"
+    },
+    {
+        "word": "wagging",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈwægɪŋ",
+        "meaning": "vẫy"
+    },
+    {
+        "word": "bragging",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈbrægɪŋ",
+        "meaning": "khoe khoang"
+    },
+    {
+        "word": "digging",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈdɪgɪŋ",
+        "meaning": "đào"
+    },
+    {
+        "word": "begging",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈbɛgɪŋ",
+        "meaning": "cầu xin"
+    },
+    {
+        "word": "letting",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈlɛtɪŋ",
+        "meaning": "để"
+    },
+    {
+        "word": "getting",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈgɛtɪŋ",
+        "meaning": "nhận được"
+    },
+    {
+        "word": "sitting",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈsɪtɪŋ",
+        "meaning": "ngồi"
+    },
+    {
+        "word": "quitting",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈkwɪtɪŋ",
+        "meaning": "bỏ cuộc"
+    },
+    {
+        "word": "batting",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈbætɪŋ",
+        "meaning": "đánh bóng"
+    },
+    {
+        "word": "cutting",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈkʌtɪŋ",
+        "meaning": "cắt"
+    },
+    {
+        "word": "padding",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈpædɪŋ",
+        "meaning": "đệm"
+    },
+    {
+        "word": "skidding",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈskɪdɪŋ",
+        "meaning": "trượt"
+    },
+    {
+        "word": "humming",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈhʌmɪŋ",
+        "meaning": "ngân nga"
+    },
+    {
+        "word": "swimming",
+        "type": "Double cons. + ing ending",
+        "ipa": "ˈswɪmɪŋ",
+        "meaning": "bơi lội"
+    },
+    {
+        "word": "cupful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈkʌpfʊl",
+        "meaning": "chén"
+    },
+    {
+        "word": "handful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈhændfʊl",
+        "meaning": "một nắm đầy tay"
+    },
+    {
+        "word": "helpful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈhɛlpfʊl",
+        "meaning": "Hữu ích"
+    },
+    {
+        "word": "thankful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈθæŋkfʊl",
+        "meaning": "biết ơn"
+    },
+    {
+        "word": "joyful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈʤɔɪfʊl",
+        "meaning": "hân hoan"
+    },
+    {
+        "word": "playful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈpleɪfʊl",
+        "meaning": "vui tươi"
+    },
+    {
+        "word": "gleeful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈgliːfʊl",
+        "meaning": "vui vẻ"
+    },
+    {
+        "word": "cheerful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈʧɪəfʊl",
+        "meaning": "vui lòng"
+    },
+    {
+        "word": "fearful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈfɪəfʊl",
+        "meaning": "sợ hãi"
+    },
+    {
+        "word": "tearful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈtɪəfʊl",
+        "meaning": "nước mắt"
+    },
+    {
+        "word": "skillful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈskɪlf(ə)l",
+        "meaning": "khéo léo"
+    },
+    {
+        "word": "stressful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈstrɛsf(ə)l",
+        "meaning": "căng thẳng"
+    },
+    {
+        "word": "bashful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈbæʃfʊl",
+        "meaning": "rụt rè"
+    },
+    {
+        "word": "lawful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈlɔːfʊl",
+        "meaning": "hợp pháp"
+    },
+    {
+        "word": "painful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈpeɪnfʊl",
+        "meaning": "đau đớn"
+    },
+    {
+        "word": "faithful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈfeɪθfʊl",
+        "meaning": "Trung thành"
+    },
+    {
+        "word": "mouthful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈmaʊθfʊl",
+        "meaning": "lắm mồm"
+    },
+    {
+        "word": "spoonful",
+        "type": "\"ful\" ending",
+        "ipa": "ˈspuːnfʊl",
+        "meaning": "thìa"
+    },
+    {
+        "word": "it's",
+        "type": "’ (apostrophe)",
+        "ipa": "ɪts",
+        "meaning": "nó là"
+    },
+    {
+        "word": "he's",
+        "type": "’ (apostrophe)",
+        "ipa": "hiːz",
+        "meaning": "anh ấy là"
+    },
+    {
+        "word": "she's",
+        "type": "’ (apostrophe)",
+        "ipa": "ʃiːz",
+        "meaning": "cô ấy"
+    },
+    {
+        "word": "let's",
+        "type": "’ (apostrophe)",
+        "ipa": "lɛts",
+        "meaning": "hãy"
+    },
+    {
+        "word": "that's",
+        "type": "’ (apostrophe)",
+        "ipa": "ðæts",
+        "meaning": "đó là"
+    },
+    {
+        "word": "who's",
+        "type": "’ (apostrophe)",
+        "ipa": "huːz",
+        "meaning": "ai"
+    },
+    {
+        "word": "what's",
+        "type": "’ (apostrophe)",
+        "ipa": "wɒts",
+        "meaning": "cái gì"
+    },
+    {
+        "word": "I'd",
+        "type": "’ (apostrophe)",
+        "ipa": "aɪd",
+        "meaning": "Tôi"
+    },
+    {
+        "word": "you'd",
+        "type": "’ (apostrophe)",
+        "ipa": "juːd",
+        "meaning": "bạn"
+    },
+    {
+        "word": "he'd",
+        "type": "’ (apostrophe)",
+        "ipa": "hiːd",
+        "meaning": "anh ấy"
+    },
+    {
+        "word": "she'd",
+        "type": "’ (apostrophe)",
+        "ipa": "ʃiːd",
+        "meaning": "cô ấy"
+    },
+    {
+        "word": "we'd",
+        "type": "’ (apostrophe)",
+        "ipa": "wiːd",
+        "meaning": "Thứ Tư"
+    },
+    {
+        "word": "I'm",
+        "type": "’ (apostrophe)",
+        "ipa": "aɪm",
+        "meaning": "Tôi là"
+    },
+    {
+        "word": "I'll",
+        "type": "’ (apostrophe)",
+        "ipa": "aɪl",
+        "meaning": "tôi sẽ"
+    },
+    {
+        "word": "he'll",
+        "type": "’ (apostrophe)",
+        "ipa": "hiːl",
+        "meaning": "Địa ngục"
+    },
+    {
+        "word": "she'll",
+        "type": "’ (apostrophe)",
+        "ipa": "ʃiːl",
+        "meaning": "cô ấy sẽ"
+    },
+    {
+        "word": "we'll",
+        "type": "’ (apostrophe)",
+        "ipa": "wiːl",
+        "meaning": "tốt"
+    },
+    {
+        "word": "you'll",
+        "type": "’ (apostrophe)",
+        "ipa": "juːl",
+        "meaning": "bạn sẽ"
+    },
+    {
+        "word": "they'll",
+        "type": "’ (apostrophe)",
+        "ipa": "ðeɪl",
+        "meaning": "họ sẽ"
+    },
+    {
+        "word": "I've",
+        "type": "’ (apostrophe)",
+        "ipa": "aɪv",
+        "meaning": "tôi có"
+    },
+    {
+        "word": "we've",
+        "type": "’ (apostrophe)",
+        "ipa": "wiːv",
+        "meaning": "chúng tôi"
+    },
+    {
+        "word": "you've",
+        "type": "’ (apostrophe)",
+        "ipa": "juːv",
+        "meaning": "bạn"
+    },
+    {
+        "word": "we're",
+        "type": "’ (apostrophe)",
+        "ipa": "wɪə",
+        "meaning": "là"
+    },
+    {
+        "word": "you're",
+        "type": "’ (apostrophe)",
+        "ipa": "jʊə",
+        "meaning": "bạn"
+    },
+    {
+        "word": "they're",
+        "type": "’ (apostrophe)",
+        "ipa": "ðeə",
+        "meaning": "họ"
+    },
+    {
+        "word": "didn't",
+        "type": "n’t",
+        "ipa": "dɪdnt",
+        "meaning": "đã không"
+    },
+    {
+        "word": "hadn't",
+        "type": "n’t",
+        "ipa": "ˈhædnt",
+        "meaning": "đã không"
+    },
+    {
+        "word": "isn't",
+        "type": "n’t",
+        "ipa": "ˈɪznt",
+        "meaning": "không phải"
+    },
+    {
+        "word": "hasn't",
+        "type": "n’t",
+        "ipa": "ˈhæznt",
+        "meaning": "chưa"
+    },
+    {
+        "word": "haven't",
+        "type": "n’t",
+        "ipa": "hævnt",
+        "meaning": "chưa"
+    },
+    {
+        "word": "wouldn't",
+        "type": "n’t",
+        "ipa": "ˈwʊdnt",
+        "meaning": "sẽ không"
+    },
+    {
+        "word": "couldn't",
+        "type": "n’t",
+        "ipa": "ˈkʊdnt",
+        "meaning": "không thể"
+    },
+    {
+        "word": "shouldn't",
+        "type": "n’t",
+        "ipa": "ʃʊdnt",
+        "meaning": "không nên"
+    },
+    {
+        "word": "aren't",
+        "type": "n’t",
+        "ipa": "ɑːnt",
+        "meaning": "không"
+    },
+    {
+        "word": "weren't",
+        "type": "n’t",
+        "ipa": "wɜːnt",
+        "meaning": "không"
+    },
+    {
+        "word": "wasn't",
+        "type": "n’t",
+        "ipa": "wɒznt",
+        "meaning": "không phải"
+    },
+    {
+        "word": "doesn't",
+        "type": "n’t",
+        "ipa": "dʌznt",
+        "meaning": "không"
+    },
+    {
+        "word": "mailbox",
+        "type": "Compound Words",
+        "ipa": "ˈmeɪlbɒks",
+        "meaning": "hộp thư"
+    },
+    {
+        "word": "classroom",
+        "type": "Compound Words",
+        "ipa": "ˈklɑːsrʊm",
+        "meaning": "lớp học"
+    },
+    {
+        "word": "bedroom",
+        "type": "Compound Words",
+        "ipa": "ˈbɛdru(ː)m",
+        "meaning": "phòng ngủ"
+    },
+    {
+        "word": "bathroom",
+        "type": "Compound Words",
+        "ipa": "ˈbɑːθru(ː)m",
+        "meaning": "phòng tắm"
+    },
+    {
+        "word": "playground",
+        "type": "Compound Words",
+        "ipa": "ˈpleɪgraʊnd",
+        "meaning": "sân chơi"
+    },
+    {
+        "word": "background",
+        "type": "Compound Words",
+        "ipa": "ˈbækgraʊnd",
+        "meaning": "lý lịch"
+    },
+    {
+        "word": "himself",
+        "type": "Compound Words",
+        "ipa": "hɪmˈsɛlf",
+        "meaning": "bản thân anh ấy"
+    },
+    {
+        "word": "herself",
+        "type": "Compound Words",
+        "ipa": "hɜːˈsɛlf",
+        "meaning": "chính cô ấy"
+    },
+    {
+        "word": "cannot",
+        "type": "Compound Words",
+        "ipa": "ˈkænɒt",
+        "meaning": "không thể"
+    },
+    {
+        "word": "without",
+        "type": "Compound Words",
+        "ipa": "wɪˈðaʊt",
+        "meaning": "không có"
+    },
+    {
+        "word": "upon",
+        "type": "Compound Words",
+        "ipa": "əˈpɒn",
+        "meaning": "trên"
+    },
+    {
+        "word": "outfit",
+        "type": "Compound Words",
+        "ipa": "ˈaʊtfɪt",
+        "meaning": "trang phục"
+    },
+    {
+        "word": "upstairs",
+        "type": "Compound Words",
+        "ipa": "ˌʌpˈsteəz",
+        "meaning": "tầng trên"
+    },
+    {
+        "word": "downstairs",
+        "type": "Compound Words",
+        "ipa": "ˌdaʊnˈsteəz",
+        "meaning": "tầng dưới"
+    },
+    {
+        "word": "sailboat",
+        "type": "Compound Words",
+        "ipa": "ˈseɪlbəʊt",
+        "meaning": "thuyền buồm"
+    },
+    {
+        "word": "seashell",
+        "type": "Compound Words",
+        "ipa": "ˈsiːˌʃɛl",
+        "meaning": "vỏ sò"
+    },
+    {
+        "word": "teaspoon",
+        "type": "Compound Words",
+        "ipa": "ˈtiːˌspuːn",
+        "meaning": "muỗng cà phê"
+    },
+    {
+        "word": "toothbrush",
+        "type": "Compound Words",
+        "ipa": "ˈtuːθbrʌʃ",
+        "meaning": "Bàn chải đánh răng"
+    },
+    {
+        "word": "sunset",
+        "type": "Compound Words",
+        "ipa": "ˈsʌnsɛt",
+        "meaning": "Hoàng hôn"
+    },
+    {
+        "word": "weekend",
+        "type": "Compound Words",
+        "ipa": "ˈwiːkˈɛnd",
+        "meaning": "ngày cuối tuần"
+    },
+    {
+        "word": "cowboy",
+        "type": "Compound Words",
+        "ipa": "ˈkaʊbɔɪ",
+        "meaning": "cao bồi"
+    },
+    {
+        "word": "railroad",
+        "type": "Compound Words",
+        "ipa": "ˈreɪlrəʊd",
+        "meaning": "đường sắt"
+    },
+    {
+        "word": "peanut",
+        "type": "Compound Words",
+        "ipa": "ˈpiːnʌt",
+        "meaning": "đậu phụng"
+    },
+    {
+        "word": "oatmeal",
+        "type": "Compound Words",
+        "ipa": "ˈəʊtmiːl",
+        "meaning": "cháo bột yến mạch"
+    },
+    {
+        "word": "handbag",
+        "type": "Compound Words",
+        "ipa": "ˈhændbæg",
+        "meaning": "túi xách tay"
+    },
+    {
+        "word": "seven",
+        "type": "Multisyllable",
+        "ipa": "ˈsɛvn",
+        "meaning": "bảy"
+    },
+    {
+        "word": "given",
+        "type": "Multisyllable",
+        "ipa": "ˈgɪvn",
+        "meaning": "được"
+    },
+    {
+        "word": "chicken",
+        "type": "Multisyllable",
+        "ipa": "ˈʧɪkɪn",
+        "meaning": "thịt gà"
+    },
+    {
+        "word": "kitchen",
+        "type": "Multisyllable",
+        "ipa": "ˈkɪʧɪn",
+        "meaning": "phòng bếp"
+    },
+    {
+        "word": "children",
+        "type": "Multisyllable",
+        "ipa": "ˈʧɪldrən",
+        "meaning": "bọn trẻ"
+    },
+    {
+        "word": "kitten",
+        "type": "Multisyllable",
+        "ipa": "ˈkɪtn",
+        "meaning": "mèo con"
+    },
+    {
+        "word": "sudden",
+        "type": "Multisyllable",
+        "ipa": "ˈsʌdn",
+        "meaning": "đột nhiên"
+    },
+    {
+        "word": "happen",
+        "type": "Multisyllable",
+        "ipa": "ˈhæpən",
+        "meaning": "xảy ra"
+    },
+    {
+        "word": "closet",
+        "type": "Multisyllable",
+        "ipa": "ˈklɒzɪt",
+        "meaning": "tủ quần áo"
+    },
+    {
+        "word": "planet",
+        "type": "Multisyllable",
+        "ipa": "ˈplænɪt",
+        "meaning": "hành tinh"
+    },
+    {
+        "word": "jacket",
+        "type": "Multisyllable",
+        "ipa": "ˈʤækɪt",
+        "meaning": "Áo khoác"
+    },
+    {
+        "word": "ticket",
+        "type": "Multisyllable",
+        "ipa": "ˈtɪkɪt",
+        "meaning": "vé"
+    },
+    {
+        "word": "pocket",
+        "type": "Multisyllable",
+        "ipa": "ˈpɒkɪt",
+        "meaning": "túi"
+    },
+    {
+        "word": "rocket",
+        "type": "Multisyllable",
+        "ipa": "ˈrɒkɪt",
+        "meaning": "tên lửa"
+    },
+    {
+        "word": "blanket",
+        "type": "Multisyllable",
+        "ipa": "ˈblæŋkɪt",
+        "meaning": "cái mền"
+    },
+    {
+        "word": "basket",
+        "type": "Multisyllable",
+        "ipa": "ˈbɑːskɪt",
+        "meaning": "cái rổ"
+    },
+    {
+        "word": "helmet",
+        "type": "Multisyllable",
+        "ipa": "ˈhɛlmɪt",
+        "meaning": "mũ sắt của lính"
+    },
+    {
+        "word": "address",
+        "type": "Multisyllable",
+        "ipa": "əˈdrɛs",
+        "meaning": "Địa chỉ"
+    },
+    {
+        "word": "progress",
+        "type": "Multisyllable",
+        "ipa": "ˈprəʊgrəs",
+        "meaning": "phát triển"
+    },
+    {
+        "word": "helpless",
+        "type": "Multisyllable",
+        "ipa": "ˈhɛlplɪs",
+        "meaning": "bất lực"
+    },
+    {
+        "word": "unless",
+        "type": "Multisyllable",
+        "ipa": "ənˈlɛs",
+        "meaning": "trừ khi"
+    },
+    {
+        "word": "finish",
+        "type": "Multisyllable",
+        "ipa": "ˈfɪnɪʃ",
+        "meaning": "hoàn thành"
+    },
+    {
+        "word": "punish",
+        "type": "Multisyllable",
+        "ipa": "ˈpʌnɪʃ",
+        "meaning": "trừng phạt"
+    },
+    {
+        "word": "polish",
+        "type": "Multisyllable",
+        "ipa": "ˈpɒlɪʃ",
+        "meaning": "đánh bóng"
+    },
+    {
+        "word": "foolish",
+        "type": "Multisyllable",
+        "ipa": "ˈfuːlɪʃ",
+        "meaning": "khờ dại"
+    },
+    {
+        "word": "publish",
+        "type": "Multisyllable",
+        "ipa": "ˈpʌblɪʃ",
+        "meaning": "công bố"
+    },
+    {
+        "word": "selfish",
+        "type": "Multisyllable",
+        "ipa": "ˈsɛlfɪʃ",
+        "meaning": "ích kỷ"
+    },
+    {
+        "word": "comic",
+        "type": "Multisyllable",
+        "ipa": "ˈkɒmɪk",
+        "meaning": "hài hước"
+    },
+    {
+        "word": "picnic",
+        "type": "Multisyllable",
+        "ipa": "ˈpɪknɪk",
+        "meaning": "đi chơi picnic"
+    },
+    {
+        "word": "public",
+        "type": "Multisyllable",
+        "ipa": "ˈpʌblɪk",
+        "meaning": "công cộng"
+    },
+    {
+        "word": "fabric",
+        "type": "Multisyllable",
+        "ipa": "ˈfæbrɪk",
+        "meaning": "sợi vải"
+    },
+    {
+        "word": "plastic",
+        "type": "Multisyllable",
+        "ipa": "ˈplæstɪk",
+        "meaning": "nhựa"
+    },
+    {
+        "word": "traffic",
+        "type": "Multisyllable",
+        "ipa": "ˈtræfɪk",
+        "meaning": "giao thông"
+    },
+    {
+        "word": "cabin",
+        "type": "Multisyllable",
+        "ipa": "ˈkæbɪn",
+        "meaning": "cabin"
+    },
+    {
+        "word": "robin",
+        "type": "Multisyllable",
+        "ipa": "ˈrɒbɪn",
+        "meaning": "cướp"
+    },
+    {
+        "word": "napkin",
+        "type": "Multisyllable",
+        "ipa": "ˈnæpkɪn",
+        "meaning": "khăn ăn"
+    },
+    {
+        "word": "pumpkin",
+        "type": "Multisyllable",
+        "ipa": "ˈpʌmpkɪn",
+        "meaning": "quả bí ngô"
+    },
+    {
+        "word": "habit",
+        "type": "Multisyllable",
+        "ipa": "ˈhæbɪt",
+        "meaning": "thói quen"
+    },
+    {
+        "word": "rabbit",
+        "type": "Multisyllable",
+        "ipa": "ˈræbɪt",
+        "meaning": "Con thỏ"
+    },
+    {
+        "word": "visit",
+        "type": "Multisyllable",
+        "ipa": "ˈvɪzɪt",
+        "meaning": "chuyến thăm"
+    },
+    {
+        "word": "exit",
+        "type": "Multisyllable",
+        "ipa": "ˈɛksɪt",
+        "meaning": "lối ra"
+    },
+    {
+        "word": "limit",
+        "type": "Multisyllable",
+        "ipa": "ˈlɪmɪt",
+        "meaning": "giới hạn"
+    },
+    {
+        "word": "admit",
+        "type": "Multisyllable",
+        "ipa": "ədˈmɪt",
+        "meaning": "thừa nhận"
+    },
+    {
+        "word": "rapid",
+        "type": "Multisyllable",
+        "ipa": "ˈræpɪd",
+        "meaning": "nhanh"
+    },
+    {
+        "word": "solid",
+        "type": "Multisyllable",
+        "ipa": "ˈsɒlɪd",
+        "meaning": "chất rắn"
+    },
+    {
+        "word": "liquid",
+        "type": "Multisyllable",
+        "ipa": "ˈlɪkwɪd",
+        "meaning": "chất lỏng"
+    },
+    {
+        "word": "contest",
+        "type": "Multisyllable",
+        "ipa": "ˈkɒntɛst",
+        "meaning": "Cuộc thi"
+    },
+    {
+        "word": "dentist",
+        "type": "Multisyllable",
+        "ipa": "ˈdɛntɪst",
+        "meaning": "bác sĩ nha khoa"
+    },
+    {
+        "word": "august",
+        "type": "Multisyllable",
+        "ipa": "ˈɔːgəst",
+        "meaning": "tháng Tám"
+    },
+    {
+        "word": "active",
+        "type": "Multisyllable",
+        "ipa": "ˈæktɪv",
+        "meaning": "hoạt động"
+    },
+    {
+        "word": "promise",
+        "type": "Multisyllable",
+        "ipa": "ˈprɒmɪs",
+        "meaning": "lời hứa"
+    },
+    {
+        "word": "nonsense",
+        "type": "Multisyllable",
+        "ipa": "ˈnɒnsəns",
+        "meaning": "vô lý"
+    },
+    {
+        "word": "conduct",
+        "type": "Multisyllable",
+        "ipa": "ˈkɒndʌkt",
+        "meaning": "hạnh kiểm"
+    },
+    {
+        "word": "product",
+        "type": "Multisyllable",
+        "ipa": "ˈprɒdʌkt",
+        "meaning": "sản phẩm"
+    },
+    {
+        "word": "contact",
+        "type": "Multisyllable",
+        "ipa": "ˈkɒntækt",
+        "meaning": "tiếp xúc"
+    },
+    {
+        "word": "contract",
+        "type": "Multisyllable",
+        "ipa": "ˈkɒntrækt",
+        "meaning": "hợp đồng"
+    },
+    {
+        "word": "subject",
+        "type": "Multisyllable",
+        "ipa": "ˈsʌbʤɪkt",
+        "meaning": "môn học"
+    },
+    {
+        "word": "object",
+        "type": "Multisyllable",
+        "ipa": "ˈɒbʤɪkt",
+        "meaning": "vật"
+    },
+    {
+        "word": "insect",
+        "type": "Multisyllable",
+        "ipa": "ˈɪnsɛkt",
+        "meaning": "côn trùng"
+    },
+    {
+        "word": "parent",
+        "type": "Multisyllable",
+        "ipa": "ˈpeərənt",
+        "meaning": "cha mẹ"
+    },
+    {
+        "word": "comment",
+        "type": "Multisyllable",
+        "ipa": "ˈkɒmɛnt",
+        "meaning": "bình luận"
+    },
+    {
+        "word": "payment",
+        "type": "Multisyllable",
+        "ipa": "ˈpeɪmənt",
+        "meaning": "thanh toán"
+    },
+    {
+        "word": "absent",
+        "type": "Multisyllable",
+        "ipa": "ˈæbsənt",
+        "meaning": "vắng mặt"
+    },
+    {
+        "word": "present",
+        "type": "Multisyllable",
+        "ipa": "ˈprɛznt",
+        "meaning": "hiện tại"
+    },
+    {
+        "word": "sunday",
+        "type": "Multisyllable",
+        "ipa": "ˈsʌndeɪ",
+        "meaning": "chủ nhật"
+    },
+    {
+        "word": "sandwich",
+        "type": "Multisyllable",
+        "ipa": "ˈsænwɪʤ",
+        "meaning": "bánh mì sandwich"
+    },
+    {
+        "word": "coffee",
+        "type": "Multisyllable",
+        "ipa": "ˈkɒfi",
+        "meaning": "cà phê"
+    },
+    {
+        "word": "crayon",
+        "type": "Multisyllable",
+        "ipa": "ˈkreɪən",
+        "meaning": "bút sáp màu"
+    },
+    {
+        "word": "hundred",
+        "type": "Multisyllable",
+        "ipa": "ˈhʌndrəd",
+        "meaning": "trăm"
+    },
+    {
+        "word": "compound",
+        "type": "Multisyllable",
+        "ipa": "ˈkɒmpaʊnd",
+        "meaning": "hợp chất"
+    },
+    {
+        "word": "awful",
+        "type": "Multisyllable",
+        "ipa": "ˈɔːfʊl",
+        "meaning": "kinh khủng"
+    },
+    {
+        "word": "insult",
+        "type": "Multisyllable",
+        "ipa": "ˈɪnsʌlt",
+        "meaning": "xúc phạm"
+    },
+    {
+        "word": "discuss",
+        "type": "Multisyllable",
+        "ipa": "dɪsˈkʌs",
+        "meaning": "bàn luận"
+    },
+    {
+        "word": "display",
+        "type": "Multisyllable",
+        "ipa": "dɪsˈpleɪ",
+        "meaning": "trưng bày"
+    },
+    {
+        "word": "disgust",
+        "type": "Multisyllable",
+        "ipa": "dɪsˈgʌst",
+        "meaning": "ghê tởm"
+    },
+    {
+        "word": "adjust",
+        "type": "Multisyllable",
+        "ipa": "əˈʤʌst",
+        "meaning": "điều chỉnh"
+    },
+    {
+        "word": "insist",
+        "type": "Multisyllable",
+        "ipa": "ɪnˈsɪst",
+        "meaning": "năn nỉ"
+    },
+    {
+        "word": "appear",
+        "type": "Multisyllable",
+        "ipa": "əˈpɪə",
+        "meaning": "xuất hiện"
+    },
+    {
+        "word": "allow",
+        "type": "Multisyllable",
+        "ipa": "əˈlaʊ",
+        "meaning": "cho phép"
+    },
+    {
+        "word": "annoy",
+        "type": "Multisyllable",
+        "ipa": "əˈnɔɪ",
+        "meaning": "làm phiền"
+    },
+    {
+        "word": "attack",
+        "type": "Multisyllable",
+        "ipa": "əˈtæk",
+        "meaning": "tấn công"
+    },
+    {
+        "word": "attempt",
+        "type": "Multisyllable",
+        "ipa": "əˈtɛmpt",
+        "meaning": "cố gắng"
+    },
+    {
+        "word": "until",
+        "type": "Multisyllable",
+        "ipa": "ənˈtɪl",
+        "meaning": "cho đến khi"
+    },
+    {
+        "word": "subtract",
+        "type": "Multisyllable",
+        "ipa": "səbˈtrækt",
+        "meaning": "trừ"
+    },
+    {
+        "word": "collect",
+        "type": "Multisyllable",
+        "ipa": "kəˈlɛkt",
+        "meaning": "sưu tầm"
+    },
+    {
+        "word": "connect",
+        "type": "Multisyllable",
+        "ipa": "kəˈnɛkt",
+        "meaning": "kết nối"
+    },
+    {
+        "word": "contain",
+        "type": "Multisyllable",
+        "ipa": "kənˈteɪn",
+        "meaning": "Lưu trữ"
+    },
+    {
+        "word": "complain",
+        "type": "Multisyllable",
+        "ipa": "kəmˈpleɪn",
+        "meaning": "than phiền"
+    },
+    {
+        "word": "consent",
+        "type": "Multisyllable",
+        "ipa": "kənˈsɛnt",
+        "meaning": "bằng lòng"
+    },
+    {
+        "word": "command",
+        "type": "Multisyllable",
+        "ipa": "kəˈmɑːnd",
+        "meaning": "chỉ huy"
+    },
+    {
+        "word": "expect",
+        "type": "Multisyllable",
+        "ipa": "ɪksˈpɛkt",
+        "meaning": "chờ đợi"
+    },
+    {
+        "word": "explain",
+        "type": "Multisyllable",
+        "ipa": "ɪksˈpleɪn",
+        "meaning": "giải thích"
+    },
+    {
+        "word": "increase",
+        "type": "Multisyllable",
+        "ipa": "ˈɪnkriːs",
+        "meaning": "tăng"
+    },
+    {
+        "word": "indeed",
+        "type": "Multisyllable",
+        "ipa": "ɪnˈdiːd",
+        "meaning": "thật"
+    },
+    {
+        "word": "intend",
+        "type": "Multisyllable",
+        "ipa": "ɪnˈtɛnd",
+        "meaning": "có ý định"
+    },
+    {
+        "word": "invent",
+        "type": "Multisyllable",
+        "ipa": "ɪnˈvɛnt",
+        "meaning": "phát minh"
+    },
+    {
+        "word": "employ",
+        "type": "Multisyllable",
+        "ipa": "ɪmˈplɔɪ",
+        "meaning": "thuê"
+    },
+    {
+        "word": "enjoy",
+        "type": "Multisyllable",
+        "ipa": "ɪnˈʤɔɪ",
+        "meaning": "thưởng thức"
+    },
+    {
+        "word": "balloon",
+        "type": "Multisyllable",
+        "ipa": "bəˈluːn",
+        "meaning": "quả bóng bay"
+    },
+    {
+        "word": "reason",
+        "type": "Multisyllable",
+        "ipa": "ˈriːzn",
+        "meaning": "lý do"
+    },
+    {
+        "word": "season",
+        "type": "Multisyllable",
+        "ipa": "ˈsiːzn",
+        "meaning": "Mùa"
+    },
+    {
+        "word": "common",
+        "type": "Multisyllable",
+        "ipa": "ˈkɒmən",
+        "meaning": "chung"
+    },
+    {
+        "word": "cotton",
+        "type": "Multisyllable",
+        "ipa": "ˈkɒtn",
+        "meaning": "bông"
+    },
+    {
+        "word": "gallon",
+        "type": "Multisyllable",
+        "ipa": "ˈgælən",
+        "meaning": "gallon"
+    },
+    {
+        "word": "lesson",
+        "type": "Multisyllable",
+        "ipa": "ˈlɛsn",
+        "meaning": "bài học"
+    },
+    {
+        "word": "ribbon",
+        "type": "Multisyllable",
+        "ipa": "ˈrɪbən",
+        "meaning": "ruy-băng"
+    },
+    {
+        "word": "lemon",
+        "type": "Multisyllable",
+        "ipa": "ˈlɛmən",
+        "meaning": "Chanh"
+    },
+    {
+        "word": "wagon",
+        "type": "Multisyllable",
+        "ipa": "ˈwægən",
+        "meaning": "toa xe"
+    },
+    {
+        "word": "bottom",
+        "type": "Multisyllable",
+        "ipa": "ˈbɒtəm",
+        "meaning": "dưới cùng"
+    },
+    {
+        "word": "kingdom",
+        "type": "Multisyllable",
+        "ipa": "ˈkɪŋdəm",
+        "meaning": "Vương quốc"
+    },
+    {
+        "word": "freedom",
+        "type": "Multisyllable",
+        "ipa": "ˈfriːdəm",
+        "meaning": "sự tự do"
+    },
+    {
+        "word": "problem",
+        "type": "Multisyllable",
+        "ipa": "ˈprɒbləm",
+        "meaning": "vấn đề"
+    },
+    {
+        "word": "gallop",
+        "type": "Multisyllable",
+        "ipa": "ˈgæləp",
+        "meaning": "phi nước đại"
+    },
+    {
+        "word": "method",
+        "type": "Multisyllable",
+        "ipa": "ˈmɛθəd",
+        "meaning": "phương pháp"
+    },
+    {
+        "word": "travel",
+        "type": "Multisyllable",
+        "ipa": "ˈtrævl",
+        "meaning": "du lịch"
+    },
+    {
+        "word": "level",
+        "type": "Multisyllable",
+        "ipa": "ˈlɛvl",
+        "meaning": "cấp độ"
+    },
+    {
+        "word": "novel",
+        "type": "Multisyllable",
+        "ipa": "ˈnɒvəl",
+        "meaning": "cuốn tiểu thuyết"
+    },
+    {
+        "word": "model",
+        "type": "Multisyllable",
+        "ipa": "ˈmɒdl",
+        "meaning": "mô hình"
+    },
+    {
+        "word": "nickel",
+        "type": "Multisyllable",
+        "ipa": "ˈnɪkl",
+        "meaning": "niken"
+    },
+    {
+        "word": "tunnel",
+        "type": "Multisyllable",
+        "ipa": "ˈtʌnl",
+        "meaning": "đường hầm"
+    },
+    {
+        "word": "barrel",
+        "type": "Multisyllable",
+        "ipa": "ˈbærəl",
+        "meaning": "thùng"
+    },
+    {
+        "word": "towel",
+        "type": "Multisyllable",
+        "ipa": "ˈtaʊəl",
+        "meaning": "khăn tắm"
+    },
+    {
+        "word": "vowel",
+        "type": "Multisyllable",
+        "ipa": "ˈvaʊəl",
+        "meaning": "nguyên âm"
+    },
+    {
+        "word": "holiday",
+        "type": "Multisyllable",
+        "ipa": "ˈhɒlədeɪ",
+        "meaning": "ngày lễ"
+    },
+    {
+        "word": "difficult",
+        "type": "Multisyllable",
+        "ipa": "ˈdɪfɪkəlt",
+        "meaning": "khó khăn"
+    },
+    {
+        "word": "fantastic",
+        "type": "Multisyllable",
+        "ipa": "fænˈtæstɪk",
+        "meaning": "tuyệt diệu"
+    },
+    {
+        "word": "represent",
+        "type": "Multisyllable",
+        "ipa": "ˌrɛprɪˈzɛnt",
+        "meaning": "đại diện"
+    },
+    {
+        "word": "president",
+        "type": "Multisyllable",
+        "ipa": "ˈprɛzɪdənt",
+        "meaning": "chủ tịch"
+    },
+    {
+        "word": "continent",
+        "type": "Multisyllable",
+        "ipa": "ˈkɒntɪnənt",
+        "meaning": "lục địa"
+    },
+    {
+        "word": "compliment",
+        "type": "Multisyllable",
+        "ipa": "ˈkɒmplɪmənt",
+        "meaning": "lời khen"
+    },
+    {
+        "word": "cabinet",
+        "type": "Multisyllable",
+        "ipa": "ˈkæbɪnɪt",
+        "meaning": "buồng"
+    },
+    {
+        "word": "positive",
+        "type": "Multisyllable",
+        "ipa": "ˈpɒzətɪv",
+        "meaning": "tích cực"
+    },
+    {
+        "word": "employee",
+        "type": "Multisyllable",
+        "ipa": "ˌɛmplɔɪˈiː",
+        "meaning": "Nhân viên"
+    },
+    {
+        "word": "away",
+        "type": "a = /uh/",
+        "ipa": "əˈweɪ",
+        "meaning": "xa"
+    },
+    {
+        "word": "about",
+        "type": "a = /uh/",
+        "ipa": "əˈbaʊt",
+        "meaning": "trong khoảng"
+    },
+    {
+        "word": "along",
+        "type": "a = /uh/",
+        "ipa": "əˈlɒŋ",
+        "meaning": "dọc theo"
+    },
+    {
+        "word": "agree",
+        "type": "a = /uh/",
+        "ipa": "əˈgriː",
+        "meaning": "đồng ý"
+    },
+    {
+        "word": "asleep",
+        "type": "a = /uh/",
+        "ipa": "əˈsliːp",
+        "meaning": "ngủ"
+    },
+    {
+        "word": "across",
+        "type": "a = /uh/",
+        "ipa": "əˈkrɒs",
+        "meaning": "băng qua"
+    },
+    {
+        "word": "around",
+        "type": "a = /uh/",
+        "ipa": "əˈraʊnd",
+        "meaning": "xung quanh"
+    },
+    {
+        "word": "adult",
+        "type": "a = /uh/",
+        "ipa": "ˈædʌlt",
+        "meaning": "người lớn"
+    },
+    {
+        "word": "afraid",
+        "type": "a = /uh/",
+        "ipa": "əˈfreɪd",
+        "meaning": "sợ"
+    },
+    {
+        "word": "avoid",
+        "type": "a = /uh/",
+        "ipa": "əˈvɔɪd",
+        "meaning": "tránh"
+    },
+    {
+        "word": "aloud",
+        "type": "a = /uh/",
+        "ipa": "əˈlaʊd",
+        "meaning": "to"
+    },
+    {
+        "word": "amount",
+        "type": "a = /uh/",
+        "ipa": "əˈmaʊnt",
+        "meaning": "số tiền"
+    },
+    {
+        "word": "extra",
+        "type": "a = /uh/",
+        "ipa": "ˈɛkstrə",
+        "meaning": "thêm"
+    },
+    {
+        "word": "banana",
+        "type": "a = /uh/",
+        "ipa": "bəˈnɑːnə",
+        "meaning": "trái chuối"
+    },
+    {
+        "word": "vanilla",
+        "type": "a = /uh/",
+        "ipa": "vəˈnɪlə",
+        "meaning": "vanilla"
+    },
+    {
+        "word": "umbrella",
+        "type": "a = /uh/",
+        "ipa": "ʌmˈbrɛlə",
+        "meaning": "ô"
+    },
+    {
+        "word": "medal",
+        "type": "al = /ul/",
+        "ipa": "ˈmɛdl",
+        "meaning": "huy chương"
+    },
+    {
+        "word": "metal",
+        "type": "al = /ul/",
+        "ipa": "ˈmɛtl",
+        "meaning": "kim loại"
+    },
+    {
+        "word": "mental",
+        "type": "al = /ul/",
+        "ipa": "ˈmɛntl",
+        "meaning": "tâm thần"
+    },
+    {
+        "word": "capital",
+        "type": "al = /ul/",
+        "ipa": "ˈkæpɪtl",
+        "meaning": "thủ đô"
+    },
+    {
+        "word": "hospital",
+        "type": "al = /ul/",
+        "ipa": "ˈhɒspɪtl",
+        "meaning": "bệnh viện"
+    },
+    {
+        "word": "loyal",
+        "type": "al = /ul/",
+        "ipa": "ˈlɔɪəl",
+        "meaning": "trung thành"
+    },
+    {
+        "word": "royal",
+        "type": "al = /ul/",
+        "ipa": "ˈrɔɪəl",
+        "meaning": "Hoàng Gia"
+    },
+    {
+        "word": "rascal",
+        "type": "al = /ul/",
+        "ipa": "ˈrɑːskəl",
+        "meaning": "kẻ bất lương"
+    },
+    {
+        "word": "animal",
+        "type": "al = /ul/",
+        "ipa": "ˈænɪməl",
+        "meaning": "thú vật"
+    },
+    {
+        "word": "after",
+        "type": "\"er\" at end",
+        "ipa": "ˈɑːftə",
+        "meaning": "sau"
+    },
+    {
+        "word": "enter",
+        "type": "\"er\" at end",
+        "ipa": "ˈɛntə",
+        "meaning": "đi vào"
+    },
+    {
+        "word": "winter",
+        "type": "\"er\" at end",
+        "ipa": "ˈwɪntə",
+        "meaning": "mùa đông"
+    },
+    {
+        "word": "chapter",
+        "type": "\"er\" at end",
+        "ipa": "ˈʧæptə",
+        "meaning": "chương"
+    },
+    {
+        "word": "faster",
+        "type": "\"er\" at end",
+        "ipa": "ˈfɑːstə",
+        "meaning": "nhanh hơn"
+    },
+    {
+        "word": "sister",
+        "type": "\"er\" at end",
+        "ipa": "ˈsɪstə",
+        "meaning": "em gái"
+    },
+    {
+        "word": "monster",
+        "type": "\"er\" at end",
+        "ipa": "ˈmɒnstə",
+        "meaning": "quái vật"
+    },
+    {
+        "word": "member",
+        "type": "\"er\" at end",
+        "ipa": "ˈmɛmbə",
+        "meaning": "thành viên"
+    },
+    {
+        "word": "number",
+        "type": "\"er\" at end",
+        "ipa": "ˈnʌmbə",
+        "meaning": "con số"
+    },
+    {
+        "word": "under",
+        "type": "\"er\" at end",
+        "ipa": "ˈʌndə",
+        "meaning": "Dưới"
+    },
+    {
+        "word": "thunder",
+        "type": "\"er\" at end",
+        "ipa": "ˈθʌndə",
+        "meaning": "sấm sét"
+    },
+    {
+        "word": "leader",
+        "type": "\"er\" at end",
+        "ipa": "ˈliːdə",
+        "meaning": "lãnh đạo"
+    },
+    {
+        "word": "powder",
+        "type": "\"er\" at end",
+        "ipa": "ˈpaʊdə",
+        "meaning": "bột"
+    },
+    {
+        "word": "ever",
+        "type": "\"er\" at end",
+        "ipa": "ˈɛvə",
+        "meaning": "không bao giờ"
+    },
+    {
+        "word": "never",
+        "type": "\"er\" at end",
+        "ipa": "ˈnɛvə",
+        "meaning": "không bao giờ"
+    },
+    {
+        "word": "clever",
+        "type": "\"er\" at end",
+        "ipa": "ˈklɛvə",
+        "meaning": "tài giỏi"
+    },
+    {
+        "word": "silver",
+        "type": "\"er\" at end",
+        "ipa": "ˈsɪlvə",
+        "meaning": "bạc"
+    },
+    {
+        "word": "river",
+        "type": "\"er\" at end",
+        "ipa": "ˈrɪvə",
+        "meaning": "con sông"
+    },
+    {
+        "word": "shiver",
+        "type": "\"er\" at end",
+        "ipa": "ˈʃɪvə",
+        "meaning": "rùng mình"
+    },
+    {
+        "word": "proper",
+        "type": "\"er\" at end",
+        "ipa": "ˈprɒpə",
+        "meaning": "thích hợp"
+    },
+    {
+        "word": "whisper",
+        "type": "\"er\" at end",
+        "ipa": "ˈwɪspə",
+        "meaning": "thì thầm"
+    },
+    {
+        "word": "power",
+        "type": "\"er\" at end",
+        "ipa": "ˈpaʊə",
+        "meaning": "quyền lực"
+    },
+    {
+        "word": "tower",
+        "type": "\"er\" at end",
+        "ipa": "ˈtaʊə",
+        "meaning": "tòa tháp"
+    },
+    {
+        "word": "flower",
+        "type": "\"er\" at end",
+        "ipa": "ˈflaʊə",
+        "meaning": "bông hoa"
+    },
+    {
+        "word": "shower",
+        "type": "\"er\" at end",
+        "ipa": "ˈʃaʊə",
+        "meaning": "vòi sen"
+    },
+    {
+        "word": "anger",
+        "type": "\"er\" at end",
+        "ipa": "ˈæŋgə",
+        "meaning": "Sự phẫn nộ"
+    },
+    {
+        "word": "hanger",
+        "type": "\"er\" at end",
+        "ipa": "ˈhæŋə",
+        "meaning": "móc áo"
+    },
+    {
+        "word": "finger",
+        "type": "\"er\" at end",
+        "ipa": "ˈfɪŋgə",
+        "meaning": "ngón tay"
+    },
+    {
+        "word": "hunger",
+        "type": "\"er\" at end",
+        "ipa": "ˈhʌŋgə",
+        "meaning": "nạn đói"
+    },
+    {
+        "word": "longer",
+        "type": "\"er\" at end",
+        "ipa": "ˈlɒŋgə",
+        "meaning": "lâu hơn"
+    },
+    {
+        "word": "eager",
+        "type": "\"er\" at end",
+        "ipa": "ˈiːgə",
+        "meaning": "hăng hái"
+    },
+    {
+        "word": "cracker",
+        "type": "\"er\" at end",
+        "ipa": "ˈkrækə",
+        "meaning": "bánh quy"
+    },
+    {
+        "word": "thicker",
+        "type": "\"er\" at end",
+        "ipa": "ˈθɪkə",
+        "meaning": "dày hơn"
+    },
+    {
+        "word": "locker",
+        "type": "\"er\" at end",
+        "ipa": "ˈlɒkə",
+        "meaning": "khóa"
+    },
+    {
+        "word": "gather",
+        "type": "\"er\" at end",
+        "ipa": "ˈgæðə",
+        "meaning": "tụ họp"
+    },
+    {
+        "word": "rather",
+        "type": "\"er\" at end",
+        "ipa": "ˈrɑːðə",
+        "meaning": "hơn"
+    },
+    {
+        "word": "bother",
+        "type": "\"er\" at end",
+        "ipa": "ˈbɒðə",
+        "meaning": "làm phiền"
+    },
+    {
+        "word": "whether",
+        "type": "\"er\" at end",
+        "ipa": "ˈwɛðə",
+        "meaning": "liệu"
+    },
+    {
+        "word": "layer",
+        "type": "\"er\" at end",
+        "ipa": "ˈleɪə",
+        "meaning": "lớp"
+    },
+    {
+        "word": "player",
+        "type": "\"er\" at end",
+        "ipa": "ˈpleɪə",
+        "meaning": "người chơi"
+    },
+    {
+        "word": "pitcher",
+        "type": "\"er\" at end",
+        "ipa": "ˈpɪʧə",
+        "meaning": "Cái bình"
+    },
+    {
+        "word": "catcher",
+        "type": "\"er\" at end",
+        "ipa": "ˈkæʧə",
+        "meaning": "người bắt"
+    },
+    {
+        "word": "teacher",
+        "type": "\"er\" at end",
+        "ipa": "ˈtiːʧə",
+        "meaning": "giáo viên"
+    },
+    {
+        "word": "matter",
+        "type": "\"er\" at end",
+        "ipa": "ˈmætə",
+        "meaning": "vấn đề"
+    },
+    {
+        "word": "chatter",
+        "type": "\"er\" at end",
+        "ipa": "ˈʧætə",
+        "meaning": "nói nhảm"
+    },
+    {
+        "word": "better",
+        "type": "\"er\" at end",
+        "ipa": "ˈbɛtə",
+        "meaning": "tốt hơn"
+    },
+    {
+        "word": "letter",
+        "type": "\"er\" at end",
+        "ipa": "ˈlɛtə",
+        "meaning": "lá thư"
+    },
+    {
+        "word": "butter",
+        "type": "\"er\" at end",
+        "ipa": "ˈbʌtə",
+        "meaning": "bơ"
+    },
+    {
+        "word": "mutter",
+        "type": "\"er\" at end",
+        "ipa": "ˈmʌtə",
+        "meaning": "lẩm bẩm"
+    },
+    {
+        "word": "dinner",
+        "type": "\"er\" at end",
+        "ipa": "ˈdɪnə",
+        "meaning": "bữa tối"
+    }
+]

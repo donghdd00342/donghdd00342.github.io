@@ -1,0 +1,222 @@
+[
+    {
+        "word": "advantage",
+        "ipa": "ədˈvɑːntɪʤ",
+        "type": "n",
+        "tag": "lợi thế",
+        "meaning": "An advantage is something that helps you.",
+        "context": "Một lợi thế là một cái gì đó giúp bạn.",
+        "ex": "Being tall is an advantage to a basketball player.",
+        "ipaExTrans": "ˈbiːɪŋ tɔːl ɪz ən ədˈvɑːntɪʤ tuː ə ˈbɑːskɪtˌbɔːl ˈpleɪə.",
+        "exMeaning": "Cao là một lợi thế cho một cầu thủ bóng rổ."
+    },
+    {
+        "word": "cause",
+        "ipa": "kɔːz",
+        "type": "v",
+        "tag": "nguyên nhân",
+        "meaning": "To cause is to make something happen.",
+        "context": "Để gây ra là để làm cho một cái gì đó xảy ra.",
+        "ex": "The cold weather caused her to get sick.",
+        "ipaExTrans": "ðə kəʊld ˈwɛðə kɔːzd hɜː tuː gɛt sɪk.",
+        "exMeaning": "Thời tiết lạnh khiến cô bị ốm."
+    },
+    {
+        "word": "choice",
+        "ipa": "ʧɔɪs",
+        "type": "n",
+        "tag": "sự lựa chọn",
+        "meaning": "A choice is the act or possibility of picking something.",
+        "context": "Một lựa chọn là hành động hoặc khả năng chọn một cái gì đó.",
+        "ex": "I had my choice of five doors to open",
+        "ipaExTrans": "aɪ hæd maɪ ʧɔɪs ɒv faɪv dɔːz tuː ˈəʊpən",
+        "exMeaning": "Tôi đã lựa chọn năm cánh cửa để mở"
+    },
+    {
+        "word": "community",
+        "ipa": "kəˈmjuːnɪti",
+        "type": "n",
+        "tag": "cộng đồng",
+        "meaning": "A community is a group of people who live together",
+        "context": "Cộng đồng là một nhóm người sống cùng nhau",
+        "ex": "The kids from my community usually play together.",
+        "ipaExTrans": "ðə kɪdz frɒm maɪ kəˈmjuːnɪti ˈjuːʒʊəli pleɪ təˈgɛðə.",
+        "exMeaning": "Những đứa trẻ trong cộng đồng của tôi thường chơi cùng nhau."
+    },
+    {
+        "word": "dead",
+        "ipa": "dɛd",
+        "type": "adj",
+        "tag": "đã chết",
+        "meaning": "To be dead is to not be alive",
+        "context": "Chết là không sống.",
+        "ex": "A dead person is usually buried in the ground",
+        "ipaExTrans": "ə dɛd ˈpɜːsn ɪz ˈjuːʒʊəli ˈbɛrid ɪn ðə graʊnd",
+        "exMeaning": "Một người chết thường được chôn trong lòng đất"
+    },
+    {
+        "word": "distance",
+        "ipa": "ˈdɪstəns",
+        "type": "n",
+        "tag": "khoảng cách",
+        "meaning": "The distance between two things is how far it is between them",
+        "context": "Khoảng cách giữa hai thứ là khoảng cách giữa chúng",
+        "ex": "The distance between the Earth and the Moon is 384,400 kilometers.",
+        "ipaExTrans": "ðə ˈdɪstəns bɪˈtwiːn ði ɜːθ ænd ðə muːn ɪz 384,400 ˈkɪləʊˌmiːtəz.",
+        "exMeaning": "Khoảng cách giữa Trái đất và Mặt trăng là 384.400 km."
+    },
+    {
+        "word": "escape",
+        "ipa": "ɪsˈkeɪp",
+        "type": "v",
+        "tag": "bỏ trốn",
+        "meaning": "To escape is to run away from something bad",
+        "context": "Thoát ra là chạy trốn khỏi một cái gì đó xấu",
+        "ex": "The butterfly could not escape from the cage.",
+        "ipaExTrans": "ðə ˈbʌtəflaɪ kʊd nɒt ɪsˈkeɪp frɒm ðə keɪʤ.",
+        "exMeaning": "Con bướm không thể thoát ra khỏi lồng."
+    },
+    {
+        "word": "face",
+        "ipa": "feɪs",
+        "type": "v",
+        "tag": "đối mặt, đối địch, chống cự",
+        "meaning": "If you face a problem, you deal with it",
+        "context": "Nếu bạn gặp vấn đề, bạn giải quyết nó",
+        "ex": "My sister and I have to find a better way to face our differences.",
+        "ipaExTrans": "maɪ ˈsɪstər ænd aɪ hæv tuː faɪnd ə ˈbɛtə weɪ tuː feɪs ˈaʊə ˈdɪfrənsɪz.",
+        "exMeaning": "Chị tôi và tôi phải tìm một cách tốt hơn để đối mặt với sự khác biệt của chúng tôi."
+    },
+    {
+        "word": "follow",
+        "ipa": "ˈfɒləʊ",
+        "type": "v",
+        "tag": "theo sau, đi theo",
+        "meaning": "To follow means to go behind someone and go where they go.",
+        "context": "Đi theo có nghĩa là đi đằng sau ai đó và đi đến nơi họ đi.",
+        "ex": "The little boy followed his mother home.",
+        "ipaExTrans": "ðə ˈlɪtl bɔɪ ˈfɒləʊd hɪz ˈmʌðə həʊm.",
+        "exMeaning": "Cậu bé theo mẹ về nhà."
+    },
+    {
+        "word": "fright",
+        "ipa": "fraɪt",
+        "type": "n",
+        "tag": "nỗi sợ hãi",
+        "meaning": "Fright is the feeling of being scared.",
+        "context": "Sợ hãi là cảm giác sợ hãi.",
+        "ex": "She was filled with fright.",
+        "ipaExTrans": "ʃiː wɒz fɪld wɪð fraɪt.",
+        "exMeaning": "Cô tràn ngập sự sợ hãi."
+    },
+    {
+        "word": "ghost",
+        "ipa": "gəʊst",
+        "type": "n",
+        "tag": "con ma",
+        "meaning": "A ghost is the spirit of a dead person.",
+        "context": "Một con ma là linh hồn của một người chết.",
+        "ex": "Many people are afraid of ghosts.",
+        "ipaExTrans": "ˈmɛni ˈpiːpl ɑːr əˈfreɪd ɒv gəʊsts.",
+        "exMeaning": "Nhiều người sợ ma."
+    },
+    {
+        "word": "individual",
+        "ipa": "ˌɪndɪˈvɪdjʊəl",
+        "type": "n",
+        "tag": "cá nhân, đời sống riêng tư",
+        "meaning": "An individual is one person.",
+        "context": "Một cá nhân là một người.",
+        "ex": "Only one individual could win the bicycle race.",
+        "ipaExTrans": "ˈəʊnli wʌn ˌɪndɪˈvɪdjʊəl kʊd wɪn ðə ˈbaɪsɪkl reɪs.",
+        "exMeaning": "Chỉ có một cá nhân có thể giành chiến thắng trong cuộc đua xe đạp."
+    },
+    {
+        "word": "pet",
+        "ipa": "pɛt",
+        "type": "n",
+        "tag": "vật nuôi",
+        "meaning": "A pet is an animal that lives with people.",
+        "context": "Thú cưng là một con vật sống với con người.",
+        "ex": "Out of all my pets, the dog is my favorite.",
+        "ipaExTrans": "aʊt ɒv ɔːl maɪ pɛts, ðə dɒg ɪz maɪ ˈfeɪvərɪt.",
+        "exMeaning": "Trong số tất cả các vật nuôi của tôi, con chó là yêu thích của tôi."
+    },
+    {
+        "word": "reach",
+        "ipa": "riːʧ",
+        "type": "v",
+        "tag": "chạm tới, duỗi ra",
+        "meaning": "To reach means to arrive at a place.",
+        "context": "Để đạt được phương tiện để đến một nơi.",
+        "ex": "I was happy to finally reach my destination.",
+        "ipaExTrans": "aɪ wɒz ˈhæpi tuː ˈfaɪnəli riːʧ maɪ ˌdɛstɪˈneɪʃən.",
+        "exMeaning": "Tôi rất vui khi cuối cùng đã đến đích."
+    },
+    {
+        "word": "return",
+        "ipa": "rɪˈtɜːn",
+        "type": "v",
+        "tag": "trở về, hoàn lại, trả lại",
+        "meaning": "To return is to go back to a place.",
+        "context": "Trở về là quay trở lại một nơi.",
+        "ex": "I was happy to return home to my mom after school",
+        "ipaExTrans": "aɪ wɒz ˈhæpi tuː rɪˈtɜːn həʊm tuː maɪ mɒm ˈɑːftə skuːl",
+        "exMeaning": "Tôi rất vui khi trở về nhà với mẹ sau giờ học"
+    },
+    {
+        "word": "survive",
+        "ipa": "səˈvaɪv",
+        "type": "v",
+        "tag": "sống sót, còn sống, vẫn tồn tại",
+        "meaning": "To survive is to stay alive.",
+        "context": "Sống sót là sống sót.",
+        "ex": "My dog survived her fall into the water",
+        "ipaExTrans": "maɪ dɒg səˈvaɪvd hɜː fɔːl ˈɪntuː ðə ˈwɔːtə",
+        "exMeaning": "Con chó của tôi sống sót cô ấy rơi xuống nước"
+    },
+    {
+        "word": "upset",
+        "ipa": "ʌpˈsɛt",
+        "type": "adj",
+        "tag": "buồn bã",
+        "meaning": "To be upset is to be unhappy about something.",
+        "context": "Buồn bã là không hài lòng về điều gì đó.",
+        "ex": "She was upset because she broke her toy.",
+        "ipaExTrans": "ʃiː wɒz ʌpˈsɛt bɪˈkɒz ʃiː brəʊk hɜː tɔɪ.",
+        "exMeaning": "Cô buồn bã vì làm hỏng đồ chơi của mình."
+    },
+    {
+        "word": "voice",
+        "ipa": "vɔɪs",
+        "type": "n",
+        "tag": "tiếng nói",
+        "meaning": "A voice is the sound a person makes when they talk or sing.",
+        "context": "Giọng nói là âm thanh mà một người tạo ra khi họ nói hoặc hát.",
+        "ex": "He used a microphone, so everyone could hear his voice.",
+        "ipaExTrans": "hiː juːzd ə ˈmaɪkrəfəʊn, səʊ ˈɛvrɪwʌn kʊd hɪə hɪz vɔɪs.",
+        "exMeaning": "Anh ấy đã sử dụng micro, vì vậy mọi người đều có thể nghe thấy giọng nói của anh ấy."
+    },
+    {
+        "word": "weather",
+        "ipa": "ˈwɛðə",
+        "type": "n",
+        "tag": "thời tiết",
+        "meaning": "The weather is the condition of the air: hot, rainy, windy, etc.",
+        "context": "Thời tiết là điều kiện không khí: nóng, mưa, gió, v.v.",
+        "ex": "The weather can be sunny, rainy, or cold.",
+        "ipaExTrans": "ðə ˈwɛðə kæn biː ˈsʌni, ˈreɪni, ɔː kəʊld.",
+        "exMeaning": "Thời tiết có thể nắng, mưa hoặc lạnh."
+    },
+    {
+        "word": "wise",
+        "ipa": "waɪz",
+        "type": "adj",
+        "tag": "khôn ngoan",
+        "meaning": "To be wise is to use experience and intelligence to make good choices.",
+        "context": "Để khôn ngoan là sử dụng kinh nghiệm và trí thông minh để đưa ra lựa chọn tốt.",
+        "ex": "Many people believe that owls are very wise animals.",
+        "ipaExTrans": "ˈmɛni ˈpiːpl bɪˈliːv ðæt aʊlz ɑː ˈvɛri waɪz ˈænɪməlz.",
+        "exMeaning": "Nhiều người cho rằng cú là loài động vật rất khôn ngoan."
+    }
+]

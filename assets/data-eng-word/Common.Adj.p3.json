@@ -1,0 +1,209 @@
+[
+    {
+        "word": "aggressive",
+        "type": "Adj",
+        "ipa": "əˈgrɛsɪv",
+        "meaning": "xâm lược",
+        "ex": "True to his word, he was aggressive without hurting her.",
+        "ipaExTrans": "truː tuː hɪz wɜːd, hiː wɒz əˈgrɛsɪv wɪˈðaʊt ˈhɜːtɪŋ hɜː.",
+        "exMeaning": "Đúng như lời anh nói, anh hung hăng mà không làm cô đau."
+    },
+    {
+        "word": "agreeable",
+        "type": "Adj",
+        "ipa": "əˈgrɪəbl",
+        "meaning": "dễ chịu",
+        "ex": "You know, you were much more agreeable as a wolf.",
+        "ipaExTrans": "juː nəʊ, juː wɜː mʌʧ mɔːr əˈgrɪəbl æz ə wʊlf.",
+        "exMeaning": "Bạn biết đấy, bạn đã dễ chịu hơn nhiều như một con sói."
+    },
+    {
+        "word": "ambitious",
+        "type": "Adj",
+        "ipa": "æmˈbɪʃəs",
+        "meaning": "đầy tham vọng",
+        "ex": "She was ambitious, driven by her need for power.",
+        "ipaExTrans": "ʃiː wɒz æmˈbɪʃəs, ˈdrɪvn baɪ hɜː niːd fɔː ˈpaʊə.",
+        "exMeaning": "Cô có tham vọng, được thúc đẩy bởi nhu cầu quyền lực của cô."
+    },
+    {
+        "word": "brave",
+        "type": "Adj",
+        "ipa": "breɪv",
+        "meaning": "can đảm",
+        "ex": "He was brave now that he faced only a woman.",
+        "ipaExTrans": "hiː wɒz breɪv naʊ ðæt hiː feɪst ˈəʊnli ə ˈwʊmən.",
+        "exMeaning": "Bây giờ anh đã dũng cảm khi chỉ phải đối mặt với một người phụ nữ."
+    },
+    {
+        "word": "calm",
+        "type": "Adj",
+        "ipa": "kɑːm",
+        "meaning": "điềm tĩnh",
+        "ex": "Calm, she was able to focus.",
+        "ipaExTrans": "kɑːm, ʃiː wɒz ˈeɪbl tuː ˈfəʊkəs.",
+        "exMeaning": "Bình tĩnh, cô đã có thể tập trung."
+    },
+    {
+        "word": "delightful",
+        "type": "Adj",
+        "ipa": "dɪˈlaɪtfʊl",
+        "meaning": "thú vị",
+        "ex": "It was a delightful surprise.",
+        "ipaExTrans": "ɪt wɒz ə dɪˈlaɪtfʊl səˈpraɪz.",
+        "exMeaning": "Đó là một bất ngờ thú vị."
+    },
+    {
+        "word": "eager",
+        "type": "Adj",
+        "ipa": "ˈiːgə",
+        "meaning": "hăng hái",
+        "ex": "He seemed eager to talk all night.",
+        "ipaExTrans": "hiː siːmd ˈiːgə tuː tɔːk ɔːl naɪt.",
+        "exMeaning": "Anh ta có vẻ háo hức nói chuyện cả đêm."
+    },
+    {
+        "word": "faithful",
+        "type": "Adj",
+        "ipa": "ˈfeɪθfʊl",
+        "meaning": "Trung thành",
+        "ex": "I thank you all for your hard and faithful service.",
+        "ipaExTrans": "aɪ θæŋk juː ɔːl fɔː jɔː hɑːd ænd ˈfeɪθfʊl ˈsɜːvɪs.",
+        "exMeaning": "Tôi cảm ơn tất cả các dịch vụ chăm chỉ và trung thành của bạn."
+    },
+    {
+        "word": "gentle",
+        "type": "Adj",
+        "ipa": "ˈʤɛntl",
+        "meaning": "dịu dàng",
+        "ex": "Her face was calm, gentle, and happy.",
+        "ipaExTrans": "hɜː feɪs wɒz kɑːm, ˈʤɛntl, ænd ˈhæpi.",
+        "exMeaning": "Khuôn mặt cô bình thản, dịu dàng và hạnh phúc."
+    },
+    {
+        "word": "happy",
+        "type": "Adj",
+        "ipa": "ˈhæpi",
+        "meaning": "vui mừng",
+        "ex": "Are you trying to say that you're not happy with your success?",
+        "ipaExTrans": "ɑː juː ˈtraɪɪŋ tuː seɪ ðæt jʊə nɒt ˈhæpi wɪð jɔː səkˈsɛs?",
+        "exMeaning": "Bạn đang cố gắng nói rằng bạn không hài lòng với thành công của mình?"
+    },
+    {
+        "word": "jolly",
+        "type": "Adj",
+        "ipa": "ˈʤɒli",
+        "meaning": "vui vẻ",
+        "ex": "Evidently some jolly excitement was going on there.",
+        "ipaExTrans": "ˈɛvɪdəntli sʌm ˈʤɒli ɪkˈsaɪtmənt wɒz ˈgəʊɪŋ ɒn ðeə.",
+        "exMeaning": "Rõ ràng là một sự phấn khích vui vẻ đang diễn ra ở đó."
+    },
+    {
+        "word": "kind",
+        "type": "Adj",
+        "ipa": "kaɪnd",
+        "meaning": "Tốt bụng",
+        "ex": "The years had not been kind to him.",
+        "ipaExTrans": "ðə jɪəz hæd nɒt biːn kaɪnd tuː hɪm.",
+        "exMeaning": "Những năm qua đã không tử tế với anh."
+    },
+    {
+        "word": "lively",
+        "type": "Adj",
+        "ipa": "ˈlaɪvli",
+        "meaning": "sống động",
+        "ex": "The lively woman was fun to be around.",
+        "ipaExTrans": "ðə ˈlaɪvli ˈwʊmən wɒz fʌn tuː biː əˈraʊnd.",
+        "exMeaning": "Người phụ nữ sôi nổi rất vui vẻ khi ở gần."
+    },
+    {
+        "word": "nice",
+        "type": "Adj",
+        "ipa": "naɪs",
+        "meaning": "đẹp",
+        "ex": "It's nice to have that special respect.",
+        "ipaExTrans": "ɪts naɪs tuː hæv ðæt ˈspɛʃəl rɪsˈpɛkt.",
+        "exMeaning": "Thật tuyệt khi có sự tôn trọng đặc biệt đó."
+    },
+    {
+        "word": "obedient",
+        "type": "Adj",
+        "ipa": "əˈbiːdiənt",
+        "meaning": "ngoan ngoãn",
+        "ex": "If you want an obedient nymph, then go get one.",
+        "ipaExTrans": "ɪf juː wɒnt ən əˈbiːdiənt nɪmf, ðɛn gəʊ gɛt wʌn.",
+        "exMeaning": "Nếu bạn muốn một nữ thần ngoan ngoãn, sau đó đi lấy một cái."
+    },
+    {
+        "word": "polite",
+        "type": "Adj",
+        "ipa": "pəˈlaɪt",
+        "meaning": "lịch sự",
+        "ex": "I guess I wasn't very polite, making a face like that.",
+        "ipaExTrans": "aɪ gɛs aɪ wɒznt ˈvɛri pəˈlaɪt, ˈmeɪkɪŋ ə feɪs laɪk ðæt.",
+        "exMeaning": "Tôi đoán tôi đã không lịch sự, làm một khuôn mặt như vậy."
+    },
+    {
+        "word": "proud",
+        "type": "Adj",
+        "ipa": "praʊd",
+        "meaning": "tự hào",
+        "ex": "How sad that she would be too proud to have fun.",
+        "ipaExTrans": "haʊ sæd ðæt ʃiː wʊd biː tuː praʊd tuː hæv fʌn.",
+        "exMeaning": "Thật buồn khi cô ấy sẽ quá tự hào để vui chơi."
+    },
+    {
+        "word": "silly",
+        "type": "Adj",
+        "ipa": "ˈsɪli",
+        "meaning": "ngớ ngẩn",
+        "ex": "All right, I'll play your silly games.",
+        "ipaExTrans": "ɔːl raɪt, aɪl pleɪ jɔː ˈsɪli geɪmz.",
+        "exMeaning": "Được rồi, tôi sẽ chơi những trò ngớ ngẩn của bạn."
+    },
+    {
+        "word": "thankful",
+        "type": "Adj",
+        "ipa": "ˈθæŋkfʊl",
+        "meaning": "biết ơn",
+        "ex": "I'm thankful that one of those things is me.",
+        "ipaExTrans": "aɪm ˈθæŋkfʊl ðæt wʌn ɒv ðəʊz θɪŋz ɪz miː.",
+        "exMeaning": "Tôi rất biết ơn rằng một trong những điều đó là tôi."
+    },
+    {
+        "word": "victorious",
+        "type": "Adj",
+        "ipa": "vɪkˈtɔːrɪəs",
+        "meaning": "chiến thắng",
+        "ex": "Instead of victorious, she felt only regret.",
+        "ipaExTrans": "ɪnˈstɛd ɒv vɪkˈtɔːrɪəs, ʃiː fɛlt ˈəʊnli rɪˈgrɛt.",
+        "exMeaning": "Thay vì chiến thắng, cô chỉ cảm thấy hối tiếc."
+    },
+    {
+        "word": "witty",
+        "type": "Adj",
+        "ipa": "ˈwɪti",
+        "meaning": "dí dỏm",
+        "ex": "Your joke is too bad, it's witty but unjust, said Anna Pavlovna, shaking her little shriveled finger at him.",
+        "ipaExTrans": "jɔː ʤəʊk ɪz tuː bæd, ɪts ˈwɪti bʌt ʌnˈʤʌst, sɛd ˈænə Pavlovna, ˈʃeɪkɪŋ hɜː ˈlɪtl ˈʃrɪvld ˈfɪŋgər æt hɪm.",
+        "exMeaning": "Trò đùa của bạn quá tệ, thật dí dỏm nhưng bất công, Anna Pavlovna nói, lắc ngón tay nhỏ bé của mình với anh."
+    },
+    {
+        "word": "wonderful",
+        "type": "Adj",
+        "ipa": "ˈwʌndəfʊl",
+        "meaning": "Tuyệt vời",
+        "ex": "He was such a wonderful person in so many ways.",
+        "ipaExTrans": "hiː wɒz sʌʧ ə ˈwʌndəfʊl ˈpɜːsn ɪn səʊ ˈmɛni weɪz.",
+        "exMeaning": "Ông là một người tuyệt vời theo nhiều cách."
+    },
+    {
+        "word": "zealous",
+        "type": "Adj",
+        "ipa": "ˈzɛləs",
+        "meaning": "sốt sắng",
+        "ex": "As a zealous churchman and Protestant he still possessed a following.",
+        "ipaExTrans": "æz ə ˈzɛləs ˈʧɜːʧmən ænd ˈprɒtɪstənt hiː stɪl pəˈzɛst ə ˈfɒləʊɪŋ.",
+        "exMeaning": "Là một nhà thờ nhiệt thành và Tin lành, ông vẫn sở hữu một thứ sau đây."
+    }
+]

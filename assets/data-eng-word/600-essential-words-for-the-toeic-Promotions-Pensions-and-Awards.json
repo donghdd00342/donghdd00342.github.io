@@ -1,0 +1,170 @@
+[
+    {
+        "word": "achieve",
+        "type": "Hoàn thành",
+        "ipa": "əˈʧiːv",
+        "meaning": "giành được, hoàn thành",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "achievement",
+        "type": "thành tích",
+        "ipa": "əˈʧiːvmənt",
+        "meaning": "noun sự giành được, hoàn thành",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "achiever",
+        "type": "người thành đạt",
+        "ipa": "əˈʧiːvə",
+        "meaning": "người thành đạt, thành công",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "contribute",
+        "type": "Góp phần",
+        "ipa": "kənˈtrɪbju(ː)t",
+        "meaning": "đóng góp, góp phần",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "contribution",
+        "type": "sự đóng góp",
+        "ipa": "ˌkɒntrɪˈbjuːʃən",
+        "meaning": "sự đóng góp",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "contributor",
+        "type": "người đóng góp",
+        "ipa": "kənˈtrɪbjʊtə",
+        "meaning": "người góp phần",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "dedication",
+        "type": "cống hiến",
+        "ipa": "ˌdɛdɪˈkeɪʃən",
+        "meaning": "(n) sự cống hiến, sự hiến dâng",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "dedicate",
+        "type": "dâng hiến",
+        "ipa": "ˈdɛdɪkeɪt",
+        "meaning": "(v) cống hiến, hiến dâng",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "dedicated",
+        "type": "tận tâm",
+        "ipa": "ˈdɛdɪkeɪtɪd",
+        "meaning": "(a) tận tụy, tận tâm",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "look forward to",
+        "type": "trông mong",
+        "ipa": "lʊk ˈfɔːwəd tuː",
+        "meaning": "(v) chờ đợi, mong đợi",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "look to",
+        "type": "nhìn vào",
+        "ipa": "lʊk tuː",
+        "meaning": "(v) trông chờ vào, phụ thuộc vào",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "loyal",
+        "type": "trung thành",
+        "ipa": "ˈlɔɪəl",
+        "meaning": "(a) trung thành",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "loyalty",
+        "type": "lòng trung thành",
+        "ipa": "ˈlɔɪəlti",
+        "meaning": "(n) sự trung thành, lòng trung thành",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "merit",
+        "type": "n: Xứng đáng",
+        "ipa": "ˈmɛrɪt",
+        "meaning": "(n) giá trị, công lao, công trạng",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "obvious",
+        "type": "hiển nhiên",
+        "ipa": "ˈɒbvɪəs",
+        "meaning": "(a) rõ ràng, rành mạch, hiển nhiên",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "productive",
+        "type": "năng suất",
+        "ipa": "prəˈdʌktɪv",
+        "meaning": "a. useful, getting a lot done (thực hiện được nhiều, hữu ích, có năng suất)",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "promote",
+        "type": "khuyến khích",
+        "ipa": "prəˈməʊt",
+        "meaning": "(v) đề đạt, tiến cử",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "promotion",
+        "type": "khuyến mãi",
+        "ipa": "prəˈməʊʃən",
+        "meaning": "(n) sự thăng chức, thăng tiến",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "promoter",
+        "type": "người ủng hộ",
+        "ipa": "prəˈməʊtə",
+        "meaning": "(n) người đề nghị, tiến cử",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "recognition",
+        "type": "sự công nhận",
+        "ipa": "ˌrɛkəgˈnɪʃən",
+        "meaning": "(n) sự công nhận, sự thừa nhận",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "value",
+        "type": "giá trị",
+        "ipa": "ˈvæljuː",
+        "meaning": "v. to state the worth (định giá, đánh giá)",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "pension",
+        "type": "lương hưu",
+        "ipa": "ˈpɛnʃən",
+        "meaning": "(n) lương hưu, tiền trợ cấp; (v) trả lương hưu, trợ cấp cho",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "produce",
+        "type": "sản xuất",
+        "ipa": "ˈprɒdjuːs",
+        "meaning": "(v) sản xuất",
+        "tag": "Promotions, Pensions and Awards"
+    },
+    {
+        "word": "praise",
+        "type": "khen ngợi",
+        "ipa": "preɪz",
+        "meaning": "(v) (n) khen ngợi, ca ngợi, ca tụng, tán tụng, tán dương",
+        "tag": "Promotions, Pensions and Awards"
+    }
+]

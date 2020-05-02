@@ -1,0 +1,1731 @@
+[
+    {
+        "word": "went",
+        "type": "e",
+        "ipa": "wɛnt",
+        "meaning": "đã đi",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "intend",
+        "type": "e",
+        "ipa": "ɪnˈtɛnd",
+        "meaning": "có ý định",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "send",
+        "type": "e",
+        "ipa": "sɛnd",
+        "meaning": "gửi",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "letter",
+        "type": "e",
+        "ipa": "ˈlɛtə",
+        "meaning": "lá thư",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "get",
+        "type": "ɛ",
+        "ipa": "gɛt",
+        "meaning": "được",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "bed",
+        "type": "ɛ",
+        "ipa": "bɛd",
+        "meaning": "Giường",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "set",
+        "type": "ɛ",
+        "ipa": "sɛt",
+        "meaning": "bộ",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "sell",
+        "type": "ɛ",
+        "ipa": "sɛl",
+        "meaning": "bán",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "fell",
+        "type": "ɛ",
+        "ipa": "fɛl",
+        "meaning": "rơi",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "men",
+        "type": "ɛ",
+        "ipa": "mɛn",
+        "meaning": "đàn ông",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "pit",
+        "type": "ɪ",
+        "ipa": "pɪt",
+        "meaning": "hố",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "bin",
+        "type": "ɪ",
+        "ipa": "bɪn",
+        "meaning": "thùng rác",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "fill",
+        "type": "ɪ",
+        "ipa": "fɪl",
+        "meaning": "lấp đầy",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "will",
+        "type": "ɪ",
+        "ipa": "wɪl",
+        "meaning": "sẽ",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "village",
+        "type": "ɪ",
+        "ipa": "ˈvɪlɪʤ",
+        "meaning": "làng",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "bullet",
+        "type": "ɪ",
+        "ipa": "ˈbʊlɪt",
+        "meaning": "đạn",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "cat",
+        "type": "æ",
+        "ipa": "kæt",
+        "meaning": "con mèo",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "bad",
+        "type": "æ",
+        "ipa": "bæd",
+        "meaning": "xấu",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "sad",
+        "type": "æ",
+        "ipa": "sæd",
+        "meaning": "buồn",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "sand",
+        "type": "æ",
+        "ipa": "sænd",
+        "meaning": "cát",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "land",
+        "type": "æ",
+        "ipa": "lænd",
+        "meaning": "đất",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "hand",
+        "type": "æ",
+        "ipa": "hænd",
+        "meaning": "tay",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "nap",
+        "type": "æ",
+        "ipa": "næp",
+        "meaning": "ngủ trưa",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "flat",
+        "type": "æ",
+        "ipa": "flæt",
+        "meaning": "bằng phẳng",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "have",
+        "type": "æ",
+        "ipa": "hæv",
+        "meaning": "có",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "fun",
+        "type": "ʌ",
+        "ipa": "fʌn",
+        "meaning": "vui vẻ",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "but",
+        "type": "ʌ",
+        "ipa": "bʌt",
+        "meaning": "nhưng",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "cut",
+        "type": "ʌ",
+        "ipa": "kʌt",
+        "meaning": "cắt",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "gun",
+        "type": "ʌ",
+        "ipa": "gʌn",
+        "meaning": "súng",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "some",
+        "type": "ʌ",
+        "ipa": "sʌm",
+        "meaning": "một số",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "glove",
+        "type": "ʌ",
+        "ipa": "glʌv",
+        "meaning": "găng tay",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "love",
+        "type": "ʌ",
+        "ipa": "lʌv",
+        "meaning": "yêu và quý",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "money",
+        "type": "ʌ",
+        "ipa": "ˈmʌni",
+        "meaning": "tiền bạc",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "one",
+        "type": "ʌ",
+        "ipa": "wʌn",
+        "meaning": "một",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "london",
+        "type": "ʌ",
+        "ipa": "ˈlʌndən",
+        "meaning": "London",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "come",
+        "type": "ʌ",
+        "ipa": "kʌm",
+        "meaning": "đến",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "put",
+        "type": "ʊ",
+        "ipa": "pʊt",
+        "meaning": "đặt",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "look",
+        "type": "ʊ",
+        "ipa": "lʊk",
+        "meaning": "nhìn",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "should",
+        "type": "ʊ",
+        "ipa": "ʃʊd",
+        "meaning": "Nên",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "full",
+        "type": "ʊ",
+        "ipa": "fʊl",
+        "meaning": "đầy",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "good",
+        "type": "ʊ",
+        "ipa": "gʊd",
+        "meaning": "tốt",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "wood",
+        "type": "ʊ",
+        "ipa": "wʊd",
+        "meaning": "gỗ",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "could",
+        "type": "ʊ",
+        "ipa": "kʊd",
+        "meaning": "có thể",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "would",
+        "type": "ʊ",
+        "ipa": "wʊd",
+        "meaning": "sẽ",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "cook",
+        "type": "ʊ",
+        "ipa": "kʊk",
+        "meaning": "nấu ăn",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "book",
+        "type": "ʊ",
+        "ipa": "bʊk",
+        "meaning": "sách",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "look",
+        "type": "ʊ",
+        "ipa": "lʊk",
+        "meaning": "nhìn",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "rob",
+        "type": "ɒ",
+        "ipa": "rɒb",
+        "meaning": "cướp",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "god",
+        "type": "ɒ",
+        "ipa": "gɒd",
+        "meaning": "thần",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "pot",
+        "type": "ɒ",
+        "ipa": "pɒt",
+        "meaning": "có thể",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "spot",
+        "type": "ɒ",
+        "ipa": "spɒt",
+        "meaning": "đốm",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "top",
+        "type": "ɒ",
+        "ipa": "tɒp",
+        "meaning": "hàng đầu",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "watch",
+        "type": "ɒ",
+        "ipa": "wɒʧ",
+        "meaning": "đồng hồ đeo tay",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "squat",
+        "type": "ɒ",
+        "ipa": "skwɒt",
+        "meaning": "ngồi xổm",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "sausage",
+        "type": "ɒ",
+        "ipa": "ˈsɒsɪʤ",
+        "meaning": "Lạp xưởng",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "alive",
+        "type": "ə",
+        "ipa": "əˈlaɪv",
+        "meaning": "sống sót",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "syllable",
+        "type": "ə",
+        "ipa": "ˈsɪləbl",
+        "meaning": "âm tiết",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "moment",
+        "type": "ə",
+        "ipa": "ˈməʊmənt",
+        "meaning": "chốc lát",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "terrible",
+        "type": "ə",
+        "ipa": "ˈtɛrəbl",
+        "meaning": "khủng khiếp",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "felony",
+        "type": "ə",
+        "ipa": "ˈfɛləni",
+        "meaning": "trọng tội",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "papyrus",
+        "type": "ə",
+        "ipa": "pəˈpaɪərəs",
+        "meaning": "giấy cói",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "again",
+        "type": "ə",
+        "ipa": "əˈgɛn",
+        "meaning": "lần nữa",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "mother",
+        "type": "ə",
+        "ipa": "ˈmʌðə",
+        "meaning": "mẹ",
+        "context": "Short Vowels"
+    },
+    {
+        "word": "need",
+        "type": "i or i:",
+        "ipa": "niːd",
+        "meaning": "nhu cầu",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "he",
+        "type": "i or i:",
+        "ipa": "hiː",
+        "meaning": "anh ta",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "she",
+        "type": "i or i:",
+        "ipa": "ʃiː",
+        "meaning": "bà ấy",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "see",
+        "type": "i or i:",
+        "ipa": "siː",
+        "meaning": "xem",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "keep",
+        "type": "i or i:",
+        "ipa": "kiːp",
+        "meaning": "giữ",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "family",
+        "type": "i or i:",
+        "ipa": "ˈfæmɪli",
+        "meaning": "gia đình",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "hyperbole",
+        "type": "i or i:",
+        "ipa": "haɪˈpɜːbəli",
+        "meaning": "cường điệu",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "beat",
+        "type": "i or i:",
+        "ipa": "biːt",
+        "meaning": "tiết tấu",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "team",
+        "type": "i or i:",
+        "ipa": "tiːm",
+        "meaning": "đội",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "nurse",
+        "type": "ɜ:",
+        "ipa": "nɜːs",
+        "meaning": "y tá",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "curve",
+        "type": "ɜ:",
+        "ipa": "kɜːv",
+        "meaning": "đường cong",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "purge",
+        "type": "ɜ:",
+        "ipa": "pɜːʤ",
+        "meaning": "thanh trừng",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "herd",
+        "type": "ɜ:",
+        "ipa": "hɜːd",
+        "meaning": "bầy đàn",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "serve",
+        "type": "ɜ:",
+        "ipa": "sɜːv",
+        "meaning": "giao banh",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "bird",
+        "type": "ɜ:",
+        "ipa": "bɜːd",
+        "meaning": "chim",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "stir",
+        "type": "ɜ:",
+        "ipa": "stɜː",
+        "meaning": "khuấy",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "heard",
+        "type": "ɜ:",
+        "ipa": "hɜːd",
+        "meaning": "đã nghe",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "third",
+        "type": "ɜ:",
+        "ipa": "θɜːd",
+        "meaning": "ngày thứ ba",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "turn",
+        "type": "ɜ:",
+        "ipa": "tɜːn",
+        "meaning": "xoay",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "talk",
+        "type": "ɔ:",
+        "ipa": "tɔːk",
+        "meaning": "nói chuyện",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "law",
+        "type": "ɔ:",
+        "ipa": "lɔː",
+        "meaning": "pháp luật",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "bored",
+        "type": "ɔ:",
+        "ipa": "bɔːd",
+        "meaning": "chán",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "saw",
+        "type": "ɔ:",
+        "ipa": "sɔː",
+        "meaning": "cái cưa",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "straw",
+        "type": "ɔ:",
+        "ipa": "strɔː",
+        "meaning": "Rơm rạ",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "dawn",
+        "type": "ɔ:",
+        "ipa": "dɔːn",
+        "meaning": "bình minh",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "fall",
+        "type": "ɔ:",
+        "ipa": "fɔːl",
+        "meaning": "ngã",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "call",
+        "type": "ɔ:",
+        "ipa": "kɔːl",
+        "meaning": "gọi",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "wall",
+        "type": "ɔ:",
+        "ipa": "wɔːl",
+        "meaning": "Tường",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "yawn",
+        "type": "ɔ:",
+        "ipa": "jɔːn",
+        "meaning": "ngáp",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "jaw",
+        "type": "ɔ:",
+        "ipa": "ʤɔː",
+        "meaning": "hàm",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "few",
+        "type": "u:",
+        "ipa": "fjuː",
+        "meaning": "vài",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "you",
+        "type": "u:",
+        "ipa": "juː",
+        "meaning": "bạn",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "who",
+        "type": "u:",
+        "ipa": "huː",
+        "meaning": "Ai",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "shoe",
+        "type": "u:",
+        "ipa": "ʃuː",
+        "meaning": "giày",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "cool",
+        "type": "u:",
+        "ipa": "kuːl",
+        "meaning": "mát mẻ",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "tool",
+        "type": "u:",
+        "ipa": "tuːl",
+        "meaning": "dụng cụ",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "boot",
+        "type": "u:",
+        "ipa": "buːt",
+        "meaning": "khởi động",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "lose",
+        "type": "u:",
+        "ipa": "luːz",
+        "meaning": "thua",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "gloomy",
+        "type": "u:",
+        "ipa": "ˈgluːmi",
+        "meaning": "ảm đạm",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "fruit",
+        "type": "u:",
+        "ipa": "fruːt",
+        "meaning": "trái cây",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "chew",
+        "type": "u:",
+        "ipa": "ʧuː",
+        "meaning": "nhai",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "fast",
+        "type": "ɑ:",
+        "ipa": "fɑːst",
+        "meaning": "Nhanh",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "car",
+        "type": "ɑ:",
+        "ipa": "kɑː",
+        "meaning": "xe hơi",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "bra",
+        "type": "ɑ:",
+        "ipa": "brɑː",
+        "meaning": "áo ngực",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "calm",
+        "type": "ɑ:",
+        "ipa": "kɑːm",
+        "meaning": "điềm tĩnh",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "palm",
+        "type": "ɑ:",
+        "ipa": "pɑːm",
+        "meaning": "lòng bàn tay",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "father",
+        "type": "ɑ:",
+        "ipa": "ˈfɑːðə",
+        "meaning": "bố",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "start",
+        "type": "ɑ:",
+        "ipa": "stɑːt",
+        "meaning": "khởi đầu",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "dark",
+        "type": "ɑ:",
+        "ipa": "dɑːk",
+        "meaning": "tối",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "hard",
+        "type": "ɑ:",
+        "ipa": "hɑːd",
+        "meaning": "cứng",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "bath",
+        "type": "ɑ:",
+        "ipa": "bɑːθ",
+        "meaning": "bồn tắm",
+        "context": "Long Vowels"
+    },
+    {
+        "word": "near",
+        "type": "ɪə",
+        "ipa": "nɪə",
+        "meaning": "ở gần",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "ear",
+        "type": "ɪə",
+        "ipa": "ɪə",
+        "meaning": "tai",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "clear",
+        "type": "ɪə",
+        "ipa": "klɪə",
+        "meaning": "thông thoáng",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "tear",
+        "type": "ɪə",
+        "ipa": "teə",
+        "meaning": "nước mắt",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "beer",
+        "type": "ɪə",
+        "ipa": "bɪə",
+        "meaning": "bia",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "fear",
+        "type": "ɪə",
+        "ipa": "fɪə",
+        "meaning": "nỗi sợ",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "hair",
+        "type": "eə",
+        "ipa": "heə",
+        "meaning": "tóc",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "there",
+        "type": "eə",
+        "ipa": "ðeə",
+        "meaning": "ở đó",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "care",
+        "type": "eə",
+        "ipa": "keə",
+        "meaning": "quan tâm",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "stairs",
+        "type": "eə",
+        "ipa": "steəz",
+        "meaning": "cầu thang",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "pear",
+        "type": "eə",
+        "ipa": "peə",
+        "meaning": "Lê",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "face",
+        "type": "eɪ",
+        "ipa": "feɪs",
+        "meaning": "khuôn mặt",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "space",
+        "type": "eɪ",
+        "ipa": "speɪs",
+        "meaning": "không gian",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "rain ",
+        "type": "eɪ",
+        "ipa": "reɪn ",
+        "meaning": "mưa",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "case",
+        "type": "eɪ",
+        "ipa": "keɪs",
+        "meaning": "trường hợp",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "eight",
+        "type": "eɪ",
+        "ipa": "eɪt",
+        "meaning": "tám",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "joy",
+        "type": "ɔɪ",
+        "ipa": "ʤɔɪ",
+        "meaning": "vui sướng",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "employ",
+        "type": "ɔɪ",
+        "ipa": "ɪmˈplɔɪ",
+        "meaning": "thuê",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "toy",
+        "type": "ɔɪ",
+        "ipa": "tɔɪ",
+        "meaning": "đồ chơi",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "coil",
+        "type": "ɔɪ",
+        "ipa": "kɔɪl",
+        "meaning": "xôn xao",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "oyster",
+        "type": "ɔɪ",
+        "ipa": "ˈɔɪstə",
+        "meaning": "con hàu",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "my",
+        "type": "aɪ",
+        "ipa": "maɪ",
+        "meaning": "của tôi",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "sight",
+        "type": "aɪ",
+        "ipa": "saɪt",
+        "meaning": "thị giác",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "pride",
+        "type": "aɪ",
+        "ipa": "praɪd",
+        "meaning": "tự hào",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "kind",
+        "type": "aɪ",
+        "ipa": "kaɪnd",
+        "meaning": "Tốt bụng",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "flight",
+        "type": "aɪ",
+        "ipa": "flaɪt",
+        "meaning": "chuyến bay",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "no",
+        "type": "əʊ",
+        "ipa": "nəʊ",
+        "meaning": "Không",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "don’t",
+        "type": "əʊ",
+        "ipa": "dəʊnt",
+        "meaning": "don lồng",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "stones",
+        "type": "əʊ",
+        "ipa": "stəʊnz",
+        "meaning": "đá",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "alone",
+        "type": "əʊ",
+        "ipa": "əˈləʊn",
+        "meaning": "một mình",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "hole",
+        "type": "əʊ",
+        "ipa": "həʊl",
+        "meaning": "hố",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "mouth",
+        "type": "aʊ",
+        "ipa": "maʊθ",
+        "meaning": "mồm",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "house",
+        "type": "aʊ",
+        "ipa": "haʊs",
+        "meaning": "nhà ở",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "brown",
+        "type": "aʊ",
+        "ipa": "braʊn",
+        "meaning": "nâu",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "cow",
+        "type": "aʊ",
+        "ipa": "kaʊ",
+        "meaning": "bò",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "out",
+        "type": "aʊ",
+        "ipa": "aʊt",
+        "meaning": "ngoài",
+        "context": "Diphthong Vowels"
+    },
+    {
+        "word": "full",
+        "type": "f",
+        "ipa": "fʊl",
+        "meaning": "đầy",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "friday",
+        "type": "f",
+        "ipa": "ˈfraɪdeɪ",
+        "meaning": "Thứ sáu",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "fish",
+        "type": "f",
+        "ipa": "fɪʃ",
+        "meaning": "cá",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "knife",
+        "type": "f",
+        "ipa": "naɪf",
+        "meaning": "dao",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "vest",
+        "type": "v",
+        "ipa": "vɛst",
+        "meaning": "áo vest",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "village",
+        "type": "v",
+        "ipa": "ˈvɪlɪʤ",
+        "meaning": "làng",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "view",
+        "type": "v",
+        "ipa": "vjuː",
+        "meaning": "lượt xem",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "cave",
+        "type": "v",
+        "ipa": "keɪv",
+        "meaning": "hang",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "thought",
+        "type": "θ",
+        "ipa": "θɔːt",
+        "meaning": "nghĩ",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "think",
+        "type": "θ",
+        "ipa": "θɪŋk",
+        "meaning": "suy nghĩ",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "bath",
+        "type": "θ",
+        "ipa": "bɑːθ",
+        "meaning": "bồn tắm",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "there",
+        "type": "ð",
+        "ipa": "ðeə",
+        "meaning": "ở đó",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "those",
+        "type": "ð",
+        "ipa": "ðəʊz",
+        "meaning": "những, cái đó",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "brothers",
+        "type": "ð",
+        "ipa": "ˈbrʌðəz",
+        "meaning": "anh em",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "others",
+        "type": "ð",
+        "ipa": "ˈʌðəz",
+        "meaning": "khác",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "zoo",
+        "type": "z",
+        "ipa": "zuː",
+        "meaning": "vườn bách thú",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "crazy",
+        "type": "z",
+        "ipa": "ˈkreɪzi",
+        "meaning": "khùng",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "lazy",
+        "type": "z",
+        "ipa": "ˈleɪzi",
+        "meaning": "lười biếng",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "zigzag",
+        "type": "z",
+        "ipa": "ˈzɪgzæg",
+        "meaning": "ngoằn ngoèo",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "nose",
+        "type": "z",
+        "ipa": "nəʊz",
+        "meaning": "mũi",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "shirt",
+        "type": "ʃ",
+        "ipa": "ʃɜːt",
+        "meaning": "áo sơ mi",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "rush",
+        "type": "ʃ",
+        "ipa": "rʌʃ",
+        "meaning": "vội vàng",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "shop",
+        "type": "ʃ",
+        "ipa": "ʃɒp",
+        "meaning": "cửa tiệm",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "cash",
+        "type": "ʃ",
+        "ipa": "kæʃ",
+        "meaning": "tiền mặt",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "television",
+        "type": "ʒ",
+        "ipa": "ˈtɛlɪˌvɪʒən",
+        "meaning": "Tivi",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "delusion",
+        "type": "ʒ",
+        "ipa": "dɪˈluːʒən",
+        "meaning": "ảo tưởng",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "casual",
+        "type": "ʒ",
+        "ipa": "ˈkæʒjʊəl",
+        "meaning": "binh thương",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "high",
+        "type": "h",
+        "ipa": "haɪ",
+        "meaning": "cao",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "help",
+        "type": "h",
+        "ipa": "hɛlp",
+        "meaning": "Cứu giúp",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "hello",
+        "type": "h",
+        "ipa": "hɛˈləʊ",
+        "meaning": "xin chào",
+        "context": "Consonants (Fricatives)"
+    },
+    {
+        "word": "pin",
+        "type": "p",
+        "ipa": "pɪn",
+        "meaning": "ghim",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "cap",
+        "type": "p",
+        "ipa": "ˈkæp",
+        "meaning": "mũ lưỡi trai",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "purpose",
+        "type": "p",
+        "ipa": "ˈpɜːpəs",
+        "meaning": "mục đích",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "pause",
+        "type": "p",
+        "ipa": "pɔːz",
+        "meaning": "tạm ngừng",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "bag",
+        "type": "b",
+        "ipa": "bæg",
+        "meaning": "túi",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "bubble",
+        "type": "b",
+        "ipa": "ˈbʌbl",
+        "meaning": "bong bóng",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "build",
+        "type": "b",
+        "ipa": "bɪld",
+        "meaning": "xây dựng",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "robe",
+        "type": "b",
+        "ipa": "rəʊb",
+        "meaning": "áo choàng",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "time",
+        "type": "t",
+        "ipa": "taɪm",
+        "meaning": "thời gian",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "train",
+        "type": "t",
+        "ipa": "treɪn",
+        "meaning": "xe lửa",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "tow",
+        "type": "t",
+        "ipa": "təʊ",
+        "meaning": "kéo",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "late",
+        "type": "t",
+        "ipa": "leɪt",
+        "meaning": "muộn",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "door",
+        "type": "d",
+        "ipa": "dɔː",
+        "meaning": "cửa",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "day",
+        "type": "d",
+        "ipa": "deɪ",
+        "meaning": "ngày",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "drive",
+        "type": "d",
+        "ipa": "draɪv",
+        "meaning": "lái xe",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "down",
+        "type": "d",
+        "ipa": "daʊn",
+        "meaning": "xuống",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "feed",
+        "type": "d",
+        "ipa": "fiːd",
+        "meaning": "cho ăn",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "cash",
+        "type": "k",
+        "ipa": "kæʃ",
+        "meaning": "tiền mặt",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "quick",
+        "type": "k",
+        "ipa": "kwɪk",
+        "meaning": "nhanh chóng",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "cricket",
+        "type": "k",
+        "ipa": "ˈkrɪkɪt",
+        "meaning": "bóng chày",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "sock",
+        "type": "k",
+        "ipa": "sɒk",
+        "meaning": "bít tất",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "girl",
+        "type": "g",
+        "ipa": "gɜːl",
+        "meaning": "con gái",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "green",
+        "type": "g",
+        "ipa": "griːn",
+        "meaning": "màu xanh lá",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "grass",
+        "type": "g",
+        "ipa": "grɑːs",
+        "meaning": "cỏ",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "flag",
+        "type": "g",
+        "ipa": "flæg",
+        "meaning": "cờ",
+        "context": "Consonants (Plosives)"
+    },
+    {
+        "word": "choose",
+        "type": "ʈʃ",
+        "ipa": "ʧuːz",
+        "meaning": "chọn",
+        "context": "Consonants (Affricates)"
+    },
+    {
+        "word": "cheese",
+        "type": "ʈʃ",
+        "ipa": "ʧiːz",
+        "meaning": "phô mai",
+        "context": "Consonants (Affricates)"
+    },
+    {
+        "word": "church",
+        "type": "ʈʃ",
+        "ipa": "ʧɜːʧ",
+        "meaning": "nhà thờ",
+        "context": "Consonants (Affricates)"
+    },
+    {
+        "word": "watch",
+        "type": "ʈʃ",
+        "ipa": "wɒʧ",
+        "meaning": "đồng hồ đeo tay",
+        "context": "Consonants (Affricates)"
+    },
+    {
+        "word": "joy",
+        "type": "dʒ",
+        "ipa": "ʤɔɪ",
+        "meaning": "vui sướng",
+        "context": "Consonants (Affricates)"
+    },
+    {
+        "word": "juggle",
+        "type": "dʒ",
+        "ipa": "ˈʤʌgl",
+        "meaning": "tung hứng",
+        "context": "Consonants (Affricates)"
+    },
+    {
+        "word": "juice",
+        "type": "dʒ",
+        "ipa": "ʤuːs",
+        "meaning": "Nước ép",
+        "context": "Consonants (Affricates)"
+    },
+    {
+        "word": "stage",
+        "type": "dʒ",
+        "ipa": "steɪʤ",
+        "meaning": "sân khấu",
+        "context": "Consonants (Affricates)"
+    },
+    {
+        "word": "room",
+        "type": "m",
+        "ipa": "ruːm",
+        "meaning": "phòng",
+        "context": "Consonants (Nasals: Mũi)"
+    },
+    {
+        "word": "mother",
+        "type": "m",
+        "ipa": "ˈmʌðə",
+        "meaning": "mẹ",
+        "context": "Consonants (Nasals: Mũi)"
+    },
+    {
+        "word": "mad",
+        "type": "m",
+        "ipa": "mæd",
+        "meaning": "điên",
+        "context": "Consonants (Nasals: Mũi)"
+    },
+    {
+        "word": "more",
+        "type": "m",
+        "ipa": "mɔː",
+        "meaning": "hơn",
+        "context": "Consonants (Nasals: Mũi)"
+    },
+    {
+        "word": "now",
+        "type": "n",
+        "ipa": "naʊ",
+        "meaning": "hiện nay",
+        "context": "Consonants (Nasals: Mũi)"
+    },
+    {
+        "word": "nobody",
+        "type": "n",
+        "ipa": "ˈnəʊbədi",
+        "meaning": "không ai",
+        "context": "Consonants (Nasals: Mũi)"
+    },
+    {
+        "word": "knew",
+        "type": "n",
+        "ipa": "njuː",
+        "meaning": "biết",
+        "context": "Consonants (Nasals: Mũi)"
+    },
+    {
+        "word": "turn",
+        "type": "n",
+        "ipa": "tɜːn",
+        "meaning": "xoay",
+        "context": "Consonants (Nasals: Mũi)"
+    },
+    {
+        "word": "king",
+        "type": "ŋ",
+        "ipa": "kɪŋ",
+        "meaning": "nhà vua",
+        "context": "Consonants (Nasals: Mũi)"
+    },
+    {
+        "word": "thing",
+        "type": "ŋ",
+        "ipa": "θɪŋ",
+        "meaning": "Điều",
+        "context": "Consonants (Nasals: Mũi)"
+    },
+    {
+        "word": "song",
+        "type": "ŋ",
+        "ipa": "sɒŋ",
+        "meaning": "bài hát",
+        "context": "Consonants (Nasals: Mũi)"
+    },
+    {
+        "word": "swimming",
+        "type": "ŋ",
+        "ipa": "ˈswɪmɪŋ",
+        "meaning": "bơi lội",
+        "context": "Consonants (Nasals: Mũi)"
+    },
+    {
+        "word": "road",
+        "type": "r",
+        "ipa": "rəʊd",
+        "meaning": "đường",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "roses",
+        "type": "r",
+        "ipa": "ˈrəʊzɪz",
+        "meaning": "hoa hồng",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "river",
+        "type": "r",
+        "ipa": "ˈrɪvə",
+        "meaning": "con sông",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "ring",
+        "type": "r",
+        "ipa": "rɪŋ",
+        "meaning": "nhẫn",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "ride",
+        "type": "r",
+        "ipa": "raɪd",
+        "meaning": "dap xe",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "yellow",
+        "type": "j",
+        "ipa": "ˈjɛləʊ",
+        "meaning": "màu vàng",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "usual",
+        "type": "j",
+        "ipa": "ˈjuːʒʊəl",
+        "meaning": "bình thường",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "tune",
+        "type": "j",
+        "ipa": "tjuːn",
+        "meaning": "điều chỉnh",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "yesterday",
+        "type": "j",
+        "ipa": "ˈjɛstədeɪ",
+        "meaning": "hôm qua",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "yard",
+        "type": "j",
+        "ipa": "jɑːd",
+        "meaning": "sân",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "wall",
+        "type": "w",
+        "ipa": "wɔːl",
+        "meaning": "Tường",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "walk",
+        "type": "w",
+        "ipa": "wɔːk",
+        "meaning": "đi bộ",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "wine",
+        "type": "w",
+        "ipa": "waɪn",
+        "meaning": "rượu",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "world",
+        "type": "w",
+        "ipa": "wɜːld",
+        "meaning": "thế giới",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "law",
+        "type": "l and ɫ",
+        "ipa": "lɔː",
+        "meaning": "pháp luật",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "lots",
+        "type": "l and ɫ",
+        "ipa": "lɒts",
+        "meaning": "rất nhiều",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "leap",
+        "type": "l and ɫ",
+        "ipa": "liːp",
+        "meaning": "bước nhảy vọt",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "long",
+        "type": "l and ɫ",
+        "ipa": "lɒŋ",
+        "meaning": "Dài",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "pill",
+        "type": "l and ɫ",
+        "ipa": "pɪl",
+        "meaning": "Viên thuốc",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "cold",
+        "type": "l and ɫ",
+        "ipa": "kəʊld",
+        "meaning": "lạnh",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "chill",
+        "type": "l and ɫ",
+        "ipa": "ʧɪl",
+        "meaning": "làm lạnh",
+        "context": "Consonants (Approximants)"
+    },
+    {
+        "word": "melt",
+        "type": "l and ɫ",
+        "ipa": "mɛlt",
+        "meaning": "tan chảy",
+        "context": "Consonants (Approximants)"
+    }
+]

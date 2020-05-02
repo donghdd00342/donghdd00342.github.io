@@ -1,0 +1,222 @@
+[
+    {
+        "word": "benefit",
+        "ipa": "ˈbɛnɪfɪt",
+        "type": "n",
+        "tag": "lợi ích",
+        "meaning": "A benefit is a good thing",
+        "context": "Một lợi ích là một điều tốt",
+        "ex": "Being able to fly is a good benefit to birds",
+        "ipaExTrans": "ˈbiːɪŋ ˈeɪbl tuː flaɪ ɪz ə gʊd ˈbɛnɪfɪt tuː bɜːdz",
+        "exMeaning": "Có thể bay là một lợi ích tốt cho chim"
+    },
+    {
+        "word": "certain",
+        "ipa": "ˈsɜːtn",
+        "type": "adj",
+        "tag": "nhất định",
+        "meaning": "If you are certain about something, you know it is true",
+        "context": "Nếu bạn chắc chắn về điều gì đó, bạn biết đó là sự thật",
+        "ex": "I am certain that zebras have stripes.",
+        "ipaExTrans": "aɪ æm ˈsɜːtn ðæt ˈziːbrəz hæv straɪps.",
+        "exMeaning": "Tôi chắc chắn rằng ngựa vằn có sọc."
+    },
+    {
+        "word": "chance",
+        "ipa": "ʧɑːns",
+        "type": "n",
+        "tag": "cơ hội",
+        "meaning": "A chance is an opportunity to do something",
+        "context": "Cơ hội là cơ hội để làm một cái gì đó",
+        "ex": "I had a chance to see the Roman Coliseum last summer.",
+        "ipaExTrans": "aɪ hæd ə ʧɑːns tuː siː ðə ˈrəʊmən ˌkɒlɪˈsɪəm lɑːst ˈsʌmə.",
+        "exMeaning": "Tôi đã có cơ hội để xem Đấu trường La Mã vào mùa hè năm ngoái."
+    },
+    {
+        "word": "effect",
+        "ipa": "ɪˈfɛkt",
+        "type": "n",
+        "tag": "hiệu ứng",
+        "meaning": "An effect is a change made by something else.",
+        "context": "Một hiệu ứng là một sự thay đổi được thực hiện bởi một cái gì đó khác.",
+        "ex": "The medicine had a good effect on the boy.",
+        "ipaExTrans": "ðə ˈmɛdsɪn hæd ə gʊd ɪˈfɛkt ɒn ðə bɔɪ.",
+        "exMeaning": "Thuốc có tác dụng tốt đối với cậu bé."
+    },
+    {
+        "word": "essential",
+        "ipa": "ɪˈsɛnʃəl",
+        "type": "adj",
+        "tag": "Thiết yếu",
+        "meaning": "If something is essential, it is very important and necessary.",
+        "context": "Nếu một cái gì đó là thiết yếu, nó rất quan trọng và cần thiết.",
+        "ex": "It is essential to have oxygen when you scuba dive.",
+        "ipaExTrans": "ɪt ɪz ɪˈsɛnʃəl tuː hæv ˈɒksɪʤən wɛn juː ˈskuːbə daɪv.",
+        "exMeaning": "Điều cần thiết là phải có oxy khi bạn lặn biển."
+    },
+    {
+        "word": "far",
+        "ipa": "fɑː",
+        "type": "adj",
+        "tag": "xa",
+        "meaning": "If something is far, it is not close.",
+        "context": "Nếu một cái gì đó xa, nó không gần.",
+        "ex": "It’s far going from the east coast to the west coast of America.",
+        "ipaExTrans": "ɪts fɑː ˈgəʊɪŋ frɒm ði iːst kəʊst tuː ðə wɛst kəʊst ɒv əˈmɛrɪkə.",
+        "exMeaning": "Nó đi xa từ bờ biển phía đông đến bờ biển phía tây nước Mỹ."
+    },
+    {
+        "word": "focus",
+        "ipa": "ˈfəʊkəs",
+        "type": "v",
+        "tag": "tiêu điểm, tập trung",
+        "meaning": "To focus on something is to think about it and pay attention to it.",
+        "context": "Tập trung vào một cái gì đó là suy nghĩ về nó và chú ý đến nó.",
+        "ex": "My mom always helps me to focus on my school work.",
+        "ipaExTrans": "maɪ mɒm ˈɔːlweɪz hɛlps miː tuː ˈfəʊkəs ɒn maɪ skuːl wɜːk.",
+        "exMeaning": "Mẹ tôi luôn giúp tôi tập trung vào công việc ở trường."
+    },
+    {
+        "word": "function",
+        "ipa": "ˈfʌŋkʃən",
+        "type": "n",
+        "tag": "chức năng",
+        "meaning": "The function of something is what it does.",
+        "context": "Chức năng của một cái gì đó là những gì nó làm.",
+        "ex": "The function of a flashlight is to help you see in the dark",
+        "ipaExTrans": "ðə ˈfʌŋkʃən ɒv ə ˈflæʃˌlaɪt ɪz tuː hɛlp juː siː ɪn ðə dɑːk",
+        "exMeaning": "Chức năng của đèn pin là giúp bạn nhìn thấy trong bóng tối"
+    },
+    {
+        "word": "grass",
+        "ipa": "grɑːs",
+        "type": "n",
+        "tag": "cỏ",
+        "meaning": "Grass is the green leaves that cover the ground.",
+        "context": "Cỏ là những chiếc lá xanh phủ kín mặt đất.",
+        "ex": "The grass looked so soft and green.",
+        "ipaExTrans": "ðə grɑːs lʊkt səʊ sɒft ænd griːn.",
+        "exMeaning": "Cỏ trông thật mềm và xanh."
+    },
+    {
+        "word": "guard",
+        "ipa": "gɑːd",
+        "type": "v",
+        "tag": "bảo vệ",
+        "meaning": "To guard something is to take care of it.",
+        "context": "Để bảo vệ một cái gì đó là chăm sóc nó.",
+        "ex": "The police officer will guard us from any harm.",
+        "ipaExTrans": "ðə pəˈliːs ˈɒfɪsə wɪl gɑːd ʌs frɒm ˈɛni hɑːm.",
+        "exMeaning": "Các sĩ quan cảnh sát sẽ bảo vệ chúng tôi khỏi bất kỳ tổn hại."
+    },
+    {
+        "word": "image",
+        "ipa": "ˈɪmɪʤ",
+        "type": "n",
+        "tag": "hình ảnh",
+        "meaning": "The image of something is a picture of it.",
+        "context": "Hình ảnh của một cái gì đó là một hình ảnh của nó.",
+        "ex": "The image of her eye was very clear.",
+        "ipaExTrans": "ði ˈɪmɪʤ ɒv hɜːr aɪ wɒz ˈvɛri klɪə.",
+        "exMeaning": "Hình ảnh của mắt cô rất rõ ràng."
+    },
+    {
+        "word": "immediate",
+        "ipa": "ɪˈmiːdiət",
+        "type": "adj",
+        "tag": "ngay tức khắc",
+        "meaning": "If something is immediate, it happens quickly.",
+        "context": "Nếu một cái gì đó là ngay lập tức, nó xảy ra nhanh chóng.",
+        "ex": "An immediate response came from the pizza place.",
+        "ipaExTrans": "ən ɪˈmiːdiət rɪsˈpɒns keɪm frɒm ðə ˈpiːtsə pleɪs.",
+        "exMeaning": "Một phản ứng ngay lập tức đến từ nơi pizza."
+    },
+    {
+        "word": "primary",
+        "ipa": "ˈpraɪməri",
+        "type": "adj",
+        "tag": "chính (nhân vật), sơ cấp",
+        "meaning": "If something is primary, it is the most important thing.",
+        "context": "Nếu một cái gì đó là chính, nó là điều quan trọng nhất.",
+        "ex": "His primary thoughts are about money.",
+        "ipaExTrans": "hɪz ˈpraɪməri θɔːts ɑːr əˈbaʊt ˈmʌni.",
+        "exMeaning": "Suy nghĩ chính của anh ấy là về tiền bạc."
+    },
+    {
+        "word": "proud",
+        "ipa": "praʊd",
+        "type": "adj",
+        "tag": "tự hào",
+        "meaning": "If someone feels proud, they are happy about what they have done.",
+        "context": "Nếu ai đó cảm thấy tự hào, họ hạnh phúc về những gì họ đã làm.",
+        "ex": "She is proud of the picture she drew of her house.",
+        "ipaExTrans": "ʃiː ɪz praʊd ɒv ðə ˈpɪkʧə ʃiː druː ɒv hɜː haʊs.",
+        "exMeaning": "Cô tự hào về bức tranh cô vẽ về ngôi nhà của mình."
+    },
+    {
+        "word": "remain",
+        "ipa": "rɪˈmeɪn",
+        "type": "v",
+        "tag": "thừa lại, ở lại, vẫn còn",
+        "meaning": "To remain somewhere is to stay there.",
+        "context": "Ở lại một nơi nào đó là ở lại đó.",
+        "ex": "My sister had to remain home since she was sick.",
+        "ipaExTrans": "maɪ ˈsɪstə hæd tuː rɪˈmeɪn həʊm sɪns ʃiː wɒz sɪk.",
+        "exMeaning": "Chị tôi phải ở nhà kể từ khi ốm."
+    },
+    {
+        "word": "rest",
+        "ipa": "rɛst",
+        "type": "v",
+        "tag": "nghỉ ngơi",
+        "meaning": "To rest is to stop being active while the body gets back its strength.",
+        "context": "Nghỉ ngơi là ngừng hoạt động trong khi cơ thể lấy lại sức.",
+        "ex": "I rested on the couch after work.",
+        "ipaExTrans": "aɪ ˈrɛstɪd ɒn ðə kaʊʧ ˈɑːftə wɜːk.",
+        "exMeaning": "Tôi nghỉ ngơi trên đi văng sau khi làm việc."
+    },
+    {
+        "word": "separate",
+        "ipa": "ˈsɛprɪt",
+        "type": "adj",
+        "tag": "tách rời",
+        "meaning": "If two things are separate, they are not together",
+        "context": "Nếu hai thứ riêng biệt, chúng không cùng nhau",
+        "ex": "New York and Los Angeles are in two separate parts of America.",
+        "ipaExTrans": "njuː jɔːk ænd Los ˈeɪnʤəlz ɑːr ɪn tuː ˈsɛprɪt pɑːts ɒv əˈmɛrɪkə.",
+        "exMeaning": "New York và Los Angeles nằm ở hai phần riêng biệt của Mỹ."
+    },
+    {
+        "word": "site",
+        "ipa": "saɪt",
+        "type": "n",
+        "tag": "Địa điểm",
+        "meaning": "A site is a place",
+        "context": "Một trang web là một nơi",
+        "ex": "We found the perfect site for our picnic.",
+        "ipaExTrans": "wiː faʊnd ðə ˈpɜːfɪkt saɪt fɔːr ˈaʊə ˈpɪknɪk.",
+        "exMeaning": "Chúng tôi tìm thấy các trang web hoàn hảo cho chuyến dã ngoại của chúng tôi."
+    },
+    {
+        "word": "tail",
+        "ipa": "teɪl",
+        "type": "n",
+        "tag": "đuôi",
+        "meaning": "A tail is a part of an animal’s body, sticking out from its rear or back.",
+        "context": "Đuôi là một phần của cơ thể động vật, thò ra từ phía sau hoặc phía sau.",
+        "ex": "Our dog wags its tail when it’s happy.",
+        "ipaExTrans": "ˈaʊə dɒg wægz ɪts teɪl wɛn ɪts ˈhæpi.",
+        "exMeaning": "Con chó của chúng tôi vẫy đuôi khi nó hạnh phúc."
+    },
+    {
+        "word": "trouble",
+        "ipa": "ˈtrʌbl",
+        "type": "n",
+        "tag": "rắc rối",
+        "meaning": "Trouble is a problem ora difficulty.",
+        "context": "Rắc rối là một vấn đề khó khăn ora.",
+        "ex": "I have trouble working with my boss",
+        "ipaExTrans": "aɪ hæv ˈtrʌbl ˈwɜːkɪŋ wɪð maɪ bɒs",
+        "exMeaning": "Tôi gặp khó khăn khi làm việc với sếp"
+    }
+]

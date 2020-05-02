@@ -1,0 +1,212 @@
+[
+    {
+        "word": "accompany",
+        "type": "động từ",
+        "ipa": "əˈkʌmpəni",
+        "meaning": "đi cùng ai đó",
+        "tag": "accompany somebody: đi cùng ai đó",
+        "context": "company (n) : (Nghĩa 1) việc ở cùng ai đó; (Nghĩa 3) sự cùng đi; sự cùng ở; sự có bầu bạn",
+        "ex": "His wife accompanied him on the trip.",
+        "ipaExTrans": "hɪz waɪf əˈkʌmpənid hɪm ɒn ðə trɪp.",
+        "exMeaning": "Vợ anh ấy đi cùng anh ấy trong chuyến đi."
+    },
+    {
+        "word": "accept",
+        "type": "động từ",
+        "ipa": "əkˈsɛpt",
+        "meaning": "chấp nhận, đồng ý",
+        "tag": "acceptance (n): sự chấp nhận, sự đồng ý; acceptable (adj): chấp nhận được",
+        "context": "accept something: chấp nhận, đồng ý cái gì đó; accept something for something: chấp nhận cái gì đó cho cái gì đó",
+        "ex": "She's decided not to accept the job.",
+        "ipaExTrans": "ʃiːz dɪˈsaɪdɪd nɒt tuː əkˈsɛpt ðə ʤɒb.",
+        "exMeaning": "Cô ấy đã quyết định sẽ không nhận công việc đó."
+    },
+    {
+        "word": "try",
+        "type": "động từ",
+        "ipa": "traɪ",
+        "meaning": "cố gắng",
+        "context": "You didn't try hard enough.",
+        "ex": "Keep trying and you'll find a job eventually.",
+        "ipaExTrans": "kiːp ˈtraɪɪŋ ænd juːl faɪnd ə ʤɒb ɪˈvɛnʧəli.",
+        "exMeaning": "Tiếp tục cố gắng và rồi bạn cũng sẽ tìm được công việc thôi."
+    },
+    {
+        "word": "research",
+        "type": "động từ",
+        "ipa": "rɪˈsɜːʧ",
+        "meaning": "nghiên cứu",
+        "tag": "research (n) : sự nghiên cứu",
+        "context": "research into/in/on something: nghiên cứu về cái gì đó; research how, what, etc…: nghiên cứu làm thế nào",
+        "ex": "We have to research how the product will actually be used.",
+        "ipaExTrans": "wiː hæv tuː rɪˈsɜːʧ haʊ ðə ˈprɒdʌkt wɪl ˈækʧʊəli biː juːzd.",
+        "exMeaning": "Chúng ta phải nghiên cứu xem sản phẩm sẽ thật sự được dùng thế nào."
+    },
+    {
+        "word": "mean",
+        "type": "tính từ",
+        "ipa": "miːn",
+        "meaning": "xấu tính, xấu xa",
+        "tag": "means (n) : phương tiện, cách thức; meaningful (adj): nghiêm túc và quan trọng (\"có ý nghĩa\"); meaning (n) Nghe phát âm của từ meaning : ý nghĩa; mean (v) Nghe phát âm của từ mean : (Nghĩa 1) có nghĩa (Nghĩa 5) cho kết quả"
+    },
+    {
+        "word": "really",
+        "type": "trạng từ",
+        "ipa": "ˈrɪəli",
+        "meaning": "thực sự",
+        "ex": "He is not really a good friend.",
+        "ipaExTrans": "hiː ɪz nɒt ˈrɪəli ə gʊd frɛnd.",
+        "exMeaning": "Anh ta không thật sự là một người bạn tốt."
+    },
+    {
+        "word": "number",
+        "type": "danh từ",
+        "ipa": "ˈnʌmbə",
+        "meaning": "(con) số",
+        "ex": "Seven is an odd number.",
+        "ipaExTrans": "ˈsɛvn ɪz ən ɒd ˈnʌmbə.",
+        "exMeaning": "Số bảy là số lẻ.",
+        "exSecond": "Ten is an even number.",
+        "exSecondMeaning": "Số mười là số chẵn."
+    },
+    {
+        "word": "sell",
+        "type": "động từ",
+        "ipa": "sɛl",
+        "meaning": "bán",
+        "tag": "seller (n): người bán",
+        "context": "sell (something) (at something): bán (cái gì đó) (với giá gì đó); sell something (to somebody) (for something): bán cái gì đó (cho ai đó) (bao nhiêu tiền)",
+        "ex": "I sold my laptop to a man I met in the bar for $800.",
+        "ipaExTrans": "aɪ səʊld maɪ ˈlæpˌtɒp tuː ə mæn aɪ mɛt ɪn ðə bɑː fɔː $800.",
+        "exSecond": "Tôi bán laptop của tôi cho một người đàn ông tôi gặp trong quán bar với giá $800."
+    },
+    {
+        "word": "plan",
+        "type": "động từ",
+        "ipa": "plæn",
+        "meaning": "lập kế hoạch",
+        "context": "planning (n) Nghe phát âm của từ planning : sự hoạch định; plan (n) Nghe phát âm của từ plan : kế hoạch, dự định; planner (n) Nghe phát âm của từ planner : người/sách/phần mềm lập kế hoạch, lên lịch các cuộc họp",
+        "ex": "Where do you plan on spending your vacation?",
+        "ipaExTrans": "weə duː juː plæn ɒn ˈspɛndɪŋ jɔː vəˈkeɪʃən?",
+        "exMeaning": "Bạn định đi nghỉ mát ở đâu?"
+    },
+    {
+        "word": "see",
+        "type": "động từ",
+        "ipa": "siː",
+        "meaning": "nhìn thấy",
+        "context": "see somebody/something do something: nhìn thấy ai đó / cái gì đó làm gì đó; see somebody/something doing something: nhìn thấy ai đó / cái gì đó làm gì đó",
+        "ex": "They saw the cat enter the shop.",
+        "ipaExTrans": "ðeɪ sɔː ðə kæt ˈɛntə ðə ʃɒp.",
+        "exMeaning": "Họ thấy con mèo đi vào tiệm."
+    },
+    {
+        "word": "send",
+        "type": "động từ",
+        "ipa": "sɛnd",
+        "meaning": "gửi",
+        "context": "send something to somebody: gửi cái gì đó cho ai đó",
+        "ex": "The spacecraft sent a signal back to earth. ",
+        "ipaExTrans": "ðə ˈspeɪskrɑːft sɛnt ə ˈsɪgnl bæk tuː ɜːθ.",
+        "exMeaning": "Phi thuyền gửi một tín hiệu về trái đất."
+    },
+    {
+        "word": "available",
+        "type": "tính từ",
+        "ipa": "əˈveɪləbl",
+        "meaning": "có sẵn",
+        "tag": "availability (n) : sự có sẵn",
+        "ex": "As soon as the free content becomes available, we will download it.",
+        "ipaExTrans": "æz suːn æz ðə friː ˈkɒntɛnt bɪˈkʌmz əˈveɪləbl, wiː wɪl ˌdaʊnˈləʊd ɪt.",
+        "exMeaning": "Ngay khi nội dung miễn phí có thể dùng được, chúng tôi sẽ tải nó."
+    },
+    {
+        "word": "firm",
+        "type": "tính từ",
+        "ipa": "fɜːm",
+        "meaning": "cứng; rắn chắc",
+        "tag": "firmly (adv): một cách chắc chắn; firm (n): hãng, công ty",
+        "ex": "The fruits are still firm. Let's wait a few more days.",
+        "ipaExTrans": "ðə fruːts ɑː stɪl fɜːm. lɛts weɪt ə fjuː mɔː deɪz.",
+        "exMeaning": "Những quả cây còn cứng. Hãy đợi vài ngày nữa."
+    },
+    {
+        "word": "ago",
+        "type": "trạng từ",
+        "ipa": "əˈgəʊ",
+        "meaning": "trước đây (thì quá khứ đơn)",
+        "ex": "I painted this picture three days ago.",
+        "ipaExTrans": "aɪ ˈpeɪntɪd ðɪs ˈpɪkʧə θriː deɪz əˈgəʊ.",
+        "exMeaning": "Tôi đã vẽ bức tranh này ba ngày trước."
+    },
+    {
+        "word": "receive",
+        "type": "động từ",
+        "ipa": "rɪˈsiːv",
+        "meaning": "nhận được",
+        "context": "receive something: nhận được cái gì đó",
+        "ex": "He received an award for bravery from the police service.",
+        "ipaExTrans": "hiː rɪˈsiːvd ən əˈwɔːd fɔː ˈbreɪvəri frɒm ðə pəˈliːs ˈsɜːvɪs.",
+        "exMeaning": "Anh ấy nhận được một giải thưởng cho lòng dũng cảm từ Cục Cảnh sát."
+    },
+    {
+        "word": "allow",
+        "type": "động từ",
+        "ipa": "əˈlaʊ",
+        "meaning": "cho phép",
+        "context": "allowance (n: (Nghĩa 1) khoảng tiền đưa cho ai đó với một mục đích cụ thể (tiền trợ cấp, tiền tiêu vặt, vv); (Nghĩa 2) lượng, số lượng cho phép",
+        "ex": "I want to change my schedule, but my boss won't allow it.",
+        "ipaExTrans": "aɪ wɒnt tuː ʧeɪnʤ maɪ ˈʃɛdjuːl, bʌt maɪ bɒs wəʊnt əˈlaʊ ɪt.",
+        "exMeaning": "Tôi muốn thay đổi lịch làm việc của mình, nhưng sếp tôi không cho."
+    },
+    {
+        "word": "hope",
+        "type": "động từ",
+        "ipa": "həʊp",
+        "meaning": "hi vọng",
+        "tag": "hope (n): (sự, niềm) hi vọng; hopeful (adj): đầy hy vọng; hopeless (adj): không hy vọng, tuyệt vọng",
+        "context": "hope (for something): hy vọng (sẽ có cái gì đó)",
+        "ex": "Let's hope for the best.",
+        "ipaExTrans": "lɛts həʊp fɔː ðə bɛst.",
+        "exMeaning": "Hãy hy vọng vào điều tốt nhất."
+    },
+    {
+        "word": "move",
+        "type": "động từ",
+        "ipa": "muːv",
+        "meaning": "di chuyển",
+        "context": "moving (adj): (Nghĩa 1) gây xúc động; (Nghĩa 2) sự di chuyển; move (n) sự di chuyển; movement (n): (Nghĩa 1) sự vận động, sự cử động;(Nghĩa 3) cuộc vận động, phong trào",
+        "ex": "You can't move for books in her room.",
+        "ipaExTrans": "juː kɑːnt muːv fɔː bʊks ɪn hɜː ruːm.",
+        "exMeaning": "Anh không thể đi lại để lấy sách trong phòng cô ta."
+    },
+    {
+        "word": "great",
+        "type": "tính từ",
+        "ipa": "greɪt",
+        "meaning": "rất lớn, to lớn",
+        "tag": "greatly (adv): rất nhiều",
+        "ex": "A great number of birds are flying here.",
+        "ipaExTrans": "ə greɪt ˈnʌmbər ɒv bɜːdz ɑː ˈflaɪɪŋ hɪə.",
+        "exMeaning": "Một số lớn những con chim đang bay về đây."
+    },
+    {
+        "word": "high",
+        "type": "tính từ",
+        "ipa": "haɪ",
+        "meaning": "cao",
+        "tag": "highly (adv) : rất high (adv) : cao (vị trí, cấp độ)",
+        "ex": "We build a high fence so no one can climb in.",
+        "ipaExTrans": "wiː bɪld ə haɪ fɛns səʊ nəʊ wʌn kæn klaɪm ɪn.",
+        "exMeaning": "Chúng tôi xây hàng rào cao để không ai leo vào được."
+    },
+    {
+        "word": "customer",
+        "type": "danh từ",
+        "ipa": "ˈkʌstəmə",
+        "meaning": "khách hàng",
+        "ex": "The company always pleases its customers.",
+        "ipaExTrans": "ðə ˈkʌmpəni ˈɔːlweɪz ˈpliːzɪz ɪts ˈkʌstəməz.",
+        "exMeaning": "Công ty ấy luôn làm hài lòng khách hàng."
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "word": "afraid",
+        "ipa": "əˈfreɪd",
+        "type": "adj",
+        "tag": "sợ",
+        "meaning": "When someone is afraid, they feel fear.",
+        "context": "Khi ai đó sợ, họ cảm thấy sợ hãi.",
+        "ex": "The woman was afraid of what she saw",
+        "ipaExTrans": "ðə ˈwʊmən wɒz əˈfreɪd ɒv wɒt ʃiː sɔː",
+        "exMeaning": "Người phụ nữ sợ những gì cô ấy thấy"
+    },
+    {
+        "word": "agree",
+        "ipa": "əˈgriː",
+        "type": "v",
+        "tag": "đồng ý",
+        "meaning": "To agree is to say “yes” or to think the same way",
+        "context": "Đồng ý là nói vâng, vâng, hay nghĩ giống như vậy",
+        "ex": "A: The food is very good in that restaurant. B: I agree with you.",
+        "ipaExTrans": "eɪ: ðə fuːd ɪz ˈvɛri gʊd ɪn ðæt ˈrɛstrɒnt. biː: aɪ əˈgriː wɪð juː.",
+        "exMeaning": "A: Đồ ăn rất ngon trong nhà hàng đó. B: Tôi đồng ý với bạn."
+    },
+    {
+        "word": "angry",
+        "ipa": "ˈæŋgri",
+        "type": "adj",
+        "tag": "bực bội",
+        "meaning": "When someone is angry, they may want to speak loudly or fight",
+        "context": "Khi ai đó tức giận, họ có thể muốn nói to hoặc đánh nhau",
+        "ex": "She didn’t do her homework, so her father is angry",
+        "ipaExTrans": "ʃiː dɪdnt duː hɜː ˈhəʊmˌwɜːk, səʊ hɜː ˈfɑːðər ɪz ˈæŋgri",
+        "exMeaning": "Cô ấy đã làm bài tập về nhà, vì vậy cha cô ấy rất tức giận"
+    },
+    {
+        "word": "arrive",
+        "ipa": "əˈraɪv",
+        "type": "v",
+        "tag": "đến",
+        "meaning": "To arrive is to get to or reach some place",
+        "context": "Đến nơi là đến hoặc đến một nơi nào đó",
+        "ex": "The bus always arrives at the corner of my street at 4:00.",
+        "ipaExTrans": "ðə bʌs ˈɔːlweɪz əˈraɪvz æt ðə ˈkɔːnər ɒv maɪ striːt æt 4:00.",
+        "exMeaning": "Xe buýt luôn đến góc đường của tôi lúc 4:00."
+    },
+    {
+        "word": "attack",
+        "ipa": "əˈtæk",
+        "type": "v",
+        "tag": "tấn công",
+        "meaning": "To attack is to try to fight or to hurt.",
+        "context": "Tấn công là cố gắng chiến đấu hoặc làm tổn thương.",
+        "ex": "The man with the sword attacked the other man first.",
+        "ipaExTrans": "ðə mæn wɪð ðə sɔːd əˈtækt ði ˈʌðə mæn fɜːst.",
+        "exMeaning": "Người đàn ông cầm kiếm tấn công người đàn ông kia trước."
+    },
+    {
+        "word": "bottom",
+        "ipa": "ˈbɒtəm",
+        "type": "n",
+        "tag": "dưới cùng",
+        "meaning": "The bottom is the lowest part",
+        "context": "Phần dưới cùng là phần thấp nhất",
+        "ex": "The bottom of my shoe has a hole in it.",
+        "ipaExTrans": "ðə ˈbɒtəm ɒv maɪ ʃuː hæz ə həʊl ɪn ɪt.",
+        "exMeaning": "Phần đế giày của tôi có một lỗ."
+    },
+    {
+        "word": "clever",
+        "ipa": "ˈklɛvə",
+        "type": "adj",
+        "tag": "tài giỏi",
+        "meaning": "When someone is clever, they can solve a hard puzzle or problem.",
+        "context": "Khi ai đó khéo léo, họ có thể giải một câu đố hay vấn đề khó.",
+        "ex": "The clever boy thought of a good idea.",
+        "ipaExTrans": "ðə ˈklɛvə bɔɪ θɔːt ɒv ə gʊd aɪˈdɪə.",
+        "exMeaning": "Chàng trai thông minh nghĩ ra một ý tưởng hay."
+    },
+    {
+        "word": "cruel",
+        "ipa": "krʊəl",
+        "type": "adj",
+        "tag": "hung ác",
+        "meaning": "When someone is cruel, they do bad things to hurt others.",
+        "context": "Khi ai đó độc ác, họ làm những điều xấu để làm tổn thương người khác.",
+        "ex": "The cruel man yelled at his sister.",
+        "ipaExTrans": "ðə krʊəl mæn jɛld æt hɪz ˈsɪstə.",
+        "exMeaning": "Người đàn ông độc ác mắng em gái mình."
+    },
+    {
+        "word": "finally",
+        "ipa": "ˈfaɪnəli",
+        "type": "adv",
+        "tag": "cuối cùng",
+        "meaning": "If something happens finally, it happens after a longtime or at the end.",
+        "context": "Nếu một cái gì đó xảy ra cuối cùng, nó xảy ra sau một thời gian dài hoặc cuối cùng.",
+        "ex": "He finally crossed the finish line after five hours of running.",
+        "ipaExTrans": "hiː ˈfaɪnəli krɒst ðə ˈfɪnɪʃ laɪn ˈɑːftə faɪv ˈaʊəz ɒv ˈrʌnɪŋ.",
+        "exMeaning": "Cuối cùng anh đã vượt qua vạch đích sau năm giờ chạy."
+    },
+    {
+        "word": "hide",
+        "ipa": "haɪd",
+        "type": "v",
+        "tag": "ẩn giấu",
+        "meaning": "To hide is to try not to let others see you.",
+        "context": "Để che giấu là cố gắng không để người khác nhìn thấy bạn.",
+        "ex": "The other children will hide while you count to 100",
+        "ipaExTrans": "ði ˈʌðə ˈʧɪldrən wɪl haɪd waɪl juː kaʊnt tuː 100",
+        "exMeaning": "Những đứa trẻ khác sẽ trốn trong khi bạn đếm đến 100"
+    },
+    {
+        "word": "hunt",
+        "ipa": "hʌnt",
+        "type": "v",
+        "tag": "săn bắn",
+        "meaning": "To hunt is to look for or search for an animal to kill.",
+        "context": "Đi săn là tìm kiếm hoặc tìm kiếm một con vật để giết.",
+        "ex": "Long ago, people hunted with bows and arrows.",
+        "ipaExTrans": "lɒŋ əˈgəʊ, ˈpiːpl ˈhʌntɪd wɪð baʊz ænd ˈærəʊz.",
+        "exMeaning": "Từ lâu, người ta đã săn bắn bằng cung tên."
+    },
+    {
+        "word": "lot",
+        "ipa": "lɒt",
+        "type": "n",
+        "tag": "nhiều",
+        "meaning": "A lot means a large number or amount of people, animals, things, etc.",
+        "context": "Rất nhiều có nghĩa là một số lượng lớn hoặc số lượng người, động vật, đồ vật, vv",
+        "ex": "There are a lot of apples in the basket.",
+        "ipaExTrans": "ðeər ɑːr ə lɒt ɒv ˈæplz ɪn ðə ˈbɑːskɪt.",
+        "exMeaning": "Có rất nhiều táo trong giỏ."
+    },
+    {
+        "word": "middle",
+        "ipa": "ˈmɪdl",
+        "type": "n",
+        "tag": "ở giữa",
+        "meaning": "The middle of something is the center or halfway point.",
+        "context": "Giữa một cái gì đó là trung tâm hoặc điểm giữa.",
+        "ex": "The Canadian flag has a maple leaf in the middle of it",
+        "ipaExTrans": "ðə kəˈneɪdiən flæg hæz ə ˈmeɪpl liːf ɪn ðə ˈmɪdl ɒv ɪt",
+        "exMeaning": "Quốc kỳ Canada có một chiếc lá phong ở giữa nó"
+    },
+    {
+        "word": "moment",
+        "ipa": "ˈməʊmənt",
+        "type": "n",
+        "tag": "chốc lát, một thời điểm",
+        "meaning": "A moment is a second or a very short time.",
+        "context": "Một khoảnh khắc là một giây hoặc một thời gian rất ngắn.",
+        "ex": "I was only a few moments late for the meeting.",
+        "ipaExTrans": "aɪ wɒz ˈəʊnli ə fjuː ˈməʊmənts leɪt fɔː ðə ˈmiːtɪŋ.",
+        "exMeaning": "Tôi chỉ trễ vài phút cho cuộc họp."
+    },
+    {
+        "word": "pleased",
+        "ipa": "pliːzd",
+        "type": "adj",
+        "tag": "vừa lòng",
+        "meaning": "When someone is pleased, they are happy.",
+        "context": "Khi ai đó hài lòng, họ hạnh phúc.",
+        "ex": "She was pleased with the phone call she received.",
+        "ipaExTrans": "ʃiː wɒz pliːzd wɪð ðə fəʊn kɔːl ʃiː rɪˈsiːvd.",
+        "exMeaning": "Cô hài lòng với cuộc gọi điện thoại mà cô nhận được."
+    },
+    {
+        "word": "promise",
+        "ipa": "ˈprɒmɪs",
+        "type": "v",
+        "tag": "lời hứa",
+        "meaning": "To promise is to say you will do something for sure.",
+        "context": "Để hứa là nói bạn sẽ làm một cái gì đó chắc chắn.",
+        "ex": "He promised to return my key by tomorrow",
+        "ipaExTrans": "hiː ˈprɒmɪst tuː rɪˈtɜːn maɪ kiː baɪ təˈmɒrəʊ",
+        "exMeaning": "Anh hứa sẽ trả lại chìa khóa cho tôi vào ngày mai"
+    },
+    {
+        "word": "reply",
+        "ipa": "rɪˈplaɪ",
+        "type": "v",
+        "tag": "Đáp lại",
+        "meaning": "To reply is to give an answer or say back to someone",
+        "context": "Trả lời là trả lời hoặc nói lại với ai đó",
+        "ex": "She asked him what time his meeting was. He replied, “at three.”",
+        "ipaExTrans": "ʃiː ɑːskt hɪm wɒt taɪm hɪz ˈmiːtɪŋ wɒz. hiː rɪˈplaɪd, “æt θriː.”",
+        "exMeaning": "Cô hỏi anh mấy giờ cuộc họp của anh. Anh trả lời, tại ba."
+    },
+    {
+        "word": "safe",
+        "ipa": "seɪf",
+        "type": "adj",
+        "tag": "an toàn",
+        "meaning": "When a person is safe, they are not in danger",
+        "context": "Khi một người an toàn, họ không gặp nguy hiểm",
+        "ex": "Put on your seat belt in the car to be safe",
+        "ipaExTrans": "pʊt ɒn jɔː siːt bɛlt ɪn ðə kɑː tuː biː seɪf",
+        "exMeaning": "Thắt dây an toàn trong xe để an toàn"
+    },
+    {
+        "word": "trick",
+        "ipa": "trɪk",
+        "type": "n",
+        "tag": "lừa, trò khéo léo",
+        "meaning": "A trick is something you do to fool another person.",
+        "context": "Một mẹo là một cái gì đó bạn làm để đánh lừa người khác.",
+        "ex": "His card trick really surprised us.",
+        "ipaExTrans": "hɪz kɑːd trɪk ˈrɪəli səˈpraɪzd ʌs.",
+        "exMeaning": "Thủ thuật đánh bài của anh ấy thực sự làm chúng tôi ngạc nhiên."
+    },
+    {
+        "word": "well",
+        "ipa": "wɛl",
+        "type": "adv",
+        "tag": "tốt",
+        "meaning": "You use well to say that something was done in a good way",
+        "context": "Bạn sử dụng tốt để nói rằng một cái gì đó đã được thực hiện một cách tốt",
+        "ex": "The couple can dance quite well.",
+        "ipaExTrans": "ðə ˈkʌpl kæn dɑːns kwaɪt wɛl.",
+        "exMeaning": "Cặp đôi có thể nhảy khá tốt."
+    }
+]

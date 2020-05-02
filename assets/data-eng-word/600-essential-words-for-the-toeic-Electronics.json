@@ -1,0 +1,128 @@
+[
+    {
+        "word": "disk",
+        "type": "đĩa",
+        "ipa": "dɪsk",
+        "meaning": "an object used to store digital information (đĩa máy tính)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "facilitate",
+        "type": "tạo điều kiện",
+        "ipa": "fəˈsɪlɪteɪt",
+        "meaning": "to make easier (làm cho dễ dàng, thuận tiện)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "network",
+        "type": "mạng",
+        "ipa": "ˈnɛtwɜːk",
+        "meaning": "an interconnected group or system (mạng lưới)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "popularity",
+        "type": "phổ biến",
+        "ipa": "ˌpɒpjʊˈlærɪti",
+        "meaning": "the state of being widely admired, sought (tính đại chúng, phổ biến)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "popularize",
+        "type": "phổ biến",
+        "ipa": "ˈpɒpjʊləraɪz",
+        "meaning": "(v) đại chúng hóa; truyền bá, phổ biến",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "process",
+        "type": "quá trình",
+        "ipa": "ˈprəʊsɛs",
+        "meaning": "a series of operations or actions to bring about a result (quy trình)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "replace",
+        "type": "thay thế",
+        "ipa": "rɪˈpleɪs",
+        "meaning": "to put back in a former place or position (đặt lại chỗ cũ, thay thế)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "replaceable",
+        "type": "thay thế",
+        "ipa": "rɪˈpleɪsəbl",
+        "meaning": "có thể thay thế",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "revolution",
+        "type": "Cuộc cách mạng",
+        "ipa": "ˌrɛvəˈluːʃən",
+        "meaning": "a sudden or momentous change in a situation (cuộc cách mạng, quay vòng)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "revolutionize",
+        "type": "cách mạng hóa",
+        "ipa": "ˌrɛvəˈluːʃnaɪz",
+        "meaning": "verb cách mạng hóa",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "revolutionary",
+        "type": "cách mạng",
+        "ipa": "ˌrɛvəˈluːʃnəri",
+        "meaning": "adj of revolution (mang tính cách mạng)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "sharp",
+        "type": "nhọn",
+        "ipa": "ʃɑːp",
+        "meaning": "abrupt or acute; smart (rõ rệt, sắc nét; thông minh, sắc sảo)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "skill",
+        "type": "kỹ năng",
+        "ipa": "skɪl",
+        "meaning": "developed ability (kỹ năng)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "software",
+        "type": "phần mềm",
+        "ipa": "ˈsɒftweə",
+        "meaning": "the programs for a computer (phần mềm)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "storage",
+        "type": "lưu trữ",
+        "ipa": "ˈstɔːrɪʤ",
+        "meaning": "the safekeeping of goods or information (kho, sự dự trữ)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "store",
+        "type": "cửa hàng",
+        "ipa": "stɔː",
+        "meaning": "lưu trữ",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "technical",
+        "type": "kỹ thuật",
+        "ipa": "ˈtɛknɪkəl",
+        "meaning": "special skill or knowledge (Kỹ thuật)",
+        "tag": "Electronics (điện tử)"
+    },
+    {
+        "word": "technicality",
+        "type": "kỹ thuật",
+        "ipa": "ˌtɛknɪˈkælɪti",
+        "meaning": "n. chi tiết kỹ thuật",
+        "tag": "Electronics (điện tử)"
+    }
+]

@@ -1,0 +1,886 @@
+[
+    {
+        "word": "proposal",
+        "type": "n",
+        "ipa": "prə'pouzl",
+        "meaning": "sự đề nghị, đề xuất",
+        "ex": "As she watched the sink fill, she considered his proposal - and that other thing.",
+        "ipaExTrans": "æz ʃiː wɒʧt ðə sɪŋk fɪl, ʃiː kənˈsɪdəd hɪz prəˈpəʊzəl - ænd ðæt ˈʌðə θɪŋ.",
+        "exMeaning": "Khi cô nhìn vào bồn rửa, cô xem xét lời cầu hôn của anh - và những thứ khác."
+    },
+    {
+        "word": "propose",
+        "type": "v",
+        "ipa": "prǝ'prouz",
+        "meaning": "đề nghị, đề xuat, đưa ra",
+        "ex": "How do you propose to stop her?",
+        "ipaExTrans": "haʊ duː juː prəˈpəʊz tuː stɒp hɜː?",
+        "exMeaning": "Làm thế nào để bạn đề nghị ngăn chặn cô ấy?"
+    },
+    {
+        "word": "prospect",
+        "type": "n",
+        "ipa": "́prɔspekt",
+        "meaning": "viễn cảnh, toàn cảnh; triển vọng, mong chờ",
+        "ex": "There was a prospect of conviction.",
+        "ipaExTrans": "ðeə wɒz ə ˈprɒspɛkt ɒv kənˈvɪkʃən.",
+        "exMeaning": "Có một triển vọng của niềm tin."
+    },
+    {
+        "word": "protect",
+        "type": "v",
+        "ipa": "prə'tekt",
+        "meaning": "bảo vệ, che chở",
+        "ex": "They are elected or appointed to protect the rights of the citizens, yet they become the agents of their death.",
+        "ipaExTrans": "ðeɪ ɑːr ɪˈlɛktɪd ɔːr əˈpɔɪntɪd tuː prəˈtɛkt ðə raɪts ɒv ðə ˈsɪtɪznz, jɛt ðeɪ bɪˈkʌm ði ˈeɪʤənts ɒv ðeə dɛθ.",
+        "exMeaning": "Họ được bầu hoặc bổ nhiệm để bảo vệ quyền của công dân, nhưng họ trở thành tác nhân của cái chết của họ."
+    },
+    {
+        "word": "protection",
+        "type": "n",
+        "ipa": "prə'tek∫n",
+        "meaning": "sự bảo vệ, sự che chở",
+        "ex": "She was under the protection of the Others.",
+        "ipaExTrans": "ʃiː wɒz ˈʌndə ðə prəˈtɛkʃən ɒv ði ˈʌðəz.",
+        "exMeaning": "Cô ấy ở dưới sự bảo vệ của những người khác."
+    },
+    {
+        "word": "react",
+        "type": "v",
+        "ipa": "ri ́ækt",
+        "meaning": "tác động trở lại, phản ứng",
+        "ex": "How did Shipton react to his own son's death?",
+        "ipaExTrans": "haʊ dɪd Shipton ri(ː)ˈækt tuː hɪz əʊn sʌnz dɛθ?",
+        "exMeaning": "Shipton đã phản ứng thế nào với cái chết của con trai mình?"
+    },
+    {
+        "word": "reaction",
+        "type": "n",
+        "ipa": "ri:'ækʃn",
+        "meaning": "sự phản ứng; sự phản tác dụng",
+        "ex": "We could tell by his reaction the news wasn't good.",
+        "ipaExTrans": "wiː kʊd tɛl baɪ hɪz ri(ː)ˈækʃən ðə njuːz wɒznt gʊd.",
+        "exMeaning": "Chúng tôi có thể nói bằng phản ứng của anh ấy, tin tức không tốt."
+    },
+    {
+        "word": "read",
+        "type": "v",
+        "ipa": "ri:d",
+        "meaning": "đọc",
+        "ex": "Read books that are true.",
+        "ipaExTrans": "riːd bʊks ðæt ɑː truː.",
+        "exMeaning": "Đọc những cuốn sách đó là sự thật."
+    },
+    {
+        "word": "reader",
+        "type": "n",
+        "ipa": "́ri:də",
+        "meaning": "người đọc, độc giả",
+        "ex": "Will you be a reader, a student merely, or a seer?",
+        "ipaExTrans": "wɪl juː biː ə ˈriːdə, ə ˈstjuːdənt ˈmɪəli, ɔːr ə ˈsiːə?",
+        "exMeaning": "Bạn sẽ là một người đọc, một sinh viên đơn thuần, hay một nhà tiên tri?"
+    },
+    {
+        "word": "reading",
+        "type": "n",
+        "ipa": "́ri:diη",
+        "meaning": "sự đọc",
+        "ex": "He was always reading, learning, inquiring.",
+        "ipaExTrans": "hiː wɒz ˈɔːlweɪz ˈriːdɪŋ, ˈlɜːnɪŋ, ɪnˈkwaɪərɪŋ.",
+        "exMeaning": "Anh luôn đọc, học, hỏi."
+    },
+    {
+        "word": "ready",
+        "type": "adj",
+        "ipa": "redi",
+        "meaning": "sẵn sàng",
+        "ex": "Let's get the kids ready to go.",
+        "ipaExTrans": "lɛts gɛt ðə kɪdz ˈrɛdi tuː gəʊ.",
+        "exMeaning": "Hãy để bọn trẻ sẵn sàng đi."
+    },
+    {
+        "word": "real",
+        "type": "adj",
+        "ipa": "riəl",
+        "meaning": "thực, thực tế, có thật",
+        "ex": "The real surprise came with his presence in the delivery room.",
+        "ipaExTrans": "ðə rɪəl səˈpraɪz keɪm wɪð hɪz ˈprɛzns ɪn ðə dɪˈlɪvəri ruːm.",
+        "exMeaning": "Sự ngạc nhiên thực sự đến với sự hiện diện của anh ấy trong phòng sinh."
+    },
+    {
+        "word": "realistic",
+        "type": "adj",
+        "ipa": "ri:ə'listik; BrE also riə",
+        "meaning": "hiện thực",
+        "ex": "For some reason, he experienced a very realistic vision.",
+        "ipaExTrans": "fɔː sʌm ˈriːzn, hiː ɪksˈpɪərɪənst ə ˈvɛri rɪəˈlɪstɪk ˈvɪʒən.",
+        "exMeaning": "Vì một số lý do, anh đã trải nghiệm một tầm nhìn rất thực tế."
+    },
+    {
+        "word": "reality",
+        "type": "n",
+        "ipa": "ri:'æliti",
+        "meaning": "sự thật, thực tế, thực tại",
+        "ex": "I was shocked at how harsh reality can be.",
+        "ipaExTrans": "aɪ wɒz ʃɒkt æt haʊ hɑːʃ ri(ː)ˈælɪti kæn biː.",
+        "exMeaning": "Tôi đã bị sốc về cách thực tế khắc nghiệt có thể."
+    },
+    {
+        "word": "realize",
+        "type": "v",
+        "ipa": "riəlaiz",
+        "meaning": "thực hiện, thực hành; thấy rõ, hiểu rõ, nhận thức rõ (việc gì...)",
+        "ex": "Do you realize how close you came to running right into a bear?",
+        "ipaExTrans": "duː juː ˈrɪəlaɪz haʊ kləʊs juː keɪm tuː ˈrʌnɪŋ raɪt ˈɪntuː ə beə?",
+        "exMeaning": "Bạn có nhận ra mức độ thân thiết của bạn khi chạy ngay vào một con gấu không?"
+    },
+    {
+        "word": "really",
+        "type": "adv",
+        "ipa": "riəli",
+        "meaning": "thực, thực ra, thực sự",
+        "ex": "I really like the look of wood - especially when it looks this graceful.",
+        "ipaExTrans": "aɪ ˈrɪəli laɪk ðə lʊk ɒv wʊd - ɪsˈpɛʃəli wɛn ɪt lʊks ðɪs ˈgreɪsfʊl.",
+        "exMeaning": "Tôi thực sự thích vẻ ngoài của gỗ - đặc biệt là khi nó trông thật duyên dáng."
+    },
+    {
+        "word": "rear",
+        "type": "n, adj",
+        "ipa": "rɪər",
+        "meaning": "phía sau; ở đằng sau, ở đằng sau",
+        "ex": "Once again the rear end was on solid ground.",
+        "ipaExTrans": "wʌns əˈgɛn ðə rɪər ɛnd wɒz ɒn ˈsɒlɪd graʊnd.",
+        "exMeaning": "Một lần nữa, phía sau là trên mặt đất vững chắc."
+    },
+    {
+        "word": "reason",
+        "type": "n",
+        "ipa": "ri:zn",
+        "meaning": "lý do, lý lẽ",
+        "ex": "He had no reason to worry.",
+        "ipaExTrans": "hiː hæd nəʊ ˈriːzn tuː ˈwʌri.",
+        "exMeaning": "Anh không có lý do để lo lắng."
+    },
+    {
+        "word": "reasonable",
+        "type": "adj",
+        "ipa": "́ri:zənəbl",
+        "meaning": "có lý, hợp lý",
+        "ex": "It was a reasonable concern.",
+        "ipaExTrans": "ɪt wɒz ə ˈriːznəbl kənˈsɜːn.",
+        "exMeaning": "Đó là một mối quan tâm hợp lý."
+    },
+    {
+        "word": "reasonably",
+        "type": "adv",
+        "ipa": "́ri:zənəblli",
+        "meaning": "hợp lý",
+        "ex": "He was a reasonably good swim­mer.",
+        "ipaExTrans": "hiː wɒz ə ˈriːznəbli gʊd swɪm­mer.",
+        "exMeaning": "Anh ấy là một người bơi khá hợp lý."
+    },
+    {
+        "word": "recall",
+        "type": "v",
+        "ipa": "ri ́kɔ:l",
+        "meaning": "gọi về, triệu hồi; nhắc lại, gợi lại",
+        "ex": "She definitely didn't recall this place.",
+        "ipaExTrans": "ʃiː ˈdɛfɪnɪtli dɪdnt rɪˈkɔːl ðɪs pleɪs.",
+        "exMeaning": "Cô chắc chắn không nhớ lại nơi này."
+    },
+    {
+        "word": "receipt",
+        "type": "n",
+        "ipa": "ri ́si:t",
+        "meaning": "công thức; đơn thuốc",
+        "ex": "He swore he was in St. Louis, and had a receipt to prove it.",
+        "ipaExTrans": "hiː swɔː hiː wɒz ɪn St. ˈluːɪs, ænd hæd ə rɪˈsiːt tuː pruːv ɪt.",
+        "exMeaning": "Anh ta thề là anh ta ở St. Louis, và có một biên nhận để chứng minh điều đó."
+    },
+    {
+        "word": "receive",
+        "type": "v",
+        "ipa": "ri'si:v",
+        "meaning": "nhận, lĩnh, thu",
+        "ex": "You shall receive proper pay for your work.",
+        "ipaExTrans": "juː ʃæl rɪˈsiːv ˈprɒpə peɪ fɔː jɔː wɜːk.",
+        "exMeaning": "Bạn sẽ nhận được tiền công thích hợp cho công việc của bạn."
+    },
+    {
+        "word": "recent",
+        "type": "adj",
+        "ipa": "́ri:sənt",
+        "meaning": "gần đây, mới đây",
+        "ex": "This memory was recent and came easily.",
+        "ipaExTrans": "ðɪs ˈmɛməri wɒz ˈriːsnt ænd keɪm ˈiːzɪli.",
+        "exMeaning": "Bộ nhớ này là gần đây và đến dễ dàng."
+    },
+    {
+        "word": "recently",
+        "type": "adv",
+        "ipa": "́ri:səntli",
+        "meaning": "gần đây, mới đây",
+        "ex": "You have been in Paris recently, I believe?",
+        "ipaExTrans": "juː hæv biːn ɪn ˈpærɪs ˈriːsntli, aɪ bɪˈliːv?",
+        "exMeaning": "Bạn đã ở Paris gần đây, tôi tin?"
+    },
+    {
+        "word": "reception",
+        "type": "n",
+        "ipa": "ri'sep∫n",
+        "meaning": "sự nhận, sự tiếp nhận, sự đón tiếp",
+        "ex": "There was a pleasant reception area.",
+        "ipaExTrans": "ðeə wɒz ə ˈplɛznt rɪˈsɛpʃən ˈeərɪə.",
+        "exMeaning": "Có một khu vực tiếp tân dễ chịu."
+    },
+    {
+        "word": "reckon",
+        "type": "v",
+        "ipa": "rekən",
+        "meaning": "tính, đếm",
+        "ex": "You reckon them Injuns knew we was around?",
+        "ipaExTrans": "juː ˈrɛkən ðɛm ˈɪnʤənz njuː wiː wɒz əˈraʊnd?",
+        "exMeaning": "Bạn nghĩ họ Injun biết chúng tôi ở xung quanh?"
+    },
+    {
+        "word": "recognition",
+        "type": "n",
+        "ipa": ",rekəg'niʃn",
+        "meaning": "sự công nhận, sự thưa nhận",
+        "ex": "The societies require government recognition if they wish to enjoy legal rights.",
+        "ipaExTrans": "ðə səˈsaɪətiz rɪˈkwaɪə ˈgʌvnmənt ˌrɛkəgˈnɪʃən ɪf ðeɪ wɪʃ tuː ɪnˈʤɔɪ ˈliːgəl raɪts.",
+        "exMeaning": "Các xã hội yêu cầu sự công nhận của chính phủ nếu họ muốn được hưởng các quyền hợp pháp."
+    },
+    {
+        "word": "recognize",
+        "type": "v",
+        "ipa": "rekəgnaiz",
+        "meaning": "nhận ra, nhận diện; công nhận, thưa nhận",
+        "ex": "I recognize the molding and cornices.",
+        "ipaExTrans": "aɪ ˈrɛkəgnaɪz ðə ˈməʊldɪŋ ænd ˈkɔːnɪsɪz.",
+        "exMeaning": "Tôi nhận ra khuôn và giác mạc."
+    },
+    {
+        "word": "recommend",
+        "type": "v",
+        "ipa": "rekə'mend",
+        "meaning": "giới thiệu, tiến cử; đề nghị, khuyên bảo",
+        "ex": "I recommend we start there, Dan said.",
+        "ipaExTrans": "aɪ ˌrɛkəˈmɛnd wiː stɑːt ðeə, dæn sɛd.",
+        "exMeaning": "Tôi khuyên chúng ta nên bắt đầu từ đó, Dan nói."
+    },
+    {
+        "word": "record",
+        "type": "n, v",
+        "ipa": "́rekɔ:d",
+        "meaning": "bản ghi, sự ghi, bản thu, sự thu; thu, ghi chép",
+        "ex": "Well, you haven't broken your record with me.",
+        "ipaExTrans": "wɛl, juː hævnt ˈbrəʊkən jɔː ˈrɛkɔːd wɪð miː.",
+        "exMeaning": "Chà, bạn đã không phá vỡ kỷ lục của bạn với tôi."
+    },
+    {
+        "word": "recording",
+        "type": "n",
+        "ipa": "ri ́kɔ:diη",
+        "meaning": "sự ghi, sự thu âm",
+        "ex": "It's a shame he isn't hearing this but he'll be tied up in his room all evening recording results of his tests.",
+        "ipaExTrans": "ɪts ə ʃeɪm hiː ˈɪznt ˈhɪərɪŋ ðɪs bʌt hiːl biː taɪd ʌp ɪn hɪz ruːm ɔːl ˈiːvnɪŋ rɪˈkɔːdɪŋ rɪˈzʌlts ɒv hɪz tɛsts.",
+        "exMeaning": "Thật xấu hổ khi anh ta không nghe thấy điều này nhưng anh ta sẽ bị trói trong phòng suốt buổi tối ghi lại kết quả kiểm tra của mình."
+    },
+    {
+        "word": "recover",
+        "type": "v",
+        "ipa": "ri:'kʌvə",
+        "meaning": "lấy lại, giành lại",
+        "ex": "She nodded, trying hard to recover from the latest surprise.",
+        "ipaExTrans": "ʃiː ˈnɒdɪd, ˈtraɪɪŋ hɑːd tuː rɪˈkʌvə frɒm ðə ˈleɪtɪst səˈpraɪz.",
+        "exMeaning": "Cô gật đầu, cố gắng hết sức để hồi phục sau sự bất ngờ mới nhất."
+    },
+    {
+        "word": "red",
+        "type": "adj, n",
+        "ipa": "red",
+        "meaning": "đỏ; màu đỏ",
+        "ex": "Look at those big gray eyes and that beautiful red hair!",
+        "ipaExTrans": "lʊk æt ðəʊz bɪg greɪ aɪz ænd ðæt ˈbjuːtəfʊl rɛd heə!",
+        "exMeaning": "Hãy nhìn vào đôi mắt to màu xám và mái tóc đỏ tuyệt đẹp đó!"
+    },
+    {
+        "word": "reduce",
+        "type": "v",
+        "ipa": "ri'dju:s",
+        "meaning": "giảm, giảm bớt",
+        "ex": "He began first a short ascent, then a drop to a sharp curve he nearly missed, causing him to reduce his speed further.",
+        "ipaExTrans": "hiː bɪˈgæn fɜːst ə ʃɔːt əˈsɛnt, ðɛn ə drɒp tuː ə ʃɑːp kɜːv hiː ˈnɪəli mɪst, ˈkɔːzɪŋ hɪm tuː rɪˈdjuːs hɪz spiːd ˈfɜːðə.",
+        "exMeaning": "Đầu tiên anh ta bắt đầu đi lên một đoạn ngắn, sau đó giảm xuống một đường cong sắc nét mà anh ta gần như bỏ lỡ, khiến anh ta giảm tốc độ hơn nữa."
+    },
+    {
+        "word": "reduction",
+        "type": "n",
+        "ipa": "ri ́dʌkʃən",
+        "meaning": "sự giảm giá, sự hạ giá",
+        "ex": "As prepared by the reduction of the oxide it is a grey powder.",
+        "ipaExTrans": "æz prɪˈpeəd baɪ ðə rɪˈdʌkʃən ɒv ði ˈɒksaɪd ɪt ɪz ə greɪ ˈpaʊdə.",
+        "exMeaning": "Được điều chế bằng cách khử oxit, nó là một loại bột màu xám."
+    },
+    {
+        "word": "refer to",
+        "type": "v",
+        "meaning": "xem, tham khảo; ám chỉ, nhắc đến"
+    },
+    {
+        "word": "reference",
+        "type": "n",
+        "ipa": "refərəns",
+        "meaning": "sự tham khảo, hỏi ý kiến",
+        "ex": "Fred ignored Dean's reference to pudginess.",
+        "ipaExTrans": "frɛd ɪgˈnɔːd diːnz ˈrɛfrəns tuː ˈpʌʤɪnəs.",
+        "exMeaning": "Fred phớt lờ tham chiếu của Dean về sự nhợt nhạt."
+    },
+    {
+        "word": "reflect",
+        "type": "v",
+        "ipa": "ri'flekt",
+        "meaning": "phản chiếu, phản hồi, phản ánh",
+        "ex": "So they don't reflect the sunlight and give away our position.",
+        "ipaExTrans": "səʊ ðeɪ dəʊnt rɪˈflɛkt ðə ˈsʌnlaɪt ænd gɪv əˈweɪ ˈaʊə pəˈzɪʃən.",
+        "exMeaning": "Vì vậy, họ không phản chiếu ánh sáng mặt trời và cho đi vị trí của chúng tôi."
+    },
+    {
+        "word": "reform",
+        "type": "v, n",
+        "ipa": "ri ́fɔ:m",
+        "meaning": "cải cách, cải thiện, cải tạo; sự cải cách, sự cải thiện, cải tạo",
+        "ex": "Moral reform is the effort to throw off sleep.",
+        "ipaExTrans": "ˈmɒrəl ˌriːˈfɔːm ɪz ði ˈɛfət tuː θrəʊ ɒf sliːp.",
+        "exMeaning": "Cải cách đạo đức là nỗ lực để thoát khỏi giấc ngủ."
+    },
+    {
+        "word": "refrigerator",
+        "type": "n",
+        "ipa": "ri'fridЗзreitз",
+        "meaning": "tủ lạnh",
+        "ex": "We ate supper and put the rest in the refrigerator for you.",
+        "ipaExTrans": "wiː ɛt ˈsʌpər ænd pʊt ðə rɛst ɪn ðə rɪˈfrɪʤəreɪtə fɔː juː.",
+        "exMeaning": "Chúng tôi đã ăn bữa tối và đặt phần còn lại trong tủ lạnh cho bạn."
+    },
+    {
+        "word": "refusal",
+        "type": "n",
+        "ipa": "ri ́fju:zl",
+        "meaning": "sự từ chối, sự khước từ",
+        "ex": "She braced herself for a refusal and a fight.",
+        "ipaExTrans": "ʃiː breɪst hɜːˈsɛlf fɔːr ə rɪˈfjuːzəl ænd ə faɪt.",
+        "exMeaning": "Cô chuẩn bị tinh thần từ chối và chiến đấu."
+    },
+    {
+        "word": "refuse",
+        "type": "v",
+        "ipa": "rɪˈfyuz",
+        "meaning": "từ chối, khước từ",
+        "ex": "Having no way to refuse, she followed him to the campfire of their host.",
+        "ipaExTrans": "ˈhævɪŋ nəʊ weɪ tuː ˌriːˈfjuːz, ʃiː ˈfɒləʊd hɪm tuː ðə ˈkæmpˌfaɪər ɒv ðeə həʊst.",
+        "exMeaning": "Không còn cách nào để từ chối, cô theo anh đến lửa trại của chủ nhà."
+    },
+    {
+        "word": "regard",
+        "type": "v, n",
+        "ipa": "ri'gɑ:d",
+        "meaning": "nhìn, đánh giá; cái nhìn, sự quan tâm, sự chú ý (lời chúc tụng cuối thư)",
+        "ex": "Lifting her gaze to meet his intent regard, she implored him.",
+        "ipaExTrans": "ˈlɪftɪŋ hɜː geɪz tuː miːt hɪz ɪnˈtɛnt rɪˈgɑːd, ʃiː ɪmˈplɔːd hɪm.",
+        "exMeaning": "Ngước mắt lên để đáp ứng ý định của anh, cô khẩn nài anh."
+    },
+    {
+        "word": "regarding",
+        "type": "prep",
+        "ipa": "ri ́ga:diη",
+        "meaning": "về, về việc, đối với (vấn đề...)",
+        "ex": "He turned, regarding her with apprehension.",
+        "ipaExTrans": "hiː tɜːnd, rɪˈgɑːdɪŋ hɜː wɪð ˌæprɪˈhɛnʃ(ə)n.",
+        "exMeaning": "Anh quay lại, liên quan đến cô với sự e ngại."
+    },
+    {
+        "word": "region",
+        "type": "n",
+        "ipa": "ri:dʒən",
+        "meaning": "vùng, miền",
+        "ex": "In its earlier history the region was agricultural.",
+        "ipaExTrans": "ɪn ɪts ˈɜːlɪə ˈhɪstəri ðə ˈriːʤən wɒz ˌægrɪˈkʌlʧərəl.",
+        "exMeaning": "Trong lịch sử trước đó, khu vực này là nông nghiệp."
+    },
+    {
+        "word": "regional",
+        "type": "adj",
+        "ipa": "ˈridʒənl",
+        "meaning": "vùng, địa phương",
+        "ex": "The regional differences of temperature at like depths become less as the depth increases.",
+        "ipaExTrans": "ðə ˈriːʤənl ˈdɪfrənsɪz ɒv ˈtɛmprɪʧər æt laɪk dɛpθs bɪˈkʌm lɛs æz ðə dɛpθ ˈɪnkriːsɪz.",
+        "exMeaning": "Sự khác biệt khu vực của nhiệt độ ở độ sâu như trở nên ít hơn khi độ sâu tăng."
+    },
+    {
+        "word": "register",
+        "type": "v, n",
+        "ipa": "redʤistə",
+        "meaning": "đăng ký, ghi vào sổ; sổ, sổ sách, máy ghi",
+        "ex": "You'll help Julie to register Molly at the Keene school while I make the plane reservation.",
+        "ipaExTrans": "juːl hɛlp ˈʤuːliː tuː ˈrɛʤɪstə ˈmɒli æt ðə Keene skuːl waɪl aɪ meɪk ðə pleɪn ˌrɛzəˈveɪʃən.",
+        "exMeaning": "Bạn sẽ giúp Julie đăng ký Molly tại trường Keene trong khi tôi đặt chỗ máy bay."
+    },
+    {
+        "word": "regret",
+        "type": "v, n",
+        "ipa": "ri'gret",
+        "meaning": "đáng tiếc, hối tiếc; lòng thương tiếc, sự hối tiếc",
+        "ex": "His quiet regret made her uneasy.",
+        "ipaExTrans": "hɪz ˈkwaɪət rɪˈgrɛt meɪd hɜːr ʌnˈiːzi.",
+        "exMeaning": "Sự hối hận thầm lặng của anh khiến cô khó chịu."
+    },
+    {
+        "word": "regular",
+        "type": "adj",
+        "ipa": "rəgjulə",
+        "meaning": "thường xuyên, đều đặn",
+        "ex": "Tonight she was having fun, but it wasn't something she would enjoy doing on a regular basis.",
+        "ipaExTrans": "təˈnaɪt ʃiː wɒz ˈhævɪŋ fʌn, bʌt ɪt wɒznt ˈsʌmθɪŋ ʃiː wʊd ɪnˈʤɔɪ ˈdu(ː)ɪŋ ɒn ə ˈrɛgjʊlə ˈbeɪsɪs.",
+        "exMeaning": "Tối nay cô ấy đã vui vẻ, nhưng đó không phải là điều cô ấy sẽ thích làm thường xuyên."
+    },
+    {
+        "word": "regularly",
+        "type": "adv",
+        "ipa": "́regjuləli",
+        "meaning": "đều đặn, thường xuyên",
+        "ex": "The streets in the modern town are regularly laid out; several are arcaded on both sides.",
+        "ipaExTrans": "ðə striːts ɪn ðə ˈmɒdən taʊn ɑː ˈrɛgjʊləli leɪd aʊt; ˈsɛvrəl ɑːr ɑːˈkeɪdɪd ɒn bəʊθ saɪdz.",
+        "exMeaning": "Các đường phố trong thị trấn hiện đại thường xuyên được đặt ra; một số được uốn cong ở cả hai bên."
+    },
+    {
+        "word": "regulation",
+        "type": "n",
+        "ipa": "̧regju ́leiʃən",
+        "meaning": "sự điều chỉnh, điều lệ, quy tắc"
+    },
+    {
+        "word": "reject",
+        "type": "v",
+        "ipa": "ri:ʤekt",
+        "meaning": "không chấp nhận, loại bỏ, bác bỏ",
+        "ex": "Why should she give Brandon the chance to reject her again?",
+        "ipaExTrans": "waɪ ʃʊd ʃiː gɪv ˈbrændən ðə ʧɑːns tuː ˈriːʤɛkt hɜːr əˈgɛn?",
+        "exMeaning": "Tại sao cô nên cho Brandon cơ hội từ chối cô một lần nữa?"
+    },
+    {
+        "word": "relate",
+        "type": "v",
+        "ipa": "ri'leit",
+        "meaning": "kể lại, thuật lại; liên hệ, liên quan",
+        "ex": "What had really taken place he did not wish to relate because it seemed to him not worth telling.",
+        "ipaExTrans": "wɒt hæd ˈrɪəli ˈteɪkən pleɪs hiː dɪd nɒt wɪʃ tuː rɪˈleɪt bɪˈkɒz ɪt siːmd tuː hɪm nɒt wɜːθ ˈtɛlɪŋ.",
+        "exMeaning": "Những gì đã thực sự diễn ra anh không muốn liên quan vì dường như anh không đáng nói."
+    },
+    {
+        "word": "related",
+        "type": "to, adj",
+        "ipa": "ri'leitid",
+        "meaning": "có liên quan, có quan hệ với ai, cái gì",
+        "ex": "I related Howie's comment about not letting go.",
+        "ipaExTrans": "aɪ rɪˈleɪtɪd Howie's ˈkɒmɛnt əˈbaʊt nɒt ˈlɛtɪŋ gəʊ.",
+        "exMeaning": "Tôi liên quan bình luận của Howie về việc không cho đi."
+    },
+    {
+        "word": "relation",
+        "type": "n",
+        "ipa": "ri'leiʃn",
+        "meaning": "mối quan hệ, sự liên quan, liên lạc",
+        "ex": "On these grounds it has been sought to establish a close relation between Vico and Grotius.",
+        "ipaExTrans": "ɒn ðiːz graʊndz ɪt hæz biːn sɔːt tuː ɪsˈtæblɪʃ ə kləʊs rɪˈleɪʃən bɪˈtwiːn Vico ænd Grotius.",
+        "exMeaning": "Trên cơ sở đó, nó đã được tìm cách thiết lập mối quan hệ chặt chẽ giữa Vico và Grotius."
+    },
+    {
+        "word": "relationship",
+        "type": "n",
+        "ipa": "ri'lei∫ən∫ip",
+        "meaning": "mối quan hệ, mối liên lạc",
+        "ex": "Now even their relationship was beginning to suffer.",
+        "ipaExTrans": "naʊ ˈiːvən ðeə rɪˈleɪʃənʃɪp wɒz bɪˈgɪnɪŋ tuː ˈsʌfə.",
+        "exMeaning": "Bây giờ ngay cả mối quan hệ của họ đã bắt đầu đau khổ."
+    },
+    {
+        "word": "relative",
+        "type": "adj, n",
+        "ipa": "relətiv",
+        "meaning": "có liên quấn đến; người có họ, đạ từ quan hệ",
+        "ex": "Only their relative wealth is different.",
+        "ipaExTrans": "ˈəʊnli ðeə ˈrɛlətɪv wɛlθ ɪz ˈdɪfrənt.",
+        "exMeaning": "Chỉ có sự giàu có tương đối của họ là khác nhau."
+    },
+    {
+        "word": "relatively",
+        "type": "adv",
+        "ipa": "relətivli",
+        "meaning": "có liên quan, có quan hệ",
+        "ex": "The Atlantic Ocean contains a relatively small number of islands.",
+        "ipaExTrans": "ði ətˈlæntɪk ˈəʊʃən kənˈteɪnz ə ˈrɛlətɪvli smɔːl ˈnʌmbər ɒv ˈaɪləndz.",
+        "exMeaning": "Đại Tây Dương chứa một số lượng đảo tương đối nhỏ."
+    },
+    {
+        "word": "relax",
+        "type": "v",
+        "ipa": "ri ́læks",
+        "meaning": "giải trí, nghỉ ngơi",
+        "ex": "She was beginning to relax when he launched the question.",
+        "ipaExTrans": "ʃiː wɒz bɪˈgɪnɪŋ tuː rɪˈlæks wɛn hiː lɔːnʧt ðə ˈkwɛsʧən.",
+        "exMeaning": "Cô bắt đầu thư giãn khi anh đưa ra câu hỏi."
+    },
+    {
+        "word": "relaxed",
+        "type": "adj",
+        "ipa": "ri ́lækst",
+        "meaning": "thanh thản, thoải mái",
+        "ex": "She relaxed and began to enjoy the evening.",
+        "ipaExTrans": "ʃiː rɪˈlækst ænd bɪˈgæn tuː ɪnˈʤɔɪ ði ˈiːvnɪŋ.",
+        "exMeaning": "Cô thư giãn và bắt đầu tận hưởng buổi tối."
+    },
+    {
+        "word": "relaxing",
+        "type": "adj",
+        "ipa": "ri'læksiɳ",
+        "meaning": "làm giảm, bớt căng thẳng",
+        "ex": "It was both relaxing and exciting.",
+        "ipaExTrans": "ɪt wɒz bəʊθ rɪˈlæksɪŋ ænd ɪkˈsaɪtɪŋ.",
+        "exMeaning": "Nó vừa thư giãn vừa thú vị."
+    },
+    {
+        "word": "release",
+        "type": "v, n",
+        "ipa": "ri'li:s",
+        "meaning": "làm nhẹ, bớt, thả, phóng thích, phát hành; sự giải thoát, thoát khỏi, sự thả, phóng thích, sự phát hành",
+        "ex": "Are you going to release the description?",
+        "ipaExTrans": "ɑː juː ˈgəʊɪŋ tuː rɪˈliːs ðə dɪsˈkrɪpʃən?",
+        "exMeaning": "Bạn sẽ phát hành mô tả?"
+    },
+    {
+        "word": "relevant",
+        "type": "adj",
+        "ipa": "́reləvənt",
+        "meaning": "thích hợp, có liên quan"
+    },
+    {
+        "word": "relief",
+        "type": "n",
+        "ipa": "ri'li:f",
+        "meaning": "sự giảm nhẹ, sự làm cho khuây khỏa; sự trợ cấp; sự đền bù",
+        "ex": "Relief brought a smile to her lips.",
+        "ipaExTrans": "rɪˈliːf brɔːt ə smaɪl tuː hɜː lɪps.",
+        "exMeaning": "Sự nhẹ nhõm mang lại nụ cười trên môi cô."
+    },
+    {
+        "word": "religion",
+        "type": "n",
+        "ipa": "rɪˈlɪdʒən",
+        "meaning": "tôn giáo",
+        "ex": "Thus the ancient Greek religion was especially disposed to belief in heroes and demigods.",
+        "ipaExTrans": "ðʌs ði ˈeɪnʃ(ə)nt griːk rɪˈlɪʤən wɒz ɪsˈpɛʃəli dɪsˈpəʊzd tuː bɪˈliːf ɪn ˈhɪərəʊz ænd ˈdɛmɪgɒdz.",
+        "exMeaning": "Do đó, tôn giáo Hy Lạp cổ đại đặc biệt được đặt vào niềm tin vào các anh hùng và các vị thần."
+    },
+    {
+        "word": "religious",
+        "type": "adj",
+        "ipa": "ri'lidʒəs",
+        "meaning": "(thuộc) tôn giáo",
+        "ex": "Josh is religious, but there aren't many men who would claim to understand women.",
+        "ipaExTrans": "ʤɒʃ ɪz rɪˈlɪʤəs, bʌt ðeər ɑːnt ˈmɛni mɛn huː wʊd kleɪm tuː ˌʌndəˈstænd ˈwɪmɪn.",
+        "exMeaning": "Josh là người tôn giáo, nhưng không có nhiều người đàn ông muốn tuyên bố hiểu phụ nữ."
+    },
+    {
+        "word": "rely on",
+        "type": "v",
+        "ipa": "ri ́lai",
+        "meaning": "tin vào, tin cậy, tin tưởng vào"
+    },
+    {
+        "word": "remain",
+        "type": "v",
+        "ipa": "riˈmein",
+        "meaning": "còn lại, vẫn còn như cũ",
+        "ex": "One would argue that energy costs will remain high.",
+        "ipaExTrans": "wʌn wʊd ˈɑːgjuː ðæt ˈɛnəʤi kɒsts wɪl rɪˈmeɪn haɪ.",
+        "exMeaning": "Người ta sẽ tranh luận rằng chi phí năng lượng sẽ vẫn cao."
+    },
+    {
+        "word": "remaining",
+        "type": "adj",
+        "ipa": "ri ́meiniη",
+        "meaning": "còn lại",
+        "ex": "The remaining creature turned to them.",
+        "ipaExTrans": "ðə rɪˈmeɪnɪŋ ˈkriːʧə tɜːnd tuː ðɛm.",
+        "exMeaning": "Các sinh vật còn lại quay sang họ."
+    },
+    {
+        "word": "remains",
+        "type": "n",
+        "ipa": "re'meins",
+        "meaning": "đồ thưa, cái còn lại",
+        "ex": "It was the remains of another large building.",
+        "ipaExTrans": "ɪt wɒz ðə rɪˈmeɪnz ɒv əˈnʌðə lɑːʤ ˈbɪldɪŋ.",
+        "exMeaning": "Đó là phần còn lại của một tòa nhà lớn khác."
+    },
+    {
+        "word": "remark",
+        "type": "n, v",
+        "ipa": "ri'mɑ:k",
+        "meaning": "sự nhận xét, phê bình, sự để ý, chú ý; nhận xét, phê bình, để ý, chú ý",
+        "ex": "His remark stung, as he'd meant it to.",
+        "ipaExTrans": "hɪz ˈrɪˈmɑːk stʌŋ, æz hiːd mɛnt ɪt tuː.",
+        "exMeaning": "Nhận xét của anh ấy choáng váng, như anh ấy có ý đó."
+    },
+    {
+        "word": "remarkable",
+        "type": "adj",
+        "ipa": "ri'ma:kəb(ə)l",
+        "meaning": "đáng chú ý, đáng để ý; khác thường",
+        "ex": "You're a truly remarkable man.",
+        "ipaExTrans": "jʊər ə ˈtruːli rɪˈmɑːkəbl mæn.",
+        "exMeaning": "Bạn là một người đàn ông thực sự đáng chú ý."
+    },
+    {
+        "word": "remarkably",
+        "type": "adv",
+        "ipa": "ri'ma:kəb(ə)li",
+        "meaning": "đáng chú ý, đáng để ý; khác thường",
+        "ex": "The weather on the whole is remarkably dry.",
+        "ipaExTrans": "ðə ˈwɛðər ɒn ðə həʊl ɪz rɪˈmɑːkəbli draɪ.",
+        "exMeaning": "Thời tiết trên tổng thể là khô đáng kể."
+    },
+    {
+        "word": "remember",
+        "type": "v",
+        "ipa": "rɪˈmɛmbər",
+        "meaning": "nhớ, nhớ lại",
+        "ex": "Do you remember that rumor in school?",
+        "ipaExTrans": "duː juː rɪˈmɛmbə ðæt ˈruːmər ɪn skuːl?",
+        "exMeaning": "Bạn có nhớ tin đồn đó ở trường không?"
+    },
+    {
+        "word": "remind",
+        "type": "v",
+        "ipa": "riˈmaind",
+        "meaning": "nhắc nhở, gợi nhớ",
+        "ex": "I just need you to remind Darian of something.",
+        "ipaExTrans": "aɪ ʤʌst niːd juː tuː ˈrɪmaɪnd Darian ɒv ˈsʌmθɪŋ.",
+        "exMeaning": "Tôi chỉ cần bạn nhắc nhở Darian về một cái gì đó."
+    },
+    {
+        "word": "remote",
+        "type": "adj",
+        "ipa": "ri'mout",
+        "meaning": "xa, xa xôi, xa cách",
+        "ex": "Whatever it may have been in remote geological periods, it is now extremely limited both in size and numbers.",
+        "ipaExTrans": "wɒtˈɛvər ɪt meɪ hæv biːn ɪn rɪˈməʊt ʤɪəˈlɒʤɪkəl ˈpɪərɪədz, ɪt ɪz naʊ ɪksˈtriːmli ˈlɪmɪtɪd bəʊθ ɪn saɪz ænd ˈnʌmbəz.",
+        "exMeaning": "Bất kể nó có thể là gì trong thời kỳ địa chất xa xôi, hiện tại nó cực kỳ hạn chế cả về kích thước và số lượng."
+    },
+    {
+        "word": "removal",
+        "type": "n",
+        "ipa": "ri'mu:vəl",
+        "meaning": "viêc di chuyển, việc dọn nhà, dời đi",
+        "ex": "And who wouldn't recommend Arnie's removal with his increasingly erratic behavior?",
+        "ipaExTrans": "ænd huː ˈwʊdnt ˌrɛkəˈmɛnd Arnie's rɪˈmuːvəl wɪð hɪz ɪnˈkriːsɪŋli ɪˈrætɪk bɪˈheɪvjə?",
+        "exMeaning": "Và ai sẽ không đề nghị Arnie loại bỏ hành vi ngày càng thất thường của mình?"
+    },
+    {
+        "word": "remove",
+        "type": "v",
+        "ipa": "ri'mu:v",
+        "meaning": "dời đi, di chuyển",
+        "ex": "She slapped her gloves together to remove some of the mud.",
+        "ipaExTrans": "ʃiː slæpt hɜː glʌvz təˈgɛðə tuː rɪˈmuːv sʌm ɒv ðə mʌd.",
+        "exMeaning": "Cô ấy đập găng tay của mình với nhau để loại bỏ một số bùn."
+    },
+    {
+        "word": "rent",
+        "type": "n, v",
+        "ipa": "rent",
+        "meaning": "sự thuê mướn; cho thuê, thuê",
+        "ex": "Why don't I just rent one?",
+        "ipaExTrans": "waɪ dəʊnt aɪ ʤʌst rɛnt wʌn?",
+        "exMeaning": "Tại sao tôi không thuê một cái?"
+    },
+    {
+        "word": "rented",
+        "type": "adj",
+        "ipa": "rentid",
+        "meaning": "được thuê, được mướn",
+        "ex": "Seems it's been rented for years.",
+        "ipaExTrans": "siːmz ɪts biːn ˈrɛntɪd fɔː jɪəz.",
+        "exMeaning": "Có vẻ như nó đã được thuê trong nhiều năm."
+    },
+    {
+        "word": "repair",
+        "type": "v, n",
+        "ipa": "ri'peə",
+        "meaning": "sửa chữa, chỉnh tu; sự sửa chữa, sự chỉnh tu",
+        "ex": "He explained about the tire repair kit.",
+        "ipaExTrans": "hiː ɪksˈpleɪnd əˈbaʊt ðə ˈtaɪə rɪˈpeə kɪt.",
+        "exMeaning": "Ông giải thích về bộ dụng cụ sửa chữa lốp xe."
+    },
+    {
+        "word": "repeat",
+        "type": "v",
+        "ipa": "ri'pi:t",
+        "meaning": "nhắc lại, lặp lại",
+        "ex": "He had to repeat the question.",
+        "ipaExTrans": "hiː hæd tuː rɪˈpiːt ðə ˈkwɛsʧən.",
+        "exMeaning": "Anh phải nhắc lại câu hỏi."
+    },
+    {
+        "word": "repeated",
+        "type": "adj",
+        "ipa": "ri ́pi:tid",
+        "meaning": "được nhắc lại, được lặp lại",
+        "ex": "She didn't answer and he repeated his question.",
+        "ipaExTrans": "ʃiː dɪdnt ˈɑːnsər ænd hiː rɪˈpiːtɪd hɪz ˈkwɛsʧən.",
+        "exMeaning": "Cô không trả lời và anh lặp lại câu hỏi của mình."
+    },
+    {
+        "word": "repeatedly",
+        "type": "adv",
+        "ipa": "ri ́pi:tidli",
+        "meaning": "lặp đi lặp lại nhiều lần",
+        "ex": "She would repeatedly use one for the other.",
+        "ipaExTrans": "ʃiː wʊd rɪˈpiːtɪdli juːz wʌn fɔː ði ˈʌðə.",
+        "exMeaning": "Cô sẽ liên tục sử dụng cái này cho cái kia."
+    },
+    {
+        "word": "replace",
+        "type": "v",
+        "ipa": "rɪpleɪs",
+        "meaning": "thay thế",
+        "ex": "No one will replace me!",
+        "ipaExTrans": "nəʊ wʌn wɪl rɪˈpleɪs miː!",
+        "exMeaning": "Sẽ không ai thay thế tôi!"
+    },
+    {
+        "word": "reply",
+        "type": "n, v",
+        "ipa": "ri'plai",
+        "meaning": "sự trả lời, sự hồi âm; trả lời, hồi âm",
+        "ex": "When I didn't reply, she continued.",
+        "ipaExTrans": "wɛn aɪ dɪdnt rɪˈplaɪ, ʃiː kənˈtɪnju(ː)d.",
+        "exMeaning": "Khi tôi không trả lời, cô ấy tiếp tục."
+    },
+    {
+        "word": "report",
+        "type": "v, n",
+        "ipa": "ri'pɔ:t",
+        "meaning": "báo cáo, tường trình; bản báo cáo, bản tường trình",
+        "ex": "Send me a report when you're done.",
+        "ipaExTrans": "sɛnd miː ə rɪˈpɔːt wɛn jʊə dʌn.",
+        "exMeaning": "Gửi cho tôi một báo cáo khi bạn hoàn thành."
+    },
+    {
+        "word": "represent",
+        "type": "v",
+        "ipa": "repri'zent",
+        "meaning": "miêu tả, hình dung; đại diện, thay mặt"
+    },
+    {
+        "word": "representative",
+        "type": "n, adj",
+        "ipa": ",repri'zentətiv",
+        "meaning": "điều tiêu biểu, tượng trưng, mẫu; miêu tả, biểu hiện, đại diện, tượng trưng",
+        "ex": "The decision of the representative of the United States was given in April 1899.",
+        "ipaExTrans": "ðə dɪˈsɪʒən ɒv ðə ˌrɛprɪˈzɛntətɪv ɒv ðə jʊˈnaɪtɪd steɪts wɒz ˈgɪvn ɪn ˈeɪprəl 1899.",
+        "exMeaning": "Quyết định của đại diện Hoa Kỳ được đưa ra vào tháng 4 năm 1899."
+    },
+    {
+        "word": "reproduce",
+        "type": "v",
+        "ipa": ",ri:prə'dju:s",
+        "meaning": "tái sản xuất",
+        "ex": "reproduce a single recension.",
+        "ipaExTrans": "ˌriːprəˈdjuːs ə ˈsɪŋgl rɪˈsɛnʃən.",
+        "exMeaning": "tái tạo một hồi quy duy nhất."
+    },
+    {
+        "word": "reputation",
+        "type": "n",
+        "ipa": ",repju:'teiʃn",
+        "meaning": "sự nổi tiếng, nổi danh",
+        "ex": "His reputation for being rough on rookies was well earned.",
+        "ipaExTrans": "hɪz ˌrɛpju(ː)ˈteɪʃən fɔː ˈbiːɪŋ rʌf ɒn ˈrʊkiz wɒz wɛl ɜːnd.",
+        "exMeaning": "Danh tiếng của anh ấy là thô bạo đối với các tân binh đã kiếm được rất nhiều."
+    },
+    {
+        "word": "request",
+        "type": "n, v",
+        "ipa": "ri'kwest",
+        "meaning": "lời thỉnh cầu, lời đề nghị, yêu cầu; thỉnh cầu, đề nghị, yêu cầu",
+        "ex": "His request gave her an idea.",
+        "ipaExTrans": "hɪz rɪˈkwɛst geɪv hɜːr ən aɪˈdɪə.",
+        "exMeaning": "Yêu cầu của anh đã cho cô một ý tưởng."
+    },
+    {
+        "word": "require",
+        "type": "v",
+        "ipa": "ri'kwaiə(r)",
+        "meaning": "đòi hỏi, yêu cầu, quy định",
+        "ex": "Basically, that I require a lot of attention, Carmen said.",
+        "ipaExTrans": "ˈbeɪsɪkəli, ðæt aɪ rɪˈkwaɪər ə lɒt ɒv əˈtɛnʃ(ə)n, ˈkɑːmən sɛd.",
+        "exMeaning": "Về cơ bản, điều đó tôi đòi hỏi rất nhiều sự chú ý, Carmen nói."
+    },
+    {
+        "word": "requirement",
+        "type": "n",
+        "ipa": "rɪˈkwaɪərmənt",
+        "meaning": "nhu cầu, sự đòi hỏi; luật lệ, thủ tục",
+        "ex": "To meet this requirement, Walker in 1878 introduced the Cherub FIG.",
+        "ipaExTrans": "tuː miːt ðɪs rɪˈkwaɪəmənt, ˈwɔːkər ɪn 1878 ˌɪntrəˈdjuːst ðə ˈʧɛrəb fɪg.",
+        "exMeaning": "Để đáp ứng yêu cầu này, Walker năm 1878 đã giới thiệu Cherub FIG."
+    },
+    {
+        "word": "rescue",
+        "type": "v, n",
+        "ipa": "́reskju:",
+        "meaning": "giải thoát, cứu nguy; sự giải thoát, sự cứu nguy",
+        "ex": "I didn't need you to rescue me.",
+        "ipaExTrans": "aɪ dɪdnt niːd juː tuː ˈrɛskjuː miː.",
+        "exMeaning": "Tôi không cần bạn giải cứu tôi."
+    },
+    {
+        "word": "research",
+        "type": "n",
+        "ipa": "ri'sз:tʃ",
+        "meaning": "sự nghiên cứu",
+        "ex": "I was trying to research the buyer.",
+        "ipaExTrans": "aɪ wɒz ˈtraɪɪŋ tuː rɪˈsɜːʧ ðə ˈbaɪə.",
+        "exMeaning": "Tôi đã cố gắng nghiên cứu người mua."
+    },
+    {
+        "word": "reservation",
+        "type": "n",
+        "ipa": "rez.əveɪ.ʃən",
+        "meaning": "sự hạn chế, điều kiện hạn chế",
+        "ex": "The reservation system says they have availability.",
+        "ipaExTrans": "ðə ˌrɛzəˈveɪʃən ˈsɪstɪm sɛz ðeɪ hæv əˌveɪləˈbɪlɪti.",
+        "exMeaning": "Hệ thống đặt phòng cho biết họ có sẵn."
+    },
+    {
+        "word": "reserve",
+        "type": "v, n",
+        "ipa": "ri'zЗ:v",
+        "meaning": "dự trữ, để dành, đặt trước, đăng ký trước; sự dự trữ, sự để dành, sự đặt trước, sự đăng ký trước",
+        "ex": "Despite his reserve, he could tell Dusty liked her.",
+        "ipaExTrans": "dɪsˈpaɪt hɪz rɪˈzɜːv, hiː kʊd tɛl ˈdʌsti laɪkt hɜː.",
+        "exMeaning": "Mặc dù có dự trữ, anh có thể nói Dusty thích cô."
+    },
+    {
+        "word": "resident",
+        "type": "n, adj",
+        "ipa": "rezidənt",
+        "meaning": "người sinh sống, trú ngụ, khách trọ; có nhà ở, cư trú, thường trú",
+        "ex": "Every city had a large number of resident aliens.",
+        "ipaExTrans": "ˈɛvri ˈsɪti hæd ə lɑːʤ ˈnʌmbər ɒv ˈrɛzɪdənt ˈeɪliənz.",
+        "exMeaning": "Mỗi thành phố có một số lượng lớn người ngoài hành tinh cư trú."
+    }
+]

@@ -1,0 +1,800 @@
+[
+    {
+        "word": "aggressive",
+        "type": "Adj",
+        "ipa": "əˈgrɛsɪv",
+        "meaning": "xâm lược",
+        "ex": "True to his word, he was aggressive without hurting her.",
+        "ipaExTrans": "truː tuː hɪz wɜːd, hiː wɒz əˈgrɛsɪv wɪˈðaʊt ˈhɜːtɪŋ hɜː.",
+        "exMeaning": "Đúng như lời anh nói, anh hung hăng mà không làm cô đau."
+    },
+    {
+        "word": "famous",
+        "type": "Adj",
+        "ipa": "ˈfeɪməs",
+        "meaning": "nổi danh",
+        "ex": "It is still a famous school.",
+        "ipaExTrans": "ɪt ɪz stɪl ə ˈfeɪməs skuːl.",
+        "exMeaning": "Nó vẫn là một ngôi trường nổi tiếng."
+    },
+    {
+        "word": "restless",
+        "type": "Adj",
+        "ipa": "ˈrɛstlɪs",
+        "meaning": "bồn chồn",
+        "ex": "She wandered the mansion as she often did, restless and starving.",
+        "ipaExTrans": "ʃiː ˈwɒndəd ðə ˈmænʃən æz ʃiː ˈɒf(ə)n dɪd, ˈrɛstlɪs ænd ˈstɑːvɪŋ.",
+        "exMeaning": "Cô lang thang trong biệt thự như thường lệ, bồn chồn và đói khát."
+    },
+    {
+        "word": "agoraphobic",
+        "type": "Adj",
+        "ipa": "agoraphobic",
+        "meaning": "agoraphobic"
+    },
+    {
+        "word": "fearless",
+        "type": "Adj",
+        "ipa": "ˈfɪəlɪs",
+        "meaning": "Không sợ hãi"
+    },
+    {
+        "word": "rich",
+        "type": "Adj",
+        "ipa": "rɪʧ",
+        "meaning": "giàu có",
+        "ex": "The rich have always had this luxury.",
+        "ipaExTrans": "ðə rɪʧ hæv ˈɔːlweɪz hæd ðɪs ˈlʌkʃəri.",
+        "exMeaning": "Người giàu luôn có sự xa xỉ này."
+    },
+    {
+        "word": "ambidextrous",
+        "type": "Adj",
+        "ipa": "ˌæmbɪˈdɛkstrəs",
+        "meaning": "thuận cả hai bên",
+        "ex": "He was ambidextrous because he could use his left hand as well as his right hand.",
+        "ipaExTrans": "hiː wɒz ˌæmbɪˈdɛkstrəs bɪˈkɒz hiː kʊd juːz hɪz lɛft hænd æz wɛl æz hɪz raɪt hænd.",
+        "exMeaning": "Anh ta rất đẹp vì anh ta có thể sử dụng tay trái cũng như tay phải."
+    },
+    {
+        "word": "fertile",
+        "type": "Adj",
+        "ipa": "ˈfɜːtaɪl",
+        "meaning": "phì nhiêu",
+        "ex": "There is an abundance of fertile soil and magnificent grazing land.",
+        "ipaExTrans": "ðeər ɪz ən əˈbʌndəns ɒv ˈfɜːtaɪl sɔɪl ænd mægˈnɪfɪsnt ˈgreɪzɪŋ lænd.",
+        "exMeaning": "Có rất nhiều đất đai màu mỡ và đất chăn thả tuyệt đẹp."
+    },
+    {
+        "word": "righteous",
+        "type": "Adj",
+        "ipa": "ˈraɪʧəs",
+        "meaning": "đúng đắn",
+        "ex": "But the number of the righteous men was too few to save the state.",
+        "ipaExTrans": "bʌt ðə ˈnʌmbər ɒv ðə ˈraɪʧəs mɛn wɒz tuː fjuː tuː seɪv ðə steɪt.",
+        "exMeaning": "Nhưng số lượng những người đàn ông chân chính là quá ít để cứu nhà nước."
+    },
+    {
+        "word": "ambitious",
+        "type": "Adj",
+        "ipa": "æmˈbɪʃəs",
+        "meaning": "đầy tham vọng",
+        "ex": "She was ambitious, driven by her need for power.",
+        "ipaExTrans": "ʃiː wɒz æmˈbɪʃəs, ˈdrɪvn baɪ hɜː niːd fɔː ˈpaʊə.",
+        "exMeaning": "Cô có tham vọng, được thúc đẩy bởi nhu cầu quyền lực của cô."
+    },
+    {
+        "word": "fragile",
+        "type": "Adj",
+        "ipa": "ˈfræʤaɪl",
+        "meaning": "mong manh",
+        "ex": "You can't protect someone so fragile from what's coming.",
+        "ipaExTrans": "juː kɑːnt prəˈtɛkt ˈsʌmwʌn səʊ ˈfræʤaɪl frɒm wɒts ˈkʌmɪŋ.",
+        "exMeaning": "Bạn không thể bảo vệ ai đó quá mong manh từ những gì sắp tới."
+    },
+    {
+        "word": "ritzy",
+        "type": "Adj",
+        "ipa": "ritzy",
+        "meaning": "đắt tiền và thời trang",
+        "ex": "Instead of a key, there was a code to enter the condo located in a ritzy building on a private beach.",
+        "ipaExTrans": "ɪnˈstɛd ɒv ə kiː, ðeə wɒz ə kəʊd tuː ˈɛntə ðə condo ləʊˈkeɪtɪd ɪn ə ritzy ˈbɪldɪŋ ɒn ə ˈpraɪvɪt biːʧ.",
+        "exMeaning": "Thay vì chìa khóa, có một mã số để vào căn hộ nằm trong một tòa nhà rườm rà trên một bãi biển tư nhân."
+    },
+    {
+        "word": "amoral",
+        "type": "Adj",
+        "ipa": "ˌeɪˈmɒrəl",
+        "meaning": "vô luân",
+        "ex": "Lando, amoral but not evil, escapes the Imperials with Leia in the Millenium Falcon.",
+        "ipaExTrans": "Lando, ˌeɪˈmɒrəl bʌt nɒt ˈiːvl, ɪsˈkeɪps ði ɪmˈpɪərɪəlz wɪð Leia ɪn ðə Millenium ˈfɔːlkən.",
+        "exMeaning": "Lando, vô đạo đức nhưng không xấu xa, thoát khỏi Hoàng gia cùng Leia trong Millenium Falcon."
+    },
+    {
+        "word": "frank",
+        "type": "Adj",
+        "ipa": "fræŋk",
+        "meaning": "thẳng thắn",
+        "ex": "I will be frank with you.",
+        "ipaExTrans": "aɪ wɪl biː fræŋk wɪð juː.",
+        "exMeaning": "Tôi sẽ thẳng thắn với bạn."
+    },
+    {
+        "word": "romantic",
+        "type": "Adj",
+        "ipa": "rəʊˈmæntɪk",
+        "meaning": "lãng mạn",
+        "ex": "Surely he didn't mean love in the romantic sense.",
+        "ipaExTrans": "ˈʃʊəli hiː dɪdnt miːn lʌv ɪn ðə rəʊˈmæntɪk sɛns.",
+        "exMeaning": "Chắc chắn anh không có nghĩa là tình yêu theo nghĩa lãng mạn."
+    },
+    {
+        "word": "angelic",
+        "type": "Adj",
+        "ipa": "ænˈʤɛlɪk",
+        "meaning": "thiên thần",
+        "ex": "She is an angelic being!",
+        "ipaExTrans": "ʃiː ɪz ən ænˈʤɛlɪk ˈbiːɪŋ!",
+        "exMeaning": "Cô ấy là một thiên thần!"
+    },
+    {
+        "word": "functional",
+        "type": "Adj",
+        "ipa": "ˈfʌŋkʃənl",
+        "meaning": "chức năng",
+        "ex": "The first step consists in the functional treatment of equations.",
+        "ipaExTrans": "ðə fɜːst stɛp kənˈsɪsts ɪn ðə ˈfʌŋkʃənl ˈtriːtmənt ɒv ɪˈkweɪʃənz.",
+        "exMeaning": "Bước đầu tiên bao gồm điều trị chức năng của phương trình."
+    },
+    {
+        "word": "rustic",
+        "type": "Adj",
+        "ipa": "ˈrʌstɪk",
+        "meaning": "mộc mạc",
+        "ex": "Never would she have guessed such a lavish home existed in these rustic mountains.",
+        "ipaExTrans": "ˈnɛvə wʊd ʃiː hæv gɛst sʌʧ ə ˈlævɪʃ həʊm ɪgˈzɪstɪd ɪn ðiːz ˈrʌstɪk ˈmaʊntɪnz.",
+        "exMeaning": "Cô sẽ không bao giờ đoán được một ngôi nhà xa hoa như vậy tồn tại ở những ngọn núi mộc mạc này."
+    },
+    {
+        "word": "brainy",
+        "type": "Adj",
+        "ipa": "ˈbreɪni",
+        "meaning": "thông minh",
+        "ex": "A cute collection of fonts is available from Brainy Betty.",
+        "ipaExTrans": "ə kjuːt kəˈlɛkʃən ɒv fɒnts ɪz əˈveɪləbl frɒm ˈbreɪni ˈbɛti.",
+        "exMeaning": "Một bộ sưu tập phông chữ dễ thương có sẵn từ Brainy Betty."
+    },
+    {
+        "word": "gabby",
+        "type": "Adj",
+        "ipa": "ˈgæbi",
+        "meaning": "gabby",
+        "ex": "Gabby Neiers - Sixteen year old Gabby shies away from the spotlight and cringes at many of the decisions her sisters make.",
+        "ipaExTrans": "ˈgæbi ˈneɪəz - ˈsɪksˈtiːn jɪər əʊld ˈgæbi ʃaɪz əˈweɪ frɒm ðə ˈspɒtlaɪt ænd ˈkrɪnʤɪz æt ˈmɛni ɒv ðə dɪˈsɪʒənz hɜː ˈsɪstəz meɪk.",
+        "exMeaning": "Gabby Neiers - Gabby mười sáu tuổi tránh xa ánh đèn sân khấu và chùn bước trước nhiều quyết định của chị em mình."
+    },
+    {
+        "word": "ruthless",
+        "type": "Adj",
+        "ipa": "ˈruːθlɪs",
+        "meaning": "tàn nhẫn",
+        "ex": "He could be ruthless, but was not habitually cruel.",
+        "ipaExTrans": "hiː kʊd biː ˈruːθlɪs, bʌt wɒz nɒt həˈbɪtjʊəli krʊəl.",
+        "exMeaning": "Anh ta có thể tàn nhẫn, nhưng không tàn nhẫn theo thói quen."
+    },
+    {
+        "word": "breathless",
+        "type": "Adj",
+        "ipa": "ˈbrɛθlɪs",
+        "meaning": "hết hơi",
+        "ex": "She gave a breathless laugh.",
+        "ipaExTrans": "ʃiː geɪv ə ˈbrɛθlɪs lɑːf.",
+        "exMeaning": "Cô khẽ cười."
+    },
+    {
+        "word": "generous",
+        "type": "Adj",
+        "ipa": "ˈʤɛnərəs",
+        "meaning": "hào phóng",
+        "ex": "You've been far too generous already.",
+        "ipaExTrans": "juːv biːn fɑː tuː ˈʤɛnərəs ɔːlˈrɛdi.",
+        "exMeaning": "Bạn đã quá hào phóng rồi."
+    },
+    {
+        "word": "sassy",
+        "type": "Adj",
+        "ipa": "ˈsæsi",
+        "meaning": "hỗn láo",
+        "ex": "My cousin is so sassy, always ready to give you a piece of her mind.",
+        "ipaExTrans": "maɪ ˈkʌzn ɪz səʊ ˈsæsi, ˈɔːlweɪz ˈrɛdi tuː gɪv juː ə piːs ɒv hɜː maɪnd.",
+        "exMeaning": "Anh em họ của tôi rất hỗn xược, luôn sẵn sàng cho bạn một phần suy nghĩ của cô ấy."
+    },
+    {
+        "word": "busy",
+        "type": "Adj",
+        "ipa": "ˈbɪzi",
+        "meaning": "bận",
+        "ex": "It's a large and busy hotel.",
+        "ipaExTrans": "ɪts ə lɑːʤ ænd ˈbɪzi həʊˈtɛl.",
+        "exMeaning": "Đó là một khách sạn lớn và bận rộn."
+    },
+    {
+        "word": "gifted",
+        "type": "Adj",
+        "ipa": "ˈgɪftɪd",
+        "meaning": "năng khiếu",
+        "ex": "gifted with extraordinary ability.",
+        "ipaExTrans": "ˈgɪftɪd wɪð ɪksˈtrɔːdnri əˈbɪlɪti.",
+        "exMeaning": "năng khiếu với khả năng phi thường."
+    },
+    {
+        "word": "secretive",
+        "type": "Adj",
+        "ipa": "sɪˈkriːtɪv",
+        "meaning": "bí mật",
+        "ex": "His mother must have been secretive as well.",
+        "ipaExTrans": "hɪz ˈmʌðə mʌst hæv biːn sɪˈkriːtɪv æz wɛl.",
+        "exMeaning": "Mẹ anh chắc cũng phải kín đáo."
+    },
+    {
+        "word": "calm",
+        "type": "Adj",
+        "ipa": "kɑːm",
+        "meaning": "điềm tĩnh",
+        "ex": "Calm, she was able to focus.",
+        "ipaExTrans": "kɑːm, ʃiː wɒz ˈeɪbl tuː ˈfəʊkəs.",
+        "exMeaning": "Bình tĩnh, cô đã có thể tập trung."
+    },
+    {
+        "word": "helpful",
+        "type": "Adj",
+        "ipa": "ˈhɛlpfʊl",
+        "meaning": "Hữu ích",
+        "ex": "There was nothing helpful Dean could offer.",
+        "ipaExTrans": "ðeə wɒz ˈnʌθɪŋ ˈhɛlpfʊl diːn kʊd ˈɒfə.",
+        "exMeaning": "Không có gì hữu ích mà Dean có thể cung cấp."
+    },
+    {
+        "word": "sedate",
+        "type": "Adj",
+        "ipa": "sɪˈdeɪt",
+        "meaning": "nghiêm trang",
+        "ex": "Dean stepped back further, the smile fading from his face as the two men drove away at a very sedate pace.",
+        "ipaExTrans": "diːn stɛpt bæk ˈfɜːðə, ðə smaɪl ˈfeɪdɪŋ frɒm hɪz feɪs æz ðə tuː mɛn drəʊv əˈweɪ æt ə ˈvɛri sɪˈdeɪt peɪs.",
+        "exMeaning": "Dean lùi lại xa hơn, nụ cười nhạt dần trên khuôn mặt khi hai người đàn ông lái xe đi với tốc độ rất trầm lắng."
+    },
+    {
+        "word": "capable",
+        "type": "Adj",
+        "ipa": "ˈkeɪpəbl",
+        "meaning": "có khả năng",
+        "ex": "I knew he was capable of something like this.",
+        "ipaExTrans": "aɪ njuː hiː wɒz ˈkeɪpəbl ɒv ˈsʌmθɪŋ laɪk ðɪs.",
+        "exMeaning": "Tôi biết anh ta có khả năng như thế này."
+    },
+    {
+        "word": "hesitant",
+        "type": "Adj",
+        "ipa": "ˈhɛzɪtənt",
+        "meaning": "do dự",
+        "ex": "We were hesitant to speak candidly in front of Molly.",
+        "ipaExTrans": "wiː wɜː ˈhɛzɪtənt tuː spiːk ˈkændɪdli ɪn frʌnt ɒv ˈmɒli.",
+        "exMeaning": "Chúng tôi do dự nói thẳng thắn trước mặt Molly."
+    },
+    {
+        "word": "shy",
+        "type": "Adj",
+        "ipa": "ʃaɪ",
+        "meaning": "nhát",
+        "ex": "You weren't so shy the other night.",
+        "ipaExTrans": "juː wɜːnt səʊ ʃaɪ ði ˈʌðə naɪt.",
+        "exMeaning": "Bạn không ngại ngùng vào đêm khác."
+    },
+    {
+        "word": "careless",
+        "type": "Adj",
+        "ipa": "ˈkeəlɪs",
+        "meaning": "cẩu thả",
+        "ex": "You're careful about everyone else, but careless about your own safety.",
+        "ipaExTrans": "jʊə ˈkeəfʊl əˈbaʊt ˈɛvrɪwʌn ɛls, bʌt ˈkeəlɪs əˈbaʊt jɔːr əʊn ˈseɪfti.",
+        "exMeaning": "Bạn cẩn thận với những người khác, nhưng bất cẩn về sự an toàn của chính bạn."
+    },
+    {
+        "word": "innocent",
+        "type": "Adj",
+        "ipa": "ˈɪnəsənt",
+        "meaning": "vô tội",
+        "ex": "The children are so innocent they will believe anything I tell them.",
+        "ipaExTrans": "ðə ˈʧɪldrən ɑː səʊ ˈɪnəsənt ðeɪ wɪl bɪˈliːv ˈɛnɪθɪŋ aɪ tɛl ðɛm.",
+        "exMeaning": "Những đứa trẻ rất ngây thơ, chúng sẽ tin bất cứ điều gì tôi nói với chúng."
+    },
+    {
+        "word": "sleepy",
+        "type": "Adj",
+        "ipa": "ˈsliːpi",
+        "meaning": "ngái ngủ",
+        "ex": "My sleepy greeting was met by a shout.",
+        "ipaExTrans": "maɪ ˈsliːpi ˈgriːtɪŋ wɒz mɛt baɪ ə ʃaʊt.",
+        "exMeaning": "Lời chào buồn ngủ của tôi đã được đáp ứng bằng một tiếng hét."
+    },
+    {
+        "word": "cautious",
+        "type": "Adj",
+        "ipa": "ˈkɔːʃəs",
+        "meaning": "dè dặt",
+        "ex": "Her tone was cautious but respectful.",
+        "ipaExTrans": "hɜː təʊn wɒz ˈkɔːʃəs bʌt rɪsˈpɛktfʊl.",
+        "exMeaning": "Giọng cô thận trọng nhưng tôn trọng."
+    },
+    {
+        "word": "inquisitive",
+        "type": "Adj",
+        "ipa": "ɪnˈkwɪzɪtɪv",
+        "meaning": "tò mò",
+        "ex": "We were met by three inquisitive stares.",
+        "ipaExTrans": "wiː wɜː mɛt baɪ θriː ɪnˈkwɪzɪtɪv steəz.",
+        "exMeaning": "Chúng tôi đã gặp ba ngôi sao tò mò."
+    },
+    {
+        "word": "somber",
+        "type": "Adj",
+        "ipa": "ˈsɒmbə",
+        "meaning": "ảm đạm",
+        "ex": "Fred's mood remained somber throughout the meal.",
+        "ipaExTrans": "frɛdz muːd rɪˈmeɪnd ˈsɒmbə θru(ː)ˈaʊt ðə miːl.",
+        "exMeaning": "Tâm trạng của Fred vẫn ảm đạm suốt bữa ăn."
+    },
+    {
+        "word": "cheerful",
+        "type": "Adj",
+        "ipa": "ˈʧɪəfʊl",
+        "meaning": "vui lòng",
+        "ex": "How cheerful it is to hear of!",
+        "ipaExTrans": "haʊ ˈʧɪəfʊl ɪt ɪz tuː hɪər ɒv!",
+        "exMeaning": "Thật vui khi nghe nó!"
+    },
+    {
+        "word": "insane",
+        "type": "Adj",
+        "ipa": "ɪnˈseɪn",
+        "meaning": "điên",
+        "ex": "The king became insane in 1454.",
+        "ipaExTrans": "ðə kɪŋ bɪˈkeɪm ɪnˈseɪn ɪn 1454.",
+        "exMeaning": "Nhà vua trở nên điên loạn vào năm 1454."
+    },
+    {
+        "word": "stingy",
+        "type": "Adj",
+        "ipa": "ˈstɪnʤi",
+        "meaning": "keo kiệt"
+    },
+    {
+        "word": "clever",
+        "type": "Adj",
+        "ipa": "ˈklɛvə",
+        "meaning": "tài giỏi",
+        "ex": "As a child he was clever and delicate.",
+        "ipaExTrans": "æz ə ʧaɪld hiː wɒz ˈklɛvər ænd ˈdɛlɪkɪt.",
+        "exMeaning": "Khi còn nhỏ anh rất thông minh và tinh tế."
+    },
+    {
+        "word": "jaunty",
+        "type": "Adj",
+        "ipa": "ˈʤɔːnti",
+        "meaning": "ghen tị",
+        "ex": "Anatole followed him with his usual jaunty step but his face betrayed anxiety.",
+        "ipaExTrans": "Anatole ˈfɒləʊd hɪm wɪð hɪz ˈjuːʒʊəl ˈʤɔːnti stɛp bʌt hɪz feɪs bɪˈtreɪd æŋˈzaɪəti.",
+        "exMeaning": "Anatole đi theo anh ta với bước đi ghen tuông thường thấy nhưng khuôn mặt anh ta phản bội sự lo lắng."
+    },
+    {
+        "word": "stupid",
+        "type": "Adj",
+        "ipa": "ˈstjuːpɪd",
+        "meaning": "ngốc nghếch",
+        "ex": "I did a stupid thing last night.",
+        "ipaExTrans": "aɪ dɪd ə ˈstjuːpɪd θɪŋ lɑːst naɪt.",
+        "exMeaning": "Tôi đã làm một điều ngu ngốc đêm qua."
+    },
+    {
+        "word": "common",
+        "type": "Adj",
+        "ipa": "ˈkɒmən",
+        "meaning": "chung",
+        "ex": "She will only utilize it for common good.",
+        "ipaExTrans": "ʃiː wɪl ˈəʊnli ˈjuːtɪˌlaɪz ɪt fɔː ˈkɒmən gʊd.",
+        "exMeaning": "Cô sẽ chỉ sử dụng nó cho lợi ích chung."
+    },
+    {
+        "word": "juicy",
+        "type": "Adj",
+        "ipa": "ˈʤuːsi",
+        "meaning": "ngon ngọt",
+        "ex": "They like juicy fruit to eat as well as people, and they are hungry.",
+        "ipaExTrans": "ðeɪ laɪk ˈʤuːsi fruːt tuː iːt æz wɛl æz ˈpiːpl, ænd ðeɪ ɑː ˈhʌŋgri.",
+        "exMeaning": "Họ thích trái cây ngon ngọt để ăn cũng như mọi người, và họ đang đói."
+    },
+    {
+        "word": "super",
+        "type": "Adj",
+        "ipa": "ˈs(j)uːpə",
+        "meaning": "siêu",
+        "ex": "They say those trips are super vivid.",
+        "ipaExTrans": "ðeɪ seɪ ðəʊz trɪps ɑː ˈs(j)uːpə ˈvɪvɪd.",
+        "exMeaning": "Họ nói rằng những chuyến đi là siêu sống động."
+    },
+    {
+        "word": "complete",
+        "type": "Adj",
+        "ipa": "kəmˈpliːt",
+        "meaning": "hoàn thành",
+        "ex": "It's a nice house, a keen house, complete with a front porch and swing.",
+        "ipaExTrans": "ɪts ə naɪs haʊs, ə kiːn haʊs, kəmˈpliːt wɪð ə frʌnt pɔːʧ ænd swɪŋ.",
+        "exMeaning": "Đó là một ngôi nhà đẹp, một ngôi nhà sắc sảo, hoàn chỉnh với một hiên trước và xích đu."
+    },
+    {
+        "word": "macho",
+        "type": "Adj",
+        "ipa": "ˈmæʧəʊ",
+        "meaning": "bậc nam nhi",
+        "ex": "Jerome plans to climb tomorrow, so he can show everyone how much of a macho stud he is.",
+        "ipaExTrans": "ʤəˈrəʊm plænz tuː klaɪm təˈmɒrəʊ, səʊ hiː kæn ʃəʊ ˈɛvrɪwʌn haʊ mʌʧ ɒv ə ˈmæʧəʊ stʌd hiː ɪz.",
+        "exMeaning": "Jerome có kế hoạch leo lên vào ngày mai, vì vậy anh ta có thể cho mọi người thấy anh ta là một thợ máy."
+    },
+    {
+        "word": "swanky",
+        "type": "Adj",
+        "ipa": "ˈswæŋki",
+        "meaning": "khoe khoang"
+    },
+    {
+        "word": "concerned",
+        "type": "Adj",
+        "ipa": "kənˈsɜːnd",
+        "meaning": "lo âu",
+        "ex": "I was especially concerned that Howie have outside interests.",
+        "ipaExTrans": "aɪ wɒz ɪsˈpɛʃəli kənˈsɜːnd ðæt Howie hæv ˌaʊtˈsaɪd ˈɪntrɪsts.",
+        "exMeaning": "Tôi đặc biệt lo ngại rằng Howie có lợi ích bên ngoài."
+    },
+    {
+        "word": "manly",
+        "type": "Adj",
+        "ipa": "ˈmænli",
+        "meaning": "nam tính",
+        "ex": "He delighted in sport and all manly exercises.",
+        "ipaExTrans": "hiː dɪˈlaɪtɪd ɪn spɔːt ænd ɔːl ˈmænli ˈɛksəsaɪzɪz.",
+        "exMeaning": "Anh thích thú với thể thao và tất cả các bài tập nam tính."
+    },
+    {
+        "word": "tame",
+        "type": "Adj",
+        "ipa": "teɪm",
+        "meaning": "thuần hóa",
+        "ex": "I guess they're not as tame as they look.",
+        "ipaExTrans": "aɪ gɛs ðeə nɒt æz teɪm æz ðeɪ lʊk.",
+        "exMeaning": "Tôi đoán họ không thuần hóa như họ nhìn."
+    },
+    {
+        "word": "crazy",
+        "type": "Adj",
+        "ipa": "ˈkreɪzi",
+        "meaning": "khùng",
+        "ex": "The idea is as crazy as the rest of this business!",
+        "ipaExTrans": "ði aɪˈdɪə ɪz æz ˈkreɪzi æz ðə rɛst ɒv ðɪs ˈbɪznɪs!",
+        "exMeaning": "Ý tưởng này cũng điên rồ như phần còn lại của doanh nghiệp này!"
+    },
+    {
+        "word": "modern",
+        "type": "Adj",
+        "ipa": "ˈmɒdən",
+        "meaning": "hiện đại",
+        "ex": "The road leading to the castle was modern blacktop.",
+        "ipaExTrans": "ðə rəʊd ˈliːdɪŋ tuː ðə ˈkɑːsl wɒz ˈmɒdən blacktop.",
+        "exMeaning": "Con đường dẫn đến lâu đài là bảng đen hiện đại."
+    },
+    {
+        "word": "tawdry",
+        "type": "Adj",
+        "ipa": "ˈtɔːdri",
+        "meaning": "tawdry",
+        "ex": "Probably these blocks formed the floor of a balcony, a tawdry marble addition.",
+        "ipaExTrans": "ˈprɒbəbli ðiːz blɒks fɔːmd ðə flɔːr ɒv ə ˈbælkəni, ə ˈtɔːdri ˈmɑːbl əˈdɪʃ(ə)n.",
+        "exMeaning": "Có lẽ những khối này tạo thành sàn của một ban công, một bổ sung bằng đá cẩm thạch."
+    },
+    {
+        "word": "curious",
+        "type": "Adj",
+        "ipa": "ˈkjʊərɪəs",
+        "meaning": "Tò mò",
+        "ex": "She looked up at him with a curious smile.",
+        "ipaExTrans": "ʃiː lʊkt ʌp æt hɪm wɪð ə ˈkjʊərɪəs smaɪl.",
+        "exMeaning": "Cô ngước nhìn anh với một nụ cười tò mò."
+    },
+    {
+        "word": "mushy",
+        "type": "Adj",
+        "ipa": "ˈmʌʃi",
+        "meaning": "ủy mị",
+        "ex": "Don't get mushy on me.",
+        "ipaExTrans": "dəʊnt gɛt ˈmʌʃi ɒn miː.",
+        "exMeaning": "Đừng nản chí với tôi."
+    },
+    {
+        "word": "terrific",
+        "type": "Adj",
+        "ipa": "təˈrɪfɪk",
+        "meaning": "khủng khiếp",
+        "ex": "War broke out in 1665, and was marked by a series of terrific battles.",
+        "ipaExTrans": "wɔː brəʊk aʊt ɪn 1665, ænd wɒz mɑːkt baɪ ə ˈsɪəriːz ɒv təˈrɪfɪk ˈbætlz.",
+        "exMeaning": "Chiến tranh nổ ra vào năm 1665 và được đánh dấu bằng một loạt các trận chiến kinh hoàng."
+    },
+    {
+        "word": "dead",
+        "type": "Adj",
+        "ipa": "dɛd",
+        "meaning": "đã chết",
+        "ex": "The battery in the lantern might be dead or the fall might have broken it.",
+        "ipaExTrans": "ðə ˈbætəri ɪn ðə ˈlæntən maɪt biː dɛd ɔː ðə fɔːl maɪt hæv ˈbrəʊkən ɪt.",
+        "exMeaning": "Pin trong đèn lồng có thể bị chết hoặc rơi có thể làm hỏng nó."
+    },
+    {
+        "word": "naughty",
+        "type": "Adj",
+        "ipa": "ˈnɔːti",
+        "meaning": "nghịch ngợm",
+        "ex": "You are a very naughty witch.",
+        "ipaExTrans": "juː ɑːr ə ˈvɛri ˈnɔːti wɪʧ.",
+        "exMeaning": "Bạn là một phù thủy rất nghịch ngợm."
+    },
+    {
+        "word": "testy",
+        "type": "Adj",
+        "ipa": "ˈtɛsti",
+        "meaning": "thử",
+        "ex": "A little testy today, aren't we?",
+        "ipaExTrans": "ə ˈlɪtl ˈtɛsti təˈdeɪ, ɑːnt wiː?",
+        "exMeaning": "Một chút thử thách ngày hôm nay, phải không?"
+    },
+    {
+        "word": "deep",
+        "type": "Adj",
+        "ipa": "diːp",
+        "meaning": "sâu",
+        "ex": "She drew a deep breath.",
+        "ipaExTrans": "ʃiː druː ə diːp brɛθ.",
+        "exMeaning": "Cô hít một hơi thật sâu."
+    },
+    {
+        "word": "odd",
+        "type": "Adj",
+        "ipa": "ɒd",
+        "meaning": "lẻ",
+        "ex": "Some of them asked odd questions.",
+        "ipaExTrans": "sʌm ɒv ðɛm ɑːskt ɒd ˈkwɛsʧənz.",
+        "exMeaning": "Một số người trong số họ hỏi những câu hỏi kỳ lạ."
+    },
+    {
+        "word": "uninterested",
+        "type": "Adj",
+        "ipa": "ʌnˈɪntrɪstɪd",
+        "meaning": "không quan tâm",
+        "ex": "The fact that she was uninterested only enticed him further.",
+        "ipaExTrans": "ðə fækt ðæt ʃiː wɒz ʌnˈɪntrɪstɪd ˈəʊnli ɪnˈtaɪst hɪm ˈfɜːðə.",
+        "exMeaning": "Việc cô không quan tâm chỉ lôi kéo anh thêm."
+    },
+    {
+        "word": "delightful",
+        "type": "Adj",
+        "ipa": "dɪˈlaɪtfʊl",
+        "meaning": "thú vị",
+        "ex": "It was a delightful surprise.",
+        "ipaExTrans": "ɪt wɒz ə dɪˈlaɪtfʊl səˈpraɪz.",
+        "exMeaning": "Đó là một bất ngờ thú vị."
+    },
+    {
+        "word": "old",
+        "type": "Adj",
+        "ipa": "əʊld",
+        "meaning": "cũ",
+        "ex": "My parents used to listen to those old songs.",
+        "ipaExTrans": "maɪ ˈpeərənts juːzd tuː ˈlɪsn tuː ðəʊz əʊld sɒŋz.",
+        "exMeaning": "Bố mẹ tôi thường nghe những bài hát cũ đó."
+    },
+    {
+        "word": "vague",
+        "type": "Adj",
+        "ipa": "veɪg",
+        "meaning": "mơ hồ",
+        "ex": "She rolled her eyes at the vague response.",
+        "ipaExTrans": "ʃiː rəʊld hɜːr aɪz æt ðə veɪg rɪsˈpɒns.",
+        "exMeaning": "Cô tròn mắt trước câu trả lời mơ hồ."
+    },
+    {
+        "word": "determined",
+        "type": "Adj",
+        "ipa": "dɪˈtɜːmɪnd",
+        "meaning": "xác định",
+        "ex": "Elihu Burritt was a poor boy who was determined to learn.",
+        "ipaExTrans": "Elihu Burritt wɒz ə pʊə bɔɪ huː wɒz dɪˈtɜːmɪnd tuː lɜːn.",
+        "exMeaning": "Elihu Burritt là một cậu bé nghèo, quyết tâm học hỏi."
+    },
+    {
+        "word": "open",
+        "type": "Adj",
+        "ipa": "ˈəʊpən",
+        "meaning": "mở",
+        "ex": "You don't have to open your mouth.",
+        "ipaExTrans": "juː dəʊnt hæv tuː ˈəʊpən jɔː maʊθ.",
+        "exMeaning": "Bạn không cần phải mở miệng."
+    },
+    {
+        "word": "verdant",
+        "type": "Adj",
+        "ipa": "ˈvɜːdənt",
+        "meaning": "xanh tươi",
+        "ex": "Verdant forests stretched to the steely sky, a swath of green, brown, and grey.",
+        "ipaExTrans": "ˈvɜːdənt ˈfɒrɪsts strɛʧt tuː ðə ˈstiːli skaɪ, ə swɔːθ ɒv griːn, braʊn, ænd greɪ.",
+        "exMeaning": "Những khu rừng xanh tươi trải dài đến bầu trời vững chắc, một dải xanh, nâu và xám."
+    },
+    {
+        "word": "different",
+        "type": "Adj",
+        "ipa": "ˈdɪfrənt",
+        "meaning": "khác nhau",
+        "ex": "There's nothing wrong with having a different opinion.",
+        "ipaExTrans": "ðeəz ˈnʌθɪŋ rɒŋ wɪð ˈhævɪŋ ə ˈdɪfrənt əˈpɪnjən.",
+        "exMeaning": "Không có gì sai khi có một ý kiến ​​khác."
+    },
+    {
+        "word": "outstanding",
+        "type": "Adj",
+        "ipa": "aʊtˈstændɪŋ",
+        "meaning": "nổi bật",
+        "ex": "Their list of outstanding collections was growing smaller.",
+        "ipaExTrans": "ðeə lɪst ɒv aʊtˈstændɪŋ kəˈlɛkʃənz wɒz ˈgrəʊɪŋ ˈsmɔːlə.",
+        "exMeaning": "Danh sách các bộ sưu tập nổi bật của họ ngày càng nhỏ hơn."
+    },
+    {
+        "word": "vivacious",
+        "type": "Adj",
+        "ipa": "vɪˈveɪʃəs",
+        "meaning": "hoạt bát",
+        "ex": "The vivacious lilac still grows, unfolding its sweet-scented flowers each spring.",
+        "ipaExTrans": "ðə vɪˈveɪʃəs ˈlaɪlək stɪl grəʊz, ʌnˈfəʊldɪŋ ɪts ˈswiːtˈsɛntɪd ˈflaʊəz iːʧ sprɪŋ.",
+        "exMeaning": "Hoa tử đằng hoạt bát vẫn phát triển, hé mở những bông hoa thơm ngát của nó mỗi mùa xuân."
+    },
+    {
+        "word": "diligent",
+        "type": "Adj",
+        "ipa": "ˈdɪlɪʤənt",
+        "meaning": "siêng năng",
+        "ex": "He was diligent in the matter of temperature control.",
+        "ipaExTrans": "hiː wɒz ˈdɪlɪʤənt ɪn ðə ˈmætər ɒv ˈtɛmprɪʧə kənˈtrəʊl.",
+        "exMeaning": "Ông siêng năng trong vấn đề kiểm soát nhiệt độ."
+    },
+    {
+        "word": "perky",
+        "type": "Adj",
+        "ipa": "ˈpɜːki",
+        "meaning": "vui tươi",
+        "ex": "Felipa was wearing a perky red satin gown with spaghetti straps and full skirt.",
+        "ipaExTrans": "Felipa wɒz ˈweərɪŋ ə ˈpɜːki rɛd ˈsætɪn gaʊn wɪð spəˈgɛti stræps ænd fʊl skɜːt.",
+        "exMeaning": "Felipa đang mặc một chiếc váy satin màu đỏ vui tươi với dây đai spaghetti và váy đầy đủ."
+    },
+    {
+        "word": "wacky",
+        "type": "Adj",
+        "ipa": "ˈwæki",
+        "meaning": "kỳ quặc",
+        "ex": "She kept telling herself she'd wake up from this wacky dream soon.",
+        "ipaExTrans": "ʃiː kɛpt ˈtɛlɪŋ hɜːˈsɛlf ʃiːd weɪk ʌp frɒm ðɪs ˈwæki driːm suːn.",
+        "exMeaning": "Cô tiếp tục nói với chính mình rằng cô sẽ thức dậy khỏi giấc mơ kỳ quặc này sớm thôi."
+    },
+    {
+        "word": "energetic",
+        "type": "Adj",
+        "ipa": "ˌɛnəˈʤɛtɪk",
+        "meaning": "năng lượng",
+        "ex": "She still seemed energetic and optimistic.",
+        "ipaExTrans": "ʃiː stɪl siːmd ˌɛnəˈʤɛtɪk ænd ˌɒptɪˈmɪstɪk.",
+        "exMeaning": "Cô vẫn có vẻ hăng hái và lạc quan."
+    },
+    {
+        "word": "poor",
+        "type": "Adj",
+        "ipa": "pʊə",
+        "meaning": "nghèo",
+        "ex": "The poor kid is feeling deserted.",
+        "ipaExTrans": "ðə pʊə kɪd ɪz ˈfiːlɪŋ dɪˈzɜːtɪd.",
+        "exMeaning": "Đứa trẻ tội nghiệp đang cảm thấy hoang vắng."
+    },
+    {
+        "word": "wandering",
+        "type": "Adj",
+        "ipa": "ˈwɒndərɪŋ",
+        "meaning": "lang thang",
+        "ex": "I didn't notice how far I was wandering this evening.",
+        "ipaExTrans": "aɪ dɪdnt ˈnəʊtɪs haʊ fɑːr aɪ wɒz ˈwɒndərɪŋ ðɪs ˈiːvnɪŋ.",
+        "exMeaning": "Tôi đã không nhận thấy tôi đã đi lang thang bao xa tối nay."
+    },
+    {
+        "word": "erratic",
+        "type": "Adj",
+        "ipa": "ɪˈrætɪk",
+        "meaning": "thất thường",
+        "ex": "Erratic blocks are of frequent occurrence in south Jutland.",
+        "ipaExTrans": "ɪˈrætɪk blɒks ɑːr ɒv ˈfriːkwənt əˈkʌrəns ɪn saʊθ Jutland.",
+        "exMeaning": "Các khối thất thường xảy ra thường xuyên ở phía nam Jutland."
+    },
+    {
+        "word": "powerful",
+        "type": "Adj",
+        "ipa": "ˈpaʊəfʊl",
+        "meaning": "quyền lực",
+        "ex": "The powerful words made her frown.",
+        "ipaExTrans": "ðə ˈpaʊəfʊl wɜːdz meɪd hɜː fraʊn.",
+        "exMeaning": "Những lời nói mạnh mẽ khiến cô nhăn mặt."
+    },
+    {
+        "word": "wild",
+        "type": "Adj",
+        "ipa": "waɪld",
+        "meaning": "hoang dã",
+        "ex": "He couldn't help but detect her wild pulse.",
+        "ipaExTrans": "hiː ˈkʊdnt hɛlp bʌt dɪˈtɛkt hɜː waɪld pʌls.",
+        "exMeaning": "Anh không thể không phát hiện mạch đập của cô."
+    },
+    {
+        "word": "evil",
+        "type": "Adj",
+        "ipa": "ˈiːvl",
+        "meaning": "tà ác",
+        "ex": "There is no evil here.",
+        "ipaExTrans": "ðeər ɪz nəʊ ˈiːvl hɪə.",
+        "exMeaning": "Không có cái ác ở đây."
+    },
+    {
+        "word": "puzzled",
+        "type": "Adj",
+        "ipa": "ˈpʌzld",
+        "meaning": "hoang mang",
+        "ex": "He regarded her with a puzzled expression.",
+        "ipaExTrans": "hiː rɪˈgɑːdɪd hɜː wɪð ə ˈpʌzld ɪksˈprɛʃən.",
+        "exMeaning": "Anh coi cô với vẻ khó hiểu."
+    },
+    {
+        "word": "womanly",
+        "type": "Adj",
+        "ipa": "ˈwʊmənli",
+        "meaning": "nữ tính",
+        "ex": "He wrapped his arms around her, breathing in her womanly musk.",
+        "ipaExTrans": "hiː ræpt hɪz ɑːmz əˈraʊnd hɜː, ˈbriːðɪŋ ɪn hɜː ˈwʊmənli mʌsk.",
+        "exMeaning": "Anh vòng tay ôm lấy cô, hít vào mùi xạ hương nữ tính của cô."
+    },
+    {
+        "word": "exuberant",
+        "type": "Adj",
+        "ipa": "ɪgˈzjuːbərənt",
+        "meaning": "hồ hởi",
+        "ex": "His poems, novels and comedies are full of wit and exuberant vitality.",
+        "ipaExTrans": "hɪz ˈpəʊɪmz, ˈnɒvəlz ænd ˈkɒmɪdiz ɑː fʊl ɒv wɪt ænd ɪgˈzjuːbərənt vaɪˈtælɪti.",
+        "exMeaning": "Những bài thơ, tiểu thuyết và hài kịch của ông đầy sức sống dí dỏm và phấn khích."
+    },
+    {
+        "word": "real",
+        "type": "Adj",
+        "ipa": "rɪəl",
+        "meaning": "thực tế",
+        "ex": "The real surprise came with his presence in the delivery room.",
+        "ipaExTrans": "ðə rɪəl səˈpraɪz keɪm wɪð hɪz ˈprɛzns ɪn ðə dɪˈlɪvəri ruːm.",
+        "exMeaning": "Sự ngạc nhiên thực sự đến với sự hiện diện của anh ấy trong phòng sinh."
+    },
+    {
+        "word": "wrong",
+        "type": "Adj",
+        "ipa": "rɒŋ",
+        "meaning": "Sai lầm",
+        "ex": "I can neither punish him if he does wrong nor reward him if he does right.",
+        "ipaExTrans": "aɪ kæn ˈnaɪðə ˈpʌnɪʃ hɪm ɪf hiː dʌz rɒŋ nɔː rɪˈwɔːd hɪm ɪf hiː dʌz raɪt.",
+        "exMeaning": "Tôi không thể trừng phạt anh ta nếu anh ta làm sai hay thưởng cho anh ta nếu anh ta làm đúng."
+    }
+]

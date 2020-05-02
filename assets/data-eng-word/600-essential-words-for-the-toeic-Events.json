@@ -1,0 +1,135 @@
+[
+    {
+        "word": "assist",
+        "type": "hỗ trợ",
+        "ipa": "əˈsɪst",
+        "meaning": "v. to give help or support to ( trợ giúp, hỗ trợ )",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "assistance",
+        "type": "hỗ trợ",
+        "ipa": "əˈsɪstəns",
+        "meaning": "n. sự giúp đỡ, người giúp việc",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "assistant",
+        "type": "phụ tá",
+        "ipa": "əˈsɪstənt",
+        "meaning": "n. trợ lý",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "coordinate",
+        "type": "danh từ: Tọa độ",
+        "ipa": "kəʊˈɔːdnɪt",
+        "meaning": "v. to adjust or arrange parts to work together (sắp xếp, sẳp đặt)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "dimension",
+        "type": "kích thước",
+        "ipa": "dɪˈmɛnʃən",
+        "meaning": "n. a measure of width, height, or length (kích thước)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "exact",
+        "type": "chính xác",
+        "ipa": "ɪgˈzækt",
+        "meaning": "adj. characterized by accurate measurements or inferences (chính xác)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "general",
+        "type": "chung",
+        "ipa": "ˈʤɛnərəl",
+        "meaning": "adj. involving only the main feature rather than precise details (hầu hết, phổ biến)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "generalize",
+        "type": "khái quát hóa",
+        "ipa": "ˈʤɛnərəlaɪz",
+        "meaning": "v. khái quát hóa, tổng quát hóa",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "generally",
+        "type": "nói chung là",
+        "ipa": "ˈʤɛnərəli",
+        "meaning": "adv. đại khái, chung chung",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "ideal",
+        "type": "lý tưởng",
+        "ipa": "aɪˈdɪəl",
+        "meaning": "adj. imaginary; existing as a perfect model (quan niệm, tưởng tượng, mẫu hình lý tưởng)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "idealize",
+        "type": "lý tưởng hóa",
+        "ipa": "aɪˈdɪəlaɪz",
+        "meaning": "v. lý tưởng hóa, theo lý tưởng",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "lead time",
+        "type": "thời gian dẫn",
+        "ipa": "liːd taɪm",
+        "meaning": "khoảng thời gian giữa lúc bắt đầu và lúc hoàn thành một quá trình sx mới",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "plan",
+        "type": "kế hoạch",
+        "ipa": "plæn",
+        "meaning": "n. kế hoạch",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "proximity",
+        "type": "gần",
+        "ipa": "prɒkˈsɪmɪti",
+        "meaning": "n. the state, quality, sense, or fact of being near or next to; closeness (sự gần gũi)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "regulation",
+        "type": "Quy định",
+        "ipa": "ˌrɛgjʊˈleɪʃən",
+        "meaning": "n. rules, laws, or controls; v., to control (sự điều chỉnh, qui tắc, điều lệ)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "regulate",
+        "type": "điều tiết",
+        "ipa": "ˈrɛgjʊleɪt",
+        "meaning": "v. điều chỉnh",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "regulatory",
+        "type": "quy định",
+        "ipa": "ˈrɛgjʊleɪt(ə)ri",
+        "meaning": "adj. điều chỉnh, quy định",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "site",
+        "type": "Địa điểm",
+        "ipa": "saɪt",
+        "meaning": "n. a place or setting (vị trí, địa điểm)",
+        "tag": "Events (sự kiện)"
+    },
+    {
+        "word": "stage",
+        "type": "sân khấu",
+        "ipa": "steɪʤ",
+        "meaning": "v. to exhibit or present (Trình diễn)",
+        "tag": "Events (sự kiện)"
+    }
+]

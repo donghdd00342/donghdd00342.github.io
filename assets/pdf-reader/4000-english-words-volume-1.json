@@ -1,0 +1,307 @@
+{
+    "fullUrlPdf": "assets/pdf-files/4000-english-words-volume-1.pdf",
+    "audioPath": "https://s3-ap-southeast-1.amazonaws.com/donghd.com/audio/short-talks/",
+    "linkedWordPath": "assets/data-eng-word-linked-short-talks/",
+    "metaData": [
+        {
+            "page": 4,
+            "shortUrlLinkedWord": "4k-essential-volume1-01.json",
+            "shortUrlAudio": "4k-essential-01-01.mp3"
+        },
+        {
+            "page": 8,
+            "shortUrlLinkedWord": "4k-essential-volume1-01.json",
+            "shortUrlAudio": "4k-essential-01-02.mp3"
+        },
+        {
+            "page": 10,
+            "shortUrlLinkedWord": "4k-essential-volume1-02.json",
+            "shortUrlAudio": "4k-essential-volume1-02-01.mp3"
+        },
+        {
+            "page": 14,
+            "shortUrlLinkedWord": "4k-essential-volume1-02.json",
+            "shortUrlAudio": "4k-essential-volume1-02-02.mp3"
+        },
+        {
+            "page": 16,
+            "shortUrlLinkedWord": "4k-essential-volume1-03.json",
+            "shortUrlAudio": "4k-essential-volume1-03-01.mp3"
+        },
+        {
+            "page": 20,
+            "shortUrlLinkedWord": "4k-essential-volume1-03.json",
+            "shortUrlAudio": "4k-essential-volume1-03-02.mp3"
+        },
+        {
+            "page": 22,
+            "shortUrlLinkedWord": "4k-essential-volume1-04.json",
+            "shortUrlAudio": "4k-essential-volume1-04-01.mp3"
+        },
+        {
+            "page": 26,
+            "shortUrlLinkedWord": "4k-essential-volume1-04.json",
+            "shortUrlAudio": "4k-essential-volume1-04-02.mp3"
+        },
+        {
+            "page": 28,
+            "shortUrlLinkedWord": "4k-essential-volume1-05.json",
+            "shortUrlAudio": "4k-essential-volume1-05-01.mp3"
+        },
+        {
+            "page": 32,
+            "shortUrlLinkedWord": "4k-essential-volume1-05.json",
+            "shortUrlAudio": "4k-essential-volume1-05-02.mp3"
+        },
+        {
+            "page": 34,
+            "shortUrlLinkedWord": "4k-essential-volume1-06.json",
+            "shortUrlAudio": "4k-essential-volume1-06-01.mp3"
+        },
+        {
+            "page": 38,
+            "shortUrlLinkedWord": "4k-essential-volume1-06.json",
+            "shortUrlAudio": "4k-essential-volume1-06-02.mp3"
+        },
+        {
+            "page": 40,
+            "shortUrlLinkedWord": "4k-essential-volume1-07.json",
+            "shortUrlAudio": "4k-essential-volume1-07-01.mp3"
+        },
+        {
+            "page": 44,
+            "shortUrlLinkedWord": "4k-essential-volume1-07.json",
+            "shortUrlAudio": "4k-essential-volume1-07-02.mp3"
+        },
+        {
+            "page": 46,
+            "shortUrlLinkedWord": "4k-essential-volume1-08.json",
+            "shortUrlAudio": "4k-essential-volume1-08-01.mp3"
+        },
+        {
+            "page": 50,
+            "shortUrlLinkedWord": "4k-essential-volume1-08.json",
+            "shortUrlAudio": "4k-essential-volume1-08-02.mp3"
+        },
+        {
+            "page": 52,
+            "shortUrlLinkedWord": "4k-essential-volume1-09.json",
+            "shortUrlAudio": "4k-essential-volume1-09-01.mp3"
+        },
+        {
+            "page": 56,
+            "shortUrlLinkedWord": "4k-essential-volume1-09.json",
+            "shortUrlAudio": "4k-essential-volume1-09-02.mp3"
+        },
+        {
+            "page": 58,
+            "shortUrlLinkedWord": "4k-essential-volume1-10.json",
+            "shortUrlAudio": "4k-essential-volume1-10-01.mp3"
+        },
+        {
+            "page": 62,
+            "shortUrlLinkedWord": "4k-essential-volume1-10.json",
+            "shortUrlAudio": "4k-essential-volume1-10-02.mp3"
+        },
+        {
+            "page": 64,
+            "shortUrlLinkedWord": "4k-essential-volume1-11.json",
+            "shortUrlAudio": "4k-essential-volume1-11-01.mp3"
+        },
+        {
+            "page": 68,
+            "shortUrlLinkedWord": "4k-essential-volume1-11.json",
+            "shortUrlAudio": "4k-essential-volume1-11-02.mp3"
+        },
+        {
+            "page": 70,
+            "shortUrlLinkedWord": "4k-essential-volume1-12.json",
+            "shortUrlAudio": "4k-essential-volume1-12-01.mp3"
+        },
+        {
+            "page": 74,
+            "shortUrlLinkedWord": "4k-essential-volume1-12.json",
+            "shortUrlAudio": "4k-essential-volume1-12-02.mp3"
+        },
+        {
+            "page": 76,
+            "shortUrlLinkedWord": "4k-essential-volume1-13.json",
+            "shortUrlAudio": "4k-essential-volume1-13-01.mp3"
+        },
+        {
+            "page": 80,
+            "shortUrlLinkedWord": "4k-essential-volume1-13.json",
+            "shortUrlAudio": "4k-essential-volume1-13-02.mp3"
+        },
+        {
+            "page": 82,
+            "shortUrlLinkedWord": "4k-essential-volume1-14.json",
+            "shortUrlAudio": "4k-essential-volume1-14-01.mp3"
+        },
+        {
+            "page": 86,
+            "shortUrlLinkedWord": "4k-essential-volume1-14.json",
+            "shortUrlAudio": "4k-essential-volume1-14-02.mp3"
+        },
+        {
+            "page": 88,
+            "shortUrlLinkedWord": "4k-essential-volume1-15.json",
+            "shortUrlAudio": "4k-essential-volume1-15-01.mp3"
+        },
+        {
+            "page": 92,
+            "shortUrlLinkedWord": "4k-essential-volume1-15.json",
+            "shortUrlAudio": "4k-essential-volume1-15-02.mp3"
+        },
+        {
+            "page": 94,
+            "shortUrlLinkedWord": "4k-essential-volume1-16.json",
+            "shortUrlAudio": "4k-essential-volume1-16-01.mp3"
+        },
+        {
+            "page": 98,
+            "shortUrlLinkedWord": "4k-essential-volume1-16.json",
+            "shortUrlAudio": "4k-essential-volume1-16-02.mp3"
+        },
+        {
+            "page": 100,
+            "shortUrlLinkedWord": "4k-essential-volume1-17.json",
+            "shortUrlAudio": "4k-essential-volume1-17-01.mp3"
+        },
+        {
+            "page": 104,
+            "shortUrlLinkedWord": "4k-essential-volume1-17.json",
+            "shortUrlAudio": "4k-essential-volume1-17-02.mp3"
+        },
+        {
+            "page": 106,
+            "shortUrlLinkedWord": "4k-essential-volume1-18.json",
+            "shortUrlAudio": "4k-essential-volume1-18-01.mp3"
+        },
+        {
+            "page": 110,
+            "shortUrlLinkedWord": "4k-essential-volume1-18.json",
+            "shortUrlAudio": "4k-essential-volume1-18-02.mp3"
+        },
+        {
+            "page": 112,
+            "shortUrlLinkedWord": "4k-essential-volume1-19.json",
+            "shortUrlAudio": "4k-essential-volume1-19-01.mp3"
+        },
+        {
+            "page": 116,
+            "shortUrlLinkedWord": "4k-essential-volume1-19.json",
+            "shortUrlAudio": "4k-essential-volume1-19-02.mp3"
+        },
+        {
+            "page": 118,
+            "shortUrlLinkedWord": "4k-essential-volume1-20.json",
+            "shortUrlAudio": "4k-essential-volume1-20-01.mp3"
+        },
+        {
+            "page": 122,
+            "shortUrlLinkedWord": "4k-essential-volume1-20.json",
+            "shortUrlAudio": "4k-essential-volume1-20-02.mp3"
+        },
+        {
+            "page": 124,
+            "shortUrlLinkedWord": "4k-essential-volume1-21.json",
+            "shortUrlAudio": "4k-essential-volume1-21-01.mp3"
+        },
+        {
+            "page": 128,
+            "shortUrlLinkedWord": "4k-essential-volume1-21.json",
+            "shortUrlAudio": "4k-essential-volume1-21-02.mp3"
+        },
+        {
+            "page": 130,
+            "shortUrlLinkedWord": "4k-essential-volume1-22.json",
+            "shortUrlAudio": "4k-essential-volume1-22-01.mp3"
+        },
+        {
+            "page": 134,
+            "shortUrlLinkedWord": "4k-essential-volume1-22.json",
+            "shortUrlAudio": "4k-essential-volume1-22-02.mp3"
+        },
+        {
+            "page": 136,
+            "shortUrlLinkedWord": "4k-essential-volume1-23.json",
+            "shortUrlAudio": "4k-essential-volume1-23-01.mp3"
+        },
+        {
+            "page": 140,
+            "shortUrlLinkedWord": "4k-essential-volume1-23.json",
+            "shortUrlAudio": "4k-essential-volume1-23-02.mp3"
+        },
+        {
+            "page": 142,
+            "shortUrlLinkedWord": "4k-essential-volume1-24.json",
+            "shortUrlAudio": "4k-essential-volume1-24-01.mp3"
+        },
+        {
+            "page": 146,
+            "shortUrlLinkedWord": "4k-essential-volume1-24.json",
+            "shortUrlAudio": "4k-essential-volume1-24-02.mp3"
+        },
+        {
+            "page": 148,
+            "shortUrlLinkedWord": "4k-essential-volume1-25.json",
+            "shortUrlAudio": "4k-essential-volume1-25-01.mp3"
+        },
+        {
+            "page": 152,
+            "shortUrlLinkedWord": "4k-essential-volume1-25.json",
+            "shortUrlAudio": "4k-essential-volume1-25-02.mp3"
+        },
+        {
+            "page": 154,
+            "shortUrlLinkedWord": "4k-essential-volume1-26.json",
+            "shortUrlAudio": "4k-essential-volume1-26-01.mp3"
+        },
+        {
+            "page": 158,
+            "shortUrlLinkedWord": "4k-essential-volume1-26.json",
+            "shortUrlAudio": "4k-essential-volume1-26-02.mp3"
+        },
+        {
+            "page": 160,
+            "shortUrlLinkedWord": "4k-essential-volume1-27.json",
+            "shortUrlAudio": "4k-essential-volume1-27-01.mp3"
+        },
+        {
+            "page": 164,
+            "shortUrlLinkedWord": "4k-essential-volume1-27.json",
+            "shortUrlAudio": "4k-essential-volume1-27-02.mp3"
+        },
+        {
+            "page": 166,
+            "shortUrlLinkedWord": "4k-essential-volume1-28.json",
+            "shortUrlAudio": "4k-essential-volume1-28-01.mp3"
+        },
+        {
+            "page": 170,
+            "shortUrlLinkedWord": "4k-essential-volume1-28.json",
+            "shortUrlAudio": "4k-essential-volume1-28-02.mp3"
+        },
+        {
+            "page": 172,
+            "shortUrlLinkedWord": "4k-essential-volume1-29.json",
+            "shortUrlAudio": "4k-essential-volume1-29-01.mp3"
+        },
+        {
+            "page": 176,
+            "shortUrlLinkedWord": "4k-essential-volume1-29.json",
+            "shortUrlAudio": "4k-essential-volume1-29-02.mp3"
+        },
+        {
+            "page": 178,
+            "shortUrlLinkedWord": "4k-essential-volume1-30.json",
+            "shortUrlAudio": "4k-essential-volume1-30-01.mp3"
+        },
+        {
+            "page": 182,
+            "shortUrlLinkedWord": "4k-essential-volume1-30.json",
+            "shortUrlAudio": "4k-essential-volume1-30-02.mp3"
+        }
+    ]
+}

@@ -1,0 +1,428 @@
+[
+    {
+        "word": "Spill",
+        "type": "Tràn",
+        "ipa": "spɪl",
+        "meaning": "tràn ra ngoài  (vd.uống nc ko bị tràn ra ngoài)"
+    },
+    {
+        "word": "Waste",
+        "type": "Chất thải",
+        "ipa": "weɪst",
+        "meaning": "chất thải, thừa, ko cần thiết nữa"
+    },
+    {
+        "word": "Basket",
+        "type": "Cái rổ",
+        "ipa": "ˈbɑːskɪt",
+        "meaning": "cái rổ (đi picnic)"
+    },
+    {
+        "word": "Maze",
+        "type": "mê cung",
+        "ipa": "meɪz",
+        "meaning": "mê cung (mê cung bằng vườn bắp ngô)"
+    },
+    {
+        "word": "Grap",
+        "type": "Vật lộn",
+        "ipa": "Grap",
+        "meaning": "vồ lấy"
+    },
+    {
+        "word": "Bite",
+        "type": "Cắn",
+        "ipa": "baɪt",
+        "meaning": "cắn (n.a big bite)"
+    },
+    {
+        "word": "Bushel",
+        "type": "Bushel",
+        "ipa": "ˈbʊʃl",
+        "meaning": "bụi cây"
+    },
+    {
+        "word": "Shovel",
+        "type": "Xẻng",
+        "ipa": "ˈʃʌvl",
+        "meaning": "xẻng (để đào, làm vườn)"
+    },
+    {
+        "word": "Gloves",
+        "type": "Găng tay",
+        "ipa": "glʌvz",
+        "meaning": "găng tay (giữ tay sạch)"
+    },
+    {
+        "word": "Watering can",
+        "type": "Bịnh tươi nươc",
+        "ipa": "ˈwɔːtərɪŋ kæn",
+        "meaning": "(thùng tưới cây)"
+    },
+    {
+        "word": "Herb",
+        "type": "Thảo mộc",
+        "ipa": "hɜːb",
+        "meaning": "(âm câm H, các loại thảo mộc)"
+    },
+    {
+        "word": "Seed",
+        "type": "Hạt giống",
+        "ipa": "siːd",
+        "meaning": "hạt giống"
+    },
+    {
+        "word": "Shrub",
+        "type": "Cây bụi",
+        "ipa": "ʃrʌb",
+        "meaning": "cây bụi (Gardening is shrubs)"
+    },
+    {
+        "word": "Crop",
+        "type": "Mùa vụ",
+        "ipa": "krɒp",
+        "meaning": "mùa màng (gardening is crops)"
+    },
+    {
+        "word": "Spade",
+        "type": "Thuổng",
+        "ipa": "speɪd",
+        "meaning": "cái cuốc, thuổng để đào đất (gardening uses a spade"
+    },
+    {
+        "word": "Wheelbarrow",
+        "type": "Xe cút kít",
+        "ipa": "ˈwiːlˌbærəʊ",
+        "meaning": "xe cút kít (gardening uses a wheelbarrow)"
+    },
+    {
+        "word": "Hose",
+        "type": "Vòi",
+        "ipa": "həʊz",
+        "meaning": "vòi (gardening use a hose)"
+    },
+    {
+        "word": "Mulch",
+        "type": "Phủ",
+        "ipa": "mʌlʧ",
+        "meaning": "lớp phủ"
+    },
+    {
+        "word": "Gravel",
+        "type": "Sỏi",
+        "ipa": "ˈgrævəl",
+        "meaning": "sỏi (landscaper use gravel)"
+    },
+    {
+        "word": "Dirt",
+        "type": "Bụi bẩn",
+        "ipa": "dɜːt",
+        "meaning": "bụi bẩn, đất mùn bón cho cây"
+    },
+    {
+        "word": "Blowers",
+        "type": "Máy thổi",
+        "ipa": "ˈbləʊəz",
+        "meaning": "máy thổi (landscapers use blowers)"
+    },
+    {
+        "word": "Yard",
+        "type": "Sân",
+        "ipa": "jɑːd",
+        "meaning": "sân vườn ngoại thất (an outdoor area)"
+    },
+    {
+        "word": "Nail",
+        "type": "Móng tay",
+        "ipa": "neɪl",
+        "meaning": "móng tay, đinh"
+    },
+    {
+        "word": "Hard hat",
+        "type": "Mũ cứng",
+        "ipa": "hɑːd hæt",
+        "meaning": "(mũ cứng bảo hộ lao động)"
+    },
+    {
+        "word": "Drill",
+        "type": "Máy khoan",
+        "ipa": "drɪl",
+        "meaning": "diễn tập, máy khoan"
+    },
+    {
+        "word": "Saws",
+        "type": "Lưỡi cưa",
+        "ipa": "sɔːz",
+        "meaning": "lưỡi cưa"
+    },
+    {
+        "word": "Bricks",
+        "type": "Gạch",
+        "ipa": "brɪks",
+        "meaning": "gạch xây dựng"
+    },
+    {
+        "word": "Metal",
+        "type": "Kim loại",
+        "ipa": "ˈmɛtl",
+        "meaning": "kim loại"
+    },
+    {
+        "word": "Brush",
+        "type": "Chải",
+        "ipa": "brʌʃ",
+        "meaning": "bút vẽ (artists use paint brushes)"
+    },
+    {
+        "word": "Clay",
+        "type": "Đất sét",
+        "ipa": "kleɪ",
+        "meaning": "đất sét, đất nặn"
+    },
+    {
+        "word": "Bow",
+        "type": "Cây cung",
+        "ipa": "baʊ",
+        "meaning": "cung tên"
+    },
+    {
+        "word": "Chalk",
+        "type": "Phấn",
+        "ipa": "ʧɔːk",
+        "meaning": "phấn"
+    },
+    {
+        "word": "Yarn",
+        "type": "Sợi",
+        "ipa": "jɑːn",
+        "meaning": "sợi"
+    },
+    {
+        "word": "Glitter",
+        "type": "Long lanh",
+        "ipa": "ˈglɪtə",
+        "meaning": "long lanh"
+    },
+    {
+        "word": "Toad",
+        "type": "Con cóc",
+        "ipa": "təʊd",
+        "meaning": "con cóc"
+    },
+    {
+        "word": "Grasshopper",
+        "type": "con châu chấu",
+        "ipa": "ˈgrɑːsˌhɒpə",
+        "meaning": "con châu chấu"
+    },
+    {
+        "word": "Pillow",
+        "type": "Cái gối",
+        "ipa": "ˈpɪləʊ",
+        "meaning": "cái gối"
+    },
+    {
+        "word": "Blanket",
+        "type": "Cái mền",
+        "ipa": "ˈblæŋkɪt",
+        "meaning": "cái mền, chăn"
+    },
+    {
+        "word": "Shell",
+        "type": "Vỏ",
+        "ipa": "ʃɛl",
+        "meaning": "vỏ (vd. Vỏ cua, vỏ sò, mai rùa)"
+    },
+    {
+        "word": "Lending",
+        "type": "Cho vay",
+        "ipa": "ˈlɛndɪŋ",
+        "meaning": "cho vay, cho mượn (sách ở thư viện)"
+    },
+    {
+        "word": "Glossary",
+        "type": "Bảng chú giải",
+        "ipa": "ˈglɒsəri",
+        "meaning": "bảng chú giải"
+    },
+    {
+        "word": "Backpack",
+        "type": "Ba lô",
+        "ipa": "ˈbækˌpæk",
+        "meaning": "ba lô đeo lưng"
+    },
+    {
+        "word": "Pajamas",
+        "type": "Bộ đồ ngủ",
+        "ipa": "pəˈʤɑːməz",
+        "meaning": "đồ ngủ"
+    },
+    {
+        "word": "Dresser",
+        "type": "Tủ quần áo",
+        "ipa": "ˈdrɛsə",
+        "meaning": "tủ quần áo"
+    },
+    {
+        "word": "Toothbrush",
+        "type": "Bàn chải đánh răng",
+        "ipa": "ˈtuːθbrʌʃ",
+        "meaning": "bàn chải đánh răng"
+    },
+    {
+        "word": "Grandpa",
+        "type": "ông nội",
+        "ipa": "ˈgrænpɑː",
+        "meaning": "ông nội"
+    },
+    {
+        "word": "Bridle",
+        "type": "Cầu nối",
+        "ipa": "ˈbraɪdl",
+        "meaning": "đầu nối (dây kite và kite)"
+    },
+    {
+        "word": "Reel",
+        "type": "Cuộn",
+        "ipa": "riːl",
+        "meaning": "cuộn (để cuộn dây diều lại)"
+    },
+    {
+        "word": "Rear",
+        "type": "Phần phía sau",
+        "ipa": "rɪə",
+        "meaning": "phần phía sau"
+    },
+    {
+        "word": "Tail",
+        "type": "Đuôi",
+        "ipa": "teɪl",
+        "meaning": "đuôi (Diều)"
+    },
+    {
+        "word": "Shake",
+        "type": "Rung chuyển",
+        "ipa": "ʃeɪk",
+        "meaning": "run rẩy, rung lắc"
+    },
+    {
+        "word": "Gust",
+        "type": "Gạc",
+        "ipa": "gʌst",
+        "meaning": "cơn gió mạnh"
+    },
+    {
+        "word": "Chase",
+        "type": "săn bắt",
+        "ipa": "ʧeɪs",
+        "meaning": "săn bắt (đuổi theo để cố bắt kịp)"
+    },
+    {
+        "word": "Breeze",
+        "type": "Gió nhẹ",
+        "ipa": "briːz",
+        "meaning": "gió nhẹ"
+    },
+    {
+        "word": "Puddles",
+        "type": "Những vũng nước",
+        "ipa": "ˈpʌdlz",
+        "meaning": "vũng nước (mưa tạo thành các vũng nước trên đường)"
+    },
+    {
+        "word": "Lightning",
+        "type": "Sét",
+        "ipa": "ˈlaɪtnɪŋ",
+        "meaning": "sét đánh (tia chớp từ các đám mây)"
+    },
+    {
+        "word": "Thunder",
+        "type": "sấm sét",
+        "ipa": "ˈθʌndə",
+        "meaning": "sấm sét"
+    },
+    {
+        "word": "Hurricane",
+        "type": "bão",
+        "ipa": "ˈhʌrɪkən",
+        "meaning": "bão vòi rồng (bão lớn làm spin các cloud)"
+    },
+    {
+        "word": "Flood",
+        "type": "Lũ lụt",
+        "ipa": "flʌd",
+        "meaning": "lũ lụt"
+    },
+    {
+        "word": "Dam",
+        "type": "Đầm",
+        "ipa": "dæm",
+        "meaning": "đập (a dam can flood)"
+    },
+    {
+        "word": "Tram",
+        "type": "Xe điện",
+        "ipa": "træm",
+        "meaning": "xe điện"
+    },
+    {
+        "word": "Squirrel",
+        "type": "Con sóc",
+        "ipa": "ˈskwɪrəl",
+        "meaning": "sóc (squirrel sql)"
+    },
+    {
+        "word": "Bench",
+        "type": "Băng ghế",
+        "ipa": "bɛnʧ",
+        "meaning": "ghế ngồi dài"
+    },
+    {
+        "word": "Pond",
+        "type": "Ao",
+        "ipa": "pɒnd",
+        "meaning": "ao, bể"
+    },
+    {
+        "word": "Fever",
+        "type": "Sốt",
+        "ipa": "ˈfiːvə",
+        "meaning": "sốt (doctors help all feel good)"
+    },
+    {
+        "word": "Bone",
+        "type": "Khúc xương",
+        "ipa": "bəʊn",
+        "meaning": "xương (i have bones to hold me up and move me on)"
+    },
+    {
+        "word": "Jaw",
+        "type": "Hàm",
+        "ipa": "ʤɔː",
+        "meaning": "hàm (i have bones in my jaw)"
+    },
+    {
+        "word": "Prize",
+        "type": "Giải thưởng",
+        "ipa": "praɪz",
+        "meaning": "giải thưởng"
+    },
+    {
+        "word": "Peace",
+        "type": "Sự thanh bình",
+        "ipa": "piːs",
+        "meaning": "sự thanh bình, hòa bình"
+    },
+    {
+        "word": "Yell",
+        "type": "Yell",
+        "ipa": "jɛl",
+        "meaning": "la lên (to speak, call or cry out loudly)"
+    },
+    {
+        "word": "Covered bridge",
+        "type": "Cầu có mái che",
+        "ipa": "ˈkʌvəd brɪʤ",
+        "meaning": "cầu vượt"
+    }
+]

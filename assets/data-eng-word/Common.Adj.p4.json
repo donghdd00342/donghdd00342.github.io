@@ -1,0 +1,191 @@
+[
+    {
+        "word": "angry",
+        "type": "Adj",
+        "ipa": "ˈæŋgri",
+        "meaning": "bực bội",
+        "ex": "They were angry because their plans had been discovered.",
+        "ipaExTrans": "ðeɪ wɜːr ˈæŋgri bɪˈkɒz ðeə plænz hæd biːn dɪsˈkʌvəd.",
+        "exMeaning": "Họ tức giận vì kế hoạch của họ đã được phát hiện."
+    },
+    {
+        "word": "bewildered",
+        "type": "Adj",
+        "ipa": "bɪˈwɪldəd",
+        "meaning": "hoang mang",
+        "ex": "Alex stared down at her with a bewildered expression.",
+        "ipaExTrans": "ˈæləks steəd daʊn æt hɜː wɪð ə bɪˈwɪldəd ɪksˈprɛʃən.",
+        "exMeaning": "Alex nhìn xuống cô với vẻ hoang mang."
+    },
+    {
+        "word": "clumsy",
+        "type": "Adj",
+        "ipa": "ˈklʌmzi",
+        "meaning": "vụng về",
+        "ex": "Her accent was still there, but the clumsy speech pattern was gone.",
+        "ipaExTrans": "hɜːr ˈæksənt wɒz stɪl ðeə, bʌt ðə ˈklʌmzi spiːʧ ˈpætən wɒz gɒn.",
+        "exMeaning": "Giọng cô vẫn còn đó, nhưng các mô hình nói vụng về đã biến mất."
+    },
+    {
+        "word": "defeated",
+        "type": "Adj",
+        "ipa": "dɪˈfiːtɪd",
+        "meaning": "đánh bại",
+        "ex": "She watched for a long moment and then left, defeated and frustrated.",
+        "ipaExTrans": "ʃiː wɒʧt fɔːr ə lɒŋ ˈməʊmənt ænd ðɛn lɛft, dɪˈfiːtɪd ænd frʌsˈtreɪtɪd.",
+        "exMeaning": "Cô nhìn một lúc lâu và sau đó rời đi, đánh bại và thất vọng."
+    },
+    {
+        "word": "embarrassed",
+        "type": "Adj",
+        "ipa": "ɪmˈbærəst",
+        "meaning": "xấu hổ",
+        "ex": "I was kind of embarrassed about the money not coming in the mail like I said.",
+        "ipaExTrans": "aɪ wɒz kaɪnd ɒv ɪmˈbærəst əˈbaʊt ðə ˈmʌni nɒt ˈkʌmɪŋ ɪn ðə meɪl laɪk aɪ sɛd.",
+        "exMeaning": "Tôi đã loại xấu hổ về tiền bạc không đến qua đường bưu điện như tôi đã nói."
+    },
+    {
+        "word": "fierce",
+        "type": "Adj",
+        "ipa": "fɪəs",
+        "meaning": "hung dữ",
+        "ex": "I do not love fierce animals.",
+        "ipaExTrans": "aɪ duː nɒt lʌv fɪəs ˈænɪməlz.",
+        "exMeaning": "Tôi không yêu động vật hung dữ."
+    },
+    {
+        "word": "grumpy",
+        "type": "Adj",
+        "ipa": "ˈgrʌmpi",
+        "meaning": "gắt gỏng",
+        "ex": "He'd been in a grumpy mood since he got up.",
+        "ipaExTrans": "hiːd biːn ɪn ə ˈgrʌmpi muːd sɪns hiː gɒt ʌp.",
+        "exMeaning": "Hắn được trong một tâm trạng gắt gỏng kể từ khi ông đứng dậy."
+    },
+    {
+        "word": "helpless",
+        "type": "Adj",
+        "ipa": "ˈhɛlplɪs",
+        "meaning": "bất lực",
+        "ex": "He was helpless to find her.",
+        "ipaExTrans": "hiː wɒz ˈhɛlplɪs tuː faɪnd hɜː.",
+        "exMeaning": "Ông đã bất lực để tìm cô ấy."
+    },
+    {
+        "word": "itchy",
+        "type": "Adj",
+        "ipa": "ˈɪʧi",
+        "meaning": "ngứa",
+        "ex": "An ordinary mole is not usually itchy or painful.",
+        "ipaExTrans": "ən ˈɔːdnri məʊl ɪz nɒt ˈjuːʒʊəli ˈɪʧi ɔː ˈpeɪnfʊl.",
+        "exMeaning": "Một nốt ruồi bình thường không phải là thường ngứa hoặc đau đớn."
+    },
+    {
+        "word": "jealous",
+        "type": "Adj",
+        "ipa": "ˈʤɛləs",
+        "meaning": "ghen tuông",
+        "ex": "She doesn't have any reason to be jealous of me.",
+        "ipaExTrans": "ʃiː dʌznt hæv ˈɛni ˈriːzn tuː biː ˈʤɛləs ɒv miː.",
+        "exMeaning": "Cô ấy không có bất kỳ lý do gì để ghen tị với tôi."
+    },
+    {
+        "word": "lazy",
+        "type": "Adj",
+        "ipa": "ˈleɪzi",
+        "meaning": "lười biếng",
+        "ex": "He says they're too lazy to work.",
+        "ipaExTrans": "hiː sɛz ðeə tuː ˈleɪzi tuː wɜːk.",
+        "exMeaning": "Ông nói rằng chúng quá lười biếng để làm việc."
+    },
+    {
+        "word": "mysterious",
+        "type": "Adj",
+        "ipa": "mɪsˈtɪərɪəs",
+        "meaning": "bí ẩn",
+        "ex": "Stepping around the horse, he disappeared down that mysterious pathway.",
+        "ipaExTrans": "ˈstɛpɪŋ əˈraʊnd ðə hɔːs, hiː ˌdɪsəˈpɪəd daʊn ðæt mɪsˈtɪərɪəs ˈpɑːθweɪ.",
+        "exMeaning": "Đẩy mạnh xung quanh con ngựa, ông biến mất xuống con đường bí ẩn."
+    },
+    {
+        "word": "nervous",
+        "type": "Adj",
+        "ipa": "ˈnɜːvəs",
+        "meaning": "lo lắng",
+        "ex": "She was nervous about her daughter.",
+        "ipaExTrans": "ʃiː wɒz ˈnɜːvəs əˈbaʊt hɜː ˈdɔːtə.",
+        "exMeaning": "Cô ấy lo lắng về việc con gái mình."
+    },
+    {
+        "word": "obnoxious",
+        "type": "Adj",
+        "ipa": "əbˈnɒkʃəs",
+        "meaning": "khó ưa",
+        "ex": "He would find a bar where gangs hung out and purposely pick a fight with the biggest, most obnoxious member.",
+        "ipaExTrans": "hiː wʊd faɪnd ə bɑː weə gæŋz hʌŋ aʊt ænd ˈpɜːpəsli pɪk ə faɪt wɪð ðə ˈbɪgɪst, məʊst əbˈnɒkʃəs ˈmɛmbə.",
+        "exMeaning": "Ông sẽ tìm thấy một quán bar, nơi các băng nhóm treo ra ngoài và cố ý chọn một cuộc chiến với các thành viên lớn nhất, đáng ghét nhất."
+    },
+    {
+        "word": "panicky",
+        "type": "Adj",
+        "ipa": "ˈpænɪki",
+        "meaning": "hoảng loạn",
+        "ex": "If he didn't take off his necklace before the end of the day, she might just have to … The thought made her panicky and eager.",
+        "ipaExTrans": "ɪf hiː dɪdnt teɪk ɒf hɪz ˈnɛklɪs bɪˈfɔː ði ɛnd ɒv ðə deɪ, ʃiː maɪt ʤʌst hæv tuː … ðə θɔːt meɪd hɜː ˈpænɪki ænd ˈiːgə.",
+        "exMeaning": "Nếu anh ấy không cởi sợi dây chuyền của mình trước khi kết thúc ngày, cô ấy có thể chỉ phải ... Ý nghĩ đó làm cô hoảng sợ và háo hức."
+    },
+    {
+        "word": "pitiful",
+        "type": "Adj",
+        "ipa": "ˈpɪtɪfʊl",
+        "meaning": "thương tâm",
+        "ex": "It was pitiful to see them, boys, put in the dancer.",
+        "ipaExTrans": "ɪt wɒz ˈpɪtɪfʊl tuː siː ðɛm, bɔɪz, pʊt ɪn ðə ˈdɑːnsə.",
+        "exMeaning": "Đó là đáng thương nhìn thấy chúng, chàng trai, đặt trong vũ."
+    },
+    {
+        "word": "repulsive",
+        "type": "Adj",
+        "ipa": "rɪˈpʌlsɪv",
+        "meaning": "phản cảm",
+        "ex": "I'm sorry the idea is so repulsive to you.",
+        "ipaExTrans": "aɪm ˈsɒri ði aɪˈdɪə ɪz səʊ rɪˈpʌlsɪv tuː juː.",
+        "exMeaning": "Tôi xin lỗi ý tưởng là rất kinh tởm đối với bạn."
+    },
+    {
+        "word": "scary",
+        "type": "Adj",
+        "ipa": "ˈskeəri",
+        "meaning": "đáng sợ",
+        "ex": "I can understand it must be scary to think of giving birth.",
+        "ipaExTrans": "aɪ kæn ˌʌndəˈstænd ɪt mʌst biː ˈskeəri tuː θɪŋk ɒv ˈgɪvɪŋ bɜːθ.",
+        "exMeaning": "Tôi có thể hiểu được nó phải là đáng sợ nghĩ đến khi sinh."
+    },
+    {
+        "word": "thoughtless",
+        "type": "Adj",
+        "ipa": "ˈθɔːtlɪs",
+        "meaning": "thiếu suy nghĩ",
+        "ex": "Buying the same type of present each year does not only get boring but also can make you seem thoughtless.",
+        "ipaExTrans": "ˈbaɪɪŋ ðə seɪm taɪp ɒv ˈprɛznt iːʧ jɪə dʌz nɒt ˈəʊnli gɛt ˈbɔːrɪŋ bʌt ˈɔːlsəʊ kæn meɪk juː siːm ˈθɔːtlɪs.",
+        "exMeaning": "Mua cùng một loại hiện mỗi năm không chỉ nhận được nhàm chán nhưng cũng có thể làm cho bạn có vẻ suy nghĩ."
+    },
+    {
+        "word": "uptight",
+        "type": "Adj",
+        "ipa": "ʌpˈtaɪt",
+        "meaning": "tăng",
+        "ex": "By wearing a shirt that seeks to amuse, the wearer lets others know that he&#39;s not uptight or unapproachable.",
+        "ipaExTrans": "baɪ ˈweərɪŋ ə ʃɜːt ðæt siːks tuː əˈmjuːz, ðə ˈweərə lɛts ˈʌðəz nəʊ ðæt hiː&#39;ɛs nɒt ʌpˈtaɪt ɔːr ˌʌnəˈprəʊʧəbl.",
+        "exMeaning": "Bằng cách mặc một chiếc áo sơ mi mà tìm cách làm cho vui, người mặc cho phép người khác biết rằng anh ta không phải căng thẳng hay khó gần."
+    },
+    {
+        "word": "worried",
+        "type": "Adj",
+        "ipa": "ˈwʌrid",
+        "meaning": "lo lắng",
+        "ex": "He won't go see a doctor, and Mom's worried about him.",
+        "ipaExTrans": "hiː wəʊnt gəʊ siː ə ˈdɒktə, ænd mɒmz ˈwʌrid əˈbaʊt hɪm.",
+        "exMeaning": "Anh ta sẽ không đi gặp bác sĩ, và mẹ lo lắng về anh ta."
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "word": "across",
+        "ipa": "əˈkrɒs",
+        "type": "prep",
+        "tag": "băng qua, đi qua",
+        "meaning": "To go across something is to go to the other side of it.",
+        "context": "Đi qua một cái gì đó là đi đến phía bên kia của nó.",
+        "ex": "He walked across the board to the other side.",
+        "ipaExTrans": "hiː wɔːkt əˈkrɒs ðə bɔːd tuː ði ˈʌðə saɪd.",
+        "exMeaning": "Anh đi qua tấm bảng sang phía bên kia."
+    },
+    {
+        "word": "breathe",
+        "ipa": "briːð",
+        "type": "v",
+        "tag": "thở",
+        "meaning": "To breathe means to let air go in and out of your body",
+        "context": "Thở có nghĩa là để không khí đi vào và ra khỏi cơ thể bạn",
+        "ex": "We need strong healthy lungs to help us breathe well.",
+        "ipaExTrans": "wiː niːd strɒŋ ˈhɛlθi lʌŋz tuː hɛlp ʌs briːð wɛl.",
+        "exMeaning": "Chúng ta cần phổi khỏe mạnh để giúp chúng ta thở tốt."
+    },
+    {
+        "word": "characteristic",
+        "ipa": "ˌkærɪktəˈrɪstɪk",
+        "type": "n",
+        "tag": "đặc trưng, đặc điểm",
+        "meaning": "A characteristic is something that shows what a person or a thing is like",
+        "context": "Một đặc điểm là một cái gì đó cho thấy một người hoặc một vật là như thế nào",
+        "ex": "One characteristic of tigers is their black stripes.",
+        "ipaExTrans": "wʌn ˌkærɪktəˈrɪstɪk ɒv ˈtaɪgəz ɪz ðeə blæk straɪps.",
+        "exMeaning": "Một đặc điểm của hổ là sọc đen của chúng."
+    },
+    {
+        "word": "consume",
+        "ipa": "kənˈsjuːm",
+        "type": "v",
+        "tag": "tiêu thụ",
+        "meaning": "To consume something means to eat or drink it.",
+        "context": "Để tiêu thụ một cái gì đó có nghĩa là ăn hoặc uống nó.",
+        "ex": "Jack consumed a whole plate of spaghetti.",
+        "ipaExTrans": "ʤæk kənˈsjuːmd ə həʊl pleɪt ɒv spəˈgɛti.",
+        "exMeaning": "Jack tiêu thụ cả một đĩa mì spaghetti."
+    },
+    {
+        "word": "excite",
+        "ipa": "ɪkˈsaɪt",
+        "type": "v",
+        "tag": "hưng phấn, kích thích",
+        "meaning": "To excite someone means to make them happy and interested",
+        "context": "Kích thích ai đó có nghĩa là làm cho họ hạnh phúc và thích thú",
+        "ex": "I heard about the school dance on Friday. This excited me.",
+        "ipaExTrans": "aɪ hɜːd əˈbaʊt ðə skuːl dɑːns ɒn ˈfraɪdeɪ. ðɪs ɪkˈsaɪtɪd miː.",
+        "exMeaning": "Tôi đã nghe về buổi khiêu vũ của trường vào thứ Sáu. Điều này làm tôi phấn khích."
+    },
+    {
+        "word": "extreme",
+        "ipa": "ɪksˈtriːm",
+        "type": "adj",
+        "tag": "cực, vô cùng",
+        "meaning": "If something is extreme, it is in a large amount or degree.",
+        "context": "Nếu một cái gì đó là cực đoan, nó là trong một số lượng lớn hoặc mức độ.",
+        "ex": "His workout was so extreme that he was sweating heavily.",
+        "ipaExTrans": "hɪz ˈwɜːkaʊt wɒz səʊ ɪksˈtriːm ðæt hiː wɒz ˈswɛtɪŋ ˈhɛvɪli.",
+        "exMeaning": "Tập luyện của anh ấy rất nhiều đến nỗi anh ấy đổ mồ hôi nhiều."
+    },
+    {
+        "word": "fear",
+        "ipa": "fɪə",
+        "type": "n",
+        "tag": "nỗi sợ",
+        "meaning": "Fear is the feeling of being afraid.",
+        "context": "Sợ hãi là cảm giác sợ hãi.",
+        "ex": "I have a great fear of skateboarding.",
+        "ipaExTrans": "aɪ hæv ə greɪt fɪər ɒv ˈskeɪtbɔːdɪŋ.",
+        "exMeaning": "Tôi có một nỗi sợ hãi lớn về trượt ván."
+    },
+    {
+        "word": "fortunate",
+        "ipa": "ˈfɔːʧnɪt",
+        "type": "adj",
+        "tag": "may mắn",
+        "meaning": "If you are fortunate, you are lucky.",
+        "context": "Nếu bạn may mắn, bạn may mắn.",
+        "ex": "I was fortunate to get a seat.",
+        "ipaExTrans": "aɪ wɒz ˈfɔːʧnɪt tuː gɛt ə siːt.",
+        "exMeaning": "Tôi đã may mắn có được một chỗ ngồi."
+    },
+    {
+        "word": "happen",
+        "ipa": "ˈhæpən",
+        "type": "v",
+        "tag": "xảy ra, tình cờ",
+        "meaning": "If someone happens to do something, they do it by chance.",
+        "context": "Nếu ai đó tình cờ làm một cái gì đó, họ làm điều đó một cách tình cờ.",
+        "ex": "I happened to meet some new friends at school today.",
+        "ipaExTrans": "aɪ ˈhæpənd tuː miːt sʌm njuː frɛndz æt skuːl təˈdeɪ.",
+        "exMeaning": "Tôi tình cờ gặp một số người bạn mới ở trường ngày hôm nay."
+    },
+    {
+        "word": "length",
+        "ipa": "lɛŋθ",
+        "type": "n",
+        "tag": "chiều dài, độ dài",
+        "meaning": "The length of something is how long it is from one end to the other.",
+        "context": "Độ dài của một cái gì đó là nó dài bao nhiêu từ đầu này đến đầu kia.",
+        "ex": "The length of the floor is three meters.",
+        "ipaExTrans": "ðə lɛŋθ ɒv ðə flɔːr ɪz θriː ˈmiːtəz.",
+        "exMeaning": "Chiều dài của sàn là ba mét."
+    },
+    {
+        "word": "mistake",
+        "ipa": "mɪsˈteɪk",
+        "type": "n",
+        "tag": "sai lầm, phạm lỗi",
+        "meaning": "A mistake is something you do wrong.",
+        "context": "Một sai lầm là một cái gì đó bạn làm sai.",
+        "ex": "My boss always yells at me when I make a mistake.",
+        "ipaExTrans": "maɪ bɒs ˈɔːlweɪz jɛlz æt miː wɛn aɪ meɪk ə mɪsˈteɪk.",
+        "exMeaning": "Sếp của tôi luôn la mắng tôi khi tôi phạm lỗi."
+    },
+    {
+        "word": "observe",
+        "ipa": "əbˈzɜːv",
+        "type": "v",
+        "tag": "quan sát",
+        "meaning": "To observe something is to watch it.",
+        "context": "Để quan sát một cái gì đó là xem nó.",
+        "ex": "Brian observed the sun rising over the mountains.",
+        "ipaExTrans": "ˈbraɪən əbˈzɜːvd ðə sʌn ˈraɪzɪŋ ˈəʊvə ðə ˈmaʊntɪnz.",
+        "exMeaning": "Brian quan sát mặt trời mọc trên những ngọn núi."
+    },
+    {
+        "word": "opportunity",
+        "ipa": "ˌɒpəˈtjuːnɪti",
+        "type": "n",
+        "tag": "dịp tốt, cơ hội",
+        "meaning": "An opportunity is a chance to do something.",
+        "context": "Một cơ hội là một cơ hội để làm một cái gì đó.",
+        "ex": "I had an opportunity to take pictures in the jungle.",
+        "ipaExTrans": "aɪ hæd ən ˌɒpəˈtjuːnɪti tuː teɪk ˈpɪkʧəz ɪn ðə ˈʤʌŋgl.",
+        "exMeaning": "Tôi đã có một cơ hội để chụp ảnh trong rừng."
+    },
+    {
+        "word": "prize",
+        "ipa": "praɪz",
+        "type": "n",
+        "tag": "giải thưởng",
+        "meaning": "A prize is something of value that is given to the winner",
+        "context": "Giải thưởng là thứ có giá trị được trao cho người chiến thắng",
+        "ex": "I won a prize for getting the best grade on my science test.",
+        "ipaExTrans": "aɪ wʌn ə praɪz fɔː ˈgɛtɪŋ ðə bɛst greɪd ɒn maɪ ˈsaɪəns tɛst.",
+        "exMeaning": "Tôi đã giành được một giải thưởng để đạt điểm cao nhất trong bài kiểm tra khoa học của tôi."
+    },
+    {
+        "word": "race",
+        "ipa": "reɪs",
+        "type": "n",
+        "tag": "cuộc đua",
+        "meaning": "A race is a contest to see who is the fastest.",
+        "context": "Một cuộc đua là một cuộc thi để xem ai là người nhanh nhất.",
+        "ex": "Paul is a fast runner, so he easily won the race.",
+        "ipaExTrans": "pɔːl ɪz ə fɑːst ˈrʌnə, səʊ hiː ˈiːzɪli wʌn ðə reɪs.",
+        "exMeaning": "Paul là một người chạy nhanh, vì vậy anh ấy dễ dàng giành chiến thắng trong cuộc đua."
+    },
+    {
+        "word": "realize",
+        "ipa": "ˈrɪəlaɪz",
+        "type": "v",
+        "tag": "nhận ra, chợt hiểu",
+        "meaning": "To realize is to suddenly understand",
+        "context": "Nhận ra là chợt hiểu.",
+        "ex": "After I left my house, I realized that I left the light on.",
+        "ipaExTrans": "ˈɑːftər aɪ lɛft maɪ haʊs, aɪ ˈrɪəlaɪzd ðæt aɪ lɛft ðə laɪt ɒn.",
+        "exMeaning": "Sau khi tôi rời khỏi nhà, tôi nhận ra rằng tôi đã để đèn sáng."
+    },
+    {
+        "word": "respond",
+        "ipa": "rɪsˈpɒnd",
+        "type": "v",
+        "tag": "trả lời, phản hồi",
+        "meaning": "To respond is to give an answer to what someone else said.",
+        "context": "Trả lời là đưa ra câu trả lời cho những gì người khác nói.",
+        "ex": "When the teacher asked the question, we all responded.",
+        "ipaExTrans": "wɛn ðə ˈtiːʧər ɑːskt ðə ˈkwɛsʧən, wiː ɔːl rɪsˈpɒndɪd.",
+        "exMeaning": "Khi giáo viên đặt câu hỏi, tất cả chúng tôi đều trả lời."
+    },
+    {
+        "word": "risk",
+        "ipa": "rɪsk",
+        "type": "n",
+        "tag": "rủi ro, mạo hiểm",
+        "meaning": "A risk is a chance of something bad happening.",
+        "context": "Một rủi ro là một cơ hội của một cái gì đó xấu xảy ra.",
+        "ex": "I took a risk and climbed the snowy mountain.",
+        "ipaExTrans": "aɪ tʊk ə rɪsk ænd klaɪmd ðə ˈsnəʊi ˈmaʊntɪn.",
+        "exMeaning": "Tôi đã mạo hiểm và leo lên ngọn núi tuyết."
+    },
+    {
+        "word": "wonder",
+        "ipa": "ˈwʌndə",
+        "type": "v",
+        "tag": "ngạc nhiên, tự hỏi, băn khoăn",
+        "meaning": "To wonder is to ask yourself questions or have a need to know.",
+        "context": "Tự hỏi là tự đặt câu hỏi hoặc có nhu cầu biết.",
+        "ex": "The young mother wondered if she’d have a boy or a girl.",
+        "ipaExTrans": "ðə jʌŋ ˈmʌðə ˈwʌndəd ɪf ʃiːd hæv ə bɔɪ ɔːr ə gɜːl.",
+        "exMeaning": "Người mẹ trẻ băn khoăn không biết mình có con trai hay con gái không."
+    },
+    {
+        "word": "yet",
+        "ipa": "jɛt",
+        "type": "adv",
+        "tag": "chưa",
+        "meaning": "Yet is used to say something has not happened up to now.",
+        "context": "Tuy nhiên, được sử dụng để nói điều gì đó đã không xảy ra cho đến nay.",
+        "ex": "We can’t go out yet; we’re still eating.",
+        "ipaExTrans": "wiː kɑːnt gəʊ aʊt jɛt; wɪə stɪl ˈiːtɪŋ.",
+        "exMeaning": "Chúng ta có thể đi ra ngoài chưa; chúng tôi vẫn ăn."
+    }
+]

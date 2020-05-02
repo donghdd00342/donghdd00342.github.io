@@ -1,0 +1,135 @@
+[
+    {
+        "word": "accept",
+        "type": "Chấp nhận",
+        "ipa": "əkˈsɛpt",
+        "meaning": "v. to receive, to respond favorably (đồng ý, chấp thuận)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "acceptance",
+        "type": "chấp thuận",
+        "ipa": "əkˈsɛptəns",
+        "meaning": "n. sự đồng ý, chấp thuận",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "acceptable",
+        "type": "chấp nhận được",
+        "ipa": "əkˈsɛptəbl",
+        "meaning": "adj. có thể đồng ý, chấp thuận",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "balance",
+        "type": "thăng bằng",
+        "ipa": "ˈbæləns",
+        "meaning": "n. the remainder, v. to compute the difference between credits and debits of an account.(Số dư (tài khoản))",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "borrow",
+        "type": "vay",
+        "ipa": "ˈbɒrəʊ",
+        "meaning": "v. to use temporarily (vay mượn)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "cautious",
+        "type": "dè dặt",
+        "ipa": "ˈkɔːʃəs",
+        "meaning": "adj. Careful, wary (thận trọng, cẩn thận)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "deduct",
+        "type": "khấu trừ",
+        "ipa": "dɪˈdʌkt",
+        "meaning": "v. to take away from a total, to subtract (khấu trừ). Synonym: Subtract",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "deductible",
+        "type": "khấu trừ",
+        "ipa": "dɪˈdʌktɪbl",
+        "meaning": "adj có thể khấu trừ",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "deduction",
+        "type": "khấu trừ",
+        "ipa": "dɪˈdʌkʃən",
+        "meaning": "n. sự khấu trừ",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "dividend",
+        "type": "cổ tức",
+        "ipa": "ˈdɪvɪdɛnd",
+        "meaning": "n. a share in a distribution (Cổ tức - khoản tiền được chia cho các cổ đông; lãi cổ phần).",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "down payment",
+        "type": "tiền đặt cọc",
+        "ipa": "daʊn ˈpeɪmənt",
+        "meaning": "n. an initial partial payment (Sự trả trước 1 phần khi mua hàng).",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "mortgage",
+        "type": "thế chấp",
+        "ipa": "ˈmɔːgɪʤ",
+        "meaning": "n. the amount due on a property, v. to borrow money with your house as collateral.(cầm cố, thế chấp)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "restriction",
+        "type": "sự hạn chế",
+        "ipa": "rɪsˈtrɪkʃən",
+        "meaning": "n. a limitation (sự giới hạn,hạn chế).",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "restrict",
+        "type": "hạn chế",
+        "ipa": "rɪsˈtrɪkt",
+        "meaning": "v. hạn chế, giới hạn, thu hẹp",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "restricted",
+        "type": "hạn chế",
+        "ipa": "rɪsˈtrɪktɪd",
+        "meaning": "adj. Bị hạn chế, có giới hạn",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "signature",
+        "type": "Chữ ký",
+        "ipa": "ˈsɪgnɪʧə",
+        "meaning": "n. the name of a person written by the person (chữ ký)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "sign",
+        "type": "ký tên",
+        "ipa": "saɪn",
+        "meaning": "v. ký",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "take out",
+        "type": "đưa ra",
+        "ipa": "teɪk aʊt",
+        "meaning": "v. withdraw, remove (rút tiền)",
+        "tag": "Banking (Ngành ngân hàng)"
+    },
+    {
+        "word": "transaction",
+        "type": "Giao dịch",
+        "ipa": "trænˈzækʃən",
+        "meaning": "n. a business deal (giao dịch; sự giải quyết công việc)",
+        "tag": "Banking (Ngành ngân hàng)"
+    }
+]

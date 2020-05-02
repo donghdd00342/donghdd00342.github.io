@@ -1,0 +1,135 @@
+[
+    {
+        "word": "diverse",
+        "type": "phong phú",
+        "ipa": "daɪˈvɜːs",
+        "meaning": "adj. đa dạng",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "diversify",
+        "type": "đa dạng hóa",
+        "ipa": "daɪˈvɜːsɪfaɪ",
+        "meaning": "v. đa dạng hóa",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "diversity",
+        "type": "đa dạng",
+        "ipa": "daɪˈvɜːsɪti",
+        "meaning": "n. sự đa dạng",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "enterprise",
+        "type": "doanh nghiệp",
+        "ipa": "ˈɛntəpraɪz",
+        "meaning": "n. a businesss; a large project (Công trình dự án lớn; tổ chức kinh doanh, hãng)",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "essential",
+        "type": "Thiết yếu",
+        "ipa": "ɪˈsɛnʃəl",
+        "meaning": "adj. cần thiết, thiết yếu, cốt yếu, chủ yếu; n. yếu tố cần thiết",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "everyday",
+        "type": "Hằng ngày",
+        "ipa": "ˈɛvrɪdeɪ",
+        "meaning": "thông thường, tầm thường, chuyện xảy ra hàng ngày",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "function",
+        "type": "chức năng",
+        "ipa": "ˈfʌŋkʃən",
+        "meaning": "(v) vận hành (n) chức năng, trách nhiệm",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "functional",
+        "type": "chức năng",
+        "ipa": "ˈfʌŋkʃənl",
+        "meaning": "adj chức năng, trách nhiệm",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "maintain",
+        "type": "duy trì",
+        "ipa": "meɪnˈteɪn",
+        "meaning": "v. duy trì",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "maintainability",
+        "type": "khả năng bảo trì",
+        "ipa": "meɪnˌteɪnəˈbɪlɪti",
+        "meaning": "noun sự duy trì, bảo trì",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "maintainable",
+        "type": "duy trì",
+        "ipa": "meɪnˈteɪnəbl",
+        "meaning": "adj. có thể duy trì",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "obtain",
+        "type": "đạt được",
+        "ipa": "əbˈteɪn",
+        "meaning": "v. đạt được, có được",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "prerequisite",
+        "type": "điều kiện tiên quyết",
+        "ipa": "ˌpriːˈrɛkwɪzɪt",
+        "meaning": "n. điều kiện trước hết, điều kiện tiên quyết",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "quality",
+        "type": "chất lượng",
+        "ipa": "ˈkwɒlɪti",
+        "meaning": "chất lượng, phẩm chất",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "smooth",
+        "type": "trơn tru",
+        "ipa": "smuːð",
+        "meaning": "a. êm thấm, suôn sẻ; hòa nhã, lệ độ; ngọt xớt",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "smooth out",
+        "type": "làm mịn",
+        "ipa": "smuːð aʊt",
+        "meaning": "v. Làm cho suôn sẻ",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "stationery",
+        "type": "văn phòng phẩm",
+        "ipa": "ˈsteɪʃnəri",
+        "meaning": "n. đồ dùng văn phòng",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "enterprising",
+        "type": "dám nghĩ dám làm",
+        "ipa": "ˈɛntəpraɪzɪŋ",
+        "meaning": "adj. dám làm; mạnh dạn",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    },
+    {
+        "word": "essence",
+        "type": "Bản chất",
+        "ipa": "ˈɛsns",
+        "meaning": "bản chất, thực chất",
+        "tag": "Ordering Supplies (phiếu tiếp tế)"
+    }
+]

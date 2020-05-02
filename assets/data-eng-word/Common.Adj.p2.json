@@ -1,0 +1,218 @@
+[
+    {
+        "word": "alive",
+        "type": "Adj",
+        "ipa": "əˈlaɪv",
+        "meaning": "sống sót",
+        "context": "And I?... and he is still alive and gay!",
+        "ex": "ænd aɪ?... ænd hiː ɪz stɪl əˈlaɪv ænd geɪ!",
+        "ipaExTrans": "Còn tôi? ... và anh ấy vẫn còn sống và đồng tính!"
+    },
+    {
+        "word": "better",
+        "type": "Adj",
+        "ipa": "ˈbɛtə",
+        "meaning": "tốt hơn",
+        "context": "Better stop by and get Howard Spencer.",
+        "ex": "ˈbɛtə stɒp baɪ ænd gɛt ˈhaʊəd ˈspɛnsə.",
+        "ipaExTrans": "Tốt hơn nên dừng lại và nhận Howard Spencer."
+    },
+    {
+        "word": "careful",
+        "type": "Adj",
+        "ipa": "ˈkeəfʊl",
+        "meaning": "cẩn thận",
+        "context": "Just be careful where you go.",
+        "ex": "ʤʌst biː ˈkeəfʊl weə juː gəʊ.",
+        "ipaExTrans": "Chỉ cần cẩn thận nơi bạn đi."
+    },
+    {
+        "word": "clever",
+        "type": "Adj",
+        "ipa": "ˈklɛvə",
+        "meaning": "tài giỏi",
+        "context": "As a child he was clever and delicate.",
+        "ex": "æz ə ʧaɪld hiː wɒz ˈklɛvər ænd ˈdɛlɪkɪt.",
+        "ipaExTrans": "Khi còn nhỏ anh rất thông minh và tinh tế."
+    },
+    {
+        "word": "dead",
+        "type": "Adj",
+        "ipa": "dɛd",
+        "meaning": "đã chết",
+        "context": "The battery in the lantern might be dead or the fall might have broken it.",
+        "ex": "ðə ˈbætəri ɪn ðə ˈlæntən maɪt biː dɛd ɔː ðə fɔːl maɪt hæv ˈbrəʊkən ɪt.",
+        "ipaExTrans": "Pin trong đèn lồng có thể bị chết hoặc rơi có thể làm hỏng nó."
+    },
+    {
+        "word": "easy",
+        "type": "Adj",
+        "ipa": "ˈiːzi",
+        "meaning": "dễ dàng",
+        "context": "That's easy for you to say.",
+        "ex": "ðæts ˈiːzi fɔː juː tuː seɪ.",
+        "ipaExTrans": "Điều đó thật dễ dàng để bạn nói."
+    },
+    {
+        "word": "famous",
+        "type": "Adj",
+        "ipa": "ˈfeɪməs",
+        "meaning": "nổi danh",
+        "context": "It is still a famous school.",
+        "ex": "ɪt ɪz stɪl ə ˈfeɪməs skuːl.",
+        "ipaExTrans": "Nó vẫn là một ngôi trường nổi tiếng."
+    },
+    {
+        "word": "gifted",
+        "type": "Adj",
+        "ipa": "ˈgɪftɪd",
+        "meaning": "năng khiếu",
+        "context": "gifted with extraordinary ability.",
+        "ex": "ˈgɪftɪd wɪð ɪksˈtrɔːdnri əˈbɪlɪti.",
+        "ipaExTrans": "năng khiếu với khả năng phi thường."
+    },
+    {
+        "word": "hallowed",
+        "type": "Adj",
+        "ipa": "ˈhæləʊd",
+        "meaning": "thần thánh",
+        "context": "The church was a hallowed place because of the sacred artifacts.",
+        "ex": "ðə ʧɜːʧ wɒz ə ˈhæləʊd pleɪs bɪˈkɒz ɒv ðə ˈseɪkrɪd ˈɑːtɪˌfækts.",
+        "ipaExTrans": "Nhà thờ là một nơi thần thánh vì những cổ vật linh thiêng."
+    },
+    {
+        "word": "helpful",
+        "type": "Adj",
+        "ipa": "ˈhɛlpfʊl",
+        "meaning": "Hữu ích",
+        "context": "There was nothing helpful Dean could offer.",
+        "ex": "ðeə wɒz ˈnʌθɪŋ ˈhɛlpfʊl diːn kʊd ˈɒfə.",
+        "ipaExTrans": "Không có gì hữu ích mà Dean có thể cung cấp."
+    },
+    {
+        "word": "important",
+        "type": "Adj",
+        "ipa": "ɪmˈpɔːtənt",
+        "meaning": "quan trọng",
+        "context": "I had to talk over a very important matter with him.",
+        "ex": "aɪ hæd tuː tɔːk ˈəʊvər ə ˈvɛri ɪmˈpɔːtənt ˈmætə wɪð hɪm.",
+        "ipaExTrans": "Tôi đã phải nói chuyện về một vấn đề rất quan trọng với anh ta."
+    },
+    {
+        "word": "inexpensive",
+        "type": "Adj",
+        "ipa": "ˌɪnɪksˈpɛnsɪv",
+        "meaning": "không tốn kém",
+        "context": "Dean grabbed a bottle of inexpensive merlot and three glasses.",
+        "ex": "diːn græbd ə ˈbɒtl ɒv ˌɪnɪksˈpɛnsɪv merlot ænd θriː ˈglɑːsɪz.",
+        "ipaExTrans": "Dean lấy một chai merlot rẻ tiền và ba ly."
+    },
+    {
+        "word": "mealy",
+        "type": "Adj",
+        "ipa": "ˈmiːli",
+        "meaning": "ít ỏi",
+        "context": "Every effort should be made to prepare a good mealy tilth by suitable ploughing, harrowing and consolidation.",
+        "ex": "ˈɛvri ˈɛfət ʃʊd biː meɪd tuː prɪˈpeər ə gʊd ˈmiːli tɪlθ baɪ ˈsjuːtəbl ˈplaʊɪŋ, ˈhærəʊɪŋ ænd kənˌsɒlɪˈdeɪʃən.",
+        "ipaExTrans": "Mọi nỗ lực nên được thực hiện để chuẩn bị một cách tốt đẹp bằng cách cày, bừa và củng cố phù hợp."
+    },
+    {
+        "word": "mushy",
+        "type": "Adj",
+        "ipa": "ˈmʌʃi",
+        "meaning": "ủy mị",
+        "context": "Don't get mushy on me.",
+        "ex": "dəʊnt gɛt ˈmʌʃi ɒn miː.",
+        "ipaExTrans": "Đừng nản chí với tôi."
+    },
+    {
+        "word": "odd",
+        "type": "Adj",
+        "ipa": "ɒd",
+        "meaning": "lẻ",
+        "context": "Some of them asked odd questions.",
+        "ex": "sʌm ɒv ðɛm ɑːskt ɒd ˈkwɛsʧənz.",
+        "ipaExTrans": "Một số người trong số họ hỏi những câu hỏi kỳ lạ."
+    },
+    {
+        "word": "poor",
+        "type": "Adj",
+        "ipa": "pʊə",
+        "meaning": "nghèo",
+        "context": "The poor kid is feeling deserted.",
+        "ex": "ðə pʊə kɪd ɪz ˈfiːlɪŋ dɪˈzɜːtɪd.",
+        "ipaExTrans": "Đứa trẻ tội nghiệp đang cảm thấy hoang vắng."
+    },
+    {
+        "word": "powerful",
+        "type": "Adj",
+        "ipa": "ˈpaʊəfʊl",
+        "meaning": "quyền lực",
+        "context": "The powerful words made her frown.",
+        "ex": "ðə ˈpaʊəfʊl wɜːdz meɪd hɜː fraʊn.",
+        "ipaExTrans": "Những lời nói mạnh mẽ khiến cô nhăn mặt."
+    },
+    {
+        "word": "rich",
+        "type": "Adj",
+        "ipa": "rɪʧ",
+        "meaning": "giàu có",
+        "context": "The rich have always had this luxury.",
+        "ex": "ðə rɪʧ hæv ˈɔːlweɪz hæd ðɪs ˈlʌkʃəri.",
+        "ipaExTrans": "Người giàu luôn có sự xa xỉ này."
+    },
+    {
+        "word": "shy",
+        "type": "Adj",
+        "ipa": "ʃaɪ",
+        "meaning": "nhát",
+        "context": "You weren't so shy the other night.",
+        "ex": "juː wɜːnt səʊ ʃaɪ ði ˈʌðə naɪt.",
+        "ipaExTrans": "Bạn không ngại ngùng vào đêm khác."
+    },
+    {
+        "word": "tender",
+        "type": "Adj",
+        "ipa": "ˈtɛndə",
+        "meaning": "đấu thầu",
+        "context": "Her neck was tender and swallowing was painful.",
+        "ex": "hɜː nɛk wɒz ˈtɛndər ænd ˈswɒləʊɪŋ wɒz ˈpeɪnfʊl.",
+        "ipaExTrans": "Cổ cô đau và nuốt rất đau."
+    },
+    {
+        "word": "unimportant",
+        "type": "Adj",
+        "ipa": "ˌʌnɪmˈpɒtənt",
+        "meaning": "không quan trọng",
+        "context": "It was unimportant... then.",
+        "ex": "ɪt wɒz ˌʌnɪmˈpɒtənt... ðɛn.",
+        "ipaExTrans": "Nó không quan trọng ... sau đó."
+    },
+    {
+        "word": "uninterested",
+        "type": "Adj",
+        "ipa": "ʌnˈɪntrɪstɪd",
+        "meaning": "không quan tâm",
+        "context": "The fact that she was uninterested only enticed him further.",
+        "ex": "ðə fækt ðæt ʃiː wɒz ʌnˈɪntrɪstɪd ˈəʊnli ɪnˈtaɪst hɪm ˈfɜːðə.",
+        "ipaExTrans": "Việc cô không quan tâm chỉ lôi kéo anh thêm."
+    },
+    {
+        "word": "vast",
+        "type": "Adj",
+        "ipa": "vɑːst",
+        "meaning": "rộng lớn",
+        "context": "He was so tall there was a vast difference in their height.",
+        "ex": "hiː wɒz səʊ tɔːl ðeə wɒz ə vɑːst ˈdɪfrəns ɪn ðeə haɪt.",
+        "ipaExTrans": "Anh ta rất cao, có một sự khác biệt lớn về chiều cao của họ."
+    },
+    {
+        "word": "wrong",
+        "type": "Adj",
+        "ipa": "rɒŋ",
+        "meaning": "Sai lầm",
+        "context": "I can neither punish him if he does wrong nor reward him if he does right.",
+        "ex": "aɪ kæn ˈnaɪðə ˈpʌnɪʃ hɪm ɪf hiː dʌz rɒŋ nɔː rɪˈwɔːd hɪm ɪf hiː dʌz raɪt.",
+        "ipaExTrans": "Tôi không thể trừng phạt anh ta nếu anh ta làm sai hay thưởng cho anh ta nếu anh ta làm đúng."
+    }
+]

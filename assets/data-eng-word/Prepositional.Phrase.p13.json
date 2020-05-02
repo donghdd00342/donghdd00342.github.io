@@ -1,0 +1,290 @@
+[
+    {
+        "word": "in the house",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə haʊs",
+        "meaning": "ở trong nhà"
+    },
+    {
+        "word": "in a car",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə kɑː",
+        "meaning": "trong xe hơi"
+    },
+    {
+        "word": "in a helicopter",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə ˈhɛlɪkɒptə",
+        "meaning": "trong một máy bay trực thăng"
+    },
+    {
+        "word": "in a boat",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə bəʊt",
+        "meaning": "trên thuyền"
+    },
+    {
+        "word": "in a lift (elevator)",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə lɪft (ˈɛlɪveɪtə)",
+        "meaning": "trong thang máy (thang máy)"
+    },
+    {
+        "word": "in a taxi",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə ˈtæksi",
+        "meaning": "trong một xe taxi"
+    },
+    {
+        "word": "in a traffic jam",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə ˈtræfɪk ʤæm",
+        "meaning": "bị kẹt xe"
+    },
+    {
+        "word": "in the sky",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə skaɪ",
+        "meaning": "trên bầu trời"
+    },
+    {
+        "word": "in bed",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn bɛd",
+        "meaning": "trên giường"
+    },
+    {
+        "word": "in a room",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə ruːm",
+        "meaning": "trong một căn phòng"
+    },
+    {
+        "word": "in a building",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə ˈbɪldɪŋ",
+        "meaning": "trong một tòa nhà"
+    },
+    {
+        "word": "in Times Square",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn taɪmz skweə",
+        "meaning": "tại Quảng trường Thời đại"
+    },
+    {
+        "word": "in the beginning",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə bɪˈgɪnɪŋ",
+        "meaning": "ở thời điểm bắt đầu"
+    },
+    {
+        "word": "in the end",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ði ɛnd",
+        "meaning": "đến cuối cùng"
+    },
+    {
+        "word": "in the picture",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə ˈpɪkʧə",
+        "meaning": "trong hình"
+    },
+    {
+        "word": "in the journal",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə ˈʤɜːnl",
+        "meaning": "trong tạp chí"
+    },
+    {
+        "word": "in the world",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə wɜːld",
+        "meaning": "trên thế giới"
+    },
+    {
+        "word": "in Oxford Street",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ˈɒksfəd striːt",
+        "meaning": "ở phố Oxford"
+    },
+    {
+        "word": "in the street",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə striːt",
+        "meaning": "Trên đương"
+    },
+    {
+        "word": "in the north/south",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə nɔːθ/saʊθ",
+        "meaning": "ở phía bắc / nam"
+    },
+    {
+        "word": "in the west/east",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə wɛst/iːst",
+        "meaning": "ở phía tây / đông"
+    },
+    {
+        "word": "in prison",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ˈprɪzn",
+        "meaning": "trong tù"
+    },
+    {
+        "word": "in the cinema",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə ˈsɪnəmə",
+        "meaning": "trong rạp chiếu phim"
+    },
+    {
+        "word": "in a line",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə laɪn",
+        "meaning": "trên một đường thẳng"
+    },
+    {
+        "word": "in a queue",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə kjuː",
+        "meaning": "trong một hàng đợi"
+    },
+    {
+        "word": "in a row",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə rəʊ",
+        "meaning": "trong một hàng"
+    },
+    {
+        "word": "in a garden",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə ˈgɑːdn",
+        "meaning": "trong một khu vườn"
+    },
+    {
+        "word": "in the kitchen",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə ˈkɪʧɪn",
+        "meaning": "trong nhà bếp"
+    },
+    {
+        "word": "in a town/ in a country",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə taʊn/ ɪn ə ˈkʌntri",
+        "meaning": "trong một thị trấn / trong một quốc gia"
+    },
+    {
+        "word": "in the bank",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə bæŋk",
+        "meaning": "trong ngân hàng"
+    },
+    {
+        "word": "in the market",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə ˈmɑːkɪt",
+        "meaning": "trên thị trường"
+    },
+    {
+        "word": "in a basket",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə ˈbɑːskɪt",
+        "meaning": "trong một cái giỏ"
+    },
+    {
+        "word": "in the article",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ði ˈɑːtɪkl",
+        "meaning": "trong bài viết"
+    },
+    {
+        "word": "in an armchair",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ən ˈɑːmˈʧeə",
+        "meaning": "trong một chiếc ghế bành"
+    },
+    {
+        "word": "in the book",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə bʊk",
+        "meaning": "trong cuốn sách"
+    },
+    {
+        "word": "in the city center",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə ˈsɪti ˈsɛntə",
+        "meaning": "ở trung tâm thành phố"
+    },
+    {
+        "word": "in the bag",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə bæg",
+        "meaning": "trong túi"
+    },
+    {
+        "word": "in a box",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə bɒks",
+        "meaning": "trong một cái hộp"
+    },
+    {
+        "word": "in my pocket",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn maɪ ˈpɒkɪt",
+        "meaning": "trong túi của tôi"
+    },
+    {
+        "word": "in my wallet",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn maɪ ˈwɒlɪt",
+        "meaning": "Trong ví của tôi"
+    },
+    {
+        "word": "in the sea/ river",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə siː/ ˈrɪvə",
+        "meaning": "ở biển / sông"
+    },
+    {
+        "word": "in the water",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə ˈwɔːtə",
+        "meaning": "Dưới nước"
+    },
+    {
+        "word": "in the closet",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə ˈklɒzɪt",
+        "meaning": "trong tủ quần áo"
+    },
+    {
+        "word": "in the mirror",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə ˈmɪrə",
+        "meaning": "trong gương"
+    },
+    {
+        "word": "in the classroom",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə ˈklɑːsrʊm",
+        "meaning": "trong lớp học"
+    },
+    {
+        "word": "in the newspaper",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ðə ˈnjuːzˌpeɪpə",
+        "meaning": "trên báo"
+    },
+    {
+        "word": "in a pool",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ə puːl",
+        "meaning": "trong một hồ bơi"
+    },
+    {
+        "word": "in London",
+        "type": "Prep Phrases of TIME",
+        "ipa": "ɪn ˈlʌndən",
+        "meaning": "tại Luân Đôn"
+    }
+]

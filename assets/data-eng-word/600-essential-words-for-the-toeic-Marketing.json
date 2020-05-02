@@ -1,0 +1,100 @@
+[
+    {
+        "word": "attract",
+        "type": "thu hút",
+        "ipa": "əˈtrækt",
+        "meaning": "(v)to draw by appeal ( hấp dẫn, lôi cuốn )",
+        "tag": "Marketing"
+    },
+    {
+        "word": "attraction",
+        "type": "sức hút",
+        "ipa": "əˈtrækʃ(ə)n",
+        "meaning": "(n)sự hấp dẫn, lôi cuốn",
+        "tag": "Marketing"
+    },
+    {
+        "word": "comparison",
+        "type": "so sánh",
+        "ipa": "kəmˈpærɪsn",
+        "meaning": "(n)sự so sánh",
+        "tag": "Marketing"
+    },
+    {
+        "word": "comparable",
+        "type": "so sánh",
+        "ipa": "ˈkɒmpərəbl",
+        "meaning": "(adj)tương đồng và có thể so sánh được.",
+        "tag": "Marketing"
+    },
+    {
+        "word": "consume",
+        "type": "tiêu thụ",
+        "ipa": "kənˈsjuːm",
+        "meaning": "(v)to absorb, to use up (dùng, tiêu thụ)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "consumable",
+        "type": "tiêu hao",
+        "ipa": "kənˈsjuːməbl",
+        "meaning": "(adj)có thể ăn được, có thể tiêu thụ được",
+        "tag": "Marketing"
+    },
+    {
+        "word": "convince",
+        "type": "thuyết phục",
+        "ipa": "kənˈvɪns",
+        "meaning": "(v)to bring to believe by argument, to persuade (làm cho tin, làm cho nghe theo, thuyết phục)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "current",
+        "type": "hiện hành",
+        "ipa": "ˈkʌrənt",
+        "meaning": "(adj)hiện tại, hiện thời, (n) đang lưu hành",
+        "tag": "Marketing"
+    },
+    {
+        "word": "fad",
+        "type": "ham mê",
+        "ipa": "fæd",
+        "meaning": "(n)a practice followed enthusiastically for a short time, a craze (mốt)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "inspire",
+        "type": "truyền cảm hứng",
+        "ipa": "ɪnˈspaɪə",
+        "meaning": "(v)to spur on, to stimulate imagination or emotion. (truyền (cảm hứng, ý nghĩ...); truyền cảm hứng cho (ai), gây cảm hứng cho (ai)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "market",
+        "type": "thị trường",
+        "ipa": "ˈmɑːkɪt",
+        "meaning": "(n)the course of buying and selling a product, n. the demand for a product (giá thị trường; tình hình thị trường)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "persuade",
+        "type": "truy vấn",
+        "ipa": "pəˈsweɪd",
+        "meaning": "(v)to move by argument or logic (làm cho tin; thuyết phục)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "productive",
+        "type": "năng suất",
+        "ipa": "prəˈdʌktɪv",
+        "meaning": "auseful, getting a lot done (thực hiện được nhiều, hữu ích, có năng suất)",
+        "tag": "Marketing"
+    },
+    {
+        "word": "satisfy",
+        "type": "thỏa mãn",
+        "ipa": "ˈsætɪsfaɪ",
+        "meaning": "(v)to make happy (làm thoả mãn, làm vừa lòng, đáp ứng (được yêu cầu, điều kiện...))",
+        "tag": "Marketing"
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "sentence": "The director WANTS all of the items shipped by the end of the week, regardless of the cost.",
+        "ipa": "ðə dɪˈrɛktə wɒnts ɔːl ɒv ði ˈaɪtəmz ʃɪpt baɪ ði ɛnd ɒv ðə wiːk, rɪˈgɑːdlɪs ɒv ðə kɒst.",
+        "tag": "WANTS",
+        "meaning": "Quản lý muốn tất cả các sản phẩm phải được giao trước cuối tuần, bất kể chi phí bao nhiêu."
+    },
+    {
+        "sentence": "How much is a SERVING of vegetables?",
+        "ipa": "haʊ mʌʧ ɪz ə ˈsɜːvɪŋ ɒv ˈvɛʤtəb(ə)lz?",
+        "tag": "SERVING ",
+        "meaning": "Một suất rau giá bao nhiêu?"
+    },
+    {
+        "sentence": "She sent me a polite LETTER thanking me for my invitation.",
+        "ipa": "ʃiː sɛnt miː ə pəˈlaɪt ˈlɛtə ˈθæŋkɪŋ miː fɔː maɪ ˌɪnvɪˈteɪʃən.",
+        "tag": "LETTER ",
+        "meaning": "Cô ấy đã gửi một lá thư lịch sự cảm ơn lời mời của tôi ."
+    },
+    {
+        "sentence": "We only OFFER broadband internet service in selected areas due to lack of technical capability.",
+        "ipa": "wiː ˈəʊnli ˈɒfə ˈbrɔːdˌbænd ˈɪntəˌnɛt ˈsɜːvɪs ɪn sɪˈlɛktɪd ˈeərɪəz djuː tuː læk ɒv ˈtɛknɪkəl ˌkeɪpəˈbɪlɪti.",
+        "tag": "OFFER",
+        "meaning": "Chúng tôi chỉ cung cấp dịch vụ internet băng thông rộng ở các khu vực được chọn do thiếu năng lực kỹ thuật."
+    },
+    {
+        "sentence": "She thought she was doing the RIGHT thing.",
+        "ipa": "ʃiː θɔːt ʃiː wɒz ˈdu(ː)ɪŋ ðə raɪt θɪŋ.",
+        "tag": "RIGHT ",
+        "meaning": "Cô ấy tưởng cô đang làm chuyện đúng đắn."
+    },
+    {
+        "sentence": "We are looking forward to discussing the POSSIBILITY of working collaboratively.",
+        "ipa": "wiː ɑː ˈlʊkɪŋ ˈfɔːwəd tuː dɪsˈkʌsɪŋ ðə ˌpɒsəˈbɪlɪti ɒv ˈwɜːkɪŋ kəˈlæb(ə)rətɪvli.",
+        "tag": "POSSIBILITY ",
+        "meaning": "Chúng tôi mong đợi được thảo luận về khả năng hợp tác làm việc."
+    },
+    {
+        "sentence": "Young PEOPLE nowadays are very creative.",
+        "ipa": "jʌŋ ˈpiːpl ˈnaʊədeɪz ɑː ˈvɛri kri(ː)ˈeɪtɪv.",
+        "tag": "PEOPLE ",
+        "meaning": "Giới trẻ ngày nay rất sáng tạo."
+    },
+    {
+        "sentence": "When a student dropped a piece of chalk on the FLOOR, the teacher told him to pick it up.",
+        "ipa": "wɛn ə ˈstjuːdənt drɒpt ə piːs ɒv ʧɔːk ɒn ðə flɔː, ðə ˈtiːʧə təʊld hɪm tuː pɪk ɪt ʌp.",
+        "tag": "FLOOR",
+        "meaning": "Khi học sinh làm rớt viên phấn, giáo viên đã kêu bạn học sinh đó nhặt nó lên."
+    },
+    {
+        "sentence": "The present finance minister has adopted a very conservative approach towards change and always FOLLOWS a very cautious policy.",
+        "ipa": "ðə ˈprɛznt faɪˈnæns ˈmɪnɪstə hæz əˈdɒptɪd ə ˈvɛri kənˈsɜːvətɪv əˈprəʊʧ təˈwɔːdz ʧeɪnʤ ænd ˈɔːlweɪz ˈfɒləʊz ə ˈvɛri ˈkɔːʃəs ˈpɒlɪsi.",
+        "tag": "FOLLOWS ",
+        "meaning": "Bộ trưởng bộ tài chính hiện tại đã áp dụng phương pháp bảo thủ với sự thay đổi và luôn tuân theo các chính sách thận trọng."
+    },
+    {
+        "sentence": "Library patrons who fail to return an item by the due DATE will be charged a fee.",
+        "ipa": "ˈlaɪbrəri ˈpeɪtrənz huː feɪl tuː rɪˈtɜːn ən ˈaɪtəm baɪ ðə djuː deɪt wɪl biː ʧɑːʤd ə fiː.",
+        "tag": "DATE ",
+        "meaning": "Các khách quen của thư viện mà không trả lại đồ theo đúng hạn sẽ bị phạt phải trả một khoảng phí."
+    },
+    {
+        "sentence": "The bus will arrive in ten MINUTES.",
+        "ipa": "ðə bʌs wɪl əˈraɪv ɪn tɛn ˈmɪnɪts.",
+        "tag": "MINUTES",
+        "meaning": "Xe buýt sẽ đến mười phút nữa."
+    },
+    {
+        "sentence": "When does your flight LEAVE?",
+        "ipa": "wɛn dʌz jɔː flaɪt liːv?",
+        "tag": "LEAVE",
+        "meaning": "Chuyến bay rời đi khi nào?"
+    },
+    {
+        "sentence": "He SIGNED himself \"Jimmy\".",
+        "ipa": "hiː saɪnd hɪmˈsɛlf \"ˈʤɪmi\".",
+        "tag": "SIGNED ",
+        "meaning": "Anh ấy ký tên là 'Jimmy'."
+    },
+    {
+        "sentence": "What TIME does the plane take off?",
+        "ipa": "wɒt taɪm dʌz ðə pleɪn teɪk ɒf?",
+        "tag": "TIME",
+        "meaning": "Mấy giờ thì máy bay cất cánh?"
+    },
+    {
+        "sentence": "When the family decided to OPEN a restaurant they had to find a location that would attract business.",
+        "ipa": "wɛn ðə ˈfæmɪli dɪˈsaɪdɪd tuː ˈəʊpən ə ˈrɛstrɒnt ðeɪ hæd tuː faɪnd ə ləʊˈkeɪʃən ðæt wʊd əˈtrækt ˈbɪznɪs.",
+        "tag": "OPEN ",
+        "meaning": "Khi một gia đình nào đó quyết định mở một nhà hàng thì họ phải quyết định địa điểm nào thu hút kinh doanh."
+    },
+    {
+        "sentence": "My dad used to smoke one PACK of cigarettes a day.",
+        "ipa": "maɪ dæd juːzd tuː sməʊk wʌn pæk ɒv ˌsɪgəˈrɛts ə deɪ.",
+        "tag": "PACK",
+        "meaning": "Cha tôi từng hút một gói thuốc mỗi ngày."
+    },
+    {
+        "sentence": "No one can ever find me in this CITY.",
+        "ipa": "nəʊ wʌn kæn ˈɛvə faɪnd miː ɪn ðɪs ˈsɪti.",
+        "tag": "CITY",
+        "meaning": "Chẳng ai có thể tìm được tôi trong thành phố này."
+    },
+    {
+        "sentence": "I TAKE some clothes with me whenever I come to visit my parents.",
+        "ipa": "aɪ teɪk sʌm kləʊðz wɪð miː wɛnˈɛvər aɪ kʌm tuː ˈvɪzɪt maɪ ˈpeərənts.",
+        "tag": "TAKE ",
+        "meaning": "Tôi luôn mang theo vài bộ quần áo mỗi khi tôi đến thăm bố mẹ."
+    },
+    {
+        "sentence": "We don't often travel by TRAIN.",
+        "ipa": "wiː dəʊnt ˈɒf(ə)n ˈtrævl baɪ treɪn.",
+        "tag": "TRAIN",
+        "meaning": "Chúng tôi không thường đi du lịch bằng đường sắt."
+    },
+    {
+        "sentence": "Dresch Power Tools has stopped production of its battery-operated drill following poor SALES.",
+        "ipa": "Dresch ˈpaʊə tuːlz hæz stɒpt prəˈdʌkʃən ɒv ɪts ˈbætəri-ˈɒpəreɪtɪd drɪl ˈfɒləʊɪŋ pʊə seɪlz.",
+        "tag": "SALES",
+        "meaning": "Công ty thiết bị năng lượng Dresch đã ngừng sản xuất máy khoan hoạt động bằng pin vì doanh thu kém."
+    },
+    {
+        "sentence": "They're going away on a training COURSE next week.",
+        "ipa": "ðeə ˈgəʊɪŋ əˈweɪ ɒn ə ˈtreɪnɪŋ kɔːs nɛkst wiːk.",
+        "tag": "COURSE ",
+        "meaning": "Họ sẽ lên đường tham gia một khóa huấn luyện vào tuần tới."
+    },
+    {
+        "sentence": "If you want to submit a document that contains a SIGNATURE, a fax might be better than an e-mail.",
+        "ipa": "ɪf juː wɒnt tuː səbˈmɪt ə ˈdɒkjʊmənt ðæt kənˈteɪnz ə ˈsɪgnɪʧə, ə fæks maɪt biː ˈbɛtə ðæn ən iː-meɪl.",
+        "tag": "SIGNATURE",
+        "meaning": "Nếu bạn cần gởi tài liệu có kèm chữ ký thì gởi fax có lẽ sẽ tốt hơn gởi thư điện tử."
+    },
+    {
+        "sentence": "It seems only RIGHT to advise you against what you're about to do.",
+        "ipa": "ɪt siːmz ˈəʊnli raɪt tuː ədˈvaɪz juː əˈgɛnst wɒt jʊər əˈbaʊt tuː duː.",
+        "tag": "RIGHT ",
+        "meaning": "Tôi thấy đúng đắn khi khuyên nhủ anh đừng làm chuyện anh sắp làm."
+    },
+    {
+        "sentence": "To spread the cost of spending on articles you buy, many big departments let you OPEN a credit account.",
+        "ipa": "tuː sprɛd ðə kɒst ɒv ˈspɛndɪŋ ɒn ˈɑːtɪklz juː baɪ, ˈmɛni bɪg dɪˈpɑːtmənts lɛt juː ˈəʊpən ə ˈkrɛdɪt əˈkaʊnt.",
+        "tag": "OPEN ",
+        "meaning": "Để dàn trải chi phí tiêu dùng vào các vật phẩm mà bạn mua, nhiều công ty lớn cho phép bạn mở một tài khoản tín dụng."
+    },
+    {
+        "sentence": "I am writing this LETTER to you as a sort of last resort since all my attempts to phone you",
+        "ipa": "aɪ æm ˈraɪtɪŋ ðɪs ˈlɛtə tuː juː æz ə sɔːt ɒv lɑːst rɪˈzɔːt sɪns ɔːl maɪ əˈtɛmpts tuː fəʊn juː",
+        "tag": "LETTER",
+        "meaning": "Tôi viết thư này cho bạn vì đây là cách cuối cùng sau tất cả nỗ lực gọi điện cho bạn."
+    },
+    {
+        "sentence": "Thank you, that's a generous OFFER of assistance!",
+        "ipa": "θæŋk juː, ðæts ə ˈʤɛnərəs ˈɒfər ɒv əˈsɪstəns!",
+        "tag": "OFFER ",
+        "meaning": "Cảm ơn bạn, đó là một lời đề nghị giúp đỡ rất hào phóng!"
+    },
+    {
+        "sentence": "I don't WANT to intrude, but would you like me to demonstrate how to use that machine?",
+        "ipa": "aɪ dəʊnt wɒnt tuː ɪnˈtruːd, bʌt wʊd juː laɪk miː tuː ˈdɛmənstreɪt haʊ tuː juːz ðæt məˈʃiːn?",
+        "tag": "WANT ",
+        "meaning": "Tôi không muốn phá rối nhưng bạn có muốn tôi minh họa cách sử dụng cái máy đó không?"
+    },
+    {
+        "sentence": "During this TIME I became very familiar with the use of editing programs and printing procedures.",
+        "ipa": "ˈdjʊərɪŋ ðɪs taɪm aɪ bɪˈkeɪm ˈvɛri fəˈmɪliə wɪð ðə juːz ɒv ˈɛdɪtɪŋ ˈprəʊgræmz ænd ˈprɪntɪŋ prəˈsiːʤəz.",
+        "tag": "TIME",
+        "meaning": "Suốt thời gian này tôi đã quen với việc dùng các phần mềm chỉnh sửa và các quy trình in ấn."
+    },
+    {
+        "sentence": "Which FLOOR is the lunchroom on?",
+        "ipa": "wɪʧ flɔːr ɪz ðə ˈlʌnʧrʊm ɒn?",
+        "tag": "FLOOR ",
+        "meaning": "Phòng ăn trưa ở tầng mấy vậy?"
+    },
+    {
+        "sentence": "The boy FOLLOWED his mother into the kitchen.",
+        "ipa": "ðə bɔɪ ˈfɒləʊd hɪz ˈmʌðər ˈɪntuː ðə ˈkɪʧɪn.",
+        "tag": "FOLLOWED ",
+        "meaning": "Cậu bé theo mẹ vào nhà bếp."
+    },
+    {
+        "sentence": "Most PEOPLE say there is no such thing as ghosts, but some still believe in them.",
+        "ipa": "məʊst ˈpiːpl seɪ ðeər ɪz nəʊ sʌʧ θɪŋ æz gəʊsts, bʌt sʌm stɪl bɪˈliːv ɪn ðɛm.",
+        "tag": "PEOPLE ",
+        "meaning": "Hầu hết mọi người nói rằng ma không có thật nhưng một số người vẫn tin về sự có thật của ma quỷ."
+    },
+    {
+        "sentence": "Editors are extremely busy proofreading, editing and compiling materials prior to publication DATE.",
+        "ipa": "ˈɛdɪtəz ɑːr ɪksˈtriːmli ˈbɪzi ˈpruːfˌriːdɪŋ, ˈɛdɪtɪŋ ænd kəmˈpaɪlɪŋ məˈtɪərɪəlz ˈpraɪə tuː ˌpʌblɪˈkeɪʃən deɪt.",
+        "tag": "DATE",
+        "meaning": "Các biên tập viên cực kỳ bận đọc rà soát, biên tập và tổng hợp tài liệu trước ngày xuất bản."
+    }
+]

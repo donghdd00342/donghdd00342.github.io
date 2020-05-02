@@ -1,0 +1,222 @@
+[
+    {
+        "word": "advice",
+        "ipa": "ədˈvaɪs",
+        "type": "n",
+        "tag": "lời khuyên",
+        "meaning": "Advice is an opinion about what to do.",
+        "context": "Lời khuyên là một ý kiến ​​về những gì để làm.",
+        "ex": "I don’t know how to study for my exams. Can you give me some advice?",
+        "ipaExTrans": "aɪ dəʊnt nəʊ haʊ tuː ˈstʌdi fɔː maɪ ɪgˈzæmz. kæn juː gɪv miː sʌm ədˈvaɪs?",
+        "exMeaning": "Tôi không biết cách học cho kỳ thi của mình. Bạn có thể cho tôi một lời khuyên?"
+    },
+    {
+        "word": "along",
+        "ipa": "əˈlɒŋ",
+        "type": "prep",
+        "tag": "dọc theo",
+        "meaning": "Along means to move from one part of a road, river, etc. to another",
+        "context": "Dọc theo phương tiện để di chuyển từ một phần của con đường, dòng sông, vv đến một phần khác",
+        "ex": "Walk along this tunnel for ten minutes, and you’ll see a door on the left",
+        "ipaExTrans": "wɔːk əˈlɒŋ ðɪs ˈtʌnl fɔː tɛn ˈmɪnɪts, ænd juːl siː ə dɔːr ɒn ðə lɛft",
+        "exMeaning": "Đi dọc theo đường hầm này trong mười phút và bạn sẽ thấy một cánh cửa bên trái"
+    },
+    {
+        "word": "attention",
+        "ipa": "əˈtɛnʃ(ə)n",
+        "type": "n",
+        "tag": "chú ý",
+        "meaning": "Attention is the notice, thought, or consideration of someone",
+        "context": "Chú ý là thông báo, suy nghĩ hoặc cân nhắc của ai đó",
+        "ex": "His work got the attention of two of his co-workers.",
+        "ipaExTrans": "hɪz wɜːk gɒt ði əˈtɛnʃ(ə)n ɒv tuː ɒv hɪz kəʊ-ˈwɜːkəz.",
+        "exMeaning": "Công việc của anh ấy đã nhận được sự chú ý của hai đồng nghiệp của anh ấy."
+    },
+    {
+        "word": "attract",
+        "ipa": "əˈtrækt",
+        "type": "v",
+        "tag": "thu hút",
+        "meaning": "To attract means to make a person or thing come closer or be interested",
+        "context": "Để thu hút có nghĩa là làm cho một người hoặc vật đến gần hơn hoặc được quan tâm",
+        "ex": "The magnet attracted the metal.",
+        "ipaExTrans": "ðə ˈmægnɪt əˈtræktɪd ðə ˈmɛtl.",
+        "exMeaning": "Nam châm thu hút kim loại."
+    },
+    {
+        "word": "climb",
+        "ipa": "klaɪm",
+        "type": "v",
+        "tag": "leo lên, trèo lên",
+        "meaning": "To climb means to use your hands and feet to go up on something",
+        "context": "Leo lên có nghĩa là sử dụng tay và chân của bạn để đi lên trên một cái gì đó",
+        "ex": "The girls climbed to the top of the mountain.",
+        "ipaExTrans": "ðə gɜːlz klaɪmd tuː ðə tɒp ɒv ðə ˈmaʊntɪn.",
+        "exMeaning": "Các cô gái leo lên đỉnh núi."
+    },
+    {
+        "word": "drop",
+        "ipa": "drɒp",
+        "type": "v",
+        "tag": "rơi vãi",
+        "meaning": "To drop is to fall or allow something to fall.",
+        "context": "Để rơi là rơi hoặc cho phép một cái gì đó rơi.",
+        "ex": "A small amount of water dropped from the bottle",
+        "ipaExTrans": "ə smɔːl əˈmaʊnt ɒv ˈwɔːtə drɒpt frɒm ðə ˈbɒtl",
+        "exMeaning": "Một lượng nhỏ nước rơi ra từ chai"
+    },
+    {
+        "word": "final",
+        "ipa": "ˈfaɪnl",
+        "type": "adj",
+        "tag": "sau cùng, cuối cùng",
+        "meaning": "If something is final, it is the last part.",
+        "context": "Nếu một cái gì đó là cuối cùng, nó là phần cuối cùng.",
+        "ex": "In the final part of the film, the man and the woman got married.",
+        "ipaExTrans": "ɪn ðə ˈfaɪnl pɑːt ɒv ðə fɪlm, ðə mæn ænd ðə ˈwʊmən gɒt ˈmærɪd.",
+        "exMeaning": "Trong phần cuối của bộ phim, người đàn ông và người phụ nữ đã kết hôn."
+    },
+    {
+        "word": "further",
+        "ipa": "ˈfɜːðə",
+        "type": "adj",
+        "tag": "thêm nữa, xa hơn, vả lại",
+        "meaning": "Further is used to say something is from a distance or time.",
+        "context": "Hơn nữa được sử dụng để nói một cái gì đó là từ một khoảng cách hoặc thời gian.",
+        "ex": "The escalator is further along than I thought.",
+        "ipaExTrans": "ði ˈɛskəleɪtər ɪz ˈfɜːðər əˈlɒŋ ðæn aɪ θɔːt.",
+        "exMeaning": "Thang cuốn đi xa hơn tôi nghĩ."
+    },
+    {
+        "word": "imply",
+        "ipa": "ɪmˈplaɪ",
+        "type": "v",
+        "tag": "ám chỉ, bao hàm, ngụ ý",
+        "meaning": "To imply something is to suggest it without saying it.",
+        "context": "Để ngụ ý một cái gì đó là đề nghị nó mà không nói nó.",
+        "ex": "The man implied that he wanted the job, but he didn’t say so",
+        "ipaExTrans": "ðə mæn ɪmˈplaɪd ðæt hiː ˈwɒntɪd ðə ʤɒb, bʌt hiː dɪdnt seɪ səʊ",
+        "exMeaning": "Người đàn ông ngụ ý rằng anh ta muốn công việc, nhưng anh ta đã nói như vậy"
+    },
+    {
+        "word": "maintain",
+        "ipa": "meɪnˈteɪn",
+        "type": "v",
+        "tag": "duy trì, bảo dưỡng",
+        "meaning": "To maintain means to make something stay the same.",
+        "context": "Để duy trì có nghĩa là làm cho một cái gì đó giữ nguyên.",
+        "ex": "The balls maintain constant movement.",
+        "ipaExTrans": "ðə bɔːlz meɪnˈteɪn ˈkɒnstənt ˈmuːvmənt.",
+        "exMeaning": "Các quả bóng duy trì chuyển động liên tục."
+    },
+    {
+        "word": "neither",
+        "ipa": "ˈnaɪðə",
+        "type": "adv",
+        "tag": "cũng không",
+        "meaning": "You use neither to connect two negative statements",
+        "context": "Bạn không sử dụng để kết nối hai câu phủ định",
+        "ex": "Neither the pass on the left nor the pass on the right will lead us home.",
+        "ipaExTrans": "ˈnaɪðə ðə pɑːs ɒn ðə lɛft nɔː ðə pɑːs ɒn ðə raɪt wɪl liːd ʌs həʊm.",
+        "exMeaning": "Không phải đường chuyền bên trái hay đường chuyền bên phải sẽ dẫn chúng ta về nhà."
+    },
+    {
+        "word": "otherwise",
+        "ipa": "ˈʌðəwaɪz",
+        "type": "adv",
+        "tag": "nếu không thì",
+        "meaning": "Otherwise means different or in another way",
+        "context": "Mặt khác có nghĩa là khác nhau hoặc theo một cách khác",
+        "ex": "It’s good to stay active; otherwise, you’ll gain weight.",
+        "ipaExTrans": "ɪts gʊd tuː steɪ ˈæktɪv; ˈʌðəwaɪz, juːl geɪn weɪt.",
+        "exMeaning": "Nó rất tốt để duy trì hoạt động; nếu không, bạn sẽ tăng cân."
+    },
+    {
+        "word": "physical",
+        "ipa": "ˈfɪzɪkəl",
+        "type": "adj",
+        "tag": "vật lý, vật chất",
+        "meaning": "If something is physical, it is related to your body and not your mind.",
+        "context": "Nếu một cái gì đó là vật chất, nó có liên quan đến cơ thể của bạn chứ không phải tâm trí của bạn.",
+        "ex": "Biking is good for your physical health.",
+        "ipaExTrans": "ˈbaɪkɪŋ ɪz gʊd fɔː jɔː ˈfɪzɪkəl hɛlθ.",
+        "exMeaning": "Đi xe đạp rất tốt cho sức khỏe thể chất của bạn."
+    },
+    {
+        "word": "prove",
+        "ipa": "pruːv",
+        "type": "v",
+        "tag": "chứng minh",
+        "meaning": "To prove something is to show that it is true.",
+        "context": "Để chứng minh một cái gì đó là để cho thấy rằng đó là sự thật.",
+        "ex": "My teacher proved the answer on the board.",
+        "ipaExTrans": "maɪ ˈtiːʧə pruːvd ði ˈɑːnsər ɒn ðə bɔːd.",
+        "exMeaning": "Giáo viên của tôi đã chứng minh câu trả lời trên bảng."
+    },
+    {
+        "word": "react",
+        "ipa": "ri(ː)ˈækt",
+        "type": "v",
+        "tag": "phản ứng, đối ứng",
+        "meaning": "To react is to act in a certain way because of something that happened.",
+        "context": "Phản ứng là hành động theo một cách nhất định vì điều gì đó đã xảy ra.",
+        "ex": "James reacted badly to the news.",
+        "ipaExTrans": "ʤeɪmz ri(ː)ˈæktɪd ˈbædli tuː ðə njuːz.",
+        "exMeaning": "James phản ứng xấu với tin tức."
+    },
+    {
+        "word": "ride",
+        "ipa": "raɪd",
+        "type": "v",
+        "tag": "đạp xe, cưỡi ngựa",
+        "meaning": "To ride something is to travel on it. You can ride an animal, a bike, etc.",
+        "context": "Đi xe gì đó là đi du lịch trên đó. Bạn có thể cưỡi một con vật, một chiếc xe đạp, vv",
+        "ex": "I will ride a roller-coaster for the first time today.",
+        "ipaExTrans": "aɪ wɪl raɪd ə ˈrəʊləˌkəʊstə fɔː ðə fɜːst taɪm təˈdeɪ.",
+        "exMeaning": "Tôi sẽ đi tàu lượn siêu tốc lần đầu tiên vào hôm nay."
+    },
+    {
+        "word": "situated",
+        "ipa": "ˈsɪtjʊeɪtɪd",
+        "type": "adj",
+        "tag": "nằm (ở) vào tình cảnh khó xử",
+        "meaning": "If something is situated somewhere, it is in that place.",
+        "context": "Nếu một cái gì đó nằm ở đâu đó, nó ở nơi đó.",
+        "ex": "The white board is situated between the two men",
+        "ipaExTrans": "ðə waɪt bɔːd ɪz ˈsɪtjʊeɪtɪd bɪˈtwiːn ðə tuː mɛn",
+        "exMeaning": "Bảng trắng nằm giữa hai người đàn ông"
+    },
+    {
+        "word": "society",
+        "ipa": "səˈsaɪəti",
+        "type": "n",
+        "tag": "xã hội",
+        "meaning": "Society is people and the way that they live.",
+        "context": "Xã hội là con người và cách họ sống.",
+        "ex": "Society expects people to be good and honest.",
+        "ipaExTrans": "səˈsaɪəti ɪksˈpɛkts ˈpiːpl tuː biː gʊd ænd ˈɒnɪst.",
+        "exMeaning": "Xã hội mong mọi người tốt và trung thực."
+    },
+    {
+        "word": "standard",
+        "ipa": "ˈstændəd",
+        "type": "n",
+        "tag": "Tiêu chuẩn",
+        "meaning": "A standard is what people consider normal or good.",
+        "context": "Một tiêu chuẩn là những gì mọi người coi là bình thường hoặc tốt.",
+        "ex": "This older model TV is below our store’s standards",
+        "ipaExTrans": "ðɪs ˈəʊldə ˈmɒdl ˌtiːˈviː ɪz bɪˈləʊ ˈaʊə stɔːz ˈstændədz",
+        "exMeaning": "TV model cũ này nằm dưới tiêu chuẩn của cửa hàng của chúng tôi"
+    },
+    {
+        "word": "suggest",
+        "ipa": "səˈʤɛst",
+        "type": "v",
+        "tag": "đề xuất, đề nghị",
+        "meaning": "To suggest something means to give an idea or plan about it",
+        "context": "Đề xuất một cái gì đó có nghĩa là đưa ra một ý tưởng hoặc kế hoạch về nó",
+        "ex": "He suggested that we go to see his boss",
+        "ipaExTrans": "hiː səˈʤɛstɪd ðæt wiː gəʊ tuː siː hɪz bɒs",
+        "exMeaning": "Anh ấy đề nghị chúng tôi đi gặp ông chủ của anh ấy"
+    }
+]

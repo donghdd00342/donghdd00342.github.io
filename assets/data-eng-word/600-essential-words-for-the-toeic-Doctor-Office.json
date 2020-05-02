@@ -1,0 +1,86 @@
+[
+    {
+        "word": "annually",
+        "type": "hàng năm",
+        "ipa": "ˈænjʊəli",
+        "meaning": "(adv) once a year (hàng năm)",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "appointment",
+        "type": "cuộc hẹn",
+        "ipa": "əˈpɔɪntmənt",
+        "meaning": "cuộc hẹn",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "assess",
+        "type": "đánh giá",
+        "ipa": "əˈsɛs",
+        "meaning": "(v) to determine the value or rate of something (tính giá, định giá)",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "diagnose",
+        "type": "chẩn đoán",
+        "ipa": "ˈdaɪəgnəʊz",
+        "meaning": "(v) to recognize a disease; to analyze the nature of something (chuẩn đoán)",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "effective",
+        "type": "có hiệu lực",
+        "ipa": "ɪˈfɛktɪv",
+        "meaning": "(adj) producing the desired effect; being in effect (có hiệu lực, có kết quả)",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "instrument",
+        "type": "dụng cụ",
+        "ipa": "ˈɪnstrʊmənt",
+        "meaning": "(n) a tool for precise work; the mean whereby something is achieved (dụng cụ đo lường, dụng cụ kiểm tra)",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "manage",
+        "type": "quản lý",
+        "ipa": "ˈmænɪʤ",
+        "meaning": "(v) quản lý",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "prevent",
+        "type": "ngăn chặn",
+        "ipa": "prɪˈvɛnt",
+        "meaning": "(v) to keep from happening (ngăn ngừa, ngăn cản)",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "recommendation",
+        "type": "sự giới thiệu",
+        "ipa": "ˌrɛkəmɛnˈdeɪʃən",
+        "meaning": "(n) advice; endorsement",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "record",
+        "type": "ghi lại",
+        "ipa": "ˈrɛkɔːd",
+        "meaning": "(n) kỷ lục, hồ sơ lý lịch",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "refer",
+        "type": "tham khảo",
+        "ipa": "rɪˈfɜː",
+        "meaning": "(v) tham khảo",
+        "tag": "Doctor's Office"
+    },
+    {
+        "word": "serious",
+        "type": "nghiêm trọng",
+        "ipa": "ˈsɪərɪəs",
+        "meaning": "(adj) Nghiêm trọng",
+        "tag": "Doctor's Office"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "word": "wheel",
+        "type": "n",
+        "ipa": "wil",
+        "meaning": "bánh xe",
+        "ex": "He turned back to the wheel, chuckling.",
+        "ipaExTrans": "hiː tɜːnd bæk tuː ðə wiːl, ˈʧʌklɪŋ.",
+        "exMeaning": "Anh quay lại bánh xe, cười khúc khích."
+    },
+    {
+        "word": "when",
+        "type": "adv, pron, conj",
+        "ipa": "wen",
+        "meaning": "khi, lúc, vào lúc nào",
+        "ex": "When she glanced at him, he was eyeing her, a wry smile twisting his lips.",
+        "ipaExTrans": "wɛn ʃiː glɑːnst æt hɪm, hiː wɒz ˈaɪɪŋ hɜː, ə raɪ smaɪl ˈtwɪstɪŋ hɪz lɪps.",
+        "exMeaning": "Khi cô liếc nhìn anh, anh đang nhìn cô, một nụ cười gượng gạo mím chặt môi anh."
+    },
+    {
+        "word": "whenever",
+        "type": "conj",
+        "ipa": "wen'evə",
+        "meaning": "bất cứ lúc nào, lúc nào",
+        "ex": "He snorted whenever he mentioned him.",
+        "ipaExTrans": "hiː ˈsnɔːtɪd wɛnˈɛvə hiː ˈmɛnʃənd hɪm.",
+        "exMeaning": "Anh khịt mũi mỗi khi nhắc đến anh."
+    },
+    {
+        "word": "where",
+        "type": "adv, conj",
+        "ipa": "weər",
+        "meaning": "đâu, ở đâu; nơi mà",
+        "ex": "Was that where his father got all that money?",
+        "ipaExTrans": "wɒz ðæt weə hɪz ˈfɑːðə gɒt ɔːl ðæt ˈmʌni?",
+        "exMeaning": "Đó có phải là nơi cha anh có được tất cả số tiền đó?"
+    },
+    {
+        "word": "whereas",
+        "type": "conj",
+        "ipa": "weə'ræz",
+        "meaning": "nhưng trái lại, trong khi mà"
+    },
+    {
+        "word": "wherever",
+        "type": "conj",
+        "ipa": "weər'evə(r)",
+        "meaning": "ở bất cứ nơi nào, ở bất cứ nơi đâu",
+        "ex": "Wherever you want to go.",
+        "ipaExTrans": "weərˈɛvə juː wɒnt tuː gəʊ.",
+        "exMeaning": "Bất cứ nơi nào bạn muốn đi."
+    },
+    {
+        "word": "whether",
+        "type": "conj",
+        "ipa": "́weðə",
+        "meaning": "có..không; có... chăng; không biết có.. không",
+        "ex": "Whether we want to admit it or not, we all wish everyone would like us.",
+        "ipaExTrans": "ˈwɛðə wiː wɒnt tuː ədˈmɪt ɪt ɔː nɒt, wiː ɔːl wɪʃ ˈɛvrɪwʌn wʊd laɪk ʌs.",
+        "exMeaning": "Cho dù chúng tôi có muốn thừa nhận hay không, tất cả chúng tôi đều mong muốn mọi người sẽ thích chúng tôi."
+    },
+    {
+        "word": "which",
+        "type": "n, det, pro",
+        "ipa": "witʃ",
+        "meaning": "nào, bất cứ.. nào; ấy, đó",
+        "ex": "All of which was beside the point.",
+        "ipaExTrans": "ɔːl ɒv wɪʧ wɒz bɪˈsaɪd ðə pɔɪnt.",
+        "exMeaning": "Tất cả đều bên cạnh quan điểm."
+    },
+    {
+        "word": "while",
+        "type": "n, conj",
+        "ipa": "wail",
+        "meaning": "trong lúc, trong khi; lúc, chốc, lát",
+        "ex": "I don't want you to drive while you're so tired.",
+        "ipaExTrans": "aɪ dəʊnt wɒnt juː tuː draɪv waɪl jʊə səʊ ˈtaɪəd.",
+        "exMeaning": "Tôi không muốn bạn lái xe trong khi bạn quá mệt mỏi."
+    },
+    {
+        "word": "whilst",
+        "type": "conj",
+        "ipa": "wailst",
+        "meaning": "trong lúc, trong khi",
+        "ex": "She didn't want to talk whilst I was there, figuring maybe the line was tapped or something.",
+        "ipaExTrans": "ʃiː dɪdnt wɒnt tuː tɔːk waɪlst aɪ wɒz ðeə, ˈfɪgərɪŋ ˈmeɪbiː ðə laɪn wɒz tæpt ɔː ˈsʌmθɪŋ.",
+        "exMeaning": "Cô ấy không muốn nói chuyện trong khi tôi ở đó, hình dung có lẽ đường dây đã bị gõ hay gì đó."
+    },
+    {
+        "word": "whisper",
+        "type": "v, n",
+        "ipa": "́wispə",
+        "meaning": "nói thì thầm, xì xào; tiếng nói thì thầm, tiếng xì xào",
+        "ex": "His whisper turned to a roar.",
+        "ipaExTrans": "hɪz ˈwɪspə tɜːnd tuː ə rɔː.",
+        "exMeaning": "Tiếng thì thầm của anh biến thành tiếng gầm."
+    },
+    {
+        "word": "whistle",
+        "type": "n, v",
+        "ipa": "wisl",
+        "meaning": "sự huýt sáo, sự thổi còi; huýt sáo, thổi còi",
+        "ex": "He let out a long whistle at the doorway.",
+        "ipaExTrans": "hiː lɛt aʊt ə lɒŋ ˈwɪsl æt ðə ˈdɔːweɪ.",
+        "exMeaning": "Anh ta huýt sáo dài ở ngưỡng cửa."
+    },
+    {
+        "word": "white",
+        "type": "adj, n",
+        "ipa": "wai:t",
+        "meaning": "trắng; màu trắng",
+        "ex": "Not a worry in the world but a little white ball.",
+        "ipaExTrans": "nɒt ə ˈwʌri ɪn ðə wɜːld bʌt ə ˈlɪtl waɪt bɔːl.",
+        "exMeaning": "Không phải là một lo lắng trên thế giới nhưng một chút bóng trắng."
+    },
+    {
+        "word": "who",
+        "type": "n, pro",
+        "ipa": "hu:",
+        "meaning": "ai, người nào, kẻ nào, người như thế nào",
+        "ex": "The boy who sat beside him was his son.",
+        "ipaExTrans": "ðə bɔɪ huː sæt bɪˈsaɪd hɪm wɒz hɪz sʌn.",
+        "exMeaning": "Chàng trai ngồi cạnh anh là con trai anh."
+    },
+    {
+        "word": "whoever",
+        "type": "n, pro",
+        "ipa": "hu:'ev",
+        "meaning": "ai, người nào, bất cứ ai, bất cứ người nào, dù ai",
+        "ex": "I'll buy it from whoever owns it.",
+        "ipaExTrans": "aɪl baɪ ɪt frɒm hu(ː)ˈɛvər əʊnz ɪt.",
+        "exMeaning": "Tôi sẽ mua nó từ bất cứ ai sở hữu nó."
+    },
+    {
+        "word": "whole",
+        "type": "adj, n",
+        "ipa": "həʊl",
+        "meaning": "bình an vô sự, không suy suyển, không hư hỏng; toàn bộ, tất cả, toàn thể",
+        "ex": "I wish the whole world were like that!",
+        "ipaExTrans": "aɪ wɪʃ ðə həʊl wɜːld wɜː laɪk ðæt!",
+        "exMeaning": "Tôi ước cả thế giới đều như vậy!"
+    },
+    {
+        "word": "whom",
+        "type": "n, pro",
+        "ipa": "hu:m",
+        "meaning": "ai, người nào; người mà",
+        "ex": "Actually, she knew very little about the man with whom she had promised to spend the summer.",
+        "ipaExTrans": "ˈækʧʊəli, ʃiː njuː ˈvɛri ˈlɪtl əˈbaʊt ðə mæn wɪð huːm ʃiː hæd ˈprɒmɪst tuː spɛnd ðə ˈsʌmə.",
+        "exMeaning": "Thật ra, cô biết rất ít về người đàn ông mà cô đã hứa sẽ trải qua mùa hè."
+    },
+    {
+        "word": "whose",
+        "type": "n, det, pro",
+        "ipa": "hu:z",
+        "meaning": "của ai",
+        "ex": "Whose goals are we talking about here, mine or yours?",
+        "ipaExTrans": "huːz gəʊlz ɑː wiː ˈtɔːkɪŋ əˈbaʊt hɪə, maɪn ɔː jɔːz?",
+        "exMeaning": "Chúng ta đang nói về mục tiêu của ai đây, của tôi hay của bạn?"
+    },
+    {
+        "word": "why",
+        "type": "adv",
+        "ipa": "wai",
+        "meaning": "tại sao, vì sao",
+        "ex": "Why would she want to do that?",
+        "ipaExTrans": "waɪ wʊd ʃiː wɒnt tuː duː ðæt?",
+        "exMeaning": "Tại sao cô ấy muốn làm điều đó?"
+    },
+    {
+        "word": "wide",
+        "type": "adj",
+        "ipa": "waid",
+        "meaning": "rộng, rộng lớn",
+        "ex": "For a long time she lay wide awake with her eyes closed.",
+        "ipaExTrans": "fɔːr ə lɒŋ taɪm ʃiː leɪ waɪd əˈweɪk wɪð hɜːr aɪz kləʊzd.",
+        "exMeaning": "Trong một thời gian dài, cô nằm thức dậy với đôi mắt nhắm nghiền."
+    },
+    {
+        "word": "widely",
+        "type": "adv",
+        "ipa": "́waidli",
+        "meaning": "nhiều, xa; rộng rãi",
+        "ex": "Megan looked ready to laugh but smiled widely instead.",
+        "ipaExTrans": "ˈmɛgən lʊkt ˈrɛdi tuː lɑːf bʌt smaɪld ˈwaɪdli ɪnˈstɛd.",
+        "exMeaning": "Megan trông có vẻ sẵn sàng để cười nhưng thay vào đó lại mỉm cười rộng rãi."
+    },
+    {
+        "word": "width",
+        "type": "n",
+        "ipa": "wɪdθ; wɪtθ",
+        "meaning": "tính chất rộng, bề rộng",
+        "ex": "wide, the Bafing at this point having a width of 360 ft.",
+        "ipaExTrans": "waɪd, ðə Bafing æt ðɪs pɔɪnt ˈhævɪŋ ə wɪdθ ɒv 360 ft.",
+        "exMeaning": "rộng, Bafing tại điểm này có chiều rộng 360 ft."
+    },
+    {
+        "word": "wife",
+        "type": "n",
+        "ipa": "waif",
+        "meaning": "vợ",
+        "ex": "My wife looked up from her lap top.",
+        "ipaExTrans": "maɪ waɪf lʊkt ʌp frɒm hɜː læp tɒp.",
+        "exMeaning": "Vợ tôi nhìn lên từ trên đùi."
+    },
+    {
+        "word": "wild",
+        "type": "adj",
+        "ipa": "waɪld",
+        "meaning": "dại, hoang",
+        "ex": "He couldn't help but detect her wild pulse.",
+        "ipaExTrans": "hiː ˈkʊdnt hɛlp bʌt dɪˈtɛkt hɜː waɪld pʌls.",
+        "exMeaning": "Anh không thể không phát hiện mạch đập của cô."
+    },
+    {
+        "word": "wildly",
+        "type": "adv",
+        "ipa": "waɪldli",
+        "meaning": "dại, hoang",
+        "ex": "The rain drummed wildly on the roof.",
+        "ipaExTrans": "ðə reɪn drʌmd ˈwaɪldli ɒn ðə ruːf.",
+        "exMeaning": "Cơn mưa ầm ầm trên mái nhà."
+    },
+    {
+        "word": "will",
+        "type": "v, n, modal",
+        "ipa": "wil",
+        "meaning": "sẽ; ý chí, ý định",
+        "ex": "If the people of Boston must fight for their liberty, we will help them.",
+        "ipaExTrans": "ɪf ðə ˈpiːpl ɒv ˈbɒstən mʌst faɪt fɔː ðeə ˈlɪbəti, wiː wɪl hɛlp ðɛm.",
+        "exMeaning": "Nếu người dân Boston phải chiến đấu vì tự do của họ, chúng tôi sẽ giúp họ."
+    },
+    {
+        "word": "willing",
+        "type": "adj",
+        "ipa": "́wiliη",
+        "meaning": "bằng lòng, vui lòng, muốn",
+        "ex": "I'm willing to give it a try.",
+        "ipaExTrans": "aɪm ˈwɪlɪŋ tuː gɪv ɪt ə traɪ.",
+        "exMeaning": "Tôi sẵn sàng thử."
+    },
+    {
+        "word": "willingly",
+        "type": "adv",
+        "ipa": "wiliηli",
+        "meaning": "sẵn lòng, tự nguyện",
+        "ex": "She hadn't discussed anything with him willingly so far.",
+        "ipaExTrans": "ʃiː ˈhædnt dɪsˈkʌst ˈɛnɪθɪŋ wɪð hɪm ˈwɪlɪŋli səʊ fɑː.",
+        "exMeaning": "Cô đã không thảo luận bất cứ điều gì với anh ta cho đến nay."
+    },
+    {
+        "word": "willingness",
+        "type": "n",
+        "ipa": "́wiliηnis",
+        "meaning": "sự bằng lòng, sự vui lòng",
+        "ex": "The next step was informing Mr. Cooms of our willingness to proceed with his offer.",
+        "ipaExTrans": "ðə nɛkst stɛp wɒz ɪnˈfɔːmɪŋ Mr. Cooms ɒv ˈaʊə ˈwɪlɪŋnɪs tuː prəˈsiːd wɪð hɪz ˈɒfə.",
+        "exMeaning": "Bước tiếp theo là thông báo cho ông Cooms về sự sẵn lòng của chúng tôi để tiến hành với đề nghị của ông."
+    },
+    {
+        "word": "win",
+        "type": "v",
+        "ipa": "win",
+        "meaning": "chiếm, đọat, thu được",
+        "ex": "I only want to see whether you will let me win this ten, or beat it.",
+        "ipaExTrans": "aɪ ˈəʊnli wɒnt tuː siː ˈwɛðə juː wɪl lɛt miː wɪn ðɪs tɛn, ɔː biːt ɪt.",
+        "exMeaning": "Tôi chỉ muốn xem liệu bạn sẽ cho phép tôi giành được mười, hoặc đánh bại nó."
+    },
+    {
+        "word": "wind",
+        "type": "v",
+        "ipa": "wind",
+        "meaning": "quấn lại, cuộn lại. wind sth up: lên dây, quấn, giải quyết",
+        "ex": "After sunset the wind had dropped.",
+        "ipaExTrans": "ˈɑːftə ˈsʌnsɛt ðə wɪnd hæd drɒpt.",
+        "exMeaning": "Sau khi mặt trời lặn gió đã buông."
+    },
+    {
+        "word": "window",
+        "type": "n",
+        "ipa": "windəʊ",
+        "meaning": "cửa sổ",
+        "ex": "She glanced out the window, still smiling.",
+        "ipaExTrans": "ʃiː glɑːnst aʊt ðə ˈwɪndəʊ, stɪl ˈsmaɪlɪŋ.",
+        "exMeaning": "Cô liếc ra ngoài cửa sổ, vẫn mỉm cười."
+    },
+    {
+        "word": "wine",
+        "type": "n",
+        "ipa": "wain",
+        "meaning": "rượu, đồ uống",
+        "ex": "He finished a couple of bottles of wine by himself.",
+        "ipaExTrans": "hiː ˈfɪnɪʃt ə ˈkʌpl ɒv ˈbɒtlz ɒv waɪn baɪ hɪmˈsɛlf.",
+        "exMeaning": "Anh tự mình uống xong vài chai rượu."
+    },
+    {
+        "word": "wing",
+        "type": "n",
+        "ipa": "wiη",
+        "meaning": "cánh, sự bay, sự cất cánh",
+        "ex": "- Bones of Fowl's right wing, adult, nat.",
+        "ipaExTrans": "- bəʊnz ɒv faʊlz raɪt wɪŋ, ˈædʌlt, nat.",
+        "exMeaning": "- Xương cánh phải của Fowl, người lớn, nat."
+    },
+    {
+        "word": "winner",
+        "type": "n",
+        "ipa": "winər",
+        "meaning": "người thắng cuộc",
+        "ex": "Winner takes all, she said, backing away.",
+        "ipaExTrans": "ˈwɪnə teɪks ɔːl, ʃiː sɛd, ˈbækɪŋ əˈweɪ.",
+        "exMeaning": "Người chiến thắng lấy tất cả, cô nói, lùi lại."
+    },
+    {
+        "word": "winning",
+        "type": "adj",
+        "ipa": "́winiη",
+        "meaning": "đang dành thắng lợi, thắng cuộc",
+        "ex": "I've been winning up until today, she said.",
+        "ipaExTrans": "aɪv biːn ˈwɪnɪŋ ʌp ənˈtɪl təˈdeɪ, ʃiː sɛd.",
+        "exMeaning": "Tôi đã chiến thắng cho đến hôm nay, cô nói."
+    },
+    {
+        "word": "winter",
+        "type": "n",
+        "ipa": "ˈwɪntər",
+        "meaning": "mùa đông",
+        "ex": "Remember last winter? she sniffed.",
+        "ipaExTrans": "rɪˈmɛmbə lɑːst ˈwɪntə? ʃiː snɪft.",
+        "exMeaning": "Nhớ mùa đông năm ngoái? Cô sụt sịt."
+    },
+    {
+        "word": "wire",
+        "type": "n",
+        "ipa": "waiə",
+        "meaning": "dây (kim loại)",
+        "ex": "The coils are wound with copper wire (covered with silk), 10 mils.",
+        "ipaExTrans": "ðə kɔɪlz ɑː wuːnd wɪð ˈkɒpə ˈwaɪə (ˈkʌvəd wɪð sɪlk), 10 mɪlz.",
+        "exMeaning": "Các cuộn dây được quấn bằng dây đồng (phủ lụa), 10 triệu."
+    },
+    {
+        "word": "wise",
+        "type": "adj",
+        "ipa": "waiz",
+        "meaning": "khôn ngoan, sáng suốt, thông thái",
+        "ex": "Sarah studied the situation with wise eyes.",
+        "ipaExTrans": "ˈseərə ˈstʌdɪd ðə ˌsɪtjʊˈeɪʃən wɪð waɪz aɪz.",
+        "exMeaning": "Sarah nghiên cứu tình huống bằng con mắt khôn ngoan."
+    },
+    {
+        "word": "wish",
+        "type": "v, n",
+        "ipa": "wi∫",
+        "meaning": "ước, mong muốn; sự mong ước, lòng mong muốn",
+        "ex": "I wish you had called me.",
+        "ipaExTrans": "aɪ wɪʃ juː hæd kɔːld miː.",
+        "exMeaning": "Tôi ước bạn đã gọi cho tôi."
+    },
+    {
+        "word": "with",
+        "type": "prep",
+        "ipa": "wið",
+        "meaning": "với, cùng",
+        "ex": "How long will you be with us? he asked.",
+        "ipaExTrans": "haʊ lɒŋ wɪl juː biː wɪð ʌs? hiː ɑːskt.",
+        "exMeaning": "Bạn sẽ ở bên chúng tôi bao lâu? anh ấy hỏi."
+    },
+    {
+        "word": "withdraw",
+        "type": "v",
+        "ipa": "wɪðˈdrɔ , wɪθˈdrɔ",
+        "meaning": "rút, rút khỏi, rút lui",
+        "ex": "Keep it up and I might decide to withdraw my invitation.",
+        "ipaExTrans": "kiːp ɪt ʌp ænd aɪ maɪt dɪˈsaɪd tuː wɪðˈdrɔː maɪ ˌɪnvɪˈteɪʃən.",
+        "exMeaning": "Giữ nó và tôi có thể quyết định rút lại lời mời của tôi."
+    },
+    {
+        "word": "within",
+        "type": "prep",
+        "ipa": "wið ́in",
+        "meaning": "trong vong thời gian, trong khoảng thời gian",
+        "ex": "Within seconds, she was drenched.",
+        "ipaExTrans": "wɪˈðɪn ˈsɛkəndz, ʃiː wɒz drɛnʧt.",
+        "exMeaning": "Trong vài giây, cô ướt đẫm."
+    },
+    {
+        "word": "without",
+        "type": "prep",
+        "ipa": "wɪðˈaʊt , wɪθaʊt",
+        "meaning": "không, không có",
+        "ex": "When he continued to watch her without response, she sighed.",
+        "ipaExTrans": "wɛn hiː kənˈtɪnju(ː)d tuː wɒʧ hɜː wɪˈðaʊt rɪsˈpɒns, ʃiː saɪd.",
+        "exMeaning": "Khi anh tiếp tục nhìn cô mà không có phản ứng, cô thở dài."
+    },
+    {
+        "word": "witness",
+        "type": "n, v",
+        "ipa": "witnis",
+        "meaning": "sự làm chứng, bằng chứng; chứng kiến, làm chứng",
+        "ex": "No one is forcing you to witness that stuff!",
+        "ipaExTrans": "nəʊ wʌn ɪz ˈfɔːsɪŋ juː tuː ˈwɪtnɪs ðæt stʌf!",
+        "exMeaning": "Không ai buộc bạn phải chứng kiến ​​những thứ đó!"
+    },
+    {
+        "word": "woman",
+        "type": "n",
+        "ipa": "wʊmən",
+        "meaning": "đàn bà, phụ nữ",
+        "ex": "A woman has a right to protect herself – any way she can.",
+        "ipaExTrans": "ə ˈwʊmən hæz ə raɪt tuː prəˈtɛkt hɜːˈsɛlf – ˈɛni weɪ ʃiː kæn.",
+        "exMeaning": "Một người phụ nữ có quyền tự bảo vệ mình - bằng mọi cách có thể."
+    },
+    {
+        "word": "wonder",
+        "type": "v",
+        "ipa": "wʌndə",
+        "meaning": "ngạc nhiên, lấy làm lạ, kinh ngạc",
+        "ex": "I wonder if this is how he felt, he mused to himself.",
+        "ipaExTrans": "aɪ ˈwʌndər ɪf ðɪs ɪz haʊ hiː fɛlt, hiː mjuːzd tuː hɪmˈsɛlf.",
+        "exMeaning": "Tôi tự hỏi nếu đây là cảm giác của anh ấy, anh ấy trầm ngâm với chính mình."
+    },
+    {
+        "word": "wonderful",
+        "type": "adj",
+        "ipa": "́wʌndəful",
+        "meaning": "phi thường, khác thường, kỳ diệu, tuyệt vời",
+        "ex": "He was such a wonderful person in so many ways.",
+        "ipaExTrans": "hiː wɒz sʌʧ ə ˈwʌndəfʊl ˈpɜːsn ɪn səʊ ˈmɛni weɪz.",
+        "exMeaning": "Ông là một người tuyệt vời theo nhiều cách."
+    },
+    {
+        "word": "wood",
+        "type": "n",
+        "ipa": "wud",
+        "meaning": "gỗ",
+        "ex": "We've got plenty of wood, though, from the forest.",
+        "ipaExTrans": "wiːv gɒt ˈplɛnti ɒv wʊd, ðəʊ, frɒm ðə ˈfɒrɪst.",
+        "exMeaning": "Chúng tôi đã có rất nhiều gỗ, mặc dù, từ rừng."
+    },
+    {
+        "word": "wooden",
+        "type": "adj",
+        "ipa": "́wudən",
+        "meaning": "làm bằng gỗ",
+        "ex": "It replaced an old wooden one that burned.",
+        "ipaExTrans": "ɪt rɪˈpleɪst ən əʊld ˈwʊdn wʌn ðæt bɜːnd.",
+        "exMeaning": "Nó thay thế một cái gỗ cũ bị đốt cháy."
+    },
+    {
+        "word": "wool",
+        "type": "n",
+        "ipa": "wul",
+        "meaning": "len",
+        "ex": "Wool grows on sheep.",
+        "ipaExTrans": "wʊl grəʊz ɒn ʃiːp.",
+        "exMeaning": "Len mọc trên cừu."
+    },
+    {
+        "word": "work",
+        "type": "v, n",
+        "ipa": "wɜ:k",
+        "meaning": "làm việc, sự làm việc",
+        "ex": "It did work this morning.",
+        "ipaExTrans": "ɪt dɪd wɜːk ðɪs ˈmɔːnɪŋ.",
+        "exMeaning": "Nó đã làm việc sáng nay."
+    },
+    {
+        "word": "worker",
+        "type": "n",
+        "ipa": "wə:kə",
+        "meaning": "người lao động",
+        "ex": "Worker Chad lives in Chattanooga.",
+        "ipaExTrans": "ˈwɜːkə ʧæd lɪvz ɪn Chattanooga.",
+        "exMeaning": "Công nhân Chad sống ở Chattanooga."
+    },
+    {
+        "word": "working",
+        "type": "adj",
+        "ipa": "́wə:kiη",
+        "meaning": "sự làm, sự làm việc",
+        "ex": "She's working at the hospital to pay for her education.",
+        "ipaExTrans": "ʃiːz ˈwɜːkɪŋ æt ðə ˈhɒspɪtl tuː peɪ fɔː hɜːr ˌɛdju(ː)ˈkeɪʃən.",
+        "exMeaning": "Cô ấy đang làm việc tại bệnh viện để trả tiền học phí."
+    },
+    {
+        "word": "world",
+        "type": "n",
+        "ipa": "wɜ:ld",
+        "meaning": "thế giới",
+        "ex": "There's a world of good you could perform.",
+        "ipaExTrans": "ðeəz ə wɜːld ɒv gʊd juː kʊd pəˈfɔːm.",
+        "exMeaning": "Có một thế giới tốt đẹp mà bạn có thể thực hiện."
+    },
+    {
+        "word": "worried",
+        "type": "adj",
+        "ipa": "́wʌrid",
+        "meaning": "bồn chồn, lo nghĩ, tỏ ra lo lắng.",
+        "ex": "He won't go see a doctor, and Mom's worried about him.",
+        "ipaExTrans": "hiː wəʊnt gəʊ siː ə ˈdɒktə, ænd mɒmz ˈwʌrid əˈbaʊt hɪm.",
+        "exMeaning": "Anh ấy sẽ không đi gặp bác sĩ và mẹ lo lắng cho anh ấy."
+    },
+    {
+        "word": "worry",
+        "type": "v, n",
+        "ipa": "wʌri",
+        "meaning": "lo lắng, suy nghĩ; sự lo lắng, suy nghĩ",
+        "ex": "Don't worry; everything will work out fine.",
+        "ipaExTrans": "dəʊnt ˈwʌri; ˈɛvrɪθɪŋ wɪl wɜːk aʊt faɪn.",
+        "exMeaning": "Đừng lo lắng; mọi thứ sẽ diễn ra tốt đẹp"
+    },
+    {
+        "word": "worrying",
+        "type": "adj",
+        "ipa": "́wʌriiη",
+        "meaning": "gây lo lắng, gây lo nghĩ",
+        "ex": "Will you stop worrying about me?",
+        "ipaExTrans": "wɪl juː stɒp ˈwʌriɪŋ əˈbaʊt miː?",
+        "exMeaning": "Bạn sẽ ngừng lo lắng về tôi?"
+    },
+    {
+        "word": "worse, worst, bad",
+        "meaning": "xấu",
+        "ex": "It was the worse news I could hear.",
+        "ipaExTrans": "ɪt wɒz ðə wɜːs njuːz aɪ kʊd hɪə.",
+        "exMeaning": "Đó là tin tức tồi tệ hơn tôi có thể nghe."
+    },
+    {
+        "word": "worship",
+        "type": "n, v",
+        "ipa": "ˈwɜrʃɪp",
+        "meaning": "sự tôn thờ, sự tôn sùng; thờ, thờ phụng, tôn thờ",
+        "ex": "His men worship him.",
+        "ipaExTrans": "hɪz mɛn ˈwɜːʃɪp hɪm.",
+        "exMeaning": "Người đàn ông của anh ta tôn thờ anh ta."
+    },
+    {
+        "word": "worth",
+        "type": "adj",
+        "ipa": "wɜrθ",
+        "meaning": "đáng giá, có giá trị",
+        "ex": "That was worth the wait.",
+        "ipaExTrans": "ðæt wɒz wɜːθ ðə weɪt.",
+        "exMeaning": "Đó là giá trị chờ đợi."
+    },
+    {
+        "word": "would",
+        "type": "v, modal",
+        "ipa": "wud",
+        "meaning": "sẽ",
+        "ex": "Would you like to read his speech?",
+        "ipaExTrans": "wʊd juː laɪk tuː riːd hɪz spiːʧ?",
+        "exMeaning": "Bạn có muốn đọc bài phát biểu của anh ấy?"
+    },
+    {
+        "word": "wound",
+        "type": "n, v",
+        "ipa": "waund",
+        "meaning": "vết thương, thương tích; làm bị thường, gây thương tích",
+        "ex": "The wound healed itself.",
+        "ipaExTrans": "ðə wuːnd hiːld ɪtˈsɛlf.",
+        "exMeaning": "Vết thương tự lành."
+    },
+    {
+        "word": "wounded",
+        "type": "adj",
+        "ipa": "wu:ndid",
+        "meaning": "bị thương",
+        "ex": "Ingrid was wounded again.",
+        "ipaExTrans": "Ingrid wɒz ˈwuːndɪd əˈgɛn.",
+        "exMeaning": "Ingrid bị thương một lần nữa."
+    },
+    {
+        "word": "wrap",
+        "type": "v",
+        "ipa": "ræp",
+        "meaning": "gói, bọc, quấn",
+        "ex": "I'm trying to wrap up everything as fast as I can, Logan said.",
+        "ipaExTrans": "aɪm ˈtraɪɪŋ tuː ræp ʌp ˈɛvrɪθɪŋ æz fɑːst æz aɪ kæn, ˈləʊgən sɛd.",
+        "exMeaning": "Tôi đang cố gắng kết thúc mọi thứ nhanh nhất có thể, Logan nói."
+    },
+    {
+        "word": "wrapping",
+        "type": "n",
+        "ipa": "ræpiɳ",
+        "meaning": "vật bao bọc, vật quấn quanh",
+        "ex": "Carmen continued wrapping gifts and didn't comment.",
+        "ipaExTrans": "ˈkɑːmən kənˈtɪnju(ː)d ˈræpɪŋ gɪfts ænd dɪdnt ˈkɒmɛnt.",
+        "exMeaning": "Carmen tiếp tục gói quà và không bình luận."
+    },
+    {
+        "word": "wrist",
+        "type": "n",
+        "ipa": "rist",
+        "meaning": "cổ tay",
+        "ex": "She sprayed the perfume on her wrist and coughed.",
+        "ipaExTrans": "ʃiː spreɪd ðə ˈpɜːfjuːm ɒn hɜː rɪst ænd kɒft.",
+        "exMeaning": "Cô xịt nước hoa lên cổ tay và ho."
+    },
+    {
+        "word": "write",
+        "type": "v",
+        "ipa": "rait",
+        "meaning": "viết",
+        "ex": "I'll write something every day.",
+        "ipaExTrans": "aɪl raɪt ˈsʌmθɪŋ ˈɛvri deɪ.",
+        "exMeaning": "Tôi sẽ viết một cái gì đó mỗi ngày."
+    },
+    {
+        "word": "writer",
+        "type": "n",
+        "ipa": "raitə",
+        "meaning": "người viết",
+        "ex": "Surely the writer must become as a little child to see things like that.",
+        "ipaExTrans": "ˈʃʊəli ðə ˈraɪtə mʌst bɪˈkʌm æz ə ˈlɪtl ʧaɪld tuː siː θɪŋz laɪk ðæt.",
+        "exMeaning": "Chắc chắn nhà văn phải trở thành một đứa trẻ nhỏ để thấy những thứ như thế."
+    },
+    {
+        "word": "writing",
+        "type": "n",
+        "ipa": "́raitiη",
+        "meaning": "sự viết",
+        "ex": "Are you writing a book?",
+        "ipaExTrans": "ɑː juː ˈraɪtɪŋ ə bʊk?",
+        "exMeaning": "Bạn đang viết một cuốn sách?"
+    },
+    {
+        "word": "written",
+        "type": "adj",
+        "ipa": "ritn",
+        "meaning": "viết ra, được thảo ra",
+        "ex": "It is a little speech that I have written for him.",
+        "ipaExTrans": "ɪt ɪz ə ˈlɪtl spiːʧ ðæt aɪ hæv ˈrɪtn fɔː hɪm.",
+        "exMeaning": "Đó là một bài phát biểu nhỏ mà tôi đã viết cho anh ấy."
+    },
+    {
+        "word": "wrong",
+        "type": "adj, adv",
+        "ipa": "rɔɳ",
+        "meaning": "sai. go wrong mắc lỗi, sai lầm",
+        "ex": "I can neither punish him if he does wrong nor reward him if he does right.",
+        "ipaExTrans": "aɪ kæn ˈnaɪðə ˈpʌnɪʃ hɪm ɪf hiː dʌz rɒŋ nɔː rɪˈwɔːd hɪm ɪf hiː dʌz raɪt.",
+        "exMeaning": "Tôi không thể trừng phạt anh ta nếu anh ta làm sai hay thưởng cho anh ta nếu anh ta làm đúng."
+    },
+    {
+        "word": "wrongly",
+        "type": "adv",
+        "ipa": "́rɔηgli",
+        "meaning": "một cách bất công, không đúng",
+        "ex": "Vauban's Dime royale was formerly wrongly attributed to him.",
+        "ipaExTrans": "Vauban's daɪm royale wɒz ˈfɔːməli ˈrɒŋli əˈtrɪbjuːtɪd tuː hɪm.",
+        "exMeaning": "Doy royale của Vauban trước đây được quy cho là sai."
+    },
+    {
+        "word": "yard",
+        "type": "n",
+        "ipa": "ja:d",
+        "meaning": "sân, thước Anh (bằng 0, 914 mét)",
+        "ex": "Len pulled the truck into the yard and stopped.",
+        "ipaExTrans": "Len pʊld ðə trʌk ˈɪntuː ðə jɑːd ænd stɒpt.",
+        "exMeaning": "Len kéo chiếc xe tải vào sân và dừng lại."
+    },
+    {
+        "word": "yawn",
+        "type": "v, n",
+        "ipa": "jɔ:n",
+        "meaning": "há miệng; cử chỉ ngáp",
+        "ex": "Dean asked with a yawn as the night caught up with him.",
+        "ipaExTrans": "diːn ɑːskt wɪð ə jɔːn æz ðə naɪt kɔːt ʌp wɪð hɪm.",
+        "exMeaning": "Dean hỏi với một cái ngáp khi màn đêm bắt kịp anh ta."
+    },
+    {
+        "word": "yeah",
+        "type": "exclamation",
+        "ipa": "jeə",
+        "meaning": "vâng, ư",
+        "ex": "So yeah, if you told them to choose between working and not working, many would choose to relax.",
+        "ipaExTrans": "səʊ jeə, ɪf juː təʊld ðɛm tuː ʧuːz bɪˈtwiːn ˈwɜːkɪŋ ænd nɒt ˈwɜːkɪŋ, ˈmɛni wʊd ʧuːz tuː rɪˈlæks.",
+        "exMeaning": "Vì vậy, vâng, nếu bạn bảo họ chọn giữa làm việc và không làm việc, nhiều người sẽ chọn thư giãn."
+    },
+    {
+        "word": "year",
+        "type": "n",
+        "ipa": "jə:",
+        "meaning": "năm",
+        "ex": "Each year a payment is made to each resident of Alaska.",
+        "ipaExTrans": "iːʧ jɪər ə ˈpeɪmənt ɪz meɪd tuː iːʧ ˈrɛzɪdənt ɒv əˈlæskə.",
+        "exMeaning": "Mỗi năm một khoản thanh toán được thực hiện cho mỗi cư dân của Alaska."
+    },
+    {
+        "word": "yellow",
+        "type": "adj, n",
+        "ipa": "jelou",
+        "meaning": "vàng; màu vàng",
+        "ex": "One of the yellow portals beckoned her.",
+        "ipaExTrans": "wʌn ɒv ðə ˈjɛləʊ ˈpɔːtlz ˈbɛkənd hɜː.",
+        "exMeaning": "Một trong những cánh cổng màu vàng vẫy gọi cô."
+    },
+    {
+        "word": "yes",
+        "type": "n, exclamation",
+        "ipa": "jes",
+        "meaning": "vâng, phải, có chứ",
+        "ex": "Yes, but I don't have time.",
+        "ipaExTrans": "jɛs, bʌt aɪ dəʊnt hæv taɪm.",
+        "exMeaning": "Có, nhưng tôi không có thời gian."
+    },
+    {
+        "word": "yesterday",
+        "type": "adv, n",
+        "ipa": "jestədei",
+        "meaning": "hôm qua",
+        "ex": "It is a beautiful day, but yesterday it was cold.",
+        "ipaExTrans": "ɪt ɪz ə ˈbjuːtəfʊl deɪ, bʌt ˈjɛstədeɪ ɪt wɒz kəʊld.",
+        "exMeaning": "Đó là một ngày đẹp trời, nhưng hôm qua trời lạnh."
+    },
+    {
+        "word": "yet",
+        "type": "adv, conj",
+        "ipa": "yet",
+        "meaning": "còn, hãy cỏn, còn nữa; như mà, xong, tuy thế, tuy nhiên",
+        "ex": "It was early, yet we were all ready for bed after our long hike.",
+        "ipaExTrans": "ɪt wɒz ˈɜːli, jɛt wiː wɜːr ɔːl ˈrɛdi fɔː bɛd ˈɑːftər ˈaʊə lɒŋ haɪk.",
+        "exMeaning": "Đó là sớm, nhưng tất cả chúng tôi đã sẵn sàng để đi ngủ sau chuyến đi dài của chúng tôi."
+    },
+    {
+        "word": "you",
+        "type": "pron",
+        "ipa": "ju:",
+        "meaning": "anh, chị, ông, bà, ngài, ngươi, mày; các anh, các chị, các ông, các bà, các ngài, các người, chúng mày",
+        "ex": "I love you so much.",
+        "ipaExTrans": "aɪ lʌv juː səʊ mʌʧ.",
+        "exMeaning": "Anh yêu em rất nhiều."
+    },
+    {
+        "word": "young",
+        "type": "adj",
+        "ipa": "jʌɳ",
+        "meaning": "trẻ, trẻ tuổi, thanh niên",
+        "ex": "The young girl ran off without a word.",
+        "ipaExTrans": "ðə jʌŋ gɜːl ræn ɒf wɪˈðaʊt ə wɜːd.",
+        "exMeaning": "Cô gái trẻ chạy đi không nói một lời."
+    },
+    {
+        "word": "your",
+        "type": "det",
+        "ipa": "jo:",
+        "meaning": "của anh, của chị, của ngài, của mày; của các anh, của các chị, của các ngài, của chúng mày",
+        "ex": "What is your father's name?",
+        "ipaExTrans": "wɒt ɪz jɔː ˈfɑːðəz neɪm?",
+        "exMeaning": "Tên bố bạn là gì?"
+    },
+    {
+        "word": "yours",
+        "type": "n, pro",
+        "ipa": "jo:z",
+        "meaning": "cái của anh, cái của chị, cái của ngài, cái của mày; cái của các anh, cái của các chị, cái của các ngài, cái của chúng mày",
+        "ex": "Is this yours, Mrs. Barnett?",
+        "ipaExTrans": "ɪz ðɪs jɔːz, Mrs. Barnett?",
+        "exMeaning": "Đây có phải của bạn không, bà Barnett?"
+    },
+    {
+        "word": "Yours sincerely",
+        "meaning": "bạn chân thành của anh, chị.. (viết ở cuối thư)"
+    },
+    {
+        "word": "Yours Truly",
+        "meaning": "lời kết thúc thư (bạn chân thành của...)"
+    },
+    {
+        "word": "yourself",
+        "type": "pron",
+        "ipa": "jɔ:'self",
+        "meaning": "tự anh, tự chị, chính anh, chính mày, tự mày, tự mình",
+        "ex": "I wish you could hear yourself talking.",
+        "ipaExTrans": "aɪ wɪʃ juː kʊd hɪə jɔːˈsɛlf ˈtɔːkɪŋ.",
+        "exMeaning": "Tôi ước bạn có thể nghe chính mình nói chuyện."
+    },
+    {
+        "word": "youth",
+        "type": "n",
+        "ipa": "ju:θ",
+        "meaning": "tuổi trẻ, tuổi xuân, tuổi thanh niên, tuổi niên thiếu",
+        "ex": "Most girls wanted to be a princess at some point in their youth, though she couldn't specifically remember that wish.",
+        "ipaExTrans": "məʊst gɜːlz ˈwɒntɪd tuː biː ə prɪnˈsɛs æt sʌm pɔɪnt ɪn ðeə juːθ, ðəʊ ʃiː ˈkʊdnt spəˈsɪfɪk(ə)li rɪˈmɛmbə ðæt wɪʃ.",
+        "exMeaning": "Hầu hết các cô gái muốn trở thành một công chúa tại một thời điểm nào đó trong tuổi trẻ của họ, mặc dù cô không thể nhớ cụ thể điều ước đó."
+    },
+    {
+        "word": "zero number",
+        "ipa": "ziərou",
+        "meaning": "số không"
+    },
+    {
+        "word": "zone",
+        "type": "n",
+        "ipa": "zoun",
+        "meaning": "khu vực, miền, vùng",
+        "ex": "He breached her comfort zone in a way that left her shaken, scared.",
+        "ipaExTrans": "hiː briːʧt hɜː ˈkʌmfət zəʊn ɪn ə weɪ ðæt lɛft hɜː ˈʃeɪkən, skeəd.",
+        "exMeaning": "Anh xâm phạm vùng an toàn của cô theo cách khiến cô run rẩy, sợ hãi."
+    }
+]

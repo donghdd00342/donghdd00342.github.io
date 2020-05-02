@@ -1,0 +1,596 @@
+[
+    {
+        "word": "walk",
+        "type": "verb, noun",
+        "ipa": "wɔːk",
+        "meaning": "đi bộ"
+    },
+    {
+        "word": "pick",
+        "type": "verb, noun",
+        "ipa": "pɪk",
+        "meaning": "chọn"
+    },
+    {
+        "word": "lift",
+        "type": "verb, noun",
+        "ipa": "lɪft",
+        "meaning": "thang máy"
+    },
+    {
+        "word": "mix",
+        "type": "verb, noun",
+        "ipa": "mɪks",
+        "meaning": "pha trộn"
+    },
+    {
+        "word": "stop",
+        "type": "verb, noun",
+        "ipa": "stɒp",
+        "meaning": "dừng lại"
+    },
+    {
+        "word": "teach",
+        "type": "verb, noun",
+        "ipa": "tiːʧ",
+        "meaning": "dạy"
+    },
+    {
+        "word": "concern",
+        "type": "verb, noun",
+        "ipa": "kənˈsɜːn",
+        "meaning": "mối quan ngại"
+    },
+    {
+        "word": "fly",
+        "type": "verb, noun",
+        "ipa": "flaɪ",
+        "meaning": "bay"
+    },
+    {
+        "word": "born",
+        "type": "verb, adjective, past particple",
+        "ipa": "bɔːn",
+        "meaning": "sinh ra"
+    },
+    {
+        "word": "gain",
+        "type": "verb, noun",
+        "ipa": "geɪn",
+        "meaning": "thu được"
+    },
+    {
+        "word": "save",
+        "type": "verb, noun, preposition",
+        "ipa": "seɪv",
+        "meaning": "tiết kiệm"
+    },
+    {
+        "word": "stand",
+        "type": "verb, noun",
+        "ipa": "stænd",
+        "meaning": "đứng"
+    },
+    {
+        "word": "fail",
+        "type": "verb, noun",
+        "ipa": "feɪl",
+        "meaning": "Thất bại"
+    },
+    {
+        "word": "lead",
+        "type": "verb, noun",
+        "ipa": "liːd",
+        "meaning": "chì"
+    },
+    {
+        "word": "listen",
+        "type": "verb, noun",
+        "ipa": "ˈlɪsn",
+        "meaning": "nghe"
+    },
+    {
+        "word": "worry",
+        "type": "verb, noun",
+        "ipa": "ˈwʌri",
+        "meaning": "lo"
+    },
+    {
+        "word": "express",
+        "type": "verb, adjective, adverb",
+        "ipa": "ɪksˈprɛs",
+        "meaning": "bày tỏ"
+    },
+    {
+        "word": "handle",
+        "type": "verb, noun",
+        "ipa": "ˈhændl",
+        "meaning": "xử lý"
+    },
+    {
+        "word": "meet",
+        "type": "verb, noun",
+        "ipa": "miːt",
+        "meaning": "gặp"
+    },
+    {
+        "word": "release",
+        "type": "verb, noun",
+        "ipa": "rɪˈliːs",
+        "meaning": "giải phóng"
+    },
+    {
+        "word": "sell",
+        "type": "verb, noun",
+        "ipa": "sɛl",
+        "meaning": "bán"
+    },
+    {
+        "word": "finish",
+        "type": "verb, noun",
+        "ipa": "ˈfɪnɪʃ",
+        "meaning": "hoàn thành"
+    },
+    {
+        "word": "press",
+        "type": "verb, noun",
+        "ipa": "prɛs",
+        "meaning": "nhấn"
+    },
+    {
+        "word": "ride",
+        "type": "verb, noun",
+        "ipa": "raɪd",
+        "meaning": "dap xe"
+    },
+    {
+        "word": "spread",
+        "type": "verb, noun",
+        "ipa": "sprɛd",
+        "meaning": "Lan tràn"
+    },
+    {
+        "word": "spring",
+        "type": "verb, noun",
+        "ipa": "sprɪŋ",
+        "meaning": "mùa xuân"
+    },
+    {
+        "word": "wait",
+        "type": "verb, noun",
+        "ipa": "weɪt",
+        "meaning": "chờ đợi"
+    },
+    {
+        "word": "display",
+        "type": "verb, noun",
+        "ipa": "dɪsˈpleɪ",
+        "meaning": "trưng bày"
+    },
+    {
+        "word": "flow",
+        "type": "verb, noun",
+        "ipa": "fləʊ",
+        "meaning": "lưu lượng"
+    },
+    {
+        "word": "hit",
+        "type": "verb, noun",
+        "ipa": "hɪt",
+        "meaning": "đánh"
+    },
+    {
+        "word": "shoot",
+        "type": "verb, noun, interjection",
+        "ipa": "ʃuːt",
+        "meaning": "bắn"
+    },
+    {
+        "word": "touch",
+        "type": "verb, noun",
+        "ipa": "tʌʧ",
+        "meaning": "chạm"
+    },
+    {
+        "word": "cancel",
+        "type": "verb, noun",
+        "ipa": "ˈkænsəl",
+        "meaning": "hủy bỏ"
+    },
+    {
+        "word": "dump",
+        "type": "verb, noun, idiom",
+        "ipa": "dʌmp",
+        "meaning": "bãi rác"
+    },
+    {
+        "word": "push",
+        "type": "verb, noun, idiom",
+        "ipa": "pʊʃ",
+        "meaning": "đẩy"
+    },
+    {
+        "word": "select",
+        "type": "verb, adjective",
+        "ipa": "sɪˈlɛkt",
+        "meaning": "lựa chọn"
+    },
+    {
+        "word": "conflict",
+        "type": "verb, noun",
+        "ipa": "ˈkɒnflɪkt",
+        "meaning": "cuộc xung đột"
+    },
+    {
+        "word": "fill",
+        "type": "verb, noun, idiom",
+        "ipa": "fɪl",
+        "meaning": "lấp đầy"
+    },
+    {
+        "word": "jump",
+        "type": "verb, noun, adjective",
+        "ipa": "ʤʌmp",
+        "meaning": "nhảy"
+    },
+    {
+        "word": "pass",
+        "type": "verb, noun, idiom",
+        "ipa": "pɑːs",
+        "meaning": "vượt qua"
+    },
+    {
+        "word": "pitch",
+        "type": "verb, noun",
+        "ipa": "pɪʧ",
+        "meaning": "sân cỏ"
+    },
+    {
+        "word": "treat",
+        "type": "verb, noun",
+        "ipa": "triːt",
+        "meaning": "đãi"
+    },
+    {
+        "word": "abuse",
+        "type": "verb, noun",
+        "ipa": "əˈbjuːs",
+        "meaning": "lạm dụng"
+    },
+    {
+        "word": "beat",
+        "type": "verb, noun, adjective",
+        "ipa": "biːt",
+        "meaning": "tiết tấu"
+    },
+    {
+        "word": "burn",
+        "type": "verb, noun",
+        "ipa": "bɜːn",
+        "meaning": "đốt cháy"
+    },
+    {
+        "word": "deposit",
+        "type": "verb, noun",
+        "ipa": "dɪˈpɒzɪt",
+        "meaning": "tiền gửi"
+    },
+    {
+        "word": "print",
+        "type": "verb, noun, adjective",
+        "ipa": "prɪnt",
+        "meaning": "in"
+    },
+    {
+        "word": "raise",
+        "type": "verb, noun, idiom",
+        "ipa": "reɪz",
+        "meaning": "nâng cao"
+    },
+    {
+        "word": "sleep",
+        "type": "verb, noun, idiom",
+        "ipa": "sliːp",
+        "meaning": "ngủ"
+    },
+    {
+        "word": "advance",
+        "type": "verb, noun, adjective",
+        "ipa": "ədˈvɑːns",
+        "meaning": "nâng cao"
+    },
+    {
+        "word": "connect",
+        "type": "verb, adjective",
+        "ipa": "kəˈnɛkt",
+        "meaning": "kết nối"
+    },
+    {
+        "word": "consist",
+        "type": "verb, noun",
+        "ipa": "kənˈsɪst",
+        "meaning": "bao gồm"
+    },
+    {
+        "word": "contribute",
+        "type": "verb, idiom",
+        "ipa": "kənˈtrɪbju(ː)t",
+        "meaning": "Góp phần"
+    },
+    {
+        "word": "draw",
+        "type": "verb, noun, idiom",
+        "ipa": "drɔː",
+        "meaning": "vẽ tranh"
+    },
+    {
+        "word": "fix",
+        "type": "verb, noun, idiom",
+        "ipa": "fɪks",
+        "meaning": "sửa chữa"
+    },
+    {
+        "word": "hire",
+        "type": "verb, noun, adjective",
+        "ipa": "ˈhaɪə",
+        "meaning": "Thuê"
+    },
+    {
+        "word": "join",
+        "type": "verb, noun",
+        "ipa": "ʤɔɪn",
+        "meaning": "tham gia"
+    },
+    {
+        "word": "kill",
+        "type": "verb, noun, idiom",
+        "ipa": "kɪl",
+        "meaning": "giết chết"
+    },
+    {
+        "word": "tap",
+        "type": "verb, noun",
+        "ipa": "tæp",
+        "meaning": "gõ"
+    },
+    {
+        "word": "win",
+        "type": "verb, noun",
+        "ipa": "wɪn",
+        "meaning": "thắng lợi"
+    },
+    {
+        "word": "attack",
+        "type": "verb, noun",
+        "ipa": "əˈtæk",
+        "meaning": "tấn công"
+    },
+    {
+        "word": "claim",
+        "type": "verb, noun",
+        "ipa": "kleɪm",
+        "meaning": "yêu cầu"
+    },
+    {
+        "word": "drag",
+        "type": "verb, noun, adjective",
+        "ipa": "dræg",
+        "meaning": "kéo"
+    },
+    {
+        "word": "drink",
+        "type": "verb, noun",
+        "ipa": "drɪŋk",
+        "meaning": "uống"
+    },
+    {
+        "word": "guess",
+        "type": "verb, noun, idiom",
+        "ipa": "gɛs",
+        "meaning": "phỏng đoán"
+    },
+    {
+        "word": "pull",
+        "type": "verb, noun",
+        "ipa": "pʊl",
+        "meaning": "kéo"
+    },
+    {
+        "word": "wear",
+        "type": "verb, noun, idiom",
+        "ipa": "weə",
+        "meaning": "mặc"
+    },
+    {
+        "word": "wonder",
+        "type": "verb, noun, idiom",
+        "ipa": "ˈwʌndə",
+        "meaning": "ngạc nhiên"
+    },
+    {
+        "word": "count",
+        "type": "verb, noun, adjective",
+        "ipa": "kaʊnt",
+        "meaning": "đếm"
+    },
+    {
+        "word": "doubt",
+        "type": "verb, noun, idiom",
+        "ipa": "daʊt",
+        "meaning": "nghi ngờ"
+    },
+    {
+        "word": "feed",
+        "type": "verb, noun, idiom",
+        "ipa": "fiːd",
+        "meaning": "nuôi"
+    },
+    {
+        "word": "impress",
+        "type": "verb, noun",
+        "ipa": "ˈɪmprɛs",
+        "meaning": "gây ấn tượng"
+    },
+    {
+        "word": "repeat",
+        "type": "verb, noun",
+        "ipa": "rɪˈpiːt",
+        "meaning": "nói lại"
+    },
+    {
+        "word": "seek",
+        "type": "verb, idiom",
+        "ipa": "siːk",
+        "meaning": "tìm kiếm"
+    },
+    {
+        "word": "slide",
+        "type": "verb, noun, idiom",
+        "ipa": "slaɪd",
+        "meaning": "trượt"
+    },
+    {
+        "word": "strip",
+        "type": "verb, noun",
+        "ipa": "strɪp",
+        "meaning": "dải"
+    },
+    {
+        "word": "collect",
+        "type": "verb, adverb, noun",
+        "ipa": "kəˈlɛkt",
+        "meaning": "sưu tầm"
+    },
+    {
+        "word": "combine",
+        "type": "verb, noun",
+        "ipa": "ˈkɒmbaɪn",
+        "meaning": "phối hợp"
+    },
+    {
+        "word": "command",
+        "type": "verb, noun",
+        "ipa": "kəˈmɑːnd",
+        "meaning": "chỉ huy"
+    },
+    {
+        "word": "dig",
+        "type": "verb, noun",
+        "ipa": "dɪg",
+        "meaning": "đào"
+    },
+    {
+        "word": "divide",
+        "type": "verb, noun",
+        "ipa": "dɪˈvaɪd",
+        "meaning": "chia"
+    },
+    {
+        "word": "hang",
+        "type": "verb, noun, idiom",
+        "ipa": "hæŋ",
+        "meaning": "treo"
+    },
+    {
+        "word": "hunt",
+        "type": "verb, noun",
+        "ipa": "hʌnt",
+        "meaning": "săn bắn"
+    },
+    {
+        "word": "march",
+        "type": "verb, noun, idiom",
+        "ipa": "mɑːʧ",
+        "meaning": "tháng Ba"
+    },
+    {
+        "word": "mention",
+        "type": "verb, noun, idiom",
+        "ipa": "ˈmɛnʃən",
+        "meaning": "đề cập đến"
+    },
+    {
+        "word": "smell",
+        "type": "verb, noun",
+        "ipa": "smɛl",
+        "meaning": "mùi"
+    },
+    {
+        "word": "survey",
+        "type": "verb, noun",
+        "ipa": "ˈsɜːveɪ",
+        "meaning": "khảo sát"
+    },
+    {
+        "word": "tie",
+        "type": "verb, noun, idiom",
+        "ipa": "taɪ",
+        "meaning": "cà vạt"
+    },
+    {
+        "word": "escape",
+        "type": "verb, noun, adjective",
+        "ipa": "ɪsˈkeɪp",
+        "meaning": "bỏ trốn"
+    },
+    {
+        "word": "expose",
+        "type": "verb, idiom",
+        "ipa": "ɪksˈpəʊz",
+        "meaning": "lộ ra"
+    },
+    {
+        "word": "gather",
+        "type": "verb, noun, idiom",
+        "ipa": "ˈgæðə",
+        "meaning": "tụ họp"
+    },
+    {
+        "word": "hate",
+        "type": "verb, noun",
+        "ipa": "heɪt",
+        "meaning": "ghét bỏ"
+    },
+    {
+        "word": "repair",
+        "type": "verb, noun",
+        "ipa": "rɪˈpeə",
+        "meaning": "sửa"
+    },
+    {
+        "word": "scratch",
+        "type": "verb, noun, adjective",
+        "ipa": "skræʧ",
+        "meaning": "vết trầy"
+    },
+    {
+        "word": "strike",
+        "type": "verb, noun, adjective",
+        "ipa": "straɪk",
+        "meaning": "đình công"
+    },
+    {
+        "word": "employ",
+        "type": "verb, noun",
+        "ipa": "ɪmˈplɔɪ",
+        "meaning": "thuê"
+    },
+    {
+        "word": "hurt",
+        "type": "verb, noun",
+        "ipa": "hɜːt",
+        "meaning": "đau"
+    },
+    {
+        "word": "laugh",
+        "type": "verb, noun",
+        "ipa": "lɑːf",
+        "meaning": "cười"
+    },
+    {
+        "word": "lay",
+        "type": "verb, noun, adjective",
+        "ipa": "leɪ",
+        "meaning": "đặt nằm"
+    }
+]

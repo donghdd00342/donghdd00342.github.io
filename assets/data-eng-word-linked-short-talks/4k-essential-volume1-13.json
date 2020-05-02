@@ -1,0 +1,222 @@
+[
+    {
+        "word": "blood",
+        "ipa": "blʌd",
+        "type": "n",
+        "tag": "máu, công tử bột",
+        "meaning": "Blood is the red liquid in your body.",
+        "context": "Máu là chất lỏng màu đỏ trong cơ thể bạn.",
+        "ex": "I cut my finger and got blood on my shirt.",
+        "ipaExTrans": "aɪ kʌt maɪ ˈfɪŋgər ænd gɒt blʌd ɒn maɪ ʃɜːt.",
+        "exMeaning": "Tôi cắt ngón tay của tôi và có máu trên áo của tôi."
+    },
+    {
+        "word": "burn",
+        "ipa": "bɜːn",
+        "type": "v",
+        "tag": "đốt cháy",
+        "meaning": "To burn something is to set it on fire.",
+        "context": "Để đốt một cái gì đó là đặt nó trên lửa.",
+        "ex": "I burned some wood in the camp fire.",
+        "ipaExTrans": "aɪ bɜːnd sʌm wʊd ɪn ðə kæmp ˈfaɪə.",
+        "exMeaning": "Tôi đốt một số củi trong lửa trại."
+    },
+    {
+        "word": "cell",
+        "ipa": "sɛl",
+        "type": "n",
+        "tag": "phòng giam, tế bào",
+        "meaning": "A cell is a small room where a person is locked in.",
+        "context": "Một phòng giam là một căn phòng nhỏ nơi một người bị nhốt.",
+        "ex": "The jail cell was very small.",
+        "ipaExTrans": "ðə ʤeɪl sɛl wɒz ˈvɛri smɔːl.",
+        "exMeaning": "Phòng giam rất nhỏ."
+    },
+    {
+        "word": "contain",
+        "ipa": "kənˈteɪn",
+        "type": "n",
+        "tag": "Chứa, Lưu trữ",
+        "meaning": "To contain something is to have it inside.",
+        "context": "Để chứa một cái gì đó là có nó bên trong.",
+        "ex": "The mailbox contained a letter",
+        "ipaExTrans": "ðə ˈmeɪlbɒks kənˈteɪnd ə ˈlɛtə",
+        "exMeaning": "Hộp thư chứa một lá thư"
+    },
+    {
+        "word": "correct",
+        "ipa": "kəˈrɛkt",
+        "type": "adj",
+        "tag": "chính xác",
+        "meaning": "To be correct is to be right.",
+        "context": "Nói đúng là đúng.",
+        "ex": "All of my answers on the test were correct.",
+        "ipaExTrans": "ɔːl ɒv maɪ ˈɑːnsəz ɒn ðə tɛst wɜː kəˈrɛkt.",
+        "exMeaning": "Tất cả các câu trả lời của tôi trong bài kiểm tra là chính xác."
+    },
+    {
+        "word": "crop",
+        "ipa": "krɒp",
+        "type": "n",
+        "tag": "mùa vụ",
+        "meaning": "A crop is food that a farmer grows",
+        "context": "Cây trồng là thực phẩm mà nông dân trồng",
+        "ex": "Wheat is a crop that is made into bread.",
+        "ipaExTrans": "wiːt ɪz ə krɒp ðæt ɪz meɪd ˈɪntuː brɛd.",
+        "exMeaning": "Lúa mì là một loại cây trồng được làm thành bánh mì."
+    },
+    {
+        "word": "demand",
+        "ipa": "dɪˈmɑːnd",
+        "type": "v",
+        "tag": "yêu cầu, cầu cứu, hỏi",
+        "meaning": "To demand something is to say strongly that you want it.",
+        "context": "Yêu cầu một cái gì đó là nói mạnh mẽ rằng bạn muốn nó.",
+        "ex": "The workers demanded to be paid more money.",
+        "ipaExTrans": "ðə ˈwɜːkəz dɪˈmɑːndɪd tuː biː peɪd mɔː ˈmʌni.",
+        "exMeaning": "Các công nhân yêu cầu được trả nhiều tiền hơn."
+    },
+    {
+        "word": "equal",
+        "ipa": "ˈiːkwəl",
+        "type": "adj",
+        "tag": "công bằng",
+        "meaning": "To be equal is to be the same.",
+        "context": "Để được bình đẳng là như nhau.",
+        "ex": "Both students are equal in age",
+        "ipaExTrans": "bəʊθ ˈstjuːdənts ɑːr ˈiːkwəl ɪn eɪʤ",
+        "exMeaning": "Cả hai học sinh đều bằng tuổi nhau."
+    },
+    {
+        "word": "feed",
+        "ipa": "fiːd",
+        "type": "v",
+        "tag": "cho ăn",
+        "meaning": "To feed is to give food.",
+        "context": "Cho ăn là cho ăn.",
+        "ex": "Mother feeds my baby brother everyday",
+        "ipaExTrans": "ˈmʌðə fiːdz maɪ ˈbeɪbi ˈbrʌðər ˈɛvrɪdeɪ",
+        "exMeaning": "Mẹ nuôi em trai tôi mỗi ngày"
+    },
+    {
+        "word": "hole",
+        "ipa": "həʊl",
+        "type": "n",
+        "tag": "hố, lỗ hỗng, lỗ thủng",
+        "meaning": "A hole is an opening in something.",
+        "context": "Một lỗ là một lỗ mở trong một cái gì đó.",
+        "ex": "The man was going to jump into the hole in the ice",
+        "ipaExTrans": "ðə mæn wɒz ˈgəʊɪŋ tuː ʤʌmp ˈɪntuː ðə həʊl ɪn ði aɪs",
+        "exMeaning": "Người đàn ông định nhảy xuống hố băng"
+    },
+    {
+        "word": "increase",
+        "ipa": "ˈɪnkriːs",
+        "type": "v",
+        "tag": "tăng",
+        "meaning": "To increase something is to make it larger or more.",
+        "context": "Để tăng một cái gì đó là làm cho nó lớn hơn hoặc nhiều hơn.",
+        "ex": "They’ve increased the price of gas by 15 cents!",
+        "ipaExTrans": "ðeɪv ɪnˈkriːst ðə praɪs ɒv gæs baɪ 15 sɛnts!",
+        "exMeaning": "Họ đã tăng giá xăng lên 15 xu!"
+    },
+    {
+        "word": "lord",
+        "ipa": "lɔːd",
+        "type": "n",
+        "tag": "Chúa tể, lãnh chúa",
+        "meaning": "Long ago, a lord was a man in charge of a town",
+        "context": "Từ lâu, một lãnh chúa là một người đàn ông phụ trách một thị trấn",
+        "ex": "The lord of the town was not kind.",
+        "ipaExTrans": "ðə lɔːd ɒv ðə taʊn wɒz nɒt kaɪnd.",
+        "exMeaning": "Chúa tể của thị trấn không tử tế."
+    },
+    {
+        "word": "owe",
+        "ipa": "əʊ",
+        "type": "v",
+        "tag": "nợ",
+        "meaning": "To owe is to have to pay or give back something received from another.",
+        "context": "Nợ là phải trả hoặc trả lại một cái gì đó nhận được từ người khác.",
+        "ex": "I owed him twenty dollars, so I paid him back.",
+        "ipaExTrans": "aɪ əʊd hɪm ˈtwɛnti ˈdɒləz, səʊ aɪ peɪd hɪm bæk.",
+        "exMeaning": "Tôi nợ anh ta hai mươi đô la, vì vậy tôi đã trả lại anh ta."
+    },
+    {
+        "word": "position",
+        "ipa": "pəˈzɪʃən",
+        "type": "n",
+        "tag": "Chức vụ",
+        "meaning": "A position is the way something is placed.",
+        "context": "Một vị trí là cách một cái gì đó được đặt.",
+        "ex": "How can you sit in that position?",
+        "ipaExTrans": "haʊ kæn juː sɪt ɪn ðæt pəˈzɪʃən?",
+        "exMeaning": "Làm thế nào bạn có thể ngồi ở vị trí đó?"
+    },
+    {
+        "word": "raise",
+        "ipa": "reɪz",
+        "type": "v",
+        "tag": "nâng cao",
+        "meaning": "To raise something is to lift it up.",
+        "context": "Nâng cao một cái gì đó là nâng nó lên.",
+        "ex": "We had to work together to raise the last piece.",
+        "ipaExTrans": "wiː hæd tuː wɜːk təˈgɛðə tuː reɪz ðə lɑːst piːs.",
+        "exMeaning": "Chúng tôi đã phải làm việc cùng nhau để nâng cao mảnh cuối cùng."
+    },
+    {
+        "word": "responsible",
+        "ipa": "rɪsˈpɒnsəbl",
+        "type": "adj",
+        "tag": "chịu trách nhiệm",
+        "meaning": "If a person is responsible, they do the right things",
+        "context": "Nếu một người có trách nhiệm, họ làm những điều đúng đắn",
+        "ex": "I try to be responsible and save money.",
+        "ipaExTrans": "aɪ traɪ tuː biː rɪsˈpɒnsəbl ænd seɪv ˈmʌni.",
+        "exMeaning": "Tôi cố gắng có trách nhiệm và tiết kiệm tiền."
+    },
+    {
+        "word": "sight",
+        "ipa": "saɪt",
+        "type": "n",
+        "tag": "thị giác, cảnh tượng",
+        "meaning": "A sight is something interesting to see",
+        "context": "Một cảnh tượng là một cái gì đó thú vị để xem",
+        "ex": "I saw the pyramids of Egypt. What a sight!",
+        "ipaExTrans": "aɪ sɔː ðə ˈpɪrəmɪdz ɒv ˈiːʤɪpt. wɒt ə saɪt!",
+        "exMeaning": "Tôi đã nhìn thấy các kim tự tháp của Ai Cập. Thật là một cảnh tượng!"
+    },
+    {
+        "word": "spot",
+        "ipa": "spɒt",
+        "type": "n",
+        "tag": "nơi, chỗ, chốn",
+        "meaning": "A spot is a place where something happens.",
+        "context": "Một chỗ là một nơi mà một cái gì đó xảy ra.",
+        "ex": "The kitchen is a good spot to eat meals.",
+        "ipaExTrans": "ðə ˈkɪʧɪn ɪz ə gʊd spɒt tuː iːt miːlz.",
+        "exMeaning": "Nhà bếp là một nơi tốt để ăn bữa ăn."
+    },
+    {
+        "word": "structure",
+        "ipa": "ˈstrʌkʧə",
+        "type": "n",
+        "tag": "kết cấu",
+        "meaning": "A structure is a building",
+        "context": "Một cấu trúc là một tòa nhà",
+        "ex": "They just built a beautiful new structure downtown",
+        "ipaExTrans": "ðeɪ ʤʌst bɪlt ə ˈbjuːtəfʊl njuː ˈstrʌkʧə ˈdaʊntaʊn",
+        "exMeaning": "Họ vừa xây dựng một cấu trúc mới tuyệt đẹp ở trung tâm thành phố"
+    },
+    {
+        "word": "whole",
+        "ipa": "həʊl ",
+        "type": "adj",
+        "tag": "toàn bộ",
+        "meaning": "Whole means all of something.",
+        "context": "Toàn bộ có nghĩa là tất cả của một cái gì đó.",
+        "ex": "I ate the whole pie. We don’t have any more.",
+        "ipaExTrans": "aɪ ɛt ðə həʊl paɪ. wiː dəʊnt hæv ˈɛni mɔː.",
+        "exMeaning": "Tôi đã ăn toàn bộ chiếc bánh. Chúng tôi không còn nữa."
+    }
+]

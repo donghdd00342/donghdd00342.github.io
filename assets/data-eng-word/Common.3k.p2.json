@@ -1,0 +1,896 @@
+[
+    {
+        "word": "ally",
+        "type": "n, v",
+        "ipa": "æli",
+        "meaning": "nước đồng minh, liên minh; liên kết, kết thông gia",
+        "ex": "I am not your ally, he repeated.",
+        "ipaExTrans": "aɪ æm nɒt jɔːr ˈælaɪ, hiː rɪˈpiːtɪd.",
+        "exMeaning": "Tôi không phải là đồng minh của bạn, anh lặp lại."
+    },
+    {
+        "word": "almost",
+        "type": "adv",
+        "ipa": "ɔ:lmoust",
+        "meaning": "hầu như, gần như",
+        "ex": "At ten years old, Jonathan was almost as tall as she was.",
+        "ipaExTrans": "æt tɛn jɪəz əʊld, ˈʤɒnəθən wɒz ˈɔːlməʊst æz tɔːl æz ʃiː wɒz.",
+        "exMeaning": "Năm mười tuổi, Jonathan cao gần bằng cô."
+    },
+    {
+        "word": "alone",
+        "type": "adj, adv",
+        "ipa": "ə'loun",
+        "meaning": "cô đơn, một mình",
+        "ex": "Being alone didn't seem so bad to me after all.",
+        "ipaExTrans": "ˈbiːɪŋ əˈləʊn dɪdnt siːm səʊ bæd tuː miː ˈɑːftər ɔːl.",
+        "exMeaning": "Rốt cuộc, ở một mình dường như không tệ với tôi."
+    },
+    {
+        "word": "along",
+        "type": "prep, adv",
+        "ipa": "ə'lɔɳ",
+        "meaning": "dọc theo, theo; theo chiều dài,suốt theo",
+        "ex": "There is a lovely beach that stretches miles along the blue Atlantic.",
+        "ipaExTrans": "ðeər ɪz ə ˈlʌvli biːʧ ðæt ˈstrɛʧɪz maɪlz əˈlɒŋ ðə bluː ətˈlæntɪk.",
+        "exMeaning": "Có một bãi biển đáng yêu trải dài dặm dọc theo Đại Tây Dương xanh."
+    },
+    {
+        "word": "alongside",
+        "type": "prep, adv",
+        "ipa": "ə'lɔɳ'said",
+        "meaning": "sát cạnh, kế bên, dọc theo",
+        "ex": "pality alongside of the kingdom of Poland.",
+        "ipaExTrans": "pality əˈlɒŋˈsaɪd ɒv ðə ˈkɪŋdəm ɒv ˈpəʊlənd.",
+        "exMeaning": "bình đẳng bên cạnh vương quốc Ba Lan."
+    },
+    {
+        "word": "aloud",
+        "type": "adv",
+        "ipa": "ə'laud",
+        "meaning": "lớn tiếng, to tiếng",
+        "ex": "She read the words aloud and he snorted.",
+        "ipaExTrans": "ʃiː riːd ðə wɜːdz əˈlaʊd ænd hiː ˈsnɔːtɪd.",
+        "exMeaning": "Cô đọc to những từ đó và anh khịt mũi."
+    },
+    {
+        "word": "alphabet",
+        "type": "n",
+        "ipa": "ælfəbit",
+        "meaning": "bảng chữ cái, bước đầu, điều cơ bản",
+        "ex": "Soon after the dialect had reached its latest form, the Latin alphabet was adopted.",
+        "ipaExTrans": "suːn ˈɑːftə ðə ˈdaɪəlɛkt hæd riːʧt ɪts ˈleɪtɪst fɔːm, ðə ˈlætɪn ˈælfəbɪt wɒz əˈdɒptɪd.",
+        "exMeaning": "Ngay sau khi phương ngữ đã đạt đến hình thức mới nhất, bảng chữ cái Latinh đã được thông qua."
+    },
+    {
+        "word": "alphabetical",
+        "type": "adj",
+        "ipa": ",æflə'betikl",
+        "meaning": "thuộc bảng chứ cái",
+        "ex": "I could collar a dozen perps and someone'd bitch because I didn't line 'em up in alphabetical order.",
+        "ipaExTrans": "aɪ kʊd ˈkɒlər ə ˈdʌzn perps ænd ˈsʌmwʌnd bɪʧ bɪˈkɒz aɪ dɪdnt laɪn əm ʌp ɪn ˌælfəˈbɛtɪkəl ˈɔːdə.",
+        "exMeaning": "Tôi có thể kiếm được hàng tá perps và ai đó sẽ chê bai vì tôi không xếp hàng theo thứ tự bảng chữ cái."
+    },
+    {
+        "word": "alphabetically",
+        "type": "adv",
+        "ipa": ",ælfə'betikəli",
+        "meaning": "theo thứ tự abc",
+        "ex": "The roll of states is called alphabetically, and each state, as reached in the roll, is entitled to present a candidate.",
+        "ipaExTrans": "ðə rəʊl ɒv steɪts ɪz kɔːld ˌælfəˈbɛtɪkəli, ænd iːʧ steɪt, æz riːʧt ɪn ðə rəʊl, ɪz ɪnˈtaɪtld tuː ˈprɛznt ə ˈkændɪdɪt.",
+        "exMeaning": "Cuộn trạng thái được gọi theo thứ tự abc, và mỗi trạng thái, đạt được trong cuộn, được quyền trình bày một ứng cử viên."
+    },
+    {
+        "word": "already",
+        "type": "adv",
+        "ipa": "ɔ:l'redi",
+        "meaning": "đã, rồi, đã... rồi",
+        "ex": "We have already seen this method work.",
+        "ipaExTrans": "wiː hæv ɔːlˈrɛdi siːn ðɪs ˈmɛθəd wɜːk.",
+        "exMeaning": "Chúng tôi đã thấy phương pháp này làm việc."
+    },
+    {
+        "word": "also",
+        "type": "adv",
+        "ipa": "ɔ:lsou",
+        "meaning": "cũng, cũng vậy, cũng thế",
+        "ex": "Aside from packing, there was also decorating to be done.",
+        "ipaExTrans": "əˈsaɪd frɒm ˈpækɪŋ, ðeə wɒz ˈɔːlsəʊ ˈdɛkəreɪtɪŋ tuː biː dʌn.",
+        "exMeaning": "Ngoài việc đóng gói, còn có trang trí để được thực hiện."
+    },
+    {
+        "word": "alter",
+        "type": "v",
+        "ipa": "ɔ:ltə",
+        "meaning": "thay đổi, biến đổi, sửa đổi",
+        "ex": "It's a tiny secret, one that may not alter much of anything.",
+        "ipaExTrans": "ɪts ə ˈtaɪni ˈsiːkrɪt, wʌn ðæt meɪ nɒt ˈɔːltə mʌʧ ɒv ˈɛnɪθɪŋ.",
+        "exMeaning": "Đó là một bí mật nhỏ, một bí mật có thể không thay đổi nhiều thứ."
+    },
+    {
+        "word": "alternative",
+        "type": "n, adj",
+        "ipa": "ɔ:l'tə:nətiv",
+        "meaning": "sự lựa chọn; lựa chọn",
+        "ex": "He had to make alternative arrangements.",
+        "ipaExTrans": "hiː hæd tuː meɪk ɔːlˈtɜːnətɪv əˈreɪnʤmənts.",
+        "exMeaning": "Anh phải sắp xếp thay thế."
+    },
+    {
+        "word": "alternatively",
+        "type": "adv",
+        "meaning": "như một sự lựa chọn",
+        "ex": "These steps are symbolic of the rising, culminating and setting of the sun, or alternatively the course of the solar deity through the three divisions of the universe.",
+        "ipaExTrans": "ðiːz stɛps ɑː sɪmˈbɒlɪk ɒv ðə ˈraɪzɪŋ, ˈkʌlmɪneɪtɪŋ ænd ˈsɛtɪŋ ɒv ðə sʌn, ɔːr ɔːlˈtɜːnətɪvli ðə kɔːs ɒv ðə ˈsəʊlə ˈdiːɪti θruː ðə θriː dɪˈvɪʒənz ɒv ðə ˈjuːnɪvɜːs.",
+        "exMeaning": "Những bước này là biểu tượng của sự trỗi dậy, lên đến đỉnh điểm và sắp đặt của mặt trời, hoặc thay vào đó là quá trình của vị thần mặt trời thông qua ba bộ phận của vũ trụ."
+    },
+    {
+        "word": "although",
+        "type": "conj",
+        "ipa": "ɔ:l'ðou",
+        "meaning": "mặc dù, dẫu cho",
+        "ex": "Although she had said the words \"I love you,\" several times, he had not uttered them.",
+        "ipaExTrans": "ɔːlˈðəʊ ʃiː hæd sɛd ðə wɜːdz \"aɪ lʌv juː,\" ˈsɛvrəl taɪmz, hiː hæd nɒt ˈʌtəd ðɛm.",
+        "exMeaning": "Mặc dù cô ấy đã nói những từ \"Anh yêu em\", anh ấy đã không nói ra."
+    },
+    {
+        "word": "altogether",
+        "type": "adv",
+        "ipa": ",ɔ:ltə'geðə",
+        "meaning": "hoàn toàn, hầu như; nói chung",
+        "ex": "I've learned this altogether unpleasant lesson myself.",
+        "ipaExTrans": "aɪv lɜːnt ðɪs ˌɔːltəˈgɛðər ʌnˈplɛznt ˈlɛsn maɪˈsɛlf.",
+        "exMeaning": "Bản thân tôi đã học được bài học khó chịu này."
+    },
+    {
+        "word": "always",
+        "type": "adv",
+        "ipa": "ɔ:lwəz",
+        "meaning": "luôn luôn",
+        "ex": "You've always taken care of us.",
+        "ipaExTrans": "juːv ˈɔːlweɪz ˈteɪkən keər ɒv ʌs.",
+        "exMeaning": "Bạn đã luôn chăm sóc chúng tôi."
+    },
+    {
+        "word": "amaze",
+        "type": "v",
+        "ipa": "ə'meiz",
+        "meaning": "làm ngạc nhiên, làm sửng sốt",
+        "ex": "I amaze myself with my cleverness.",
+        "ipaExTrans": "aɪ əˈmeɪz maɪˈsɛlf wɪð maɪ ˈklɛvənɪs.",
+        "exMeaning": "Tôi ngạc nhiên với sự thông minh của mình."
+    },
+    {
+        "word": "amazed",
+        "type": "adj",
+        "ipa": "ə'meiz",
+        "meaning": "kinh ngạc, sửng sốt",
+        "ex": "I was amazed at his reaction to a simple compliment.",
+        "ipaExTrans": "aɪ wɒz əˈmeɪzd æt hɪz ri(ː)ˈækʃən tuː ə ˈsɪmpl ˈkɒmplɪmənt.",
+        "exMeaning": "Tôi ngạc nhiên trước phản ứng của anh ấy với một lời khen đơn giản."
+    },
+    {
+        "word": "amazing",
+        "type": "adj",
+        "ipa": "ə'meiziɳ",
+        "meaning": "kinh ngạc, sửng sốt ",
+        "ex": "It was amazing how a person could change.",
+        "ipaExTrans": "ɪt wɒz əˈmeɪzɪŋ haʊ ə ˈpɜːsn kʊd ʧeɪnʤ.",
+        "exMeaning": "Thật đáng kinh ngạc khi một người có thể thay đổi."
+    },
+    {
+        "word": "ambition",
+        "type": "n",
+        "ipa": "æm'biʃn",
+        "meaning": "hoài bão, khát vọng",
+        "ex": "My ambition is far different than yours.",
+        "ipaExTrans": "maɪ æmˈbɪʃ(ə)n ɪz fɑː ˈdɪfrənt ðæn jɔːz.",
+        "exMeaning": "Tham vọng của tôi là khác xa so với của bạn."
+    },
+    {
+        "word": "ambulance",
+        "type": "n",
+        "ipa": "æmbjuləns",
+        "meaning": "xe cứu thương, xe cấp cứu",
+        "ex": "Somewhere a few blocks away, an ambulance wailed.",
+        "ipaExTrans": "ˈsʌmweər ə fjuː blɒks əˈweɪ, ən ˈæmbjʊləns weɪld.",
+        "exMeaning": "Ở đâu đó cách đó vài dãy nhà, một chiếc xe cứu thương rền rĩ."
+    },
+    {
+        "word": "among, amongst",
+        "type": "prep",
+        "ipa": "ə'mʌɳ",
+        "meaning": "giữa, ở giữa",
+        "ex": "I could see a small house among the trees.",
+        "ipaExTrans": "aɪ kʊd siː ə smɔːl haʊs əˈmʌŋ ðə triːz.",
+        "exMeaning": "Tôi có thể thấy một ngôi nhà nhỏ giữa những tán cây."
+    },
+    {
+        "word": "amount",
+        "type": "n, v",
+        "ipa": "ə'maunt",
+        "meaning": "số lượng, số nhiều; lên tới(money)",
+        "ex": "It makes a certain amount of sense.",
+        "ipaExTrans": "ɪt meɪks ə ˈsɜːtn əˈmaʊnt ɒv sɛns.",
+        "exMeaning": "Nó làm cho một số lượng ý nghĩa nhất định."
+    },
+    {
+        "word": "amuse",
+        "type": "v",
+        "ipa": "ə'mju:z",
+        "meaning": "làm cho vui, thích, làm buồn cười",
+        "ex": "You do amuse me.",
+        "ipaExTrans": "juː duː əˈmjuːz miː.",
+        "exMeaning": "Bạn làm tôi thích thú"
+    },
+    {
+        "word": "amused",
+        "type": "adj",
+        "ipa": "ə'mju:zd",
+        "meaning": "vui thích",
+        "ex": "He studied her face with amused eyes.",
+        "ipaExTrans": "hiː ˈstʌdɪd hɜː feɪs wɪð əˈmjuːzd aɪz.",
+        "exMeaning": "Anh nhìn khuôn mặt cô với đôi mắt thích thú."
+    },
+    {
+        "word": "amusing",
+        "type": "adj",
+        "ipa": "ə'mju:ziɳ",
+        "meaning": "vui thích",
+        "ex": "It was sweet and amusing by turns.",
+        "ipaExTrans": "ɪt wɒz swiːt ænd əˈmjuːzɪŋ baɪ tɜːnz.",
+        "exMeaning": "Đó là ngọt ngào và thú vị của lượt."
+    },
+    {
+        "word": "analyse, analyze",
+        "type": "v",
+        "ipa": "ænəlaiz",
+        "meaning": "phân tích",
+        "ex": "The doctor analysed the blood sample.",
+        "ipaExTrans": "ðə ˈdɒktər ˈænəlaɪzd ðə blʌd ˈsɑːmpl.",
+        "exMeaning": "Bác sĩ đã phân tích mẫu máu."
+    },
+    {
+        "word": "analysis",
+        "type": "n",
+        "ipa": "ə'næləsis",
+        "meaning": "sự phân tích",
+        "ex": "After careful analysis, he decided not to go.",
+        "ipaExTrans": "ˈɑːftə ˈkeəfʊl əˈnæləsɪs, hiː dɪˈsaɪdɪd nɒt tuː gəʊ.",
+        "exMeaning": "Sau khi phân tích kỹ, anh quyết định không đi."
+    },
+    {
+        "word": "ancient",
+        "type": "adj",
+        "ipa": "einʃənt",
+        "meaning": "xưa, cổ",
+        "ex": "It looked ancient, and he opened it carefully.",
+        "ipaExTrans": "ɪt lʊkt ˈeɪnʃ(ə)nt, ænd hiː ˈəʊpənd ɪt ˈkeəfli.",
+        "exMeaning": "Trông nó thật cổ kính, và anh mở nó cẩn thận."
+    },
+    {
+        "word": "and",
+        "type": "conj",
+        "ipa": "ænd, ənd, ən",
+        "meaning": "và",
+        "ex": "The boy laughed cheerfully and jumped out.",
+        "ipaExTrans": "ðə bɔɪ lɑːft ˈʧɪəfʊli ænd ʤʌmpt aʊt.",
+        "exMeaning": "Cậu bé cười vui vẻ và nhảy ra."
+    },
+    {
+        "word": "anger",
+        "type": "n",
+        "ipa": "æɳgə",
+        "meaning": "sự tức giận, sự giận dữ",
+        "ex": "I took all my frustration and anger out on you.",
+        "ipaExTrans": "aɪ tʊk ɔːl maɪ frʌsˈtreɪʃən ænd ˈæŋgər aʊt ɒn juː.",
+        "exMeaning": "Tôi lấy tất cả sự thất vọng và tức giận của tôi về bạn."
+    },
+    {
+        "word": "angle",
+        "type": "n",
+        "ipa": "æɳgl",
+        "meaning": "góc",
+        "ex": "From this angle, it's hard to tell you from the mules.",
+        "ipaExTrans": "frɒm ðɪs ˈæŋgl, ɪts hɑːd tuː tɛl juː frɒm ðə mjuːlz.",
+        "exMeaning": "Từ góc độ này, thật khó để nói với bạn từ những con la."
+    },
+    {
+        "word": "angrily",
+        "type": "adv",
+        "ipa": "æɳgrili",
+        "meaning": "tức giận, giận dữ",
+        "ex": "His eyes flashed angrily and he stepped forward, reaching for her.",
+        "ipaExTrans": "hɪz aɪz flæʃt ˈæŋgrɪli ænd hiː stɛpt ˈfɔːwəd, ˈriːʧɪŋ fɔː hɜː.",
+        "exMeaning": "Đôi mắt anh lóe lên giận dữ và anh bước về phía trước, với lấy cô."
+    },
+    {
+        "word": "angry",
+        "type": "adj",
+        "ipa": "æɳgri",
+        "meaning": "giận, tức giận",
+        "ex": "They were angry because their plans had been discovered.",
+        "ipaExTrans": "ðeɪ wɜːr ˈæŋgri bɪˈkɒz ðeə plænz hæd biːn dɪsˈkʌvəd.",
+        "exMeaning": "Họ đã tức giận vì kế hoạch của họ đã bị phát hiện."
+    },
+    {
+        "word": "animal",
+        "type": "n",
+        "ipa": "æniməl",
+        "meaning": "động vật, thú vật",
+        "ex": "I went to college and studied animal husbandry.",
+        "ipaExTrans": "aɪ wɛnt tuː ˈkɒlɪʤ ænd ˈstʌdɪd ˈænɪməl ˈhʌzbəndri.",
+        "exMeaning": "Tôi đi học đại học và học chăn nuôi."
+    },
+    {
+        "word": "ankle",
+        "type": "n",
+        "ipa": "æɳkl",
+        "meaning": "mắt cá chân",
+        "ex": "I hurt my ankle and I can't walk on it.",
+        "ipaExTrans": "aɪ hɜːt maɪ ˈæŋkl ænd aɪ kɑːnt wɔːk ɒn ɪt.",
+        "exMeaning": "Tôi đau mắt cá chân và tôi không thể đi trên đó."
+    },
+    {
+        "word": "anniversary",
+        "type": "n",
+        "ipa": ",æni'və:səri",
+        "meaning": "ngày, lễ kỉ niệm",
+        "ex": "The anniversary is celebrated.",
+        "ipaExTrans": "ði ˌænɪˈvɜːsəri ɪz ˈsɛlɪbreɪtɪd.",
+        "exMeaning": "Lễ kỷ niệm được tổ chức."
+    },
+    {
+        "word": "announce",
+        "type": "v",
+        "ipa": "ə'nauns",
+        "meaning": "báo, thông báo",
+        "ex": "I will also announce you as the supreme battle strategist.",
+        "ipaExTrans": "aɪ wɪl ˈɔːlsəʊ əˈnaʊns juː æz ðə sju(ː)ˈpriːm ˈbætl ˈstrætɪʤɪst.",
+        "exMeaning": "Tôi cũng sẽ công bố bạn là chiến lược gia chiến đấu tối cao."
+    },
+    {
+        "word": "annoy",
+        "type": "v",
+        "ipa": "ə'nɔi",
+        "meaning": "chọc tức, làm bực mình; làm phiền, quẫy nhiễu",
+        "ex": "My cat likes to knock over water glasses just to annoy me.",
+        "ipaExTrans": "maɪ kæt laɪks tuː nɒk ˈəʊvə ˈwɔːtə ˈglɑːsɪz ʤʌst tuː əˈnɔɪ miː.",
+        "exMeaning": "Con mèo của tôi thích đập vỡ cốc nước chỉ để làm phiền tôi."
+    },
+    {
+        "word": "annoyed",
+        "type": "adj",
+        "ipa": "ə'nɔid",
+        "meaning": "bị khó chịu, bực mình, bị quấy rầy",
+        "ex": "The man looked annoyed as much as disappointed.",
+        "ipaExTrans": "ðə mæn lʊkt əˈnɔɪd æz mʌʧ æz ˌdɪsəˈpɔɪntɪd.",
+        "exMeaning": "Người đàn ông trông có vẻ khó chịu cũng như thất vọng."
+    },
+    {
+        "word": "annoying",
+        "type": "adj",
+        "ipa": "ə'nɔiiɳ",
+        "meaning": "chọc tức, làm bực mình; làm phiền, quấy nhiễu",
+        "ex": "He was annoying, and she wanted him to leave her alone.",
+        "ipaExTrans": "hiː wɒz əˈnɔɪɪŋ, ænd ʃiː ˈwɒntɪd hɪm tuː liːv hɜːr əˈləʊn.",
+        "exMeaning": "Anh khó chịu, và cô muốn anh để cô một mình."
+    },
+    {
+        "word": "annual",
+        "type": "adj",
+        "ipa": "ænjuəl",
+        "meaning": "hàng năm, từng năm",
+        "ex": "I miss their annual calendar.",
+        "ipaExTrans": "aɪ mɪs ðeər ˈænjʊəl ˈkælɪndə.",
+        "exMeaning": "Tôi nhớ lịch hàng năm của họ."
+    },
+    {
+        "word": "annually",
+        "type": "adv",
+        "ipa": "ænjuəli",
+        "meaning": "hàng năm, từng năm",
+        "ex": "The value of the ore reduced annually is about $10,000,000.",
+        "ipaExTrans": "ðə ˈvæljuː ɒv ði ɔː rɪˈdjuːst ˈænjʊəli ɪz əˈbaʊt $10,000,000.",
+        "exMeaning": "Giá trị của quặng giảm hàng năm là khoảng 10.000.000 đô la."
+    },
+    {
+        "word": "another",
+        "type": "det, pron",
+        "ipa": "ə'nʌðə",
+        "meaning": "khác",
+        "ex": "Let's try another one.",
+        "ipaExTrans": "lɛts traɪ əˈnʌðə wʌn.",
+        "exMeaning": "Hãy thử một cái khác."
+    },
+    {
+        "word": "answer",
+        "type": "n, v",
+        "ipa": "ɑ:nsə",
+        "meaning": "sự trả lời; trả lời",
+        "ex": "He put her answer down in his note book.",
+        "ipaExTrans": "hiː pʊt hɜːr ˈɑːnsə daʊn ɪn hɪz nəʊt bʊk.",
+        "exMeaning": "Anh đặt câu trả lời của cô xuống trong sổ ghi chú của mình."
+    },
+    {
+        "word": "anti",
+        "type": "prefix",
+        "meaning": "chống lại",
+        "ex": "For modern times, see Bolton Kings History of Italian Unity (1899) antI Bolton King and Thomas Okeys Italy To-day (1901).",
+        "ipaExTrans": "fɔː ˈmɒdən taɪmz, siː Bolton kɪŋz ˈhɪstəri ɒv ɪˈtæliən ˈjuːnɪti (1899) ˈænti Bolton kɪŋ ænd ˈtɒməs ˈəʊkiz ˈɪtəli tuː-deɪ (1901).",
+        "exMeaning": "Đối với thời hiện đại, xem Lịch sử Thống nhất Ý Bolton Kings (1899) antI Bolton King và Thomas Okeys Italy To-day (1901)."
+    },
+    {
+        "word": "anticipate",
+        "type": "v",
+        "ipa": "æn'tisipeit",
+        "meaning": "thấy trước, chặn trước, lường trước",
+        "ex": "She always seemed to know what was going on inside people's heads, and to anticipate how a person would react to a given circumstance.",
+        "ipaExTrans": "ʃiː ˈɔːlweɪz siːmd tuː nəʊ wɒt wɒz ˈgəʊɪŋ ɒn ɪnˈsaɪd ˈpiːplz hɛdz, ænd tuː ænˈtɪsɪpeɪt haʊ ə ˈpɜːsn wʊd ri(ː)ˈækt tuː ə ˈgɪvn ˈsɜːkəmstəns.",
+        "exMeaning": "Cô ấy dường như luôn biết những gì đang diễn ra trong đầu mọi người và dự đoán một người sẽ phản ứng thế nào trước một tình huống cụ thể."
+    },
+    {
+        "word": "anxiety",
+        "type": "n",
+        "ipa": "æɳ'zaiəti",
+        "meaning": "mối lo âu, sự lo lắng",
+        "ex": "There was anxiety in her quiet voice.",
+        "ipaExTrans": "ðeə wɒz æŋˈzaɪəti ɪn hɜː ˈkwaɪət vɔɪs.",
+        "exMeaning": "Có sự lo lắng trong giọng nói lặng lẽ của cô."
+    },
+    {
+        "word": "anxious",
+        "type": "adj",
+        "ipa": "æɳkʃəs",
+        "meaning": "lo âu, lo lắng, băn khoăn",
+        "ex": "Even so, everyone was anxious to get back home.",
+        "ipaExTrans": "ˈiːvən səʊ, ˈɛvrɪwʌn wɒz ˈæŋkʃəs tuː gɛt bæk həʊm.",
+        "exMeaning": "Mặc dù vậy, mọi người đều lo lắng khi trở về nhà."
+    },
+    {
+        "word": "anxiously",
+        "type": "adv",
+        "ipa": "æɳkʃəsli",
+        "meaning": "lo âu, lo lắng, băn khoăn ",
+        "ex": "She watched anxiously as he read her temperature.",
+        "ipaExTrans": "ʃiː wɒʧt ˈæŋkʃəsli æz hiː riːd hɜː ˈtɛmprɪʧə.",
+        "exMeaning": "Cô lo lắng nhìn anh đọc nhiệt độ của cô."
+    },
+    {
+        "word": "any",
+        "type": "detpron, adv",
+        "meaning": "một người, vật nào đó; bất cứ; một chút nào, tí nào",
+        "ex": "Alex had invited her to look at his financial files any time she wanted, and yet it seemed an intrusion on his privacy.",
+        "ipaExTrans": "ˈæləks hæd ɪnˈvaɪtɪd hɜː tuː lʊk æt hɪz faɪˈnænʃəl faɪlz ˈɛni taɪm ʃiː ˈwɒntɪd, ænd jɛt ɪt siːmd ən ɪnˈtruːʒən ɒn hɪz ˈprɪvəsi.",
+        "exMeaning": "Alex đã mời cô xem xét hồ sơ tài chính của anh bất cứ lúc nào cô muốn, và dường như nó xâm phạm quyền riêng tư của anh."
+    },
+    {
+        "word": "anyone (anybod)",
+        "type": "pron",
+        "ipa": "eniwʌn",
+        "meaning": "người nào, bất cứ ai",
+        "ex": "Sure. Chet never did hire anyone else.",
+        "ipaExTrans": "ʃʊə. Chet ˈnɛvə dɪd ˈhaɪər ˈɛnɪwʌn ɛls.",
+        "exMeaning": "Chắc chắn rồi. Chet không bao giờ thuê ai khác."
+    },
+    {
+        "word": "anything",
+        "type": "pron",
+        "ipa": "eniθiɳ",
+        "meaning": "việc gì, vật gì; bất cứ việc gì, vật gì",
+        "ex": "He does not like to do anything else.",
+        "ipaExTrans": "hiː dʌz nɒt laɪk tuː duː ˈɛnɪθɪŋ ɛls.",
+        "exMeaning": "Anh ấy không thích làm gì khác."
+    },
+    {
+        "word": "anyway",
+        "type": "adv",
+        "ipa": "eniwei",
+        "meaning": "thế nào cũng được, dù sấo chăng nữa",
+        "ex": "Well, it doesn't matter anyway, I suppose.",
+        "ipaExTrans": "wɛl, ɪt dʌznt ˈmætər ˈɛnɪweɪ, aɪ səˈpəʊz.",
+        "exMeaning": "Chà, dù sao thì nó cũng không thành vấn đề."
+    },
+    {
+        "word": "anywhere",
+        "type": "adv",
+        "ipa": "eniweə",
+        "meaning": "bất cứ chỗ nào, bất cứ nơi đâu",
+        "ex": "We won't go anywhere near the crime scene; ever.",
+        "ipaExTrans": "wiː wəʊnt gəʊ ˈɛnɪweə nɪə ðə kraɪm siːn; ˈɛvə.",
+        "exMeaning": "Chúng tôi sẽ không đi bất cứ nơi nào gần hiện trường vụ án; không bao giờ."
+    },
+    {
+        "word": "apart",
+        "type": "adv",
+        "ipa": "ə'pɑ:t",
+        "meaning": "về một bên, qua một bên",
+        "ex": "They tore apart the palace and your cabin.",
+        "ipaExTrans": "ðeɪ tɔːr əˈpɑːt ðə ˈpælɪs ænd jɔː ˈkæbɪn.",
+        "exMeaning": "Họ xé toạc cung điện và cabin của bạn."
+    },
+    {
+        "word": "apart from",
+        "type": "prep",
+        "ipa": "ə'pɑ:t",
+        "meaning": "ngoài... ra",
+        "ex": "I hardly watch any television, aside from news and current affairs.",
+        "ipaExTrans": "aɪ ˈhɑːdli wɒʧ ˈɛni ˈtɛlɪˌvɪʒən, əˈsaɪd frɒm njuːz ænd ˈkʌrənt əˈfeəz.",
+        "exMeaning": "Tôi hầu như không xem bất kỳ truyền hình nào, ngoài tin tức và các vấn đề thời sự."
+    },
+    {
+        "word": "aside from",
+        "type": "prep",
+        "meaning": "ngoài ra",
+        "ex": "I can’t think of anything I need, apart from a car.",
+        "ipaExTrans": "aɪ kɑːnt θɪŋk ɒv ˈɛnɪθɪŋ aɪ niːd, əˈpɑːt frɒm ə kɑː.",
+        "exMeaning": "Tôi có thể nghĩ bất cứ điều gì tôi cần, ngoài một chiếc xe hơi."
+    },
+    {
+        "word": "apartment",
+        "type": "n",
+        "ipa": "ə'pɑ:tmənt",
+        "meaning": "căn phòng, căn buồng",
+        "ex": "Now that the truth was out, maybe it wouldn't be so difficult to live in the same apartment now.",
+        "ipaExTrans": "naʊ ðæt ðə truːθ wɒz aʊt, ˈmeɪbiː ɪt ˈwʊdnt biː səʊ ˈdɪfɪkəlt tuː lɪv ɪn ðə seɪm əˈpɑːtmənt naʊ.",
+        "exMeaning": "Bây giờ sự thật đã được đưa ra, có lẽ bây giờ sẽ không quá khó để sống trong cùng một căn hộ."
+    },
+    {
+        "word": "apologize",
+        "type": "v",
+        "ipa": "ə'pɔlədʤaiz",
+        "meaning": "xin lỗi, tạ lỗi",
+        "ex": "I am the first to apologize, you know me!",
+        "ipaExTrans": "aɪ æm ðə fɜːst tuː əˈpɒləʤaɪz, juː nəʊ miː!",
+        "exMeaning": "Tôi là người đầu tiên xin lỗi, bạn biết tôi!"
+    },
+    {
+        "word": "apparent",
+        "type": "adj",
+        "ipa": "ə'pærənt",
+        "meaning": "rõ ràng, rành mạch; bề ngoài, có vẻ",
+        "ex": "It was apparent by the look on Jackson's face.",
+        "ipaExTrans": "ɪt wɒz əˈpærənt baɪ ðə lʊk ɒn ˈʤæksənz feɪs.",
+        "exMeaning": "Rõ ràng là nhìn vào khuôn mặt của Jackson."
+    },
+    {
+        "word": "apparently",
+        "type": "adv",
+        "meaning": "nhìn bên ngoài, hình như",
+        "ex": "Apparently he did a lot of walking.",
+        "ipaExTrans": "əˈpærəntli hiː dɪd ə lɒt ɒv ˈwɔːkɪŋ.",
+        "exMeaning": "Rõ ràng anh đã đi bộ rất nhiều."
+    },
+    {
+        "word": "appeal",
+        "type": "n, v",
+        "ipa": "ə'pi:l",
+        "meaning": "sự kêu gọi, lời kêu gọi; kêu gọi, cầu khẩn",
+        "ex": "No appeal of yours will work in his favor.",
+        "ipaExTrans": "nəʊ əˈpiːl ɒv jɔːz wɪl wɜːk ɪn hɪz ˈfeɪvə.",
+        "exMeaning": "Không có kháng cáo của bạn sẽ làm việc trong lợi của mình."
+    },
+    {
+        "word": "appear",
+        "type": "v",
+        "ipa": "ə'piə",
+        "meaning": "xuất hiện, hiện ra, trình diện",
+        "ex": "I tried to appear resigned to defeat.",
+        "ipaExTrans": "aɪ traɪd tuː əˈpɪə rɪˈzaɪnd tuː dɪˈfiːt.",
+        "exMeaning": "Tôi đã cố tỏ ra cam chịu để đánh bại."
+    },
+    {
+        "word": "appearance",
+        "type": "n",
+        "ipa": "ə'piərəns",
+        "meaning": "sự xuất hiện, sự trình diện",
+        "ex": "Shadows made his appearance sinister.",
+        "ipaExTrans": "ˈʃædəʊz meɪd hɪz əˈpɪərəns ˈsɪnɪstə.",
+        "exMeaning": "Shadows làm vẻ ngoài của anh trở nên nham hiểm."
+    },
+    {
+        "word": "apple",
+        "type": "n",
+        "ipa": "æpl",
+        "meaning": "quả táo",
+        "ex": "Is that apple pie I smell?",
+        "ipaExTrans": "ɪz ðæt ˈæpl paɪ aɪ smɛl?",
+        "exMeaning": "Là bánh táo mà tôi ngửi?"
+    },
+    {
+        "word": "application",
+        "type": "n",
+        "ipa": ",æpli'keiʃn",
+        "meaning": "sự gắn vào, vật gắn vào; sự chuyên cần, chuyên tâm",
+        "ex": "All the same, she finally sent her application for the job.",
+        "ipaExTrans": "ɔːl ðə seɪm, ʃiː ˈfaɪnəli sɛnt hɜːr ˌæplɪˈkeɪʃ(ə)n fɔː ðə ʤɒb.",
+        "exMeaning": "Tất cả đều giống nhau, cuối cùng cô ấy đã gửi đơn xin việc của mình."
+    },
+    {
+        "word": "apply",
+        "type": "v",
+        "ipa": "ə'plai",
+        "meaning": "gắn vào, ghép vào, áp dụng vào",
+        "ex": "Different laws apply in different jurisdictions.",
+        "ipaExTrans": "ˈdɪfrənt lɔːz əˈplaɪ ɪn ˈdɪfrənt ˌʤʊərɪsˈdɪkʃənz.",
+        "exMeaning": "Luật khác nhau áp dụng trong các khu vực pháp lý khác nhau."
+    },
+    {
+        "word": "appoint",
+        "type": "v",
+        "ipa": "ə'pɔint",
+        "meaning": "bổ nhiệm, chỉ định, chọn",
+        "ex": "He was given the right to dispense justice, to coin money and to appoint the bishops in Bavaria.",
+        "ipaExTrans": "hiː wɒz ˈgɪvn ðə raɪt tuː dɪsˈpɛns ˈʤʌstɪs, tuː kɔɪn ˈmʌni ænd tuː əˈpɔɪnt ðə ˈbɪʃəps ɪn bəˈveərɪə.",
+        "exMeaning": "Ông được trao quyền công lý, nhận tiền xu và bổ nhiệm các giám mục ở Bavaria."
+    },
+    {
+        "word": "appointment",
+        "type": "n",
+        "ipa": "ə'pɔintmənt",
+        "meaning": "sự bổ nhiệm, người được bổ nhiệm",
+        "ex": "I can make it to my appointment without you.",
+        "ipaExTrans": "aɪ kæn meɪk ɪt tuː maɪ əˈpɔɪntmənt wɪˈðaʊt juː.",
+        "exMeaning": "Tôi có thể đến cuộc hẹn của tôi mà không có bạn."
+    },
+    {
+        "word": "appreciate",
+        "type": "v",
+        "ipa": "ə'pri:ʃieit",
+        "meaning": "thấy rõ; nhận thức",
+        "ex": "I appreciate everything you do.",
+        "ipaExTrans": "aɪ əˈpriːʃɪeɪt ˈɛvrɪθɪŋ juː duː.",
+        "exMeaning": "Tôi đánh giá cao mọi thứ bạn làm."
+    },
+    {
+        "word": "approach",
+        "type": "v, n",
+        "ipa": "ə'proutʃ",
+        "meaning": "đến gần, lại gần; sự đến gần, sự lại gần",
+        "ex": "Her plan was to approach the building from the back parking lot.",
+        "ipaExTrans": "hɜː plæn wɒz tuː əˈprəʊʧ ðə ˈbɪldɪŋ frɒm ðə bæk ˈpɑːkɪŋ lɒt.",
+        "exMeaning": "Kế hoạch của cô là tiếp cận tòa nhà từ bãi đậu xe phía sau."
+    },
+    {
+        "word": "appropriate (to, for)",
+        "type": "adj",
+        "ipa": "ə'proupriit",
+        "meaning": "thích hợp, thích đáng",
+        "ex": "I didn't think it appropriate to tell you who I was.",
+        "ipaExTrans": "aɪ dɪdnt θɪŋk ɪt əˈprəʊprɪɪt tuː tɛl juː huː aɪ wɒz.",
+        "exMeaning": "Tôi không nghĩ nó phù hợp để nói với bạn tôi là ai."
+    },
+    {
+        "word": "approval",
+        "type": "n",
+        "ipa": "ə'pru:vəl",
+        "meaning": "sự tán thành, đồng ý, sự chấp thuận",
+        "ex": "You got his stamp of approval, you know.",
+        "ipaExTrans": "juː gɒt hɪz stæmp ɒv əˈpruːvəl, juː nəʊ.",
+        "exMeaning": "Bạn có dấu của ông ấy, bạn biết đấy."
+    },
+    {
+        "word": "approve",
+        "type": "of, v",
+        "ipa": "ə'pru:v",
+        "meaning": "tán thành, đồng ý, chấp thuận",
+        "ex": "I don't think my father would approve of me seeing you, she managed.",
+        "ipaExTrans": "aɪ dəʊnt θɪŋk maɪ ˈfɑːðə wʊd əˈpruːv ɒv miː ˈsiːɪŋ juː, ʃiː ˈmænɪʤd.",
+        "exMeaning": "Tôi không nghĩ cha tôi sẽ tán thành việc tôi gặp bạn, bà quản lý."
+    },
+    {
+        "word": "approving",
+        "type": "adj",
+        "ipa": "ə'pru:viɳ",
+        "meaning": "tán thành, đồng ý, chấp thuận",
+        "ex": "Several approving voices were heard in the crowd.",
+        "ipaExTrans": "ˈsɛvrəl əˈpruːvɪŋ ˈvɔɪsɪz wɜː hɜːd ɪn ðə kraʊd.",
+        "exMeaning": "Một số tiếng nói tán thành đã được nghe thấy trong đám đông."
+    },
+    {
+        "word": "approximate",
+        "type": "adj, to",
+        "ipa": "ə'prɔksimit",
+        "meaning": "giống với, giống hệt với",
+        "ex": "A scale for the approximate transformation for the curves in fig.",
+        "ipaExTrans": "ə skeɪl fɔː ði əˈprɒksɪmɪt ˌtrænsfəˈmeɪʃən fɔː ðə kɜːvz ɪn fɪg.",
+        "exMeaning": "Một thang đo cho phép biến đổi gần đúng cho các đường cong trong hình."
+    },
+    {
+        "word": "approximately",
+        "type": "adv",
+        "ipa": "ə'prɔksimitli",
+        "meaning": "khoảng chừng, độ chừng ",
+        "ex": "It was a small white bone approximately one inch long.",
+        "ipaExTrans": "ɪt wɒz ə smɔːl waɪt bəʊn əˈprɒksɪmɪtli wʌn ɪnʧ lɒŋ.",
+        "exMeaning": "Đó là một cái xương trắng nhỏ dài khoảng một inch."
+    },
+    {
+        "word": "April (abbr Apr)",
+        "type": "n",
+        "ipa": "eiprəl",
+        "meaning": "tháng Tư",
+        "ex": "In April, Rostov was on orderly duty.",
+        "ipaExTrans": "ɪn ˈeɪprəl, ˈrɒstɒv wɒz ɒn ˈɔːdəli ˈdjuːti.",
+        "exMeaning": "Vào tháng Tư, Rostov đang làm nhiệm vụ có trật tự."
+    },
+    {
+        "word": "area",
+        "type": "n",
+        "ipa": "eəriə",
+        "meaning": "diện tích, bề mặt",
+        "ex": "No more so than the area round the house.",
+        "ipaExTrans": "nəʊ mɔː səʊ ðæn ði ˈeərɪə raʊnd ðə haʊs.",
+        "exMeaning": "Không quá khu vực quanh nhà."
+    },
+    {
+        "word": "argue",
+        "type": "v",
+        "ipa": "ɑ:gju:",
+        "meaning": "chứng tỏ, chỉ rõ",
+        "ex": "We didn't bother to argue with Quinn.",
+        "ipaExTrans": "wiː dɪdnt ˈbɒðə tuː ˈɑːgjuː wɪð Quinn.",
+        "exMeaning": "Chúng tôi không buồn cãi nhau với Quinn."
+    },
+    {
+        "word": "argument",
+        "type": "n",
+        "ipa": "ɑ:gjumənt",
+        "meaning": "lý lẽ",
+        "ex": "They'll get no argument from me.",
+        "ipaExTrans": "ðeɪl gɛt nəʊ ˈɑːgjʊmənt frɒm miː.",
+        "exMeaning": "Họ sẽ không nhận được tranh luận từ tôi."
+    },
+    {
+        "word": "arise",
+        "type": "v",
+        "ipa": "ə'raiz",
+        "meaning": "xuất hiện, nảy ra, nảy sinh ra",
+        "ex": "Magnetic fields arise from the flow of current.",
+        "ipaExTrans": "mægˈnɛtɪk fiːldz əˈraɪz frɒm ðə fləʊ ɒv ˈkʌrənt.",
+        "exMeaning": "Từ trường phát sinh từ dòng chảy."
+    },
+    {
+        "word": "arm",
+        "type": "n, v",
+        "ipa": "ɑ:m",
+        "meaning": "cánh tay; vũ trang, trang bị (vũ khí)",
+        "ex": "She touched his arm and he glanced up.",
+        "ipaExTrans": "ʃiː tʌʧt hɪz ɑːm ænd hiː glɑːnst ʌp.",
+        "exMeaning": "Cô chạm vào cánh tay anh và anh liếc lên."
+    },
+    {
+        "word": "armed",
+        "type": "adj",
+        "ipa": "ɑ:md",
+        "meaning": "vũ trang",
+        "ex": "He was armed with several knives, and his silver eyes were fiery.",
+        "ipaExTrans": "hiː wɒz ɑːmd wɪð ˈsɛvrəl naɪvz, ænd hɪz ˈsɪlvər aɪz wɜː ˈfaɪəri.",
+        "exMeaning": "Anh ta được trang bị một vài con dao, và đôi mắt màu bạc của anh ta rất bốc lửa."
+    },
+    {
+        "word": "arms",
+        "type": "n",
+        "meaning": "vũ khí, binh giới, binh khí",
+        "ex": "She clamped her arms around his waist again.",
+        "ipaExTrans": "ʃiː klæmpt hɜːr ɑːmz əˈraʊnd hɪz weɪst əˈgɛn.",
+        "exMeaning": "Cô lại vòng tay ôm eo anh."
+    },
+    {
+        "word": "army",
+        "type": "n",
+        "ipa": "ɑ:mi",
+        "meaning": "quân đội",
+        "ex": "I scouted for the army a few years.",
+        "ipaExTrans": "aɪ ˈskaʊtɪd fɔː ði ˈɑːmi ə fjuː jɪəz.",
+        "exMeaning": "Tôi đã trinh sát cho quân đội một vài năm."
+    },
+    {
+        "word": "around",
+        "type": "adv, prep",
+        "ipa": "ə'raund",
+        "meaning": "xung quanh, vòng quanh",
+        "ex": "He put an arm around her waist and kissed her cheek.",
+        "ipaExTrans": "hiː pʊt ən ɑːm əˈraʊnd hɜː weɪst ænd kɪst hɜː ʧiːk.",
+        "exMeaning": "Anh vòng tay quanh eo cô và hôn lên má cô."
+    },
+    {
+        "word": "arrange",
+        "type": "v",
+        "ipa": "ə'reindʤ",
+        "meaning": "sắp xếp, sắp đặt, sửa soạn",
+        "ex": "Annette and I were speaking of how to arrange it.",
+        "ipaExTrans": "æˈnɛt ænd aɪ wɜː ˈspiːkɪŋ ɒv haʊ tuː əˈreɪnʤ ɪt.",
+        "exMeaning": "Annette và tôi đã nói về cách sắp xếp nó."
+    },
+    {
+        "word": "arrangement",
+        "type": "n",
+        "ipa": "ə'reindʤmənt",
+        "meaning": "sự sắp xếp, sắp đặt, sự sửa soạn",
+        "ex": "I'm not interested in an arrangement with you.",
+        "ipaExTrans": "aɪm nɒt ˈɪntrɪstɪd ɪn ən əˈreɪnʤmənt wɪð juː.",
+        "exMeaning": "Tôi không quan tâm đến sự sắp xếp với bạn."
+    },
+    {
+        "word": "arrest",
+        "type": "v, n",
+        "ipa": "ə'rest",
+        "meaning": "bắt giữ, sự bắt giữ",
+        "ex": "They could arrest and imprison.",
+        "ipaExTrans": "ðeɪ kʊd əˈrɛst ænd ɪmˈprɪzn.",
+        "exMeaning": "Họ có thể bắt giữ và bỏ tù."
+    },
+    {
+        "word": "arrival",
+        "type": "n",
+        "ipa": "ə'raivəl",
+        "meaning": "sự đến, sự tới nơi",
+        "ex": "Their arrival created a stir in the sleepy little town.",
+        "ipaExTrans": "ðeər əˈraɪvəl kri(ː)ˈeɪtɪd ə stɜːr ɪn ðə ˈsliːpi ˈlɪtl taʊn.",
+        "exMeaning": "Sự xuất hiện của họ tạo ra một sự khuấy động trong thị trấn nhỏ buồn ngủ."
+    },
+    {
+        "word": "arrive (at, in)",
+        "type": "v",
+        "ipa": "ə'raiv",
+        "meaning": "đến, tới nơi",
+        "ex": "We expect visitors to arrive soon.",
+        "ipaExTrans": "wiː ɪksˈpɛkt ˈvɪzɪtəz tuː əˈraɪv suːn.",
+        "exMeaning": "Chúng tôi hy vọng du khách sẽ đến sớm."
+    },
+    {
+        "word": "arrow",
+        "type": "n",
+        "ipa": "ærou",
+        "meaning": "tên, mũi tên",
+        "ex": "The arrow went over his head and was followed by two more.",
+        "ipaExTrans": "ði ˈærəʊ wɛnt ˈəʊvə hɪz hɛd ænd wɒz ˈfɒləʊd baɪ tuː mɔː.",
+        "exMeaning": "Mũi tên đi qua đầu anh và được theo sau bởi hai người nữa."
+    },
+    {
+        "word": "art",
+        "type": "n",
+        "ipa": "ɑ:t",
+        "meaning": "nghệ thuật, mỹ thuật",
+        "ex": "Last week I visited a beautiful art store.",
+        "ipaExTrans": "lɑːst wiːk aɪ ˈvɪzɪtɪd ə ˈbjuːtəfʊl ɑːt stɔː.",
+        "exMeaning": "Tuần trước tôi đã ghé thăm một cửa hàng nghệ thuật đẹp."
+    },
+    {
+        "word": "article",
+        "type": "n",
+        "ipa": "ɑ:tikl",
+        "meaning": "bài báo, đề mục",
+        "ex": "The newspaper included a photo with the article about the wreck.",
+        "ipaExTrans": "ðə ˈnjuːzˌpeɪpər ɪnˈkluːdɪd ə ˈfəʊtəʊ wɪð ði ˈɑːtɪkl əˈbaʊt ðə rɛk.",
+        "exMeaning": "Tờ báo bao gồm một bức ảnh với bài báo về xác tàu."
+    },
+    {
+        "word": "artificial",
+        "type": "adj",
+        "ipa": ",ɑ:ti'fiʃəl",
+        "meaning": "nhân tạo",
+        "ex": "The artificial breeze from the fan provided only temporary relief.",
+        "ipaExTrans": "ði ˌɑːtɪˈfɪʃ(ə)l briːz frɒm ðə fæn prəˈvaɪdɪd ˈəʊnli ˈtɛmpərəri rɪˈliːf.",
+        "exMeaning": "Làn gió nhân tạo từ quạt chỉ mang lại sự nhẹ nhõm tạm thời."
+    },
+    {
+        "word": "artificially",
+        "type": "adv",
+        "ipa": ",ɑ:ti'fiʃəli",
+        "meaning": "nhân tạo",
+        "ex": "The ears are usually artificially clipped so as to present a rounded lower margin.",
+        "ipaExTrans": "ði ɪəz ɑː ˈjuːʒʊəli ˌɑːtɪˈfɪʃ(ə)li klɪpt səʊ æz tuː ˈprɛznt ə ˈraʊndɪd ˈləʊə ˈmɑːʤɪn.",
+        "exMeaning": "Đôi tai thường được cắt một cách giả tạo để thể hiện một lề dưới tròn."
+    },
+    {
+        "word": "artist",
+        "type": "n",
+        "ipa": "ɑ:tist",
+        "meaning": "nghệ sĩ",
+        "ex": "Everyone wanted to meet the artist and discuss the work they were interested in.",
+        "ipaExTrans": "ˈɛvrɪwʌn ˈwɒntɪd tuː miːt ði ˈɑːtɪst ænd dɪsˈkʌs ðə wɜːk ðeɪ wɜːr ˈɪntrɪstɪd ɪn.",
+        "exMeaning": "Mọi người đều muốn gặp nghệ sĩ và thảo luận về công việc họ quan tâm."
+    }
+]

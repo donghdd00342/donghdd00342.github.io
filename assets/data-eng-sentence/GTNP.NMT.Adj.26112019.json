@@ -1,0 +1,191 @@
+[
+    {
+        "sentence": "There are some cornflakes on the table, but there wasn't any milk.",
+        "ipa": "ðeər ɑː sʌm ˈkɔːnfleɪks ɒn ðə ˈteɪbl, bʌt ðeə wɒznt ˈɛni mɪlk.",
+        "meaning": "Có một số bánh ngô trên bàn, nhưng không có sữa.",
+        "context": "Some, any + Noun đếm đc ở số nhiều HOẶC Noun ko đếm đc, Some thường dùng trong câu khẳng định và Any dùng trong câu PHỦ ĐỊNH và CÂU HỎI",
+        "hint": "cornflake[s] bánh ngô (số nhiều); milk: sữa ko đếm đc"
+    },
+    {
+        "sentence": "Are there any stamps in the drawer?",
+        "ipa": "ɑː ðeər ˈɛni stæmps ɪn ðə ˈdrɔːə?",
+        "tag": "đếm đc số nhiều",
+        "meaning": "Có con tem nào trong ngăn kéo ko?",
+        "context": "Some, any + Noun đếm đc ở số nhiều HOẶC Noun ko đếm đc, Some thường dùng trong câu khẳng định và Any dùng trong câu PHỦ ĐỊNH và CÂU HỎI",
+        "hint": "stamp[s] con tem (số nhiều)"
+    },
+    {
+        "sentence": "Would you like some coffee?",
+        "ipa": "wʊd juː laɪk sʌm ˈkɒfi?",
+        "tag": "ko đếm đc",
+        "meaning": "Anh dùng chút cà phê nhé?",
+        "context": "Some dùng trong câu mời mọc, nhờ vả",
+        "hint": "coffee: cà phê (ko đếm đc)"
+    },
+    {
+        "sentence": "Could you post some letters for me?",
+        "ipa": "kʊd juː pəʊst sʌm ˈlɛtəz fɔː miː?",
+        "tag": "đếm đc số nhiều",
+        "meaning": "Anh có thể gửi giúp tôi vài lá thư ko?",
+        "context": "Some dùng trong câu mời mọc, nhờ vả",
+        "hint": "letters: lá thư (số nhiều)"
+    },
+    {
+        "sentence": "Some man at the door is asking to see you.",
+        "ipa": "sʌm mæn æt ðə dɔːr ɪz ˈɑːskɪŋ tuː siː juː.",
+        "tag": "số ít",
+        "meaning": "Ở ngoài của có người nào đó muốn gặp anh",
+        "context": "Dùng với số ít để chỉ người/vật chưa đc biết đến",
+        "hint": "man (số ít) chỉ một người nào đó chưa đc biết đến"
+    },
+    {
+        "sentence": "Have you any other book on this subject?",
+        "ipa": "hæv juː ˈɛni ˈʌðə bʊk ɒn ðɪs ˈsʌbʤɪkt?",
+        "tag": "số ít",
+        "meaning": "Anh có quyển sách nào khác về chủ đề này ko?",
+        "context": "Dùng với số ít để chỉ người/vật chưa đc biết đến",
+        "hint": "book: sách (số ít) chỉ một vài vật nào khác"
+    },
+    {
+        "sentence": "We don't have many oranges today.",
+        "ipa": "wiː dəʊnt hæv ˈmɛni ˈɒrɪnʤɪz təˈdeɪ.",
+        "tag": "số nhiều",
+        "meaning": "Hôm nay chúng ta không có nhiều cam",
+        "context": "Many + Noun đếm được ở số nhiều; Much + Noun ko đếm được",
+        "hint": "orange[s]: cam (số nhiều); dùng trong câu phủ định nếu đi với Noun làm bổ ngữ"
+    },
+    {
+        "sentence": "He hasn't much money.",
+        "ipa": "hiː ˈhæznt mʌʧ ˈmʌni.",
+        "tag": "ko đếm đc",
+        "meaning": "Anh ấy không có nhiều tiền",
+        "context": "Many + Noun đếm được ở số nhiều; Much + Noun ko đếm được",
+        "hint": "money: tiền (ko đếm đc); dùng trong câu phủ định nếu đi với Noun làm bổ ngữ"
+    },
+    {
+        "sentence": "Much snow has fallen.",
+        "ipa": "mʌʧ snəʊ hæz ˈfɔːlən.",
+        "tag": "ko đếm đc",
+        "meaning": "Nhiều tuyết đã rơi",
+        "context": "chỉ số lượng nhiều, dùng trong câu khẳng định nếu đi với chủ ngữ"
+    },
+    {
+        "sentence": "Many books lie on that table.",
+        "ipa": "ˈmɛni bʊks laɪ ɒn ðæt ˈteɪbl.",
+        "tag": "số nhiều",
+        "meaning": "Nhiều quyển sách nằm trên bàn",
+        "context": "chỉ số lượng nhiều, dùng trong câu khẳng định nếu đi với chủ ngữ"
+    },
+    {
+        "sentence": "You can order as many roses as you like.",
+        "ipa": "juː kæn ˈɔːdər æz ˈmɛni ˈrəʊzɪz æz juː laɪk.",
+        "tag": "số nhiều đếm đc",
+        "meaning": "Anh thích bao nhiêu hoa hồng thì có thể đặt mua bấy nhiêu",
+        "context": "Dùng trong câu khẳng định khi chúng có \"so, as, too, how\" đứng trước"
+    },
+    {
+        "sentence": "I drank too much beer at my brother's wedding.",
+        "ipa": "aɪ dræŋk tuː mʌʧ bɪər æt maɪ ˈbrʌðəz ˈwɛdɪŋ.",
+        "tag": "ko đếm đc",
+        "meaning": "Tôi đã uống quá nhiều rượu bia ở lễ cưới của anh tôi.",
+        "context": "Dùng trong câu khẳng định khi chúng có \"so, as, too, how\" đứng trước"
+    },
+    {
+        "sentence": "There are too many mistakes in your exercise.",
+        "ipa": "ðeər ɑː tuː ˈmɛni mɪsˈteɪks ɪn jɔːr ˈɛksəsaɪz.",
+        "tag": "số nhiều đếm đc",
+        "meaning": "Có quá nhiều lỗi trong bài tập của anh.",
+        "context": "Dùng trong câu khẳng định khi chúng có \"so, as, too, how\" đứng trước"
+    },
+    {
+        "sentence": "A lot of people were queuing for the film.",
+        "ipa": "ə lɒt ɒv ˈpiːpl wɜː ˈkjuːɪŋ fɔː ðə fɪlm.",
+        "tag": "số nhiều đếm đc",
+        "meaning": "Nhiều người đang xếp hàng mua vé xem phim.",
+        "context": "A lot of/lots of thường đc dùng trong câu khẳng định + Noun số nhiều HOẶC Noun ko đếm đc"
+    },
+    {
+        "sentence": "There was a lot of money in the safe.",
+        "ipa": "ðeə wɒz ə lɒt ɒv ˈmʌni ɪn ðə seɪf.",
+        "tag": "ko đếm đc",
+        "meaning": "Có nhiều tiền trong két",
+        "context": "A lot of/lots of thường đc dùng trong câu khẳng định + Noun số nhiều HOẶC Noun ko đếm đc"
+    },
+    {
+        "sentence": "I don't have many (a lot of) friend.",
+        "ipa": "aɪ dəʊnt hæv ˈmɛni (ə lɒt ɒv) frɛnd.",
+        "tag": "lối văn thân mật",
+        "meaning": "Tôi ko có nhiều bạn",
+        "context": "A lot of/lots of cũng có thể đc dùng trong câu phủ định hoặc nghi vấn trong lối văn thân mật",
+        "hint": "Lối văn thân mật + Noun SỐ ÍT"
+    },
+    {
+        "sentence": "Do you eat much (a lot of) fruit?",
+        "ipa": "duː juː iːt mʌʧ (ə lɒt ɒv) fruːt?",
+        "tag": "lối văn thân mật",
+        "meaning": "Bạn có ăn nhiều trái câu ko?",
+        "context": "Lối văn thân mật + Noun SỐ ÍT"
+    },
+    {
+        "sentence": "Sarah has so many friend.",
+        "ipa": "ˈseərə hæz səʊ ˈmɛni frɛnd.",
+        "tag": "lối văn thân mật",
+        "meaning": "Sarah có rất nhiều bạn",
+        "context": "LƯU Ý: Ko dùng \"a lot of\" sau \"too, so, as và very\""
+    },
+    {
+        "sentence": "I enjoy my life here. I have a few friends and we meet quite often.",
+        "ipa": "aɪ ɪnˈʤɔɪ maɪ laɪf hɪə. aɪ hæv ə fjuː frɛndz ænd wiː miːt kwaɪt ˈɒf(ə)n.",
+        "tag": "mang nghĩa KHẲNG ĐỊNH",
+        "meaning": "Tôi sống ở đây rất vui. Tôi có vài người bạn và chúng tôi gặp nhau khá thường xuyên.",
+        "context": "a few và a little: chỉ số lượng nhỏ và MANG NGHĨA KHẲNG ĐỊNH; A FEW + Noun đếm đc ở SỐ NHIỀU; A LITTLE + Noun KO ĐẾM ĐC",
+        "hint": "[a few friends = some friends]"
+    },
+    {
+        "sentence": "Let's go and have a drink. We've  got a little time before the train leaves.",
+        "ipa": "lɛts gəʊ ænd hæv ə drɪŋk. wiːv gɒt ə ˈlɪtl taɪm bɪˈfɔː ðə treɪn liːvz.",
+        "tag": "mang nghĩa KHẲNG ĐỊNH",
+        "meaning": "Chúng ta đi uống nước đi. Chúng ta vẫn còn một ít thời gian trước khi tàu chạy.",
+        "context": "a few và a little: chỉ số lượng nhỏ và MANG NGHĨA KHẲNG ĐỊNH; A FEW + Noun đếm đc ở SỐ NHIỀU; A LITTLE + Noun KO ĐẾM ĐC",
+        "hint": "[a little time = some time]"
+    },
+    {
+        "sentence": "He isn't popular. He has few friends.",
+        "ipa": "hiː ˈɪznt ˈpɒpjʊlə. hiː hæz fjuː frɛndz.",
+        "tag": "mang nghĩa PHỦ ĐỊNH",
+        "meaning": "Anh ta ko đc mọi người yêu thích, anh ta có ít bạn bè.",
+        "context": "Few + Noun đếm đc SỐ NHIỀU",
+        "hint": "nghĩa phủ định (ko nhiều như mong đợi / như người ta nghĩ)"
+    },
+    {
+        "sentence": "We must be quick. There is little time.",
+        "ipa": "wiː mʌst biː kwɪk. ðeər ɪz ˈlɪtl taɪm.",
+        "tag": "mang nghĩa PHỦ ĐỊNH",
+        "meaning": "Chúng ta phải nhanh lên. Ko có nhiều thời gian đâu.",
+        "context": "Little + Noun KO ĐẾM ĐC",
+        "hint": "nghĩa phủ định (ko nhiều như mong đợi / như người ta nghĩ)"
+    },
+    {
+        "sentence": "We must be quick. There is verry little time.",
+        "ipa": "wiː mʌst biː kwɪk. ðeər ɪz verry ˈlɪtl taɪm.",
+        "tag": "dùng với Very",
+        "meaning": "Chúng ta phải nhanh lên. Có rất ít thời gian.",
+        "context": "Very little và Very few cũng có thể đc dùng"
+    },
+    {
+        "sentence": "He spoke little English, so it was difficult to talk to him.",
+        "ipa": "hiː spəʊk ˈlɪtl ˈɪŋglɪʃ, səʊ ɪt wɒz ˈdɪfɪkəlt tuː tɔːk tuː hɪm.",
+        "tag": "little english = not much english",
+        "meaning": "Anh ta nói đc ít tiếng Anh, nên nói chuyện với anh ta thật khó khăn.",
+        "context": "[little english = not much english (ko có gì) # a little english = some english (có một chút)]",
+        "hint": "little english = có it ~ gần như là ko có"
+    },
+    {
+        "sentence": "He spoke a little english, so we can talk to him.",
+        "ipa": "hiː spəʊk ə ˈlɪtl ˈɪŋglɪʃ, səʊ wiː kæn tɔːk tuː hɪm.",
+        "tag": "a little english = some english",
+        "meaning": "Anh ta nói đc một ít tiếng Anh, chúng ta có thể nói chuyện với anh ta.",
+        "context": "[little english = not much english (ko có gì) # a little english = some english (có một chút)]",
+        "hint": "a little english = có 1 ít ~ tầm khoảng 8.0 ielts"
+    }
+]

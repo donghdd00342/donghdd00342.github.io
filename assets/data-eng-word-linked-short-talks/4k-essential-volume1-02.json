@@ -1,0 +1,222 @@
+[
+    {
+        "word": "adventure",
+        "ipa": "ədˈvɛnʧə",
+        "type": "n",
+        "tag": "cuộc phiêu lưu",
+        "meaning": "An adventure is a fun or exciting thing that you do",
+        "context": "Một cuộc phiêu lưu là một điều thú vị hoặc thú vị mà bạn làm",
+        "ex": "Riding in the rough water was an adventure.",
+        "ipaExTrans": "ˈraɪdɪŋ ɪn ðə rʌf ˈwɔːtə wɒz ən ədˈvɛnʧə.",
+        "exMeaning": "Cưỡi trong nước thô là một cuộc phiêu lưu."
+    },
+    {
+        "word": "approach",
+        "ipa": "əˈprəʊʧ",
+        "type": "v",
+        "tag": "tiếp cận, đến gần",
+        "meaning": "To approach something means to move close to it.",
+        "context": "Để tiếp cận một cái gì đó có nghĩa là di chuyển gần nó.",
+        "ex": "The boy approached his school.",
+        "ipaExTrans": "ðə bɔɪ əˈprəʊʧt hɪz skuːl.",
+        "exMeaning": "Chàng trai tiếp cận trường học của mình."
+    },
+    {
+        "word": "carefully",
+        "ipa": "ˈkeəfli",
+        "type": "adv",
+        "tag": "cẩn thận",
+        "meaning": "Carefully means with great attention, especially to detail or safety.",
+        "context": "Cẩn thận có nghĩa là rất chú ý, đặc biệt là chi tiết hoặc an toàn.",
+        "ex": "The baby carefully climbed down the stairs.",
+        "ipaExTrans": "ðə ˈbeɪbi ˈkeəfli klaɪmd daʊn ðə steəz.",
+        "exMeaning": "Đứa bé cẩn thận trèo xuống cầu thang."
+    },
+    {
+        "word": "chemical",
+        "ipa": "ˈkɛmɪkəl",
+        "type": "n",
+        "tag": "hóa chất",
+        "meaning": "A chemical is something that scientists use in chemistry.",
+        "context": "Một hóa chất là thứ mà các nhà khoa học sử dụng trong hóa học.",
+        "ex": "The scientist mixed the chemicals.",
+        "ipaExTrans": "ðə ˈsaɪəntɪst mɪkst ðə ˈkɛmɪkəlz.",
+        "exMeaning": "Các nhà khoa học trộn các hóa chất."
+    },
+    {
+        "word": "create",
+        "ipa": "kri(ː)ˈeɪt",
+        "type": "v",
+        "tag": "tạo nên",
+        "meaning": "To create means to make something new",
+        "context": "Tạo ra phương tiện để làm một cái gì đó mới",
+        "ex": "She created an igloo from blocks of snow",
+        "ipaExTrans": "ʃiː kri(ː)ˈeɪtɪd ən ˈɪgluː frɒm blɒks ɒv snəʊ",
+        "exMeaning": "Cô ấy tạo ra một lều tuyết từ những khối tuyết"
+    },
+    {
+        "word": "evil",
+        "ipa": "ˈiːvl",
+        "type": "adj",
+        "tag": "tà ác, điều xấu, điều ác",
+        "meaning": "Evil describes something or someone bad or cruel, not good.",
+        "context": "Cái ác mô tả một cái gì đó hoặc một người xấu hoặc tàn nhẫn, không tốt.",
+        "ex": "The evil figure scared us all.",
+        "ipaExTrans": "ði ˈiːvl ˈfɪgə skeəd ʌs ɔːl.",
+        "exMeaning": "Con số ác quỷ làm tất cả chúng ta sợ hãi."
+    },
+    {
+        "word": "experiment",
+        "ipa": "ɪksˈpɛrɪmənt",
+        "type": "n",
+        "tag": "thí nghiệm",
+        "meaning": "An experiment is a test that you do to see what will happen",
+        "context": "Một thử nghiệm là một thử nghiệm mà bạn làm để xem điều gì sẽ xảy ra",
+        "ex": "The student did an experiment in science class.",
+        "ipaExTrans": "ðə ˈstjuːdənt dɪd ən ɪksˈpɛrɪmənt ɪn ˈsaɪəns klɑːs.",
+        "exMeaning": "Học sinh đã làm một thí nghiệm trong lớp khoa học."
+    },
+    {
+        "word": "kill",
+        "ipa": "kɪl",
+        "type": "v",
+        "tag": "giết chết",
+        "meaning": "To kill someone or something is to make them die.",
+        "context": "Giết ai đó hoặc một cái gì đó là làm cho họ chết.",
+        "ex": "I killed the fly with a fly swatter",
+        "ipaExTrans": "aɪ kɪld ðə flaɪ wɪð ə flaɪ ˈswɒtə",
+        "exMeaning": "Tôi giết con ruồi bằng một cái đập ruồi"
+    },
+    {
+        "word": "laboratory",
+        "ipa": "ləˈbɒrətəri",
+        "type": "n",
+        "tag": "phòng thí nghiệm",
+        "meaning": "A laboratory is a room where a scientist works",
+        "context": "Phòng thí nghiệm là một căn phòng nơi một nhà khoa học làm việc",
+        "ex": "My mother works in a laboratory",
+        "ipaExTrans": "maɪ ˈmʌðə wɜːks ɪn ə ləˈbɒrətəri",
+        "exMeaning": "Mẹ tôi làm việc trong phòng thí nghiệm"
+    },
+    {
+        "word": "laugh",
+        "ipa": "lɑːf",
+        "type": "n",
+        "tag": "cười",
+        "meaning": "Laugh is the sound made when someone is happy or a funny thing occurs",
+        "context": "Cười là âm thanh được tạo ra khi ai đó hạnh phúc hoặc một điều buồn cười xảy ra",
+        "ex": "The sound of their laugh filled the room",
+        "ipaExTrans": "ðə saʊnd ɒv ðeə lɑːf fɪld ðə ruːm",
+        "exMeaning": "Tiếng cười của họ tràn ngập căn phòng."
+    },
+    {
+        "word": "loud",
+        "ipa": "laʊd",
+        "type": "adj",
+        "tag": "to tiếng, huyên náo, ồn ào",
+        "meaning": "If a sound is loud, it is strong and very easy to hear",
+        "context": "Nếu một âm thanh lớn, nó mạnh mẽ và rất dễ nghe",
+        "ex": "The man’s voice was so loud that we all could hear him",
+        "ipaExTrans": "ðə mænz vɔɪs wɒz səʊ laʊd ðæt wiː ɔːl kʊd hɪə hɪm",
+        "exMeaning": "Giọng người đàn ông rất to đến nỗi tất cả chúng ta đều có thể nghe thấy anh ta"
+    },
+    {
+        "word": "nervous",
+        "ipa": "ˈnɜːvəs",
+        "type": "adj",
+        "tag": "lo lắng, nhát gan, dễ bị kích thích",
+        "meaning": "When a person is nervous, they think something bad will happen.",
+        "context": "Khi một người lo lắng, họ nghĩ điều gì đó tồi tệ sẽ xảy ra.",
+        "ex": "The boy became nervous when he heard the news",
+        "ipaExTrans": "ðə bɔɪ bɪˈkeɪm ˈnɜːvəs wɛn hiː hɜːd ðə njuːz",
+        "exMeaning": "Cậu bé trở nên lo lắng khi nghe tin này."
+    },
+    {
+        "word": "noise",
+        "ipa": "nɔɪz",
+        "type": "n",
+        "tag": "tiếng ồn",
+        "meaning": "A noise is an unpleasant sound.",
+        "context": "Một tiếng động là một âm thanh khó chịu.",
+        "ex": "The crying baby made a loud noise.",
+        "ipaExTrans": "ðə ˈkraɪɪŋ ˈbeɪbi meɪd ə laʊd nɔɪz.",
+        "exMeaning": "Đứa bé khóc òa lên."
+    },
+    {
+        "word": "project",
+        "ipa": "ˈprɒʤɛkt",
+        "type": "n",
+        "tag": "dự án",
+        "meaning": "A project is a type of work that you do for school or a job.",
+        "context": "Dự án là một loại công việc mà bạn làm cho trường học hoặc công việc.",
+        "ex": "His afternoon work project was to paint the room green",
+        "ipaExTrans": "hɪz ˈɑːftəˈnuːn wɜːk ˈprɒʤɛkt wɒz tuː peɪnt ðə ruːm griːn",
+        "exMeaning": "Dự án làm việc buổi chiều của anh là sơn phòng xanh"
+    },
+    {
+        "word": "scare",
+        "ipa": "skeə",
+        "type": "v",
+        "tag": "làm sợ hãi",
+        "meaning": "To scare someone is to make them feel afraid.",
+        "context": "Sợ ai đó là làm cho họ cảm thấy sợ hãi.",
+        "ex": "My uncle was scared by what he saw in the room.",
+        "ipaExTrans": "maɪ ˈʌŋkl wɒz skeəd baɪ wɒt hiː sɔː ɪn ðə ruːm.",
+        "exMeaning": "Chú tôi đã sợ hãi bởi những gì ông nhìn thấy trong phòng."
+    },
+    {
+        "word": "secret",
+        "ipa": "ˈsiːkrɪt",
+        "type": "n",
+        "tag": "bí mật, thầm kín",
+        "meaning": "A secret is something that you do not tell other people",
+        "context": "Một bí mật là điều mà bạn không nói với người khác",
+        "ex": "The two boys were sharing a secret.",
+        "ipaExTrans": "ðə tuː bɔɪz wɜː ˈʃeərɪŋ ə ˈsiːkrɪt.",
+        "exMeaning": "Hai chàng trai đã chia sẻ một bí mật."
+    },
+    {
+        "word": "shout",
+        "ipa": "ʃaʊt",
+        "type": "v",
+        "tag": "kêu la, hò hét",
+        "meaning": "To shout is to say something loudly",
+        "context": "La hét là nói to một cái gì đó",
+        "ex": "My boss shouted at me because I was late for work",
+        "ipaExTrans": "maɪ bɒs ˈʃaʊtɪd æt miː bɪˈkɒz aɪ wɒz leɪt fɔː wɜːk",
+        "exMeaning": "Sếp tôi quát tôi vì tôi đi làm muộn"
+    },
+    {
+        "word": "smell",
+        "ipa": "smɛl",
+        "type": "v",
+        "tag": "mùi",
+        "meaning": "To smell something means to use your nose to sense it",
+        "context": "Ngửi thứ gì đó có nghĩa là dùng mũi của bạn để cảm nhận nó",
+        "ex": "The two friends smelled the flower.",
+        "ipaExTrans": "ðə tuː frɛndz smɛld ðə ˈflaʊə.",
+        "exMeaning": "Hai người bạn ngửi mùi hoa."
+    },
+    {
+        "word": "terrible",
+        "ipa": "ˈtɛrəbl",
+        "type": "adj",
+        "tag": "khủng khiếp",
+        "meaning": "If something is terrible, it is very bad.",
+        "context": "Nếu một cái gì đó là khủng khiếp, nó là rất xấu.",
+        "ex": "The way he treated his classmate was terrible.",
+        "ipaExTrans": "ðə weɪ hiː ˈtriːtɪd hɪz ˈklɑːsmeɪt wɒz ˈtɛrəbl.",
+        "exMeaning": "Cách anh đối xử với bạn cùng lớp thật kinh khủng."
+    },
+    {
+        "word": "worse",
+        "ipa": "wɜːs",
+        "type": "adj",
+        "tag": "tệ hơn, tồi hơn",
+        "meaning": "If something is worse, it is of poorer quality than another thing.",
+        "context": "Nếu một cái gì đó tồi tệ hơn, nó có chất lượng kém hơn một thứ khác.",
+        "ex": "Business was worse this month than last month.",
+        "ipaExTrans": "ˈbɪznɪs wɒz wɜːs ðɪs mʌnθ ðæn lɑːst mʌnθ.",
+        "exMeaning": "Kinh doanh tháng này tồi tệ hơn tháng trước."
+    }
+]

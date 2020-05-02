@@ -1,0 +1,878 @@
+[
+    {
+        "word": "in vain",
+        "type": "Prep Phrases",
+        "ipa": "ɪn veɪn",
+        "meaning": "vô ích"
+    },
+    {
+        "word": "in theory",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈθɪəri",
+        "meaning": "trên lý thuyết"
+    },
+    {
+        "word": "in the nude",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ðə njuːd",
+        "meaning": "trong hình khỏa thân"
+    },
+    {
+        "word": "in the news",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ðə njuːz",
+        "meaning": "Trên bản tin tức"
+    },
+    {
+        "word": "in the mountains",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ðə ˈmaʊntɪnz",
+        "meaning": "ở vùng núi"
+    },
+    {
+        "word": "in the mood for",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ðə muːd fɔː",
+        "meaning": "trong tâm trạng cho"
+    },
+    {
+        "word": "in the meantime",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ðə ˈmiːnˈtaɪm",
+        "meaning": "trong luc đo"
+    },
+    {
+        "word": "in the habit of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ðə ˈhæbɪt ɒv",
+        "meaning": "theo thói quen"
+    },
+    {
+        "word": "in the end",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ði ɛnd",
+        "meaning": "đến cuối cùng"
+    },
+    {
+        "word": "in the dark",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ðə dɑːk",
+        "meaning": "trong bóng tối"
+    },
+    {
+        "word": "in the beginning",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ðə bɪˈgɪnɪŋ",
+        "meaning": "ở thời điểm bắt đầu"
+    },
+    {
+        "word": "in the air",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ði eə",
+        "meaning": "trong không khí"
+    },
+    {
+        "word": "in two/ half",
+        "type": "Prep Phrases",
+        "ipa": "ɪn tuː/ hɑːf",
+        "meaning": "trong hai / một nửa"
+    },
+    {
+        "word": "in town",
+        "type": "Prep Phrases",
+        "ipa": "ɪn taʊn",
+        "meaning": "trong thị trấn"
+    },
+    {
+        "word": "in touch",
+        "type": "Prep Phrases",
+        "ipa": "ɪn tʌʧ",
+        "meaning": "liên lạc"
+    },
+    {
+        "word": "in time",
+        "type": "Prep Phrases",
+        "ipa": "ɪn taɪm",
+        "meaning": "đúng giờ"
+    },
+    {
+        "word": "in terms of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn tɜːmz ɒv",
+        "meaning": "về mặt"
+    },
+    {
+        "word": "in tears",
+        "type": "Prep Phrases",
+        "ipa": "ɪn teəz",
+        "meaning": "trong nước mắt"
+    },
+    {
+        "word": "in summer/ winter",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈsʌmə/ ˈwɪntə",
+        "meaning": "vào mùa hè / mùa đông"
+    },
+    {
+        "word": "in stock",
+        "type": "Prep Phrases",
+        "ipa": "ɪn stɒk",
+        "meaning": "trong kho"
+    },
+    {
+        "word": "in some respects",
+        "type": "Prep Phrases",
+        "ipa": "ɪn sʌm rɪsˈpɛkts",
+        "meaning": "trong một số khía cạnh"
+    },
+    {
+        "word": "in secret",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈsiːkrɪt",
+        "meaning": "trong bí mật"
+    },
+    {
+        "word": "in season",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈsiːzn",
+        "meaning": "trong mùa"
+    },
+    {
+        "word": "in return",
+        "type": "Prep Phrases",
+        "ipa": "ɪn rɪˈtɜːn",
+        "meaning": "đổi lại"
+    },
+    {
+        "word": "in public",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈpʌblɪk",
+        "meaning": "ở nơi công cộng"
+    },
+    {
+        "word": "in progress",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈprəʊgrəs",
+        "meaning": "trong tiến trình"
+    },
+    {
+        "word": "in private",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈpraɪvɪt",
+        "meaning": "riêng"
+    },
+    {
+        "word": "in prison/ jail",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈprɪzn/ ʤeɪl",
+        "meaning": "trong tù / tù"
+    },
+    {
+        "word": "in principle",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈprɪnsəpl",
+        "meaning": "về nguyên tắc"
+    },
+    {
+        "word": "in person",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈpɜːsn",
+        "meaning": "mặt đối mặt"
+    },
+    {
+        "word": "in particular",
+        "type": "Prep Phrases",
+        "ipa": "ɪn pəˈtɪkjʊlə",
+        "meaning": "đặc biệt"
+    },
+    {
+        "word": "in pain",
+        "type": "Prep Phrases",
+        "ipa": "ɪn peɪn",
+        "meaning": "trong tình trạng đau đớn"
+    },
+    {
+        "word": "in other words",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈʌðə wɜːdz",
+        "meaning": "nói cách khác"
+    },
+    {
+        "word": "in no time",
+        "type": "Prep Phrases",
+        "ipa": "ɪn nəʊ taɪm",
+        "meaning": "không có thời gian"
+    },
+    {
+        "word": "in moderation",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˌmɒdəˈreɪʃən",
+        "meaning": "trong chừng mực"
+    },
+    {
+        "word": "in memory of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈmɛməri ɒv",
+        "meaning": "trong sự tưởng nhớ đến"
+    },
+    {
+        "word": "in love with",
+        "type": "Prep Phrases",
+        "ipa": "ɪn lʌv wɪð",
+        "meaning": "yêu"
+    },
+    {
+        "word": "in length",
+        "type": "Prep Phrases",
+        "ipa": "ɪn lɛŋθ",
+        "meaning": "về chiều dài"
+    },
+    {
+        "word": "in league with",
+        "type": "Prep Phrases",
+        "ipa": "ɪn liːg wɪð",
+        "meaning": "trong liên minh với"
+    },
+    {
+        "word": "in labor",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈleɪbə",
+        "meaning": "trong lao động"
+    },
+    {
+        "word": "in keeping with",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈkiːpɪŋ wɪð",
+        "meaning": "phù hợp với"
+    },
+    {
+        "word": "in ink / pencil",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ɪŋk / ˈpɛnsl",
+        "meaning": "bằng mực / bút chì"
+    },
+    {
+        "word": "in horror (of)",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈhɒrə (ɒv)",
+        "meaning": "trong kinh dị (của)"
+    },
+    {
+        "word": "in high spirits",
+        "type": "Prep Phrases",
+        "ipa": "ɪn haɪ ˈspɪrɪts",
+        "meaning": "trong tinh thần cao"
+    },
+    {
+        "word": "in hiding",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈhaɪdɪŋ",
+        "meaning": "ở ẩn"
+    },
+    {
+        "word": "in haste",
+        "type": "Prep Phrases",
+        "ipa": "ɪn heɪst",
+        "meaning": "vội vàng"
+    },
+    {
+        "word": "in harmony",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈhɑːməni",
+        "meaning": "hài hòa"
+    },
+    {
+        "word": "in hand",
+        "type": "Prep Phrases",
+        "ipa": "ɪn hænd",
+        "meaning": "trong tay"
+    },
+    {
+        "word": "in good/ bad condition",
+        "type": "Prep Phrases",
+        "ipa": "ɪn gʊd/ bæd kənˈdɪʃən",
+        "meaning": "trong tình trạng tốt / xấu"
+    },
+    {
+        "word": "in good faith",
+        "type": "Prep Phrases",
+        "ipa": "ɪn gʊd feɪθ",
+        "meaning": "trong đức tin tốt"
+    },
+    {
+        "word": "in goal",
+        "type": "Prep Phrases",
+        "ipa": "ɪn gəʊl",
+        "meaning": "trong mục tiêu"
+    },
+    {
+        "word": "in general",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈʤɛnərəl",
+        "meaning": "nói chung"
+    },
+    {
+        "word": "in gear",
+        "type": "Prep Phrases",
+        "ipa": "ɪn gɪə",
+        "meaning": "trong thiết bị"
+    },
+    {
+        "word": "in future",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈfjuːʧə",
+        "meaning": "trong tương lai"
+    },
+    {
+        "word": "in full",
+        "type": "Prep Phrases",
+        "ipa": "ɪn fʊl",
+        "meaning": "đầy đủ"
+    },
+    {
+        "word": "in front of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn frʌnt ɒv",
+        "meaning": "ở đằng trước"
+    },
+    {
+        "word": "in force",
+        "type": "Prep Phrases",
+        "ipa": "ɪn fɔːs",
+        "meaning": "có hiệu lực"
+    },
+    {
+        "word": "in focus",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈfəʊkəs",
+        "meaning": "tập trung"
+    },
+    {
+        "word": "in flower",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈflaʊə",
+        "meaning": "trong hoa"
+    },
+    {
+        "word": "in flames",
+        "type": "Prep Phrases",
+        "ipa": "ɪn fleɪmz",
+        "meaning": "trong biển lửa"
+    },
+    {
+        "word": "in fear of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn fɪər ɒv",
+        "meaning": "sợ"
+    },
+    {
+        "word": "in favor of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈfeɪvər ɒv",
+        "meaning": "ủng hộ"
+    },
+    {
+        "word": "in fashion",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈfæʃən",
+        "meaning": "trong thời trang"
+    },
+    {
+        "word": "in fairness to",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈfeənɪs tuː",
+        "meaning": "công bằng để"
+    },
+    {
+        "word": "in fact",
+        "type": "Prep Phrases",
+        "ipa": "ɪn fækt",
+        "meaning": "trong thực tế"
+    },
+    {
+        "word": "in existence",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ɪgˈzɪstəns",
+        "meaning": "trong sự tồn tại"
+    },
+    {
+        "word": "in exchange for",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ɪksˈʧeɪnʤ fɔː",
+        "meaning": "trao đổi với"
+    },
+    {
+        "word": "in excess of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ɪkˈsɛs ɒv",
+        "meaning": "vượt quá"
+    },
+    {
+        "word": "in evidence",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈɛvɪdəns",
+        "meaning": "bằng chứng"
+    },
+    {
+        "word": "in essence",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈɛsns",
+        "meaning": "thực chất"
+    },
+    {
+        "word": "in error",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈɛrə",
+        "meaning": "lỗi"
+    },
+    {
+        "word": "in effect",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ɪˈfɛkt",
+        "meaning": "có hiệu lực"
+    },
+    {
+        "word": "in earnest",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈɜːnɪst",
+        "meaning": "có thiện ý"
+    },
+    {
+        "word": "in duplicate",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈdjuːplɪkɪt",
+        "meaning": "nhân đôi"
+    },
+    {
+        "word": "in due course",
+        "type": "Prep Phrases",
+        "ipa": "ɪn djuː kɔːs",
+        "meaning": "trong khóa học do"
+    },
+    {
+        "word": "in doubt",
+        "type": "Prep Phrases",
+        "ipa": "ɪn daʊt",
+        "meaning": "nghi ngờ"
+    },
+    {
+        "word": "in distress",
+        "type": "Prep Phrases",
+        "ipa": "ɪn dɪsˈtrɛs",
+        "meaning": "gặp nạn"
+    },
+    {
+        "word": "in dispute",
+        "type": "Prep Phrases",
+        "ipa": "ɪn dɪsˈpjuːt",
+        "meaning": "trong tranh chấp"
+    },
+    {
+        "word": "in disorder",
+        "type": "Prep Phrases",
+        "ipa": "ɪn dɪsˈɔːdə",
+        "meaning": "rối loạn"
+    },
+    {
+        "word": "in disguise",
+        "type": "Prep Phrases",
+        "ipa": "ɪn dɪsˈgaɪz",
+        "meaning": "trong ngụy trang"
+    },
+    {
+        "word": "in disgrace",
+        "type": "Prep Phrases",
+        "ipa": "ɪn dɪsˈgreɪs",
+        "meaning": "trong ô nhục"
+    },
+    {
+        "word": "in difficulty",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈdɪfɪkəlti",
+        "meaning": "gặp khó khăn"
+    },
+    {
+        "word": "in detail",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈdiːteɪl",
+        "meaning": "chi tiết"
+    },
+    {
+        "word": "in defense of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn dɪˈfɛns ɒv",
+        "meaning": "bảo vệ"
+    },
+    {
+        "word": "in decline",
+        "type": "Prep Phrases",
+        "ipa": "ɪn dɪˈklaɪn",
+        "meaning": "suy giảm"
+    },
+    {
+        "word": "in debt",
+        "type": "Prep Phrases",
+        "ipa": "ɪn dɛt",
+        "meaning": "nợ"
+    },
+    {
+        "word": "in danger",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈdeɪnʤə",
+        "meaning": "gặp nguy hiểm"
+    },
+    {
+        "word": "in charge of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ʧɑːʤ ɒv",
+        "meaning": "phụ trách"
+    },
+    {
+        "word": "in character",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈkærɪktə",
+        "meaning": "trong tính cách"
+    },
+    {
+        "word": "in custody",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈkʌstədi",
+        "meaning": "bị giam giữ"
+    },
+    {
+        "word": "in court",
+        "type": "Prep Phrases",
+        "ipa": "ɪn kɔːt",
+        "meaning": "tại tòa án"
+    },
+    {
+        "word": "in control of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn kənˈtrəʊl ɒv",
+        "meaning": "in trong sự kiểm soát của"
+    },
+    {
+        "word": "in contrast with / to",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈkɒntrɑːst wɪð / tuː",
+        "meaning": "trái ngược với / đến"
+    },
+    {
+        "word": "in contact with",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈkɒntækt wɪð",
+        "meaning": "tiếp xúc với"
+    },
+    {
+        "word": "in consequence of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈkɒnsɪkwəns ɒv",
+        "meaning": "hậu quả của"
+    },
+    {
+        "word": "in connection with",
+        "type": "Prep Phrases",
+        "ipa": "ɪn kəˈnɛkʃən wɪð",
+        "meaning": "kết nối với"
+    },
+    {
+        "word": "in conjunction with",
+        "type": "Prep Phrases",
+        "ipa": "ɪn kənˈʤʌŋkʃən wɪð",
+        "meaning": "kết hợp với"
+    },
+    {
+        "word": "in confusion",
+        "type": "Prep Phrases",
+        "ipa": "ɪn kənˈfjuːʒən",
+        "meaning": "trong bối rối"
+    },
+    {
+        "word": "in confinement",
+        "type": "Prep Phrases",
+        "ipa": "ɪn kənˈfaɪnmənt",
+        "meaning": "bị giam cầm"
+    },
+    {
+        "word": "in confidence",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈkɒnfɪdəns",
+        "meaning": "tự tin"
+    },
+    {
+        "word": "in conclusion",
+        "type": "Prep Phrases",
+        "ipa": "ɪn kənˈkluːʒən",
+        "meaning": "Tóm lại là"
+    },
+    {
+        "word": "in compensation for",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˌkɒmpɛnˈseɪʃən fɔː",
+        "meaning": "bồi thường cho"
+    },
+    {
+        "word": "in comparison with",
+        "type": "Prep Phrases",
+        "ipa": "ɪn kəmˈpærɪsn wɪð",
+        "meaning": "so với"
+    },
+    {
+        "word": "in common",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈkɒmən",
+        "meaning": "điểm chung"
+    },
+    {
+        "word": "in command of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn kəˈmɑːnd ɒv",
+        "meaning": "chỉ huy"
+    },
+    {
+        "word": "in comfort",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈkʌmfət",
+        "meaning": "thoải mái"
+    },
+    {
+        "word": "in combination with",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˌkɒmbɪˈneɪʃən wɪð",
+        "meaning": "kết hợp với"
+    },
+    {
+        "word": "in cash",
+        "type": "Prep Phrases",
+        "ipa": "ɪn kæʃ",
+        "meaning": "bằng tiền mặt"
+    },
+    {
+        "word": "in case of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn keɪs ɒv",
+        "meaning": "trong trường hợp"
+    },
+    {
+        "word": "in case",
+        "type": "Prep Phrases",
+        "ipa": "ɪn keɪs",
+        "meaning": "trong trường hợp"
+    },
+    {
+        "word": "in business",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈbɪznɪs",
+        "meaning": "trong kinh doanh"
+    },
+    {
+        "word": "in bulk",
+        "type": "Prep Phrases",
+        "ipa": "ɪn bʌlk",
+        "meaning": "với số lượng lớn"
+    },
+    {
+        "word": "in brief",
+        "type": "Prep Phrases",
+        "ipa": "ɪn briːf",
+        "meaning": "tóm lại"
+    },
+    {
+        "word": "in black and white",
+        "type": "Prep Phrases",
+        "ipa": "ɪn blæk ænd waɪt",
+        "meaning": "màu đen và trắng"
+    },
+    {
+        "word": "in bed",
+        "type": "Prep Phrases",
+        "ipa": "ɪn bɛd",
+        "meaning": "trên giường"
+    },
+    {
+        "word": "in awe of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ɔː ɒv",
+        "meaning": "trong sự sợ hãi của"
+    },
+    {
+        "word": "in any case",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈɛni keɪs",
+        "meaning": "trong bất kỳ trường hợp nào"
+    },
+    {
+        "word": "in anticipation of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ænˌtɪsɪˈpeɪʃ(ə)n ɒv",
+        "meaning": "trong dự đoán của"
+    },
+    {
+        "word": "in answer to",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈɑːnsə tuː",
+        "meaning": "trong câu trả lời"
+    },
+    {
+        "word": "in an uproar",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ən ˈʌprɔː",
+        "meaning": "trong một tiếng ồn ào"
+    },
+    {
+        "word": "in an instant",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ən ˈɪnstənt",
+        "meaning": "ngay lập tức"
+    },
+    {
+        "word": "in all my born days",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ɔːl maɪ bɔːn deɪz",
+        "meaning": "trong tất cả những ngày sinh của tôi"
+    },
+    {
+        "word": "in all likelihood",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ɔːl ˈlaɪklɪhʊd",
+        "meaning": "trong khả năng tất cả"
+    },
+    {
+        "word": "in all honesty",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ɔːl ˈɒnɪsti",
+        "meaning": "trong tất cả sự trung thực"
+    },
+    {
+        "word": "in aid of",
+        "type": "Prep Phrases",
+        "ipa": "ɪn eɪd ɒv",
+        "meaning": "viện trợ của"
+    },
+    {
+        "word": "in agreement with",
+        "type": "Prep Phrases",
+        "ipa": "ɪn əˈgriːmənt wɪð",
+        "meaning": "đồng ý với"
+    },
+    {
+        "word": "in agony",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈægəni",
+        "meaning": "đau đớn"
+    },
+    {
+        "word": "in advance",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ədˈvɑːns",
+        "meaning": "trước"
+    },
+    {
+        "word": "in addition to",
+        "type": "Prep Phrases",
+        "ipa": "ɪn əˈdɪʃ(ə)n tuː",
+        "meaning": "ngoài"
+    },
+    {
+        "word": "in action",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ˈækʃ(ə)n",
+        "meaning": "trong hành động"
+    },
+    {
+        "word": "in accordance with",
+        "type": "Prep Phrases",
+        "ipa": "ɪn əˈkɔːdəns wɪð",
+        "meaning": "phù hợp với"
+    },
+    {
+        "word": "in abundance",
+        "type": "Prep Phrases",
+        "ipa": "ɪn əˈbʌndəns",
+        "meaning": "dồi dào"
+    },
+    {
+        "word": "in abeyance",
+        "type": "Prep Phrases",
+        "ipa": "ɪn əˈbeɪəns",
+        "meaning": "vâng lời"
+    },
+    {
+        "word": "in a way",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə weɪ",
+        "meaning": "một cách"
+    },
+    {
+        "word": "in a temper",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə ˈtɛmpə",
+        "meaning": "trong một cơn giận"
+    },
+    {
+        "word": "in a sense",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə sɛns",
+        "meaning": "trong một ý nghĩa"
+    },
+    {
+        "word": "in a row",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə rəʊ",
+        "meaning": "trong một hàng"
+    },
+    {
+        "word": "in a pile",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə paɪl",
+        "meaning": "trong một đống"
+    },
+    {
+        "word": "in a nutshell",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə ˈnʌtʃɛl",
+        "meaning": "một cách ngắn gọn"
+    },
+    {
+        "word": "in a minute",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə ˈmɪnɪt",
+        "meaning": "trong một phút"
+    },
+    {
+        "word": "in a mess",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə mɛs",
+        "meaning": "trong một mớ hỗn độn"
+    },
+    {
+        "word": "in a lather",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə ˈlɑːðə",
+        "meaning": "trong một bọt"
+    },
+    {
+        "word": "in a hurry",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə ˈhʌri",
+        "meaning": "đang vội"
+    },
+    {
+        "word": "in a heap",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə hiːp",
+        "meaning": "trong một đống"
+    },
+    {
+        "word": "in a flash",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə flæʃ",
+        "meaning": "trong chớp mắt"
+    },
+    {
+        "word": "in a deep sleep",
+        "type": "Prep Phrases",
+        "ipa": "ɪn ə diːp sliːp",
+        "meaning": "trong một giấc ngủ sâu"
+    }
+]

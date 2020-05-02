@@ -1,0 +1,135 @@
+[
+    {
+        "word": "adjust",
+        "type": "điều chỉnh",
+        "ipa": "əˈʤʌst",
+        "meaning": "v. to change in order to match or fit, to cause to correspond (điều chỉnh, dàn xếp )",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "adjustment",
+        "type": "điều chỉnh",
+        "ipa": "əˈʤʌstmənt",
+        "meaning": "n. sự điều chỉnh, sự dàn xếp",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "adjustable",
+        "type": "điều chỉnh",
+        "ipa": "əˈʤʌstəbl",
+        "meaning": "adj. có thể điều chỉnh, dàn xếp",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "automatic",
+        "type": "tự động",
+        "ipa": "ˌɔːtəˈmætɪk",
+        "meaning": "adj. Operating independently (tự động)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "automation",
+        "type": "tự động hóa",
+        "ipa": "ˌɔːtəˈmeɪʃ(ə)n",
+        "meaning": "n. sự tự động",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "automatically",
+        "type": "tự động",
+        "ipa": "ˌɔːtəˈmætɪkəli",
+        "meaning": "adv. trạng thái tự động",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "crucial",
+        "type": "quan trọng",
+        "ipa": "ˈkruːʃəl",
+        "meaning": "adj. Extremely significant or important (quyết định; cốt yếu, chủ yếu)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "discrepancy",
+        "type": "sự khác biệt",
+        "ipa": "dɪsˈkrɛpənsi",
+        "meaning": "n. a divergence or disagreement (sự khác nhau, sự ko thống nhất, sự ko nhất quán)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "disturb",
+        "type": "làm phiền",
+        "ipa": "dɪsˈtɜːb",
+        "meaning": "v. to interfere with, to interrupt (làm phiền)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "disturbance",
+        "type": "xáo trộn",
+        "ipa": "dɪsˈtɜːbəns",
+        "meaning": "n. sự náo động; kẻ quấy rầy",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "liability",
+        "type": "trách nhiệm pháp lý",
+        "ipa": "ˌlaɪəˈbɪlɪti",
+        "meaning": "n. an obligation a responsibility (trách nhiệm pháp lý; cái gây khó khăn trở ngại)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "reflect",
+        "type": "phản chiếu",
+        "ipa": "rɪˈflɛkt",
+        "meaning": "v. to given back a likeness (phản chiếu, phản ánh)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "reflection",
+        "type": "phản ánh",
+        "ipa": "rɪˈflɛkʃən",
+        "meaning": "n. sự phản ánh, sự phản chiếu",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "reflector",
+        "type": "phản xạ",
+        "ipa": "rɪˈflɛktə",
+        "meaning": "n. gương phản xạ, vật phản xạ",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "run",
+        "type": "chạy",
+        "ipa": "rʌn",
+        "meaning": "v. to operate (chạy, hoạt động)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "scan",
+        "type": "quét",
+        "ipa": "skæn",
+        "meaning": "v. to look over quickly (xem lướt, xem qua)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "subtract",
+        "type": "trừ",
+        "ipa": "səbˈtrækt",
+        "meaning": "v. to take away, to deduct (trừ đi, khấu trừ)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "tedious",
+        "type": "tẻ nhạt",
+        "ipa": "ˈtiːdiəs",
+        "meaning": "adj. Tiresome by reason of length, slowness, or dullness, boring (chán ngăt, buồn tẻ)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    },
+    {
+        "word": "verify",
+        "type": "kiểm chứng",
+        "ipa": "ˈvɛrɪfaɪ",
+        "meaning": "v. to prove the truth of (Xác minh, kiểm lại)",
+        "tag": "Inventory (kiểm kê hoàng hóa)"
+    }
+]

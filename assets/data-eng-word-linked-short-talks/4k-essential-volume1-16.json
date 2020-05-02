@@ -1,0 +1,222 @@
+[
+    {
+        "word": "academy",
+        "ipa": "əˈkædəmi",
+        "type": "n",
+        "tag": "học viện",
+        "meaning": "An academy is a special type of school.",
+        "context": "Học viện là một loại trường đặc biệt.",
+        "ex": "There are many courses taught at the academy that I go to",
+        "ipaExTrans": "ðeər ɑː ˈmɛni ˈkɔːsɪz tɔːt æt ði əˈkædəmi ðæt aɪ gəʊ tuː",
+        "exMeaning": "Có rất nhiều khóa học được giảng dạy tại học viện mà tôi tham gia"
+    },
+    {
+        "word": "ancient",
+        "ipa": "ˈeɪnʃ(ə)nt",
+        "type": "adj",
+        "tag": "cổ xưa",
+        "meaning": "If something is ancient, it is very old.",
+        "context": "Nếu một cái gì đó cổ xưa, nó rất cũ.",
+        "ex": "I want to see the ancient buildings in Rome.",
+        "ipaExTrans": "aɪ wɒnt tuː siː ði ˈeɪnʃ(ə)nt ˈbɪldɪŋz ɪn rəʊm.",
+        "exMeaning": "Tôi muốn nhìn thấy những tòa nhà cổ ở Rome."
+    },
+    {
+        "word": "board",
+        "ipa": "bɔːd",
+        "type": "n",
+        "tag": "bảng, tấm ván",
+        "meaning": "A board is a flat piece of wood.",
+        "context": "Một tấm ván là một miếng gỗ phẳng.",
+        "ex": "The sign was made of a few wooden boards.",
+        "ipaExTrans": "ðə saɪn wɒz meɪd ɒv ə fjuː ˈwʊdn bɔːdz.",
+        "exMeaning": "Các dấu hiệu được làm bằng một vài bảng gỗ."
+    },
+    {
+        "word": "century",
+        "ipa": "ˈsɛnʧʊri",
+        "type": "n",
+        "tag": "thế kỷ",
+        "meaning": "A century is one hundred years.",
+        "context": "Một thế kỷ là một trăm năm.",
+        "ex": "Our company is celebrating a century of business in London.",
+        "ipaExTrans": "ˈaʊə ˈkʌmpəni ɪz ˈsɛlɪbreɪtɪŋ ə ˈsɛnʧʊri ɒv ˈbɪznɪs ɪn ˈlʌndən.",
+        "exMeaning": "Công ty chúng tôi đang kỷ niệm một thế kỷ kinh doanh tại London."
+    },
+    {
+        "word": "clue",
+        "ipa": "kluː",
+        "type": "n",
+        "tag": "đầu mối, manh mối",
+        "meaning": "A clue is a fact or object that helps solve a mystery or crime.",
+        "context": "Một manh mối là một sự thật hoặc đối tượng giúp giải quyết một bí ẩn hoặc tội ác.",
+        "ex": "The detective found some clues on the sidewalk.",
+        "ipaExTrans": "ðə dɪˈtɛktɪv faʊnd sʌm kluːz ɒn ðə ˈsaɪdwɔːk.",
+        "exMeaning": "Thám tử tìm thấy một số manh mối trên vỉa hè."
+    },
+    {
+        "word": "concert",
+        "ipa": "ˈkɒnsə(ː)t",
+        "type": "n",
+        "tag": "buổi hòa nhạc",
+        "meaning": "A concert is an event where you listen to people play music.",
+        "context": "Một buổi hòa nhạc là một sự kiện mà bạn nghe mọi người chơi nhạc.",
+        "ex": "I enjoyed the concert last night. The band was very good.",
+        "ipaExTrans": "aɪ ɪnˈʤɔɪd ðə ˈkɒnsə(ː)t lɑːst naɪt. ðə bænd wɒz ˈvɛri gʊd.",
+        "exMeaning": "Tôi rất thích buổi hòa nhạc tối qua. Ban nhạc rất tốt."
+    },
+    {
+        "word": "county",
+        "ipa": "ˈkaʊnti",
+        "type": "n",
+        "tag": "quận",
+        "meaning": "A county is the largest political division of a state in the US.",
+        "context": "Một quận là bộ phận chính trị lớn nhất của một tiểu bang ở Hoa Kỳ.",
+        "ex": "He wanted to represent the citizens of his county.",
+        "ipaExTrans": "hiː ˈwɒntɪd tuː ˌrɛprɪˈzɛnt ðə ˈsɪtɪznz ɒv hɪz ˈkaʊnti.",
+        "exMeaning": "Ông muốn đại diện cho công dân của quận của mình."
+    },
+    {
+        "word": "dictionary",
+        "ipa": "ˈdɪkʃ(ə)n(ə)ri",
+        "type": "n",
+        "tag": "từ điển",
+        "meaning": "A dictionary is a book that tells you what words mean.",
+        "context": "Một cuốn từ điển là một cuốn sách cho bạn biết những từ đó có nghĩa là gì.",
+        "ex": "I use the dictionary to learn new words.",
+        "ipaExTrans": "aɪ juːz ðə ˈdɪkʃ(ə)n(ə)ri tuː lɜːn njuː wɜːdz.",
+        "exMeaning": "Tôi sử dụng từ điển để học từ mới."
+    },
+    {
+        "word": "exist",
+        "ipa": "ɪgˈzɪst",
+        "type": "v",
+        "tag": "hiện hữu, tồn tại",
+        "meaning": "To exist is to be real",
+        "context": "Tồn tại là có thật",
+        "ex": "Do you really think that unicorns ever existed?",
+        "ipaExTrans": "duː juː ˈrɪəli θɪŋk ðæt ˈjuːnɪkɔːnz ˈɛvər ɪgˈzɪstɪd?",
+        "exMeaning": "Bạn có thực sự nghĩ rằng kỳ lân từng tồn tại?"
+    },
+    {
+        "word": "flat",
+        "ipa": "flæt",
+        "type": "adj",
+        "tag": "bằng phẳng",
+        "meaning": "Flat describes something that is level and smooth with no curved parts",
+        "context": "Flat mô tả một cái gì đó bằng và mịn không có phần cong",
+        "ex": "My parents bought a new flat screen TV over the weekend.",
+        "ipaExTrans": "maɪ ˈpeərənts bɔːt ə njuː flæt skriːn ˌtiːˈviː ˈəʊvə ðə ˈwiːkˈɛnd.",
+        "exMeaning": "Bố mẹ tôi đã mua một chiếc TV màn hình phẳng mới vào cuối tuần."
+    },
+    {
+        "word": "gentleman",
+        "ipa": "ˈʤɛntlmən",
+        "type": "n",
+        "tag": "quý ông",
+        "meaning": "A gentleman is a nice man",
+        "context": "Một quý ông là một người đàn ông tốt",
+        "ex": "My grandfather is a kind and helpful gentleman.",
+        "ipaExTrans": "maɪ ˈgrændˌfɑːðər ɪz ə kaɪnd ænd ˈhɛlpfʊl ˈʤɛntlmən.",
+        "exMeaning": "Ông tôi là một quý ông tốt bụng và hay giúp đỡ."
+    },
+    {
+        "word": "hidden",
+        "ipa": "ˈhɪdn",
+        "type": "adj",
+        "tag": "ẩn",
+        "meaning": "Hidden means to be not easily noticed or too hard to find.",
+        "context": "Ẩn có nghĩa là không dễ dàng nhận thấy hoặc quá khó để tìm thấy.",
+        "ex": "The hidden camera recorded everything in the parking lot.",
+        "ipaExTrans": "ðə ˈhɪdn ˈkæmərə rɪˈkɔːdɪd ˈɛvrɪθɪŋ ɪn ðə ˈpɑːkɪŋ lɒt.",
+        "exMeaning": "Camera ẩn ghi lại mọi thứ trong bãi đậu xe."
+    },
+    {
+        "word": "maybe",
+        "ipa": "ˈmeɪbiː",
+        "type": "adv",
+        "tag": "có lẽ, có thể",
+        "meaning": "Maybe is used to show that something is possible or may be true",
+        "context": "Có thể được sử dụng để chỉ ra rằng một cái gì đó là có thể hoặc có thể là sự thật",
+        "ex": "If I focus hard enough, maybe I can come up with the right answer",
+        "ipaExTrans": "ɪf aɪ ˈfəʊkəs hɑːd ɪˈnʌf, ˈmeɪbiː aɪ kæn kʌm ʌp wɪð ðə raɪt ˈɑːnsə",
+        "exMeaning": "Nếu tôi tập trung đủ mạnh, có lẽ tôi có thể đưa ra câu trả lời đúng"
+    },
+    {
+        "word": "officer",
+        "ipa": "ˈɒfɪsə",
+        "type": "n",
+        "tag": "nhân viên văn phòng, sĩ quan",
+        "meaning": "An officer is a leader in the army.",
+        "context": "Một sĩ quan là một nhà lãnh đạo trong quân đội.",
+        "ex": "The soldiers followed the orders of the officer.",
+        "ipaExTrans": "ðə ˈsəʊlʤəz ˈfɒləʊd ði ˈɔːdəz ɒv ði ˈɒfɪsə.",
+        "exMeaning": "Các chiến sĩ làm theo lệnh của sĩ quan."
+    },
+    {
+        "word": "original",
+        "ipa": "əˈrɪʤənl",
+        "type": "adj",
+        "tag": "nguyên thủy, bản gốc",
+        "meaning": "If something is original, it is the first one of that thing.",
+        "context": "Nếu một cái gì đó là bản gốc, nó là cái đầu tiên trong số đó.",
+        "ex": "This is the original painting of the Mona Lisa",
+        "ipaExTrans": "ðɪs ɪz ði əˈrɪʤənl ˈpeɪntɪŋ ɒv ðə ˈməʊnə ˈliːsə",
+        "exMeaning": "Đây là bức tranh gốc của Mona Lisa"
+    },
+    {
+        "word": "pound",
+        "ipa": "paʊnd",
+        "type": "v",
+        "tag": "đập, đóng",
+        "meaning": "To pound something is to hit it many times with a lot of force",
+        "context": "Để đập một cái gì đó là đánh nó nhiều lần với rất nhiều lực",
+        "ex": "He pounded the nail with the hammer.",
+        "ipaExTrans": "hiː ˈpaʊndɪd ðə neɪl wɪð ðə ˈhæmə.",
+        "exMeaning": "Anh đập cái đinh bằng búa."
+    },
+    {
+        "word": "process",
+        "ipa": "ˈprəʊsɛs",
+        "type": "n",
+        "tag": "quá trình",
+        "meaning": "A process is the steps to take to do something.",
+        "context": "Một quá trình là các bước cần thực hiện để làm một cái gì đó.",
+        "ex": "Making a cake is a long process.",
+        "ipaExTrans": "ˈmeɪkɪŋ ə keɪk ɪz ə lɒŋ ˈprəʊsɛs.",
+        "exMeaning": "Làm bánh là một quá trình lâu dài."
+    },
+    {
+        "word": "publish",
+        "ipa": "ˈpʌblɪʃ",
+        "type": "v",
+        "tag": "công bố, xuất bản",
+        "meaning": "To publish a book is to get it printed and ready to sell.",
+        "context": "Xuất bản một cuốn sách là để nó được in và sẵn sàng để bán.",
+        "ex": "That company publishes daily newspapers.",
+        "ipaExTrans": "ðæt ˈkʌmpəni ˈpʌblɪʃɪz ˈdeɪli ˈnjuːzˌpeɪpəz.",
+        "exMeaning": "Công ty đó xuất bản báo hàng ngày."
+    },
+    {
+        "word": "theater",
+        "ipa": "ˈθɪətə",
+        "type": "n",
+        "tag": "rạp hát",
+        "meaning": "A theater is a building where you watch plays, shows, and movies.",
+        "context": "Một nhà hát là một tòa nhà nơi bạn xem các vở kịch, chương trình và phim ảnh.",
+        "ex": "We went to the theater to see a play.",
+        "ipaExTrans": "wiː wɛnt tuː ðə ˈθɪətə tuː siː ə pleɪ.",
+        "exMeaning": "Chúng tôi đã đến nhà hát để xem một vở kịch."
+    },
+    {
+        "word": "wealth",
+        "ipa": "wɛlθ",
+        "type": "n",
+        "tag": "sự giàu có",
+        "meaning": "Wealth is a large amount of money.",
+        "context": "Giàu có là một số tiền lớn.",
+        "ex": "One of the most important things to some people is wealth.",
+        "ipaExTrans": "wʌn ɒv ðə məʊst ɪmˈpɔːtənt θɪŋz tuː sʌm ˈpiːpl ɪz wɛlθ.",
+        "exMeaning": "Một trong những điều quan trọng nhất đối với một số người là sự giàu có."
+    }
+]

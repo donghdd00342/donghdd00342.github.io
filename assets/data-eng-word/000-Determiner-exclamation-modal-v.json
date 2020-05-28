@@ -1,0 +1,407 @@
+[
+    {
+        "word": "more",
+        "ipa": "mɔː",
+        "meaning": "hơn"
+    },
+    {
+        "word": "every",
+        "ipa": "ˈɛvri",
+        "meaning": "mỗi"
+    },
+    {
+        "word": "whose",
+        "ipa": "huːz",
+        "meaning": "ai"
+    },
+    {
+        "word": "another",
+        "ipa": "əˈnʌðə",
+        "meaning": "khác"
+    },
+    {
+        "word": "whichever",
+        "ipa": "wɪʧˈɛvə",
+        "meaning": "cái nào"
+    },
+    {
+        "word": "each",
+        "ipa": "iːʧ",
+        "meaning": "mỗi"
+    },
+    {
+        "word": "an",
+        "ipa": "æn",
+        "meaning": "một"
+    },
+    {
+        "word": "which",
+        "ipa": "wɪʧ",
+        "meaning": "mà"
+    },
+    {
+        "word": "many",
+        "ipa": "ˈmɛni",
+        "meaning": "nhiều"
+    },
+    {
+        "word": "both",
+        "ipa": "bəʊθ",
+        "meaning": "cả hai"
+    },
+    {
+        "word": "little",
+        "ipa": "ˈlɪtl",
+        "meaning": "ít"
+    },
+    {
+        "word": "all",
+        "ipa": "ɔːl",
+        "meaning": "tất cả"
+    },
+    {
+        "word": "whatever",
+        "ipa": "wɒtˈɛvə",
+        "meaning": "bất cứ điều gì"
+    },
+    {
+        "word": "what",
+        "ipa": "wɒt",
+        "meaning": "gì"
+    },
+    {
+        "word": "less",
+        "ipa": "lɛs",
+        "meaning": "ít hơn"
+    },
+    {
+        "word": "least",
+        "ipa": "liːst",
+        "meaning": "ít nhất"
+    },
+    {
+        "word": "a",
+        "ipa": "eɪ",
+        "meaning": "một"
+    },
+    {
+        "word": "those",
+        "ipa": "ðəʊz",
+        "meaning": "những, cái đó"
+    },
+    {
+        "word": "few",
+        "ipa": "fjuː",
+        "meaning": "vài"
+    },
+    {
+        "word": "enough",
+        "ipa": "ɪˈnʌf",
+        "meaning": "đủ"
+    },
+    {
+        "word": "this",
+        "ipa": "ðɪs",
+        "meaning": "điều này"
+    },
+    {
+        "word": "double",
+        "ipa": "ˈdʌbl",
+        "meaning": "gấp đôi"
+    },
+    {
+        "word": "any",
+        "ipa": "ˈɛni",
+        "meaning": "bất kì"
+    },
+    {
+        "word": "their",
+        "ipa": "ðeə",
+        "meaning": "của chúng"
+    },
+    {
+        "word": "these",
+        "ipa": "ðiːz",
+        "meaning": "những"
+    },
+    {
+        "word": "the",
+        "ipa": "ðiː",
+        "meaning": "các"
+    },
+    {
+        "word": "no",
+        "ipa": "nəʊ",
+        "meaning": "Không"
+    },
+    {
+        "word": "much",
+        "ipa": "mʌʧ",
+        "meaning": "nhiều"
+    },
+    {
+        "word": "some",
+        "ipa": "sʌm",
+        "meaning": "một số"
+    },
+    {
+        "word": "several",
+        "ipa": "ˈsɛvrəl",
+        "meaning": "một số"
+    },
+    {
+        "word": "that",
+        "ipa": "ðæt",
+        "meaning": "cái đó"
+    },
+    {
+        "word": "other",
+        "ipa": "ˈʌðə",
+        "meaning": "khác"
+    },
+    {
+        "word": "such",
+        "ipa": "sʌʧ",
+        "meaning": "như là"
+    },
+    {
+        "word": "our",
+        "ipa": "ˈaʊə",
+        "meaning": "của chúng tôi"
+    },
+    {
+        "word": "one",
+        "ipa": "wʌn",
+        "meaning": "một"
+    },
+    {
+        "word": "my",
+        "ipa": "maɪ",
+        "meaning": "của tôi"
+    },
+    {
+        "word": "most",
+        "ipa": "məʊst",
+        "meaning": "phần lớn"
+    },
+    {
+        "word": "its",
+        "ipa": "ɪts",
+        "meaning": "nó là"
+    },
+    {
+        "word": "his",
+        "ipa": "hɪz",
+        "meaning": "của anh ấy"
+    },
+    {
+        "word": "her",
+        "ipa": "hɜː",
+        "meaning": "cô ấy"
+    },
+    {
+        "word": "your",
+        "ipa": "jɔː",
+        "meaning": "của bạn"
+    },
+    {
+        "word": "all right",
+        "ipa": "ɔːl raɪt",
+        "meaning": "được rồi"
+    },
+    {
+        "word": "alright",
+        "ipa": "ɔːlˈraɪt",
+        "meaning": "ổn thỏa"
+    },
+    {
+        "word": "bye",
+        "ipa": "baɪ",
+        "meaning": "tạm biệt"
+    },
+    {
+        "word": "Cheers",
+        "ipa": "ʧɪəz",
+        "meaning": "Chúc mừng"
+    },
+    {
+        "word": "congratulations",
+        "ipa": "kənˌgrætjʊˈleɪʃənz",
+        "meaning": "Xin chúc mừng"
+    },
+    {
+        "word": "cool",
+        "ipa": "kuːl",
+        "meaning": "mát mẻ"
+    },
+    {
+        "word": "damn",
+        "ipa": "dæm",
+        "meaning": "chỉ trích"
+    },
+    {
+        "word": "good afternoon",
+        "ipa": "gʊd ˈɑːftəˈnuːn",
+        "meaning": "chào buổi trưa"
+    },
+    {
+        "word": "good evening",
+        "ipa": "gʊd ˈiːvnɪŋ",
+        "meaning": "chào buổi tối"
+    },
+    {
+        "word": "good morning",
+        "ipa": "gʊd ˈmɔːnɪŋ",
+        "meaning": "buổi sáng tốt lành"
+    },
+    {
+        "word": "good night",
+        "ipa": "gʊd naɪt",
+        "meaning": "chúc ngủ ngon"
+    },
+    {
+        "word": "goodbye",
+        "ipa": "gʊdˈbaɪ",
+        "meaning": "Tạm biệt"
+    },
+    {
+        "word": "hello",
+        "ipa": "hɛˈləʊ",
+        "meaning": "xin chào"
+    },
+    {
+        "word": "hey",
+        "ipa": "heɪ",
+        "meaning": "Chào"
+    },
+    {
+        "word": "hi",
+        "ipa": "haɪ",
+        "meaning": "Chào"
+    },
+    {
+        "word": "oh",
+        "ipa": "əʊ",
+        "meaning": "Oh"
+    },
+    {
+        "word": "OK",
+        "ipa": "ˈəʊˈkeɪ",
+        "meaning": "đồng ý"
+    },
+    {
+        "word": "pardon",
+        "ipa": "ˈpɑːdn",
+        "meaning": "ân xá"
+    },
+    {
+        "word": "please",
+        "ipa": "pliːz",
+        "meaning": "xin vui lòng"
+    },
+    {
+        "word": "right",
+        "ipa": "raɪt",
+        "meaning": "đúng"
+    },
+    {
+        "word": "thank you",
+        "ipa": "θæŋk juː",
+        "meaning": "cảm ơn bạn"
+    },
+    {
+        "word": "thanks",
+        "ipa": "θæŋks",
+        "meaning": "cảm ơn"
+    },
+    {
+        "word": "welcome",
+        "ipa": "ˈwɛlkəm",
+        "meaning": "chào mừng"
+    },
+    {
+        "word": "well",
+        "ipa": "wɛl",
+        "meaning": "tốt"
+    },
+    {
+        "word": "wow",
+        "ipa": "waʊ",
+        "meaning": "ồ"
+    },
+    {
+        "word": "yeah",
+        "ipa": "jeə",
+        "meaning": "vâng"
+    },
+    {
+        "word": "can",
+        "ipa": "kæn",
+        "meaning": "có thể"
+    },
+    {
+        "word": "cannot",
+        "ipa": "ˈkænɒt",
+        "meaning": "không thể"
+    },
+    {
+        "word": "could",
+        "ipa": "kʊd",
+        "meaning": "có thể"
+    },
+    {
+        "word": "may",
+        "ipa": "meɪ",
+        "meaning": "có thể"
+    },
+    {
+        "word": "might",
+        "ipa": "maɪt",
+        "meaning": "có thể"
+    },
+    {
+        "word": "must",
+        "ipa": "mʌst",
+        "meaning": "phải"
+    },
+    {
+        "word": "ought to",
+        "ipa": "ɔːt tuː",
+        "meaning": "phải"
+    },
+    {
+        "word": "shall",
+        "ipa": "ʃæl",
+        "meaning": "sẽ"
+    },
+    {
+        "word": "should",
+        "ipa": "ʃʊd",
+        "meaning": "Nên"
+    },
+    {
+        "word": "will",
+        "ipa": "wɪl",
+        "meaning": "sẽ"
+    },
+    {
+        "word": "would",
+        "ipa": "wʊd",
+        "meaning": "sẽ"
+    },
+    {
+        "word": "be",
+        "ipa": "biː",
+        "meaning": "là"
+    },
+    {
+        "word": "do",
+        "ipa": "duː",
+        "meaning": "làm"
+    },
+    {
+        "word": "have",
+        "ipa": "hæv",
+        "meaning": "có"
+    }
+]

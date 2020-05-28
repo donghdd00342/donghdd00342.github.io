@@ -1,0 +1,2066 @@
+[
+    {
+        "word": "creatively",
+        "type": "Adv",
+        "ipa": "kri(ː)ˈeɪtɪvli",
+        "meaning": "sáng tạo"
+    },
+    {
+        "word": "why",
+        "type": "Adv",
+        "ipa": "waɪ",
+        "meaning": "tại sao"
+    },
+    {
+        "word": "aside",
+        "type": "Adv",
+        "ipa": "əˈsaɪd",
+        "meaning": "qua một bên"
+    },
+    {
+        "word": "morally",
+        "type": "Adv",
+        "ipa": "ˈmɒrəli",
+        "meaning": "về mặt đạo đức"
+    },
+    {
+        "word": "never",
+        "type": "Adv",
+        "ipa": "ˈnɛvə",
+        "meaning": "không bao giờ"
+    },
+    {
+        "word": "shortly",
+        "type": "Adv",
+        "ipa": "ˈʃɔːtli",
+        "meaning": "trong thời gian ngắn"
+    },
+    {
+        "word": "straight",
+        "type": "Adv",
+        "ipa": "streɪt",
+        "meaning": "thẳng"
+    },
+    {
+        "word": "behind",
+        "type": "Adv",
+        "ipa": "bɪˈhaɪnd",
+        "meaning": "phía sau"
+    },
+    {
+        "word": "annually",
+        "type": "Adv",
+        "ipa": "ˈænjʊəli",
+        "meaning": "hàng năm"
+    },
+    {
+        "word": "secondly",
+        "type": "Adv",
+        "ipa": "ˈsɛkəndli",
+        "meaning": "thứ hai"
+    },
+    {
+        "word": "correctly",
+        "type": "Adv",
+        "ipa": "kəˈrɛktli",
+        "meaning": "chính xác"
+    },
+    {
+        "word": "away",
+        "type": "Adv",
+        "ipa": "əˈweɪ",
+        "meaning": "xa"
+    },
+    {
+        "word": "narrowly",
+        "type": "Adv",
+        "ipa": "ˈnærəʊli",
+        "meaning": "trong gang tấc"
+    },
+    {
+        "word": "next door",
+        "type": "Adv",
+        "ipa": "nɛkst dɔː",
+        "meaning": "cánh cửa tiếp theo"
+    },
+    {
+        "word": "silently",
+        "type": "Adv",
+        "ipa": "ˈsaɪləntli",
+        "meaning": "thầm lặng"
+    },
+    {
+        "word": "up",
+        "type": "Adv",
+        "ipa": "ʌp",
+        "meaning": "lên"
+    },
+    {
+        "word": "deep",
+        "type": "Adv",
+        "ipa": "diːp",
+        "meaning": "sâu"
+    },
+    {
+        "word": "artificially",
+        "type": "Adv",
+        "ipa": "ˌɑːtɪˈfɪʃ(ə)li",
+        "meaning": "giả tạo"
+    },
+    {
+        "word": "around",
+        "type": "Adv",
+        "ipa": "əˈraʊnd",
+        "meaning": "xung quanh"
+    },
+    {
+        "word": "loudly",
+        "type": "Adv",
+        "ipa": "ˈlaʊdli",
+        "meaning": "to"
+    },
+    {
+        "word": "neither",
+        "type": "Adv",
+        "ipa": "ˈnaɪðə",
+        "meaning": "cũng không"
+    },
+    {
+        "word": "sharply",
+        "type": "Adv",
+        "ipa": "ˈʃɑːpli",
+        "meaning": "mạnh"
+    },
+    {
+        "word": "still",
+        "type": "Adv",
+        "ipa": "stɪl",
+        "meaning": "vẫn"
+    },
+    {
+        "word": "additionally",
+        "type": "Adv",
+        "ipa": "əˈdɪʃənli",
+        "meaning": "Ngoài ra"
+    },
+    {
+        "word": "precisely",
+        "type": "Adv",
+        "ipa": "prɪˈsaɪsli",
+        "meaning": "đúng"
+    },
+    {
+        "word": "confidently",
+        "type": "Adv",
+        "ipa": "ˈkɒnfɪdəntli",
+        "meaning": "tự tin"
+    },
+    {
+        "word": "near",
+        "type": "Adv",
+        "ipa": "nɪə",
+        "meaning": "ở gần"
+    },
+    {
+        "word": "severely",
+        "type": "Adv",
+        "ipa": "sɪˈvɪəli",
+        "meaning": "tàn khốc"
+    },
+    {
+        "word": "somehow",
+        "type": "Adv",
+        "ipa": "ˈsʌmhaʊ",
+        "meaning": "bằng cách nào đó"
+    },
+    {
+        "word": "actively",
+        "type": "Adv",
+        "ipa": "ˈæktɪvli",
+        "meaning": "tích cực"
+    },
+    {
+        "word": "possibly",
+        "type": "Adv",
+        "ipa": "ˈpɒsəbli",
+        "meaning": "có khả năng"
+    },
+    {
+        "word": "top",
+        "type": "Adv",
+        "ipa": "tɒp",
+        "meaning": "hàng đầu"
+    },
+    {
+        "word": "cheerfully",
+        "type": "Adv",
+        "ipa": "ˈʧɪəfʊli",
+        "meaning": "vui vẻ"
+    },
+    {
+        "word": "apart",
+        "type": "Adv",
+        "ipa": "əˈpɑːt",
+        "meaning": "riêng biệt"
+    },
+    {
+        "word": "literally",
+        "type": "Adv",
+        "ipa": "ˈlɪtərəli",
+        "meaning": "theo nghĩa đen"
+    },
+    {
+        "word": "unexpectedly",
+        "type": "Adv",
+        "ipa": "ˌʌnɪksˈpɛktɪdli",
+        "meaning": "bất ngờ"
+    },
+    {
+        "word": "together",
+        "type": "Adv",
+        "ipa": "təˈgɛðə",
+        "meaning": "cùng với nhau"
+    },
+    {
+        "word": "carelessly",
+        "type": "Adv",
+        "ipa": "ˈkeəlɪsli",
+        "meaning": "một cách bất cẩn"
+    },
+    {
+        "word": "lightly",
+        "type": "Adv",
+        "ipa": "ˈlaɪtli",
+        "meaning": "nhẹ"
+    },
+    {
+        "word": "nationwide",
+        "type": "Adv",
+        "ipa": "ˈneɪʃənwaɪd",
+        "meaning": "toàn quốc"
+    },
+    {
+        "word": "seriously",
+        "type": "Adv",
+        "ipa": "ˈsɪərɪəsli",
+        "meaning": "nghiêm túc"
+    },
+    {
+        "word": "accurately",
+        "type": "Adv",
+        "ipa": "ˈækjʊrɪtli",
+        "meaning": "chính xác"
+    },
+    {
+        "word": "calmly",
+        "type": "Adv",
+        "ipa": "ˈkɑːmli",
+        "meaning": "bình tĩnh"
+    },
+    {
+        "word": "any",
+        "type": "Adv",
+        "ipa": "ˈɛni",
+        "meaning": "bất kì"
+    },
+    {
+        "word": "lately",
+        "type": "Adv",
+        "ipa": "ˈleɪtli",
+        "meaning": "gần đây"
+    },
+    {
+        "word": "meanwhile",
+        "type": "Adv",
+        "ipa": "ˈmiːnˈwaɪl",
+        "meaning": "trong khi đó"
+    },
+    {
+        "word": "separately",
+        "type": "Adv",
+        "ipa": "ˈsɛprɪtli",
+        "meaning": "riêng biệt"
+    },
+    {
+        "word": "since",
+        "type": "Adv",
+        "ipa": "sɪns",
+        "meaning": "từ"
+    },
+    {
+        "word": "well",
+        "type": "Adv",
+        "ipa": "wɛl",
+        "meaning": "tốt"
+    },
+    {
+        "word": "accidentally",
+        "type": "Adv",
+        "ipa": "ˌæksɪˈdɛntəli",
+        "meaning": "vô tình"
+    },
+    {
+        "word": "personally",
+        "type": "Adv",
+        "ipa": "ˈpɜːsnəli",
+        "meaning": "cá nhân"
+    },
+    {
+        "word": "undoubtedly",
+        "type": "Adv",
+        "ipa": "ʌnˈdaʊtɪdli",
+        "meaning": "chắc chắn"
+    },
+    {
+        "word": "brilliantly",
+        "type": "Adv",
+        "ipa": "ˈbrɪljəntli",
+        "meaning": "rực rỡ"
+    },
+    {
+        "word": "always",
+        "type": "Adv",
+        "ipa": "ˈɔːlweɪz",
+        "meaning": "luôn luôn"
+    },
+    {
+        "word": "lastly",
+        "type": "Adv",
+        "ipa": "ˈlɑːstli",
+        "meaning": "cuối cùng"
+    },
+    {
+        "word": "luckily",
+        "type": "Adv",
+        "ipa": "ˈlʌkɪli",
+        "meaning": "may mắn thay"
+    },
+    {
+        "word": "secretly",
+        "type": "Adv",
+        "ipa": "ˈsiːkrɪtli",
+        "meaning": "bí mật"
+    },
+    {
+        "word": "seldom",
+        "type": "Adv",
+        "ipa": "ˈsɛldəm",
+        "meaning": "hiếm khi"
+    },
+    {
+        "word": "therefore",
+        "type": "Adv",
+        "ipa": "ˈðeəfɔː",
+        "meaning": "vì thế"
+    },
+    {
+        "word": "further",
+        "type": "Adv",
+        "ipa": "ˈfɜːðə",
+        "meaning": "thêm nữa"
+    },
+    {
+        "word": "boldly",
+        "type": "Adv",
+        "ipa": "ˈbəʊldli",
+        "meaning": "mạnh dạn"
+    },
+    {
+        "word": "closely",
+        "type": "Adv",
+        "ipa": "ˈkləʊsli",
+        "meaning": "chặt chẽ"
+    },
+    {
+        "word": "incredibly",
+        "type": "Adv",
+        "ipa": "ɪnˈkrɛdəbli",
+        "meaning": "không thể tin được"
+    },
+    {
+        "word": "today",
+        "type": "Adv",
+        "ipa": "təˈdeɪ",
+        "meaning": "hôm nay"
+    },
+    {
+        "word": "altogether",
+        "type": "Adv",
+        "ipa": "ˌɔːltəˈgɛðə",
+        "meaning": "hoàn toàn"
+    },
+    {
+        "word": "instantly",
+        "type": "Adv",
+        "ipa": "ˈɪnstəntli",
+        "meaning": "ngay lập tức"
+    },
+    {
+        "word": "loud",
+        "type": "Adv",
+        "ipa": "laʊd",
+        "meaning": "to tiếng"
+    },
+    {
+        "word": "sadly",
+        "type": "Adv",
+        "ipa": "ˈsædli",
+        "meaning": "thật đáng buồn"
+    },
+    {
+        "word": "second",
+        "type": "Adv",
+        "ipa": "ˈsɛkənd",
+        "meaning": "thứ hai"
+    },
+    {
+        "word": "rather",
+        "type": "Adv",
+        "ipa": "ˈrɑːðə",
+        "meaning": "hơn"
+    },
+    {
+        "word": "anxiously",
+        "type": "Adv",
+        "ipa": "ˈæŋkʃəsli",
+        "meaning": "lo lắng"
+    },
+    {
+        "word": "willingly",
+        "type": "Adv",
+        "ipa": "ˈwɪlɪŋli",
+        "meaning": "sẵn lòng"
+    },
+    {
+        "word": "impatiently",
+        "type": "Adv",
+        "ipa": "ɪmˈpeɪʃəntli",
+        "meaning": "sốt ruột"
+    },
+    {
+        "word": "tight",
+        "type": "Adv",
+        "ipa": "taɪt",
+        "meaning": "chặt chẽ"
+    },
+    {
+        "word": "bravely",
+        "type": "Adv",
+        "ipa": "ˈbreɪvli",
+        "meaning": "dũng cảm"
+    },
+    {
+        "word": "late",
+        "type": "Adv",
+        "ipa": "leɪt",
+        "meaning": "muộn"
+    },
+    {
+        "word": "rightly",
+        "type": "Adv",
+        "ipa": "ˈraɪtli",
+        "meaning": "đúng"
+    },
+    {
+        "word": "unfairly",
+        "type": "Adv",
+        "ipa": "ʌnˈfeəli",
+        "meaning": "không công bằng"
+    },
+    {
+        "word": "angrily",
+        "type": "Adv",
+        "ipa": "ˈæŋgrɪli",
+        "meaning": "giận dữ"
+    },
+    {
+        "word": "warmly",
+        "type": "Adv",
+        "ipa": "ˈwɔːmli",
+        "meaning": "nồng nhiệt"
+    },
+    {
+        "word": "illegally",
+        "type": "Adv",
+        "ipa": "ɪˈliːgəli",
+        "meaning": "bất hợp pháp"
+    },
+    {
+        "word": "though",
+        "type": "Adv",
+        "ipa": "ðəʊ",
+        "meaning": "Tuy nhiên"
+    },
+    {
+        "word": "already",
+        "type": "Adv",
+        "ipa": "ɔːlˈrɛdi",
+        "meaning": "đã sẵn sàng"
+    },
+    {
+        "word": "independently",
+        "type": "Adv",
+        "ipa": "ˌɪndɪˈpɛndəntli",
+        "meaning": "độc lập"
+    },
+    {
+        "word": "last",
+        "type": "Adv",
+        "ipa": "lɑːst",
+        "meaning": "Cuối cùng"
+    },
+    {
+        "word": "regularly",
+        "type": "Adv",
+        "ipa": "ˈrɛgjʊləli",
+        "meaning": "thường xuyên"
+    },
+    {
+        "word": "round",
+        "type": "Adv",
+        "ipa": "raʊnd",
+        "meaning": "tròn"
+    },
+    {
+        "word": "overall",
+        "type": "Adv",
+        "ipa": "ˈəʊvərɔːl",
+        "meaning": "tổng thể"
+    },
+    {
+        "word": "part-time",
+        "type": "Adv",
+        "ipa": "pɑːt-taɪm",
+        "meaning": "bán thời gian"
+    },
+    {
+        "word": "innocently",
+        "type": "Adv",
+        "ipa": "ˈɪnəsəntli",
+        "meaning": "hồn nhiên"
+    },
+    {
+        "word": "amazingly",
+        "type": "Adv",
+        "ipa": "əˈmeɪzɪŋli",
+        "meaning": "thật đáng kinh ngạc"
+    },
+    {
+        "word": "violently",
+        "type": "Adv",
+        "ipa": "ˈvaɪələntli",
+        "meaning": "dữ dội"
+    },
+    {
+        "word": "formerly",
+        "type": "Adv",
+        "ipa": "ˈfɔːməli",
+        "meaning": "trước kia"
+    },
+    {
+        "word": "there",
+        "type": "Adv",
+        "ipa": "ðeə",
+        "meaning": "ở đó"
+    },
+    {
+        "word": "aloud",
+        "type": "Adv",
+        "ipa": "əˈlaʊd",
+        "meaning": "to"
+    },
+    {
+        "word": "increasingly",
+        "type": "Adv",
+        "ipa": "ɪnˈkriːsɪŋli",
+        "meaning": "ngày càng"
+    },
+    {
+        "word": "just",
+        "type": "Adv",
+        "ipa": "ʤʌst",
+        "meaning": "chỉ"
+    },
+    {
+        "word": "recently",
+        "type": "Adv",
+        "ipa": "ˈriːsntli",
+        "meaning": "gần đây"
+    },
+    {
+        "word": "nevertheless",
+        "type": "Adv",
+        "ipa": "ˌnɛvəðəˈlɛs",
+        "meaning": "Tuy nhiên"
+    },
+    {
+        "word": "on",
+        "type": "Adv",
+        "ipa": "ɒn",
+        "meaning": "trên"
+    },
+    {
+        "word": "initially",
+        "type": "Adv",
+        "ipa": "ɪˈnɪʃəli",
+        "meaning": "ban đầu"
+    },
+    {
+        "word": "safely",
+        "type": "Adv",
+        "ipa": "ˈseɪfli",
+        "meaning": "an toàn"
+    },
+    {
+        "word": "quite",
+        "type": "Adv",
+        "ipa": "kwaɪt",
+        "meaning": "khá"
+    },
+    {
+        "word": "internationally",
+        "type": "Adv",
+        "ipa": "ˌɪntə(ː)ˈnæʃənli",
+        "meaning": "quốc tế"
+    },
+    {
+        "word": "along",
+        "type": "Adv",
+        "ipa": "əˈlɒŋ",
+        "meaning": "dọc theo"
+    },
+    {
+        "word": "importantly",
+        "type": "Adv",
+        "ipa": "ɪmˈpɔːtəntli",
+        "meaning": "quan trọng"
+    },
+    {
+        "word": "really",
+        "type": "Adv",
+        "ipa": "ˈrɪəli",
+        "meaning": "có thật không"
+    },
+    {
+        "word": "right",
+        "type": "Adv",
+        "ipa": "raɪt",
+        "meaning": "đúng"
+    },
+    {
+        "word": "in",
+        "type": "Adv",
+        "ipa": "ɪn",
+        "meaning": "trong"
+    },
+    {
+        "word": "aggressively",
+        "type": "Adv",
+        "ipa": "əˈgrɛsɪvli",
+        "meaning": "tích cực"
+    },
+    {
+        "word": "surprisingly",
+        "type": "Adv",
+        "ipa": "səˈpraɪzɪŋli",
+        "meaning": "thật ngạc nhiên"
+    },
+    {
+        "word": "evidently",
+        "type": "Adv",
+        "ipa": "ˈɛvɪdəntli",
+        "meaning": "hiển nhiên"
+    },
+    {
+        "word": "readily",
+        "type": "Adv",
+        "ipa": "ˈrɛdɪli",
+        "meaning": "sẵn sàng"
+    },
+    {
+        "word": "abroad",
+        "type": "Adv",
+        "ipa": "əˈbrɔːd",
+        "meaning": "ở nước ngoài"
+    },
+    {
+        "word": "elegantly",
+        "type": "Adv",
+        "ipa": "ˈɛlɪgəntli",
+        "meaning": "thanh lịch"
+    },
+    {
+        "word": "pretty",
+        "type": "Adv",
+        "ipa": "ˈprɪti",
+        "meaning": "đẹp"
+    },
+    {
+        "word": "ideally",
+        "type": "Adv",
+        "ipa": "aɪˈdɪəli",
+        "meaning": "lý tưởng"
+    },
+    {
+        "word": "beautifully",
+        "type": "Adv",
+        "ipa": "ˈbjuːtəfʊli",
+        "meaning": "đẹp"
+    },
+    {
+        "word": "barely",
+        "type": "Adv",
+        "ipa": "ˈbeəli",
+        "meaning": "vừa đủ"
+    },
+    {
+        "word": "greatly",
+        "type": "Adv",
+        "ipa": "ˈgreɪtli",
+        "meaning": "rất nhiều"
+    },
+    {
+        "word": "reasonably",
+        "type": "Adv",
+        "ipa": "ˈriːznəbli",
+        "meaning": "hợp lý"
+    },
+    {
+        "word": "thus",
+        "type": "Adv",
+        "ipa": "ðʌs",
+        "meaning": "do đó"
+    },
+    {
+        "word": "alike",
+        "type": "Adv",
+        "ipa": "əˈlaɪk",
+        "meaning": "như nhau"
+    },
+    {
+        "word": "rarely",
+        "type": "Adv",
+        "ipa": "ˈreəli",
+        "meaning": "ít khi"
+    },
+    {
+        "word": "over",
+        "type": "Adv",
+        "ipa": "ˈəʊvə",
+        "meaning": "kết thúc"
+    },
+    {
+        "word": "indeed",
+        "type": "Adv",
+        "ipa": "ɪnˈdiːd",
+        "meaning": "thật"
+    },
+    {
+        "word": "out",
+        "type": "Adv",
+        "ipa": "aʊt",
+        "meaning": "ngoài"
+    },
+    {
+        "word": "globally",
+        "type": "Adv",
+        "ipa": "ˈgləʊbəli",
+        "meaning": "toàn cầu"
+    },
+    {
+        "word": "badly",
+        "type": "Adv",
+        "ipa": "ˈbædli",
+        "meaning": "tệ"
+    },
+    {
+        "word": "generally",
+        "type": "Adv",
+        "ipa": "ˈʤɛnərəli",
+        "meaning": "nói chung là"
+    },
+    {
+        "word": "moreover",
+        "type": "Adv",
+        "ipa": "mɔːˈrəʊvə",
+        "meaning": "hơn thế nữa"
+    },
+    {
+        "word": "highly",
+        "type": "Adv",
+        "ipa": "ˈhaɪli",
+        "meaning": "cao"
+    },
+    {
+        "word": "home",
+        "type": "Adv",
+        "ipa": "həʊm",
+        "meaning": "Trang Chủ"
+    },
+    {
+        "word": "rapidly",
+        "type": "Adv",
+        "ipa": "ˈræpɪdli",
+        "meaning": "nhanh chóng"
+    },
+    {
+        "word": "how",
+        "type": "Adv",
+        "ipa": "haʊ",
+        "meaning": "làm sao"
+    },
+    {
+        "word": "mentally",
+        "type": "Adv",
+        "ipa": "ˈmɛntəli",
+        "meaning": "tinh thần"
+    },
+    {
+        "word": "environmentally",
+        "type": "Adv",
+        "ipa": "ɪnˌvaɪərənˈmɛntli",
+        "meaning": "môi trường"
+    },
+    {
+        "word": "approximately",
+        "type": "Adv",
+        "ipa": "əˈprɒksɪmɪtli",
+        "meaning": "xấp xỉ"
+    },
+    {
+        "word": "proudly",
+        "type": "Adv",
+        "ipa": "ˈpraʊdli",
+        "meaning": "Tự hào"
+    },
+    {
+        "word": "ahead",
+        "type": "Adv",
+        "ipa": "əˈhɛd",
+        "meaning": "phía trước"
+    },
+    {
+        "word": "gradually",
+        "type": "Adv",
+        "ipa": "ˈgrædjʊəli",
+        "meaning": "dần dần"
+    },
+    {
+        "word": "here",
+        "type": "Adv",
+        "ipa": "hɪə",
+        "meaning": "đây"
+    },
+    {
+        "word": "quietly",
+        "type": "Adv",
+        "ipa": "ˈkwaɪətli",
+        "meaning": "lặng lẽ"
+    },
+    {
+        "word": "inside",
+        "type": "Adv",
+        "ipa": "ɪnˈsaɪd",
+        "meaning": "phía trong"
+    },
+    {
+        "word": "financially",
+        "type": "Adv",
+        "ipa": "faɪˈnænʃəli",
+        "meaning": "tài chính"
+    },
+    {
+        "word": "politely",
+        "type": "Adv",
+        "ipa": "pəˈlaɪtli",
+        "meaning": "lịch sự"
+    },
+    {
+        "word": "frequently",
+        "type": "Adv",
+        "ipa": "ˈfriːkwəntli",
+        "meaning": "thường xuyên"
+    },
+    {
+        "word": "hard",
+        "type": "Adv",
+        "ipa": "hɑːd",
+        "meaning": "cứng"
+    },
+    {
+        "word": "outdoors",
+        "type": "Adv",
+        "ipa": "ˌaʊtˈdɔːz",
+        "meaning": "ngoài trời"
+    },
+    {
+        "word": "hardly",
+        "type": "Adv",
+        "ipa": "ˈhɑːdli",
+        "meaning": "khó khăn"
+    },
+    {
+        "word": "generously",
+        "type": "Adv",
+        "ipa": "ˈʤɛnərəsli",
+        "meaning": "hào phóng"
+    },
+    {
+        "word": "scientifically",
+        "type": "Adv",
+        "ipa": "ˌsaɪənˈtɪfɪk(ə)li",
+        "meaning": "một cách khoa học"
+    },
+    {
+        "word": "peacefully",
+        "type": "Adv",
+        "ipa": "ˈpiːsfʊli",
+        "meaning": "hòa bình"
+    },
+    {
+        "word": "ecologically",
+        "type": "Adv",
+        "ipa": "ˌɛkəˈlɒʤɪkəli",
+        "meaning": "về mặt sinh thái"
+    },
+    {
+        "word": "adequately",
+        "type": "Adv",
+        "ipa": "ˈædɪkwɪtli",
+        "meaning": "đầy đủ"
+    },
+    {
+        "word": "positively",
+        "type": "Adv",
+        "ipa": "ˈpɒzətɪvli",
+        "meaning": "tích cực"
+    },
+    {
+        "word": "half",
+        "type": "Adv",
+        "ipa": "hɑːf",
+        "meaning": "một nửa"
+    },
+    {
+        "word": "properly",
+        "type": "Adv",
+        "ipa": "ˈprɒpəli",
+        "meaning": "đúng cách"
+    },
+    {
+        "word": "upside down",
+        "type": "Adv",
+        "ipa": "ˈʌpsaɪd daʊn",
+        "meaning": "lộn ngược"
+    },
+    {
+        "word": "roughly",
+        "type": "Adv",
+        "ipa": "ˈrʌfli",
+        "meaning": "đại khái"
+    },
+    {
+        "word": "patiently",
+        "type": "Adv",
+        "ipa": "ˈpeɪʃəntli",
+        "meaning": "kiên nhẫn"
+    },
+    {
+        "word": "about",
+        "type": "Adv",
+        "ipa": "əˈbaʊt",
+        "meaning": "trong khoảng"
+    },
+    {
+        "word": "firmly",
+        "type": "Adv",
+        "ipa": "ˈfɜːmli",
+        "meaning": "vững chắc"
+    },
+    {
+        "word": "furthest",
+        "type": "Adv",
+        "ipa": "ˈfɜːðɪst",
+        "meaning": "xa nhất"
+    },
+    {
+        "word": "privately",
+        "type": "Adv",
+        "ipa": "ˈpraɪvɪtli",
+        "meaning": "tư nhân"
+    },
+    {
+        "word": "traditionally",
+        "type": "Adv",
+        "ipa": "trəˈdɪʃnəli",
+        "meaning": "theo truyền thống"
+    },
+    {
+        "word": "far",
+        "type": "Adv",
+        "ipa": "fɑː",
+        "meaning": "xa"
+    },
+    {
+        "word": "legally",
+        "type": "Adv",
+        "ipa": "ˈliːgəli",
+        "meaning": "hợp pháp"
+    },
+    {
+        "word": "fully",
+        "type": "Adv",
+        "ipa": "ˈfʊli",
+        "meaning": "đầy đủ"
+    },
+    {
+        "word": "freely",
+        "type": "Adv",
+        "ipa": "ˈfriːli",
+        "meaning": "tự do"
+    },
+    {
+        "word": "perfectly",
+        "type": "Adv",
+        "ipa": "ˈpɜːfɪktli",
+        "meaning": "hoàn hảo"
+    },
+    {
+        "word": "passionately",
+        "type": "Adv",
+        "ipa": "ˈpæʃənɪtli",
+        "meaning": "say mê"
+    },
+    {
+        "word": "wrongly",
+        "type": "Adv",
+        "ipa": "ˈrɒŋli",
+        "meaning": "sai"
+    },
+    {
+        "word": "finely",
+        "type": "Adv",
+        "ipa": "ˈfaɪnli",
+        "meaning": "tinh xảo"
+    },
+    {
+        "word": "free",
+        "type": "Adv",
+        "ipa": "friː",
+        "meaning": "miễn phí"
+    },
+    {
+        "word": "primarily",
+        "type": "Adv",
+        "ipa": "ˈpraɪmərɪli",
+        "meaning": "chủ yếu"
+    },
+    {
+        "word": "tightly",
+        "type": "Adv",
+        "ipa": "ˈtaɪtli",
+        "meaning": "chặt chẽ"
+    },
+    {
+        "word": "down",
+        "type": "Adv",
+        "ipa": "daʊn",
+        "meaning": "xuống"
+    },
+    {
+        "word": "through",
+        "type": "Adv",
+        "ipa": "θruː",
+        "meaning": "xuyên qua"
+    },
+    {
+        "word": "virtually",
+        "type": "Adv",
+        "ipa": "ˈvɜːtjʊəli",
+        "meaning": "hầu như"
+    },
+    {
+        "word": "frankly",
+        "type": "Adv",
+        "ipa": "ˈfræŋkli",
+        "meaning": "thẳng thắn"
+    },
+    {
+        "word": "above",
+        "type": "Adv",
+        "ipa": "əˈbʌv",
+        "meaning": "ở trên"
+    },
+    {
+        "word": "genuinely",
+        "type": "Adv",
+        "ipa": "ˈʤɛnjʊɪnli",
+        "meaning": "chân thật"
+    },
+    {
+        "word": "promptly",
+        "type": "Adv",
+        "ipa": "ˈprɒmptli",
+        "meaning": "kịp thời"
+    },
+    {
+        "word": "furthermore",
+        "type": "Adv",
+        "ipa": "ˈfɜːðəˈmɔː",
+        "meaning": "hơn nữa"
+    },
+    {
+        "word": "underneath",
+        "type": "Adv",
+        "ipa": "ˌʌndəˈniːθ",
+        "meaning": "bên dưới"
+    },
+    {
+        "word": "wildly",
+        "type": "Adv",
+        "ipa": "ˈwaɪldli",
+        "meaning": "cuồng nhiệt"
+    },
+    {
+        "word": "fairly",
+        "type": "Adv",
+        "ipa": "ˈfeəli",
+        "meaning": "công bằng"
+    },
+    {
+        "word": "forward",
+        "type": "Adv",
+        "ipa": "ˈfɔːwəd",
+        "meaning": "ở đằng trước"
+    },
+    {
+        "word": "previously",
+        "type": "Adv",
+        "ipa": "ˈpriːviəsli",
+        "meaning": "trước đây"
+    },
+    {
+        "word": "otherwise",
+        "type": "Adv",
+        "ipa": "ˈʌðəwaɪz",
+        "meaning": "nếu không thì"
+    },
+    {
+        "word": "thoroughly",
+        "type": "Adv",
+        "ipa": "ˈθʌrəli",
+        "meaning": "triệt để"
+    },
+    {
+        "word": "besides",
+        "type": "Adv",
+        "ipa": "bɪˈsaɪdz",
+        "meaning": "ngoài ra"
+    },
+    {
+        "word": "that",
+        "type": "Adv",
+        "ipa": "ðæt",
+        "meaning": "cái đó"
+    },
+    {
+        "word": "tremendously",
+        "type": "Adv",
+        "ipa": "trɪˈmɛndəsli",
+        "meaning": "rất nhiều"
+    },
+    {
+        "word": "fortunately",
+        "type": "Adv",
+        "ipa": "ˈfɔːʧnɪtli",
+        "meaning": "may mắn thay"
+    },
+    {
+        "word": "fantastically",
+        "type": "Adv",
+        "ipa": "fænˈtæstɪkəli",
+        "meaning": "tuyệt vời"
+    },
+    {
+        "word": "partly",
+        "type": "Adv",
+        "ipa": "ˈpɑːtli",
+        "meaning": "từng phần"
+    },
+    {
+        "word": "clearly",
+        "type": "Adv",
+        "ipa": "ˈklɪəli",
+        "meaning": "thông suốt"
+    },
+    {
+        "word": "nicely",
+        "type": "Adv",
+        "ipa": "ˈnaɪsli",
+        "meaning": "độc đáo"
+    },
+    {
+        "word": "presumably",
+        "type": "Adv",
+        "ipa": "prɪˈzjuːməbli",
+        "meaning": "có lẽ"
+    },
+    {
+        "word": "anyway",
+        "type": "Adv",
+        "ipa": "ˈɛnɪweɪ",
+        "meaning": "dù sao"
+    },
+    {
+        "word": "totally",
+        "type": "Adv",
+        "ipa": "ˈtəʊtli",
+        "meaning": "Tổng cộng"
+    },
+    {
+        "word": "fluently",
+        "type": "Adv",
+        "ipa": "ˈflu(ː)əntli",
+        "meaning": "Thành thạo"
+    },
+    {
+        "word": "extremely",
+        "type": "Adv",
+        "ipa": "ɪksˈtriːmli",
+        "meaning": "vô cùng"
+    },
+    {
+        "word": "particularly",
+        "type": "Adv",
+        "ipa": "pəˈtɪkjʊləli",
+        "meaning": "đặc biệt"
+    },
+    {
+        "word": "apparently",
+        "type": "Adv",
+        "ipa": "əˈpærəntli",
+        "meaning": "rõ ràng"
+    },
+    {
+        "word": "negatively",
+        "type": "Adv",
+        "ipa": "ˈnɛgətɪvli",
+        "meaning": "tiêu cực"
+    },
+    {
+        "word": "nervously",
+        "type": "Adv",
+        "ipa": "ˈnɜːvəsli",
+        "meaning": "lo lắng"
+    },
+    {
+        "word": "widely",
+        "type": "Adv",
+        "ipa": "ˈwaɪdli",
+        "meaning": "rộng rãi"
+    },
+    {
+        "word": "eventually",
+        "type": "Adv",
+        "ipa": "ɪˈvɛnʧəli",
+        "meaning": "cuối cùng"
+    },
+    {
+        "word": "necessarily",
+        "type": "Adv",
+        "ipa": "ˈnɛsɪsərɪli",
+        "meaning": "nhất thiết phải"
+    },
+    {
+        "word": "merely",
+        "type": "Adv",
+        "ipa": "ˈmɪəli",
+        "meaning": "chỉ đơn thuần là"
+    },
+    {
+        "word": "kindly",
+        "type": "Adv",
+        "ipa": "ˈkaɪndli",
+        "meaning": "vui lòng"
+    },
+    {
+        "word": "essentially",
+        "type": "Adv",
+        "ipa": "ɪˈsɛnʃəli",
+        "meaning": "bản chất"
+    },
+    {
+        "word": "forever",
+        "type": "Adv",
+        "ipa": "fəˈrɛvə",
+        "meaning": "mãi mãi"
+    },
+    {
+        "word": "preferably",
+        "type": "Adv",
+        "ipa": "ˈprɛfərəbli",
+        "meaning": "tốt nhất là"
+    },
+    {
+        "word": "only",
+        "type": "Adv",
+        "ipa": "ˈəʊnli",
+        "meaning": "chỉ có"
+    },
+    {
+        "word": "terribly",
+        "type": "Adv",
+        "ipa": "ˈtɛrəbli",
+        "meaning": "khủng khiếp"
+    },
+    {
+        "word": "anyhow",
+        "type": "Adv",
+        "ipa": "ˈɛnɪhaʊ",
+        "meaning": "dù sao đi nữa"
+    },
+    {
+        "word": "percent",
+        "type": "Adv",
+        "ipa": "pəˈsɛnt",
+        "meaning": "phần trăm"
+    },
+    {
+        "word": "firstly",
+        "type": "Adv",
+        "ipa": "ˈfɜːstli",
+        "meaning": "trước hết"
+    },
+    {
+        "word": "extraordinarily",
+        "type": "Adv",
+        "ipa": "ɪksˈtrɔːdnrɪli",
+        "meaning": "phi thường"
+    },
+    {
+        "word": "mainly",
+        "type": "Adv",
+        "ipa": "ˈmeɪnli",
+        "meaning": "chủ yếu"
+    },
+    {
+        "word": "alternatively",
+        "type": "Adv",
+        "ipa": "ɔːlˈtɜːnətɪvli",
+        "meaning": "cách khác"
+    },
+    {
+        "word": "jealously",
+        "type": "Adv",
+        "ipa": "ˈʤɛləsli",
+        "meaning": "ghen tị"
+    },
+    {
+        "word": "vividly",
+        "type": "Adv",
+        "ipa": "ˈvɪvɪdli",
+        "meaning": "sống động"
+    },
+    {
+        "word": "especially",
+        "type": "Adv",
+        "ipa": "ɪsˈpɛʃəli",
+        "meaning": "đặc biệt"
+    },
+    {
+        "word": "practically",
+        "type": "Adv",
+        "ipa": "ˈpræktɪk(ə)li",
+        "meaning": "thực tế"
+    },
+    {
+        "word": "temporarily",
+        "type": "Adv",
+        "ipa": "ˈtɛmpərərɪli",
+        "meaning": "một cách tạm thời"
+    },
+    {
+        "word": "opposite",
+        "type": "Adv",
+        "ipa": "ˈɒpəzɪt",
+        "meaning": "đối diện"
+    },
+    {
+        "word": "surely",
+        "type": "Adv",
+        "ipa": "ˈʃʊəli",
+        "meaning": "chắc chắn"
+    },
+    {
+        "word": "finally",
+        "type": "Adv",
+        "ipa": "ˈfaɪnəli",
+        "meaning": "cuối cùng"
+    },
+    {
+        "word": "exactly",
+        "type": "Adv",
+        "ipa": "ɪgˈzæktli",
+        "meaning": "chính xác"
+    },
+    {
+        "word": "largely",
+        "type": "Adv",
+        "ipa": "ˈlɑːʤli",
+        "meaning": "phần lớn"
+    },
+    {
+        "word": "admittedly",
+        "type": "Adv",
+        "ipa": "ədˈmɪtɪdli",
+        "meaning": "thừa nhận"
+    },
+    {
+        "word": "densely",
+        "type": "Adv",
+        "ipa": "ˈdɛnsli",
+        "meaning": "dày đặc"
+    },
+    {
+        "word": "hopefully",
+        "type": "Adv",
+        "ipa": "ˈhəʊpfʊli",
+        "meaning": "hy vọng"
+    },
+    {
+        "word": "urgently",
+        "type": "Adv",
+        "ipa": "ˈɜːʤəntli",
+        "meaning": "khẩn cấp"
+    },
+    {
+        "word": "equally",
+        "type": "Adv",
+        "ipa": "ˈiːkwəli",
+        "meaning": "như nhau"
+    },
+    {
+        "word": "first",
+        "type": "Adv",
+        "ipa": "fɜːst",
+        "meaning": "Đầu tiên"
+    },
+    {
+        "word": "powerfully",
+        "type": "Adv",
+        "ipa": "ˈpaʊəfʊli",
+        "meaning": "mạnh mẽ"
+    },
+    {
+        "word": "suspiciously",
+        "type": "Adv",
+        "ipa": "səsˈpɪʃəsli",
+        "meaning": "nghi ngờ"
+    },
+    {
+        "word": "nearby",
+        "type": "Adv",
+        "ipa": "ˈnɪəbaɪ",
+        "meaning": "gần đó"
+    },
+    {
+        "word": "happily",
+        "type": "Adv",
+        "ipa": "ˈhæpɪli",
+        "meaning": "hạnh phúc"
+    },
+    {
+        "word": "typically",
+        "type": "Adv",
+        "ipa": "ˈtɪpɪk(ə)li",
+        "meaning": "thông thường"
+    },
+    {
+        "word": "efficiently",
+        "type": "Adv",
+        "ipa": "ɪˈfɪʃəntli",
+        "meaning": "hiệu quả"
+    },
+    {
+        "word": "face to face",
+        "type": "Adv",
+        "ipa": "feɪs tuː feɪs",
+        "meaning": "mặt đối mặt"
+    },
+    {
+        "word": "potentially",
+        "type": "Adv",
+        "ipa": "pəʊˈtɛnʃəli",
+        "meaning": "có tiềm năng"
+    },
+    {
+        "word": "once",
+        "type": "Adv",
+        "ipa": "wʌns",
+        "meaning": "Một lần"
+    },
+    {
+        "word": "suitably",
+        "type": "Adv",
+        "ipa": "ˈsjuːtəbli",
+        "meaning": "phù hợp"
+    },
+    {
+        "word": "entirely",
+        "type": "Adv",
+        "ipa": "ɪnˈtaɪəli",
+        "meaning": "hoàn toàn"
+    },
+    {
+        "word": "actually",
+        "type": "Adv",
+        "ipa": "ˈækʧʊəli",
+        "meaning": "thực ra"
+    },
+    {
+        "word": "brightly",
+        "type": "Adv",
+        "ipa": "ˈbraɪtli",
+        "meaning": "rực rỡ"
+    },
+    {
+        "word": "honestly",
+        "type": "Adv",
+        "ipa": "ˈɒnɪstli",
+        "meaning": "thành thật"
+    },
+    {
+        "word": "even",
+        "type": "Adv",
+        "ipa": "ˈiːvən",
+        "meaning": "cũng"
+    },
+    {
+        "word": "pleasantly",
+        "type": "Adv",
+        "ipa": "ˈplɛzntli",
+        "meaning": "vừa lòng"
+    },
+    {
+        "word": "suddenly",
+        "type": "Adv",
+        "ipa": "ˈsʌdnli",
+        "meaning": "đột ngột"
+    },
+    {
+        "word": "electronically",
+        "type": "Adv",
+        "ipa": "ɪlɛkˈtrɒnɪk(ə)li",
+        "meaning": "điện tử"
+    },
+    {
+        "word": "much",
+        "type": "Adv",
+        "ipa": "mʌʧ",
+        "meaning": "nhiều"
+    },
+    {
+        "word": "desperately",
+        "type": "Adv",
+        "ipa": "ˈdɛspərɪtli",
+        "meaning": "tuyệt vọng"
+    },
+    {
+        "word": "gently",
+        "type": "Adv",
+        "ipa": "ˈʤɛntli",
+        "meaning": "dịu dàng"
+    },
+    {
+        "word": "directly",
+        "type": "Adv",
+        "ipa": "dɪˈrɛktli",
+        "meaning": "trực tiếp"
+    },
+    {
+        "word": "either",
+        "type": "Adv",
+        "ipa": "ˈaɪðə",
+        "meaning": "hoặc"
+    },
+    {
+        "word": "strictly",
+        "type": "Adv",
+        "ipa": "ˈstrɪktli",
+        "meaning": "nghiêm chỉnh"
+    },
+    {
+        "word": "more",
+        "type": "Adv",
+        "ipa": "mɔː",
+        "meaning": "hơn"
+    },
+    {
+        "word": "conveniently",
+        "type": "Adv",
+        "ipa": "kənˈviːniəntli",
+        "meaning": "thuận tiện"
+    },
+    {
+        "word": "effectively",
+        "type": "Adv",
+        "ipa": "ɪˈfɛktɪvli",
+        "meaning": "hiệu quả"
+    },
+    {
+        "word": "furiously",
+        "type": "Adv",
+        "ipa": "ˈfjʊərɪəsli",
+        "meaning": "giận dữ"
+    },
+    {
+        "word": "best",
+        "type": "Adv",
+        "ipa": "bɛst",
+        "meaning": "tốt"
+    },
+    {
+        "word": "originally",
+        "type": "Adv",
+        "ipa": "əˈrɪʤɪnəli",
+        "meaning": "ban đầu"
+    },
+    {
+        "word": "often",
+        "type": "Adv",
+        "ipa": "ˈɒf(ə)n",
+        "meaning": "thường xuyên"
+    },
+    {
+        "word": "heavily",
+        "type": "Adv",
+        "ipa": "ˈhɛvɪli",
+        "meaning": "nặng nề"
+    },
+    {
+        "word": "strangely",
+        "type": "Adv",
+        "ipa": "ˈstreɪnʤli",
+        "meaning": "kỳ lạ"
+    },
+    {
+        "word": "absolutely",
+        "type": "Adv",
+        "ipa": "ˈæbsəluːtli",
+        "meaning": "chắc chắn rồi"
+    },
+    {
+        "word": "low",
+        "type": "Adv",
+        "ipa": "ləʊ",
+        "meaning": "Thấp"
+    },
+    {
+        "word": "continuously",
+        "type": "Adv",
+        "ipa": "kənˈtɪnjʊəsli",
+        "meaning": "liên tục"
+    },
+    {
+        "word": "truly",
+        "type": "Adv",
+        "ipa": "ˈtruːli",
+        "meaning": "thật sự"
+    },
+    {
+        "word": "dramatically",
+        "type": "Adv",
+        "ipa": "drəˈmætɪk(ə)li",
+        "meaning": "đột ngột"
+    },
+    {
+        "word": "elsewhere",
+        "type": "Adv",
+        "ipa": "ˈɛlsˈweə",
+        "meaning": "nơi khác"
+    },
+    {
+        "word": "permanently",
+        "type": "Adv",
+        "ipa": "ˈpɜːmənəntli",
+        "meaning": "vĩnh viễn"
+    },
+    {
+        "word": "successfully",
+        "type": "Adv",
+        "ipa": "səkˈsɛsfʊli",
+        "meaning": "thành công"
+    },
+    {
+        "word": "automatically",
+        "type": "Adv",
+        "ipa": "ˌɔːtəˈmætɪkəli",
+        "meaning": "tự động"
+    },
+    {
+        "word": "deeply",
+        "type": "Adv",
+        "ipa": "ˈdiːpli",
+        "meaning": "sâu sắc"
+    },
+    {
+        "word": "differently",
+        "type": "Adv",
+        "ipa": "ˈdɪfrəntli",
+        "meaning": "khác nhau"
+    },
+    {
+        "word": "occasionally",
+        "type": "Adv",
+        "ipa": "əˈkeɪʒnəli",
+        "meaning": "thỉnh thoảng"
+    },
+    {
+        "word": "off",
+        "type": "Adv",
+        "ipa": "ɒf",
+        "meaning": "tắt"
+    },
+    {
+        "word": "steadily",
+        "type": "Adv",
+        "ipa": "ˈstɛdɪli",
+        "meaning": "đều đặn"
+    },
+    {
+        "word": "psychologically",
+        "type": "Adv",
+        "ipa": "ˌsaɪkəˈlɒʤɪkəli",
+        "meaning": "tâm lý"
+    },
+    {
+        "word": "least",
+        "type": "Adv",
+        "ipa": "liːst",
+        "meaning": "ít nhất"
+    },
+    {
+        "word": "constantly",
+        "type": "Adv",
+        "ipa": "ˈkɒnstəntli",
+        "meaning": "liên tục"
+    },
+    {
+        "word": "consequently",
+        "type": "Adv",
+        "ipa": "ˈkɒnsɪkwəntli",
+        "meaning": "hậu quả là"
+    },
+    {
+        "word": "foolishly",
+        "type": "Adv",
+        "ipa": "ˈfuːlɪʃli",
+        "meaning": "dại dột"
+    },
+    {
+        "word": "specially",
+        "type": "Adv",
+        "ipa": "ˈspɛʃəli",
+        "meaning": "đặc biệt"
+    },
+    {
+        "word": "physically",
+        "type": "Adv",
+        "ipa": "ˈfɪzɪkəli",
+        "meaning": "thể chất"
+    },
+    {
+        "word": "indoors",
+        "type": "Adv",
+        "ipa": "ˌɪnˈdɔːz",
+        "meaning": "trong nhà"
+    },
+    {
+        "word": "considerably",
+        "type": "Adv",
+        "ipa": "kənˈsɪdərəbli",
+        "meaning": "đáng kể"
+    },
+    {
+        "word": "completely",
+        "type": "Adv",
+        "ipa": "kəmˈpliːtli",
+        "meaning": "hoàn toàn"
+    },
+    {
+        "word": "excitedly",
+        "type": "Adv",
+        "ipa": "ɪkˈsaɪtɪdli",
+        "meaning": "hào hứng"
+    },
+    {
+        "word": "deliberately",
+        "type": "Adv",
+        "ipa": "dɪˈlɪbərɪtli",
+        "meaning": "thong thả"
+    },
+    {
+        "word": "obviously",
+        "type": "Adv",
+        "ipa": "ˈɒbvɪəsli",
+        "meaning": "chắc chắn"
+    },
+    {
+        "word": "enthusiastically",
+        "type": "Adv",
+        "ipa": "ɪnˌθjuːzɪˈæstɪk(ə)li",
+        "meaning": "nhiệt tình"
+    },
+    {
+        "word": "definitely",
+        "type": "Adv",
+        "ipa": "ˈdɛfɪnɪtli",
+        "meaning": "chắc chắn"
+    },
+    {
+        "word": "backwards",
+        "type": "Adv",
+        "ipa": "ˈbækwədz",
+        "meaning": "ngược"
+    },
+    {
+        "word": "normally",
+        "type": "Adv",
+        "ipa": "ˈnɔːməli",
+        "meaning": "bình thường"
+    },
+    {
+        "word": "nowhere",
+        "type": "Adv",
+        "ipa": "ˈnəʊweə",
+        "meaning": "hư không"
+    },
+    {
+        "word": "softly",
+        "type": "Adv",
+        "ipa": "ˈsɒftli",
+        "meaning": "nhẹ nhàng"
+    },
+    {
+        "word": "high",
+        "type": "Adv",
+        "ipa": "haɪ",
+        "meaning": "cao"
+    },
+    {
+        "word": "comfortably",
+        "type": "Adv",
+        "ipa": "ˈkʌmf(ə)təbli",
+        "meaning": "thoải mái"
+    },
+    {
+        "word": "emotionally",
+        "type": "Adv",
+        "ipa": "ɪˈməʊʃənli",
+        "meaning": "cảm xúc"
+    },
+    {
+        "word": "strongly",
+        "type": "Adv",
+        "ipa": "ˈstrɒŋli",
+        "meaning": "mạnh mẽ"
+    },
+    {
+        "word": "currently",
+        "type": "Adv",
+        "ipa": "ˈkʌrəntli",
+        "meaning": "hiện tại"
+    },
+    {
+        "word": "back",
+        "type": "Adv",
+        "ipa": "bæk",
+        "meaning": "trở lại"
+    },
+    {
+        "word": "nowadays",
+        "type": "Adv",
+        "ipa": "ˈnaʊədeɪz",
+        "meaning": "ngày nay"
+    },
+    {
+        "word": "smoothly",
+        "type": "Adv",
+        "ipa": "ˈsmuːðli",
+        "meaning": "thông suốt"
+    },
+    {
+        "word": "flat",
+        "type": "Adv",
+        "ipa": "flæt",
+        "meaning": "bằng phẳng"
+    },
+    {
+        "word": "casually",
+        "type": "Adv",
+        "ipa": "ˈkæʒjʊəli",
+        "meaning": "tình cờ"
+    },
+    {
+        "word": "eagerly",
+        "type": "Adv",
+        "ipa": "ˈiːgəli",
+        "meaning": "háo hức"
+    },
+    {
+        "word": "slightly",
+        "type": "Adv",
+        "ipa": "ˈslaɪtli",
+        "meaning": "nhẹ nhàng"
+    },
+    {
+        "word": "curiously",
+        "type": "Adv",
+        "ipa": "ˈkjʊərɪəsli",
+        "meaning": "tò mò"
+    },
+    {
+        "word": "newly",
+        "type": "Adv",
+        "ipa": "ˈnjuːli",
+        "meaning": "mới"
+    },
+    {
+        "word": "now",
+        "type": "Adv",
+        "ipa": "naʊ",
+        "meaning": "hiện nay"
+    },
+    {
+        "word": "simultaneously",
+        "type": "Adv",
+        "ipa": "ˌsɪməlˈteɪniəsli",
+        "meaning": "đồng thời"
+    },
+    {
+        "word": "fine",
+        "type": "Adv",
+        "ipa": "faɪn",
+        "meaning": "khỏe"
+    },
+    {
+        "word": "briefly",
+        "type": "Adv",
+        "ipa": "ˈbriːfli",
+        "meaning": "Tóm tắt"
+    },
+    {
+        "word": "dangerously",
+        "type": "Adv",
+        "ipa": "ˈdeɪnʤrəsli",
+        "meaning": "nguy hiểm"
+    },
+    {
+        "word": "worst",
+        "type": "Adv",
+        "ipa": "wɜːst",
+        "meaning": "tệ nhất"
+    },
+    {
+        "word": "simply",
+        "type": "Adv",
+        "ipa": "ˈsɪmpli",
+        "meaning": "đơn giản"
+    },
+    {
+        "word": "culturally",
+        "type": "Adv",
+        "ipa": "ˈkʌlʧərəli",
+        "meaning": "văn hóa"
+    },
+    {
+        "word": "naturally",
+        "type": "Adv",
+        "ipa": "ˈnæʧrəli",
+        "meaning": "một cách tự nhiên"
+    },
+    {
+        "word": "not",
+        "type": "Adv",
+        "ipa": "nɒt",
+        "meaning": "không phải"
+    },
+    {
+        "word": "extra",
+        "type": "Adv",
+        "ipa": "ˈɛkstrə",
+        "meaning": "thêm"
+    },
+    {
+        "word": "basically",
+        "type": "Adv",
+        "ipa": "ˈbeɪsɪkəli",
+        "meaning": "về cơ bản"
+    },
+    {
+        "word": "worse",
+        "type": "Adv",
+        "ipa": "wɜːs",
+        "meaning": "tệ hơn"
+    },
+    {
+        "word": "nor",
+        "type": "Adv",
+        "ipa": "nɔː",
+        "meaning": "cũng không"
+    },
+    {
+        "word": "cruelly",
+        "type": "Adv",
+        "ipa": "ˈkrʊəli",
+        "meaning": "tàn nhẫn"
+    },
+    {
+        "word": "wide",
+        "type": "Adv",
+        "ipa": "waɪd",
+        "meaning": "rộng"
+    },
+    {
+        "word": "mostly",
+        "type": "Adv",
+        "ipa": "ˈməʊstli",
+        "meaning": "hầu hết"
+    },
+    {
+        "word": "next",
+        "type": "Adv",
+        "ipa": "nɛkst",
+        "meaning": "kế tiếp"
+    },
+    {
+        "word": "significantly",
+        "type": "Adv",
+        "ipa": "sɪgˈnɪfɪkəntli",
+        "meaning": "đáng kể"
+    },
+    {
+        "word": "then",
+        "type": "Adv",
+        "ipa": "ðɛn",
+        "meaning": "sau đó"
+    },
+    {
+        "word": "below",
+        "type": "Adv",
+        "ipa": "bɪˈləʊ",
+        "meaning": "phía dưới"
+    },
+    {
+        "word": "appropriately",
+        "type": "Adv",
+        "ipa": "əˈprəʊprɪɪtli",
+        "meaning": "thích hợp"
+    },
+    {
+        "word": "critically",
+        "type": "Adv",
+        "ipa": "ˈkrɪtɪkəli",
+        "meaning": "phê bình"
+    }
+]

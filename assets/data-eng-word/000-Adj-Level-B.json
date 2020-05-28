@@ -1,0 +1,4322 @@
+[
+    {
+        "word": "disabled",
+        "ipa": "dɪsˈeɪbld",
+        "meaning": "tàn tật"
+    },
+    {
+        "word": "irritated",
+        "ipa": "ˈɪrɪteɪtɪd",
+        "meaning": "bị kích thích"
+    },
+    {
+        "word": "temporary",
+        "ipa": "ˈtɛmpərəri",
+        "meaning": "tạm thời"
+    },
+    {
+        "word": "dreadful",
+        "ipa": "ˈdrɛdfʊl",
+        "meaning": "ghê gớm"
+    },
+    {
+        "word": "alcoholic",
+        "ipa": "ˌælkəˈhɒlɪk",
+        "meaning": "kẻ nghiện rượu"
+    },
+    {
+        "word": "accurate",
+        "ipa": "ˈækjʊrɪt",
+        "meaning": "chính xác"
+    },
+    {
+        "word": "flat",
+        "ipa": "flæt",
+        "meaning": "bằng phẳng"
+    },
+    {
+        "word": "outside",
+        "ipa": "ˌaʊtˈsaɪd",
+        "meaning": "ở ngoài"
+    },
+    {
+        "word": "certain",
+        "ipa": "ˈsɜːtn",
+        "meaning": "nhất định"
+    },
+    {
+        "word": "critical",
+        "ipa": "ˈkrɪtɪkəl",
+        "meaning": "bạo kích"
+    },
+    {
+        "word": "foreign",
+        "ipa": "ˈfɒrɪn",
+        "meaning": "ngoại quốc"
+    },
+    {
+        "word": "abandoned",
+        "ipa": "əˈbændənd",
+        "meaning": "bị bỏ rơi"
+    },
+    {
+        "word": "little",
+        "ipa": "ˈlɪtl",
+        "meaning": "ít"
+    },
+    {
+        "word": "powerful",
+        "ipa": "ˈpaʊəfʊl",
+        "meaning": "quyền lực"
+    },
+    {
+        "word": "past",
+        "ipa": "pɑːst",
+        "meaning": "quá khứ"
+    },
+    {
+        "word": "attractive",
+        "ipa": "əˈtræktɪv",
+        "meaning": "hấp dẫn"
+    },
+    {
+        "word": "right",
+        "ipa": "raɪt",
+        "meaning": "đúng"
+    },
+    {
+        "word": "lazy",
+        "ipa": "ˈleɪzi",
+        "meaning": "lười biếng"
+    },
+    {
+        "word": "thorough",
+        "ipa": "ˈθʌrə",
+        "meaning": "kỹ lưỡng"
+    },
+    {
+        "word": "damp",
+        "ipa": "dæmp",
+        "meaning": "ẩm ướt"
+    },
+    {
+        "word": "crazy",
+        "ipa": "ˈkreɪzi",
+        "meaning": "khùng"
+    },
+    {
+        "word": "unsure",
+        "ipa": "ʌnˈʃʊə",
+        "meaning": "không chắc chắn"
+    },
+    {
+        "word": "proud",
+        "ipa": "praʊd",
+        "meaning": "tự hào"
+    },
+    {
+        "word": "environmental",
+        "ipa": "ɪnˌvaɪərənˈmɛntl",
+        "meaning": "thuộc về môi trường"
+    },
+    {
+        "word": "senior",
+        "ipa": "ˈsiːnjə",
+        "meaning": "cao cấp"
+    },
+    {
+        "word": "gymnastic",
+        "ipa": "ʤɪmˈnæstɪk",
+        "meaning": "thể dục dụng cụ"
+    },
+    {
+        "word": "stylish",
+        "ipa": "ˈstaɪlɪʃ",
+        "meaning": "sành điệu"
+    },
+    {
+        "word": "cautious",
+        "ipa": "ˈkɔːʃəs",
+        "meaning": "dè dặt"
+    },
+    {
+        "word": "unavailable",
+        "ipa": "ˌʌnəˈveɪləbl",
+        "meaning": "không có sẵn"
+    },
+    {
+        "word": "outer",
+        "ipa": "ˈaʊtə",
+        "meaning": "bên ngoài"
+    },
+    {
+        "word": "casual",
+        "ipa": "ˈkæʒjʊəl",
+        "meaning": "binh thương"
+    },
+    {
+        "word": "conventional",
+        "ipa": "kənˈvɛnʃənl",
+        "meaning": "thông thường"
+    },
+    {
+        "word": "forbidden",
+        "ipa": "fəˈbɪdn",
+        "meaning": "cấm"
+    },
+    {
+        "word": "meaningful",
+        "ipa": "ˈmiːnɪŋfʊl",
+        "meaning": "có ý nghĩa"
+    },
+    {
+        "word": "alternative",
+        "ipa": "ɔːlˈtɜːnətɪv",
+        "meaning": "thay thế"
+    },
+    {
+        "word": "juicy",
+        "ipa": "ˈʤuːsi",
+        "meaning": "ngon ngọt"
+    },
+    {
+        "word": "cool",
+        "ipa": "kuːl",
+        "meaning": "mát mẻ"
+    },
+    {
+        "word": "content",
+        "ipa": "ˈkɒntɛnt",
+        "meaning": "Nội dung"
+    },
+    {
+        "word": "unpopular",
+        "ipa": "ʌnˈpɒpjʊlə",
+        "meaning": "không phổ biến"
+    },
+    {
+        "word": "positive",
+        "ipa": "ˈpɒzətɪv",
+        "meaning": "tích cực"
+    },
+    {
+        "word": "ecological",
+        "ipa": "ˌɛkəˈlɒʤɪkəl",
+        "meaning": "sinh thái"
+    },
+    {
+        "word": "manual",
+        "ipa": "ˈmænjʊəl",
+        "meaning": "hướng dẫn sử dụng"
+    },
+    {
+        "word": "domestic",
+        "ipa": "dəʊˈmɛstɪk",
+        "meaning": "trong nước"
+    },
+    {
+        "word": "working",
+        "ipa": "ˈwɜːkɪŋ",
+        "meaning": "đang làm việc"
+    },
+    {
+        "word": "anxious",
+        "ipa": "ˈæŋkʃəs",
+        "meaning": "lo lắng"
+    },
+    {
+        "word": "commercial",
+        "ipa": "kəˈmɜːʃəl",
+        "meaning": "thương mại"
+    },
+    {
+        "word": "visual",
+        "ipa": "ˈvɪzjʊəl",
+        "meaning": "trực quan"
+    },
+    {
+        "word": "faithful",
+        "ipa": "ˈfeɪθfʊl",
+        "meaning": "Trung thành"
+    },
+    {
+        "word": "unreliable",
+        "ipa": "ˌʌnrɪˈlaɪəbl",
+        "meaning": "không đáng tin cậy"
+    },
+    {
+        "word": "active",
+        "ipa": "ˈæktɪv",
+        "meaning": "hoạt động"
+    },
+    {
+        "word": "dusty",
+        "ipa": "ˈdʌsti",
+        "meaning": "bụi bặm"
+    },
+    {
+        "word": "impressed",
+        "ipa": "ɪmˈprɛst",
+        "meaning": "ấn tượng"
+    },
+    {
+        "word": "sudden",
+        "ipa": "ˈsʌdn",
+        "meaning": "đột nhiên"
+    },
+    {
+        "word": "delightful",
+        "ipa": "dɪˈlaɪtfʊl",
+        "meaning": "thú vị"
+    },
+    {
+        "word": "rusty",
+        "ipa": "ˈrʌsti",
+        "meaning": "gỉ"
+    },
+    {
+        "word": "absurd",
+        "ipa": "əbˈsɜːd",
+        "meaning": "vô lý"
+    },
+    {
+        "word": "firm",
+        "ipa": "fɜːm",
+        "meaning": "chắc chắn"
+    },
+    {
+        "word": "rich",
+        "ipa": "rɪʧ",
+        "meaning": "giàu có"
+    },
+    {
+        "word": "funny",
+        "ipa": "ˈfʌni",
+        "meaning": "buồn cười"
+    },
+    {
+        "word": "clear",
+        "ipa": "klɪə",
+        "meaning": "thông thoáng"
+    },
+    {
+        "word": "cold",
+        "ipa": "kəʊld",
+        "meaning": "lạnh"
+    },
+    {
+        "word": "unkind",
+        "ipa": "ʌnˈkaɪnd",
+        "meaning": "không tử tế"
+    },
+    {
+        "word": "coastal",
+        "ipa": "ˈkəʊstəl",
+        "meaning": "duyên hải"
+    },
+    {
+        "word": "full-time",
+        "ipa": "fʊl-taɪm",
+        "meaning": "toàn thời gian"
+    },
+    {
+        "word": "democratic",
+        "ipa": "ˌdɛməˈkrætɪk",
+        "meaning": "dân chủ"
+    },
+    {
+        "word": "developing",
+        "ipa": "dɪˈvɛləpɪŋ",
+        "meaning": "đang phát triển"
+    },
+    {
+        "word": "central",
+        "ipa": "ˈsɛntrəl",
+        "meaning": "Trung tâm"
+    },
+    {
+        "word": "usual",
+        "ipa": "ˈjuːʒʊəl",
+        "meaning": "bình thường"
+    },
+    {
+        "word": "doubtful",
+        "ipa": "ˈdaʊtfʊl",
+        "meaning": "nghi ngờ"
+    },
+    {
+        "word": "unreasonable",
+        "ipa": "ʌnˈriːznəbl",
+        "meaning": "không hợp lý"
+    },
+    {
+        "word": "cheeky",
+        "ipa": "ˈʧiːki",
+        "meaning": "táo tợn"
+    },
+    {
+        "word": "frightened",
+        "ipa": "ˈfraɪtnd",
+        "meaning": "sợ hãi"
+    },
+    {
+        "word": "stuck",
+        "ipa": "stʌk",
+        "meaning": "bị mắc kẹt"
+    },
+    {
+        "word": "colourful",
+        "ipa": "ˈkʌləfʊl",
+        "meaning": "Đầy màu sắc"
+    },
+    {
+        "word": "risky",
+        "ipa": "ˈrɪski",
+        "meaning": "rủi ro"
+    },
+    {
+        "word": "strict",
+        "ipa": "strɪkt",
+        "meaning": "nghiêm khắc"
+    },
+    {
+        "word": "fine",
+        "ipa": "faɪn",
+        "meaning": "khỏe"
+    },
+    {
+        "word": "outdoor",
+        "ipa": "ˈaʊtdɔː",
+        "meaning": "ngoài trời"
+    },
+    {
+        "word": "bright",
+        "ipa": "braɪt",
+        "meaning": "sáng"
+    },
+    {
+        "word": "controversial",
+        "ipa": "ˌkɒntrəˈvɜːʃəl",
+        "meaning": "gây tranh cãi"
+    },
+    {
+        "word": "important",
+        "ipa": "ɪmˈpɔːtənt",
+        "meaning": "quan trọng"
+    },
+    {
+        "word": "light",
+        "ipa": "laɪt",
+        "meaning": "ánh sáng"
+    },
+    {
+        "word": "passive",
+        "ipa": "ˈpæsɪv",
+        "meaning": "thụ động"
+    },
+    {
+        "word": "exhausted",
+        "ipa": "ɪgˈzɔːstɪd",
+        "meaning": "kiệt sức"
+    },
+    {
+        "word": "independent",
+        "ipa": "ˌɪndɪˈpɛndənt",
+        "meaning": "độc lập"
+    },
+    {
+        "word": "greedy",
+        "ipa": "ˈgriːdi",
+        "meaning": "tham"
+    },
+    {
+        "word": "written",
+        "ipa": "ˈrɪtn",
+        "meaning": "bằng văn bản"
+    },
+    {
+        "word": false,
+        "ipa": "fɔːls",
+        "meaning": "SAI"
+    },
+    {
+        "word": "tragic",
+        "ipa": "ˈtræʤɪk",
+        "meaning": "bi thảm"
+    },
+    {
+        "word": "near",
+        "ipa": "nɪə",
+        "meaning": "ở gần"
+    },
+    {
+        "word": "worrying",
+        "ipa": "ˈwʌriɪŋ",
+        "meaning": "đáng lo ngại"
+    },
+    {
+        "word": "vast",
+        "ipa": "vɑːst",
+        "meaning": "rộng lớn"
+    },
+    {
+        "word": "ambitious",
+        "ipa": "æmˈbɪʃəs",
+        "meaning": "đầy tham vọng"
+    },
+    {
+        "word": "annual",
+        "ipa": "ˈænjʊəl",
+        "meaning": "hàng năm"
+    },
+    {
+        "word": "universal",
+        "ipa": "ˌjuːnɪˈvɜːsəl",
+        "meaning": "phổ cập"
+    },
+    {
+        "word": "unbelievable",
+        "ipa": "ˌʌnbɪˈliːvəbl",
+        "meaning": "Không thể tin được"
+    },
+    {
+        "word": "bossy",
+        "ipa": "ˈbɒsi",
+        "meaning": "hách dịch"
+    },
+    {
+        "word": "fascinated",
+        "ipa": "ˈfæsɪneɪtɪd",
+        "meaning": "cuốn hút"
+    },
+    {
+        "word": "strong",
+        "ipa": "strɒŋ",
+        "meaning": "mạnh"
+    },
+    {
+        "word": "painful",
+        "ipa": "ˈpeɪnfʊl",
+        "meaning": "đau đớn"
+    },
+    {
+        "word": "military",
+        "ipa": "ˈmɪlɪtəri",
+        "meaning": "quân đội"
+    },
+    {
+        "word": "upstairs",
+        "ipa": "ˌʌpˈsteəz",
+        "meaning": "tầng trên"
+    },
+    {
+        "word": "icy",
+        "ipa": "ˈaɪsi",
+        "meaning": "băng giá"
+    },
+    {
+        "word": "calm",
+        "ipa": "kɑːm",
+        "meaning": "điềm tĩnh"
+    },
+    {
+        "word": "uneasy",
+        "ipa": "ʌnˈiːzi",
+        "meaning": "khó chịu"
+    },
+    {
+        "word": "legal",
+        "ipa": "ˈliːgəl",
+        "meaning": "hợp pháp"
+    },
+    {
+        "word": "economical",
+        "ipa": "ˌiːkəˈnɒmɪkəl",
+        "meaning": "tiết kiệm"
+    },
+    {
+        "word": "fierce",
+        "ipa": "fɪəs",
+        "meaning": "hung dữ"
+    },
+    {
+        "word": "hi-tech",
+        "ipa": "haɪ-tɛk",
+        "meaning": "công nghệ cao"
+    },
+    {
+        "word": "opposite",
+        "ipa": "ˈɒpəzɪt",
+        "meaning": "đối diện"
+    },
+    {
+        "word": "unnecessary",
+        "ipa": "ʌnˈnɛsɪsəri",
+        "meaning": "không cần thiết"
+    },
+    {
+        "word": "bitter",
+        "ipa": "ˈbɪtə",
+        "meaning": "đắng"
+    },
+    {
+        "word": "realistic",
+        "ipa": "rɪəˈlɪstɪk",
+        "meaning": "thực tế"
+    },
+    {
+        "word": "latter",
+        "ipa": "ˈlætə",
+        "meaning": "sau này"
+    },
+    {
+        "word": "tiring",
+        "ipa": "ˈtaɪərɪŋ",
+        "meaning": "mệt mỏi"
+    },
+    {
+        "word": "particular",
+        "ipa": "pəˈtɪkjʊlə",
+        "meaning": "cụ thể"
+    },
+    {
+        "word": "precious",
+        "ipa": "ˈprɛʃəs",
+        "meaning": "quí"
+    },
+    {
+        "word": "revolutionary",
+        "ipa": "ˌrɛvəˈluːʃnəri",
+        "meaning": "cách mạng"
+    },
+    {
+        "word": "clumsy",
+        "ipa": "ˈklʌmzi",
+        "meaning": "vụng về"
+    },
+    {
+        "word": "unhappy",
+        "ipa": "ʌnˈhæpi",
+        "meaning": "không vui"
+    },
+    {
+        "word": "poor",
+        "ipa": "pʊə",
+        "meaning": "nghèo"
+    },
+    {
+        "word": "chemical",
+        "ipa": "ˈkɛmɪkəl",
+        "meaning": "hóa chất"
+    },
+    {
+        "word": "chief",
+        "ipa": "ʧiːf",
+        "meaning": "trưởng"
+    },
+    {
+        "word": "upright",
+        "ipa": "ˈʌpraɪt",
+        "meaning": "ngay thẳng"
+    },
+    {
+        "word": "adventurous",
+        "ipa": "ədˈvɛnʧərəs",
+        "meaning": "phiêu lưu"
+    },
+    {
+        "word": "accidental",
+        "ipa": "ˌæksɪˈdɛntl",
+        "meaning": "tình cờ"
+    },
+    {
+        "word": "typical",
+        "ipa": "ˈtɪpɪk(ə)l",
+        "meaning": "điển hình"
+    },
+    {
+        "word": "later",
+        "ipa": "ˈleɪtə",
+        "meaning": "một lát sau"
+    },
+    {
+        "word": "uncomfortable",
+        "ipa": "ʌnˈkʌmfətəbl",
+        "meaning": "khó chịu"
+    },
+    {
+        "word": "surrounding",
+        "ipa": "səˈraʊndɪŋ",
+        "meaning": "xung quanh"
+    },
+    {
+        "word": "serious",
+        "ipa": "ˈsɪərɪəs",
+        "meaning": "nghiêm trọng"
+    },
+    {
+        "word": "experienced",
+        "ipa": "ɪksˈpɪərɪənst",
+        "meaning": "có kinh nghiệm"
+    },
+    {
+        "word": "strange",
+        "ipa": "streɪnʤ",
+        "meaning": "lạ"
+    },
+    {
+        "word": "designer",
+        "ipa": "dɪˈzaɪnə",
+        "meaning": "nhà thiết kế"
+    },
+    {
+        "word": "wrong",
+        "ipa": "rɒŋ",
+        "meaning": "Sai lầm"
+    },
+    {
+        "word": "first-floor",
+        "ipa": "ˈfɜːstflɔː",
+        "meaning": "tầng một"
+    },
+    {
+        "word": "guilty",
+        "ipa": "ˈgɪlti",
+        "meaning": "tội lỗi"
+    },
+    {
+        "word": "brilliant",
+        "ipa": "ˈbrɪljənt",
+        "meaning": "xuất sắc"
+    },
+    {
+        "word": "uncertain",
+        "ipa": "ʌnˈsɜːtn",
+        "meaning": "không chắc chắn"
+    },
+    {
+        "word": "passionate",
+        "ipa": "ˈpæʃənɪt",
+        "meaning": "đam mê"
+    },
+    {
+        "word": "residential",
+        "ipa": "ˌrɛzɪˈdɛnʃəl",
+        "meaning": "khu dân cư"
+    },
+    {
+        "word": "high-tech",
+        "ipa": "haɪ-tɛk",
+        "meaning": "công nghệ cao"
+    },
+    {
+        "word": "nearby",
+        "ipa": "ˈnɪəbaɪ",
+        "meaning": "gần đó"
+    },
+    {
+        "word": "unnatural",
+        "ipa": "ʌnˈnæʧrəl",
+        "meaning": "không tự nhiên"
+    },
+    {
+        "word": "bare",
+        "ipa": "beə",
+        "meaning": "trần"
+    },
+    {
+        "word": "female",
+        "ipa": "ˈfiːmeɪl",
+        "meaning": "giống cái"
+    },
+    {
+        "word": "pessimistic",
+        "ipa": "ˌpɛsɪˈmɪstɪk",
+        "meaning": "bi quan"
+    },
+    {
+        "word": "last-minute",
+        "ipa": "lɑːst-ˈmɪnɪt",
+        "meaning": "phút trước"
+    },
+    {
+        "word": "terrifying",
+        "ipa": "ˈtɛrɪfaɪɪŋ",
+        "meaning": "kinh hoàng"
+    },
+    {
+        "word": "pale",
+        "ipa": "peɪl",
+        "meaning": "nhợt nhạt"
+    },
+    {
+        "word": "marvellous",
+        "ipa": "ˈmɑːvələs",
+        "meaning": "kỳ diệu"
+    },
+    {
+        "word": "remote",
+        "ipa": "rɪˈməʊt",
+        "meaning": "Xa xôi"
+    },
+    {
+        "word": "budget",
+        "ipa": "ˈbʌʤɪt",
+        "meaning": "ngân sách"
+    },
+    {
+        "word": "unfortunate",
+        "ipa": "ʌnˈfɔːʧnɪt",
+        "meaning": "thật không may"
+    },
+    {
+        "word": "patient",
+        "ipa": "ˈpeɪʃənt",
+        "meaning": "kiên nhẫn"
+    },
+    {
+        "word": "financial",
+        "ipa": "faɪˈnænʃəl",
+        "meaning": "tài chính"
+    },
+    {
+        "word": "mechanical",
+        "ipa": "mɪˈkænɪkəl",
+        "meaning": "cơ khí"
+    },
+    {
+        "word": "embarrassed",
+        "ipa": "ɪmˈbærəst",
+        "meaning": "xấu hổ"
+    },
+    {
+        "word": "intelligent",
+        "ipa": "ɪnˈtɛlɪʤənt",
+        "meaning": "thông minh"
+    },
+    {
+        "word": "stormy",
+        "ipa": "ˈstɔːmi",
+        "meaning": "bão"
+    },
+    {
+        "word": "total",
+        "ipa": "ˈtəʊtl",
+        "meaning": "toàn bộ"
+    },
+    {
+        "word": "faint",
+        "ipa": "feɪnt",
+        "meaning": "mờ nhạt"
+    },
+    {
+        "word": "sympathetic",
+        "ipa": "ˌsɪmpəˈθɛtɪk",
+        "meaning": "thông cảm"
+    },
+    {
+        "word": "navy blue",
+        "ipa": "ˈneɪvi bluː",
+        "meaning": "màu xanh hải quân"
+    },
+    {
+        "word": "understanding",
+        "ipa": "ˌʌndəˈstændɪŋ",
+        "meaning": "hiểu"
+    },
+    {
+        "word": "unacceptable",
+        "ipa": "ˌʌnəkˈsɛptəbl",
+        "meaning": "không thể chấp nhận"
+    },
+    {
+        "word": "striking",
+        "ipa": "ˈstraɪkɪŋ",
+        "meaning": "nổi bật"
+    },
+    {
+        "word": "regular",
+        "ipa": "ˈrɛgjʊlə",
+        "meaning": "đều đặn"
+    },
+    {
+        "word": "steady",
+        "ipa": "ˈstɛdi",
+        "meaning": "vững chắc"
+    },
+    {
+        "word": "straightforward",
+        "ipa": "streɪtˈfɔːwəd",
+        "meaning": "đơn giản"
+    },
+    {
+        "word": "mad",
+        "ipa": "mæd",
+        "meaning": "điên"
+    },
+    {
+        "word": "downstairs",
+        "ipa": "ˌdaʊnˈsteəz",
+        "meaning": "tầng dưới"
+    },
+    {
+        "word": "unaware",
+        "ipa": "ˌʌnəˈweə",
+        "meaning": "không biết"
+    },
+    {
+        "word": "new",
+        "ipa": "njuː",
+        "meaning": "Mới"
+    },
+    {
+        "word": "educational",
+        "ipa": "ˌɛdju(ː)ˈkeɪʃənl",
+        "meaning": "giáo dục"
+    },
+    {
+        "word": "hand-held",
+        "ipa": "hænd-hɛld",
+        "meaning": "cầm tay"
+    },
+    {
+        "word": "unknown",
+        "ipa": "ʌnˈnəʊn",
+        "meaning": "không xác định"
+    },
+    {
+        "word": "bald",
+        "ipa": "bɔːld",
+        "meaning": "hói"
+    },
+    {
+        "word": "far",
+        "ipa": "fɑː",
+        "meaning": "xa"
+    },
+    {
+        "word": "optimistic",
+        "ipa": "ˌɒptɪˈmɪstɪk",
+        "meaning": "lạc quan"
+    },
+    {
+        "word": "known",
+        "ipa": "nəʊn",
+        "meaning": "được biết đến"
+    },
+    {
+        "word": "surprising",
+        "ipa": "səˈpraɪzɪŋ",
+        "meaning": "thật ngạc nhiên"
+    },
+    {
+        "word": "packed",
+        "ipa": "pækt",
+        "meaning": "đóng gói"
+    },
+    {
+        "word": "enormous",
+        "ipa": "ɪˈnɔːməs",
+        "meaning": "to lớn"
+    },
+    {
+        "word": "relevant",
+        "ipa": "ˈrɛlɪvənt",
+        "meaning": "liên quan, thích hợp"
+    },
+    {
+        "word": "distinguished",
+        "ipa": "dɪsˈtɪŋgwɪʃt",
+        "meaning": "phân biệt"
+    },
+    {
+        "word": "innocent",
+        "ipa": "ˈɪnəsənt",
+        "meaning": "vô tội"
+    },
+    {
+        "word": "sandy",
+        "ipa": "ˈsændi",
+        "meaning": "cát"
+    },
+    {
+        "word": "straight",
+        "ipa": "streɪt",
+        "meaning": "thẳng"
+    },
+    {
+        "word": "extreme",
+        "ipa": "ɪksˈtriːm",
+        "meaning": "cực"
+    },
+    {
+        "word": "nasty",
+        "ipa": "ˈnɑːsti",
+        "meaning": "bẩn thỉu"
+    },
+    {
+        "word": "tremendous",
+        "ipa": "trɪˈmɛndəs",
+        "meaning": "to lớn"
+    },
+    {
+        "word": "awkward",
+        "ipa": "ˈɔːkwəd",
+        "meaning": "vụng về"
+    },
+    {
+        "word": "valuable",
+        "ipa": "ˈvæljʊəbl",
+        "meaning": "quý giá"
+    },
+    {
+        "word": "fair",
+        "ipa": "feə",
+        "meaning": "hội chợ"
+    },
+    {
+        "word": "traditional",
+        "ipa": "trəˈdɪʃənl",
+        "meaning": "truyên thông"
+    },
+    {
+        "word": "junior",
+        "ipa": "ˈʤuːnjə",
+        "meaning": "trẻ em"
+    },
+    {
+        "word": "overseas",
+        "ipa": "ˌəʊvəˈsiːz",
+        "meaning": "Hải ngoại"
+    },
+    {
+        "word": "bad",
+        "ipa": "bæd",
+        "meaning": "xấu"
+    },
+    {
+        "word": "familiar",
+        "ipa": "fəˈmɪliə",
+        "meaning": "Quen biết"
+    },
+    {
+        "word": "enthusiastic",
+        "ipa": "ɪnˌθjuːzɪˈæstɪk",
+        "meaning": "nhiệt tâm"
+    },
+    {
+        "word": "shocking",
+        "ipa": "ˈʃɒkɪŋ",
+        "meaning": "gây sốc"
+    },
+    {
+        "word": "overweight",
+        "ipa": "ˈəʊvəweɪt",
+        "meaning": "thừa cân"
+    },
+    {
+        "word": "suspicious",
+        "ipa": "səsˈpɪʃəs",
+        "meaning": "đáng ngờ"
+    },
+    {
+        "word": "disappointed",
+        "ipa": "ˌdɪsəˈpɔɪntɪd",
+        "meaning": "thất vọng"
+    },
+    {
+        "word": "confident",
+        "ipa": "ˈkɒnfɪdənt",
+        "meaning": "tự tin"
+    },
+    {
+        "word": "rainy",
+        "ipa": "ˈreɪni",
+        "meaning": "nhiều mưa"
+    },
+    {
+        "word": "slight",
+        "ipa": "slaɪt",
+        "meaning": "mảnh dẻ"
+    },
+    {
+        "word": "extraordinary",
+        "ipa": "ɪksˈtrɔːdnri",
+        "meaning": "phi thường"
+    },
+    {
+        "word": "narrow",
+        "ipa": "ˈnærəʊ",
+        "meaning": "hẹp"
+    },
+    {
+        "word": "apparent",
+        "ipa": "əˈpærənt",
+        "meaning": "rõ ràng"
+    },
+    {
+        "word": "understandable",
+        "ipa": "ˌʌndəˈstændəbl",
+        "meaning": "có thể hiểu được"
+    },
+    {
+        "word": "supernatural",
+        "ipa": "ˌsjuːpəˈnæʧrəl",
+        "meaning": "siêu nhiên"
+    },
+    {
+        "word": "joint",
+        "ipa": "ʤɔɪnt",
+        "meaning": "chung"
+    },
+    {
+        "word": "overnight",
+        "ipa": "ˌəʊvəˈnaɪt",
+        "meaning": "qua đêm"
+    },
+    {
+        "word": "posh",
+        "ipa": "pɒʃ",
+        "meaning": "sang trọng"
+    },
+    {
+        "word": "starving",
+        "ipa": "ˈstɑːvɪŋ",
+        "meaning": "chết đói"
+    },
+    {
+        "word": "spectacular",
+        "ipa": "spɛkˈtækjʊlə",
+        "meaning": "đẹp mắt"
+    },
+    {
+        "word": "still",
+        "ipa": "stɪl",
+        "meaning": "vẫn"
+    },
+    {
+        "word": "worthwhile",
+        "ipa": "ˈwɜːθˈwaɪl",
+        "meaning": "đáng giá"
+    },
+    {
+        "word": "fed up",
+        "ipa": "fɛd ʌp",
+        "meaning": "chán"
+    },
+    {
+        "word": "weak",
+        "ipa": "wiːk",
+        "meaning": "Yếu"
+    },
+    {
+        "word": "unsatisfactory",
+        "ipa": "ˌʌnˌsætɪsˈfæktəri",
+        "meaning": "không đạt yêu cầu"
+    },
+    {
+        "word": "naughty",
+        "ipa": "ˈnɔːti",
+        "meaning": "nghịch ngợm"
+    },
+    {
+        "word": "trivial",
+        "ipa": "ˈtrɪvɪəl",
+        "meaning": "không đáng kể"
+    },
+    {
+        "word": "sports",
+        "ipa": "spɔːts",
+        "meaning": "các môn thể thao"
+    },
+    {
+        "word": "lonely",
+        "ipa": "ˈləʊnli",
+        "meaning": "cô đơn"
+    },
+    {
+        "word": "devoted",
+        "ipa": "dɪˈvəʊtɪd",
+        "meaning": "hết lòng"
+    },
+    {
+        "word": "different",
+        "ipa": "ˈdɪfrənt",
+        "meaning": "khác nhau"
+    },
+    {
+        "word": "western",
+        "ipa": "ˈwɛstən",
+        "meaning": "miền Tây"
+    },
+    {
+        "word": "misty",
+        "ipa": "ˈmɪsti",
+        "meaning": "sương mù"
+    },
+    {
+        "word": "short",
+        "ipa": "ʃɔːt",
+        "meaning": "ngắn"
+    },
+    {
+        "word": "exact",
+        "ipa": "ɪgˈzækt",
+        "meaning": "chính xác"
+    },
+    {
+        "word": "modest",
+        "ipa": "ˈmɒdɪst",
+        "meaning": "khiêm tốn"
+    },
+    {
+        "word": "transparent",
+        "ipa": "trænsˈpeərənt",
+        "meaning": "trong suốt"
+    },
+    {
+        "word": "alright",
+        "ipa": "ɔːlˈraɪt",
+        "meaning": "ổn thỏa"
+    },
+    {
+        "word": "suitable",
+        "ipa": "ˈsjuːtəbl",
+        "meaning": "thích hợp"
+    },
+    {
+        "word": "face-to-face",
+        "ipa": "feɪs-tuː-feɪs",
+        "meaning": "mặt đối mặt"
+    },
+    {
+        "word": "social",
+        "ipa": "ˈsəʊʃəl",
+        "meaning": "xã hội"
+    },
+    {
+        "word": "intransitive",
+        "ipa": "ɪnˈtrænsɪtɪv",
+        "meaning": "nội động từ"
+    },
+    {
+        "word": "efficient",
+        "ipa": "ɪˈfɪʃənt",
+        "meaning": "Có hiệu quả"
+    },
+    {
+        "word": "out-of-date",
+        "ipa": "ˈaʊtəvˈdeɪt",
+        "meaning": "hết hạn"
+    },
+    {
+        "word": "evident",
+        "ipa": "ˈɛvɪdənt",
+        "meaning": "hiển nhiên"
+    },
+    {
+        "word": "sparkling",
+        "ipa": "ˈspɑːklɪŋ",
+        "meaning": "lung linh"
+    },
+    {
+        "word": "recent",
+        "ipa": "ˈriːsnt",
+        "meaning": "gần đây"
+    },
+    {
+        "word": "ridiculous",
+        "ipa": "rɪˈdɪkjʊləs",
+        "meaning": "nực cười"
+    },
+    {
+        "word": "special",
+        "ipa": "ˈspɛʃəl",
+        "meaning": "đặc biệt"
+    },
+    {
+        "word": "steep",
+        "ipa": "stiːp",
+        "meaning": "dốc"
+    },
+    {
+        "word": "wild",
+        "ipa": "waɪld",
+        "meaning": "hoang dã"
+    },
+    {
+        "word": "full",
+        "ipa": "fʊl",
+        "meaning": "đầy"
+    },
+    {
+        "word": "vegetarian",
+        "ipa": "ˌvɛʤɪˈteərɪən",
+        "meaning": "ăn chay"
+    },
+    {
+        "word": "brave",
+        "ipa": "breɪv",
+        "meaning": "can đảm"
+    },
+    {
+        "word": "unpleasant",
+        "ipa": "ʌnˈplɛznt",
+        "meaning": "khó chịu"
+    },
+    {
+        "word": "substantial",
+        "ipa": "səbˈstænʃəl",
+        "meaning": "đáng kể"
+    },
+    {
+        "word": "shut",
+        "ipa": "ʃʌt",
+        "meaning": "đóng cửa"
+    },
+    {
+        "word": "unfriendly",
+        "ipa": "ʌnˈfrɛndli",
+        "meaning": "không thân thiện"
+    },
+    {
+        "word": "energetic",
+        "ipa": "ˌɛnəˈʤɛtɪk",
+        "meaning": "năng lượng"
+    },
+    {
+        "word": "relaxing",
+        "ipa": "rɪˈlæksɪŋ",
+        "meaning": "thư giãn"
+    },
+    {
+        "word": "determined",
+        "ipa": "dɪˈtɜːmɪnd",
+        "meaning": "xác định"
+    },
+    {
+        "word": "pure",
+        "ipa": "pjʊə",
+        "meaning": "nguyên chất"
+    },
+    {
+        "word": "equal",
+        "ipa": "ˈiːkwəl",
+        "meaning": "công bằng"
+    },
+    {
+        "word": "minimum",
+        "ipa": "ˈmɪnɪməm",
+        "meaning": "tối thiểu"
+    },
+    {
+        "word": "tiny",
+        "ipa": "ˈtaɪni",
+        "meaning": "nhỏ bé"
+    },
+    {
+        "word": "all right",
+        "ipa": "ɔːl raɪt",
+        "meaning": "được rồi"
+    },
+    {
+        "word": "sociable",
+        "ipa": "ˈsəʊʃəbl",
+        "meaning": "Hòa đồng"
+    },
+    {
+        "word": "instant",
+        "ipa": "ˈɪnstənt",
+        "meaning": "tức thì"
+    },
+    {
+        "word": "dependent",
+        "ipa": "dɪˈpɛndənt",
+        "meaning": "phụ thuộc"
+    },
+    {
+        "word": "ordinary",
+        "ipa": "ˈɔːdnri",
+        "meaning": "bình thường"
+    },
+    {
+        "word": "irregular",
+        "ipa": "ɪˈrɛgjʊlə",
+        "meaning": "không thường xuyên"
+    },
+    {
+        "word": "soaking",
+        "ipa": "ˈsəʊkɪŋ",
+        "meaning": "ngâm"
+    },
+    {
+        "word": "rear",
+        "ipa": "rɪə",
+        "meaning": "phần phía sau"
+    },
+    {
+        "word": "religious",
+        "ipa": "rɪˈlɪʤəs",
+        "meaning": "Tôn giáo"
+    },
+    {
+        "word": "spare",
+        "ipa": "speə",
+        "meaning": "bổ sung"
+    },
+    {
+        "word": "wet",
+        "ipa": "wɛt",
+        "meaning": "ướt"
+    },
+    {
+        "word": "frozen",
+        "ipa": "ˈfrəʊzn",
+        "meaning": "Đông cứng"
+    },
+    {
+        "word": "tough",
+        "ipa": "tʌf",
+        "meaning": "khó khăn"
+    },
+    {
+        "word": "bold",
+        "ipa": "bəʊld",
+        "meaning": "Dũng cảm"
+    },
+    {
+        "word": "unimportant",
+        "ipa": "ˌʌnɪmˈpɒtənt",
+        "meaning": "không quan trọng"
+    },
+    {
+        "word": "exceptional",
+        "ipa": "ɪkˈsɛpʃənl",
+        "meaning": "đặc biệt"
+    },
+    {
+        "word": "dynamic",
+        "ipa": "daɪˈnæmɪk",
+        "meaning": "năng động"
+    },
+    {
+        "word": "moving",
+        "ipa": "ˈmuːvɪŋ",
+        "meaning": "di chuyển"
+    },
+    {
+        "word": "lively",
+        "ipa": "ˈlaɪvli",
+        "meaning": "sống động"
+    },
+    {
+        "word": "tight",
+        "ipa": "taɪt",
+        "meaning": "chặt chẽ"
+    },
+    {
+        "word": "alike",
+        "ipa": "əˈlaɪk",
+        "meaning": "như nhau"
+    },
+    {
+        "word": "reasonable",
+        "ipa": "ˈriːznəbl",
+        "meaning": "hợp lý"
+    },
+    {
+        "word": "expected",
+        "ipa": "ɪksˈpɛktɪd",
+        "meaning": "hy vọng"
+    },
+    {
+        "word": "seasonal",
+        "ipa": "ˈsiːzənl",
+        "meaning": "theo mùa"
+    },
+    {
+        "word": "initial",
+        "ipa": "ɪˈnɪʃəl",
+        "meaning": "ban đầu"
+    },
+    {
+        "word": "convenient",
+        "ipa": "kənˈviːniənt",
+        "meaning": "tiện lợi"
+    },
+    {
+        "word": "remaining",
+        "ipa": "rɪˈmeɪnɪŋ",
+        "meaning": "còn lại"
+    },
+    {
+        "word": "real",
+        "ipa": "rɪəl",
+        "meaning": "thực tế"
+    },
+    {
+        "word": "southwest",
+        "ipa": "ˌsaʊθˈwɛst",
+        "meaning": "tây nam"
+    },
+    {
+        "word": "scary",
+        "ipa": "ˈskeəri",
+        "meaning": "đáng sợ"
+    },
+    {
+        "word": "unfit",
+        "ipa": "ʌnˈfɪt",
+        "meaning": "không phù hợp"
+    },
+    {
+        "word": "miserable",
+        "ipa": "ˈmɪzərəbl",
+        "meaning": "khổ sở"
+    },
+    {
+        "word": "beneficial",
+        "ipa": "ˌbɛnɪˈfɪʃəl",
+        "meaning": "có lợi"
+    },
+    {
+        "word": "gay",
+        "ipa": "geɪ",
+        "meaning": "đồng tính"
+    },
+    {
+        "word": "unfamiliar",
+        "ipa": "ˌʌnfəˈmɪliə",
+        "meaning": "không quen"
+    },
+    {
+        "word": "organic",
+        "ipa": "ɔːˈgænɪk",
+        "meaning": "hữu cơ"
+    },
+    {
+        "word": "irritating",
+        "ipa": "ˈɪrɪteɪtɪŋ",
+        "meaning": "khó chịu"
+    },
+    {
+        "word": "cowardly",
+        "ipa": "ˈkaʊədli",
+        "meaning": "hèn nhát"
+    },
+    {
+        "word": "profitable",
+        "ipa": "ˈprɒfɪtəbl",
+        "meaning": "có lãi"
+    },
+    {
+        "word": "principal",
+        "ipa": "ˈprɪnsəpəl",
+        "meaning": "hiệu trưởng"
+    },
+    {
+        "word": "missing",
+        "ipa": "ˈmɪsɪŋ",
+        "meaning": "còn thiếu"
+    },
+    {
+        "word": "delighted",
+        "ipa": "dɪˈlaɪtɪd",
+        "meaning": "rất vui"
+    },
+    {
+        "word": "well-paid",
+        "ipa": "wɛl-peɪd",
+        "meaning": "được trả lương cao"
+    },
+    {
+        "word": "entire",
+        "ipa": "ɪnˈtaɪə",
+        "meaning": "toàn bộ"
+    },
+    {
+        "word": "middle",
+        "ipa": "ˈmɪdl",
+        "meaning": "ở giữa"
+    },
+    {
+        "word": "neighbouring",
+        "ipa": "ˈneɪbərɪŋ",
+        "meaning": "láng giềng"
+    },
+    {
+        "word": "previous",
+        "ipa": "ˈpriːviəs",
+        "meaning": "Trước"
+    },
+    {
+        "word": "southern",
+        "ipa": "ˈsʌðən",
+        "meaning": "phía Nam"
+    },
+    {
+        "word": "boiling",
+        "ipa": "ˈbɔɪlɪŋ",
+        "meaning": "sôi"
+    },
+    {
+        "word": "sour",
+        "ipa": "ˈsaʊə",
+        "meaning": "chua"
+    },
+    {
+        "word": "artificial",
+        "ipa": "ˌɑːtɪˈfɪʃ(ə)l",
+        "meaning": "nhân tạo"
+    },
+    {
+        "word": "fellow",
+        "ipa": "ˈfɛləʊ",
+        "meaning": "đồng bào"
+    },
+    {
+        "word": "unfair",
+        "ipa": "ʌnˈfeə",
+        "meaning": "không công bằng"
+    },
+    {
+        "word": "economic",
+        "ipa": "ˌiːkəˈnɒmɪk",
+        "meaning": "thuộc kinh tế"
+    },
+    {
+        "word": "frightening",
+        "ipa": "ˈfraɪtnɪŋ",
+        "meaning": "khủng khiếp"
+    },
+    {
+        "word": "hopeless",
+        "ipa": "ˈhəʊplɪs",
+        "meaning": "vô vọng"
+    },
+    {
+        "word": "probable",
+        "ipa": "ˈprɒbəbl",
+        "meaning": "có thể xảy ra"
+    },
+    {
+        "word": "practical",
+        "ipa": "ˈpræktɪkəl",
+        "meaning": "thực dụng"
+    },
+    {
+        "word": "well-organized",
+        "ipa": "wɛl-ˈɔːgənaɪzd",
+        "meaning": "tổ chức tốt"
+    },
+    {
+        "word": "living",
+        "ipa": "ˈlɪvɪŋ",
+        "meaning": "cuộc sống"
+    },
+    {
+        "word": "obvious",
+        "ipa": "ˈɒbvɪəs",
+        "meaning": "hiển nhiên"
+    },
+    {
+        "word": "convinced",
+        "ipa": "kənˈvɪnst",
+        "meaning": "thuyết phục"
+    },
+    {
+        "word": "fluent",
+        "ipa": "ˈflu(ː)ənt",
+        "meaning": "thông thạo"
+    },
+    {
+        "word": "welcome",
+        "ipa": "ˈwɛlkəm",
+        "meaning": "chào mừng"
+    },
+    {
+        "word": "wealthy",
+        "ipa": "ˈwɛlθi",
+        "meaning": "giàu có"
+    },
+    {
+        "word": "great",
+        "ipa": "greɪt",
+        "meaning": "tuyệt quá"
+    },
+    {
+        "word": "distant",
+        "ipa": "ˈdɪstənt",
+        "meaning": "xa xôi"
+    },
+    {
+        "word": "mere",
+        "ipa": "mɪə",
+        "meaning": "chỉ là"
+    },
+    {
+        "word": "thick",
+        "ipa": "θɪk",
+        "meaning": "dày"
+    },
+    {
+        "word": "actual",
+        "ipa": "ˈækʧʊəl",
+        "meaning": "thực tế"
+    },
+    {
+        "word": "professional",
+        "ipa": "prəˈfɛʃənl",
+        "meaning": "chuyên nghiệp"
+    },
+    {
+        "word": "individual",
+        "ipa": "ˌɪndɪˈvɪdjʊəl",
+        "meaning": "cá nhân"
+    },
+    {
+        "word": "open",
+        "ipa": "ˈəʊpən",
+        "meaning": "mở"
+    },
+    {
+        "word": "bothered",
+        "ipa": "ˈbɒðəd",
+        "meaning": "làm phiền"
+    },
+    {
+        "word": "scheduled",
+        "ipa": "ˈʃɛdjuːld",
+        "meaning": "lên kế hoạch"
+    },
+    {
+        "word": "academic",
+        "ipa": "ˌækəˈdɛmɪk",
+        "meaning": "thuộc về lý thuyết"
+    },
+    {
+        "word": "salty",
+        "ipa": "ˈsɔːlti",
+        "meaning": "mặn"
+    },
+    {
+        "word": "absolute",
+        "ipa": "ˈæbsəluːt",
+        "meaning": "tuyệt đối"
+    },
+    {
+        "word": "delicate",
+        "ipa": "ˈdɛlɪkɪt",
+        "meaning": "mong manh"
+    },
+    {
+        "word": "maximum",
+        "ipa": "ˈmæksɪməm",
+        "meaning": "tối đa"
+    },
+    {
+        "word": "fascinating",
+        "ipa": "ˈfæsɪneɪtɪŋ",
+        "meaning": "hấp dẫn"
+    },
+    {
+        "word": "superb",
+        "ipa": "sju(ː)ˈpɜːb",
+        "meaning": "tuyệt vời"
+    },
+    {
+        "word": "preferable",
+        "ipa": "ˈprɛfərəbl",
+        "meaning": "thích hợp hơn"
+    },
+    {
+        "word": "potential",
+        "ipa": "pəʊˈtɛnʃəl",
+        "meaning": "tiềm năng"
+    },
+    {
+        "word": "varied",
+        "ipa": "ˈveərɪd",
+        "meaning": "đa dạng"
+    },
+    {
+        "word": "leading",
+        "ipa": "ˈliːdɪŋ",
+        "meaning": "hàng đầu"
+    },
+    {
+        "word": "mysterious",
+        "ipa": "mɪsˈtɪərɪəs",
+        "meaning": "bí ẩn"
+    },
+    {
+        "word": "confused",
+        "ipa": "kənˈfjuːzd",
+        "meaning": "bối rối"
+    },
+    {
+        "word": "weird",
+        "ipa": "wɪəd",
+        "meaning": "kỳ dị"
+    },
+    {
+        "word": "raw",
+        "ipa": "rɔː",
+        "meaning": "nguyên"
+    },
+    {
+        "word": "tasty",
+        "ipa": "ˈteɪsti",
+        "meaning": "ngon"
+    },
+    {
+        "word": "aware",
+        "ipa": "əˈweə",
+        "meaning": "nhận thức"
+    },
+    {
+        "word": "impatient",
+        "ipa": "ɪmˈpeɪʃənt",
+        "meaning": "nóng nảy"
+    },
+    {
+        "word": "complete",
+        "ipa": "kəmˈpliːt",
+        "meaning": "hoàn thành"
+    },
+    {
+        "word": "mature",
+        "ipa": "məˈtjʊə",
+        "meaning": "trưởng thành"
+    },
+    {
+        "word": "oral",
+        "ipa": "ˈɔːrəl",
+        "meaning": "uống"
+    },
+    {
+        "word": "dense",
+        "ipa": "dɛns",
+        "meaning": "ngu độn"
+    },
+    {
+        "word": "addicted",
+        "ipa": "əˈdɪktɪd",
+        "meaning": "nghiện"
+    },
+    {
+        "word": "medium",
+        "ipa": "ˈmiːdiəm",
+        "meaning": "Trung bình"
+    },
+    {
+        "word": "abstract",
+        "ipa": "ˈæbstrækt",
+        "meaning": "trừu tượng"
+    },
+    {
+        "word": "eastern",
+        "ipa": "ˈiːstən",
+        "meaning": "phương Đông"
+    },
+    {
+        "word": "incorrect",
+        "ipa": "ˌɪnkəˈrɛkt",
+        "meaning": "sai"
+    },
+    {
+        "word": "encouraging",
+        "ipa": "ɪnˈkʌrɪʤɪŋ",
+        "meaning": "khích lệ"
+    },
+    {
+        "word": "useless",
+        "ipa": "ˈjuːslɪs",
+        "meaning": "vô ích"
+    },
+    {
+        "word": "southeast",
+        "ipa": "ˌsaʊθˈiːst",
+        "meaning": "Đông Nam"
+    },
+    {
+        "word": "rotten",
+        "ipa": "ˈrɒtn",
+        "meaning": "thối"
+    },
+    {
+        "word": "mean",
+        "ipa": "miːn",
+        "meaning": "nghĩa là"
+    },
+    {
+        "word": "additional",
+        "ipa": "əˈdɪʃənl",
+        "meaning": "bổ sung"
+    },
+    {
+        "word": "close",
+        "ipa": "kləʊs",
+        "meaning": "đóng"
+    },
+    {
+        "word": "sufficient",
+        "ipa": "səˈfɪʃənt",
+        "meaning": "đủ"
+    },
+    {
+        "word": "careless",
+        "ipa": "ˈkeəlɪs",
+        "meaning": "cẩu thả"
+    },
+    {
+        "word": "predictable",
+        "ipa": "prɪˈdɪktəbl",
+        "meaning": "dự đoán"
+    },
+    {
+        "word": "personal",
+        "ipa": "ˈpɜːsnl",
+        "meaning": "cá nhân"
+    },
+    {
+        "word": "so-called",
+        "ipa": "ˈsəʊˈkɔːld",
+        "meaning": "cái gọi là"
+    },
+    {
+        "word": "forthcoming",
+        "ipa": "fɔːθˈkʌmɪŋ",
+        "meaning": "sắp tới"
+    },
+    {
+        "word": "delicious",
+        "ipa": "dɪˈlɪʃəs",
+        "meaning": "thơm ngon"
+    },
+    {
+        "word": "concerned",
+        "ipa": "kənˈsɜːnd",
+        "meaning": "lo âu"
+    },
+    {
+        "word": "retired",
+        "ipa": "rɪˈtaɪəd",
+        "meaning": "đã nghỉ hưu"
+    },
+    {
+        "word": "off",
+        "ipa": "ɒf",
+        "meaning": "tắt"
+    },
+    {
+        "word": "spicy",
+        "ipa": "ˈspaɪsi",
+        "meaning": "vị cay"
+    },
+    {
+        "word": "afraid",
+        "ipa": "əˈfreɪd",
+        "meaning": "sợ"
+    },
+    {
+        "word": "dishonest",
+        "ipa": "dɪsˈɒnɪst",
+        "meaning": "Không trung thực"
+    },
+    {
+        "word": "brief",
+        "ipa": "briːf",
+        "meaning": "tóm tắt"
+    },
+    {
+        "word": "loyal",
+        "ipa": "ˈlɔɪəl",
+        "meaning": "trung thành"
+    },
+    {
+        "word": "public",
+        "ipa": "ˈpʌblɪk",
+        "meaning": "công cộng"
+    },
+    {
+        "word": "animated",
+        "ipa": "ˈænɪmeɪtɪd",
+        "meaning": "hoạt hình"
+    },
+    {
+        "word": "medieval",
+        "ipa": "ˌmɛdɪˈiːvəl",
+        "meaning": "thời trung cổ"
+    },
+    {
+        "word": "terrific",
+        "ipa": "təˈrɪfɪk",
+        "meaning": "khủng khiếp"
+    },
+    {
+        "word": "absent",
+        "ipa": "ˈæbsənt",
+        "meaning": "vắng mặt"
+    },
+    {
+        "word": "immediate",
+        "ipa": "ɪˈmiːdiət",
+        "meaning": "ngay tức khắc"
+    },
+    {
+        "word": "embarrassing",
+        "ipa": "ɪmˈbærəsɪŋ",
+        "meaning": "lúng túng"
+    },
+    {
+        "word": "odd",
+        "ipa": "ɒd",
+        "meaning": "lẻ"
+    },
+    {
+        "word": "harmless",
+        "ipa": "ˈhɑːmlɪs",
+        "meaning": "vô hại"
+    },
+    {
+        "word": "solo",
+        "ipa": "ˈsəʊləʊ",
+        "meaning": "đấu"
+    },
+    {
+        "word": "incredible",
+        "ipa": "ɪnˈkrɛdəbl",
+        "meaning": "đáng kinh ngạc"
+    },
+    {
+        "word": "criminal",
+        "ipa": "ˈkrɪmɪnl",
+        "meaning": "hình sự"
+    },
+    {
+        "word": "state",
+        "ipa": "steɪt",
+        "meaning": "tiểu bang"
+    },
+    {
+        "word": "unclear",
+        "ipa": "ʌnˈklɪə",
+        "meaning": "không rõ"
+    },
+    {
+        "word": "bad-tempered",
+        "ipa": "ˈbædˈtɛmpəd",
+        "meaning": "nóng tính"
+    },
+    {
+        "word": "sophisticated",
+        "ipa": "səˈfɪstɪkeɪtɪd",
+        "meaning": "tinh vi"
+    },
+    {
+        "word": "basic",
+        "ipa": "ˈbeɪsɪk",
+        "meaning": "căn bản"
+    },
+    {
+        "word": "sexy",
+        "ipa": "ˈsɛksi",
+        "meaning": "gợi cảm"
+    },
+    {
+        "word": "deep",
+        "ipa": "diːp",
+        "meaning": "sâu"
+    },
+    {
+        "word": "scientific",
+        "ipa": "ˌsaɪənˈtɪfɪk",
+        "meaning": "thuộc về khoa học"
+    },
+    {
+        "word": "main",
+        "ipa": "meɪn",
+        "meaning": "chủ yếu"
+    },
+    {
+        "word": "exhausting",
+        "ipa": "ɪgˈzɔːstɪŋ",
+        "meaning": "kiệt sức"
+    },
+    {
+        "word": "quiet",
+        "ipa": "ˈkwaɪət",
+        "meaning": "Yên tĩnh"
+    },
+    {
+        "word": "continuous",
+        "ipa": "kənˈtɪnjʊəs",
+        "meaning": "tiếp diễn"
+    },
+    {
+        "word": "slow",
+        "ipa": "sləʊ",
+        "meaning": "chậm"
+    },
+    {
+        "word": "mild",
+        "ipa": "maɪld",
+        "meaning": "nhẹ"
+    },
+    {
+        "word": "white",
+        "ipa": "waɪt",
+        "meaning": "trắng"
+    },
+    {
+        "word": "unhealthy",
+        "ipa": "ʌnˈhɛlθi",
+        "meaning": "không khỏe mạnh"
+    },
+    {
+        "word": "keen",
+        "ipa": "kiːn",
+        "meaning": "sắc sảo"
+    },
+    {
+        "word": "alphabetical",
+        "ipa": "ˌælfəˈbɛtɪkəl",
+        "meaning": "bảng chữ cái"
+    },
+    {
+        "word": "witty",
+        "ipa": "ˈwɪti",
+        "meaning": "dí dỏm"
+    },
+    {
+        "word": "redundant",
+        "ipa": "rɪˈdʌndənt",
+        "meaning": "dư thừa"
+    },
+    {
+        "word": "intermediate",
+        "ipa": "ˌɪntəˈmiːdiət",
+        "meaning": "Trung gian"
+    },
+    {
+        "word": "sexual",
+        "ipa": "ˈsɛksjʊəl",
+        "meaning": "tình dục"
+    },
+    {
+        "word": "early",
+        "ipa": "ˈɜːli",
+        "meaning": "sớm"
+    },
+    {
+        "word": "easygoing",
+        "ipa": "ˈiːzɪˌgəʊɪŋ",
+        "meaning": "dễ dãi"
+    },
+    {
+        "word": "nuclear",
+        "ipa": "ˈnjuːklɪə",
+        "meaning": "Nguyên tử"
+    },
+    {
+        "word": "competitive",
+        "ipa": "kəmˈpɛtɪtɪv",
+        "meaning": "cạnh tranh"
+    },
+    {
+        "word": "rare",
+        "ipa": "reə",
+        "meaning": "hiếm hoi"
+    },
+    {
+        "word": "soft",
+        "ipa": "sɒft",
+        "meaning": "mềm mại"
+    },
+    {
+        "word": "unwell",
+        "ipa": "ʌnˈwɛl",
+        "meaning": "không khỏe"
+    },
+    {
+        "word": "astonished",
+        "ipa": "əsˈtɒnɪʃt",
+        "meaning": "ngạc nhiên"
+    },
+    {
+        "word": "united",
+        "ipa": "jʊˈnaɪtɪd",
+        "meaning": "đoàn kết"
+    },
+    {
+        "word": "faulty",
+        "ipa": "ˈfɔːlti",
+        "meaning": "bị lỗi"
+    },
+    {
+        "word": "magnificent",
+        "ipa": "mægˈnɪfɪsnt",
+        "meaning": "tráng lệ"
+    },
+    {
+        "word": "memorable",
+        "ipa": "ˈmɛmərəbl",
+        "meaning": "đáng nhớ"
+    },
+    {
+        "word": "dull",
+        "ipa": "dʌl",
+        "meaning": "đần độn"
+    },
+    {
+        "word": "hidden",
+        "ipa": "ˈhɪdn",
+        "meaning": "ẩn"
+    },
+    {
+        "word": "soaked",
+        "ipa": "səʊkt",
+        "meaning": "ướt sũng"
+    },
+    {
+        "word": "northwest",
+        "ipa": "ˌnɔːθˈwɛst",
+        "meaning": "Tây Bắc"
+    },
+    {
+        "word": "existing",
+        "ipa": "ɪgˈzɪstɪŋ",
+        "meaning": "hiện có"
+    },
+    {
+        "word": "unlucky",
+        "ipa": "ʌnˈlʌki",
+        "meaning": "xui xẻo"
+    },
+    {
+        "word": "tricky",
+        "ipa": "ˈtrɪki",
+        "meaning": "khó khăn"
+    },
+    {
+        "word": "duty-free",
+        "ipa": "ˈdjuːtɪˈfriː",
+        "meaning": "miễn thuế"
+    },
+    {
+        "word": "distressing",
+        "ipa": "dɪsˈtrɛsɪŋ",
+        "meaning": "đau khổ"
+    },
+    {
+        "word": "rapid",
+        "ipa": "ˈræpɪd",
+        "meaning": "nhanh"
+    },
+    {
+        "word": "smart",
+        "ipa": "smɑːt",
+        "meaning": "thông minh"
+    },
+    {
+        "word": "impolite",
+        "ipa": "ˌɪmpəˈlaɪt",
+        "meaning": "vô lễ"
+    },
+    {
+        "word": "ashamed",
+        "ipa": "əˈʃeɪmd",
+        "meaning": "hổ thẹn"
+    },
+    {
+        "word": "curly",
+        "ipa": "ˈkɜːli",
+        "meaning": "quăn"
+    },
+    {
+        "word": "decent",
+        "ipa": "ˈdiːsnt",
+        "meaning": "đàng hoàng"
+    },
+    {
+        "word": "low",
+        "ipa": "ləʊ",
+        "meaning": "Thấp"
+    },
+    {
+        "word": "fashionable",
+        "ipa": "ˈfæʃnəbl",
+        "meaning": "hợp thời trang"
+    },
+    {
+        "word": "due",
+        "ipa": "djuː",
+        "meaning": "do"
+    },
+    {
+        "word": "hard-working",
+        "ipa": "ˈhɑːdˌwɜːkɪŋ",
+        "meaning": "làm việc chăm chỉ"
+    },
+    {
+        "word": "skilled",
+        "ipa": "skɪld",
+        "meaning": "lành nghề"
+    },
+    {
+        "word": "northern",
+        "ipa": "ˈnɔːðən",
+        "meaning": "Phương bắc"
+    },
+    {
+        "word": "entertaining",
+        "ipa": "ˌɛntəˈteɪnɪŋ",
+        "meaning": "giải trí"
+    },
+    {
+        "word": "simple",
+        "ipa": "ˈsɪmpl",
+        "meaning": "đơn giản"
+    },
+    {
+        "word": "waterproof",
+        "ipa": "ˈwɔːtəpruːf",
+        "meaning": "không thấm nước"
+    },
+    {
+        "word": "hot",
+        "ipa": "hɒt",
+        "meaning": "nóng bức"
+    },
+    {
+        "word": "well-built",
+        "ipa": "wɛl-bɪlt",
+        "meaning": "được xây dựng tốt"
+    },
+    {
+        "word": "unconscious",
+        "ipa": "ʌnˈkɒnʃəs",
+        "meaning": "bất tỉnh"
+    },
+    {
+        "word": "psychological",
+        "ipa": "ˌsaɪkəˈlɒʤɪkəl",
+        "meaning": "tâm lý"
+    },
+    {
+        "word": "wise",
+        "ipa": "waɪz",
+        "meaning": "khôn ngoan"
+    },
+    {
+        "word": "arrogant",
+        "ipa": "ˈærəʊgənt",
+        "meaning": "kiêu ngạo"
+    },
+    {
+        "word": "sensitive",
+        "ipa": "ˈsɛnsɪtɪv",
+        "meaning": "nhạy cảm"
+    },
+    {
+        "word": "annoyed",
+        "ipa": "əˈnɔɪd",
+        "meaning": "bực mình"
+    },
+    {
+        "word": "related",
+        "ipa": "rɪˈleɪtɪd",
+        "meaning": "liên quan"
+    },
+    {
+        "word": "vital",
+        "ipa": "ˈvaɪtl",
+        "meaning": "quan trọng"
+    },
+    {
+        "word": "toxic",
+        "ipa": "ˈtɒksɪk",
+        "meaning": "chất độc"
+    },
+    {
+        "word": "swollen",
+        "ipa": "ˈswəʊlən",
+        "meaning": "sưng lên"
+    },
+    {
+        "word": "clever",
+        "ipa": "ˈklɛvə",
+        "meaning": "tài giỏi"
+    },
+    {
+        "word": "considerable",
+        "ipa": "kənˈsɪdərəbl",
+        "meaning": "đáng kể"
+    },
+    {
+        "word": "diverse",
+        "ipa": "daɪˈvɜːs",
+        "meaning": "phong phú"
+    },
+    {
+        "word": "partial",
+        "ipa": "ˈpɑːʃəl",
+        "meaning": "một phần"
+    },
+    {
+        "word": "hard",
+        "ipa": "hɑːd",
+        "meaning": "cứng"
+    },
+    {
+        "word": "northeast",
+        "ipa": "ˌnɔːθˈiːst",
+        "meaning": "đông bắc"
+    },
+    {
+        "word": "demanding",
+        "ipa": "dɪˈmɑːndɪŋ",
+        "meaning": "đòi hỏi"
+    },
+    {
+        "word": "waste",
+        "ipa": "weɪst",
+        "meaning": "chất thải"
+    },
+    {
+        "word": "interactive",
+        "ipa": "ˌɪntərˈæktɪv",
+        "meaning": "tương tác"
+    },
+    {
+        "word": "inner",
+        "ipa": "ˈɪnə",
+        "meaning": "bên trong"
+    },
+    {
+        "word": "physical",
+        "ipa": "ˈfɪzɪkəl",
+        "meaning": "vật lý"
+    },
+    {
+        "word": "unlikely",
+        "ipa": "ʌnˈlaɪkli",
+        "meaning": "không có khả năng"
+    },
+    {
+        "word": "disappointing",
+        "ipa": "ˌdɪsəˈpɔɪntɪŋ",
+        "meaning": "đáng thất vọng"
+    },
+    {
+        "word": "amused",
+        "ipa": "əˈmjuːzd",
+        "meaning": "thích thú"
+    },
+    {
+        "word": "engaged",
+        "ipa": "ɪnˈgeɪʤd",
+        "meaning": "Đính hôn"
+    },
+    {
+        "word": "valid",
+        "ipa": "ˈvælɪd",
+        "meaning": "có hiệu lực"
+    },
+    {
+        "word": "romantic",
+        "ipa": "rəʊˈmæntɪk",
+        "meaning": "lãng mạn"
+    },
+    {
+        "word": "bloody",
+        "ipa": "ˈblʌdi",
+        "meaning": "dính máu"
+    },
+    {
+        "word": "sore",
+        "ipa": "sɔː",
+        "meaning": "đau"
+    },
+    {
+        "word": "circular",
+        "ipa": "ˈsɜːkjʊlə",
+        "meaning": "dạng hình tròn"
+    },
+    {
+        "word": "breakable",
+        "ipa": "ˈbreɪkəbl",
+        "meaning": "dễ vỡ"
+    },
+    {
+        "word": "direct",
+        "ipa": "dɪˈrɛkt",
+        "meaning": "thẳng thắn"
+    },
+    {
+        "word": "original",
+        "ipa": "əˈrɪʤənl",
+        "meaning": "nguyên"
+    },
+    {
+        "word": "grey",
+        "ipa": "greɪ",
+        "meaning": "màu xám"
+    },
+    {
+        "word": "relaxed",
+        "ipa": "rɪˈlækst",
+        "meaning": "thư giãn"
+    },
+    {
+        "word": "next-door",
+        "ipa": "ˈnɛks(t)ˈdɔː",
+        "meaning": "cánh cửa tiếp theo"
+    },
+    {
+        "word": "challenging",
+        "ipa": "ˈʧælɪnʤɪŋ",
+        "meaning": "thách thức"
+    },
+    {
+        "word": "monthly",
+        "ipa": "ˈmʌnθli",
+        "meaning": "hàng tháng"
+    },
+    {
+        "word": "similar",
+        "ipa": "ˈsɪmɪlə",
+        "meaning": "giống"
+    },
+    {
+        "word": "warm",
+        "ipa": "wɔːm",
+        "meaning": "ấm áp"
+    },
+    {
+        "word": "dairy",
+        "ipa": "ˈdeəri",
+        "meaning": "sản phẩm bơ sữa"
+    },
+    {
+        "word": "teenage",
+        "ipa": "ˈtiːnˌeɪʤ",
+        "meaning": "thiếu niên"
+    },
+    {
+        "word": "uninteresting",
+        "ipa": "ʌnˈɪntrəstɪŋ",
+        "meaning": "không thú vị"
+    },
+    {
+        "word": "hurt",
+        "ipa": "hɜːt",
+        "meaning": "đau"
+    },
+    {
+        "word": "medical",
+        "ipa": "ˈmɛdɪkəl",
+        "meaning": "Y khoa"
+    },
+    {
+        "word": "industrial",
+        "ipa": "ɪnˈdʌstrɪəl",
+        "meaning": "công nghiệp"
+    },
+    {
+        "word": "unattractive",
+        "ipa": "ˌʌnəˈtræktɪv",
+        "meaning": "không hấp dẫn"
+    },
+    {
+        "word": "depressing",
+        "ipa": "dɪˈprɛsɪŋ",
+        "meaning": "chán nản"
+    },
+    {
+        "word": "stiff",
+        "ipa": "stɪf",
+        "meaning": "cứng"
+    },
+    {
+        "word": "unwilling",
+        "ipa": "ʌnˈwɪlɪŋ",
+        "meaning": "bất đắc dĩ"
+    },
+    {
+        "word": "necessary",
+        "ipa": "ˈnɛsɪsəri",
+        "meaning": "cần thiết"
+    },
+    {
+        "word": "burning",
+        "ipa": "ˈbɜːnɪŋ",
+        "meaning": "đốt"
+    },
+    {
+        "word": "proposed",
+        "ipa": "prəˈpəʊzd",
+        "meaning": "đề xuất"
+    },
+    {
+        "word": "silly",
+        "ipa": "ˈsɪli",
+        "meaning": "ngớ ngẩn"
+    },
+    {
+        "word": "handsome",
+        "ipa": "ˈhænsəm",
+        "meaning": "đẹp"
+    },
+    {
+        "word": "misleading",
+        "ipa": "mɪsˈliːdɪŋ",
+        "meaning": "gây hiểu lầm"
+    },
+    {
+        "word": "honest",
+        "ipa": "ˈɒnɪst",
+        "meaning": "thật thà"
+    },
+    {
+        "word": "fatal",
+        "ipa": "ˈfeɪtl",
+        "meaning": "gây tử vong"
+    },
+    {
+        "word": "vivid",
+        "ipa": "ˈvɪvɪd",
+        "meaning": "sống động"
+    },
+    {
+        "word": "virtual",
+        "ipa": "ˈvɜːtjʊəl",
+        "meaning": "ảo"
+    },
+    {
+        "word": "inexpensive",
+        "ipa": "ˌɪnɪksˈpɛnsɪv",
+        "meaning": "không tốn kém"
+    },
+    {
+        "word": "confusing",
+        "ipa": "kənˈfjuːzɪŋ",
+        "meaning": "gây nhầm lẫn"
+    },
+    {
+        "word": "offensive",
+        "ipa": "əˈfɛnsɪv",
+        "meaning": "phản cảm"
+    },
+    {
+        "word": "natural",
+        "ipa": "ˈnæʧrəl",
+        "meaning": "tự nhiên"
+    },
+    {
+        "word": "prepared",
+        "ipa": "prɪˈpeəd",
+        "meaning": "chuẩn bị"
+    },
+    {
+        "word": "hourly",
+        "ipa": "ˈaʊəli",
+        "meaning": "hàng giờ"
+    },
+    {
+        "word": "amazed",
+        "ipa": "əˈmeɪzd",
+        "meaning": "kinh ngạc"
+    },
+    {
+        "word": "divorced",
+        "ipa": "dɪˈvɔːst",
+        "meaning": "đã ly dị"
+    },
+    {
+        "word": "classic",
+        "ipa": "ˈklæsɪk",
+        "meaning": "cổ điển"
+    },
+    {
+        "word": "pregnant",
+        "ipa": "ˈprɛgnənt",
+        "meaning": "có thai"
+    },
+    {
+        "word": "broad",
+        "ipa": "brɔːd",
+        "meaning": "rộng lớn"
+    },
+    {
+        "word": "level",
+        "ipa": "ˈlɛvl",
+        "meaning": "cấp độ"
+    },
+    {
+        "word": "proper",
+        "ipa": "ˈprɒpə",
+        "meaning": "thích hợp"
+    },
+    {
+        "word": "likely",
+        "ipa": "ˈlaɪkli",
+        "meaning": "có khả năng"
+    },
+    {
+        "word": "silent",
+        "ipa": "ˈsaɪlənt",
+        "meaning": "im lặng"
+    },
+    {
+        "word": "secondary",
+        "ipa": "ˈsɛkəndəri",
+        "meaning": "thứ hai"
+    },
+    {
+        "word": "grown-up",
+        "ipa": "ˈgrəʊnʌp",
+        "meaning": "lớn lên"
+    },
+    {
+        "word": "unrealistic",
+        "ipa": "ˌʌnrɪəˈlɪstɪk",
+        "meaning": "không thực tế"
+    },
+    {
+        "word": "dental",
+        "ipa": "ˈdɛntl",
+        "meaning": "nha khoa"
+    },
+    {
+        "word": "technological",
+        "ipa": "ˌtɛknəˈlɒʤɪk(ə)l",
+        "meaning": "công nghệ"
+    },
+    {
+        "word": "impossible",
+        "ipa": "ɪmˈpɒsəbl",
+        "meaning": "Không thể nào"
+    },
+    {
+        "word": "charming",
+        "ipa": "ˈʧɑːmɪŋ",
+        "meaning": "duyên dáng"
+    },
+    {
+        "word": "objective",
+        "ipa": "əbˈʤɛktɪv",
+        "meaning": "mục tiêu"
+    },
+    {
+        "word": "adopted",
+        "ipa": "əˈdɒptɪd",
+        "meaning": "con nuôi"
+    },
+    {
+        "word": "vacant",
+        "ipa": "ˈveɪkənt",
+        "meaning": "bỏ trống"
+    },
+    {
+        "word": "artistic",
+        "ipa": "ɑːˈtɪstɪk",
+        "meaning": "thuộc về nghệ thuật"
+    },
+    {
+        "word": "poisonous",
+        "ipa": "ˈpɔɪznəs",
+        "meaning": "độc"
+    },
+    {
+        "word": "last",
+        "ipa": "lɑːst",
+        "meaning": "Cuối cùng"
+    },
+    {
+        "word": "untidy",
+        "ipa": "ʌnˈtaɪdi",
+        "meaning": "không gọn gàng"
+    },
+    {
+        "word": "deliberate",
+        "ipa": "dɪˈlɪbərɪt",
+        "meaning": "cố tình"
+    },
+    {
+        "word": "optional",
+        "ipa": "ˈɒpʃənl",
+        "meaning": "không bắt buộc"
+    },
+    {
+        "word": "gorgeous",
+        "ipa": "ˈgɔːʤəs",
+        "meaning": "rực rỡ"
+    },
+    {
+        "word": "qualified",
+        "ipa": "ˈkwɒlɪfaɪd",
+        "meaning": "đủ điều kiện"
+    },
+    {
+        "word": "neat",
+        "ipa": "niːt",
+        "meaning": "khéo léo"
+    },
+    {
+        "word": "specific",
+        "ipa": "spɪˈsɪfɪk",
+        "meaning": "riêng"
+    },
+    {
+        "word": "unsuccessful",
+        "ipa": "ˌʌnsəkˈsɛsfʊl",
+        "meaning": "không thành công"
+    },
+    {
+        "word": "well-balanced",
+        "ipa": "wɛl-ˈbælənst",
+        "meaning": "cân bằng tốt"
+    },
+    {
+        "word": "terrified",
+        "ipa": "ˈtɛrɪfaɪd",
+        "meaning": "kinh hoàng"
+    },
+    {
+        "word": "responsible",
+        "ipa": "rɪsˈpɒnsəbl",
+        "meaning": "chịu trách nhiệm"
+    },
+    {
+        "word": "caring",
+        "ipa": "ˈkeərɪŋ",
+        "meaning": "quan tâm"
+    },
+    {
+        "word": "solid",
+        "ipa": "ˈsɒlɪd",
+        "meaning": "chất rắn"
+    },
+    {
+        "word": "negative",
+        "ipa": "ˈnɛgətɪv",
+        "meaning": "tiêu cực"
+    },
+    {
+        "word": "mathematical",
+        "ipa": "ˌmæθɪˈmætɪkəl",
+        "meaning": "toán học"
+    },
+    {
+        "word": "organized",
+        "ipa": "ˈɔːgənaɪzd",
+        "meaning": "có tổ chức"
+    },
+    {
+        "word": "historic",
+        "ipa": "hɪsˈtɒrɪk",
+        "meaning": "mang tính lịch sử"
+    },
+    {
+        "word": "priceless",
+        "ipa": "ˈpraɪslɪs",
+        "meaning": "vô giá"
+    },
+    {
+        "word": "well-dressed",
+        "ipa": "wɛl-drɛst",
+        "meaning": "ăn mặc đẹp"
+    },
+    {
+        "word": "developed",
+        "ipa": "dɪˈvɛləpt",
+        "meaning": "đã phát triển"
+    },
+    {
+        "word": "urgent",
+        "ipa": "ˈɜːʤənt",
+        "meaning": "khẩn cấp"
+    },
+    {
+        "word": "outrageous",
+        "ipa": "aʊtˈreɪʤəs",
+        "meaning": "tàn nhẫn"
+    },
+    {
+        "word": "non-smoking",
+        "ipa": "nɒn-ˈsməʊkɪŋ",
+        "meaning": "không hút thuốc"
+    },
+    {
+        "word": "gentle",
+        "ipa": "ˈʤɛntl",
+        "meaning": "dịu dàng"
+    },
+    {
+        "word": "cultural",
+        "ipa": "ˈkʌlʧərəl",
+        "meaning": "văn hóa"
+    },
+    {
+        "word": "breathtaking",
+        "ipa": "ˈbrɛθˌteɪkɪŋ",
+        "meaning": "ngoạn"
+    },
+    {
+        "word": "sweet",
+        "ipa": "swiːt",
+        "meaning": "ngọt"
+    },
+    {
+        "word": "digital",
+        "ipa": "ˈdɪʤɪtl",
+        "meaning": "kỹ thuật số"
+    },
+    {
+        "word": "key",
+        "ipa": "kiː",
+        "meaning": "Chìa khóa"
+    },
+    {
+        "word": "disorganized",
+        "ipa": "dɪsˈɔːgənaɪzd",
+        "meaning": "vô tổ chức"
+    },
+    {
+        "word": "standard",
+        "ipa": "ˈstændəd",
+        "meaning": "Tiêu chuẩn"
+    },
+    {
+        "word": "definite",
+        "ipa": "ˈdɛfɪnɪt",
+        "meaning": "xác định"
+    },
+    {
+        "word": "golden",
+        "ipa": "ˈgəʊldən",
+        "meaning": "vàng"
+    },
+    {
+        "word": "annoying",
+        "ipa": "əˈnɔɪɪŋ",
+        "meaning": "làm phiền"
+    },
+    {
+        "word": "native",
+        "ipa": "ˈneɪtɪv",
+        "meaning": "tự nhiên"
+    },
+    {
+        "word": "creative",
+        "ipa": "kri(ː)ˈeɪtɪv",
+        "meaning": "sáng tạo"
+    },
+    {
+        "word": "significant",
+        "ipa": "sɪgˈnɪfɪkənt",
+        "meaning": "có ý nghĩa"
+    },
+    {
+        "word": "elementary",
+        "ipa": "ˌɛlɪˈmɛntəri",
+        "meaning": "tiểu học"
+    },
+    {
+        "word": "elegant",
+        "ipa": "ˈɛlɪgənt",
+        "meaning": "thanh lịch"
+    },
+    {
+        "word": "irresponsible",
+        "ipa": "ˌɪrɪsˈpɒnsəbl",
+        "meaning": "vô trách nhiệm"
+    },
+    {
+        "word": "tense",
+        "ipa": "tɛns",
+        "meaning": "bẩn quá"
+    },
+    {
+        "word": "technical",
+        "ipa": "ˈtɛknɪkəl",
+        "meaning": "kỹ thuật"
+    },
+    {
+        "word": "smooth",
+        "ipa": "smuːð",
+        "meaning": "trơn tru"
+    },
+    {
+        "word": "decisive",
+        "ipa": "dɪˈsaɪsɪv",
+        "meaning": "quyết đoán"
+    },
+    {
+        "word": "magical",
+        "ipa": "ˈmæʤɪkəl",
+        "meaning": "huyền diệu"
+    },
+    {
+        "word": "limited",
+        "ipa": "ˈlɪmɪtɪd",
+        "meaning": "hạn chế"
+    },
+    {
+        "word": "exotic",
+        "ipa": "ɪgˈzɒtɪk",
+        "meaning": "kỳ lạ"
+    },
+    {
+        "word": "endless",
+        "ipa": "ˈɛndlɪs",
+        "meaning": "bất tận"
+    },
+    {
+        "word": "middle-aged",
+        "ipa": "ˈmɪdlˈeɪʤd",
+        "meaning": "Trung niên"
+    },
+    {
+        "word": "thrilled",
+        "ipa": "θrɪld",
+        "meaning": "hồi hộp"
+    },
+    {
+        "word": "urban",
+        "ipa": "ˈɜːbən",
+        "meaning": "thành thị"
+    },
+    {
+        "word": "sensible",
+        "ipa": "ˈsɛnsəbl",
+        "meaning": "hợp lý"
+    },
+    {
+        "word": "nervous",
+        "ipa": "ˈnɜːvəs",
+        "meaning": "lo lắng"
+    },
+    {
+        "word": "worldwide",
+        "ipa": "ˌwɜːldˈwaɪd",
+        "meaning": "trên toàn thế giới"
+    },
+    {
+        "word": "fond",
+        "ipa": "fɒnd",
+        "meaning": "ngây thơ"
+    },
+    {
+        "word": "respectable",
+        "ipa": "rɪsˈpɛktəbl",
+        "meaning": "đáng kính trọng"
+    },
+    {
+        "word": "brand new",
+        "ipa": "brænd njuː",
+        "meaning": "thương hiệu mới"
+    },
+    {
+        "word": "stupid",
+        "ipa": "ˈstjuːpɪd",
+        "meaning": "ngốc nghếch"
+    },
+    {
+        "word": "presidential",
+        "ipa": "ˌprɛzɪˈdɛnʃəl",
+        "meaning": "tổng thống"
+    },
+    {
+        "word": "inside",
+        "ipa": "ɪnˈsaɪd",
+        "meaning": "phía trong"
+    },
+    {
+        "word": "internal",
+        "ipa": "ɪnˈtɜːnl",
+        "meaning": "nội bộ"
+    },
+    {
+        "word": "deadly",
+        "ipa": "ˈdɛdli",
+        "meaning": "chết người"
+    },
+    {
+        "word": "glad",
+        "ipa": "glæd",
+        "meaning": "vui vẻ"
+    },
+    {
+        "word": "amazing",
+        "ipa": "əˈmeɪzɪŋ",
+        "meaning": "kinh ngạc"
+    },
+    {
+        "word": "cooperative",
+        "ipa": "kəʊˈɒpərətɪv",
+        "meaning": "hợp tác xã"
+    },
+    {
+        "word": "prompt",
+        "ipa": "prɒmpt",
+        "meaning": "lời nhắc"
+    },
+    {
+        "word": "elderly",
+        "ipa": "ˈɛldəli",
+        "meaning": "hơi già"
+    },
+    {
+        "word": "unhelpful",
+        "ipa": "ʌnˈhɛlpfəl",
+        "meaning": "không ích lợi"
+    },
+    {
+        "word": "good",
+        "ipa": "gʊd",
+        "meaning": "tốt"
+    },
+    {
+        "word": "orchestral",
+        "ipa": "ɔːˈkɛstrəl",
+        "meaning": "dàn nhạc"
+    },
+    {
+        "word": "electrical",
+        "ipa": "ɪˈlɛktrɪkəl",
+        "meaning": "điện"
+    },
+    {
+        "word": "unchanged",
+        "ipa": "ʌnˈʧeɪnʤd",
+        "meaning": "không thay đổi"
+    },
+    {
+        "word": "canned",
+        "ipa": "kænd",
+        "meaning": "đóng hộp"
+    },
+    {
+        "word": "talented",
+        "ipa": "ˈtæləntɪd",
+        "meaning": "có tài"
+    },
+    {
+        "word": "thoughtful",
+        "ipa": "θɔːtfʊl",
+        "meaning": "chu đáo"
+    },
+    {
+        "word": "human",
+        "ipa": "ˈhjuːmən",
+        "meaning": "Nhân loại"
+    },
+    {
+        "word": "blank",
+        "ipa": "blæŋk",
+        "meaning": "chỗ trống"
+    },
+    {
+        "word": "astonishing",
+        "ipa": "əsˈtɒnɪʃɪŋ",
+        "meaning": "kinh ngạc"
+    },
+    {
+        "word": "transitive",
+        "ipa": "ˈtrænsɪtɪv",
+        "meaning": "Bắc cầu"
+    },
+    {
+        "word": "separate",
+        "ipa": "ˈsɛprɪt",
+        "meaning": "tách rời"
+    },
+    {
+        "word": "up-to-date",
+        "ipa": "ˈʌptəˈdeɪt",
+        "meaning": "cập nhật"
+    },
+    {
+        "word": "reliable",
+        "ipa": "rɪˈlaɪəbl",
+        "meaning": "đáng tin cậy"
+    },
+    {
+        "word": "stubborn",
+        "ipa": "ˈstʌbən",
+        "meaning": "bướng bỉnh"
+    },
+    {
+        "word": "political",
+        "ipa": "pəˈlɪtɪkəl",
+        "meaning": "chính trị"
+    },
+    {
+        "word": "informal",
+        "ipa": "ɪnˈfɔːml",
+        "meaning": "không chính thức"
+    },
+    {
+        "word": "dead",
+        "ipa": "dɛd",
+        "meaning": "đã chết"
+    },
+    {
+        "word": "general",
+        "ipa": "ˈʤɛnərəl",
+        "meaning": "chung"
+    },
+    {
+        "word": "freezing",
+        "ipa": "ˈfriːzɪŋ",
+        "meaning": "đóng băng"
+    },
+    {
+        "word": "nationwide",
+        "ipa": "ˈneɪʃənwaɪd",
+        "meaning": "toàn quốc"
+    },
+    {
+        "word": "private",
+        "ipa": "ˈpraɪvɪt",
+        "meaning": "riêng tư"
+    },
+    {
+        "word": "short-term",
+        "ipa": "ʃɔːt-tɜːm",
+        "meaning": "thời gian ngắn"
+    },
+    {
+        "word": "twisted",
+        "ipa": "ˈtwɪstɪd",
+        "meaning": "xoắn"
+    },
+    {
+        "word": "stressed",
+        "ipa": "strɛst",
+        "meaning": "nhấn mạnh"
+    },
+    {
+        "word": "stressful",
+        "ipa": "ˈstrɛsf(ə)l",
+        "meaning": "căng thẳng"
+    },
+    {
+        "word": "dizzy",
+        "ipa": "ˈdɪzi",
+        "meaning": "chóng mặt"
+    },
+    {
+        "word": "bizarre",
+        "ipa": "bɪˈzɑː",
+        "meaning": "kỳ quái"
+    },
+    {
+        "word": "inconvenient",
+        "ipa": "ˌɪnkənˈviːniənt",
+        "meaning": "bất tiện"
+    },
+    {
+        "word": "single",
+        "ipa": "ˈsɪŋgl",
+        "meaning": "Độc thân"
+    },
+    {
+        "word": "cosy",
+        "ipa": "ˈkəʊzi",
+        "meaning": "ấm cúng"
+    },
+    {
+        "word": "improved",
+        "ipa": "ɪmˈpruːvd",
+        "meaning": "được cải thiện"
+    },
+    {
+        "word": "moral",
+        "ipa": "ˈmɒrəl",
+        "meaning": "đạo đức"
+    },
+    {
+        "word": "dramatic",
+        "ipa": "drəˈmætɪk",
+        "meaning": "kịch tính"
+    },
+    {
+        "word": "current",
+        "ipa": "ˈkʌrənt",
+        "meaning": "hiện hành"
+    },
+    {
+        "word": "winding",
+        "ipa": "ˈwɪndɪŋ",
+        "meaning": "quanh co"
+    },
+    {
+        "word": "naked",
+        "ipa": "ˈneɪkɪd",
+        "meaning": "khỏa thân"
+    },
+    {
+        "word": "aggressive",
+        "ipa": "əˈgrɛsɪv",
+        "meaning": "xâm lược"
+    },
+    {
+        "word": "old-fashioned",
+        "ipa": "əʊld-ˈfæʃənd",
+        "meaning": "Cổ hủ"
+    },
+    {
+        "word": "skilful",
+        "ipa": "ˈskɪlfʊl",
+        "meaning": "khéo léo"
+    },
+    {
+        "word": "deaf",
+        "ipa": "dɛf",
+        "meaning": "điếc"
+    },
+    {
+        "word": "inaccurate",
+        "ipa": "ɪnˈækjʊrɪt",
+        "meaning": "không chính xác"
+    },
+    {
+        "word": "sharp",
+        "ipa": "ʃɑːp",
+        "meaning": "nhọn"
+    },
+    {
+        "word": "correct",
+        "ipa": "kəˈrɛkt",
+        "meaning": "chính xác"
+    },
+    {
+        "word": "logical",
+        "ipa": "ˈlɒʤɪkəl",
+        "meaning": "hợp lý"
+    },
+    {
+        "word": "future",
+        "ipa": "ˈfjuːʧə",
+        "meaning": "Tương lai"
+    },
+    {
+        "word": "fixed",
+        "ipa": "fɪkst",
+        "meaning": "đã sửa"
+    },
+    {
+        "word": "modern",
+        "ipa": "ˈmɒdən",
+        "meaning": "hiện đại"
+    },
+    {
+        "word": "athletic",
+        "ipa": "æθˈlɛtɪk",
+        "meaning": "Khỏe mạnh"
+    },
+    {
+        "word": "primary",
+        "ipa": "ˈpraɪməri",
+        "meaning": "sơ cấp"
+    },
+    {
+        "word": "upper",
+        "ipa": "ˈʌpə",
+        "meaning": "phía trên"
+    },
+    {
+        "word": "underground",
+        "ipa": "ˈʌndəgraʊnd",
+        "meaning": "ngầm"
+    },
+    {
+        "word": "official",
+        "ipa": "əˈfɪʃəl",
+        "meaning": "chính thức"
+    },
+    {
+        "word": "immoral",
+        "ipa": "ɪˈmɒrəl",
+        "meaning": "vô đạo đức"
+    },
+    {
+        "word": "shocked",
+        "ipa": "ʃɒkt",
+        "meaning": "sốc"
+    },
+    {
+        "word": "underwater",
+        "ipa": "ˈʌndəˈwɔːtə",
+        "meaning": "dưới nước"
+    },
+    {
+        "word": "blind",
+        "ipa": "blaɪnd",
+        "meaning": "mù"
+    },
+    {
+        "word": "ideal",
+        "ipa": "aɪˈdɪəl",
+        "meaning": "lý tưởng"
+    },
+    {
+        "word": "shallow",
+        "ipa": "ˈʃæləʊ",
+        "meaning": "Nông cạn"
+    },
+    {
+        "word": "contemporary",
+        "ipa": "kənˈtɛmpərəri",
+        "meaning": "đồng thời"
+    },
+    {
+        "word": "identical",
+        "ipa": "aɪˈdɛntɪkəl",
+        "meaning": "giống hệt nhau"
+    },
+    {
+        "word": "estimated",
+        "ipa": "ˈɛstɪmeɪtɪd",
+        "meaning": "ước lượng"
+    },
+    {
+        "word": "minor",
+        "ipa": "ˈmaɪnə",
+        "meaning": "diễn viên phụ"
+    },
+    {
+        "word": "present",
+        "ipa": "ˈprɛznt",
+        "meaning": "hiện tại"
+    },
+    {
+        "word": "unique",
+        "ipa": "juːˈniːk",
+        "meaning": "độc nhất"
+    },
+    {
+        "word": "expert",
+        "ipa": "ˈɛkspɜːt",
+        "meaning": "chuyên gia"
+    },
+    {
+        "word": "favourable",
+        "ipa": "ˈfeɪvərəbl",
+        "meaning": "thuận lợi"
+    },
+    {
+        "word": "unsuitable",
+        "ipa": "ʌnˈsjuːtəbl",
+        "meaning": "không hợp"
+    },
+    {
+        "word": "unemployed",
+        "ipa": "ˌʌnɪmˈplɔɪd",
+        "meaning": "thất nghiệp"
+    },
+    {
+        "word": "thrilling",
+        "ipa": "ˈθrɪlɪŋ",
+        "meaning": "kịch tính"
+    },
+    {
+        "word": "damaged",
+        "ipa": "ˈdæmɪʤd",
+        "meaning": "hư hỏng"
+    },
+    {
+        "word": "scared",
+        "ipa": "skeəd",
+        "meaning": "sợ hãi"
+    },
+    {
+        "word": "ultimate",
+        "ipa": "ˈʌltɪmɪt",
+        "meaning": "tối thượng"
+    },
+    {
+        "word": "peaceful",
+        "ipa": "ˈpiːsfʊl",
+        "meaning": "bình yên"
+    },
+    {
+        "word": "awake",
+        "ipa": "əˈweɪk",
+        "meaning": "thức giấc"
+    },
+    {
+        "word": "huge",
+        "ipa": "hjuːʤ",
+        "meaning": "khổng lồ"
+    },
+    {
+        "word": "severe",
+        "ipa": "sɪˈvɪə",
+        "meaning": "dữ dội"
+    },
+    {
+        "word": "constant",
+        "ipa": "ˈkɒnstənt",
+        "meaning": "không thay đổi"
+    },
+    {
+        "word": "historical",
+        "ipa": "hɪsˈtɒrɪkəl",
+        "meaning": "lịch sử"
+    },
+    {
+        "word": "fresh",
+        "ipa": "frɛʃ",
+        "meaning": "tươi"
+    },
+    {
+        "word": "endangered",
+        "ipa": "ɪnˈdeɪnʤəd",
+        "meaning": "nguy cơ tuyệt chủng"
+    },
+    {
+        "word": "male",
+        "ipa": "meɪl",
+        "meaning": "Nam giới"
+    },
+    {
+        "word": "visible",
+        "ipa": "ˈvɪzəbl",
+        "meaning": "có thể nhìn thấy"
+    },
+    {
+        "word": "self-service",
+        "ipa": "sɛlf-ˈsɜːvɪs",
+        "meaning": "tự phục vụ"
+    },
+    {
+        "word": "solar",
+        "ipa": "ˈsəʊlə",
+        "meaning": "hệ mặt trời"
+    },
+    {
+        "word": "evil",
+        "ipa": "ˈiːvl",
+        "meaning": "tà ác"
+    },
+    {
+        "word": "enjoyable",
+        "ipa": "ɪnˈʤɔɪəbl",
+        "meaning": "thú vị"
+    },
+    {
+        "word": "spiritual",
+        "ipa": "ˈspɪrɪtjʊəl",
+        "meaning": "tâm linh"
+    },
+    {
+        "word": "unpredictable",
+        "ipa": "ˌʌnprɪˈdɪktəbl",
+        "meaning": "không thể đoán trước"
+    },
+    {
+        "word": "uninterested",
+        "ipa": "ʌnˈɪntrɪstɪd",
+        "meaning": "không quan tâm"
+    },
+    {
+        "word": "stunning",
+        "ipa": "ˈstʌnɪŋ",
+        "meaning": "Kinh ngạc"
+    },
+    {
+        "word": "massive",
+        "ipa": "ˈmæsɪv",
+        "meaning": "to lớn"
+    },
+    {
+        "word": "satisfactory",
+        "ipa": "ˌsætɪsˈfæktəri",
+        "meaning": "đạt yêu cầu"
+    },
+    {
+        "word": "compulsory",
+        "ipa": "kəmˈpʌlsəri",
+        "meaning": "bắt buộc"
+    },
+    {
+        "word": "gradual",
+        "ipa": "ˈgrædjʊəl",
+        "meaning": "dần dần"
+    },
+    {
+        "word": "educated",
+        "ipa": "ˈɛdju(ː)keɪtɪd",
+        "meaning": "có học thức"
+    },
+    {
+        "word": "major",
+        "ipa": "ˈmeɪʤə",
+        "meaning": "chính"
+    },
+    {
+        "word": "possible",
+        "ipa": "ˈpɒsəbl",
+        "meaning": "khả thi"
+    },
+    {
+        "word": "protective",
+        "ipa": "prəˈtɛktɪv",
+        "meaning": "bảo vệ"
+    },
+    {
+        "word": "secure",
+        "ipa": "sɪˈkjʊə",
+        "meaning": "đảm bảo"
+    },
+    {
+        "word": "rural",
+        "ipa": "ˈrʊərəl",
+        "meaning": "nông thôn"
+    },
+    {
+        "word": "eager",
+        "ipa": "ˈiːgə",
+        "meaning": "hăng hái"
+    },
+    {
+        "word": "desirable",
+        "ipa": "dɪˈzaɪərəbl",
+        "meaning": "mong muốn"
+    },
+    {
+        "word": "unforgettable",
+        "ipa": "ˌʌnfəˈgɛtəbl",
+        "meaning": "không thể nào quên"
+    },
+    {
+        "word": "unexpected",
+        "ipa": "ˌʌnɪksˈpɛktɪd",
+        "meaning": "bất ngờ"
+    },
+    {
+        "word": "outstanding",
+        "ipa": "aʊtˈstændɪŋ",
+        "meaning": "nổi bật"
+    },
+    {
+        "word": "impressive",
+        "ipa": "ɪmˈprɛsɪv",
+        "meaning": "ấn tượng"
+    },
+    {
+        "word": "divided",
+        "ipa": "dɪˈvaɪdɪd",
+        "meaning": "chia"
+    },
+    {
+        "word": "productive",
+        "ipa": "prəˈdʌktɪv",
+        "meaning": "năng suất"
+    },
+    {
+        "word": "advanced",
+        "ipa": "ədˈvɑːnst",
+        "meaning": "nâng cao"
+    },
+    {
+        "word": "sticky",
+        "ipa": "ˈstɪki",
+        "meaning": "dính"
+    },
+    {
+        "word": "satisfied",
+        "ipa": "ˈsætɪsfaɪd",
+        "meaning": "hài lòng"
+    },
+    {
+        "word": true,
+        "ipa": "truː",
+        "meaning": "THẬT"
+    },
+    {
+        "word": "asleep",
+        "ipa": "əˈsliːp",
+        "meaning": "ngủ"
+    },
+    {
+        "word": "awful",
+        "ipa": "ˈɔːfʊl",
+        "meaning": "kinh khủng"
+    },
+    {
+        "word": "high",
+        "ipa": "haɪ",
+        "meaning": "cao"
+    },
+    {
+        "word": "popular",
+        "ipa": "ˈpɒpjʊlə",
+        "meaning": "phổ biến"
+    },
+    {
+        "word": "progressive",
+        "ipa": "prəʊˈgrɛsɪv",
+        "meaning": "cấp tiến"
+    },
+    {
+        "word": "secret",
+        "ipa": "ˈsiːkrɪt",
+        "meaning": "bí mật"
+    },
+    {
+        "word": "rough",
+        "ipa": "rʌf",
+        "meaning": "thô"
+    },
+    {
+        "word": "down",
+        "ipa": "daʊn",
+        "meaning": "xuống"
+    },
+    {
+        "word": "comfortable",
+        "ipa": "ˈkʌmf(ə)təbl",
+        "meaning": "Thoải mái"
+    },
+    {
+        "word": "sorry",
+        "ipa": "ˈsɒri",
+        "meaning": "lấy làm tiếc"
+    },
+    {
+        "word": "mental",
+        "ipa": "ˈmɛntl",
+        "meaning": "tâm thần"
+    },
+    {
+        "word": "unfashionable",
+        "ipa": "ʌnˈfæʃnəbl",
+        "meaning": "không hợp thời trang"
+    },
+    {
+        "word": "unlimited",
+        "ipa": "ʌnˈlɪmɪtɪd",
+        "meaning": "vô hạn"
+    },
+    {
+        "word": "growing",
+        "ipa": "ˈgrəʊɪŋ",
+        "meaning": "phát triển"
+    },
+    {
+        "word": "extensive",
+        "ipa": "ɪksˈtɛnsɪv",
+        "meaning": "sâu rộng"
+    },
+    {
+        "word": "external",
+        "ipa": "ɛksˈtɜːnl",
+        "meaning": "bên ngoài"
+    },
+    {
+        "word": "detailed",
+        "ipa": "ˈdiːteɪld",
+        "meaning": "chi tiết"
+    },
+    {
+        "word": "flexible",
+        "ipa": "ˈflɛksəbl",
+        "meaning": "Linh hoạt"
+    },
+    {
+        "word": "sleepy",
+        "ipa": "ˈsliːpi",
+        "meaning": "ngái ngủ"
+    },
+    {
+        "word": "respected",
+        "ipa": "rɪsˈpɛktɪd",
+        "meaning": "tôn trọng"
+    },
+    {
+        "word": "alive",
+        "ipa": "əˈlaɪv",
+        "meaning": "sống sót"
+    },
+    {
+        "word": "average",
+        "ipa": "ˈævərɪʤ",
+        "meaning": "Trung bình cộng"
+    },
+    {
+        "word": "complex",
+        "ipa": "ˈkɒmplɛks",
+        "meaning": "phức tạp"
+    },
+    {
+        "word": "functional",
+        "ipa": "ˈfʌŋkʃənl",
+        "meaning": "chức năng"
+    },
+    {
+        "word": "dressed",
+        "ipa": "drɛst",
+        "meaning": "mặc quần áo"
+    },
+    {
+        "word": "magic",
+        "ipa": "ˈmæʤɪk",
+        "meaning": "ma thuật"
+    },
+    {
+        "word": "invisible",
+        "ipa": "ɪnˈvɪzəbl",
+        "meaning": "vô hình"
+    },
+    {
+        "word": "undressed",
+        "ipa": "ʌnˈdrɛst",
+        "meaning": "cởi đồ"
+    },
+    {
+        "word": "grateful",
+        "ipa": "ˈgreɪtfʊl",
+        "meaning": "tri ân"
+    },
+    {
+        "word": "literary",
+        "ipa": "ˈlɪtərəri",
+        "meaning": "văn học"
+    },
+    {
+        "word": "appropriate",
+        "ipa": "əˈprəʊprɪɪt",
+        "meaning": "thích hợp"
+    },
+    {
+        "word": "heavy",
+        "ipa": "ˈhɛvi",
+        "meaning": "nặng"
+    },
+    {
+        "word": "disgusting",
+        "ipa": "dɪsˈgʌstɪŋ",
+        "meaning": "kinh tởm"
+    },
+    {
+        "word": "rectangular",
+        "ipa": "rɛkˈtæŋgjʊlə",
+        "meaning": "hình hộp chữ nhật"
+    },
+    {
+        "word": "decorative",
+        "ipa": "ˈdɛkərətɪv",
+        "meaning": "trang trí"
+    },
+    {
+        "word": "depressed",
+        "ipa": "dɪˈprɛst",
+        "meaning": "suy sụp"
+    },
+    {
+        "word": "accessible",
+        "ipa": "əkˈsɛsəbl",
+        "meaning": "có thể truy cập"
+    },
+    {
+        "word": "possessive",
+        "ipa": "pəˈzɛsɪv",
+        "meaning": "sở hữu"
+    },
+    {
+        "word": "shiny",
+        "ipa": "ˈʃaɪni",
+        "meaning": "sáng bóng"
+    },
+    {
+        "word": "relieved",
+        "ipa": "rɪˈliːvd",
+        "meaning": "an tâm"
+    },
+    {
+        "word": "hopeful",
+        "ipa": "ˈhəʊpfʊl",
+        "meaning": "hy vọng"
+    },
+    {
+        "word": "green",
+        "ipa": "griːn",
+        "meaning": "màu xanh lá"
+    },
+    {
+        "word": "tabloid",
+        "ipa": "ˈtæblɔɪd",
+        "meaning": "báo lá cải"
+    },
+    {
+        "word": "desperate",
+        "ipa": "ˈdɛspərɪt",
+        "meaning": "tuyệt vọng"
+    },
+    {
+        "word": "shy",
+        "ipa": "ʃaɪ",
+        "meaning": "nhát"
+    },
+    {
+        "word": "emotional",
+        "ipa": "ɪˈməʊʃənl",
+        "meaning": "đa cảm"
+    },
+    {
+        "word": "violent",
+        "ipa": "ˈvaɪələnt",
+        "meaning": "hung bạo"
+    },
+    {
+        "word": "frequent",
+        "ipa": "ˈfriːkwənt",
+        "meaning": "thường xuyên"
+    },
+    {
+        "word": "electronic",
+        "ipa": "ɪlɛkˈtrɒnɪk",
+        "meaning": "điện tử"
+    },
+    {
+        "word": "quality",
+        "ipa": "ˈkwɒlɪti",
+        "meaning": "chất lượng"
+    },
+    {
+        "word": "jealous",
+        "ipa": "ˈʤɛləs",
+        "meaning": "ghen tuông"
+    },
+    {
+        "word": "second-hand",
+        "ipa": "ˈsɛkənd-hænd",
+        "meaning": "đồ cũ"
+    },
+    {
+        "word": "difficult",
+        "ipa": "ˈdɪfɪkəlt",
+        "meaning": "khó khăn"
+    },
+    {
+        "word": "intellectual",
+        "ipa": "ˌɪntɪˈlɛktjʊəl",
+        "meaning": "trí tuệ"
+    },
+    {
+        "word": "essential",
+        "ipa": "ɪˈsɛnʃəl",
+        "meaning": "Thiết yếu"
+    },
+    {
+        "word": "successful",
+        "ipa": "səkˈsɛsfʊl",
+        "meaning": "thành công"
+    },
+    {
+        "word": "intensive",
+        "ipa": "ɪnˈtɛnsɪv",
+        "meaning": "chuyên sâu"
+    },
+    {
+        "word": "injured",
+        "ipa": "ˈɪnʤəd",
+        "meaning": "bị thương"
+    },
+    {
+        "word": "top",
+        "ipa": "tɒp",
+        "meaning": "hàng đầu"
+    },
+    {
+        "word": "helpful",
+        "ipa": "ˈhɛlpfʊl",
+        "meaning": "Hữu ích"
+    },
+    {
+        "word": "live",
+        "ipa": "lɪv",
+        "meaning": "trực tiếp"
+    },
+    {
+        "word": "remarkable",
+        "ipa": "rɪˈmɑːkəbl",
+        "meaning": "đáng chú ý"
+    },
+    {
+        "word": "approximate",
+        "ipa": "əˈprɒksɪmɪt",
+        "meaning": "gần đúng"
+    },
+    {
+        "word": "racial",
+        "ipa": "ˈreɪʃəl",
+        "meaning": "chủng tộc"
+    },
+    {
+        "word": "common",
+        "ipa": "ˈkɒmən",
+        "meaning": "chung"
+    },
+    {
+        "word": "free",
+        "ipa": "friː",
+        "meaning": "miễn phí"
+    },
+    {
+        "word": "lost",
+        "ipa": "lɒst",
+        "meaning": "mất đi"
+    },
+    {
+        "word": "selfish",
+        "ipa": "ˈsɛlfɪʃ",
+        "meaning": "ích kỷ"
+    },
+    {
+        "word": "plain",
+        "ipa": "pleɪn",
+        "meaning": "trơn"
+    },
+    {
+        "word": "safe",
+        "ipa": "seɪf",
+        "meaning": "an toàn"
+    },
+    {
+        "word": "humid",
+        "ipa": "ˈhjuːmɪd",
+        "meaning": "ẩm ướt"
+    },
+    {
+        "word": "capable",
+        "ipa": "ˈkeɪpəbl",
+        "meaning": "có khả năng"
+    },
+    {
+        "word": "unbearable",
+        "ipa": "ʌnˈbeərəbl",
+        "meaning": "không chịu nổi"
+    },
+    {
+        "word": "recycled",
+        "ipa": "ˌriːˈsaɪkld",
+        "meaning": "tái chế"
+    },
+    {
+        "word": "puzzled",
+        "ipa": "ˈpʌzld",
+        "meaning": "hoang mang"
+    },
+    {
+        "word": "lead",
+        "ipa": "liːd",
+        "meaning": "chì"
+    },
+    {
+        "word": "antique",
+        "ipa": "ænˈtiːk",
+        "meaning": "đồ cổ"
+    },
+    {
+        "word": "giant",
+        "ipa": "ˈʤaɪənt",
+        "meaning": "khổng lồ"
+    },
+    {
+        "word": "amusing",
+        "ipa": "əˈmjuːzɪŋ",
+        "meaning": "vui"
+    },
+    {
+        "word": "pretty",
+        "ipa": "ˈprɪti",
+        "meaning": "đẹp"
+    },
+    {
+        "word": "exclusive",
+        "ipa": "ɪksˈkluːsɪv",
+        "meaning": "độc quyền"
+    },
+    {
+        "word": "royal",
+        "ipa": "ˈrɔɪəl",
+        "meaning": "Hoàng Gia"
+    },
+    {
+        "word": "muddy",
+        "ipa": "ˈmʌdi",
+        "meaning": "bùn"
+    },
+    {
+        "word": "tropical",
+        "ipa": "ˈtrɒpɪkəl",
+        "meaning": "nhiệt đới"
+    },
+    {
+        "word": "drunk",
+        "ipa": "drʌŋk",
+        "meaning": "say"
+    },
+    {
+        "word": "electric",
+        "ipa": "ɪˈlɛktrɪk",
+        "meaning": "điện"
+    },
+    {
+        "word": "loose",
+        "ipa": "luːs",
+        "meaning": "lỏng lẻo"
+    },
+    {
+        "word": "foolish",
+        "ipa": "ˈfuːlɪʃ",
+        "meaning": "khờ dại"
+    },
+    {
+        "word": "generous",
+        "ipa": "ˈʤɛnərəs",
+        "meaning": "hào phóng"
+    },
+    {
+        "word": "rude",
+        "ipa": "ruːd",
+        "meaning": "thô lỗ"
+    },
+    {
+        "word": "inexperienced",
+        "ipa": "ˌɪnɪksˈpɪərɪənst",
+        "meaning": "thiếu kinh nghiệm"
+    },
+    {
+        "word": "petrified",
+        "ipa": "ˈpɛtrɪfaɪd",
+        "meaning": "hóa đá"
+    },
+    {
+        "word": "cheerful",
+        "ipa": "ˈʧɪəfʊl",
+        "meaning": "vui lòng"
+    },
+    {
+        "word": "comic",
+        "ipa": "ˈkɒmɪk",
+        "meaning": "hài hước"
+    },
+    {
+        "word": "ancient",
+        "ipa": "ˈeɪnʃ(ə)nt",
+        "meaning": "cổ xưa"
+    },
+    {
+        "word": "genuine",
+        "ipa": "ˈʤɛnjʊɪn",
+        "meaning": "chính hãng"
+    },
+    {
+        "word": "precise",
+        "ipa": "prɪˈsaɪz",
+        "meaning": "tóm lược"
+    },
+    {
+        "word": "fortunate",
+        "ipa": "ˈfɔːʧnɪt",
+        "meaning": "may mắn"
+    },
+    {
+        "word": "complicated",
+        "ipa": "ˈkɒmplɪkeɪtɪd",
+        "meaning": "phức tạp"
+    },
+    {
+        "word": "long-term",
+        "ipa": "ˈlɒŋtɜːm",
+        "meaning": "lâu dài"
+    },
+    {
+        "word": "permanent",
+        "ipa": "ˈpɜːmənənt",
+        "meaning": "dài hạn"
+    },
+    {
+        "word": "automatic",
+        "ipa": "ˌɔːtəˈmætɪk",
+        "meaning": "tự động"
+    },
+    {
+        "word": "childish",
+        "ipa": "ˈʧaɪldɪʃ",
+        "meaning": "trẻ trâu"
+    },
+    {
+        "word": "picturesque",
+        "ipa": "ˌpɪkʧəˈrɛsk",
+        "meaning": "đẹp như tranh vẽ"
+    },
+    {
+        "word": "furious",
+        "ipa": "ˈfjʊərɪəs",
+        "meaning": "tức giận"
+    },
+    {
+        "word": "dissatisfied",
+        "ipa": "ˌdɪsˈsætɪsfaɪd",
+        "meaning": "bất mãn"
+    },
+    {
+        "word": "adequate",
+        "ipa": "ˈædɪkwɪt",
+        "meaning": "đầy đủ"
+    },
+    {
+        "word": "crucial",
+        "ipa": "ˈkruːʃəl",
+        "meaning": "quan trọng"
+    },
+    {
+        "word": "former",
+        "ipa": "ˈfɔːmə",
+        "meaning": "trước đây"
+    },
+    {
+        "word": "balanced",
+        "ipa": "ˈbælənst",
+        "meaning": "cân bằng"
+    },
+    {
+        "word": "long-distance",
+        "ipa": "ˈlɒŋˈdɪstəns",
+        "meaning": "khoảng cách xa"
+    },
+    {
+        "word": "perfect",
+        "ipa": "ˈpɜːfɪkt",
+        "meaning": "hoàn hảo"
+    },
+    {
+        "word": "effective",
+        "ipa": "ɪˈfɛktɪv",
+        "meaning": "có hiệu lực"
+    },
+    {
+        "word": "messy",
+        "ipa": "ˈmɛsi",
+        "meaning": "lộn xộn"
+    },
+    {
+        "word": "dear",
+        "ipa": "dɪə",
+        "meaning": "kính thưa"
+    },
+    {
+        "word": "self-confident",
+        "ipa": "sɛlf-ˈkɒnfɪdənt",
+        "meaning": "tự tin"
+    },
+    {
+        "word": "regional",
+        "ipa": "ˈriːʤənl",
+        "meaning": "khu vực"
+    },
+    {
+        "word": "curious",
+        "ipa": "ˈkjʊərɪəs",
+        "meaning": "Tò mò"
+    },
+    {
+        "word": "illegal",
+        "ipa": "ɪˈliːgəl",
+        "meaning": "bất hợp pháp"
+    },
+    {
+        "word": "motivated",
+        "ipa": "ˈməʊtɪveɪtɪd",
+        "meaning": "có động lực"
+    },
+    {
+        "word": "harmful",
+        "ipa": "ˈhɑːmfʊl",
+        "meaning": "có hại"
+    },
+    {
+        "word": "biological",
+        "ipa": "ˌbaɪəʊˈlɒʤɪkəl",
+        "meaning": "sinh học"
+    },
+    {
+        "word": "front",
+        "ipa": "frʌnt",
+        "meaning": "trước mặt"
+    },
+    {
+        "word": "oval",
+        "ipa": "ˈəʊvəl",
+        "meaning": "hình trái xoan"
+    },
+    {
+        "word": "formal",
+        "ipa": "ˈfɔːməl",
+        "meaning": "chính thức"
+    },
+    {
+        "word": "armed",
+        "ipa": "ɑːmd",
+        "meaning": "vũ trang"
+    },
+    {
+        "word": "local",
+        "ipa": "ˈləʊkəl",
+        "meaning": "địa phương"
+    },
+    {
+        "word": "peculiar",
+        "ipa": "pɪˈkjuːliə",
+        "meaning": "kỳ lạ"
+    },
+    {
+        "word": "communicative",
+        "ipa": "kəˈmjuːnɪkətɪv",
+        "meaning": "giao tiếp"
+    },
+    {
+        "word": "ripe",
+        "ipa": "raɪp",
+        "meaning": "chín"
+    },
+    {
+        "word": "lucky",
+        "ipa": "ˈlʌki",
+        "meaning": "may mắn"
+    },
+    {
+        "word": "environmentally friendly",
+        "ipa": "ɪnˌvaɪərənˈmɛntli ˈfrɛndli",
+        "meaning": "thân thiện với môi trường"
+    },
+    {
+        "word": "cruel",
+        "ipa": "krʊəl",
+        "meaning": "hung ác"
+    },
+    {
+        "word": "acceptable",
+        "ipa": "əkˈsɛptəbl",
+        "meaning": "chấp nhận được"
+    },
+    {
+        "word": "global",
+        "ipa": "ˈgləʊbəl",
+        "meaning": "toàn cầu"
+    },
+    {
+        "word": "atomic",
+        "ipa": "əˈtɒmɪk",
+        "meaning": "nguyên tử"
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "word": "in",
+        "ipa": "ɪn",
+        "meaning": "trong",
+        "tag": "Adv"
+    },
+    {
+        "word": "also",
+        "ipa": "ˈɔːlsəʊ",
+        "meaning": "cũng thế",
+        "tag": "Adv"
+    },
+    {
+        "word": "not",
+        "ipa": "nɒt",
+        "meaning": "không phải",
+        "tag": "Adv"
+    },
+    {
+        "word": "yesterday",
+        "ipa": "ˈjɛstədeɪ",
+        "meaning": "hôm qua",
+        "tag": "Adv"
+    },
+    {
+        "word": "on",
+        "ipa": "ɒn",
+        "meaning": "trên",
+        "tag": "Adv"
+    },
+    {
+        "word": "quite",
+        "ipa": "kwaɪt",
+        "meaning": "khá",
+        "tag": "Adv"
+    },
+    {
+        "word": "how",
+        "ipa": "haʊ",
+        "meaning": "làm sao",
+        "tag": "Adv"
+    },
+    {
+        "word": "no",
+        "ipa": "nəʊ",
+        "meaning": "Không",
+        "tag": "Adv"
+    },
+    {
+        "word": "down",
+        "ipa": "daʊn",
+        "meaning": "xuống",
+        "tag": "Adv"
+    },
+    {
+        "word": "certainly",
+        "ipa": "ˈsɜːtnli",
+        "meaning": "chắc chắn",
+        "tag": "Adv"
+    },
+    {
+        "word": "all",
+        "ipa": "ɔːl",
+        "meaning": "tất cả",
+        "tag": "Adv"
+    },
+    {
+        "word": "next",
+        "ipa": "nɛkst",
+        "meaning": "kế tiếp",
+        "tag": "Adv"
+    },
+    {
+        "word": "where",
+        "ipa": "weə",
+        "meaning": "Ở đâu",
+        "tag": "Adv"
+    },
+    {
+        "word": "else",
+        "ipa": "ɛls",
+        "meaning": "khác",
+        "tag": "Adv"
+    },
+    {
+        "word": "already",
+        "ipa": "ɔːlˈrɛdi",
+        "meaning": "đã sẵn sàng",
+        "tag": "Adv"
+    },
+    {
+        "word": "wrong",
+        "ipa": "rɒŋ",
+        "meaning": "Sai lầm",
+        "tag": "Adv"
+    },
+    {
+        "word": "exactly",
+        "ipa": "ɪgˈzæktli",
+        "meaning": "chính xác",
+        "tag": "Adv"
+    },
+    {
+        "word": "below",
+        "ipa": "bɪˈləʊ",
+        "meaning": "phía dưới",
+        "tag": "Adv"
+    },
+    {
+        "word": "badly",
+        "ipa": "ˈbædli",
+        "meaning": "tệ",
+        "tag": "Adv"
+    },
+    {
+        "word": "ago",
+        "ipa": "əˈgəʊ",
+        "meaning": "trước đây",
+        "tag": "Adv"
+    },
+    {
+        "word": "never",
+        "ipa": "ˈnɛvə",
+        "meaning": "không bao giờ",
+        "tag": "Adv"
+    },
+    {
+        "word": "when",
+        "ipa": "wɛn",
+        "meaning": "khi nào",
+        "tag": "Adv"
+    },
+    {
+        "word": "almost",
+        "ipa": "ˈɔːlməʊst",
+        "meaning": "hầu hết",
+        "tag": "Adv"
+    },
+    {
+        "word": "north",
+        "ipa": "nɔːθ",
+        "meaning": "Bắc",
+        "tag": "Adv"
+    },
+    {
+        "word": "why",
+        "ipa": "waɪ",
+        "meaning": "tại sao",
+        "tag": "Adv"
+    },
+    {
+        "word": "maybe",
+        "ipa": "ˈmeɪbiː",
+        "meaning": "có lẽ",
+        "tag": "Adv"
+    },
+    {
+        "word": "back",
+        "ipa": "bæk",
+        "meaning": "trở lại",
+        "tag": "Adv"
+    },
+    {
+        "word": "again",
+        "ipa": "əˈgɛn",
+        "meaning": "lần nữa",
+        "tag": "Adv"
+    },
+    {
+        "word": "west",
+        "ipa": "wɛst",
+        "meaning": "hướng Tây",
+        "tag": "Adv"
+    },
+    {
+        "word": "really",
+        "ipa": "ˈrɪəli",
+        "meaning": "có thật không",
+        "tag": "Adv"
+    },
+    {
+        "word": "here",
+        "ipa": "hɪə",
+        "meaning": "đây",
+        "tag": "Adv"
+    },
+    {
+        "word": "away",
+        "ipa": "əˈweɪ",
+        "meaning": "xa",
+        "tag": "Adv"
+    },
+    {
+        "word": "actually",
+        "ipa": "ˈækʧʊəli",
+        "meaning": "thực ra",
+        "tag": "Adv"
+    },
+    {
+        "word": "long",
+        "ipa": "lɒŋ",
+        "meaning": "Dài",
+        "tag": "Adv"
+    },
+    {
+        "word": "well",
+        "ipa": "wɛl",
+        "meaning": "tốt",
+        "tag": "Adv"
+    },
+    {
+        "word": "around",
+        "ipa": "əˈraʊnd",
+        "meaning": "xung quanh",
+        "tag": "Adv"
+    },
+    {
+        "word": "unfortunately",
+        "ipa": "ʌnˈfɔːʧnɪtli",
+        "meaning": "không may",
+        "tag": "Adv"
+    },
+    {
+        "word": "afterwards",
+        "ipa": "ˈɑːftəwədz",
+        "meaning": "sau đó",
+        "tag": "Adv"
+    },
+    {
+        "word": "late",
+        "ipa": "leɪt",
+        "meaning": "muộn",
+        "tag": "Adv"
+    },
+    {
+        "word": "up",
+        "ipa": "ʌp",
+        "meaning": "lên",
+        "tag": "Adv"
+    },
+    {
+        "word": "especially",
+        "ipa": "ɪsˈpɛʃəli",
+        "meaning": "đặc biệt",
+        "tag": "Adv"
+    },
+    {
+        "word": "anyway",
+        "ipa": "ˈɛnɪweɪ",
+        "meaning": "dù sao",
+        "tag": "Adv"
+    },
+    {
+        "word": "anywhere",
+        "ipa": "ˈɛnɪweə",
+        "meaning": "bất cứ nơi nào",
+        "tag": "Adv"
+    },
+    {
+        "word": "OK",
+        "ipa": "ˈəʊˈkeɪ",
+        "meaning": "đồng ý",
+        "tag": "Adv"
+    },
+    {
+        "word": "after",
+        "ipa": "ˈɑːftə",
+        "meaning": "sau",
+        "tag": "Adv"
+    },
+    {
+        "word": "just",
+        "ipa": "ʤʌst",
+        "meaning": "chỉ",
+        "tag": "Adv"
+    },
+    {
+        "word": "clearly",
+        "ipa": "ˈklɪəli",
+        "meaning": "thông suốt",
+        "tag": "Adv"
+    },
+    {
+        "word": "across",
+        "ipa": "əˈkrɒs",
+        "meaning": "băng qua",
+        "tag": "Adv"
+    },
+    {
+        "word": "yes",
+        "ipa": "jɛs",
+        "meaning": "Đúng",
+        "tag": "Adv"
+    },
+    {
+        "word": "about",
+        "ipa": "əˈbaʊt",
+        "meaning": "trong khoảng",
+        "tag": "Adv"
+    },
+    {
+        "word": "twice",
+        "ipa": "twaɪs",
+        "meaning": "hai lần",
+        "tag": "Adv"
+    },
+    {
+        "word": "above",
+        "ipa": "əˈbʌv",
+        "meaning": "ở trên",
+        "tag": "Adv"
+    },
+    {
+        "word": "usually",
+        "ipa": "ˈjuːʒʊəli",
+        "meaning": "thông thường",
+        "tag": "Adv"
+    },
+    {
+        "word": "instead",
+        "ipa": "ɪnˈstɛd",
+        "meaning": "thay thế",
+        "tag": "Adv"
+    },
+    {
+        "word": "too",
+        "ipa": "tuː",
+        "meaning": "quá",
+        "tag": "Adv"
+    },
+    {
+        "word": "quickly",
+        "ipa": "ˈkwɪkli",
+        "meaning": "Mau",
+        "tag": "Adv"
+    },
+    {
+        "word": "today",
+        "ipa": "təˈdeɪ",
+        "meaning": "hôm nay",
+        "tag": "Adv"
+    },
+    {
+        "word": "slowly",
+        "ipa": "ˈsləʊli",
+        "meaning": "chậm rãi",
+        "tag": "Adv"
+    },
+    {
+        "word": "however",
+        "ipa": "haʊˈɛvə",
+        "meaning": "Tuy nhiên",
+        "tag": "Adv"
+    },
+    {
+        "word": "tonight",
+        "ipa": "təˈnaɪt",
+        "meaning": "tối nay",
+        "tag": "Adv"
+    },
+    {
+        "word": "probably",
+        "ipa": "ˈprɒbəbli",
+        "meaning": "có lẽ",
+        "tag": "Adv"
+    },
+    {
+        "word": "home",
+        "ipa": "həʊm",
+        "meaning": "Trang Chủ",
+        "tag": "Adv"
+    },
+    {
+        "word": "there",
+        "ipa": "ðeə",
+        "meaning": "ở đó",
+        "tag": "Adv"
+    },
+    {
+        "word": "sure",
+        "ipa": "ʃʊə",
+        "meaning": "chắc chắn rồi",
+        "tag": "Adv"
+    },
+    {
+        "word": "tomorrow",
+        "ipa": "təˈmɒrəʊ",
+        "meaning": "Ngày mai",
+        "tag": "Adv"
+    },
+    {
+        "word": "possibly",
+        "ipa": "ˈpɒsəbli",
+        "meaning": "có khả năng",
+        "tag": "Adv"
+    },
+    {
+        "word": "nearly",
+        "ipa": "ˈnɪəli",
+        "meaning": "Gần",
+        "tag": "Adv"
+    },
+    {
+        "word": "immediately",
+        "ipa": "ɪˈmiːdiətli",
+        "meaning": "ngay",
+        "tag": "Adv"
+    },
+    {
+        "word": "hard",
+        "ipa": "hɑːd",
+        "meaning": "cứng",
+        "tag": "Adv"
+    },
+    {
+        "word": "then",
+        "ipa": "ðɛn",
+        "meaning": "sau đó",
+        "tag": "Adv"
+    },
+    {
+        "word": "finally",
+        "ipa": "ˈfaɪnəli",
+        "meaning": "cuối cùng",
+        "tag": "Adv"
+    },
+    {
+        "word": "first",
+        "ipa": "fɜːst",
+        "meaning": "Đầu tiên",
+        "tag": "Adv"
+    },
+    {
+        "word": "easily",
+        "ipa": "ˈiːzɪli",
+        "meaning": "dễ dàng",
+        "tag": "Adv"
+    },
+    {
+        "word": "daily",
+        "ipa": "ˈdeɪli",
+        "meaning": "hằng ngày",
+        "tag": "Adv"
+    },
+    {
+        "word": "fast",
+        "ipa": "fɑːst",
+        "meaning": "Nhanh",
+        "tag": "Adv"
+    },
+    {
+        "word": "straight",
+        "ipa": "streɪt",
+        "meaning": "thẳng",
+        "tag": "Adv"
+    },
+    {
+        "word": "later",
+        "ipa": "ˈleɪtə",
+        "meaning": "một lát sau",
+        "tag": "Adv"
+    },
+    {
+        "word": "ever",
+        "ipa": "ˈɛvə",
+        "meaning": "không bao giờ",
+        "tag": "Adv"
+    },
+    {
+        "word": "soon",
+        "ipa": "suːn",
+        "meaning": "Sớm",
+        "tag": "Adv"
+    },
+    {
+        "word": "far",
+        "ipa": "fɑː",
+        "meaning": "xa",
+        "tag": "Adv"
+    },
+    {
+        "word": "still",
+        "ipa": "stɪl",
+        "meaning": "vẫn",
+        "tag": "Adv"
+    },
+    {
+        "word": "better",
+        "ipa": "ˈbɛtə",
+        "meaning": "tốt hơn",
+        "tag": "Adv"
+    },
+    {
+        "word": "even",
+        "ipa": "ˈiːvən",
+        "meaning": "cũng",
+        "tag": "Adv"
+    },
+    {
+        "word": "somewhere",
+        "ipa": "ˈsʌmweə",
+        "meaning": "một vài nơi",
+        "tag": "Adv"
+    },
+    {
+        "word": "carefully",
+        "ipa": "ˈkeəfli",
+        "meaning": "cẩn thận",
+        "tag": "Adv"
+    },
+    {
+        "word": "everywhere",
+        "ipa": "ˈɛvrɪweə",
+        "meaning": "mọi nơi",
+        "tag": "Adv"
+    },
+    {
+        "word": "south",
+        "ipa": "saʊθ",
+        "meaning": "miền Nam",
+        "tag": "Adv"
+    },
+    {
+        "word": "off",
+        "ipa": "ɒf",
+        "meaning": "tắt",
+        "tag": "Adv"
+    },
+    {
+        "word": "enough",
+        "ipa": "ɪˈnʌf",
+        "meaning": "đủ",
+        "tag": "Adv"
+    },
+    {
+        "word": "sometimes",
+        "ipa": "ˈsʌmtaɪmz",
+        "meaning": "đôi khi",
+        "tag": "Adv"
+    },
+    {
+        "word": "online",
+        "ipa": "ˈɒnˌlaɪn",
+        "meaning": "Trực tuyến",
+        "tag": "Adv"
+    },
+    {
+        "word": "so",
+        "ipa": "səʊ",
+        "meaning": "vì thế",
+        "tag": "Adv"
+    },
+    {
+        "word": "round",
+        "ipa": "raʊnd",
+        "meaning": "tròn",
+        "tag": "Adv"
+    },
+    {
+        "word": "together",
+        "ipa": "təˈgɛðə",
+        "meaning": "cùng với nhau",
+        "tag": "Adv"
+    },
+    {
+        "word": "east",
+        "ipa": "iːst",
+        "meaning": "phía đông",
+        "tag": "Adv"
+    },
+    {
+        "word": "p.m.",
+        "ipa": "piː.ɛm.",
+        "meaning": "buổi chiều.",
+        "tag": "Adv"
+    },
+    {
+        "word": "free",
+        "ipa": "friː",
+        "meaning": "miễn phí",
+        "tag": "Adv"
+    },
+    {
+        "word": "early",
+        "ipa": "ˈɜːli",
+        "meaning": "sớm",
+        "tag": "Adv"
+    },
+    {
+        "word": "perhaps",
+        "ipa": "pəˈhæps",
+        "meaning": "có lẽ",
+        "tag": "Adv"
+    },
+    {
+        "word": "upstairs",
+        "ipa": "ˌʌpˈsteəz",
+        "meaning": "tầng trên",
+        "tag": "Adv"
+    },
+    {
+        "word": "out",
+        "ipa": "aʊt",
+        "meaning": "ngoài",
+        "tag": "Adv"
+    },
+    {
+        "word": "over",
+        "ipa": "ˈəʊvə",
+        "meaning": "kết thúc",
+        "tag": "Adv"
+    },
+    {
+        "word": "only",
+        "ipa": "ˈəʊnli",
+        "meaning": "chỉ có",
+        "tag": "Adv"
+    },
+    {
+        "word": "downstairs",
+        "ipa": "ˌdaʊnˈsteəz",
+        "meaning": "tầng dưới",
+        "tag": "Adv"
+    },
+    {
+        "word": "best",
+        "ipa": "bɛst",
+        "meaning": "tốt",
+        "tag": "Adv"
+    },
+    {
+        "word": "outside",
+        "ipa": "ˌaʊtˈsaɪd",
+        "meaning": "ở ngoài",
+        "tag": "Adv"
+    },
+    {
+        "word": "once",
+        "ipa": "wʌns",
+        "meaning": "Một lần",
+        "tag": "Adv"
+    },
+    {
+        "word": "right",
+        "ipa": "raɪt",
+        "meaning": "đúng",
+        "tag": "Adv"
+    },
+    {
+        "word": "before",
+        "ipa": "bɪˈfɔː",
+        "meaning": "trước",
+        "tag": "Adv"
+    },
+    {
+        "word": "anymore",
+        "ipa": "ˌɛniˈmɔː",
+        "meaning": "nữa không",
+        "tag": "Adv"
+    },
+    {
+        "word": "often",
+        "ipa": "ˈɒf(ə)n",
+        "meaning": "thường xuyên",
+        "tag": "Adv"
+    },
+    {
+        "word": "most",
+        "ipa": "məʊst",
+        "meaning": "phần lớn",
+        "tag": "Adv"
+    },
+    {
+        "word": "a.m.",
+        "ipa": "eɪ.ɛm.",
+        "meaning": "là.",
+        "tag": "Adv"
+    },
+    {
+        "word": "very",
+        "ipa": "ˈvɛri",
+        "meaning": "rất",
+        "tag": "Adv"
+    },
+    {
+        "word": "less",
+        "ipa": "lɛs",
+        "meaning": "ít hơn",
+        "tag": "Adv"
+    },
+    {
+        "word": "always",
+        "ipa": "ˈɔːlweɪz",
+        "meaning": "luôn luôn",
+        "tag": "Adv"
+    },
+    {
+        "word": "now",
+        "ipa": "naʊ",
+        "meaning": "hiện nay",
+        "tag": "Adv"
+    },
+    {
+        "word": "left",
+        "ipa": "lɛft",
+        "meaning": "trái",
+        "tag": "Adv"
+    },
+    {
+        "word": "yet",
+        "ipa": "jɛt",
+        "meaning": "chưa",
+        "tag": "Adv"
+    },
+    {
+        "word": "inside",
+        "ipa": "ɪnˈsaɪd",
+        "meaning": "phía trong",
+        "tag": "Adv"
+    }
+]

@@ -1,4 +1,8 @@
 [
+    {"id": 50, "position": 50, "name": "[Speaking] English Speaking Basic", "date": "21/08/2020", "by": "DongHo", "url": "/assets/data-eng-word/000-english-speaking-basic.json", "wShow": false, "eShow": true},
+    {"id": 51, "position": 51, "name": "[Speaking] Common English Expressions", "date": "21/08/2020", "by": "DongHo", "url": "/assets/data-eng-word/000-common-english-expressions.json", "wShow": false, "eShow": true},
+    {"id": 52, "position": 52, "name": "[Speaking] 100 Common Sentence Structures", "date": "21/08/2020", "by": "DongHo", "url": "/assets/data-eng-word/000-100-common-structures.json", "wShow": false, "eShow": true},
+    {"id": 53, "position": 53, "name": "[Speaking] Flowing English Presentations", "date": "21/08/2020", "by": "DongHo", "url": "/assets/data-eng-word/000-flowing-english-presentations.json", "wShow": false, "eShow": true},
     {"id": 100, "position": 100, "name": "Profile - Adverb - Lever A1 + A2", "date": "11/02/2020", "by": "DongHo", "url": "/assets/data-eng-word/000-Adv-Level-A.json", "wShow": true, "eShow": false},
     {"id": 101, "position": 101, "name": "Profile - Adverb - Lever B1 + B2", "date": "11/02/2020", "by": "DongHo", "url": "/assets/data-eng-word/000-Adv-Level-B.json", "wShow": true, "eShow": false},
     {"id": 102, "position": 102, "name": "Profile - Adverb - Lever C1 + C2", "date": "11/02/2020", "by": "DongHo", "url": "/assets/data-eng-word/000-Adv-Level-C.json", "wShow": true, "eShow": false},

@@ -1,0 +1,794 @@
+[
+    {
+        "word": "acceptance",
+        "type": "n",
+        "ipa": "əkˈsɛptəns",
+        "meaning": "sự chấp nhận",
+        "ex": "Now that you have shown your acceptance of our offer, I will prepare the contract for you to sign.",
+        "ipaExTrans": "naʊ ðæt juː hæv ʃəʊn jɔːr əkˈsɛptəns ɒv ˈaʊər ˈɒfə, aɪ wɪl prɪˈpeə ðə ˈkɒntrækt fɔː juː tuː saɪn.",
+        "exMeaning": "Bây giờ bạn đã thể hiện sự chấp nhận đề nghị của chúng tôi, tôi sẽ chuẩn bị hợp đồng để bạn ký."
+    },
+    {
+        "word": "agreement",
+        "type": "n",
+        "ipa": "əˈgriːmənt ",
+        "meaning": "hợp đồng",
+        "ex": "The two countries signed a trade agreement.",
+        "ipaExTrans": "ðə tuː ˈkʌntriz saɪnd ə treɪd əˈgriːmənt.",
+        "exMeaning": "Hai nước đã ký hiệp định thương mại."
+    },
+    {
+        "word": "amend",
+        "type": "v",
+        "ipa": "əˈmɛnd",
+        "meaning": "sửa đổi, hiệu chỉnh",
+        "ex": "Can we amend this part of the contract before we sign?",
+        "ipaExTrans": "kæn wiː əˈmɛnd ðɪs pɑːt ɒv ðə ˈkɒntrækt bɪˈfɔː wiː saɪn?",
+        "exMeaning": "Chúng tôi có thể sửa đổi phần này của hợp đồng trước khi chúng tôi ký không?"
+    },
+    {
+        "word": "amendment",
+        "type": "n",
+        "ipa": "əˈmɛndmənt ",
+        "meaning": "sự sửa đổi, sự hiệu chỉnh",
+        "ex": "I have made the amendments you wanted; would you like to sign it now?",
+        "ipaExTrans": "aɪ hæv meɪd ði əˈmɛndmənts juː ˈwɒntɪd; wʊd juː laɪk tuː saɪn ɪt naʊ?",
+        "exMeaning": "Tôi đã thực hiện các sửa đổi mà bạn muốn; bạn có muốn ký nó ngay bây giờ không?"
+    },
+    {
+        "word": "bind",
+        "type": "v",
+        "ipa": "baɪnd ",
+        "meaning": "buộc, bó buộc, ràng buộc",
+        "ex": "She cannot work for anyone else as she is bound by her contract.",
+        "ipaExTrans": "ʃiː ˈkænɒt wɜːk fɔːr ˈɛnɪwʌn ɛls æz ʃiː ɪz baʊnd baɪ hɜː ˈkɒntrækt.",
+        "exMeaning": "Cô ấy không thể làm việc cho bất kỳ ai khác vì cô ấy bị ràng buộc bởi hợp đồng của mình."
+    },
+    {
+        "word": "binding",
+        "type": "adj",
+        "ipa": "ˈbaɪndɪŋ ",
+        "meaning": "ràng buộc",
+        "ex": "The contract is legally binding.",
+        "ipaExTrans": "ðə ˈkɒntrækt ɪz ˈliːgəli ˈbaɪndɪŋ.",
+        "exMeaning": "Hợp đồng có giá trị pháp lý ràng buộc."
+    },
+    {
+        "word": "breach",
+        "type": "n,v",
+        "ipa": "briːʧ ",
+        "meaning": "sự vi phạm, vi phạm",
+        "ex": "If you raise the price, that will be a breach of our contract.",
+        "ipaExTrans": "ɪf juː reɪz ðə praɪs, ðæt wɪl biː ə briːʧ ɒv ˈaʊə ˈkɒntrækt.",
+        "exMeaning": "Nếu bạn tăng giá, điều đó sẽ vi phạm hợp đồng của chúng tôi."
+    },
+    {
+        "word": "clause",
+        "type": "n",
+        "ipa": "klɔːz ",
+        "meaning": "điều khoản",
+        "ex": "I want a clause put in the contract that says I will also get 5 percent of the profits.",
+        "ipaExTrans": "aɪ wɒnt ə klɔːz pʊt ɪn ðə ˈkɒntrækt ðæt sɛz aɪ wɪl ˈɔːlsəʊ gɛt 5 pəˈsɛnt ɒv ðə ˈprɒfɪts.",
+        "exMeaning": "Tôi muốn một điều khoản ghi trong hợp đồng nói rằng tôi cũng sẽ nhận được 5% lợi nhuận."
+    },
+    {
+        "word": "contractual",
+        "type": "adj",
+        "ipa": "kənˈtræktjʊəl ",
+        "meaning": "bằng hợp đồng",
+        "ex": "We have a contractual agreement.",
+        "ipaExTrans": "wiː hæv ə kənˈtræktjʊəl əˈgriːmənt.",
+        "exMeaning": "Chúng tôi có một thỏa thuận hợp đồng."
+    },
+    {
+        "word": "currently",
+        "type": "adv",
+        "ipa": "ˈkʌrəntli ",
+        "meaning": "hiện tại, hiện thời",
+        "ex": "We are currently tied to another contract, but that will end early next year.",
+        "ipaExTrans": "wiː ɑː ˈkʌrəntli taɪd tuː əˈnʌðə ˈkɒntrækt, bʌt ðæt wɪl ɛnd ˈɜːli nɛkst jɪə.",
+        "exMeaning": "Chúng tôi hiện đang ràng buộc với một hợp đồng khác, nhưng điều đó sẽ kết thúc vào đầu năm sau."
+    },
+    {
+        "word": "obligate",
+        "type": "v",
+        "ipa": "ˈɒblɪgeɪt ",
+        "meaning": "bắt buộc",
+        "ex": "You are obligated to buy our products for the next three years.",
+        "ipaExTrans": "juː ɑːr ˈɒblɪgeɪtɪd tuː baɪ ˈaʊə ˈprɒdʌkts fɔː ðə nɛkst θriː jɪəz.",
+        "exMeaning": "Bạn có nghĩa vụ mua sản phẩm của chúng tôi trong ba năm tới."
+    },
+    {
+        "word": "obligation",
+        "type": "n",
+        "ipa": "ˌɒblɪˈgeɪʃən ",
+        "meaning": "nghĩa vụ, bổn phận, trách nhiệm",
+        "ex": "According to the contract, you have an obligation to pay.",
+        "ipaExTrans": "əˈkɔːdɪŋ tuː ðə ˈkɒntrækt, juː hæv ən ˌɒblɪˈgeɪʃən tuː peɪ.",
+        "exMeaning": "Theo hợp đồng, bạn có nghĩa vụ thanh toán."
+    },
+    {
+        "word": "oblige",
+        "type": "v",
+        "ipa": "əˈblaɪʤ ",
+        "meaning": "bắt buộc, cưỡng chế",
+        "ex": "The law obliges people to pay tax.",
+        "ipaExTrans": "ðə lɔː əˈblaɪʤɪz ˈpiːpl tuː peɪ tæks.",
+        "exMeaning": "Luật bắt buộc mọi người phải nộp thuế."
+    },
+    {
+        "word": "party",
+        "type": "n",
+        "ipa": "ˈpɑːti ",
+        "meaning": "bên",
+        "ex": "Both parties need to sign the contract.",
+        "ipaExTrans": "bəʊθ ˈpɑːtiz niːd tuː saɪn ðə ˈkɒntrækt.",
+        "exMeaning": "Cả hai bên cần phải ký hợp đồng."
+    },
+    {
+        "word": "persuasion",
+        "type": "n",
+        "ipa": "pəˈsweɪʒən ",
+        "meaning": "sự thuyết phục",
+        "ex": "It took a lot of persuasion to get her to sign.",
+        "ipaExTrans": "ɪt tʊk ə lɒt ɒv pəˈsweɪʒən tuː gɛt hɜː tuː saɪn.",
+        "exMeaning": "Phải thuyết phục rất nhiều để cô ấy ký."
+    },
+    {
+        "word": "protect",
+        "type": "v",
+        "ipa": "prəˈtɛkt ",
+        "meaning": "bảo vệ",
+        "ex": "The contract protects us both from any misunderstandings later.",
+        "ipaExTrans": "ðə ˈkɒntrækt prəˈtɛkts ʌs bəʊθ frɒm ˈɛni ˌmɪsʌndəˈstændɪŋz ˈleɪtə.",
+        "exMeaning": "Hợp đồng bảo vệ cả hai chúng tôi khỏi mọi hiểu lầm sau này."
+    },
+    {
+        "word": "satisfy",
+        "type": "v",
+        "ipa": "ˈsætɪsfaɪ ",
+        "meaning": "làm thỏa mãn, đáp ứng, tuân thủ",
+        "ex": "You must satisfy the contract.",
+        "ipaExTrans": "juː mʌst ˈsætɪsfaɪ ðə ˈkɒntrækt.",
+        "exMeaning": "Bạn phải thỏa mãn hợp đồng."
+    },
+    {
+        "word": "sign",
+        "type": "v,n",
+        "ipa": "saɪn ",
+        "meaning": "ký, ký kết",
+        "ex": "We just need to sign the contract now.",
+        "ipaExTrans": "wiː ʤʌst niːd tuː saɪn ðə ˈkɒntrækt naʊ.",
+        "exMeaning": "Chúng tôi chỉ cần ký hợp đồng ngay bây giờ."
+    },
+    {
+        "word": "signature",
+        "type": "n",
+        "ipa": "ˈsɪgnɪʧə ",
+        "meaning": "chữ ký",
+        "ex": "Please put your signature at the bottom of the page.",
+        "ipaExTrans": "pliːz pʊt jɔː ˈsɪgnɪʧər æt ðə ˈbɒtəm ɒv ðə peɪʤ.",
+        "exMeaning": "Vui lòng đặt chữ ký của bạn ở cuối trang."
+    },
+    {
+        "word": "accommodate",
+        "type": "v",
+        "ipa": "əˈkɒmədeɪt ",
+        "meaning": "cung cấp, cung cấp chỗ ở",
+        "ex": "Can you accommodate us with a better offer?",
+        "ipaExTrans": "kæn juː əˈkɒmədeɪt ʌs wɪð ə ˈbɛtər ˈɒfə?",
+        "exMeaning": "Bạn có thể đáp ứng cho chúng tôi với một đề nghị tốt hơn?"
+    },
+    {
+        "word": "afford",
+        "type": "v",
+        "ipa": "əˈfɔːd ",
+        "meaning": "có đủ khả năng, cố gắng",
+        "ex": "I don’t think we can afford to hire a new employee until we get more clients.",
+        "ipaExTrans": "aɪ dəʊnt θɪŋk wiː kæn əˈfɔːd tuː ˈhaɪər ə njuː ˌɛmplɔɪˈiː ənˈtɪl wiː gɛt mɔː ˈklaɪənts.",
+        "exMeaning": "Tôi không nghĩ rằng chúng tôi có thể đủ khả năng để thuê một nhân viên mới cho đến khi chúng tôi có thêm khách hàng."
+    },
+    {
+        "word": "aggressive",
+        "type": "adj",
+        "ipa": "əˈgrɛsɪv ",
+        "meaning": "đẩy mạnh, tăng cường, xông xáo, mạnh dạn",
+        "ex": "New companies have to be arrgressive in promoting their products in order to break into the market.",
+        "ipaExTrans": "njuː ˈkʌmpəniz hæv tuː biː arrgressive ɪn prəˈməʊtɪŋ ðeə ˈprɒdʌkts ɪn ˈɔːdə tuː breɪk ˈɪntuː ðə ˈmɑːkɪt.",
+        "exMeaning": "Các công ty mới phải mạnh dạn quảng bá sản phẩm của họ để thâm nhập thị trường."
+    },
+    {
+        "word": "apprehensive",
+        "type": "adj",
+        "ipa": "ˌæprɪˈhɛnsɪv ",
+        "meaning": "lo lắng, lo âu, e ngại",
+        "ex": "Leslie was a little apprehensive about being in charge of her first project, but she performed well .",
+        "ipaExTrans": "ˈlɛsliː wɒz ə ˈlɪtl ˌæprɪˈhɛnsɪv əˈbaʊt ˈbiːɪŋ ɪn ʧɑːʤ ɒv hɜː fɜːst ˈprɒʤɛkt, bʌt ʃiː pəˈfɔːmd wɛl .",
+        "exMeaning": "Leslie có chút e ngại khi chịu trách nhiệm cho dự án đầu tiên của mình, nhưng cô ấy đã thể hiện rất tốt."
+    },
+    {
+        "word": "bargain",
+        "type": "v,n",
+        "ipa": "ˈbɑːgɪn ",
+        "meaning": "thương lượng, trả giá, sực mặc cả",
+        "ex": "They are bargaining over the price right now.",
+        "ipaExTrans": "ðeɪ ɑː ˈbɑːgɪnɪŋ ˈəʊvə ðə praɪs raɪt naʊ.",
+        "exMeaning": "Họ đang mặc cả về giá cả ngay bây giờ."
+    },
+    {
+        "word": "compromise",
+        "type": "n,v",
+        "ipa": "ˈkɒmprəmaɪz ",
+        "meaning": "nhất trí, thống nhất",
+        "ex": "The two sides could not reach a compromise, so the meeting ended without resolving anything .",
+        "ipaExTrans": "ðə tuː saɪdz kʊd nɒt riːʧ ə ˈkɒmprəmaɪz, səʊ ðə ˈmiːtɪŋ ˈɛndɪd wɪˈðaʊt rɪˈzɒlvɪŋ ˈɛnɪθɪŋ .",
+        "exMeaning": "Hai bên không thỏa hiệp được nên cuộc họp kết thúc mà không giải quyết được gì."
+    },
+    {
+        "word": "concede",
+        "type": "v",
+        "ipa": "kənˈsiːd ",
+        "meaning": "thừa nhận, nhượng bộ",
+        "ex": "After five years, the company had to concede that the project had been a failure.",
+        "ipaExTrans": "ˈɑːftə faɪv jɪəz, ðə ˈkʌmpəni hæd tuː kənˈsiːd ðæt ðə ˈprɒʤɛkt hæd biːn ə ˈfeɪljə.",
+        "exMeaning": "Sau năm năm, công ty phải thừa nhận rằng dự án đã thất bại."
+    },
+    {
+        "word": "consider",
+        "type": "v",
+        "ipa": "kənˈsɪdə ",
+        "meaning": "xem xét",
+        "ex": "Would you consider lowering the price ?",
+        "ipaExTrans": "wʊd juː kənˈsɪdə ˈlaʊərɪŋ ðə praɪs ?",
+        "exMeaning": "Bạn có cân nhắc giảm giá không?"
+    },
+    {
+        "word": "delicately",
+        "type": "adv",
+        "ipa": "ˈdɛlɪkɪtli ",
+        "meaning": "một cách tế nhị",
+        "ex": "Grant delicately asked Jan about her divorce because he knew it was a sensitive subject.",
+        "ipaExTrans": "grɑːnt ˈdɛlɪkɪtli ɑːskt ʤæn əˈbaʊt hɜː dɪˈvɔːs bɪˈkɒz hiː njuː ɪt wɒz ə ˈsɛnsɪtɪv ˈsʌbʤɪkt.",
+        "exMeaning": "Grant tế nhị hỏi Jan về việc ly hôn của cô vì anh biết đó là một chủ đề nhạy cảm."
+    },
+    {
+        "word": "offer",
+        "type": "n,v",
+        "ipa": "ˈɒfə ",
+        "meaning": "đề nghị, lời đề nghị",
+        "ex": "Is that your final offer? I was hoping you might lower the price more than that.",
+        "ipaExTrans": "ɪz ðæt jɔː ˈfaɪnl ˈɒfə? aɪ wɒz ˈhəʊpɪŋ juː maɪt ˈləʊə ðə praɪs mɔː ðæn ðæt.",
+        "exMeaning": "Đó có phải là đề nghị cuối cùng của bạn không? Tôi đã hy vọng bạn có thể giảm giá nhiều hơn thế."
+    },
+    {
+        "word": "offet",
+        "type": "v",
+        "ipa": "offet ",
+        "meaning": "bù cho, bù đắp (thiệt hại)",
+        "ex": "The losses incurred by the luxury car division in the last quarter were offset by the increase in the sales of compacts.",
+        "ipaExTrans": "ðə ˈlɒsɪz ɪnˈkɜːd baɪ ðə ˈlʌkʃəri kɑː dɪˈvɪʒən ɪn ðə lɑːst ˈkwɔːtə wɜːr ˈɒfsɛt baɪ ði ˈɪnkriːs ɪn ðə seɪlz ɒv ˈkɒmpækts.",
+        "exMeaning": "Khoản lỗ của mảng xe sang trong quý vừa qua được bù đắp bằng việc doanh số bán xe compact tăng."
+    },
+    {
+        "word": "strong",
+        "type": "adj",
+        "ipa": "strɒŋ ",
+        "meaning": "mạnh",
+        "ex": "They have a very strong position in the negotiations.",
+        "ipaExTrans": "ðeɪ hæv ə ˈvɛri strɒŋ pəˈzɪʃən ɪn ðə nɪˌgəʊʃɪˈeɪʃənz.",
+        "exMeaning": "Họ có một vị trí rất vững chắc trong các cuộc đàm phán."
+    },
+    {
+        "word": "commercial",
+        "type": "n, adj",
+        "ipa": "kəˈmɜːʃəl ",
+        "meaning": "thuộc về thương mại; buổi phát thanh, phát hình quảng cáo",
+        "ex": "Our new commercial will be shown on TV tonight.",
+        "ipaExTrans": "ˈaʊə njuː kəˈmɜːʃəl wɪl biː ʃəʊn ɒn ˌtiːˈviː təˈnaɪt.",
+        "exMeaning": "Quảng cáo mới của chúng tôi sẽ được chiếu trên TV vào tối nay."
+    },
+    {
+        "word": "compare",
+        "type": "v",
+        "ipa": "kəmˈpeə ",
+        "meaning": "so sánh",
+        "ex": "Customers will always compare your product with those of other companies.",
+        "ipaExTrans": "ˈkʌstəməz wɪl ˈɔːlweɪz kəmˈpeə jɔː ˈprɒdʌkt wɪð ðəʊz ɒv ˈʌðə ˈkʌmpəniz.",
+        "exMeaning": "Khách hàng sẽ luôn so sánh sản phẩm của bạn với sản phẩm của các công ty khác."
+    },
+    {
+        "word": "consume",
+        "type": "v",
+        "ipa": "kənˈsjuːm ",
+        "meaning": "tiêu thụ, tiêu dùng",
+        "ex": "What kind of people consume our services?",
+        "ipaExTrans": "wɒt kaɪnd ɒv ˈpiːpl kənˈsjuːm ˈaʊə ˈsɜːvɪsɪz?",
+        "exMeaning": "Loại người nào sử dụng dịch vụ của chúng tôi?"
+    },
+    {
+        "word": "direct marketing",
+        "type": "n",
+        "ipa": "dɪˈrɛkt ˈmɑːkɪtɪŋ",
+        "meaning": "tiếp thị trực tiếp",
+        "ex": "Using direct marketing, we were able to advertise our products to the people most likely to buy them.",
+        "ipaExTrans": "ˈjuːzɪŋ dɪˈrɛkt ˈmɑːkɪtɪŋ, wiː wɜːr ˈeɪbl tuː ˈædvətaɪz ˈaʊə ˈprɒdʌkts tuː ðə ˈpiːpl məʊst ˈlaɪkli tuː baɪ ðɛm.",
+        "exMeaning": "Sử dụng tiếp thị trực tiếp, chúng tôi có thể quảng cáo sản phẩm của mình cho những người có nhiều khả năng mua chúng nhất."
+    },
+    {
+        "word": "direct-response",
+        "type": "adj",
+        "ipa": "dɪˈrɛkt-rɪsˈpɒns",
+        "meaning": "trả lời trực tiếp",
+        "ex": "Direct-response advertising is very popular on the internet.",
+        "ipaExTrans": "dɪˈrɛkt-rɪsˈpɒns ˈædvətaɪzɪŋ ɪz ˈvɛri ˈpɒpjʊlər ɒn ði ˈɪntəˌnɛt.",
+        "exMeaning": "Quảng cáo phản hồi trực tiếp rất phổ biến trên internet."
+    },
+    {
+        "word": "distribution",
+        "type": "n",
+        "ipa": "ˌdɪstrɪˈbjuːʃən ",
+        "meaning": "sự phân phối",
+        "ex": "We are planing for global distribution of our product.",
+        "ipaExTrans": "wiː ɑː ˈpleɪnɪŋ fɔː ˈgləʊbəl ˌdɪstrɪˈbjuːʃən ɒv ˈaʊə ˈprɒdʌkt.",
+        "exMeaning": "Chúng tôi đang lên kế hoạch cho việc phân phối toàn cầu sản phẩm của mình."
+    },
+    {
+        "word": "distributor",
+        "type": "n",
+        "ipa": "dɪsˈtrɪbjʊtə ",
+        "meaning": "nhà phân phối, đại lý",
+        "ex": "Contact the distributor and find out where we can buy this product.",
+        "ipaExTrans": "ˈkɒntækt ðə dɪsˈtrɪbjʊtər ænd faɪnd aʊt weə wiː kæn baɪ ðɪs ˈprɒdʌkt.",
+        "exMeaning": "Liên hệ với nhà phân phối và tìm nơi chúng tôi có thể mua sản phẩm này."
+    },
+    {
+        "word": "fair trade",
+        "type": "n",
+        "ipa": "feə treɪd",
+        "meaning": "hội chợ thương mại",
+        "ex": "We buy our coffe directly from the farmer in Brazil, as we believe in fair-trade.",
+        "ipaExTrans": "wiː baɪ ˈaʊə coffe dɪˈrɛktli frɒm ðə ˈfɑːmər ɪn brəˈzɪl, æz wiː bɪˈliːv ɪn feə-treɪd.",
+        "exMeaning": "Chúng tôi mua cà phê trực tiếp từ nông dân ở Brazil vì chúng tôi tin tưởng vào thương mại công bằng."
+    },
+    {
+        "word": "hook",
+        "type": "n",
+        "ipa": "hʊk ",
+        "meaning": "cách, phương pháp",
+        "ex": "The marketing hook for the movie The Blair Witch Project was making people believe that what happened was real and not acted.",
+        "ipaExTrans": "ðə ˈmɑːkɪtɪŋ hʊk fɔː ðə ˈmuːvi ðə bleə wɪʧ ˈprɒʤɛkt wɒz ˈmeɪkɪŋ ˈpiːpl bɪˈliːv ðæt wɒt ˈhæpənd wɒz rɪəl ænd nɒt ˈæktɪd.",
+        "exMeaning": "Móc tiếp thị cho bộ phim The Blair Witch Project là khiến mọi người tin rằng những gì đã xảy ra là có thật chứ không phải là hành động."
+    },
+    {
+        "word": "market",
+        "type": "v,n",
+        "ipa": "ˈmɑːkɪt ",
+        "meaning": "tiếp thị, chợ",
+        "ex": "They are marketing their product toward young females.",
+        "ipaExTrans": "ðeɪ ɑː ˈmɑːkɪtɪŋ ðeə ˈprɒdʌkt təˈwɔːd jʌŋ ˈfiːmeɪlz.",
+        "exMeaning": "Họ đang tiếp thị sản phẩm của mình cho phụ nữ trẻ."
+    },
+    {
+        "word": "merchandising",
+        "type": "n",
+        "ipa": "ˈmɜːʧəndaɪzɪŋ ",
+        "meaning": "hoạt động bán hàng",
+        "ex": "One kind of merchandising is to use popular movies to help sell food.",
+        "ipaExTrans": "wʌn kaɪnd ɒv ˈmɜːʧəndaɪzɪŋ ɪz tuː juːz ˈpɒpjʊlə ˈmuːviz tuː hɛlp sɛl fuːd.",
+        "exMeaning": "Một loại hàng hóa là sử dụng các bộ phim nổi tiếng để giúp bán thực phẩm."
+    },
+    {
+        "word": "primarily",
+        "type": "adv",
+        "ipa": "ˈpraɪmərɪli ",
+        "meaning": "chính yếu, chủ yếu",
+        "ex": "Our customers are primarily women, but many men also buy our products.",
+        "ipaExTrans": "ˈaʊə ˈkʌstəməz ɑː ˈpraɪmərɪli ˈwɪmɪn, bʌt ˈmɛni mɛn ˈɔːlsəʊ baɪ ˈaʊə ˈprɒdʌkts.",
+        "exMeaning": "Khách hàng của chúng tôi chủ yếu là phụ nữ, nhưng nhiều nam giới cũng mua sản phẩm của chúng tôi."
+    },
+    {
+        "word": "reputation",
+        "type": "n",
+        "ipa": "ˌrɛpju(ː)ˈteɪʃən ",
+        "meaning": "danh tiếng",
+        "ex": "Customers will trust a company with a good reputation.",
+        "ipaExTrans": "ˈkʌstəməz wɪl trʌst ə ˈkʌmpəni wɪð ə gʊd ˌrɛpju(ː)ˈteɪʃən.",
+        "exMeaning": "Khách hàng sẽ tin tưởng một công ty có danh tiếng tốt."
+    },
+    {
+        "word": "satisfaction",
+        "type": "n",
+        "ipa": "ˌsætɪsˈfækʃən ",
+        "meaning": "sự thỏa mãn, sự hài lòng",
+        "ex": "Customer satisfaction is very important.",
+        "ipaExTrans": "ˈkʌstəmə ˌsætɪsˈfækʃən ɪz ˈvɛri ɪmˈpɔːtənt.",
+        "exMeaning": "Sự hài lòng của khách hàng là rất quan trọng."
+    },
+    {
+        "word": "strategy",
+        "type": "n",
+        "ipa": "ˈstrætɪʤi ",
+        "meaning": "chiến lược, kế hoạch",
+        "ex": "We need to think very carefully about our marketing strategy for this product .",
+        "ipaExTrans": "wiː niːd tuː θɪŋk ˈvɛri ˈkeəfli əˈbaʊt ˈaʊə ˈmɑːkɪtɪŋ ˈstrætɪʤi fɔː ðɪs ˈprɒdʌkt .",
+        "exMeaning": "Chúng tôi cần suy nghĩ rất kỹ về chiến lược tiếp thị của mình cho sản phẩm này."
+    },
+    {
+        "word": "assurance",
+        "type": "n",
+        "ipa": "əˈʃʊərəns ",
+        "meaning": "sự bảo đảm",
+        "ex": "The salesman gave this assurance that the price would not go up.",
+        "ipaExTrans": "ðə ˈseɪlzmən geɪv ðɪs əˈʃʊərəns ðæt ðə praɪs wʊd nɒt gəʊ ʌp.",
+        "exMeaning": "Người bán hàng đảm bảo rằng giá sẽ không tăng."
+    },
+    {
+        "word": "auction",
+        "type": "n",
+        "ipa": "ˈɔːkʃ(ə)n ",
+        "meaning": "buổi đấu giá",
+        "ex": "Sotheby’s announced that they would be selling a Monet painting in the May auction.",
+        "ipaExTrans": "Sotheby's əˈnaʊnst ðæt ðeɪ wʊd biː ˈsɛlɪŋ ə ˈmɒneɪ ˈpeɪntɪŋ ɪn ðə meɪ ˈɔːkʃ(ə)n.",
+        "exMeaning": "Sotheby’s thông báo rằng họ sẽ bán một bức tranh của Monet trong cuộc đấu giá vào tháng Năm."
+    },
+    {
+        "word": "avoid",
+        "type": "v",
+        "ipa": "əˈvɔɪd ",
+        "meaning": "tránh",
+        "ex": "Try to avoid talking about the price until the very end .",
+        "ipaExTrans": "traɪ tuː əˈvɔɪd ˈtɔːkɪŋ əˈbaʊt ðə praɪs ənˈtɪl ðə ˈvɛri ɛnd .",
+        "exMeaning": "Cố gắng tránh nói về giá cả cho đến khi kết thúc."
+    },
+    {
+        "word": "boom",
+        "type": "v,n",
+        "ipa": "buːm ",
+        "meaning": "phát triển thịnh vượng, tiếng nổ lớn",
+        "ex": "During the 90s, the U.S. economy boomed in large part because of the expansion of the Internet.",
+        "ipaExTrans": "ˈdjʊərɪŋ ðiː 90ɛs, ðə juː.ɛs. i(ː)ˈkɒnəmi buːmd ɪn lɑːʤ pɑːt bɪˈkɒz ɒv ði ɪksˈpænʃən ɒv ði ˈɪntəˌnɛt.",
+        "exMeaning": "Trong những năm 90, nền kinh tế Hoa Kỳ bùng nổ một phần lớn là do sự mở rộng của Internet."
+    },
+    {
+        "word": "characteristic",
+        "type": "n",
+        "ipa": "ˌkærɪktəˈrɪstɪk ",
+        "meaning": "đặc điểm, đặc tính",
+        "ex": "Explain the characteristics of the product to the customer.",
+        "ipaExTrans": "ɪksˈpleɪn ðə ˌkærɪktəˈrɪstɪks ɒv ðə ˈprɒdʌkt tuː ðə ˈkʌstəmə.",
+        "exMeaning": "Giải thích các đặc tính của sản phẩm cho khách hàng."
+    },
+    {
+        "word": "convince",
+        "type": "v",
+        "ipa": "kənˈvɪns ",
+        "meaning": "thuyết phục",
+        "ex": "You must convince the customer that your product is what he or she wants.",
+        "ipaExTrans": "juː mʌst kənˈvɪns ðə ˈkʌstəmə ðæt jɔː ˈprɒdʌkt ɪz wɒt hiː ɔː ʃiː wɒnts.",
+        "exMeaning": "Bạn phải thuyết phục khách hàng rằng sản phẩm của bạn là những gì họ muốn."
+    },
+    {
+        "word": "demonstrate",
+        "type": "v",
+        "ipa": "ˈdɛmənstreɪt ",
+        "meaning": "chứng minh, mô tả",
+        "ex": "Customers are more likely to buy if you demonstrate the product for them.",
+        "ipaExTrans": "ˈkʌstəməz ɑː mɔː ˈlaɪkli tuː baɪ ɪf juː ˈdɛmənstreɪt ðə ˈprɒdʌkt fɔː ðɛm.",
+        "exMeaning": "Khách hàng có nhiều khả năng mua hơn nếu bạn giới thiệu sản phẩm cho họ."
+    },
+    {
+        "word": "evaluate",
+        "type": "v",
+        "ipa": "ɪˈvæljʊeɪt ",
+        "meaning": "đánh giá",
+        "ex": "It will help you make the sale if you first evaluate the mood of the customer.",
+        "ipaExTrans": "ɪt wɪl hɛlp juː meɪk ðə seɪl ɪf juː fɜːst ɪˈvæljʊeɪt ðə muːd ɒv ðə ˈkʌstəmə.",
+        "exMeaning": "Nó sẽ giúp bạn bán được hàng nếu bạn đánh giá tâm trạng của khách hàng trước."
+    },
+    {
+        "word": "legitimate",
+        "type": "adj",
+        "ipa": "lɪˈʤɪtɪmɪt ",
+        "meaning": "hợp pháp, chính thống",
+        "ex": "Criminals with exess money often invest in legitimate businesses.",
+        "ipaExTrans": "ˈkrɪmɪnlz wɪð ˈɛksɪzɪz ˈmʌni ˈɒf(ə)n ɪnˈvɛst ɪn lɪˈʤɪtɪmɪt ˈbɪznɪsɪz.",
+        "exMeaning": "Tội phạm thừa tiền thường đầu tư vào các doanh nghiệp hợp pháp."
+    },
+    {
+        "word": "promise",
+        "type": "v,n",
+        "ipa": "ˈprɒmɪs ",
+        "meaning": "hứa, cam đoan, lời hứa",
+        "ex": "Never promise the customer anything!",
+        "ipaExTrans": "ˈnɛvə ˈprɒmɪs ðə ˈkʌstəmər ˈɛnɪθɪŋ!",
+        "exMeaning": "Đừng bao giờ hứa với khách hàng bất cứ điều gì!"
+    },
+    {
+        "word": "specific",
+        "type": "adj",
+        "ipa": "spɪˈsɪfɪk ",
+        "meaning": "riêng, đặc trưng, cụ thể",
+        "ex": "Every customer has a specific need.",
+        "ipaExTrans": "ˈɛvri ˈkʌstəmə hæz ə spɪˈsɪfɪk niːd.",
+        "exMeaning": "Mỗi khách hàng có một nhu cầu cụ thể."
+    },
+    {
+        "word": "variety",
+        "type": "n",
+        "ipa": "vəˈraɪəti ",
+        "meaning": "sự đa dạng",
+        "ex": "We have a variety of products that would suit you.",
+        "ipaExTrans": "wiː hæv ə vəˈraɪəti ɒv ˈprɒdʌkts ðæt wʊd sjuːt juː.",
+        "exMeaning": "Chúng tôi có nhiều loại sản phẩm phù hợp với bạn."
+    },
+    {
+        "word": "address",
+        "type": "v",
+        "ipa": "əˈdrɛs",
+        "meaning": "diễn thuyết với",
+        "ex": "The speaker addressed the audience.",
+        "ipaExTrans": "ðə ˈspiːkər əˈdrɛst ði ˈɔːdiəns.",
+        "exMeaning": "Người nói phát biểu trước thính giả."
+    },
+    {
+        "word": "affiliate",
+        "type": "n",
+        "ipa": "əˈfɪlɪeɪt ",
+        "meaning": "công ty con",
+        "ex": "The organization is an affiliate of the Red Cross.",
+        "ipaExTrans": "ði ˌɔːgənaɪˈzeɪʃən ɪz ən əˈfɪlɪeɪt ɒv ðə rɛd krɒs.",
+        "exMeaning": "Tổ chức là một chi nhánh của Hội Chữ thập đỏ."
+    },
+    {
+        "word": "attend",
+        "type": "v",
+        "ipa": "əˈtɛnd ",
+        "meaning": "tham dự",
+        "ex": "Five hundred businesspeople attended the conference.",
+        "ipaExTrans": "faɪv ˈhʌndrəd businesspeople əˈtɛndɪd ðə ˈkɒnfərəns.",
+        "exMeaning": "Năm trăm doanh nhân tham dự hội nghị."
+    },
+    {
+        "word": "attract",
+        "type": "v",
+        "ipa": "əˈtrækt ",
+        "meaning": "thu hút",
+        "ex": "The conference attracted businesspeople from all over the world .",
+        "ipaExTrans": "ðə ˈkɒnfərəns əˈtræktɪd businesspeople frɒm ɔːl ˈəʊvə ðə wɜːld .",
+        "exMeaning": "Hội nghị đã thu hút các doanh nhân từ khắp nơi trên thế giới."
+    },
+    {
+        "word": "cancellation",
+        "type": "n",
+        "ipa": "ˌkænsəˈleɪʃən ",
+        "meaning": "sự hủy bỏ",
+        "ex": "We are sorry to inform you of the cancellation of the conference.",
+        "ipaExTrans": "wiː ɑː ˈsɒri tuː ɪnˈfɔːm juː ɒv ðə ˌkænsəˈleɪʃən ɒv ðə ˈkɒnfərəns.",
+        "exMeaning": "Chúng tôi rất tiếc phải thông báo với bạn về việc hủy bỏ hội nghị."
+    },
+    {
+        "word": "gather",
+        "type": "v",
+        "ipa": "ˈgæðə ",
+        "meaning": "tập trung, tụ họp",
+        "ex": "Thousands of managers are gathering in Taipei for the trade fair.",
+        "ipaExTrans": "ˈθaʊzəndz ɒv ˈmænɪʤəz ɑː ˈgæðərɪŋ ɪn ˈtaɪˈpeɪ fɔː ðə treɪd feə.",
+        "exMeaning": "Hàng nghìn nhà quản lý đang tập trung tại Đài Bắc cho hội chợ thương mại."
+    },
+    {
+        "word": "hold",
+        "type": "v",
+        "ipa": "həʊld ",
+        "meaning": "tổ chức",
+        "ex": "The meeting was held in Taipei.",
+        "ipaExTrans": "ðə ˈmiːtɪŋ wɒz hɛld ɪn ˈtaɪˈpeɪ.",
+        "exMeaning": "Cuộc họp được tổ chức tại Đài Bắc."
+    },
+    {
+        "word": "location",
+        "type": "n",
+        "ipa": "ləʊˈkeɪʃən ",
+        "meaning": "địa điểm",
+        "ex": "We need to find a good location for the convention.",
+        "ipaExTrans": "wiː niːd tuː faɪnd ə gʊd ləʊˈkeɪʃən fɔː ðə kənˈvɛnʃən.",
+        "exMeaning": "Chúng tôi cần tìm một địa điểm tốt cho đại hội."
+    },
+    {
+        "word": "productive",
+        "type": "adj",
+        "ipa": "prəˈdʌktɪv ",
+        "meaning": "đạt năng suất, hiệu quả",
+        "ex": "I thought the discussion was very productive.",
+        "ipaExTrans": "aɪ θɔːt ðə dɪsˈkʌʃən wɒz ˈvɛri prəˈdʌktɪv.",
+        "exMeaning": "Tôi nghĩ rằng cuộc thảo luận rất hiệu quả."
+    },
+    {
+        "word": "session",
+        "type": "n",
+        "ipa": "ˈsɛʃən ",
+        "meaning": "buổi, phiên, phiên họp",
+        "ex": "The presentation will be given in two sessions: one in the morning, and the other in the afternoon.",
+        "ipaExTrans": "ðə ˌprɛzɛnˈteɪʃən wɪl biː ˈgɪvn ɪn tuː ˈsɛʃənz: wʌn ɪn ðə ˈmɔːnɪŋ, ænd ði ˈʌðər ɪn ði ˈɑːftəˈnuːn.",
+        "exMeaning": "Bài thuyết trình sẽ được trình bày trong hai phiên: một vào buổi sáng và một vào buổi chiều."
+    },
+    {
+        "word": "arrangement",
+        "type": "n",
+        "ipa": "əˈreɪnʤmənt ",
+        "meaning": "sự sắp xếp, sự giao kèo",
+        "ex": "We have a special arrangement with the supplier, so we don't have to pay immediately.",
+        "ipaExTrans": "wiː hæv ə ˈspɛʃəl əˈreɪnʤmənt wɪð ðə səˈplaɪə, səʊ wiː dəʊnt hæv tuː peɪ ɪˈmiːdiətli.",
+        "exMeaning": "Chúng tôi có một thỏa thuận đặc biệt với nhà cung cấp, vì vậy chúng tôi không phải thanh toán ngay lập tức."
+    },
+    {
+        "word": "competition",
+        "type": "n",
+        "ipa": "ˌkɒmpɪˈtɪʃən ",
+        "meaning": "sự cạnh tranh",
+        "ex": "It is important to know who your competition will be .",
+        "ipaExTrans": "ɪt ɪz ɪmˈpɔːtənt tuː nəʊ huː jɔː ˌkɒmpɪˈtɪʃən wɪl biː .",
+        "exMeaning": "Điều quan trọng là phải biết đối thủ cạnh tranh của bạn sẽ là ai."
+    },
+    {
+        "word": "consequence",
+        "type": "n",
+        "ipa": "ˈkɒnsɪkwəns ",
+        "meaning": "hậu quả, kết quả",
+        "ex": "The consequence of not planning well is a business that does badly .",
+        "ipaExTrans": "ðə ˈkɒnsɪkwəns ɒv nɒt ˈplænɪŋ wɛl ɪz ə ˈbɪznɪs ðæt dʌz ˈbædli .",
+        "exMeaning": "Hệ quả của việc lập kế hoạch không tốt là một doanh nghiệp làm ăn tệ hại."
+    },
+    {
+        "word": "cover",
+        "type": "v",
+        "ipa": "ˈkʌvə ",
+        "meaning": "bao gồm, bao hàm",
+        "ex": "A good business plan should cover everything.",
+        "ipaExTrans": "ə gʊd ˈbɪznɪs plæn ʃʊd ˈkʌvər ˈɛvrɪθɪŋ.",
+        "exMeaning": "Một kế hoạch kinh doanh tốt nên bao gồm tất cả mọi thứ."
+    },
+    {
+        "word": "designate",
+        "type": "v",
+        "ipa": "ˈdɛzɪgnɪt ",
+        "meaning": "bổ nhiệm, chỉ định",
+        "ex": "We voted last night, and designated Tom the spokesman for our group .",
+        "ipaExTrans": "wiː ˈvəʊtɪd lɑːst naɪt, ænd ˈdɛzɪgneɪtɪd tɒm ðə ˈspəʊksmən fɔːr ˈaʊə gruːp .",
+        "exMeaning": "Chúng tôi đã bỏ phiếu vào tối qua và chỉ định Tom là người phát ngôn cho nhóm của chúng tôi."
+    },
+    {
+        "word": "determine",
+        "type": "v",
+        "ipa": "dɪˈtɜːmɪn ",
+        "meaning": "quyết định",
+        "ex": "We have determined both our market and price.",
+        "ipaExTrans": "wiː hæv dɪˈtɜːmɪnd bəʊθ ˈaʊə ˈmɑːkɪt ænd praɪs.",
+        "exMeaning": "Chúng tôi đã xác định cả thị trường và giá cả của chúng tôi."
+    },
+    {
+        "word": "develop",
+        "type": "v",
+        "ipa": "dɪˈvɛləp ",
+        "meaning": "phát triển",
+        "ex": "We need to develop a strong sales team.",
+        "ipaExTrans": "wiː niːd tuː dɪˈvɛləp ə strɒŋ seɪlz tiːm.",
+        "exMeaning": "Chúng tôi cần phát triển một đội ngũ bán hàng mạnh mẽ."
+    },
+    {
+        "word": "downsize",
+        "type": "v",
+        "ipa": "ˈdaʊnsaɪz ",
+        "meaning": "cắt giảm nhân công",
+        "ex": "With the economy having problems , a lot of companies have been forced to downsize to stay competitive .",
+        "ipaExTrans": "wɪð ði i(ː)ˈkɒnəmi ˈhævɪŋ ˈprɒbləmz , ə lɒt ɒv ˈkʌmpəniz hæv biːn fɔːst tuː ˈdaʊnsaɪz tuː steɪ kəmˈpɛtɪtɪv .",
+        "exMeaning": "Với nền kinh tế đang gặp vấn đề, rất nhiều công ty đã buộc phải giảm quy mô để duy trì sức cạnh tranh."
+    },
+    {
+        "word": "enterprise",
+        "type": "n",
+        "ipa": "ˈɛntəpraɪz ",
+        "meaning": "doanh nghiệp",
+        "ex": "The city government offered grants in hopes of stimulating local enterprises.",
+        "ipaExTrans": "ðə ˈsɪti ˈgʌvnmənt ˈɒfəd grɑːnts ɪn həʊps ɒv ˈstɪmjʊleɪtɪŋ ˈləʊkəl ˈɛntəpraɪzɪz.",
+        "exMeaning": "Chính quyền thành phố đề nghị tài trợ với hy vọng kích thích các doanh nghiệp địa phương."
+    },
+    {
+        "word": "entrepreneur",
+        "type": "n",
+        "ipa": "ˌɒntrəprəˈnɜː ",
+        "meaning": "doanh nhân",
+        "ex": "Donald Trump is one of the most famous entrepreneurs in the world.",
+        "ipaExTrans": "ˈdɒnəld trʌmp ɪz wʌn ɒv ðə məʊst ˈfeɪməs ˌɒntrəprəˈnɜːz ɪn ðə wɜːld.",
+        "exMeaning": "Donald Trump là một trong những doanh nhân nổi tiếng nhất thế giới."
+    },
+    {
+        "word": "establish",
+        "type": "v",
+        "ipa": "ɪsˈtæblɪʃ ",
+        "meaning": "thiết lập, thành lập",
+        "ex": "It isn’t easy establishing a new business.",
+        "ipaExTrans": "ɪt ˈɪznt ˈiːzi ɪsˈtæblɪʃɪŋ ə njuː ˈbɪznɪs.",
+        "exMeaning": "Không dễ để thành lập một doanh nghiệp mới."
+    },
+    {
+        "word": "expand",
+        "type": "v",
+        "ipa": "ɪksˈpænd ",
+        "meaning": "mở rộng",
+        "ex": "The company has recently found it difficult to expand its market base and reach new customers.",
+        "ipaExTrans": "ðə ˈkʌmpəni hæz ˈriːsntli faʊnd ɪt ˈdɪfɪkəlt tuː ɪksˈpænd ɪts ˈmɑːkɪt beɪs ænd riːʧ njuː ˈkʌstəməz.",
+        "exMeaning": "Công ty gần đây gặp khó khăn trong việc mở rộng cơ sở thị trường và tiếp cận khách hàng mới."
+    },
+    {
+        "word": "fad",
+        "type": "n",
+        "ipa": "fæd ",
+        "meaning": "mốt, kiểu thời trang, khuynh hướng",
+        "ex": "A good businessperson will know all the latest fads .",
+        "ipaExTrans": "ə gʊd businessperson wɪl nəʊ ɔːl ðə ˈleɪtɪst fædz .",
+        "exMeaning": "Một doanh nhân giỏi sẽ biết tất cả các mốt mới nhất."
+    },
+    {
+        "word": "franchise",
+        "type": "n",
+        "ipa": "ˈfrænʧaɪz ",
+        "meaning": "đặc quyền, quyền ưu tiên",
+        "ex": "The largest fast-food chains operate on the franchise system.",
+        "ipaExTrans": "ðə ˈlɑːʤɪst fɑːst-fuːd ʧeɪnz ˈɒpəreɪt ɒn ðə ˈfrænʧaɪz ˈsɪstɪm.",
+        "exMeaning": "Các chuỗi thức ăn nhanh lớn nhất hoạt động theo hệ thống nhượng quyền."
+    },
+    {
+        "word": "headquarters",
+        "type": "n",
+        "ipa": "ˈhɛdˈkwɔːtəz ",
+        "meaning": "trụ sở",
+        "ex": "The CEO promised to hold a press conference from the company headquarters in Chicago.",
+        "ipaExTrans": "ðə siː-iː-əʊ ˈprɒmɪst tuː həʊld ə prɛs ˈkɒnfərəns frɒm ðə ˈkʌmpəni ˈhɛdˈkwɔːtəz ɪn ʃɪˈkɑːgəʊ.",
+        "exMeaning": "Giám đốc điều hành hứa sẽ tổ chức một cuộc họp báo từ trụ sở công ty ở Chicago."
+    },
+    {
+        "word": "joint venture",
+        "type": "n",
+        "ipa": "ʤɔɪnt ˈvɛnʧə",
+        "meaning": "liên doanh",
+        "ex": "Most of the foreign investments in mainland China are joint ventures between foreign and local firms.",
+        "ipaExTrans": "məʊst ɒv ðə ˈfɒrɪn ɪnˈvɛstmənts ɪn ˈmeɪnlənd ˈʧaɪnə ɑː ʤɔɪnt ˈvɛnʧəz bɪˈtwiːn ˈfɒrɪn ænd ˈləʊkəl fɜːmz.",
+        "exMeaning": "Hầu hết các khoản đầu tư nước ngoài vào Trung Quốc đại lục là liên doanh giữa các công ty nước ngoài và địa phương."
+    },
+    {
+        "word": "mission",
+        "type": "n",
+        "ipa": "ˈmɪʃən ",
+        "meaning": "sứ mệnh, công việc, nhiệm vụ",
+        "ex": "This company’s goals are outlined in our mission statement.",
+        "ipaExTrans": "ðɪs ˈkʌmpəniz gəʊlz ɑːr ˈaʊtlaɪnd ɪn ˈaʊə ˈmɪʃən ˈsteɪtmənt.",
+        "exMeaning": "Mục tiêu của công ty này được nêu trong tuyên bố sứ mệnh của chúng tôi."
+    },
+    {
+        "word": "register",
+        "type": "v",
+        "ipa": "ˈrɛʤɪstə ",
+        "meaning": "đăng ký",
+        "ex": "You must register the business before you can start selling anything.",
+        "ipaExTrans": "juː mʌst ˈrɛʤɪstə ðə ˈbɪznɪs bɪˈfɔː juː kæn stɑːt ˈsɛlɪŋ ˈɛnɪθɪŋ.",
+        "exMeaning": "Bạn phải đăng ký kinh doanh trước khi có thể bắt đầu bán bất cứ thứ gì."
+    },
+    {
+        "word": "require",
+        "type": "v",
+        "ipa": "rɪˈkwaɪə ",
+        "meaning": "đòi hỏi, yêu cầu",
+        "ex": "Most banks require some kind of ID before they will let you open an account.",
+        "ipaExTrans": "məʊst bæŋks rɪˈkwaɪə sʌm kaɪnd ɒv aɪ-diː bɪˈfɔː ðeɪ wɪl lɛt juː ˈəʊpən ən əˈkaʊnt.",
+        "exMeaning": "Hầu hết các ngân hàng đều yêu cầu một số loại ID trước khi cho phép bạn mở tài khoản."
+    },
+    {
+        "word": "risk",
+        "type": "n",
+        "ipa": "rɪsk ",
+        "meaning": "rủi ro",
+        "ex": "Starting a new business has its risks, but also many rewards.",
+        "ipaExTrans": "ˈstɑːtɪŋ ə njuː ˈbɪznɪs hæz ɪts rɪsks, bʌt ˈɔːlsəʊ ˈmɛni rɪˈwɔːdz.",
+        "exMeaning": "Bắt đầu một công việc kinh doanh mới có những rủi ro, nhưng cũng có nhiều phần thưởng."
+    }
+]

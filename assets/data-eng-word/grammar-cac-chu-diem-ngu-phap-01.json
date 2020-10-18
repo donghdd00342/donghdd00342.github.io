@@ -1,0 +1,682 @@
+[
+    {
+        "ex": "Learning English takes time.",
+        "ipaExTrans": "Học tiếng Anh cần có thời gian.",
+        "exMeaning": "V-ing làm chủ ngữ => chia động từ SỐ ÍT"
+    },
+    {
+        "ex": "To travel the world is her dream.",
+        "ipaExTrans": "Đi du lịch thế giới là ước mơ của cô.",
+        "exMeaning": "To-Verb làm chủ ngữ => chia động từ (tobe) SỐ ÍT"
+    },
+    {
+        "ex": "That we are not prepared for the future concerns us.",
+        "ipaExTrans": "Rằng chúng tôi không chuẩn bị cho những mối quan tâm của chúng tôi trong tương lai",
+        "exMeaning": "mệnh đề “That clause” làm chủ ngữ => động từ chính chia SỐ ÍT"
+    },
+    {
+        "ex": "The chickens are in the kitchen.",
+        "ipaExTrans": "Những chú gà đang ở trong bếp.",
+        "exMeaning": "Vị ngữ = Động từ (tobe) + Cụm giới từ (in the kitchen)."
+    },
+    {
+        "ex": "She looks excited.",
+        "ipaExTrans": "Cô ấy trông rất phấn khích.",
+        "exMeaning": "Vị ngữ = Động từ (Linking Verbs) + Tính từ ."
+    },
+    {
+        "ex": "He is a good student.",
+        "ipaExTrans": "Anh ấy là một học sinh giỏi.",
+        "exMeaning": "Vị ngữ = Động từ (tobe) + Cụm danh từ (a good student)."
+    },
+    {
+        "ex": "She is eating the fruit to lose weight.",
+        "ipaExTrans": "Cô ấy đang ăn trái cây để giảm cân.",
+        "exMeaning": "Thông tin nền To-Verb diễn tả mục đích của hành động (để giảm cân)"
+    },
+    {
+        "ex": "She is eating the fruit standing up.",
+        "ipaExTrans": "Cô ấy đang ăn trái cây đứng dậy.",
+        "exMeaning": "Thông tin nền V-ing để diễn tả một hành động khác xảy ra cùng lúc"
+    },
+    {
+        "ex": "He asked me not to call him after 9 pm.",
+        "ipaExTrans": "Anh ấy yêu cầu tôi không gọi cho anh ấy sau 9 giờ tối.",
+        "exMeaning": "Thông tin nền Trạng từ (after 9pm) cho biết thông tin thời gian, địa điểm, cách thức …"
+    },
+    {
+        "ex": "She had no money left",
+        "ipaExTrans": "Cô ấy không còn tiền",
+        "exMeaning": "Mở rộng câu phủ định bằng cách dùng các từ mang nghĩa phủ định: No, None, No one, Nobody, Nothing,…"
+    },
+    {
+        "ex": "This is not his book, is it?",
+        "ipaExTrans": "Đây không phải là cuốn sách của anh ấy, phải không?",
+        "exMeaning": "Mở rộng câu nghi vấn bằng câu hỏi đuôi"
+    },
+    {
+        "ex": "What a big apartment you have!",
+        "ipaExTrans": "Bạn có một căn hộ lớn!",
+        "exMeaning": "Câu cảm thán: WHAT + (A/AN) + tính từ + danh từ + (chủ ngữ + động từ)!"
+    },
+    {
+        "ex": "How fast he drives!",
+        "ipaExTrans": "Anh ta lái nhanh làm sao!",
+        "exMeaning": "Câu cảm thán: HOW + tính từ / trạng từ + chủ ngữ + động từ!;"
+    },
+    {
+        "ex": "Could you give me the book, please?",
+        "ipaExTrans": "Bạn có thể cho tôi cuốn sách được không?",
+        "exMeaning": "Câu cầu khiến: Động từ nguyên mẫu + (Tân ngữ) => thêm Could và Please để câu lịch sự hơn."
+    },
+    {
+        "ex": "Tom said that he wanted to see this movie with his girlfriend tomorrow.",
+        "ipaExTrans": "Tom nói rằng anh ấy muốn xem bộ phim này với bạn gái vào ngày mai.",
+        "exMeaning": "Câu tường thuật: chọn từ tường thuật (said, told…), lùi thì, đổi đại từ và tính tính từ sở hữu"
+    },
+    {
+        "ex": "He asked where he could find Lisa.",
+        "ipaExTrans": "Anh hỏi anh có thể tìm Lisa ở đâu.",
+        "exMeaning": "Câu tường thuật cho câu hỏi: He asked where to find Lisa."
+    },
+    {
+        "ex": "She asked if anybody saw Tom?",
+        "ipaExTrans": "Cô ấy hỏi có ai nhìn thấy Tom không?",
+        "exMeaning": "Câu tường thuật cho câu hỏi: Thêm từ if hoặc whether trước câu hỏi"
+    },
+    {
+        "ex": "My mother asked me whether I had done my homework.",
+        "ipaExTrans": "Mẹ tôi hỏi tôi đã làm bài tập chưa.",
+        "exMeaning": "Câu tường thuật cho câu hỏi: Thêm từ if hoặc whether trước câu hỏi"
+    },
+    {
+        "ex": "I suggest that he come to work on time.",
+        "ipaExTrans": "Tôi đề nghị anh ấy đến làm việc đúng giờ.",
+        "exMeaning": "Bàng thái cách: động từ ở mệnh đề sau sẽ chuyển về nguyên mẫu cho tất cả các ngôi."
+    },
+    {
+        "ex": "He requested Frank not come to the party.",
+        "ipaExTrans": "Anh ta yêu cầu Frank không đến bữa tiệc.",
+        "exMeaning": "Bàng thái cách: động từ ở mệnh đề sau sẽ chuyển về nguyên mẫu cho tất cả các ngôi."
+    },
+    {
+        "ex": "If it rains, we might cancel the trip.",
+        "ipaExTrans": "Nếu trời mưa, chúng tôi có thể hủy chuyến đi.",
+        "exMeaning": "ĐK 1: [If + thì hiện tại đơn], [will + động từ nguyên mẫu] có thể thực sự xảy ra trong hiện tại hoặc tương lai."
+    },
+    {
+        "ex": "If I were you, I wouldn’t do that.",
+        "ipaExTrans": "Nếu tôi là bạn, tôi sẽ không làm vậy.",
+        "exMeaning": "ĐK 2: [If + thì quá khứ đơn], [would + động từ nguyên mẫu] KHÔNG THỂ thực sự xảy ra trong hiện tại. “were” dùng cho tất cả các ngôi"
+    },
+    {
+        "ex": "If I had studied harder, I would have passed the exam.",
+        "ipaExTrans": "Nếu tôi học chăm chỉ hơn, tôi đã có thể vượt qua kỳ thi.",
+        "exMeaning": "ĐK 3: [If + thì quá khứ hoàn thành], [would + have + V3/V-ed] ĐÃ KHÔNG xảy ra trong quá khứ."
+    },
+    {
+        "ex": "Even if I become a billionaire, I will still be working.",
+        "ipaExTrans": "Ngay cả khi tôi trở thành tỷ phú, tôi vẫn sẽ làm việc.",
+        "exMeaning": "even if = cho dù, ngay cả khi"
+    },
+    {
+        "ex": "She can play video games only if her parents let her.",
+        "ipaExTrans": "Cô ấy chỉ có thể chơi trò chơi điện tử nếu bố mẹ cho phép.",
+        "exMeaning": "only if = chỉ khi"
+    },
+    {
+        "ex": "We will camp outside as long as the weather is good.",
+        "ipaExTrans": "Chúng tôi sẽ cắm trại bên ngoài miễn là thời tiết tốt.",
+        "exMeaning": "as long as = so long as = miễn là, chỉ cần (chỉ dùng với câu điều kiện loại 1)"
+    },
+    {
+        "ex": "We’ll buy anything, providing/provided that the price is reasonable.",
+        "ipaExTrans": "Chúng tôi sẽ mua bất cứ thứ gì, cung cấp / miễn là giá cả hợp lý.",
+        "exMeaning": "provided that = providing = miễn là, chỉ cần (chỉ dùng với câu điều kiện loại 1)"
+    },
+    {
+        "ex": "Suppose you won the lottery, what would you do?",
+        "ipaExTrans": "Giả sử bạn trúng số, bạn sẽ làm gì?",
+        "exMeaning": "suppose = supposing = giả sử (chỉ dùng với câu điều kiện loại 2 & 3)"
+    },
+    {
+        "ex": "If it weren’t for you, I wouldn’t know what to do.",
+        "ipaExTrans": "Nếu không có bạn, tôi sẽ không biết phải làm gì.",
+        "exMeaning": "Nếu không có bạn thì tôi không biết phải làm gì."
+    },
+    {
+        "ex": "He would have played but for a knee injury.",
+        "ipaExTrans": "Anh ấy sẽ thi đấu nhưng vì chấn thương đầu gối.",
+        "exMeaning": "but for + [danh từ] (chỉ dùng với câu điều kiện loại 2 & 3)"
+    },
+    {
+        "ex": "She sings as beautifully as a singer does.",
+        "ipaExTrans": "Cô ấy hát hay như một ca sĩ.",
+        "exMeaning": "So sánh bằng: as + ADJ/ADV + as hoặc là so + ADJ/ADV + as (ít dùng hơn)"
+    },
+    {
+        "ex": "This problem is more difficult than that one.",
+        "ipaExTrans": "Bài toán này khó hơn bài toán đó.",
+        "exMeaning": "So sánh hơn: NGẮN: ADJ/ADV + đuôi -er + than; DÀI: more + ADJ/ADV + than"
+    },
+    {
+        "ex": "This is the most difficult problem in the book.",
+        "ipaExTrans": "Đây là vấn đề khó nhất trong cuốn sách.",
+        "exMeaning": "So sánh nhất: NGẮN: the + ADJ/ADV + -est; DÀI: the + most + ADJ/ADV"
+    },
+    {
+        "ex": "The car was going faster and faster.",
+        "ipaExTrans": "Chiếc xe càng lúc càng nhanh.",
+        "exMeaning": "Cấu trúc “Ngày càng…”: So sánh hơn + “and” + so sánh hơn"
+    },
+    {
+        "ex": "The more expensive the hotel is, the better the service is.",
+        "ipaExTrans": "Khách sạn càng đắt tiền thì dịch vụ càng tốt.",
+        "exMeaning": "Cấu trúc “càng… càng…”: “The” + so sánh hơn …, + “the” + so sánh hơn …"
+    },
+    {
+        "ex": "My credit card has been stolen!",
+        "ipaExTrans": "Thẻ tín dụng của tôi đã bị đánh cắp!",
+        "exMeaning": "Câu bị động: [Đối tượng bị tác động] + [to be theo dạng hoặc thì của thể chủ động] + [Động từ bị động dạng V3/V-ed] + by [Chủ thể]"
+    },
+    {
+        "ex": "I couldn’t go out because of the rain.",
+        "ipaExTrans": "Tôi không thể ra ngoài vì trời mưa.",
+        "exMeaning": "Phân biệt liên từ và giới từ: Sau giới từ không được có một mệnh đề. (chỉ Danh từ, V-ing, Đại từ)"
+    },
+    {
+        "ex": "I couldn’t go out because it was raining.",
+        "ipaExTrans": "Tôi không thể ra ngoài vì trời mưa.",
+        "exMeaning": "Phân biệt liên từ và giới từ: Sau liên từ có thể có một mệnh đề."
+    },
+    {
+        "ex": "I came to visit Mary. However, she was not home.",
+        "ipaExTrans": "Tôi đến thăm Mary. Tuy nhiên, cô ấy không có nhà.",
+        "exMeaning": "Phân biệt liên từ và trạng từ: Trạng từ không nhất thiết đứng đầu câu, Liên từ phải đứng đầu 1 trong 2 câu."
+    },
+    {
+        "ex": "I don’t trust him; for he used to lie to me in the past.",
+        "ipaExTrans": "Tôi không tin anh ta; vì anh ấy đã từng nói dối tôi trong quá khứ.",
+        "exMeaning": "FOR = bởi vì: Dùng để giải thích lý do"
+    },
+    {
+        "ex": "I can read and write very well in English.",
+        "ipaExTrans": "Tôi có thể đọc và viết rất tốt bằng tiếng Anh.",
+        "exMeaning": "AND = và: Dùng để thêm hay bổ sung một thứ vào một thứ khác"
+    },
+    {
+        "ex": "He wasn’t there on Monday, nor on Tuesday.",
+        "ipaExTrans": "Anh ấy không ở đó vào thứ Hai, cũng như thứ Ba.",
+        "exMeaning": "NOR = và (không): Dùng để bổ sung một ý phủ định vào ý phủ định đã được nêu trước đó"
+    },
+    {
+        "ex": "I tried to explain everything to him but he just didn’t listen to me.",
+        "ipaExTrans": "Tôi đã cố gắng giải thích mọi thứ với anh ấy nhưng anh ấy không nghe tôi.",
+        "exMeaning": "BUT = nhưng: Dùng để diễn tả sự đối lập, ngược nghĩa."
+    },
+    {
+        "ex": "You can park your car in this parking lot or on the street.",
+        "ipaExTrans": "Bạn có thể đậu xe trong bãi đậu xe này hoặc trên đường phố.",
+        "exMeaning": "OR = hoặc: Dùng để trình bày thêm một lựa chọn khác"
+    },
+    {
+        "ex": "John plays basketball well, yet his favorite sport is badminton.",
+        "ipaExTrans": "John chơi bóng rổ giỏi, nhưng môn thể thao yêu thích của anh ấy là cầu lông.",
+        "exMeaning": "YET = nhưng, ấy vậy mà: Dùng để nói một ý ngược lại so với ý trước đó (tương tự BUT)"
+    },
+    {
+        "ex": "I prepared well in advance so I am confident that I will win this game.",
+        "ipaExTrans": "Tôi đã chuẩn bị rất kỹ lưỡng từ trước nên tôi tự tin rằng mình sẽ thắng trận này.",
+        "exMeaning": "SO = nên: Dùng để nói về một kết quả hoặc một ảnh hưởng của sự việc được nhắc đến trước đó."
+    },
+    {
+        "ex": "I want either the noodles or the rice.",
+        "ipaExTrans": "Tôi muốn mì hoặc cơm.",
+        "exMeaning": "EITHER … OR … : dùng để diễn tả sự lựa chọn: hoặc là cái này, hoặc là cái kia."
+    },
+    {
+        "ex": "Neither Jack nor Mary agreed to lend me a hand.",
+        "ipaExTrans": "Cả Jack và Mary đều không đồng ý giúp tôi một tay.",
+        "exMeaning": "NEITHER … NOR … : dùng để diễn tả phủ định kép: không cái này cũng không cái kia; cả hai đều không"
+    },
+    {
+        "ex": "Both his mother and his father will visit my grandparents this summer.",
+        "ipaExTrans": "Cả mẹ và bố anh ấy sẽ về thăm ông bà tôi vào mùa hè này.",
+        "exMeaning": "BOTH … AND … : dùng để diễn tả lựa chọn kép: cả cái này lẫn cả cái kia."
+    },
+    {
+        "ex": "She not only wrote the text but also drew the illustrations.",
+        "ipaExTrans": "Cô ấy không chỉ viết văn bản mà còn vẽ minh họa.",
+        "exMeaning": "NOT ONLY … BUT ALSO … : dùng để diễn tả lựa chọn kép: không những cái này mà cả cái kia"
+    },
+    {
+        "ex": "Neither my best friend nor I am going to take a course in French.",
+        "ipaExTrans": "Cả tôi và bạn thân của tôi đều không tham gia một khóa học tiếng Pháp.",
+        "exMeaning": "chủ ngữ có “neither … nor”, “either … or”, “not only … but also ”, động từ được chia với chủ ngữ gần nó nhất."
+    },
+    {
+        "ex": "He edited the letter quickly and correctly.",
+        "ipaExTrans": "Anh ấy đã chỉnh sửa bức thư một cách nhanh chóng và chính xác.",
+        "exMeaning": "Cấu trúc Song song: những thành phần đó phải giống nhau về từ loại và/hoặc cấu trúc."
+    },
+    {
+        "ex": "I tried to finish my homework before my father came home.",
+        "ipaExTrans": "Tôi cố gắng hoàn thành bài tập về nhà trước khi bố tôi về nhà.",
+        "exMeaning": "AFTER / BEFORE (sau khi/trước khi): dùng để diễn tả thời gian, một việc xảy ra sau/trước một việc khác"
+    },
+    {
+        "ex": "As you couldn’t see the film, we’ll tell you something about it.",
+        "ipaExTrans": "Vì bạn không thể xem bộ phim, chúng tôi sẽ cho bạn biết đôi điều về bộ phim.",
+        "exMeaning": "AS (khi, bởi vì): dùng để diễn tả hai hành động cùng xảy ra; hoặc diễn tả nguyên nhân"
+    },
+    {
+        "ex": "As soon as the teacher arrived, they started their lesson.",
+        "ipaExTrans": "Ngay sau khi giáo viên đến, họ bắt đầu bài học của mình.",
+        "exMeaning": "AS SOON AS (ngay khi mà): dùng để diễn tả quan hệ thời gian"
+    },
+    {
+        "ex": "He didn’t notice anything strange until he heard a noise from upstairs.",
+        "ipaExTrans": "Anh ta không nhận thấy điều gì lạ cho đến khi nghe thấy tiếng động từ trên lầu.",
+        "exMeaning": "UNTIL (cho đến khi): dùng để diễn tả quan hệ thời gian, thường dùng với câu phủ định"
+    },
+    {
+        "ex": "When you visit Berlin, send me a postcard.",
+        "ipaExTrans": "Khi bạn đến thăm Berlin, hãy gửi cho tôi một tấm bưu thiếp.",
+        "exMeaning": "WHEN (khi): dùng để diễn tả quan hệ thời gian"
+    },
+    {
+        "ex": "While he is very good at math, his brother really hates it.",
+        "ipaExTrans": "Trong khi anh ấy rất giỏi toán, anh trai của anh ấy thực sự ghét nó.",
+        "exMeaning": "WHILE (trong khi): dùng để diễn tả quan hệ thời gian – trong khi; hoặc sự ngược nghĩa giữa 2 mệnh đề"
+    },
+    {
+        "ex": "Although he was very tired he still continued working.",
+        "ipaExTrans": "Dù rất mệt nhưng anh vẫn tiếp tục làm việc.",
+        "exMeaning": "ALTHOUGH / THOUGH / EVEN THOUGH (mặc dù): dùng để biểu thị hai hành động trái ngược nhau về mặt logic"
+    },
+    {
+        "ex": "I went to go to school today in spite of the heavy rain.",
+        "ipaExTrans": "Hôm nay tôi đến trường bất chấp trời mưa to.",
+        "exMeaning": "nếu muốn nói ý “cho dù có cái gì đó” thì phải dùng “despite + V_ing / danh từ” hoặc “in spite of + V_ing / danh từ”:"
+    },
+    {
+        "ex": "I will lend you my car as long as you promise to drive carefully.",
+        "ipaExTrans": "Tôi sẽ cho bạn mượn xe của tôi miễn là bạn hứa lái xe cẩn thận.",
+        "exMeaning": "AS LONG AS (chừng nào mà, miễn là): dùng để diễn tả điều kiện"
+    },
+    {
+        "ex": "Because he loved acting, he refused to give up his dream of being in the movies.",
+        "ipaExTrans": "Vì yêu thích diễn xuất, anh đã từ chối từ bỏ ước mơ được đóng phim.",
+        "exMeaning": "BECAUSE / SINCE (lý do, bởi vì): dùng để diễn tả nguyên nhân, lý do"
+    },
+    {
+        "ex": "I didn’t go to school today because of the heavy rain.",
+        "ipaExTrans": "Hôm nay tôi không đến trường vì trời mưa to.",
+        "exMeaning": "nếu muốn nói ý “tại cái gì đó, do cái gì đó ” thì phải dùng “because of + V_ing / danh từ” hoặc “due to + V_ing / danh từ”"
+    },
+    {
+        "ex": "I haven’t seen him since he left his hometown to pursue his dream.",
+        "ipaExTrans": "Tôi đã không gặp anh ấy kể từ khi anh ấy rời quê hương để theo đuổi ước mơ của mình.",
+        "exMeaning": "SINCE để chỉ mốc thời gian"
+    },
+    {
+        "ex": "Since I will be away for a week, can you take care of my dog?",
+        "ipaExTrans": "Vì tôi sẽ đi vắng một tuần, bạn có thể chăm sóc con chó của tôi không?",
+        "exMeaning": "SINCE mang nghĩa “bởi vì”"
+    },
+    {
+        "ex": "Since he has lost his money, he couldn’t go to the restaurant.",
+        "ipaExTrans": "Vì bị mất tiền nên anh ấy không thể đến nhà hàng.",
+        "exMeaning": "SINCE dùng trong câu hiện tại hoàn thành thì trước mệnh đề since chia hiện tại hoàn thành, sau since chia quá khứ đơn."
+    },
+    {
+        "ex": "In case/in the event that it rains, please take an umbrella when you go out.",
+        "ipaExTrans": "Trong trường hợp trời mưa, vui lòng mang ô khi ra ngoài.",
+        "exMeaning": "IN CASE / IN THE EVENT THAT (trong trường hợp, phòng khi): dùng để diễn tả giả định về một hành động có thể xảy ra trong tương lai"
+    },
+    {
+        "ex": "Now that I have passed the exam, I can play games all day.",
+        "ipaExTrans": "Bây giờ tôi đã vượt qua kỳ thi, tôi có thể chơi game cả ngày.",
+        "exMeaning": "NOW THAT (vì giờ đây): dùng để diễn tả quan hệ nhân quả theo thời gian"
+    },
+    {
+        "ex": "We left early so that we wouldn’t be caught in the traffic jam.",
+        "ipaExTrans": "Chúng tôi đi sớm để không bị kẹt xe.",
+        "exMeaning": "SO THAT / IN ORDER THAT (để): dùng để diễn tả mục đích"
+    },
+    {
+        "ex": "Even if you are confident in your ability, never ever underestimate your opponents.",
+        "ipaExTrans": "Dù tự tin vào khả năng của mình thì cũng đừng bao giờ đánh giá thấp đối thủ.",
+        "exMeaning": "EVEN IF (kể cả khi): dùng để diễn tả điều kiện giả định mạnh"
+    },
+    {
+        "ex": "Her baby cannot fall asleep unless she stays in the room.",
+        "ipaExTrans": "Con cô ấy không thể ngủ được trừ khi cô ấy ở trong phòng.",
+        "exMeaning": "IF / UNLESS (nếu / trừ khi): dùng để diễn tả điều kiện"
+    },
+    {
+        "ex": "The girl who is smiling at you is John’s daughter.",
+        "ipaExTrans": "Cô gái đang mỉm cười với bạn là con gái của John.",
+        "exMeaning": "MĐQH bắt buộc"
+    },
+    {
+        "ex": "That Canadian girl, who is smiling at you, is John’s daughter.",
+        "ipaExTrans": "Cô gái Canada đang mỉm cười với bạn là con gái của John.",
+        "exMeaning": "MĐQH không bắt buộc: phải được ngăn cách bởi dấu phẩy"
+    },
+    {
+        "ex": "That Canadian girl, who is smiling at you, is his daughter.",
+        "ipaExTrans": "Cô gái Canada đó, người đang mỉm cười với bạn, là con gái của anh ấy.",
+        "exMeaning": "who: thay thế cho người"
+    },
+    {
+        "ex": "I spoke to the Vietnamese students, all of whom were interested in learning English.",
+        "ipaExTrans": "Tôi đã nói chuyện với các sinh viên Việt Nam, tất cả đều quan tâm đến việc học tiếng Anh.",
+        "exMeaning": "whom: thay thế cho người ở vị trí tân ngữ"
+    },
+    {
+        "ex": "The gift which I bought yesterday is for her birthday.",
+        "ipaExTrans": "Món quà mà tôi mua hôm qua là cho sinh nhật của cô ấy.",
+        "exMeaning": "which: thay thế cho đồ vật hoặc sự việc"
+    },
+    {
+        "ex": "It’s the house whose door is painted blue.",
+        "ipaExTrans": "Đó là ngôi nhà có cửa sơn màu xanh lam.",
+        "exMeaning": "whose: thay thế cho các tính từ sở hữu"
+    },
+    {
+        "ex": "It’s the movie that she hates the most.",
+        "ipaExTrans": "Đó là bộ phim mà cô ấy ghét nhất.",
+        "exMeaning": "that: thay thế cho người, đồ vật, sự việc"
+    },
+    {
+        "ex": "Germany is the country where I’ve lived for ten years.",
+        "ipaExTrans": "Đức là đất nước mà tôi đã sống trong mười năm.",
+        "exMeaning": "where: thay thế cho: Các trạng từ chỉ nơi chốn hoặc Các cụm giới từ chỉ nơi chốn"
+    },
+    {
+        "ex": "I still can remember the day when we met.",
+        "ipaExTrans": "Tôi vẫn còn nhớ ngày chúng tôi gặp nhau.",
+        "exMeaning": "when: thay thế cho: Các trạng từ chỉ thời gian hoặc Các cụm giới từ chỉ thời gian"
+    },
+    {
+        "ex": "Tell me the reason why you cried.",
+        "ipaExTrans": "Hãy cho tôi biết lý do tại sao bạn khóc.",
+        "exMeaning": "why: thay thế cho: Các cụm từ chỉ nguyên nhân"
+    },
+    {
+        "ex": "The application form which he filled out has been sent to Mary.",
+        "ipaExTrans": "Mẫu đơn mà anh ấy điền đã được gửi đến Mary.",
+        "exMeaning": "trong trường hợp giới từ đó thuộc phrasal verb thì nó không thể đứng đầu mệnh đề quan hệ được"
+    },
+    {
+        "ex": "I saw the girl you talked to yesterday.",
+        "ipaExTrans": "Tôi đã nhìn thấy cô gái mà bạn đã nói chuyện hôm qua.",
+        "exMeaning": "Rút gọn mệnh đề quan hệ: Nếu đại từ quan hệ là tân ngữ → lược bỏ đại từ quan hệ"
+    },
+    {
+        "ex": "The woman teaching English at his school is Ms. Smith.",
+        "ipaExTrans": "Người phụ nữ dạy tiếng Anh ở trường anh ta là cô Smith.",
+        "exMeaning": "Nếu đại từ quan hệ là chủ ngữ → Rút gọn dùng V-ing. đang ở thể chủ động. bỏ đại từ quan hệ và lược bỏ trợ động từ to be (nếu có)"
+    },
+    {
+        "ex": "The man interviewed before me got hired.",
+        "ipaExTrans": "Người đàn ông đã phỏng vấn trước khi tôi được tuyển dụng.",
+        "exMeaning": "Nếu đại từ quan hệ là chủ ngữ → Rút gọn dùng V-ed. đang ở thể bị động. bỏ đại từ quan hệ và lược bỏ trợ động từ to be"
+    },
+    {
+        "ex": "She is the first person to have completed the test.",
+        "ipaExTrans": "Cô ấy là người đầu tiên đã hoàn thành bài kiểm tra.",
+        "exMeaning": "Rút gọn dùng To + Verb: có mạo từ the kèm theo những từ bổ nghĩa như first, second, last, only, v.v…"
+    },
+    {
+        "ex": "After finishing her homework, she watched her favorite movie.",
+        "ipaExTrans": "Sau khi hoàn thành bài tập về nhà, cô xem bộ phim yêu thích của mình.",
+        "exMeaning": "Rút gọn mệnh đề trạng ngữ: phải có cùng chủ ngữ. bỏ chủ ngữ. chuyển đổi động từ thành dạng V-ing."
+    },
+    {
+        "ex": "Although stressed, he decided to keep the job.",
+        "ipaExTrans": "Dù căng thẳng nhưng anh vẫn quyết định giữ lại công việc.",
+        "exMeaning": "Nếu động từ trong mệnh đề trạng ngữ là động từ “to be” hoặc động từ nối (linking verb), thì ta bỏ luôn cả động từ, chỉ giữ lại danh từ hoặc tính từ."
+    },
+    {
+        "ex": "Getting up late, he was late for work.",
+        "ipaExTrans": "Dậy muộn, anh đi làm muộn.",
+        "exMeaning": "Khi rút gọn mệnh đề trạng ngữ diễn đạt ý nguyên nhân - kết quả, ta bỏ luôn cả liên từ đó."
+    },
+    {
+        "ex": "John hurt his knee playing football.",
+        "ipaExTrans": "John bị đau đầu gối khi chơi bóng đá.",
+        "exMeaning": "Khi rút gọn mệnh đề có liên từ diễn đạt hành động diễn ra cùng lúc, ta có thể giữ lại hoặc bỏ luôn cả liên từ đó"
+    },
+    {
+        "ex": "Having finished her homework, she watched her favorite movie.",
+        "ipaExTrans": "Làm xong bài tập, cô xem bộ phim yêu thích của mình.",
+        "exMeaning": "Khi hành động trong mệnh đề trạng ngữ xảy ra trước hành động trong mệnh đề chính, chúng ta có thể rút gọn mệnh đề trạng ngữ thành “having + V3/V-ed”."
+    },
+    {
+        "ex": "Many young people drink coffee every day.",
+        "ipaExTrans": "Nhiều bạn trẻ uống cà phê mỗi ngày.",
+        "exMeaning": "Quy tắc dùng từ hạn định: Danh từ số ít: bắt buộc; Danh từ số nhiều: không bắt buộc; Danh từ không đếm được: không bắt buộc"
+    },
+    {
+        "ex": "Many drink coffee every day.",
+        "ipaExTrans": "Nhiều người uống cà phê mỗi ngày.",
+        "exMeaning": "có một số từ hạn định và đại từ có dạng giống hệt nhau, ví dụ như all, many, some, this, that… ĐẠI TỪ thì đứng một mình, Theo sau từ hạn định phải có một danh từ."
+    },
+    {
+        "ex": "That she will retire early is not surprising at all.",
+        "ipaExTrans": "Việc cô ấy sẽ nghỉ hưu sớm không có gì đáng ngạc nhiên cả.",
+        "exMeaning": "CHIA ĐỘNG TỪ THEO SỐ ÍT: Đại từ Ngôi thứ 3 số ít: he, she, it; Danh từ đếm được ở số ít; Danh từ không đếm được; mệnh đề THAT; Đại từ bất định ở số ít; Đại từ chỉ định ở số ít (this, that)"
+    },
+    {
+        "ex": "The documents were sent to them via email.",
+        "ipaExTrans": "Các tài liệu đã được gửi cho họ qua email.",
+        "exMeaning": "CHIA ĐỘNG TỪ THEO SỐ NHIỀU: Đại từ Ngôi thứ 2 số ít: you; Đại từ Số Nhiều: we, you, they; Danh từ đếm được ở số nhiều; Đại từ bất định ở số nhiều; Đại từ chỉ định ở số nhiều: these, those; Hai chủ ngữ được nối với nhau bằng từ “and”"
+    },
+    {
+        "ex": "Ten dollars is too expensive for a cake.",
+        "ipaExTrans": "Mười đô la là quá đắt cho một chiếc bánh.",
+        "exMeaning": "Đối với các Danh từ tập hợp dùng để chỉ 1 tập hợp nhóm động vật, đồ vật hoặc dùng để chỉ thời gian, tiền bạc, số đo, … ta luôn dùng ĐỘNG TỪ ở số ít, cho dù danh từ sau đó là ở số nhiều."
+    },
+    {
+        "ex": "Tom together with his friends, wants to join the football team.",
+        "ipaExTrans": "Tom cùng với bạn bè của mình, muốn tham gia vào đội bóng đá.",
+        "exMeaning": "Khi có một cụm giới từ bổ nghĩa cho chủ ngữ thì chúng ta bỏ qua cụm giới từ bổ nghĩa đó, còn động từ sẽ được chia theo danh từ chính trong cả cụm chủ ngữ."
+    },
+    {
+        "ex": "Learning English can be hard for some.",
+        "ipaExTrans": "Học tiếng Anh có thể khó đối với một số người.",
+        "exMeaning": "Khả năng xảy ra với mức độ chắc chắn giảm dần: must, can, may, might.."
+    },
+    {
+        "ex": "My grandfather could swim fast when he was a young boy.",
+        "ipaExTrans": "Ông tôi có thể bơi nhanh khi ông còn nhỏ.",
+        "exMeaning": "Khả năng, năng lực, kỹ năng: Can dùng khi nói về khả năng ở hiện tại, còn could dùng khi nói về khả năng trong quá khứ"
+    },
+    {
+        "ex": "You should visit your parents often.",
+        "ipaExTrans": "Bạn nên thăm bố mẹ thường xuyên.",
+        "exMeaning": "Nghĩa vụ, lời khuyên với mức độ bắt buộc giảm dần: must, ought to, should"
+    },
+    {
+        "ex": "You may not eat or drink in the library.",
+        "ipaExTrans": "Bạn không được ăn uống trong thư viện.",
+        "exMeaning": "Cho phép và xin phép: dùng các động từ may, might, can, could để thể hiện sự cho phép làm việc gì đó."
+    },
+    {
+        "ex": "Would you like some coffee?",
+        "ipaExTrans": "Bạn có muốn uống cà phê không?",
+        "exMeaning": "Yêu cầu, lời mời lịch sự: dùng các động từ can, could, will, would, shall trong các yêu cầu hay lời mời lịch sự."
+    },
+    {
+        "ex": "I could run faster",
+        "ipaExTrans": "Tôi có thể chạy nhanh hơn",
+        "exMeaning": "(còn bây giờ thì tôi không chạy nhanh hơn được) could: đã có khả năng làm được trong quá khứ, còn bây giờ thì không làm được nữa."
+    },
+    {
+        "ex": "I could have run faster",
+        "ipaExTrans": "Tôi có thể chạy nhanh hơn",
+        "exMeaning": "Tôi (đáng lẽ ra) đã có thể chạy nhanh hơn. could have: đã có khả năng làm được trong quá khứ, nhưng vì một lý do nào đó mà lúc đó đã không làm vậy."
+    },
+    {
+        "ex": "I asked him if I might come in.",
+        "ipaExTrans": "Tôi hỏi anh ta nếu tôi có thể vào.",
+        "exMeaning": "might: dùng thay thế cho may khi tường thuật lại một lời xin phép."
+    },
+    {
+        "ex": "The bus might have left.",
+        "ipaExTrans": "Xe buýt có thể đã rời đi.",
+        "exMeaning": "may have và might have: dùng để phỏng đoán một việc đã có thể xảy ra rồi."
+    },
+    {
+        "ex": "She was trembling. It must have been very cold outside.",
+        "ipaExTrans": "Cô đang run rẩy. Chắc hẳn bên ngoài trời rất lạnh.",
+        "exMeaning": "must have: phỏng đoán (chắc hẳn) một sự việc gần như chắc chắn đã xảy ra."
+    },
+    {
+        "ex": "I had to clean the dishes all by myself yesterday.",
+        "ipaExTrans": "Tôi đã phải dọn dẹp tất cả các món ăn một mình ngày hôm qua.",
+        "exMeaning": "had to: đã phải làm một việc gì đó trong quá khứ."
+    },
+    {
+        "ex": "I should study harder.",
+        "ipaExTrans": "Tôi nên học tập chăm chỉ hơn.",
+        "exMeaning": "Tôi nên học chăm chỉ hơn. Should có nghĩa là “nên làm gì đó”"
+    },
+    {
+        "ex": "I should have studied harder.",
+        "ipaExTrans": "Đáng lẽ tôi phải học chăm chỉ hơn.",
+        "exMeaning": "Đáng lẽ ra tôi đã phải học chăm chỉ hơn. Should have là quá khứ của Should. Should có nghĩa là “nên làm gì đó” thì should have có nghĩa là “đáng lẽ ra đã phải làm gì đó”."
+    },
+    {
+        "ex": "My parents let me come home after 10 pm.",
+        "ipaExTrans": "Ba mẹ cho tôi về nhà sau 10 giờ tối.",
+        "exMeaning": "Cho phép ai đó làm gì đó: LET + người + động từ nguyên mẫu. “Bố mẹ tôi cho phép tôi về nhà sau 10 giờ tối.”"
+    },
+    {
+        "ex": "My mother makes me clean the room.",
+        "ipaExTrans": "Mẹ tôi bắt tôi dọn phòng.",
+        "exMeaning": "Bắt ai đó phải là gì đó: MAKE + người + động từ nguyên mẫu. “Mẹ tôi bắt tôi dọn dẹp phòng.”"
+    },
+    {
+        "ex": "I had Thomas wash my car.",
+        "ipaExTrans": "Tôi đã nhờ Thomas rửa xe.",
+        "exMeaning": "Nhờ ai đó làm gì đó cho mình (chủ động): HAVE + người + động từ nguyên mẫu. “Tôi nhờ Thomas rửa xe của tôi.”"
+    },
+    {
+        "ex": "I had my car washed.",
+        "ipaExTrans": "Tôi đã rửa xe.",
+        "exMeaning": "Nhờ ai đó làm gì đó cho mình (bị động): HAVE + vật + V-ed/V3. “Tôi nhờ (ai đó) rửa xe của tôi.”"
+    },
+    {
+        "ex": "He got his sister to help him with his homework.",
+        "ipaExTrans": "Anh ấy đã nhờ em gái giúp anh ấy làm bài tập về nhà.",
+        "exMeaning": "Thuyết phục được/bắt buộc ai đó làm gì đó cho mình: GET + người/vật + To Verb"
+    },
+    {
+        "ex": "Can you really get that old car going again?",
+        "ipaExTrans": "Bạn thực sự có thể bắt chiếc xe cũ đó đi lại không?",
+        "exMeaning": "Làm cho cái gì đó thực hiện hành động nào đó: GET + vật + V-ing"
+    },
+    {
+        "ex": "I got my car washed.",
+        "ipaExTrans": "Tôi đã rửa xe.",
+        "exMeaning": "Nhờ ai đó làm gì đó cho mình (bị động): GET + vật + V-ed/V3. “Tôi nhờ (ai đó) rửa xe của tôi.”"
+    },
+    {
+        "ex": "She helped me to carry the box.",
+        "ipaExTrans": "Cô ấy đã giúp tôi mang chiếc hộp.",
+        "exMeaning": "Giúp đỡ ai đó làm gì đó: HELP + người + động từ nguyên mẫu ~ HELP + người + To Verb"
+    },
+    {
+        "ex": "I find the movie boring.",
+        "ipaExTrans": "Tôi thấy bộ phim thật nhàm chán.",
+        "exMeaning": "Động Từ Phức + Tân Ngữ + Tính Từ (gán tính chất cho tân ngữ)."
+    },
+    {
+        "ex": "I believe I can learn from my mistakes.",
+        "ipaExTrans": "Tôi tin rằng tôi có thể học hỏi từ những sai lầm của mình.",
+        "exMeaning": "Động từ Phức: Ý kiến / cảm nhận: believe = tin là; consider = xem như; think of = xem như; find = nhận thấy"
+    },
+    {
+        "ex": "The council elected him as President.",
+        "ipaExTrans": "Hội đồng bầu ông làm Chủ tịch.",
+        "exMeaning": "Động Từ Phức + Tân Ngữ + (as) + Cụm Danh Từ (gán danh tính cho tân ngữ). Lựa chọn: appoint = bổ nhiệm; choose = lựa chọn; elect = bầu chọn"
+    },
+    {
+        "ex": "He drives me crazy.",
+        "ipaExTrans": "Anh ấy khiến tôi phát điên lên.",
+        "exMeaning": "Làm cho / khiến cho: drive = làm cho, khiến cho; make = làm cho, khiến cho; render = làm cho, khiến cho; send = làm cho, khiến cho; hold = giữ cho; keep = giữ cho"
+    },
+    {
+        "ex": "let me see.",
+        "ipaExTrans": "Hãy để tôi xem.",
+        "exMeaning": "Để cho: let = để cho; leave = để cho; set = để cho; turn = để cho"
+    },
+    {
+        "ex": "I just want to make her happy.",
+        "ipaExTrans": "Tôi chỉ muốn làm cho cô ấy hạnh phúc.",
+        "exMeaning": "MAKE + tân ngữ + tính từ."
+    },
+    {
+        "ex": "We find the phone very easy to use.",
+        "ipaExTrans": "Chúng tôi thấy điện thoại rất dễ sử dụng.",
+        "exMeaning": "FIND + tân ngữ + tính từ."
+    },
+    {
+        "ex": "I’ll start work today.",
+        "ipaExTrans": "Tôi sẽ bắt đầu công việc hôm nay.",
+        "exMeaning": "Vị trí Trạng từ: tùy loại, phổ biến như sau: Sau động từ, và nếu động từ có tân ngữ thì sau cả tân ngữ. Đứng trước các từ loại khác mà nó bổ nghĩa"
+    },
+    {
+        "ex": "The film was surprisingly good.",
+        "ipaExTrans": "Bộ phim hay một cách đáng ngạc nhiên.",
+        "exMeaning": "Trạng từ bổ nghĩa cho Tính từ"
+    },
+    {
+        "ex": "He drives really fast.",
+        "ipaExTrans": "Anh ấy lái xe rất nhanh.",
+        "exMeaning": "Trạng từ bổ nghĩa cho Trạng từ"
+    },
+    {
+        "ex": "He’s just a 5-year-old boy.",
+        "ipaExTrans": "Nó chỉ là một cậu bé 5 tuổi.",
+        "exMeaning": "Trạng từ bổ nghĩa cho cụm danh từ"
+    },
+    {
+        "ex": "It’s always cold here, even in the summer.",
+        "ipaExTrans": "Ở đây luôn lạnh, kể cả vào mùa hè.",
+        "exMeaning": "Trạng từ bổ nghĩa cho Giới từ"
+    },
+    {
+        "ex": "Only you can do it.",
+        "ipaExTrans": "Chỉ bạn có thể làm điều đó.",
+        "exMeaning": "Trạng từ bổ nghĩa cho Đại từ"
+    },
+    {
+        "ex": "He lost almost all his money.",
+        "ipaExTrans": "Anh ấy đã mất gần như tất cả tiền của mình.",
+        "exMeaning": "Trạng từ bổ nghĩa cho Từ hạn định"
+    },
+    {
+        "ex": "I have enough food for all of us.",
+        "ipaExTrans": "Tôi có đủ thức ăn cho tất cả chúng ta.",
+        "exMeaning": "Đặc biệt: trạng từ Enough. Nếu bổ nghĩa cho danh từ thì đứng ngay trước danh từ"
+    },
+    {
+        "ex": "This house isn’t big enough for us.",
+        "ipaExTrans": "Ngôi nhà này không đủ lớn đối với chúng tôi.",
+        "exMeaning": "Đặc biệt: trạng từ Enough. Nếu bổ nghĩa cho các từ loại khác thì đứng ngay sau từ đó"
+    },
+    {
+        "ex": "Unfortunately, I forgot to bring the coat with me.",
+        "ipaExTrans": "Thật không may, tôi quên mang theo áo khoác.",
+        "exMeaning": "Trạng từ đánh giá về tình huống"
+    },
+    {
+        "ex": "Personally, I prefer the blue hat.",
+        "ipaExTrans": "Cá nhân tôi thích chiếc mũ màu xanh hơn.",
+        "exMeaning": "Trạng từ đưa ra quan điểm cá nhân"
+    }
+]

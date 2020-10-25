@@ -1,0 +1,307 @@
+[
+    {
+        "sentence": "How are you? How are you doing? How are things? How have you been?",
+        "tag": "Hỏi thăm ban đầu",
+        "meaning": "Bạn khỏe không? Bạn đang làm gì? Mọi thứ thế nào? Làm thế nào bạn có được?"
+    },
+    {
+        "sentence": "I hope you are doing well. I hope you have a nice weekend.",
+        "tag": "Hỏi thăm ban đầu",
+        "meaning": "Tôi hy vọng bạn đang làm tốt. Tôi hy vọng bạn có một cuối tuần vui vẻ."
+    },
+    {
+        "sentence": "Thank you for contacting NEC Company.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "Cảm ơn bạn đã liên hệ với Công ty NEC."
+    },
+    {
+        "sentence": "Thank you for your prompt reply.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "Cảm ơn bạn đã trả lời nhanh chóng của bạn."
+    },
+    {
+        "sentence": "Thank you for your prompt action.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "Cảm ơn bạn đã hành động nhanh chóng."
+    },
+    {
+        "sentence": "Thank you for getting back to me.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "Xin cám ơn sự phúc đáp của bạn."
+    },
+    {
+        "sentence": "Thanks for your strong support.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "Cảm ơn sự hỗ trợ mạnh mẽ của bạn."
+    },
+    {
+        "sentence": "thanks for your information.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "Cảm ơn thông tin của bạn."
+    },
+    {
+        "sentence": "thanks for your comments.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "cảm ơn cho ý kiến ​​của bạn."
+    },
+    {
+        "sentence": "thanks for asking though.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "cảm ơn vì đã hỏi."
+    },
+    {
+        "sentence": "Sorry for my late reply, let me answer your questions.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "Xin lỗi vì đã trả lời muộn, hãy để tôi trả lời câu hỏi của bạn."
+    },
+    {
+        "sentence": "I'm sorry for sending you so many emails in a row.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "Tôi xin lỗi vì đã gửi cho bạn quá nhiều email liên tiếp."
+    },
+    {
+        "sentence": "Sorry for my late reply.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "Xin lỗi vì trả lời chậm."
+    },
+    {
+        "sentence": "Sorry for bothering you.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "Xin lỗi vì làm phiền bạn."
+    },
+    {
+        "sentence": "Sorry for any inconvenience caused.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "Xin lỗi vì sự bất tiện gây ra."
+    },
+    {
+        "sentence": "Sorry for the inconvenience.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "Xin lỗi vì sự bất tiện."
+    },
+    {
+        "sentence": "sorry for my mistake.",
+        "tag": "Một bức thư hồi đáp, nên bắt đầu bằng “thank you / sorry…”",
+        "meaning": "xin lỗi vì sai sót của tôi."
+    },
+    {
+        "sentence": "I am writing to ask for information about English courses.",
+        "tag": "Lý do viết thư",
+        "meaning": "Tôi viết thư này để hỏi thông tin về các khóa học tiếng Anh."
+    },
+    {
+        "sentence": "I am writing to check if everything is ready for the launch of the product.",
+        "tag": "Lý do viết thư",
+        "meaning": "Tôi viết thư này để kiểm tra xem mọi thứ đã sẵn sàng cho việc ra mắt sản phẩm chưa."
+    },
+    {
+        "sentence": "I am writing to clarify some points of the contract.",
+        "tag": "Lý do viết thư",
+        "meaning": "Tôi viết thư này để làm rõ một số điểm của hợp đồng."
+    },
+    {
+        "sentence": "We are writing to inform/confirm/request/complain/explain/apologize you that...",
+        "tag": "Lý do viết thư",
+        "meaning": "Chúng tôi viết thư này để thông báo / xác nhận / yêu cầu / khiếu nại / giải thích / xin lỗi bạn rằng ..."
+    },
+    {
+        "sentence": "I am contacting you for the following reason:",
+        "tag": "Lý do viết thư",
+        "meaning": "Tôi liên hệ với bạn vì lý do sau:"
+    },
+    {
+        "sentence": "I recently read/heard about... and would like to know...",
+        "tag": "Lý do viết thư",
+        "meaning": "Gần đây tôi đã đọc / nghe nói về ... và muốn biết ..."
+    },
+    {
+        "sentence": "Having seen your advertisement in... I would like to...",
+        "tag": "Lý do viết thư",
+        "meaning": "Đã xem quảng cáo của bạn trong ... Tôi muốn ..."
+    },
+    {
+        "sentence": "I would be interested in...",
+        "tag": "Lý do viết thư",
+        "meaning": "Tôi sẽ quan tâm đến ..."
+    },
+    {
+        "sentence": "I received your address from... and would like to...",
+        "tag": "Lý do viết thư",
+        "meaning": "Tôi đã nhận được địa chỉ của bạn từ ... và muốn ..."
+    },
+    {
+        "sentence": "Further to our conversation, I'm pleased to confirm...",
+        "tag": "Đề cập đến các vấn đề đã trao đổi trước đó",
+        "meaning": "Tiếp tục cuộc trò chuyện của chúng ta, tôi vui mừng xác nhận ..."
+    },
+    {
+        "sentence": "As you started in your letter, I would like to...",
+        "tag": "Đề cập đến các vấn đề đã trao đổi trước đó",
+        "meaning": "Như bạn đã bắt đầu trong lá thư của mình, tôi muốn ..."
+    },
+    {
+        "sentence": "Regarding/Concerning/With regards to...",
+        "tag": "Đề cập đến các vấn đề đã trao đổi trước đó",
+        "meaning": "Về / Liên quan / Liên quan đến ..."
+    },
+    {
+        "sentence": "As you told me, I would like to...",
+        "tag": "Đề cập đến các vấn đề đã trao đổi trước đó",
+        "meaning": "Như bạn đã nói với tôi, tôi muốn ..."
+    },
+    {
+        "sentence": "As you mentioned in the previous one, I would like to...",
+        "tag": "Đề cập đến các vấn đề đã trao đổi trước đó",
+        "meaning": "Như bạn đã đề cập trong phần trước, tôi muốn ..."
+    },
+    {
+        "sentence": "As I know what you wrote to me, I would like to...",
+        "tag": "Đề cập đến các vấn đề đã trao đổi trước đó",
+        "meaning": "Như tôi biết những gì bạn đã viết cho tôi, tôi muốn ..."
+    },
+    {
+        "sentence": "I would be grateful if...",
+        "tag": "Making a request",
+        "meaning": "Tôi sẽ rất biết ơn nếu ..."
+    },
+    {
+        "sentence": "I wonder if you could...",
+        "tag": "Making a request",
+        "meaning": "Tôi tự hỏi liệu bạn có thể ..."
+    },
+    {
+        "sentence": "Could you tell me something about...",
+        "tag": "Making a request",
+        "meaning": "Bạn có thể cho tôi biết vài điều về ..."
+    },
+    {
+        "sentence": "I would particularly like to know...",
+        "tag": "Making a request",
+        "meaning": "Tôi đặc biệt muốn biết ..."
+    },
+    {
+        "sentence": "I would be interested in having more details about...",
+        "tag": "Making a request",
+        "meaning": "Tôi muốn biết thêm chi tiết về ..."
+    },
+    {
+        "sentence": "Could you please help me...",
+        "tag": "Making a request",
+        "meaning": "Liệu bạn có thể giúp mình không..."
+    },
+    {
+        "sentence": "I would like to ask for your help... I need your help with the following:",
+        "tag": "Making a request",
+        "meaning": "Tôi muốn nhờ bạn giúp đỡ ... Tôi cần sự giúp đỡ của bạn về những điều sau:"
+    },
+    {
+        "sentence": "We are pleased to announce that...",
+        "tag": "Giving good news",
+        "meaning": "Chúng tôi vui mừng thông báo rằng ..."
+    },
+    {
+        "sentence": "I am delighted to inform you that...",
+        "tag": "Giving good news",
+        "meaning": "Tôi rất vui được thông báo với bạn rằng ..."
+    },
+    {
+        "sentence": "You will be pleased to know that...",
+        "tag": "Giving good news",
+        "meaning": "Bạn sẽ rất vui khi biết rằng ..."
+    },
+    {
+        "sentence": "We regret to inform you...",
+        "tag": "Giving bad news",
+        "meaning": "Chúng tôi rất tiếc phải thông báo cho bạn..."
+    },
+    {
+        "sentence": "It is with great sadness that we...",
+        "tag": "Giving bad news",
+        "meaning": "Đó là với nỗi buồn lớn rằng chúng tôi ..."
+    },
+    {
+        "sentence": "After careful consideration, we have decided...",
+        "tag": "Giving bad news",
+        "meaning": "Sau khi cân nhắc kỹ lưỡng, chúng tôi đã quyết định ..."
+    },
+    {
+        "sentence": "We are sorry for the delay in replying to...",
+        "tag": "Apologizing",
+        "meaning": "Chúng tôi rất tiếc vì sự chậm trễ trong việc trả lời ..."
+    },
+    {
+        "sentence": "I regret any inconvenience caused...",
+        "tag": "Apologizing",
+        "meaning": "Tôi rất tiếc vì bất kỳ sự bất tiện nào đã gây ra ..."
+    },
+    {
+        "sentence": "I would like to apologize for the...",
+        "tag": "Apologizing",
+        "meaning": "Tôi muốn xin lỗi vì ..."
+    },
+    {
+        "sentence": "Once again, please accept my apologies for...",
+        "tag": "Apologizing",
+        "meaning": "Một lần nữa, xin cho tôi xin lỗi vì ..."
+    },
+    {
+        "sentence": "Let me know if that's ok with you.",
+        "tag": "Kết thúc email",
+        "meaning": "Hãy cho tôi biết nếu điều đó ổn với bạn."
+    },
+    {
+        "sentence": "Let me know if you need any further information.",
+        "tag": "Kết thúc email",
+        "meaning": "Hãy cho tôi biết nếu bạn cần thêm thông tin."
+    },
+    {
+        "sentence": "Let me know if you need any more information.",
+        "tag": "Kết thúc email",
+        "meaning": "Nói cho tôi biết nếu bạn cần nhiều thông tin khác."
+    },
+    {
+        "sentence": "Please get back to me as soon as possible.",
+        "tag": "Kết thúc email",
+        "meaning": "Vui lòng liên hệ lại với tôi càng sớm càng tốt."
+    },
+    {
+        "sentence": "I look forward to hearing from you soon.",
+        "tag": "Kết thúc email",
+        "meaning": "Tôi mong sớm nhận được hồi âm từ bạn."
+    },
+    {
+        "sentence": "Please do not hesitate to contact me.",
+        "tag": "Kết thúc email",
+        "meaning": "Xin đừng ngại liên hệ với tôi."
+    },
+    {
+        "sentence": "Please feel free to contact me if you need further information.",
+        "tag": "Kết thúc email",
+        "meaning": "Vui lòng liên hệ với tôi nếu bạn cần thêm thông tin."
+    },
+    {
+        "sentence": "I would be grateful if you could attend to this matter as soon as possible.",
+        "tag": "Kết thúc email",
+        "meaning": "Tôi sẽ rất biết ơn nếu bạn có thể giải quyết vấn đề này càng sớm càng tốt."
+    },
+    {
+        "sentence": "If you would like any further information, please don't hesitate to contact me.",
+        "tag": "Kết thúc email",
+        "meaning": "Nếu bạn muốn biết thêm thông tin, xin vui lòng liên hệ với tôi."
+    },
+    {
+        "sentence": "I look forward to...",
+        "tag": "Kết thúc email",
+        "meaning": "Tôi rất mong ..."
+    },
+    {
+        "sentence": "Please respond at your earliest convenience.",
+        "tag": "Kết thúc email",
+        "meaning": "Xin trả lời sớm nhất của bạn một cách thuận tiện."
+    },
+    {
+        "sentence": "Best, Best wishes, Regards, Take care, Bye,",
+        "tag": "Ký tên",
+        "meaning": "Tốt nhất, Lời chúc tốt nhất, Kính trọng, Chăm sóc, Tạm biệt,"
+    }
+]

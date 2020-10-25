@@ -1,0 +1,282 @@
+[
+    {
+        "sentence": "The \"Hierarchy Window\" contains the list of GameObjects currently added to your game.",
+        "tag": "Hierarchy Window",
+        "meaning": "Cửa sổ phân cấp chứa danh sách các GameObject hiện được thêm vào trò chơi của bạn."
+    },
+    {
+        "sentence": "When a GameObjects is selected, the \"Inspector Window\" shows its properties. The Inspector lists all the \"components\" and \"properties\" of the GameObject that you just selected.",
+        "tag": "Inspector Window",
+        "meaning": "Khi một GameObjects được chọn, \"Cửa sổ Thanh tra\" sẽ hiển thị các thuộc tính của nó. Thanh tra liệt kê tất cả các \"thành phần\" và \"thuộc tính\" của GameObject mà bạn vừa chọn."
+    },
+    {
+        "sentence": "You can see all the properties of the GameObject in the Inspector. Try increasing the number in the Top Speed field to make the Kart go faster. You may need to click to open Base Stats.",
+        "tag": "Inspector Window",
+        "meaning": "Bạn có thể xem tất cả các thuộc tính của GameObject trong Thanh tra. Hãy thử tăng số trong trường Tốc độ tối đa để làm cho Kart đi nhanh hơn. Bạn có thể cần phải nhấp để mở Số liệu thống kê cơ sở."
+    },
+    {
+        "sentence": "Now try your game with the new speed. Click Play at the top of the editor to enter Play Mode.",
+        "tag": "Inspector Window",
+        "meaning": "Bây giờ hãy thử trò chơi của bạn với tốc độ mới. Nhấp vào Phát ở đầu trình chỉnh sửa để vào Chế độ chơi."
+    },
+    {
+        "sentence": "Click the Play button again when you are finished playing your game.",
+        "tag": "Inspector Window",
+        "meaning": "Nhấp lại vào nút Play khi bạn chơi xong trò chơi của mình."
+    },
+    {
+        "sentence": "What's next? Keep going to learn how to change your Kart's color, and add objects around the track. Before you do, get familiar with the Editor.",
+        "tag": "Inspector Window",
+        "meaning": "Cái gì tiếp theo? Tiếp tục tìm hiểu cách thay đổi màu sắc của Kart và thêm các đối tượng xung quanh đường đua. Trước khi làm, hãy làm quen với Trình chỉnh sửa."
+    },
+    {
+        "sentence": "In this tutorial, you'll learn more about the Unity Editor, which will be super helpful as you modify your game.",
+        "tag": "Editor UI",
+        "meaning": "Trong hướng dẫn này, bạn sẽ tìm hiểu thêm về Unity Editor, sẽ rất hữu ích khi bạn sửa đổi trò chơi của mình."
+    },
+    {
+        "sentence": "The \"Scene View\" allows you to navigate and edit your scene.",
+        "tag": "Hierarchy and Scene",
+        "meaning": "Chế độ xem cảnh cho phép bạn điều hướng và chỉnh sửa cảnh của mình."
+    },
+    {
+        "sentence": "The \"Hierarchy window\" contains a list of everything in the current scene that is open in the editor.",
+        "tag": "Hierarchy and Scene",
+        "meaning": "Cửa sổ phân cấp chứa danh sách mọi thứ trong cảnh hiện tại đang mở trong trình chỉnh sửa."
+    },
+    {
+        "sentence": "Select Start to begin. Click Next to continue.",
+        "tag": "Hierarchy and Scene",
+        "meaning": "Chọn Bắt đầu để bắt đầu. Nhấn Next để tiếp tục."
+    },
+    {
+        "sentence": "Let's try the \"Hand Tool\", which allows you to navigate your view of the scene. Click the Hand Tool in the upper left corner of the Toolbar at the top of the editor.",
+        "tag": "Select Hand Tool",
+        "meaning": "Hãy thử \"Công cụ cầm tay\", cho phép bạn điều hướng chế độ xem của mình về cảnh. Nhấp vào Công cụ cầm tay ở góc trên bên trái của Thanh công cụ ở đầu trình chỉnh sửa."
+    },
+    {
+        "sentence": "Now that you have selected the \"Hand Tool\", place your cursor in the \"Scene View\" and try the following steps to move your view of the scene in several ways: Hold down the left mouse button and move the mouse to pan.",
+        "tag": "Pan around the scene",
+        "meaning": "Bây giờ bạn đã chọn \"Công cụ cầm tay\", hãy đặt con trỏ vào \"Chế độ xem cảnh\" và thử các bước sau để di chuyển chế độ xem cảnh của bạn theo một số cách: Giữ nút chuột trái và di chuyển chuột để di chuyển."
+    },
+    {
+        "sentence": "Now let's look around within the Scene view: Hold down the Alt or Option key and the left mouse button, and move the mouse to orbit your view of the scene.",
+        "tag": "Orbit in the scene",
+        "meaning": "Bây giờ chúng ta hãy nhìn xung quanh trong chế độ xem Cảnh: Giữ phím Alt hoặc Option và nút chuột trái, và di chuyển chuột để xoay quanh chế độ xem của bạn về cảnh."
+    },
+    {
+        "sentence": "Hold down the Alt or Option key and the right mouse button, and move the mouse to zoom in and out.",
+        "tag": "Zoom in and out in the scene",
+        "meaning": "Nhấn giữ phím Alt hoặc Option và nút chuột phải, và di chuyển chuột để phóng to và thu nhỏ."
+    },
+    {
+        "sentence": "Alternatively, use the mouse scroll wheel or the scroll gesture on a trackpad.",
+        "tag": "Zoom in and out in the scene",
+        "meaning": "Ngoài ra, sử dụng con lăn chuột hoặc cử chỉ cuộn trên bàn di chuột."
+    },
+    {
+        "sentence": "Next, we have the \"Project Window\", which displays all of the assets that are available to use in your project.",
+        "tag": "Project Window",
+        "meaning": "Tiếp theo, chúng ta có \"Cửa sổ Dự án\", hiển thị tất cả các tài sản có sẵn để sử dụng trong dự án của bạn."
+    },
+    {
+        "sentence": "Assets are the files that make up your project, for example, 3D models, textures, audio files, and more.",
+        "tag": "Project Window",
+        "meaning": "Nội dung là các tệp tạo nên dự án của bạn, ví dụ: mô hình 3D, kết cấu, tệp âm thanh, v.v."
+    },
+    {
+        "sentence": "When you import assets into your project, they appear in the Project Window.",
+        "tag": "Project Window",
+        "meaning": "Khi bạn nhập nội dung vào dự án của mình, chúng sẽ xuất hiện trong Cửa sổ dự án."
+    },
+    {
+        "sentence": "Let's personalize your game by changing the material of the Kart.",
+        "tag": "Edit Colors",
+        "meaning": "Hãy cá nhân hóa trò chơi của bạn bằng cách thay đổi chất liệu của Kart."
+    },
+    {
+        "sentence": "In Unity, when you want to change colors, or otherwise alter the appearance of an object, you need to modify its material.",
+        "tag": "Edit Colors",
+        "meaning": "Trong Unity, khi bạn muốn thay đổi màu sắc hoặc thay đổi diện mạo của một đối tượng, bạn cần phải sửa đổi chất liệu của nó."
+    },
+    {
+        "sentence": "Before you change the color of your Kart, you should frame it in the Scene view.",
+        "tag": "Select the Kart",
+        "meaning": "Trước khi thay đổi màu của Kart, bạn nên đóng khung nó trong chế độ xem Cảnh."
+    },
+    {
+        "sentence": "In the Hierarchy Window, select the Kart Player GameObject.",
+        "tag": "Select the Kart",
+        "meaning": "Trong Cửa sổ Phân cấp, chọn Đối tượng Trò chơi Kart Player."
+    },
+    {
+        "sentence": "With your mouse cursor over the Scene View, press F on your keyboard. This will bring the Kart into view and frame it.",
+        "tag": "Select the Kart",
+        "meaning": "Đưa con trỏ chuột qua Chế độ xem cảnh, nhấn F trên bàn phím. Điều này sẽ đưa Kart vào tầm nhìn và đóng khung nó."
+    },
+    {
+        "sentence": "The Project Window is where you find all of assets that are available to use in your project, which includes materials.",
+        "tag": "Select KartBody",
+        "meaning": "Cửa sổ Dự án là nơi bạn tìm thấy tất cả các tài sản có sẵn để sử dụng trong dự án của mình, bao gồm cả vật liệu."
+    },
+    {
+        "sentence": "Select the KartBody Material in the Project Window.",
+        "tag": "Select KartBody",
+        "meaning": "Chọn Vật liệu KartBody trong Cửa sổ Dự án."
+    },
+    {
+        "sentence": "In the Inspector Window, you will see a color box (to the right of the Albedo tag).",
+        "tag": "Change Base Map color",
+        "meaning": "Trong Cửa sổ Thanh tra, bạn sẽ thấy một hộp màu (ở bên phải của thẻ Albedo)."
+    },
+    {
+        "sentence": "Click in the box, and the Color Picker Window will appear. Select a color by clicking on it. When done, close the window.",
+        "tag": "Change Base Map color",
+        "meaning": "Nhấp vào hộp và Cửa sổ Bộ chọn Màu sẽ xuất hiện. Chọn một màu bằng cách nhấp vào nó. Khi hoàn tất, hãy đóng cửa sổ."
+    },
+    {
+        "sentence": "Take a look in your Scene View after changing the color. Your Kart color has changed!",
+        "tag": "Change Base Map color",
+        "meaning": "Hãy xem trong Chế độ xem cảnh của bạn sau khi thay đổi màu sắc. Màu Kart của bạn đã thay đổi!"
+    },
+    {
+        "sentence": "A prefab is a \"GameObject\" that has components and properties and is stored as an asset. It can be reused anywhere you want in your game.",
+        "tag": "Add a Jump",
+        "meaning": "Nhà lắp ghép là một \"GameObject\" có các thành phần và thuộc tính và được lưu trữ dưới dạng nội dung. Nó có thể được sử dụng lại ở bất cứ đâu bạn muốn trong trò chơi của mình."
+    },
+    {
+        "sentence": "Project Window list all the prefabs that are available in this project, and we have a few that are ready to add to the Scene.",
+        "tag": "Add a Jump",
+        "meaning": "Project Window liệt kê tất cả các prefabs có sẵn trong dự án này và chúng tôi có một số sẵn sàng để thêm vào Scene."
+    },
+    {
+        "sentence": "Now we're going to drag the JumpRamp Prefab from the Project Window, into the Scene view.",
+        "tag": "Drag JumpRamp Prefab to Scene",
+        "meaning": "Bây giờ chúng ta sẽ kéo JumpRamp Prefab từ Cửa sổ Dự án, vào chế độ xem Cảnh."
+    },
+    {
+        "sentence": "This will instantiate it (also known as \"spawning\" or \"cloning\" it) in the scene.",
+        "tag": "Drag JumpRamp Prefab to Scene",
+        "meaning": "Điều này sẽ khởi tạo nó) còn được gọi là \"sinh sản\" hoặc \"nhân bản\" nó) trong cảnh."
+    },
+    {
+        "sentence": "Drag JumpRamp Prefab from the Project Window into the empty space in the Scene View.",
+        "tag": "Drag JumpRamp Prefab to Scene",
+        "meaning": "Kéo JumpRamp Prefab từ Cửa sổ Dự án vào không gian trống trong Chế độ xem Cảnh."
+    },
+    {
+        "sentence": "Let's position the Jump by using the Move Tool. Click the Move Tool in the upper left corner of the Toolbar at the top of the editor. You can also use keyboard shortcut W.",
+        "tag": "Select the Move Tool",
+        "meaning": "Hãy định vị Jump bằng cách sử dụng Move Tool. Nhấp vào Công cụ Di chuyển ở góc trên bên trái của Thanh công cụ ở đầu trình chỉnh sửa. Bạn cũng có thể sử dụng phím tắt W."
+    },
+    {
+        "sentence": "Drag the red, blue or green handles to move your Prefab around. Place it wherever you think it looks good!",
+        "tag": "Select the Move Tool",
+        "meaning": "Kéo các chốt màu đỏ, xanh lam hoặc xanh lục để di chuyển Prefab của bạn xung quanh. Đặt nó bất cứ nơi nào bạn nghĩ rằng nó trông đẹp!"
+    },
+    {
+        "sentence": "Great! You now know what a Prefab is, how to add it to an open scene, and position it. Why not try out some of the other tools in Toolbar?",
+        "tag": "Rotate and Scale",
+        "meaning": "Tuyệt quá! Bây giờ bạn đã biết Prefab là gì, cách thêm nó vào một cảnh mở và định vị nó. Tại sao không thử một số công cụ khác trong Thanh công cụ?"
+    },
+    {
+        "sentence": "There are a Rotate To0l (E) and a Scale Tool (R) to play with.",
+        "tag": "Rotate and Scale",
+        "meaning": "Có một công cụ thu phí xoay (E) và một công cụ tỷ lệ (R) để chơi với."
+    },
+    {
+        "sentence": "Now it's time to test your addition to the track. Enter play mode to see how far you can jump.",
+        "tag": "Test your jump",
+        "meaning": "Bây giờ là lúc để kiểm tra việc bổ sung của bạn vào bản nhạc. Vào chế độ chơi để xem bạn có thể nhảy bao xa."
+    },
+    {
+        "sentence": "You can also try changing the Kart speed or make the jump bigger.",
+        "tag": "Test your jump",
+        "meaning": "Bạn cũng có thể thử thay đổi tốc độ Kart hoặc làm cho bước nhảy lớn hơn."
+    },
+    {
+        "sentence": "When you are happy with your changes, click next to continue.",
+        "tag": "Test your jump",
+        "meaning": "Khi bạn hài lòng với những thay đổi của mình, hãy nhấp vào tiếp theo để tiếp tục."
+    },
+    {
+        "sentence": "Now you're finished customizing the microgame and it's time to share it!",
+        "tag": "Build and Publish",
+        "meaning": "Bây giờ bạn đã hoàn thành việc tùy chỉnh trò chơi nhỏ và đã đến lúc chia sẻ nó!"
+    },
+    {
+        "sentence": "In this tutorial, you'll build this Unity project into a game that your friends and family can play on a dedicated webpage.",
+        "tag": "Build and Publish",
+        "meaning": "Trong hướng dẫn này, bạn sẽ xây dựng dự án Unity này thành một trò chơi mà bạn bè và gia đình của bạn có thể chơi trên một trang web chuyên dụng."
+    },
+    {
+        "sentence": "Note: Building this Unity project can take some time. Please be patient as you create your microgame.",
+        "tag": "Build and Publish",
+        "meaning": "Lưu ý: Việc xây dựng dự án Unity này có thể mất một chút thời gian. Hãy kiên nhẫn khi bạn tạo trò chơi nhỏ của mình."
+    },
+    {
+        "sentence": "In this tutorial, you're going to export your microgame as a WebGL game. Your game will have its own dedicated web page.",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Trong hướng dẫn này, bạn sẽ xuất trò chơi nhỏ của mình dưới dạng trò chơi WebGL. Trò chơi của bạn sẽ có trang web chuyên dụng riêng."
+    },
+    {
+        "sentence": "Now that you're opened the WebGL Publisher window, you can set up Unity Editor to publish projects. Select Get Started in the window when you're ready to begin.",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Bây giờ bạn đã mở cửa sổ WebGL Publisher, bạn có thể thiết lập Unity Editor để xuất bản các dự án. Chọn Bắt đầu trong cửa sổ khi bạn đã sẵn sàng bắt đầu."
+    },
+    {
+        "sentence": "This tool allows you to make a WebGL build of your current project and upload it to Unity's website, where it can be shared with others.",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Công cụ này cho phép bạn tạo bản dựng WebGL của dự án hiện tại của mình và tải nó lên trang web của Unity, nơi nó có thể được chia sẻ với những người khác."
+    },
+    {
+        "sentence": "Before you can publish your game, you need to build it. This step could take up to 30 minutes.",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Trước khi có thể xuất bản trò chơi của mình, bạn cần phải xây dựng nó. Bước này có thể mất đến 30 phút."
+    },
+    {
+        "sentence": "Select Create New WebGL Build and create a new folder to store your build files. If you want to publish an existing build, select Locate Existing Build instead and locate the build using the file browser.",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Chọn Tạo Bản dựng WebGL Mới và tạo một thư mục mới để lưu trữ các tệp bản dựng của bạn. Nếu bạn muốn xuất bản bản dựng hiện có, hãy chọn Định vị bản dựng hiện có và định vị bản dựng bằng trình duyệt tệp."
+    },
+    {
+        "sentence": "Note that the first build might take a while and that the editor will be unresponsive. The next build will be faster.",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Lưu ý rằng bản dựng đầu tiên có thể mất một lúc và trình chỉnh sửa sẽ không phản hồi. Bản dựng tiếp theo sẽ nhanh hơn."
+    },
+    {
+        "sentence": "It seems that you have not selected WebGL platform. Would you like to switch now?",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Có vẻ như bạn chưa chọn nền tảng WebGL. Bạn có muốn chuyển ngay bây giờ không?"
+    },
+    {
+        "sentence": "Your game build needs to be processed before it goes live. In a few minutes, you'll be able to share it with your friends!",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Bản dựng trò chơi của bạn cần được xử lý trước khi phát hành. Trong vài phút nữa, bạn sẽ có thể chia sẻ nó với bạn bè của mình!"
+    },
+    {
+        "sentence": "When the processing progress counter is complete, select Next to continue.",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Khi bộ đếm tiến độ xử lý hoàn tất, chọn Next để tiếp tục."
+    },
+    {
+        "sentence": "You're almost ready to share! Before you do, add some details for your game directly on the web page: a title, description, and a thumbnail if you want.",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Bạn gần như đã sẵn sàng để chia sẻ! Trước khi thực hiện, hãy thêm một số chi tiết cho trò chơi của bạn trực tiếp trên trang web: tiêu đề, mô tả và hình thu nhỏ nếu bạn muốn."
+    },
+    {
+        "sentence": "It's also a good idea to test that everything works as expected one more time.",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Bạn cũng nên kiểm tra xem mọi thứ có hoạt động như mong đợi một lần nữa hay không."
+    },
+    {
+        "sentence": "Now that your game has a home on the web, you can share the link so others can play!",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Bây giờ trò chơi của bạn đã có nhà trên web, bạn có thể chia sẻ liên kết để người khác có thể chơi!"
+    },
+    {
+        "sentence": "Adjust the remaining details of your game directly on the web page. Add a title, a description, and a thumbnail if you want, then test if everything works as expected.",
+        "tag": "Open the WebGL Publisher",
+        "meaning": "Điều chỉnh các chi tiết còn lại của trò chơi của bạn trực tiếp trên trang web. Thêm tiêu đề, mô tả và hình thu nhỏ nếu bạn muốn, sau đó kiểm tra xem mọi thứ có hoạt động như mong đợi hay không."
+    }
+]

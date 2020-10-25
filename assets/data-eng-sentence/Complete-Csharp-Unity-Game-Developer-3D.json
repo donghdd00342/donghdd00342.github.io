@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "Hey, would you like to learn to code by making computer games?",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Này, bạn có muốn học viết mã bằng cách tạo trò chơi trên máy tính không?"
+    },
+    {
+        "sentence": "My name is Ben and I've already taught over three hundred thousand people like you to learn to code by making games.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Tên tôi là Ben và tôi đã dạy hơn ba trăm nghìn người như bạn học cách viết mã bằng cách làm trò chơi."
+    },
+    {
+        "sentence": "And I've teamed up with... Hey, I'm Rick I've been a game designer for more than 13 years.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Và tôi đã hợp tác với ... Này, tôi là Rick Tôi đã là nhà thiết kế trò chơi hơn 13 năm."
+    },
+    {
+        "sentence": "and we're super excited to bring you this complete unity developer course.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "và chúng tôi rất vui khi mang đến cho bạn khóa học dành cho nhà phát triển thống nhất hoàn chỉnh này."
+    },
+    {
+        "sentence": "So even if you've never touched C# or coding before this course is for you.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Vì vậy, ngay cả khi bạn chưa bao giờ chạm vào C # hoặc mã hóa trước khi khóa học này là dành cho bạn."
+    },
+    {
+        "sentence": "We start off with a game called Terminal Hacker, a simple hacking game where you learn the fundamental of C#.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Chúng tôi bắt đầu với một trò chơi có tên là Terminal Hacker, một trò chơi hack đơn giản, nơi bạn học kiến ​​thức cơ bản về C #."
+    },
+    {
+        "sentence": "Moving on from there what do we do Rick?",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Tiếp tục từ đó chúng ta phải làm gì Rick?"
+    },
+    {
+        "sentence": "We jump into Project Boost which is a game that's going to teach you all that unity and how unity works.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Chúng tôi nhảy vào Project Boost, một trò chơi sẽ dạy cho bạn tất cả sự thống nhất đó và cách hoạt động của sự thống nhất."
+    },
+    {
+        "sentence": "moving things onscreen, rotating, collisions, particle effects, lighting, lots of great fundamentals with Unity, and a really versatile game where you can take it any direction you want, create something that's shippable. Absolutely.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "di chuyển mọi thứ trên màn hình, xoay, va chạm, hiệu ứng hạt, ánh sáng, rất nhiều nguyên tắc cơ bản tuyệt vời với Unity và một trò chơi thực sự linh hoạt, nơi bạn có thể thực hiện theo bất kỳ hướng nào bạn muốn, tạo ra thứ gì đó có thể chuyển đổi được. Chắc chắn rồi."
+    },
+    {
+        "sentence": "And in section 3 we fuse those together in Argon Assault.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Và trong phần 3, chúng ta kết hợp chúng lại với nhau trong Argon Assault."
+    },
+    {
+        "sentence": "This is a Rails Shooter, your hurtling into the screen through a three-dimensional terrain, moving your ship around using keyboard or gamepad, particle effects, collisions, a user interface for the score, all sorts.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Đây là một game bắn súng Rails, việc bạn di chuyển vào màn hình qua địa hình ba chiều, di chuyển con tàu của bạn xung quanh bằng bàn phím hoặc gamepad, hiệu ứng hạt, va chạm, giao diện người dùng cho điểm số, tất cả các loại."
+    },
+    {
+        "sentence": "Following on from that, we jump into a 3D Tower Defence game where we are placing towers and spawning enemies.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Tiếp theo từ đó, chúng tôi chuyển sang trò chơi Phòng thủ Tháp 3D, nơi chúng tôi đặt các tháp và sinh ra kẻ thù."
+    },
+    {
+        "sentence": "And there's a real heavy emphasis in this section on teaching you the fundamentals of pathfinding and building your own pathfinding algorithm.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Và phần này thực sự nhấn mạnh vào việc dạy cho bạn các nguyên tắc cơ bản về tìm đường và xây dựng thuật toán tìm đường của riêng bạn."
+    },
+    {
+        "sentence": "Absolutely. So remember, with Udemy you get lifetime access.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Chắc chắn rồi. Vì vậy, hãy nhớ rằng, với Udemy, bạn có quyền truy cập suốt đời."
+    },
+    {
+        "sentence": "It's a great time to learn to code, and no more fun way than by making games, So please, join this course now.",
+        "tag": "1. Why You Should Buy This Course",
+        "meaning": "Đây là thời điểm tuyệt vời để học viết mã, và không có cách nào thú vị hơn là làm trò chơi, Vì vậy, hãy tham gia khóa học này ngay bây giờ."
+    }
+]

@@ -1,4 +1,5 @@
 [
     {"id": 99, "position": 99, "name": "[Grammar] Các chủ điểm ngữ pháp (1)", "date": "18/10/2020", "by": "DongHo", "url": "/assets/data-eng-word/grammar-cac-chu-diem-ngu-phap-01.json", "wShow": false, "eShow": true},
-    {"id": 100, "position": 100, "name": "[750 words] General Business", "date": "21/08/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-general-business.json", "wShow": true, "eShow": true}
+    {"id": 100, "position": 100, "name": "[750 words] 1. General Business (Thương mại tổng quát)", "date": "21/08/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-1-general-business.json", "wShow": true, "eShow": true},
+    {"id": 101, "position": 101, "name": "[750 words] 2. Offices Issues (Hành chính văn phòng)", "date": "21/08/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-2-offices-issues.json", "wShow": true, "eShow": true}
 ]

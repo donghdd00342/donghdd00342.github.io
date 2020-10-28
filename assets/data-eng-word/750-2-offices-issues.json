@@ -1,0 +1,515 @@
+[
+    {
+        "word": "capacity",
+        "type": "n",
+        "ipa": "kəˈpæsɪti",
+        "meaning": "sức chứa, dung tích, năng suất",
+        "ex": "The boardroom has a large seating capacity.",
+        "ipaExTrans": "ðə ˈbɔːdrʊm hæz ə lɑːʤ ˈsiːtɪŋ kəˈpæsɪti.",
+        "exMeaning": "Phòng họp của công ty có sức chưa lớn."
+    },
+    {
+        "word": "expose",
+        "type": "v",
+        "ipa": "ɪksˈpəʊz",
+        "meaning": "phơi bày, bộc lộ",
+        "ex": "The problem was exposed at the meeting.",
+        "ipaExTrans": "ðə ˈprɒbləm wɒz ɪksˈpəʊzd æt ðə ˈmiːtɪŋ.",
+        "exMeaning": "Vấn đề được phơi bày tại cuộc họp."
+    },
+    {
+        "word": "initiative",
+        "type": "n",
+        "ipa": "ɪˈnɪʃɪətɪv",
+        "meaning": "sáng kiến",
+        "ex": "I took the initiative of calling a meeting.",
+        "ipaExTrans": "aɪ tʊk ði ɪˈnɪʃɪətɪv ɒv ˈkɔːlɪŋ ə ˈmiːtɪŋ.",
+        "exMeaning": "Tôi bắt đầu kêu gọi cuộc họp."
+    },
+    {
+        "word": "mention",
+        "type": "v",
+        "ipa": "ˈmɛnʃən",
+        "meaning": "đề cập",
+        "ex": "I think what you said is important. Maybe you sould mention it at the meeting.",
+        "ipaExTrans": "aɪ θɪŋk wɒt juː sɛd ɪz ɪmˈpɔːtənt. ˈmeɪbiː juː sould ˈmɛnʃən ɪt æt ðə ˈmiːtɪŋ.",
+        "exMeaning": "Tôi nghĩ những gì bạn nói là quan trọng. Có lẽ bạn nên đề cập nó tại buổi họp."
+    },
+    {
+        "word": "outlook",
+        "type": "n",
+        "ipa": "ˈaʊtlʊk",
+        "meaning": "viễn cảnh, quan điểm",
+        "ex": "With the appointment of a new CEO, the company's outlook has gotten better.",
+        "ipaExTrans": "wɪð ði əˈpɔɪntmənt ɒv ə njuː siː-iː-əʊ, ðə ˈkʌmpəniz ˈaʊtlʊk hæz ˈgɒtn ˈbɛtə.",
+        "exMeaning": "Với việc bổ nhiệm giám đốc điều hành mới, viễn cảnh của công ty sẽ tốt hơn."
+    },
+    {
+        "word": "sharp",
+        "type": "adv",
+        "ipa": "ʃɑːp",
+        "meaning": "chính xác",
+        "ex": "The meeting starts at nine o'clock sharp , so don't be late.",
+        "ipaExTrans": "ðə ˈmiːtɪŋ stɑːts æt naɪn əˈklɒk ʃɑːp , səʊ dəʊnt biː leɪt.",
+        "exMeaning": "Cuộc họp bắt đầu lúc 9 giờ đúng, vì vậy đừng đến trễ."
+    },
+    {
+        "word": "appoint",
+        "type": "v",
+        "ipa": "əˈpɔɪnt",
+        "meaning": "chọn, bổ nhiệm, chỉ định",
+        "ex": "He had the most successful track record, so he was appointed head of the new project.",
+        "ipaExTrans": "hiː hæd ðə məʊst səkˈsɛsfʊl træk ˈrɛkɔːd, səʊ hiː wɒz əˈpɔɪntɪd hɛd ɒv ðə njuː ˈprɒʤɛkt.",
+        "exMeaning": "Anh ấy có thành tích cá nhân thành công nhất, vì vậy anh ấy được chỉ định làm trưởng nhóm cho dự án mới."
+    },
+    {
+        "word": "association",
+        "type": "n",
+        "ipa": "əˌsəʊsɪˈeɪʃ(ə)n",
+        "meaning": "sự hợp tác",
+        "ex": "Our long-term association with your advertising firm has brought benefits to both sides.",
+        "ipaExTrans": "ˈaʊə ˈlɒŋtɜːm əˌsəʊsɪˈeɪʃ(ə)n wɪð jɔːr ˈædvətaɪzɪŋ fɜːm hæz brɔːt ˈbɛnɪfɪts tuː bəʊθ saɪdz.",
+        "exMeaning": "Sự hợp tác lâu dài của chúng tôi với công ty quảng cáo của bạn đã mang đến lợi ích cho cả hai bên."
+    },
+    {
+        "word": "colleague",
+        "type": "n",
+        "ipa": "ˈkɒliːg",
+        "meaning": "đồng nghiệp",
+        "ex": "My colleague would be happy to meet with you and answer any questions you have.",
+        "ipaExTrans": "maɪ ˈkɒliːg wʊd biː ˈhæpi tuː miːt wɪð juː ænd ˈɑːnsər ˈɛni ˈkwɛsʧənz juː hæv.",
+        "exMeaning": "Đồng nghiệp của tôi vui vẻ gặp và trả lời những thắc mắc của các bạn."
+    },
+    {
+        "word": "commitment",
+        "type": "n",
+        "ipa": "kəˈmɪtmənt",
+        "meaning": "sự ủy thác, sự chuyển giao một dự luật",
+        "ex": "The U.S army demands a four-year commitment from its enlistees.",
+        "ipaExTrans": "ðə juː.ɛs ˈɑːmi dɪˈmɑːndz ə fɔː-jɪə kəˈmɪtmənt frɒm ɪts ˌɛnlɪsˈtiːz.",
+        "exMeaning": "Quân đội Mỹ đòi hỏi sự chuyển giao 4 năm 1 lần từ những người có tên trên danh sách."
+    },
+    {
+        "word": "committee",
+        "type": "n",
+        "ipa": "kəˈmɪti",
+        "meaning": "ủy ban",
+        "ex": "Congresspeople all have to serve on committees that facilitate the evaluation of laws.",
+        "ipaExTrans": "Congresspeople ɔːl hæv tuː sɜːv ɒn kəˈmɪtiz ðæt fəˈsɪlɪteɪt ði ɪˌvæljʊˈeɪʃən ɒv lɔːz.",
+        "exMeaning": "Tất cả nghĩ sĩ quốc hội phải phục vụ trên những ủy ban tạo thuận tiện trong việc đánh giá các điều luật."
+    },
+    {
+        "word": "consensus",
+        "type": "n",
+        "ipa": "kənˈsɛnsəs",
+        "meaning": "sự thống nhất, sự nhất trí",
+        "ex": "By general consensus , Jerry was picked as the class president.",
+        "ipaExTrans": "baɪ ˈʤɛnərəl kənˈsɛnsəs , ˈʤɛri wɒz pɪkt æz ðə klɑːs ˈprɛzɪdənt.",
+        "exMeaning": "Qua sự nhất trí chung. Jerry được bầy làm lớp trưởng của lớp."
+    },
+    {
+        "word": "discharge",
+        "type": "v",
+        "ipa": "dɪsˈʧɑːʤ",
+        "meaning": "sa thải",
+        "ex": "He was discharged after failing to meet company standards.",
+        "ipaExTrans": "hiː wɒz dɪsˈʧɑːʤd ˈɑːftə ˈfeɪlɪŋ tuː miːt ˈkʌmpəni ˈstændədz.",
+        "exMeaning": "Anh ta bị sa thải sau khi không đáp ứng được tiêu chuẩn của công ty."
+    },
+    {
+        "word": "executive",
+        "type": "n, adj",
+        "ipa": "ɪgˈzɛkjʊtɪv",
+        "meaning": "người điều hành, giám đốc điều hành",
+        "ex": "His ambition is to become an executive in a multinational corporation.",
+        "ipaExTrans": "hɪz æmˈbɪʃ(ə)n ɪz tuː bɪˈkʌm ən ɪgˈzɛkjʊtɪv ɪn ə ˌmʌltɪˈnæʃənl ˌkɔːpəˈreɪʃən.",
+        "exMeaning": "Hoài bão của anh ta là trở thành giám đốc điều hành tạo một công ty đa quốc gia."
+    },
+    {
+        "word": "appreciation",
+        "type": "n",
+        "ipa": "əˌpriːʃɪˈeɪʃ(ə)n",
+        "meaning": "sự biết ơn, sự đánh giá cao",
+        "ex": "We need to send a letter of appreciation to the mayor for helping us out yesterday.",
+        "ipaExTrans": "wiː niːd tuː sɛnd ə ˈlɛtər ɒv əˌpriːʃɪˈeɪʃ(ə)n tuː ðə meə fɔː ˈhɛlpɪŋ ʌs aʊt ˈjɛstədeɪ.",
+        "exMeaning": "Chúng ta cần gửi một lá thư cám ơn ông thị trưởng vì đã giúp đỡ chúng ta hôm qua."
+    },
+    {
+        "word": "authorization",
+        "type": "n",
+        "ipa": "ˌɔːθəraɪˈzeɪʃ(ə)n",
+        "meaning": "sự ủy quyền",
+        "ex": "We have gotten authorization from our boss to agree to your terms.",
+        "ipaExTrans": "wiː hæv ˈgɒtn ˌɔːθəraɪˈzeɪʃ(ə)n frɒm ˈaʊə bɒs tuː əˈgriː tuː jɔː tɜːmz.",
+        "exMeaning": "Chúng tôi được ông chủ ủy quyền để chấp nhận các điều khoản của bạn"
+    },
+    {
+        "word": "branch",
+        "type": "n",
+        "ipa": "brɑːnʧ",
+        "meaning": "nhánh, chi nhánh",
+        "ex": "You can contact the company either at the main headquarters or the branch office nearest you.",
+        "ipaExTrans": "juː kæn ˈkɒntækt ðə ˈkʌmpəni ˈaɪðər æt ðə meɪn ˈhɛdˈkwɔːtəz ɔː ðə brɑːnʧ ˈɒfɪs ˈnɪərɪst juː.",
+        "exMeaning": "Bạn cần liên hệ với công ty tại trụ sở chính hoặc văn phòng chi nhánh gần bạn nhất."
+    },
+    {
+        "word": "bulletin",
+        "type": "n",
+        "ipa": "ˈbʊlɪtɪn",
+        "meaning": "bản báo cáo, bản thông báo",
+        "ex": "Justin posted a bulletin at the dorm that said he was looking for a new roommate.",
+        "ipaExTrans": "ˈʤʌstɪn ˈpəʊstɪd ə ˈbʊlɪtɪn æt ðə dɔːm ðæt sɛd hiː wɒz ˈlʊkɪŋ fɔːr ə njuː ˈruːmmeɪt.",
+        "exMeaning": "Justin đã dán một bản thông báo tại ký túc xá thông báo rằng anh ấy đang tìm một người bạn ở chung phòng mới."
+    },
+    {
+        "word": "correspondence",
+        "type": "n",
+        "ipa": "ˌkɒrɪsˈpɒndəns",
+        "meaning": "sự liên lạc thư từ",
+        "ex": "Most of the company's correspondence is now done by e-mail.",
+        "ipaExTrans": "məʊst ɒv ðə ˈkʌmpəniz ˌkɒrɪsˈpɒndəns ɪz naʊ dʌn baɪ iː-meɪl.",
+        "exMeaning": "Hầu hết việc liên lạc của công ty bây giờ được thực hiện bằng thư điện tử."
+    },
+    {
+        "word": "delete",
+        "type": "v",
+        "ipa": "dɪˈliːt",
+        "meaning": "xóa",
+        "ex": "Can I delete these e-mails now?",
+        "ipaExTrans": "kæn aɪ dɪˈliːt ðiːz iː-meɪlz naʊ?",
+        "exMeaning": "Bây giờ tôi có thể xóa những bức thư điện tử này chứ?"
+    },
+    {
+        "word": "disk",
+        "type": "n",
+        "ipa": "dɪsk",
+        "meaning": "ổ đĩa",
+        "ex": "Be sure to save all your files on a disk.",
+        "ipaExTrans": "biː ʃʊə tuː seɪv ɔːl jɔː faɪlz ɒn ə dɪsk.",
+        "exMeaning": "Hãy đảm bảo lưu tất cả hồ sơ dữ liệu trên ổ đĩa"
+    },
+    {
+        "word": "forward",
+        "type": "adv",
+        "ipa": "ˈfɔːwəd",
+        "meaning": "trước, phía trước",
+        "ex": "Arguing about past mistakes does not help you move forward to success.",
+        "ipaExTrans": "ˈɑːgjuːɪŋ əˈbaʊt pɑːst mɪsˈteɪks dʌz nɒt hɛlp juː muːv ˈfɔːwəd tuː səkˈsɛs.",
+        "exMeaning": "Tranh cãi về những lỗi lầm trong quá khứ không giúp anh đạt được thành công phía trước."
+    },
+    {
+        "word": "glimpse",
+        "type": "n, v",
+        "ipa": "glɪmps",
+        "meaning": "sự liếc nhìn thoáng qua, liếc qua",
+        "ex": "I only had a glimpe of the tax; I'll read it properly now.",
+        "ipaExTrans": "aɪ ˈəʊnli hæd ə glimpe ɒv ðə tæks; aɪl riːd ɪt ˈprɒpəli naʊ.",
+        "exMeaning": "Tôi chỉ mới liếc qua tờ fax; bây giờ tôi sẽ đọc chi tiết nó."
+    },
+    {
+        "word": "ignore",
+        "type": "v",
+        "ipa": "ɪgˈnɔː",
+        "meaning": "phớt lờ, xao lãng",
+        "ex": "You must answer the telephone; you can't keep ignoring it .",
+        "ipaExTrans": "juː mʌst ˈɑːnsə ðə ˈtɛlɪfəʊn; juː kɑːnt kiːp ɪgˈnɔːrɪŋ ɪt .",
+        "exMeaning": "Bạn phải trả lời điện thoại, bạn không thể phớt lờ hoài."
+    },
+    {
+        "word": "interaction",
+        "type": "n",
+        "ipa": "ˌɪntərˈækʃən",
+        "meaning": "sự tương tác, sự giao tiếp",
+        "ex": "Computers are more efficient, but customers often prefer interaction with real people.",
+        "ipaExTrans": "kəmˈpjuːtəz ɑː mɔːr ɪˈfɪʃənt, bʌt ˈkʌstəməz ˈɒf(ə)n priˈfɜːr ˌɪntərˈækʃən wɪð rɪəl ˈpiːpl.",
+        "exMeaning": "Máy tính có nhiều lợi ích nhưng khách hàng thường thích giao tiếp với người thật hơn."
+    },
+    {
+        "word": "letterhead",
+        "type": "n",
+        "ipa": "ˈlɛtəhɛd",
+        "meaning": "giấy viết thư",
+        "ex": "All correspondence with our clients must be put on company letterhead.",
+        "ipaExTrans": "ɔːl ˌkɒrɪsˈpɒndəns wɪð ˈaʊə ˈklaɪənts mʌst biː pʊt ɒn ˈkʌmpəni ˈlɛtəhɛd.",
+        "exMeaning": "Tất cả giao dịch bằng thư từ với khách hàng của chúng ta phải được viết trên giấy viết thư của công ty."
+    },
+    {
+        "word": "physically",
+        "type": "adv",
+        "ipa": "ˈfɪzɪkəli",
+        "meaning": "về thân thể",
+        "ex": "The good thing about e-mails is that you don't have to physically send them.",
+        "ipaExTrans": "ðə gʊd θɪŋ əˈbaʊt iː-meɪlz ɪz ðæt juː dəʊnt hæv tuː ˈfɪzɪkəli sɛnd ðɛm.",
+        "exMeaning": "Mặt tốt của thư điện tử là bạn không cần gửi chúng bằng sức người."
+    },
+    {
+        "word": "popularity",
+        "type": "n",
+        "ipa": "ˌpɒpjʊˈlærɪti",
+        "meaning": "sự phổ biến",
+        "ex": "Faxes are losing popularity as people prefer to send e-mails.",
+        "ipaExTrans": "ˈfæksɪz ɑː ˈluːzɪŋ ˌpɒpjʊˈlærɪti æz ˈpiːpl priˈfɜː tuː sɛnd iː-meɪlz.",
+        "exMeaning": "Fax dần mất tính phổ biến khi người ta thích gửi bằng thư điện tử hơn."
+    },
+    {
+        "word": "provider",
+        "type": "n",
+        "ipa": "prəˈvaɪdə",
+        "meaning": "nhà cung cấp",
+        "ex": "The Internet provider will send you monthly bills.",
+        "ipaExTrans": "ði ˈɪntəˌnɛt prəˈvaɪdə wɪl sɛnd juː ˈmʌnθli bɪlz.",
+        "exMeaning": "Nhà cung cấp dịch vụ Internet sẽ gửi hóa đơn hàng tháng cho bạn."
+    },
+    {
+        "word": "affordable",
+        "type": "adj",
+        "ipa": "əˈfɔːdəbl",
+        "meaning": "đủ khả năng, đủ điều kiện, hữu dụng",
+        "ex": "This computer system is very affordable.",
+        "ipaExTrans": "ðɪs kəmˈpjuːtə ˈsɪstɪm ɪz ˈvɛri əˈfɔːdəbl.",
+        "exMeaning": "Hệ thống máy tính này rất hữu dụng."
+    },
+    {
+        "word": "allocate",
+        "type": "v",
+        "ipa": "ˈæləʊkeɪt",
+        "meaning": "cấp cho, phân phát",
+        "ex": "Every member of staff is allocated his or her own desk.",
+        "ipaExTrans": "ˈɛvri ˈmɛmbər ɒv stɑːf ɪz ˈæləʊkeɪtɪd hɪz ɔː hɜːr əʊn dɛsk.",
+        "exMeaning": "Mỗi nhân viên được cấp một chiếc bàn làm việc."
+    },
+    {
+        "word": "assemble",
+        "type": "v",
+        "ipa": "əˈsɛmbl",
+        "meaning": "họp lại, tụ tập, ráp",
+        "ex": "The new desks have arrived, but we need to assemble them ourselves.",
+        "ipaExTrans": "ðə njuː dɛsks hæv əˈraɪvd, bʌt wiː niːd tuː əˈsɛmbl ðɛm ˌaʊəˈsɛlvz.",
+        "exMeaning": "Những chiếc bàn mới vừa đến nhưng chúng ta cần ráp chúng lại với nhau."
+    },
+    {
+        "word": "compatible",
+        "type": "adj",
+        "ipa": "kəmˈpætəbl",
+        "meaning": "tương thích, tương hợp",
+        "ex": "Are these printers compatible with our computer system?",
+        "ipaExTrans": "ɑː ðiːz ˈprɪntəz kəmˈpætəbl wɪð ˈaʊə kəmˈpjuːtə ˈsɪstɪm?",
+        "exMeaning": "Những máy in này tương thích với hệ thống máy tính của bạn chứ?"
+    },
+    {
+        "word": "courier",
+        "type": "n",
+        "ipa": "ˈkʊrɪə",
+        "meaning": "người đưa thư",
+        "ex": "I am sending this package by courier right away, as it must arrive before noon.",
+        "ipaExTrans": "aɪ æm ˈsɛndɪŋ ðɪs ˈpækɪʤ baɪ ˈkʊrɪə raɪt əˈweɪ, æz ɪt mʌst əˈraɪv bɪˈfɔː nuːn.",
+        "exMeaning": "Tôi sẽ yêu cầu người đưa thư gửi kiện hàng này ngay lập tức vì nó phải đến trước buổi trưa."
+    },
+    {
+        "word": "durable",
+        "type": "adj",
+        "ipa": "ˈdjʊərəbl",
+        "meaning": "bền",
+        "ex": "The strong plastic makes these chairs very durable .",
+        "ipaExTrans": "ðə strɒŋ ˈplæstɪk meɪks ðiːz ʧeəz ˈvɛri ˈdjʊərəbl .",
+        "exMeaning": "Nhựa dẻo làm cho những chiêc ghế này rất bền."
+    },
+    {
+        "word": "express",
+        "type": "adj",
+        "ipa": "ɪksˈprɛs",
+        "meaning": "nhanh, cấp tốc",
+        "ex": "This letter needs to arrive tomorrow, so please send it by express delivery.",
+        "ipaExTrans": "ðɪs ˈlɛtə niːdz tuː əˈraɪv təˈmɒrəʊ, səʊ pliːz sɛnd ɪt baɪ ɪksˈprɛs dɪˈlɪvəri.",
+        "exMeaning": "Bức thư này cần đến vào ngày mai, vì thế hãy gửi nó cấp tốc."
+    },
+    {
+        "word": "fold",
+        "type": "v",
+        "ipa": "fəʊld",
+        "meaning": "xếp, gấp (một tờ giấy)",
+        "ex": "We should hire someone to fold all these letters and put them in the envelopes.",
+        "ipaExTrans": "wiː ʃʊd ˈhaɪə ˈsʌmwʌn tuː fəʊld ɔːl ðiːz ˈlɛtəz ænd pʊt ðɛm ɪn ði ˈɛnvələʊps.",
+        "exMeaning": "Chúng ta nên thuê ai đó gấp những bức thư này và bỏ chúng vào phong bì."
+    },
+    {
+        "word": "layout",
+        "type": "n",
+        "ipa": "ˈleɪaʊt",
+        "meaning": "cách bố trí, cách trình bày",
+        "ex": "I'm working on the layout of the company newsletter.",
+        "ipaExTrans": "aɪm ˈwɜːkɪŋ ɒn ðə ˈleɪaʊt ɒv ðə ˈkʌmpəni ˈnjuːzˌlɛtə.",
+        "exMeaning": "Tôi đang làm công việc trình bày bản tin cho công ty."
+    },
+    {
+        "word": "network",
+        "type": "n",
+        "ipa": "ˈnɛtwɜːk",
+        "meaning": "hệ thống, mạng",
+        "ex": "A computer network allows you to see files on other people's computers.",
+        "ipaExTrans": "ə kəmˈpjuːtə ˈnɛtwɜːk əˈlaʊz juː tuː siː faɪlz ɒn ˈʌðə ˈpiːplz kəmˈpjuːtəz.",
+        "exMeaning": "Mạng máy vi tính cho phép bạn nhìn thấy tất cả hồ sơ trên máy tính người khác."
+    },
+    {
+        "word": "outdated",
+        "type": "adj",
+        "ipa": "aʊtˈdeɪtɪd",
+        "meaning": "lỗi thời",
+        "ex": "The computer system is outdated; we need to get a new one .",
+        "ipaExTrans": "ðə kəmˈpjuːtə ˈsɪstɪm ɪz aʊtˈdeɪtɪd; wiː niːd tuː gɛt ə njuː wʌn .",
+        "exMeaning": "Hệ thống máy tính này lỗi thời rồi; chúng ta cần có một hệ thống mới"
+    },
+    {
+        "word": "replace",
+        "type": "v",
+        "ipa": "rɪˈpleɪs",
+        "meaning": "thay thế",
+        "ex": "All the chair have been replaced with newer , more comfortable ones.",
+        "ipaExTrans": "ɔːl ðə ʧeə hæv biːn rɪˈpleɪst wɪð ˈnjuːə , mɔː ˈkʌmf(ə)təbl wʌnz.",
+        "exMeaning": "Tất cả những chiếc ghế này cần được thay thế bằng những chiêc mới hơn, thoải mái hơn."
+    },
+    {
+        "word": "search",
+        "type": "v",
+        "ipa": "sɜːʧ",
+        "meaning": "tìm kiếm, tra cứu",
+        "ex": "We're searching for some good, cheap office furniture.",
+        "ipaExTrans": "wɪə ˈsɜːʧɪŋ fɔː sʌm gʊd, ʧiːp ˈɒfɪs ˈfɜːnɪʧə.",
+        "exMeaning": "Chúng tôi đang tìm một số đồ đạc văn phòng tốt mà rẻ."
+    },
+    {
+        "word": "software",
+        "type": "n",
+        "ipa": "ˈsɒftweə",
+        "meaning": "phần mềm",
+        "ex": "Purchasing software for all the computers can be very expensive.",
+        "ipaExTrans": "ˈpɜːʧəsɪŋ ˈsɒftweə fɔːr ɔːl ðə kəmˈpjuːtəz kæn biː ˈvɛri ɪksˈpɛnsɪv.",
+        "exMeaning": "Mua phần mềm cho tất cả máy tính có thể rất tốn kèm."
+    },
+    {
+        "word": "access",
+        "type": "n",
+        "ipa": "ˈæksɛs",
+        "meaning": "sự truy cập, lối vào",
+        "ex": "We now have access to the Internet.",
+        "ipaExTrans": "wiː naʊ hæv ˈæksɛs tuː ði ˈɪntəˌnɛt.",
+        "exMeaning": "Bây giờ chúng tôi truy cập Internet."
+    },
+    {
+        "word": "beforehand",
+        "type": "adv",
+        "ipa": "bɪˈfɔːhænd",
+        "meaning": "trước, trước tiên",
+        "ex": "If you need to take a day off, be sure to tell the manager beforehand.",
+        "ipaExTrans": "ɪf juː niːd tuː teɪk ə deɪ ɒf, biː ʃʊə tuː tɛl ðə ˈmænɪʤə bɪˈfɔːhænd.",
+        "exMeaning": "Nếu bạn cần nghỉ một ngày, chắc chắn phải nói trước với giám đốc"
+    },
+    {
+        "word": "code",
+        "type": "n",
+        "ipa": "kəʊd",
+        "meaning": "mật mã, mã số, quy tắc",
+        "ex": "We don't have a dress code in the office, but it's better to wear something smart.",
+        "ipaExTrans": "wiː dəʊnt hæv ə drɛs kəʊd ɪn ði ˈɒfɪs, bʌt ɪts ˈbɛtə tuː weə ˈsʌmθɪŋ smɑːt.",
+        "exMeaning": "Chúng ta không cần phải ăn mặc đúng quy cách tại công sở, nhưng tốt hơn là chúng ta nên mặc đồ lịch sự."
+    },
+    {
+        "word": "complication",
+        "type": "n",
+        "ipa": "ˌkɒmplɪˈkeɪʃən",
+        "meaning": "sự rắc rối, sự phức tạp",
+        "ex": "To avoid complications, it's better to let the manager fix any problems that aren't part of your job.",
+        "ipaExTrans": "tuː əˈvɔɪd ˌkɒmplɪˈkeɪʃənz, ɪts ˈbɛtə tuː lɛt ðə ˈmænɪʤə fɪks ˈɛni ˈprɒbləmz ðæt ɑːnt pɑːt ɒv jɔː ʤɒb.",
+        "exMeaning": "Để tránh những rắc rối, tốt hơn nên để giám đốc giải quyết những vấn đề không phải là việc của bạn."
+    },
+    {
+        "word": "display",
+        "type": "v",
+        "ipa": "dɪsˈpleɪ",
+        "meaning": "phơi bày, trưng bày",
+        "ex": "The office rules are displayed on the message board.",
+        "ipaExTrans": "ði ˈɒfɪs ruːlz ɑː dɪsˈpleɪd ɒn ðə ˈmɛsɪʤ bɔːd.",
+        "exMeaning": "Quy định của văn phòng được nêu rõ trên bảng dán thông báo."
+    },
+    {
+        "word": "duplicate",
+        "type": "n",
+        "ipa": "ˈdjuːplɪkɪt",
+        "meaning": "bản sao",
+        "ex": "Give the customer the original invoice and keep the duplicate for our records.",
+        "ipaExTrans": "gɪv ðə ˈkʌstəmə ði əˈrɪʤənl ˈɪnvɔɪs ænd kiːp ðə ˈdjuːplɪkɪt fɔːr ˈaʊə ˈrɛkɔːdz.",
+        "exMeaning": "Đưa cho khách hàng hóa đơn gốc và giữ lại bản sao để chúng ta lưu trữ."
+    },
+    {
+        "word": "facilitate",
+        "type": "v",
+        "ipa": "fəˈsɪlɪteɪt",
+        "meaning": "tạo điều kiện thuận lợi",
+        "ex": "An open office facilitates teamwork; one with many small offices and closed doors doesn't.",
+        "ipaExTrans": "ən ˈəʊpən ˈɒfɪs fəˈsɪlɪteɪts ˈtiːmwɜːk; wʌn wɪð ˈmɛni smɔːl ˈɒfɪsɪz ænd kləʊzd dɔːz dʌznt.",
+        "exMeaning": "Một văn phòng mở tạo điều kiện thuận lợi để làm việc theo nhóm; một văn phòng với nhiều văn phòng nhỏ và cửa đóng không làm được như vậy."
+    },
+    {
+        "word": "process",
+        "type": "n",
+        "ipa": "ˈprəʊsɛs",
+        "meaning": "quy trình",
+        "ex": "All staff must follow the same process for booking time off work.",
+        "ipaExTrans": "ɔːl stɑːf mʌst ˈfɒləʊ ðə seɪm ˈprəʊsɛs fɔː ˈbʊkɪŋ taɪm ɒf wɜːk.",
+        "exMeaning": "Tất cả nhân viên phải theo cùng một quy trình để xin nghỉ phép."
+    },
+    {
+        "word": "practice",
+        "type": "v",
+        "ipa": "ˈpræktɪs",
+        "meaning": "thực hành, luyện tập",
+        "ex": "Every three months , we practice what to do if there is a fire.",
+        "ipaExTrans": "ˈɛvri θriː mʌnθs , wiː ˈpræktɪs wɒt tuː duː ɪf ðeər ɪz ə ˈfaɪə.",
+        "exMeaning": "Cứ 3 tháng 1 lần, chúng tôi luyện tập những việc phải làm nếu có hỏa hoạn."
+    },
+    {
+        "word": "reduction",
+        "type": "n",
+        "ipa": "rɪˈdʌkʃən",
+        "meaning": "sự giảm xuống",
+        "ex": "Recycling helped us achieve a big reduction in paper costs last year.",
+        "ipaExTrans": "ˌriːˈsaɪklɪŋ hɛlpt ʌs əˈʧiːv ə bɪg rɪˈdʌkʃən ɪn ˈpeɪpə kɒsts lɑːst jɪə.",
+        "exMeaning": "Việc tái chế giúp chúng ta giảm đáng kể chi phí giấy vào năm ngoái"
+    },
+    {
+        "word": "revise",
+        "type": "v",
+        "ipa": "rɪˈvaɪz",
+        "meaning": "sửa đổi",
+        "ex": "The office rules are being revised, so we'll have new ones very soon .",
+        "ipaExTrans": "ði ˈɒfɪs ruːlz ɑː ˈbiːɪŋ rɪˈvaɪzd, səʊ wiːl hæv njuː wʌnz ˈvɛri suːn .",
+        "exMeaning": "Những quy định của văn phòng được sửa đổi, vì thế chúng ta sẽ có những quy định mới ngay."
+    },
+    {
+        "word": "stock",
+        "type": "n",
+        "ipa": "stɒk",
+        "meaning": "hàng tồn kho, kho hàng",
+        "ex": "If you need any stock for your department, just ask your supervisor.",
+        "ipaExTrans": "ɪf juː niːd ˈɛni stɒk fɔː jɔː dɪˈpɑːtmənt, ʤʌst ɑːsk jɔː ˈsjuːpəvaɪzə.",
+        "exMeaning": "Nếu bạn cần hàng cho ban của bạn, hãy hỏi người giám sát."
+    },
+    {
+        "word": "warning",
+        "type": "n",
+        "ipa": "ˈwɔːnɪŋ",
+        "meaning": "lời cảnh báo",
+        "ex": "If you keep breaking office rules, the manager will give you a written warning.",
+        "ipaExTrans": "ɪf juː kiːp ˈbreɪkɪŋ ˈɒfɪs ruːlz, ðə ˈmænɪʤə wɪl gɪv juː ə ˈrɪtn ˈwɔːnɪŋ.",
+        "exMeaning": "Nếu bạn vẫn cứ vi phạm quy định của văn phòng, giám đốc sẽ cảnh báo bạn bằng văn bản."
+    },
+    {
+        "word": "verbally",
+        "type": "adv",
+        "ipa": "ˈvɜːbəli",
+        "meaning": "bằng lời nói, bằng miệng",
+        "ex": "Employees should be told in writing that they are being fired, but only after first being told verbally.",
+        "ipaExTrans": "ˌɛmplɔɪˈiːz ʃʊd biː təʊld ɪn ˈraɪtɪŋ ðæt ðeɪ ɑː ˈbiːɪŋ ˈfaɪəd, bʌt ˈəʊnli ˈɑːftə fɜːst ˈbiːɪŋ təʊld ˈvɜːbəli.",
+        "exMeaning": "Nhân viên được thông báo bằng văn bản rằng họ bị sa thải, nhưng chỉ sau khi họ được thông báo trước bằng miệng."
+    }
+]

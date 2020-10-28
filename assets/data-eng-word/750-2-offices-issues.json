@@ -31,7 +31,7 @@
         "type": "v",
         "ipa": "ˈmɛnʃən",
         "meaning": "đề cập",
-        "ex": "I think what you said is important. Maybe you sould mention it at the meeting.",
+        "ex": "I think what you said is important. Maybe you should mention it at the meeting.",
         "ipaExTrans": "aɪ θɪŋk wɒt juː sɛd ɪz ɪmˈpɔːtənt. ˈmeɪbiː juː sould ˈmɛnʃən ɪt æt ðə ˈmiːtɪŋ.",
         "exMeaning": "Tôi nghĩ những gì bạn nói là quan trọng. Có lẽ bạn nên đề cập nó tại buổi họp."
     },
@@ -49,7 +49,7 @@
         "type": "adv",
         "ipa": "ʃɑːp",
         "meaning": "chính xác",
-        "ex": "The meeting starts at nine o'clock sharp , so don't be late.",
+        "ex": "The meeting starts at nine o'clock sharp, so don't be late.",
         "ipaExTrans": "ðə ˈmiːtɪŋ stɑːts æt naɪn əˈklɒk ʃɑːp , səʊ dəʊnt biː leɪt.",
         "exMeaning": "Cuộc họp bắt đầu lúc 9 giờ đúng, vì vậy đừng đến trễ."
     },
@@ -103,7 +103,7 @@
         "type": "n",
         "ipa": "kənˈsɛnsəs",
         "meaning": "sự thống nhất, sự nhất trí",
-        "ex": "By general consensus , Jerry was picked as the class president.",
+        "ex": "By general consensus, Jerry was picked as the class president.",
         "ipaExTrans": "baɪ ˈʤɛnərəl kənˈsɛnsəs , ˈʤɛri wɒz pɪkt æz ðə klɑːs ˈprɛzɪdənt.",
         "exMeaning": "Qua sự nhất trí chung. Jerry được bầy làm lớp trưởng của lớp."
     },
@@ -166,7 +166,7 @@
         "type": "n",
         "ipa": "ˌkɒrɪsˈpɒndəns",
         "meaning": "sự liên lạc thư từ",
-        "ex": "Most of the company's correspondence is now done by e-mail.",
+        "ex": "Most of the company's correspondence is now done by email.",
         "ipaExTrans": "məʊst ɒv ðə ˈkʌmpəniz ˌkɒrɪsˈpɒndəns ɪz naʊ dʌn baɪ iː-meɪl.",
         "exMeaning": "Hầu hết việc liên lạc của công ty bây giờ được thực hiện bằng thư điện tử."
     },
@@ -175,7 +175,7 @@
         "type": "v",
         "ipa": "dɪˈliːt",
         "meaning": "xóa",
-        "ex": "Can I delete these e-mails now?",
+        "ex": "Can I delete these emails now?",
         "ipaExTrans": "kæn aɪ dɪˈliːt ðiːz iː-meɪlz naʊ?",
         "exMeaning": "Bây giờ tôi có thể xóa những bức thư điện tử này chứ?"
     },
@@ -202,17 +202,17 @@
         "type": "n, v",
         "ipa": "glɪmps",
         "meaning": "sự liếc nhìn thoáng qua, liếc qua",
-        "ex": "I only had a glimpe of the tax; I'll read it properly now.",
-        "ipaExTrans": "aɪ ˈəʊnli hæd ə glimpe ɒv ðə tæks; aɪl riːd ɪt ˈprɒpəli naʊ.",
-        "exMeaning": "Tôi chỉ mới liếc qua tờ fax; bây giờ tôi sẽ đọc chi tiết nó."
+        "ex": "I only had a glimpse of the tax, I'll read it properly now.",
+        "ipaExTrans": "aɪ ˈəʊnli hæd ə glimpe ɒv ðə tæks, aɪl riːd ɪt ˈprɒpəli naʊ.",
+        "exMeaning": "Tôi chỉ mới liếc qua tờ fax, bây giờ tôi sẽ đọc chi tiết nó."
     },
     {
         "word": "ignore",
         "type": "v",
         "ipa": "ɪgˈnɔː",
         "meaning": "phớt lờ, xao lãng",
-        "ex": "You must answer the telephone; you can't keep ignoring it .",
-        "ipaExTrans": "juː mʌst ˈɑːnsə ðə ˈtɛlɪfəʊn; juː kɑːnt kiːp ɪgˈnɔːrɪŋ ɪt .",
+        "ex": "You must answer the telephone, you can't keep ignoring it .",
+        "ipaExTrans": "juː mʌst ˈɑːnsə ðə ˈtɛlɪfəʊn, juː kɑːnt kiːp ɪgˈnɔːrɪŋ ɪt .",
         "exMeaning": "Bạn phải trả lời điện thoại, bạn không thể phớt lờ hoài."
     },
     {
@@ -238,7 +238,7 @@
         "type": "adv",
         "ipa": "ˈfɪzɪkəli",
         "meaning": "về thân thể",
-        "ex": "The good thing about e-mails is that you don't have to physically send them.",
+        "ex": "The good thing about emails is that you don't have to physically send them.",
         "ipaExTrans": "ðə gʊd θɪŋ əˈbaʊt iː-meɪlz ɪz ðæt juː dəʊnt hæv tuː ˈfɪzɪkəli sɛnd ðɛm.",
         "exMeaning": "Mặt tốt của thư điện tử là bạn không cần gửi chúng bằng sức người."
     },
@@ -247,7 +247,7 @@
         "type": "n",
         "ipa": "ˌpɒpjʊˈlærɪti",
         "meaning": "sự phổ biến",
-        "ex": "Faxes are losing popularity as people prefer to send e-mails.",
+        "ex": "Faxes are losing popularity as people prefer to send emails.",
         "ipaExTrans": "ˈfæksɪz ɑː ˈluːzɪŋ ˌpɒpjʊˈlærɪti æz ˈpiːpl priˈfɜː tuː sɛnd iː-meɪlz.",
         "exMeaning": "Fax dần mất tính phổ biến khi người ta thích gửi bằng thư điện tử hơn."
     },
@@ -355,16 +355,16 @@
         "type": "adj",
         "ipa": "aʊtˈdeɪtɪd",
         "meaning": "lỗi thời",
-        "ex": "The computer system is outdated; we need to get a new one .",
-        "ipaExTrans": "ðə kəmˈpjuːtə ˈsɪstɪm ɪz aʊtˈdeɪtɪd; wiː niːd tuː gɛt ə njuː wʌn .",
-        "exMeaning": "Hệ thống máy tính này lỗi thời rồi; chúng ta cần có một hệ thống mới"
+        "ex": "The computer system is outdated, we need to get a new one .",
+        "ipaExTrans": "ðə kəmˈpjuːtə ˈsɪstɪm ɪz aʊtˈdeɪtɪd, wiː niːd tuː gɛt ə njuː wʌn .",
+        "exMeaning": "Hệ thống máy tính này lỗi thời rồi, chúng ta cần có một hệ thống mới"
     },
     {
         "word": "replace",
         "type": "v",
         "ipa": "rɪˈpleɪs",
         "meaning": "thay thế",
-        "ex": "All the chair have been replaced with newer , more comfortable ones.",
+        "ex": "All the chair have been replaced with newer, more comfortable ones.",
         "ipaExTrans": "ɔːl ðə ʧeə hæv biːn rɪˈpleɪst wɪð ˈnjuːə , mɔː ˈkʌmf(ə)təbl wʌnz.",
         "exMeaning": "Tất cả những chiếc ghế này cần được thay thế bằng những chiêc mới hơn, thoải mái hơn."
     },
@@ -445,9 +445,9 @@
         "type": "v",
         "ipa": "fəˈsɪlɪteɪt",
         "meaning": "tạo điều kiện thuận lợi",
-        "ex": "An open office facilitates teamwork; one with many small offices and closed doors doesn't.",
-        "ipaExTrans": "ən ˈəʊpən ˈɒfɪs fəˈsɪlɪteɪts ˈtiːmwɜːk; wʌn wɪð ˈmɛni smɔːl ˈɒfɪsɪz ænd kləʊzd dɔːz dʌznt.",
-        "exMeaning": "Một văn phòng mở tạo điều kiện thuận lợi để làm việc theo nhóm; một văn phòng với nhiều văn phòng nhỏ và cửa đóng không làm được như vậy."
+        "ex": "An open office facilitates teamwork, one with many small offices and closed doors doesn't.",
+        "ipaExTrans": "ən ˈəʊpən ˈɒfɪs fəˈsɪlɪteɪts ˈtiːmwɜːk, wʌn wɪð ˈmɛni smɔːl ˈɒfɪsɪz ænd kləʊzd dɔːz dʌznt.",
+        "exMeaning": "Một văn phòng mở tạo điều kiện thuận lợi để làm việc theo nhóm, một văn phòng với nhiều văn phòng nhỏ và cửa đóng không làm được như vậy."
     },
     {
         "word": "process",
@@ -463,7 +463,7 @@
         "type": "v",
         "ipa": "ˈpræktɪs",
         "meaning": "thực hành, luyện tập",
-        "ex": "Every three months , we practice what to do if there is a fire.",
+        "ex": "Every three months, we practice what to do if there is a fire.",
         "ipaExTrans": "ˈɛvri θriː mʌnθs , wiː ˈpræktɪs wɒt tuː duː ɪf ðeər ɪz ə ˈfaɪə.",
         "exMeaning": "Cứ 3 tháng 1 lần, chúng tôi luyện tập những việc phải làm nếu có hỏa hoạn."
     },

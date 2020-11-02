@@ -1,0 +1,362 @@
+[
+    {
+        "sentence": "Okay in this video, we are talking about the game design for Project Boost.",
+        "ipa": "ˈəʊˈkeɪ ɪn ðɪs ˈvɪdɪəʊ, wiː ɑː ˈtɔːkɪŋ əˈbaʊt ðə geɪm dɪˈzaɪn fɔː ˈprɒʤɛkt buːst.",
+        "meaning": "Được rồi, trong video này, chúng ta đang nói về thiết kế trò chơi cho Project Boost."
+    },
+    {
+        "sentence": "That is the game we are working on for this section of the course.",
+        "ipa": "ðæt ɪz ðə geɪm wiː ɑː ˈwɜːkɪŋ ɒn fɔː ðɪs ˈsɛkʃən ɒv ðə kɔːs.",
+        "meaning": "Đó là trò chơi mà chúng tôi đang làm cho phần này của khóa học."
+    },
+    {
+        "sentence": "Now you can see my wonderfully beautiful art that I've got here.",
+        "ipa": "naʊ juː kæn siː maɪ ˈwʌndəfʊli ˈbjuːtəfʊl ɑːt ðæt aɪv gɒt hɪə.",
+        "meaning": "Bây giờ bạn có thể thấy tác phẩm đẹp tuyệt vời của tôi mà tôi có ở đây."
+    },
+    {
+        "sentence": "It's showing a game screen.",
+        "ipa": "ɪts ˈʃəʊɪŋ ə geɪm skriːn.",
+        "meaning": "Nó đang hiển thị một màn hình trò chơi."
+    },
+    {
+        "sentence": "I love to start with a game screen wherever possible, make it visual.",
+        "ipa": "aɪ lʌv tuː stɑːt wɪð ə geɪm skriːn weərˈɛvə ˈpɒsəbl, meɪk ɪt ˈvɪzjʊəl.",
+        "meaning": "Tôi thích bắt đầu với màn hình trò chơi bất cứ khi nào có thể, hãy làm cho nó trở nên trực quan."
+    },
+    {
+        "sentence": "Put things on the screen that you wanna see in your game.",
+        "ipa": "pʊt θɪŋz ɒn ðə skriːn ðæt juː ˈwɒnə siː ɪn jɔː geɪm.",
+        "meaning": "Đưa mọi thứ lên màn hình mà bạn muốn xem trong trò chơi của mình."
+    },
+    {
+        "sentence": "So you can see here is our hero of the story.",
+        "ipa": "səʊ juː kæn siː hɪər ɪz ˈaʊə ˈhɪərəʊ ɒv ðə ˈstɔːri.",
+        "meaning": "Vì vậy, bạn có thể thấy đây là người hùng của chúng ta trong câu chuyện."
+    },
+    {
+        "sentence": "It's a rocket with a little bit of lightning, that's supposed to be a jet coming out the back of it.",
+        "ipa": "ɪts ə ˈrɒkɪt wɪð ə ˈlɪtl bɪt ɒv ˈlaɪtnɪŋ, ðæts səˈpəʊzd tuː biː ə ʤɛt ˈkʌmɪŋ aʊt ðə bæk ɒv ɪt.",
+        "meaning": "Đó là một tên lửa với một chút tia chớp, được cho là một máy bay phản lực phóng ra sau lưng nó."
+    },
+    {
+        "sentence": "For now, don't worry if it looks ugly.",
+        "ipa": "fɔː naʊ, dəʊnt ˈwʌri ɪf ɪt lʊks ˈʌgli.",
+        "meaning": "Còn bây giờ, đừng lo lắng nếu nó trông xấu xí."
+    },
+    {
+        "sentence": "It's just about getting the point across, as I've done here.",
+        "ipa": "ɪts ʤʌst əˈbaʊt ˈgɛtɪŋ ðə pɔɪnt əˈkrɒs, æz aɪv dʌn hɪə.",
+        "meaning": "Nó chỉ là để hiểu rõ vấn đề, như tôi đã làm ở đây."
+    },
+    {
+        "sentence": "On the screen we've gotta left and a right.",
+        "ipa": "ɒn ðə skriːn wiːv ˈgɒtə lɛft ænd ə raɪt.",
+        "meaning": "Trên màn hình, chúng ta phải sang trái và phải."
+    },
+    {
+        "sentence": "We're creating this for mobile, so I wanna have things, for now, to say we need some buttons on the screen to rotate left.",
+        "ipa": "wɪə kri(ː)ˈeɪtɪŋ ðɪs fɔː ˈməʊbaɪl, səʊ aɪ ˈwɒnə hæv θɪŋz, fɔː naʊ, tuː seɪ wiː niːd sʌm ˈbʌtnz ɒn ðə skriːn tuː rəʊˈteɪt lɛft.",
+        "meaning": "Chúng tôi đang tạo điều này cho thiết bị di động, vì vậy tôi muốn có một số thứ, bây giờ, có thể nói rằng chúng tôi cần một số nút trên màn hình để xoay sang trái."
+    },
+    {
+        "sentence": "That will be anti-clockwise or counter-clockwise or to the right which would be clockwise rotation.",
+        "ipa": "ðæt wɪl biː ˈænti-ˈklɒkwaɪz ɔː ˈkaʊntəˈklɒkwaɪz ɔː tuː ðə raɪt wɪʧ wʊd biː ˈklɒkwaɪz rəʊˈteɪʃən.",
+        "meaning": "Đó sẽ là ngược chiều kim đồng hồ hoặc ngược chiều kim đồng hồ hoặc sang phải sẽ là quay theo chiều kim đồng hồ."
+    },
+    {
+        "sentence": "And then the boost is to obviously thrust the vehicle forward, thrust the spaceship forward.",
+        "ipa": "ænd ðɛn ðə buːst ɪz tuː ˈɒbvɪəsli θrʌst ðə ˈviːɪkl ˈfɔːwəd, θrʌst ðə ˈspeɪsʃɪp ˈfɔːwəd.",
+        "meaning": "Và sau đó sự thúc đẩy rõ ràng là đẩy chiếc xe về phía trước, đẩy tàu vũ trụ về phía trước."
+    },
+    {
+        "sentence": "So it's gonna be a spaceship theme.",
+        "ipa": "səʊ ɪts ˈgɒnə biː ə ˈspeɪsʃɪp θiːm.",
+        "meaning": "Vì vậy, nó sẽ là một chủ đề tàu vũ trụ."
+    },
+    {
+        "sentence": "We're going from A to B in the level.",
+        "ipa": "wɪə ˈgəʊɪŋ frɒm ə tuː biː ɪn ðə ˈlɛvl.",
+        "meaning": "Chúng tôi sẽ đi từ A đến B trong cấp độ."
+    },
+    {
+        "sentence": "So the idea is basically to get from A to B without bumping into anything.",
+        "ipa": "səʊ ði aɪˈdɪə ɪz ˈbeɪsɪkəli tuː gɛt frɒm ə tuː biː wɪˈðaʊt ˈbʌmpɪŋ ˈɪntuː ˈɛnɪθɪŋ.",
+        "meaning": "Vì vậy, ý tưởng về cơ bản là đi từ A đến B mà không va vào bất cứ thứ gì."
+    },
+    {
+        "sentence": "As soon as you touch the walls or collide with something, you will explode.",
+        "ipa": "æz suːn æz juː tʌʧ ðə wɔːlz ɔː kəˈlaɪd wɪð ˈsʌmθɪŋ, juː wɪl ɪksˈpləʊd.",
+        "meaning": "Ngay sau khi bạn chạm vào các bức tường hoặc va chạm với một cái gì đó, bạn sẽ phát nổ."
+    },
+    {
+        "sentence": "We're gonna have a fuel mechanic in there that each time you boost you use up some fuel.",
+        "ipa": "wɪə ˈgɒnə hæv ə fjʊəl mɪˈkænɪk ɪn ðeə ðæt iːʧ taɪm juː buːst juː juːz ʌp sʌm fjʊəl.",
+        "meaning": "Chúng tôi sẽ có một thợ máy nhiên liệu ở đó mà mỗi khi bạn tăng tốc, bạn sẽ sử dụng hết nhiên liệu."
+    },
+    {
+        "sentence": "And if it gets to 0 then you crash.",
+        "ipa": "ænd ɪf ɪt gɛts tuː 0 ðɛn juː kræʃ.",
+        "meaning": "Và nếu nó về 0 thì bạn sụp đổ."
+    },
+    {
+        "sentence": "And as well, I think some moving obstacles in there would be relatively straight forward, but super interesting and super cool things to avoid.",
+        "ipa": "ænd æz wɛl, aɪ θɪŋk sʌm ˈmuːvɪŋ ˈɒbstəklz ɪn ðeə wʊd biː ˈrɛlətɪvli streɪt ˈfɔːwəd, bʌt ˈs(j)uːpər ˈɪntrɪstɪŋ ænd ˈs(j)uːpə kuːl θɪŋz tuː əˈvɔɪd.",
+        "meaning": "Và tôi cũng nghĩ rằng một số chướng ngại vật di chuyển trong đó sẽ tương đối thẳng về phía trước, nhưng những thứ siêu thú vị và siêu thú vị để tránh."
+    },
+    {
+        "sentence": "We might add some more features on later, but for now, this is the core game.",
+        "ipa": "wiː maɪt æd sʌm mɔː ˈfiːʧəz ɒn ˈleɪtə, bʌt fɔː naʊ, ðɪs ɪz ðə kɔː geɪm.",
+        "meaning": "Chúng tôi có thể thêm một số tính năng vào sau, nhưng hiện tại, đây là trò chơi cốt lõi."
+    },
+    {
+        "sentence": "This is our MVP, the Minimum Viable Product.",
+        "ipa": "ðɪs ɪz ˈaʊər ɛm-viː-piː, ðə ˈmɪnɪməm ˈvaɪəbl ˈprɒdʌkt.",
+        "meaning": "Đây là MVP của chúng tôi, Sản phẩm khả thi tối thiểu."
+    },
+    {
+        "sentence": "So the minimum thing that we wanna create in order to make this game interesting and compelling.",
+        "ipa": "səʊ ðə ˈmɪnɪməm θɪŋ ðæt wiː ˈwɒnə kri(ː)ˈeɪt ɪn ˈɔːdə tuː meɪk ðɪs geɪm ˈɪntrɪstɪŋ ænd kəmˈpɛlɪŋ.",
+        "meaning": "Vì vậy, điều tối thiểu mà chúng tôi muốn tạo ra để làm cho trò chơi này trở nên thú vị và hấp dẫn."
+    },
+    {
+        "sentence": "So as we did in the previous section, let's go through our game design, specifically.",
+        "ipa": "səʊ æz wiː dɪd ɪn ðə ˈpriːviəs ˈsɛkʃən, lɛts gəʊ θruː ˈaʊə geɪm dɪˈzaɪn, spəˈsɪfɪk(ə)li.",
+        "meaning": "Vì vậy, như chúng ta đã làm trong phần trước, chúng ta hãy xem xét cụ thể thiết kế trò chơi của chúng ta."
+    },
+    {
+        "sentence": "What is the player experience? The player to feel like a skilled rocket pilot.",
+        "ipa": "wɒt ɪz ðə ˈpleɪər ɪksˈpɪərɪəns? ðə ˈpleɪə tuː fiːl laɪk ə skɪld ˈrɒkɪt ˈpaɪlət.",
+        "meaning": "Trải nghiệm người chơi là gì? Người chơi có cảm giác như một phi công tên lửa điêu luyện."
+    },
+    {
+        "sentence": "This is about precision and about mastering the controls of the rocket or the spaceship.",
+        "ipa": "ðɪs ɪz əˈbaʊt prɪˈsɪʒən ænd əˈbaʊt ˈmɑːstərɪŋ ðə kənˈtrəʊlz ɒv ðə ˈrɒkɪt ɔː ðə ˈspeɪsʃɪp.",
+        "meaning": "Đây là về độ chính xác và về thành thạo các điều khiển của tên lửa hoặc tàu vũ trụ."
+    },
+    {
+        "sentence": "The core mechanic, as I've explained, is to skillfully fly the spaceship and avoid the environment without running out of fuel.",
+        "ipa": "ðə kɔː mɪˈkænɪk, æz aɪv ɪksˈpleɪnd, ɪz tuː ˈskɪlf(ə)li flaɪ ðə ˈspeɪsʃɪp ænd əˈvɔɪd ði ɪnˈvaɪərənmənt wɪˈðaʊt ˈrʌnɪŋ aʊt ɒv fjʊəl.",
+        "meaning": "Cơ khí cốt lõi, như tôi đã giải thích, là lái tàu vũ trụ một cách khéo léo và tránh xa môi trường mà không hết nhiên liệu."
+    },
+    {
+        "sentence": "The core game loop is to get from A to B to complete the level, and then progress to the next level.",
+        "ipa": "ðə kɔː geɪm luːp ɪz tuː gɛt frɒm ə tuː biː tuː kəmˈpliːt ðə ˈlɛvl, ænd ðɛn ˈprəʊgrəs tuː ðə nɛkst ˈlɛvl.",
+        "meaning": "Vòng lặp trò chơi cốt lõi là đi từ A đến B để hoàn thành cấp độ, và sau đó tiến lên cấp độ tiếp theo."
+    },
+    {
+        "sentence": "And then A to B in that level to go to the next as well.",
+        "ipa": "ænd ðɛn ə tuː biː ɪn ðæt ˈlɛvl tuː gəʊ tuː ðə nɛkst æz wɛl.",
+        "meaning": "Và sau đó từ A đến B trong cấp độ đó để đi tiếp."
+    },
+    {
+        "sentence": "So the loop is to go through each level A to B, then the next, then the next, then the next.",
+        "ipa": "səʊ ðə luːp ɪz tuː gəʊ θruː iːʧ ˈlɛvl ə tuː biː, ðɛn ðə nɛkst, ðɛn ðə nɛkst, ðɛn ðə nɛkst.",
+        "meaning": "Vì vậy, vòng lặp là đi qua từng cấp độ từ A đến B, rồi tiếp theo, tiếp theo, rồi tiếp theo."
+    },
+    {
+        "sentence": "In terms of tech specs we're building at a 16:9 aspect ratio.",
+        "ipa": "ɪn tɜːmz ɒv tɛk spɛks wɪə ˈbɪldɪŋ æt eɪ 16:9 ˈæspɛkt ˈreɪʃɪəʊ.",
+        "meaning": "Về thông số kỹ thuật, chúng tôi đang xây dựng ở tỷ lệ khung hình 16: 9."
+    },
+    {
+        "sentence": "So it works on most mobile devices, and obviously on PCs and Macs as well 1920x1080 resolution.",
+        "ipa": "səʊ ɪt wɜːks ɒn məʊst ˈməʊbaɪl dɪˈvaɪsɪz, ænd ˈɒbvɪəsli ɒn piː-siːz ænd mæks æz wɛl 1920ɛks1080 ˌrɛzəˈluːʃən.",
+        "meaning": "Vì vậy, nó hoạt động trên hầu hết các thiết bị di động và rõ ràng là trên PC và Mac cũng như độ phân giải 1920x1080."
+    },
+    {
+        "sentence": "We're going to build to web, to iOS or iOS, however you want to say it, and to Android.",
+        "ipa": "wɪə ˈgəʊɪŋ tuː bɪld tuː wɛb, tuː iOS ɔː iOS, haʊˈɛvə juː wɒnt tuː seɪ ɪt, ænd tuː ˈændrɔɪd.",
+        "meaning": "Chúng tôi sẽ xây dựng cho web, cho iOS hoặc iOS, tuy nhiên bạn muốn nói điều đó và cho Android."
+    },
+    {
+        "sentence": "I think that's super exciting, we're making this as a mobile ready game.",
+        "ipa": "aɪ θɪŋk ðæts ˈs(j)uːpər ɪkˈsaɪtɪŋ, wɪə ˈmeɪkɪŋ ðɪs æz ə ˈməʊbaɪl ˈrɛdi geɪm.",
+        "meaning": "Tôi nghĩ điều đó cực kỳ thú vị, chúng tôi đang sản xuất trò chơi này như một trò chơi dành cho thiết bị di động."
+    },
+    {
+        "sentence": "And in terms of other tech aspects we're going to be having some sound effects and possible some background music in there as well, if it works for us.",
+        "ipa": "ænd ɪn tɜːmz ɒv ˈʌðə tɛk ˈæspɛkts wɪə ˈgəʊɪŋ tuː biː ˈhævɪŋ sʌm saʊnd ɪˈfɛkts ænd ˈpɒsəbl sʌm ˈbækgraʊnd ˈmjuːzɪk ɪn ðeər æz wɛl, ɪf ɪt wɜːks fɔːr ʌs.",
+        "meaning": "Và về các khía cạnh công nghệ khác, chúng tôi sẽ có một số hiệu ứng âm thanh và có thể có một số nhạc nền trong đó, nếu nó phù hợp với chúng tôi."
+    },
+    {
+        "sentence": "The game flow, now this is the ideal wish list, a perfect scenario which we may or may not hit.",
+        "ipa": "ðə geɪm fləʊ, naʊ ðɪs ɪz ði aɪˈdɪəl wɪʃ lɪst, ə ˈpɜːfɪkt sɪˈnɑːrɪəʊ wɪʧ wiː meɪ ɔː meɪ nɒt hɪt.",
+        "meaning": "Dòng chảy trò chơi, bây giờ đây là danh sách mong muốn lý tưởng, một kịch bản hoàn hảo mà chúng ta có thể đạt được hoặc có thể không."
+    },
+    {
+        "sentence": "We would start off with a game screen with some sort of nice title showing the name of the game, push any key to start.",
+        "ipa": "wiː wʊd stɑːt ɒf wɪð ə geɪm skriːn wɪð sʌm sɔːt ɒv naɪs ˈtaɪtl ˈʃəʊɪŋ ðə neɪm ɒv ðə geɪm, pʊʃ ˈɛni kiː tuː stɑːt.",
+        "meaning": "Chúng tôi sẽ bắt đầu với một màn hình trò chơi với một số loại tiêu đề đẹp hiển thị tên của trò chơi, nhấn bất kỳ phím nào để bắt đầu."
+    },
+    {
+        "sentence": "We would go into level 1, then level 2, then 3, 4, 5, 6, 7, all the way down to level X, whatever that might be for our game.",
+        "ipa": "wiː wʊd gəʊ ˈɪntuː ˈlɛvl 1, ðɛn ˈlɛvl 2, ðɛn 3, 4, 5, 6, 7, ɔːl ðə weɪ daʊn tuː ˈlɛvl ɛks, wɒtˈɛvə ðæt maɪt biː fɔːr ˈaʊə geɪm.",
+        "meaning": "Chúng tôi sẽ chuyển sang cấp độ 1, rồi cấp độ 2, rồi đến cấp độ 3, 4, 5, 6, 7, cho đến cấp độ X, bất cứ điều gì có thể dành cho trò chơi của chúng tôi."
+    },
+    {
+        "sentence": "If you complete it then you hit the win screen, which takes you back to the start game screen and then you can go through the process again.",
+        "ipa": "ɪf juː kəmˈpliːt ɪt ðɛn juː hɪt ðə wɪn skriːn, wɪʧ teɪks juː bæk tuː ðə stɑːt geɪm skriːn ænd ðɛn juː kæn gəʊ θruː ðə ˈprəʊsɛs əˈgɛn.",
+        "meaning": "Nếu bạn hoàn thành nó thì bạn nhấn vào màn hình chiến thắng, sẽ đưa bạn trở lại màn hình bắt đầu trò chơi và sau đó bạn có thể thực hiện lại quá trình."
+    },
+    {
+        "sentence": "If at any point you die and lose, it should have another arrow here that takes you back to the start screen.",
+        "ipa": "ɪf æt ˈɛni pɔɪnt juː daɪ ænd luːz, ɪt ʃʊd hæv əˈnʌðər ˈærəʊ hɪə ðæt teɪks juː bæk tuː ðə stɑːt skriːn.",
+        "meaning": "Nếu tại bất kỳ thời điểm nào bạn chết và thua, nó sẽ có một mũi tên khác ở đây đưa bạn trở lại màn hình bắt đầu."
+    },
+    {
+        "sentence": "Or you can pause the game and that could also take you back to the to the start screen.",
+        "ipa": "ɔː juː kæn pɔːz ðə geɪm ænd ðæt kʊd ˈɔːlsəʊ teɪk juː bæk tuː ðə tuː ðə stɑːt skriːn.",
+        "meaning": "Hoặc bạn có thể tạm dừng trò chơi và điều đó cũng có thể đưa bạn trở lại màn hình bắt đầu."
+    },
+    {
+        "sentence": "Now the reason I don't have those arrows in there is cuz part way through this I realized is that this is the ideal.",
+        "ipa": "naʊ ðə ˈriːzn aɪ dəʊnt hæv ðəʊz ˈærəʊz ɪn ðeər ɪz cuz pɑːt weɪ θruː ðɪs aɪ ˈrɪəlaɪzd ɪz ðæt ðɪs ɪz ði aɪˈdɪəl.",
+        "meaning": "Bây giờ lý do tôi không có những mũi tên trong đó là một phần nào đó tôi nhận ra rằng đây là lý tưởng."
+    },
+    {
+        "sentence": "But most likely what we're going to aim for is this, which is, we start off in level 1.",
+        "ipa": "bʌt məʊst ˈlaɪkli wɒt wɪə ˈgəʊɪŋ tuː eɪm fɔːr ɪz ðɪs, wɪʧ ɪz, wiː stɑːt ɒf ɪn ˈlɛvl 1.",
+        "meaning": "Nhưng rất có thể những gì chúng ta sẽ hướng tới là điều này, tức là chúng ta bắt đầu ở cấp độ 1."
+    },
+    {
+        "sentence": "And then if you complete level 1, you get to level 2.",
+        "ipa": "ænd ðɛn ɪf juː kəmˈpliːt ˈlɛvl 1, juː gɛt tuː ˈlɛvl 2.",
+        "meaning": "Và sau đó nếu bạn hoàn thành cấp độ 1, bạn sẽ lên cấp độ 2."
+    },
+    {
+        "sentence": "And if you complete that, you get to the next levels, all the way down to the final level that we create.",
+        "ipa": "ænd ɪf juː kəmˈpliːt ðæt, juː gɛt tuː ðə nɛkst ˈlɛvlz, ɔːl ðə weɪ daʊn tuː ðə ˈfaɪnl ˈlɛvl ðæt wiː kri(ː)ˈeɪt.",
+        "meaning": "Và nếu bạn hoàn thành điều đó, bạn sẽ đến các cấp độ tiếp theo, đến tận cấp độ cuối cùng mà chúng tôi tạo ra."
+    },
+    {
+        "sentence": "If at any point you die, then you just restart on level 1.",
+        "ipa": "ɪf æt ˈɛni pɔɪnt juː daɪ, ðɛn juː ʤʌst ˌriːˈstɑːt ɒn ˈlɛvl 1.",
+        "meaning": "Nếu tại bất kỳ thời điểm nào bạn chết, thì bạn chỉ cần khởi động lại ở cấp độ 1."
+    },
+    {
+        "sentence": "In terms of where we're at with the course, what we wanna get out of this project, our minimum viable product.",
+        "ipa": "ɪn tɜːmz ɒv weə wɪər æt wɪð ðə kɔːs, wɒt wiː ˈwɒnə gɛt aʊt ɒv ðɪs ˈprɒʤɛkt, ˈaʊə ˈmɪnɪməm ˈvaɪəbl ˈprɒdʌkt.",
+        "meaning": "Về vị trí của chúng tôi trong khóa học, những gì chúng tôi muốn nhận được từ dự án này, sản phẩm khả thi tối thiểu của chúng tôi."
+    },
+    {
+        "sentence": "We don't wanna spend too much time wrestling with screens and user interface.",
+        "ipa": "wiː dəʊnt ˈwɒnə spɛnd tuː mʌʧ taɪm ˈrɛslɪŋ wɪð skriːnz ænd ˈjuːzər ˈɪntəˌfeɪs.",
+        "meaning": "Chúng tôi không muốn mất quá nhiều thời gian với màn hình và giao diện người dùng."
+    },
+    {
+        "sentence": "For now, we just wanna get in there and make the game and if we get to this point that's great.",
+        "ipa": "fɔː naʊ, wiː ʤʌst ˈwɒnə gɛt ɪn ðeər ænd meɪk ðə geɪm ænd ɪf wiː gɛt tuː ðɪs pɔɪnt ðæts greɪt.",
+        "meaning": "Hiện tại, chúng tôi chỉ muốn vào đó và tạo ra trò chơi và nếu chúng tôi đạt được điểm này thì điều đó thật tuyệt."
+    },
+    {
+        "sentence": "But we're not gonna promise that in terms of what our design's trying to hit.",
+        "ipa": "bʌt wɪə nɒt ˈgɒnə ˈprɒmɪs ðæt ɪn tɜːmz ɒv wɒt ˈaʊə dɪˈzaɪnz ˈtraɪɪŋ tuː hɪt.",
+        "meaning": "Nhưng chúng tôi sẽ không hứa điều đó về những gì thiết kế của chúng tôi đang cố gắng đạt được."
+    },
+    {
+        "sentence": "For a game theme we wanna have something that's very simple for our game.",
+        "ipa": "fɔːr ə geɪm θiːm wiː ˈwɒnə hæv ˈsʌmθɪŋ ðæts ˈvɛri ˈsɪmpl fɔːr ˈaʊə geɪm.",
+        "meaning": "Đối với một chủ đề trò chơi, chúng tôi muốn có một cái gì đó rất đơn giản cho trò chơi của chúng tôi."
+    },
+    {
+        "sentence": "You're an experimental early generation spacecraft, maybe something a little bit Cold War is feeling where the space ship isn't",
+        "ipa": "jʊər ən ɛksˌpɛrɪˈmɛntl ˈɜːli ˌʤɛnəˈreɪʃən ˈspeɪskrɑːft, ˈmeɪbiː ˈsʌmθɪŋ ə ˈlɪtl bɪt kəʊld wɔːr ɪz ˈfiːlɪŋ weə ðə speɪs ʃɪp ˈɪznt",
+        "meaning": "Bạn là một tàu vũ trụ thế hệ đầu thử nghiệm, có thể một chút gì đó của Chiến tranh Lạnh đang cảm thấy nơi con tàu không gian không"
+    },
+    {
+        "sentence": "necessarily properly built to modern standards.",
+        "ipa": "ˈnɛsɪsərɪli ˈprɒpəli bɪlt tuː ˈmɒdən ˈstændədz.",
+        "meaning": "nhất thiết phải được xây dựng đúng tiêu chuẩn hiện đại."
+    },
+    {
+        "sentence": "Little bit like a lunar lander type thing.",
+        "ipa": "ˈlɪtl bɪt laɪk ə ˈluːnə ˈlændə taɪp θɪŋ.",
+        "meaning": "Một chút giống như một loại tàu đổ bộ mặt trăng."
+    },
+    {
+        "sentence": "You can't do, you can rotate left and right and thrust forward.",
+        "ipa": "juː kɑːnt duː, juː kæn rəʊˈteɪt lɛft ænd raɪt ænd θrʌst ˈfɔːwəd.",
+        "meaning": "Bạn không thể làm, bạn có thể xoay trái phải và đẩy về phía trước."
+    },
+    {
+        "sentence": "You're on unknown planet trying to escape, that's it.",
+        "ipa": "jʊər ɒn ʌnˈnəʊn ˈplænɪt ˈtraɪɪŋ tuː ɪsˈkeɪp, ðæts ɪt.",
+        "meaning": "Bạn đang ở trên hành tinh không xác định đang cố gắng trốn thoát, đó là nó."
+    },
+    {
+        "sentence": "Some games don't need a huge amount of backstory.",
+        "ipa": "sʌm geɪmz dəʊnt niːd ə hjuːʤ əˈmaʊnt ɒv backstory.",
+        "meaning": "Một số trò chơi không cần một lượng cốt truyện lớn."
+    },
+    {
+        "sentence": "The player just wants to know I'm a space ship, and I am trying to get from somewhere to somewhere.",
+        "ipa": "ðə ˈpleɪə ʤʌst wɒnts tuː nəʊ aɪm ə speɪs ʃɪp, ænd aɪ æm ˈtraɪɪŋ tuː gɛt frɒm ˈsʌmweə tuː ˈsʌmweə.",
+        "meaning": "Người chơi chỉ muốn biết tôi là một con tàu không gian và tôi đang cố gắng đi từ đâu đó đến nơi nào đó."
+    },
+    {
+        "sentence": "But the challenge I've got for you guys is what's the theme for your game, we can have it as simple or as complex as your heart desires.",
+        "ipa": "bʌt ðə ˈʧælɪnʤ aɪv gɒt fɔː juː gaɪz ɪz wɒts ðə θiːm fɔː jɔː geɪm, wiː kæn hæv ɪt æz ˈsɪmpl ɔːr æz ˈkɒmplɛks æz jɔː hɑːt dɪˈzaɪəz.",
+        "meaning": "Nhưng thử thách mà tôi dành cho các bạn là chủ đề cho trò chơi của các bạn là gì, chúng tôi có thể có nó đơn giản hoặc phức tạp như trái tim bạn mong muốn."
+    },
+    {
+        "sentence": "Think of a central theme.",
+        "ipa": "θɪŋk ɒv ə ˈsɛntrəl θiːm.",
+        "meaning": "Nghĩ về một chủ đề trung tâm."
+    },
+    {
+        "sentence": "Try to make sure it makes sense in terms of the mechanic that we're doing, so the mechanic is we're gonna be flying around a space ship.",
+        "ipa": "traɪ tuː meɪk ʃʊər ɪt meɪks sɛns ɪn tɜːmz ɒv ðə mɪˈkænɪk ðæt wɪə ˈdu(ː)ɪŋ, səʊ ðə mɪˈkænɪk ɪz wɪə ˈgɒnə biː ˈflaɪɪŋ əˈraʊnd ə speɪs ʃɪp.",
+        "meaning": "Hãy cố gắng đảm bảo rằng nó có ý nghĩa về mặt người thợ máy mà chúng ta đang làm, vì vậy người thợ máy đó là chúng ta sẽ bay quanh một con tàu vũ trụ."
+    },
+    {
+        "sentence": "Or it can be flying around something else, you could be flying around a hot dog or flying around a flying pig, whatever it is.",
+        "ipa": "ɔːr ɪt kæn biː ˈflaɪɪŋ əˈraʊnd ˈsʌmθɪŋ ɛls, juː kʊd biː ˈflaɪɪŋ əˈraʊnd ə hɒt dɒg ɔː ˈflaɪɪŋ əˈraʊnd ə ˈflaɪɪŋ pɪg, wɒtˈɛvər ɪt ɪz.",
+        "meaning": "Hoặc nó có thể đang bay xung quanh một thứ khác, bạn có thể bay quanh một con xúc xích hoặc bay xung quanh một con lợn đang bay, bất kể nó là gì."
+    },
+    {
+        "sentence": "You'll be able to put any sort of graphic in there but we'll be using the same mechanics as we're using in our game, thrust and rotation.",
+        "ipa": "juːl biː ˈeɪbl tuː pʊt ˈɛni sɔːt ɒv ˈgræfɪk ɪn ðeə bʌt wiːl biː ˈjuːzɪŋ ðə seɪm mɪˈkænɪks æz wɪə ˈjuːzɪŋ ɪn ˈaʊə geɪm, θrʌst ænd rəʊˈteɪʃən.",
+        "meaning": "Bạn sẽ có thể đặt bất kỳ loại đồ họa nào vào đó nhưng chúng tôi sẽ sử dụng cơ chế giống như chúng tôi đang sử dụng trong trò chơi của mình, lực đẩy và xoay."
+    },
+    {
+        "sentence": "And then to decide on a starting name for your game as well.",
+        "ipa": "ænd ðɛn tuː dɪˈsaɪd ɒn ə ˈstɑːtɪŋ neɪm fɔː jɔː geɪm æz wɛl.",
+        "meaning": "Và sau đó là quyết định tên bắt đầu cho trò chơi của bạn."
+    },
+    {
+        "sentence": "Now don't take too much time for the name but it's good to have something in there.",
+        "ipa": "naʊ dəʊnt teɪk tuː mʌʧ taɪm fɔː ðə neɪm bʌt ɪts gʊd tuː hæv ˈsʌmθɪŋ ɪn ðeə.",
+        "meaning": "Bây giờ không mất quá nhiều thời gian cho cái tên nhưng thật tốt khi có một cái gì đó trong đó."
+    },
+    {
+        "sentence": "We're calling our game Project Boost to give a little bit of that kind of experimental project feel to it that I was talking about before.",
+        "ipa": "wɪə ˈkɔːlɪŋ ˈaʊə geɪm ˈprɒʤɛkt buːst tuː gɪv ə ˈlɪtl bɪt ɒv ðæt kaɪnd ɒv ɛksˌpɛrɪˈmɛntl ˈprɒʤɛkt fiːl tuː ɪt ðæt aɪ wɒz ˈtɔːkɪŋ əˈbaʊt bɪˈfɔː.",
+        "meaning": "Chúng tôi đang gọi trò chơi của mình là Project Boost để cung cấp một chút cảm giác về loại dự án thử nghiệm mà tôi đã đề cập trước đây."
+    },
+    {
+        "sentence": "And please share what you've come up with in the community so that we can see what exciting, interesting, weird, fantastic themes and games you've come up with.",
+        "ipa": "ænd pliːz ʃeə wɒt juːv kʌm ʌp wɪð ɪn ðə kəˈmjuːnɪti səʊ ðæt wiː kæn siː wɒt ɪkˈsaɪtɪŋ, ˈɪntrɪstɪŋ, wɪəd, fænˈtæstɪk θiːmz ænd geɪmz juːv kʌm ʌp wɪð.",
+        "meaning": "Và hãy chia sẻ những gì bạn đã nghĩ ra trong cộng đồng để chúng tôi có thể thấy những chủ đề và trò chơi thú vị, thú vị, kỳ lạ, tuyệt vời mà bạn đã nghĩ ra."
+    },
+    {
+        "sentence": "And even if you're not sure exactly how it is that you're going to bring your theme to life, that's cool.",
+        "ipa": "ænd ˈiːvən ɪf jʊə nɒt ʃʊər ɪgˈzæktli haʊ ɪt ɪz ðæt jʊə ˈgəʊɪŋ tuː brɪŋ jɔː θiːm tuː laɪf, ðæts kuːl.",
+        "meaning": "Và ngay cả khi bạn không chắc chắn chính xác làm thế nào bạn sẽ đưa chủ đề của mình vào cuộc sống, điều đó thật tuyệt."
+    },
+    {
+        "sentence": "For now we're flexing our design muscles and having a think about what would be a good thematic match to our mechanics and starting to think about how can I make",
+        "ipa": "fɔː naʊ wɪə ˈflɛksɪŋ ˈaʊə dɪˈzaɪn ˈmʌslz ænd ˈhævɪŋ ə θɪŋk əˈbaʊt wɒt wʊd biː ə gʊd θɪˈmætɪk mæʧ tuː ˈaʊə mɪˈkænɪks ænd ˈstɑːtɪŋ tuː θɪŋk əˈbaʊt haʊ kæn aɪ meɪk",
+        "meaning": "Hiện tại, chúng tôi đang uốn nắn các cơ thiết kế của mình và suy nghĩ xem đâu sẽ là một kết hợp chủ đề tốt cho cơ khí của chúng tôi và bắt đầu suy nghĩ về cách tôi có thể tạo ra"
+    },
+    {
+        "sentence": "this into a full, compelling, interesting game experience.",
+        "ipa": "ðɪs ˈɪntuː ə fʊl, kəmˈpɛlɪŋ, ˈɪntrɪstɪŋ geɪm ɪksˈpɪərɪəns.",
+        "meaning": "điều này thành một trải nghiệm trò chơi đầy đủ, hấp dẫn, thú vị."
+    },
+    {
+        "sentence": "So have a shot at that and I'll see you guys in the next video.",
+        "ipa": "səʊ hæv ə ʃɒt æt ðæt ænd aɪl siː juː gaɪz ɪn ðə nɛkst ˈvɪdɪəʊ.",
+        "meaning": "Vì vậy, hãy thử xem và hẹn gặp lại các bạn trong video tiếp theo."
+    }
+]

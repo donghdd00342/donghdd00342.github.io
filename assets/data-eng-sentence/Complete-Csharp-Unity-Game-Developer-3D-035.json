@@ -1,0 +1,127 @@
+[
+    {
+        "sentence": "Hi, welcome to Section 3, Project Boost.",
+        "ipa": "haɪ, ˈwɛlkəm tuː ˈsɛkʃən 3, ˈprɒʤɛkt buːst.",
+        "meaning": "Xin chào, chào mừng đến với Phần 3, Project Boost."
+    },
+    {
+        "sentence": "We're really excited about this section because it's going to be a really versatile and fun project for you.",
+        "ipa": "wɪə ˈrɪəli ɪkˈsaɪtɪd əˈbaʊt ðɪs ˈsɛkʃən bɪˈkɒz ɪts ˈgəʊɪŋ tuː biː ə ˈrɪəli ˈvɜːsətaɪl ænd fʌn ˈprɒʤɛkt fɔː juː.",
+        "meaning": "Chúng tôi thực sự vui mừng về phần này vì nó sẽ là một dự án thực sự linh hoạt và thú vị cho bạn."
+    },
+    {
+        "sentence": "Rick, what are they gonna learn from a Unity and game design standpoint?",
+        "ipa": "rɪk, wɒt ɑː ðeɪ ˈgɒnə lɜːn frɒm ə ˈjuːnɪti ænd geɪm dɪˈzaɪn ˈstændpɔɪnt?",
+        "meaning": "Rick, họ sẽ học được gì từ quan điểm Unity và thiết kế trò chơi?"
+    },
+    {
+        "sentence": "Yeah, lots of Unity stuff in terms of really figuring out how prefabs work and the relationship between prefabs and game objects, and giving you some tips and tricks to make sure you don't get into trouble there.",
+        "ipa": "jeə, lɒts ɒv ˈjuːnɪti stʌf ɪn tɜːmz ɒv ˈrɪəli ˈfɪgərɪŋ aʊt haʊ ˈpriːfæbz wɜːk ænd ðə rɪˈleɪʃənʃɪp bɪˈtwiːn ˈpriːfæbz ænd geɪm ˈɒbʤɪkts, ænd ˈgɪvɪŋ juː sʌm tɪps ænd trɪks tuː meɪk ʃʊə juː dəʊnt gɛt ˈɪntuː ˈtrʌbl ðeə.",
+        "meaning": "Vâng, rất nhiều thứ của Unity liên quan đến việc thực sự tìm ra cách prefabs hoạt động và mối quan hệ giữa prefabs và các đối tượng trò chơi, đồng thời cung cấp cho bạn một số mẹo và thủ thuật để đảm bảo bạn không gặp rắc rối ở đó."
+    },
+    {
+        "sentence": "In terms of games design, we're making a game. And it's gonna be a cool game.",
+        "ipa": "ɪn tɜːmz ɒv geɪmz dɪˈzaɪn, wɪə ˈmeɪkɪŋ ə geɪm. ænd ɪts ˈgɒnə biː ə kuːl geɪm.",
+        "meaning": "Về thiết kế trò chơi, chúng tôi đang làm một trò chơi. Và nó sẽ là một trò chơi thú vị."
+    },
+    {
+        "sentence": "We're gonna create the core of it, and then give you guys plenty of room to expand that in a lot of different ways.",
+        "ipa": "wɪə ˈgɒnə kri(ː)ˈeɪt ðə kɔːr ɒv ɪt, ænd ðɛn gɪv juː gaɪz ˈplɛnti ɒv ruːm tuː ɪksˈpænd ðæt ɪn ə lɒt ɒv ˈdɪfrənt weɪz.",
+        "meaning": "Chúng tôi sẽ tạo ra cốt lõi của nó, và sau đó cung cấp cho các bạn nhiều không gian để mở rộng điều đó theo nhiều cách khác nhau."
+    },
+    {
+        "sentence": "Absolutely, and when it comes to C#, there's not gonna be a huge amount of brand new C# in there from the standpoint of fundamental C#.",
+        "ipa": "ˈæbsəluːtli, ænd wɛn ɪt kʌmz tuː siː#, ðeəz nɒt ˈgɒnə biː ə hjuːʤ əˈmaʊnt ɒv brænd njuː siː# ɪn ðeə frɒm ðə ˈstændpɔɪnt ɒv ˌfʌndəˈmɛntl siː#.",
+        "meaning": "Tất nhiên, và khi nói đến C #, sẽ không có một lượng lớn C # hoàn toàn mới trong đó theo quan điểm của C # cơ bản."
+    },
+    {
+        "sentence": "But there's gonna be a lot of Unity specific C# and that's intentionally.",
+        "ipa": "bʌt ðeəz ˈgɒnə biː ə lɒt ɒv ˈjuːnɪti spɪˈsɪfɪk siː# ænd ðæts ɪnˈtɛnʃənli.",
+        "meaning": "Nhưng sẽ có rất nhiều C # cụ thể của Unity và đó là chủ ý."
+    },
+    {
+        "sentence": "The previous section was all about the foundations of C# without worrying about Unity.",
+        "ipa": "ðə ˈpriːviəs ˈsɛkʃən wɒz ɔːl əˈbaʊt ðə faʊnˈdeɪʃənz ɒv siː# wɪˈðaʊt ˈwʌriɪŋ əˈbaʊt ˈjuːnɪti.",
+        "meaning": "Phần trước là tất cả về nền tảng của C # mà không cần lo lắng về Unity."
+    },
+    {
+        "sentence": "This section is all about applying your existing C# knowledge into Unity.",
+        "ipa": "ðɪs ˈsɛkʃən ɪz ɔːl əˈbaʊt əˈplaɪɪŋ jɔːr ɪgˈzɪstɪŋ siː# ˈnɒlɪʤ ˈɪntuː ˈjuːnɪti.",
+        "meaning": "Phần này là tất cả về việc áp dụng kiến ​​thức C # hiện có của bạn vào Unity."
+    },
+    {
+        "sentence": "And there'll be some very useful programming tips and tricks and paradigms as we go along.",
+        "ipa": "ænd ðeəl biː sʌm ˈvɛri ˈjuːsfʊl ˈprəʊgræmɪŋ tɪps ænd trɪks ænd ˈpærədaɪmz æz wiː gəʊ əˈlɒŋ.",
+        "meaning": "Và sẽ có một số mẹo, thủ thuật và mô hình lập trình rất hữu ích khi chúng ta cùng tìm hiểu."
+    },
+    {
+        "sentence": "So the game is all about, it's a game called Thrust I used to play as a kid.",
+        "ipa": "səʊ ðə geɪm ɪz ɔːl əˈbaʊt, ɪts ə geɪm kɔːld θrʌst aɪ juːzd tuː pleɪ æz ə kɪd.",
+        "meaning": "Vì vậy, trò chơi là tất cả, đó là một trò chơi có tên là Thrust mà tôi từng chơi khi còn nhỏ."
+    },
+    {
+        "sentence": "And it's an evolution of that and a simplification of that.",
+        "ipa": "ænd ɪts ən ˌiːvəˈluːʃən ɒv ðæt ænd ə ˌsɪmplɪfɪˈkeɪʃən ɒv ðæt.",
+        "meaning": "Và đó là một sự tiến hóa của điều đó và đơn giản hóa điều đó."
+    },
+    {
+        "sentence": "And Rick has really helped me to boil it down to the fundamentals to make it fun, whilst keeping the feature set low and tight.",
+        "ipa": "ænd rɪk hæz ˈrɪəli hɛlpt miː tuː bɔɪl ɪt daʊn tuː ðə ˌfʌndəˈmɛntlz tuː meɪk ɪt fʌn, waɪlst ˈkiːpɪŋ ðə ˈfiːʧə sɛt ləʊ ænd taɪt.",
+        "meaning": "Và Rick đã thực sự giúp tôi tìm hiểu về các nguyên tắc cơ bản để làm cho nó trở nên thú vị, đồng thời giữ cho tính năng được đặt ở mức thấp và chặt chẽ."
+    },
+    {
+        "sentence": "So, Rick, what was your thinking there about what we had to put in and what we left out?",
+        "ipa": "səʊ, rɪk, wɒt wɒz jɔː ˈθɪŋkɪŋ ðeər əˈbaʊt wɒt wiː hæd tuː pʊt ɪn ænd wɒt wiː lɛft aʊt?",
+        "meaning": "Vậy, Rick, anh nghĩ gì ở đó về những gì chúng ta phải đưa vào và những gì chúng ta bỏ ra?"
+    },
+    {
+        "sentence": "Well, at this stage we don't have a lot.",
+        "ipa": "wɛl, æt ðɪs steɪʤ wiː dəʊnt hæv ə lɒt.",
+        "meaning": "Chà, ở giai đoạn này chúng ta không có nhiều."
+    },
+    {
+        "sentence": "As programmers, we don't know all the stuff just yet. We're learning.",
+        "ipa": "æz ˈprəʊgræməz, wiː dəʊnt nəʊ ɔːl ðə stʌf ʤʌst jɛt. wɪə ˈlɜːnɪŋ.",
+        "meaning": "Là lập trình viên, chúng tôi chưa biết tất cả mọi thứ. Chúng tôi đang học."
+    },
+    {
+        "sentence": "And so, to make the simplest aspect of a fun game, we need to get controls.",
+        "ipa": "ænd səʊ, tuː meɪk ðə ˈsɪmplɪst ˈæspɛkt ɒv ə fʌn geɪm, wiː niːd tuː gɛt kənˈtrəʊlz.",
+        "meaning": "Và vì vậy, để tạo ra khía cạnh đơn giản nhất của một trò chơi vui nhộn, chúng ta cần có các điều khiển."
+    },
+    {
+        "sentence": "And if controls are fun, if you can move a ship around on the screen in a really interesting fun way, then you've got the basis of the game.",
+        "ipa": "ænd ɪf kənˈtrəʊlz ɑː fʌn, ɪf juː kæn muːv ə ʃɪp əˈraʊnd ɒn ðə skriːn ɪn ə ˈrɪəli ˈɪntrɪstɪŋ fʌn weɪ, ðɛn juːv gɒt ðə ˈbeɪsɪs ɒv ðə geɪm.",
+        "meaning": "Và nếu điều khiển thú vị, nếu bạn có thể di chuyển một con tàu xung quanh màn hình theo một cách thú vị thực sự thú vị, thì bạn đã có cơ sở của trò chơi."
+    },
+    {
+        "sentence": "And then as we complete further sections of the course, we can come back and add more elements in.",
+        "ipa": "ænd ðɛn æz wiː kəmˈpliːt ˈfɜːðə ˈsɛkʃənz ɒv ðə kɔːs, wiː kæn kʌm bæk ænd æd mɔːr ˈɛlɪmənts ɪn.",
+        "meaning": "Và sau đó khi chúng ta hoàn thành các phần tiếp theo của khóa học, chúng ta có thể quay lại và thêm nhiều yếu tố khác vào."
+    },
+    {
+        "sentence": "We can add scoring later on when we know how to do that, or shooting at enemies.",
+        "ipa": "wiː kæn æd ˈskɔːrɪŋ ˈleɪtər ɒn wɛn wiː nəʊ haʊ tuː duː ðæt, ɔː ˈʃuːtɪŋ æt ˈɛnɪmiz.",
+        "meaning": "Chúng ta có thể ghi điểm sau này khi chúng ta biết cách làm điều đó hoặc bắn vào kẻ thù."
+    },
+    {
+        "sentence": "But, for now, it's focusing on, let's just get that core feeling really interesting.",
+        "ipa": "bʌt, fɔː naʊ, ɪts ˈfəʊkəsɪŋ ɒn, lɛts ʤʌst gɛt ðæt kɔː ˈfiːlɪŋ ˈrɪəli ˈɪntrɪstɪŋ.",
+        "meaning": "Nhưng, hiện tại, nó đang tập trung vào, hãy để cảm giác cốt lõi thực sự thú vị."
+    },
+    {
+        "sentence": "Yeah, and on the topic of going back and adding things, what were gonna do is, at the end of the course, we're gonna give you some opportunities to go back to previous projects and enhance them.",
+        "ipa": "jeə, ænd ɒn ðə ˈtɒpɪk ɒv ˈgəʊɪŋ bæk ænd ˈædɪŋ θɪŋz, wɒt wɜː ˈgɒnə duː ɪz, æt ði ɛnd ɒv ðə kɔːs, wɪə ˈgɒnə gɪv juː sʌm ˌɒpəˈtjuːnɪtiz tuː gəʊ bæk tuː ˈpriːviəs ˈprɒʤɛkts ænd ɪnˈhɑːns ðɛm.",
+        "meaning": "Vâng, và về chủ đề quay lại và thêm mọi thứ, những gì sẽ làm là, vào cuối khóa học, chúng tôi sẽ cho bạn một số cơ hội để quay lại các dự án trước đó và nâng cao chúng."
+    },
+    {
+        "sentence": "For example, we've got an idea for you about how you could improve Terminal Hacker with what you learn in this section.",
+        "ipa": "fɔːr ɪgˈzɑːmpl, wiːv gɒt ən aɪˈdɪə fɔː juː əˈbaʊt haʊ juː kʊd ɪmˈpruːv ˈtɜːmɪnl ˈhækə wɪð wɒt juː lɜːn ɪn ðɪs ˈsɛkʃən.",
+        "meaning": "Ví dụ: chúng tôi có một ý tưởng cho bạn về cách bạn có thể cải thiện Terminal Hacker với những gì bạn học được trong phần này."
+    },
+    {
+        "sentence": "But, for now, let's just crack right into Project Boost and enjoy the journey.",
+        "ipa": "bʌt, fɔː naʊ, lɛts ʤʌst kræk raɪt ˈɪntuː ˈprɒʤɛkt buːst ænd ɪnˈʤɔɪ ðə ˈʤɜːni.",
+        "meaning": "Tuy nhiên, hiện tại, hãy crack ngay vào Project Boost và tận hưởng cuộc hành trình."
+    }
+]

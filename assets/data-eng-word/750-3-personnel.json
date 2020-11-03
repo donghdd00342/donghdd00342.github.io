@@ -1,0 +1,432 @@
+[
+    {
+        "word": "abundant",
+        "type": "adj",
+        "ipa": "əˈbʌndənt",
+        "meaning": "phong phú, đa dạng, nhiều",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "An abundant supply of willing workers drives the price of labor down.",
+        "ipaExTrans": "ən əˈbʌndənt səˈplaɪ ɒv ˈwɪlɪŋ ˈwɜːkəz draɪvz ðə praɪs ɒv ˈleɪbə daʊn.",
+        "exMeaning": "Lượng cung công nhân sẵn sàng làm việc phong phú làm cho giá cả lao động giảm xuống"
+    },
+    {
+        "word": "candidate",
+        "type": "n",
+        "ipa": "ˈkændɪˌdeɪt",
+        "meaning": "thí sinh, ứng cử viên",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "Only the best candidates will be invited to an interview.",
+        "ipaExTrans": "ˈəʊnli ðə bɛst ˈkændɪˌdeɪts wɪl biː ɪnˈvaɪtɪd tuː ən ˈɪntəvjuː.",
+        "exMeaning": "Chỉ có những ứng viên giỏi nhất mới được mời phỏng vấn"
+    },
+    {
+        "word": "generate",
+        "type": "v",
+        "ipa": "ˈʤɛnəreɪt",
+        "meaning": "tạo, sản xuất",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "The ad generated only a few applications.",
+        "ipaExTrans": "ði æd ˈʤɛnəreɪtɪd ˈəʊnli ə fjuː ˌæplɪˈkeɪʃ(ə)nz.",
+        "exMeaning": "Quảng cáo đó chỉ tạo nên vài ứng dụng"
+    },
+    {
+        "word": "hire",
+        "type": "v",
+        "ipa": "ˈhaɪə",
+        "meaning": "thuê, mướn",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "We need to hire some more office staff.",
+        "ipaExTrans": "wiː niːd tuː ˈhaɪə sʌm mɔːr ˈɒfɪs stɑːf.",
+        "exMeaning": "Chúng ta cần thuê thêm một số nhân viên văn phòng."
+    },
+    {
+        "word": "qualification",
+        "type": "n",
+        "ipa": "ˌkwɒlɪfɪˈkeɪʃən",
+        "meaning": "phẩm chất, tiêu chuẩn, khả năng",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "We will chosse the person with the best qualifications for this position.",
+        "ipaExTrans": "wiː wɪl chosse ðə ˈpɜːsn wɪð ðə bɛst ˌkwɒlɪfɪˈkeɪʃənz fɔː ðɪs pəˈzɪʃən.",
+        "exMeaning": "Chúng ta cần chọn người có phẩm chất tốt nhát cho vị trí này."
+    },
+    {
+        "word": "recruit",
+        "type": "v",
+        "ipa": "rɪˈkruːt",
+        "meaning": "tuyển chọn, tuyển dụng",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "The company likes to recruit people straight out of school.",
+        "ipaExTrans": "ðə ˈkʌmpəni laɪks tuː rɪˈkruːt ˈpiːpl streɪt aʊt ɒv skuːl.",
+        "exMeaning": "Công ty thích tuyển người trực tiếp từ trường học."
+    },
+    {
+        "word": "eligible",
+        "type": "adj",
+        "ipa": "ˈɛlɪʤəbl",
+        "meaning": "đủ điều kiện",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "I'll be eligible for retirement next year.",
+        "ipaExTrans": "aɪl biː ˈɛlɪʤəbl fɔː rɪˈtaɪəmənt nɛkst jɪə.",
+        "exMeaning": "Tôi đủ điều kiện để về hưu vào năm sau."
+    },
+    {
+        "word": "loyal",
+        "type": "adj",
+        "ipa": "ˈlɔɪəl",
+        "meaning": "trung thành",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "You have been a loyal employee, having worked in our company for over forty years.",
+        "ipaExTrans": "juː hæv biːn ə ˈlɔɪəl ˌɛmplɔɪˈiː , ˈhævɪŋ wɜːkt ɪn ˈaʊə ˈkʌmpəni fɔːr ˈəʊvə ˈfɔːti jɪəz.",
+        "exMeaning": "Bạn là một nhân viên trung thành khi bạn làm việc tại công ty chúng tôi trên 40 năm."
+    },
+    {
+        "word": "mentor",
+        "type": "n",
+        "ipa": "ˈmɛntɔː",
+        "meaning": "người cố vấn, quân sư",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "I am so sad you are retiring because you are my mentor. Who will teach me now?",
+        "ipaExTrans": "aɪ æm səʊ sæd juː ɑː rɪˈtaɪərɪŋ bɪˈkɒz juː ɑː maɪ ˈmɛntɔː . huː wɪl tiːʧ miː naʊ?",
+        "exMeaning": "Tôi rất buồn khi anh sắp về hưu vì anh là quân sư của tôi mà. Bây giờ ai sẽ dậy tôi đây?"
+    },
+    {
+        "word": "present",
+        "type": "v",
+        "ipa": "ˈprɛznt",
+        "meaning": "tặng, biếu",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "Harry's boss presented him with a gold watch on his retirement.",
+        "ipaExTrans": "ˈhæriz bɒs prɪˈzɛntɪd hɪm wɪð ə gəʊld wɒʧ ɒn hɪz rɪˈtaɪəmənt.",
+        "exMeaning": "Ông chủ của Harry tặng anh ấy một chiếc đồng hộ đeo tay bằng vàng khi anh ấy nghỉ hưu."
+    },
+    {
+        "word": "recognition",
+        "type": "n",
+        "ipa": "ˌrɛkəgˈnɪʃən",
+        "meaning": "sự công nhận",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "The company threw a retirement party for fim in recognition of his many years of hard work.",
+        "ipaExTrans": "ðə ˈkʌmpəni θruː ə rɪˈtaɪəmənt ˈpɑːti fɔː fim ɪn ˌrɛkəgˈnɪʃən ɒv hɪz ˈmɛni jɪəz ɒv hɑːd wɜːk.",
+        "exMeaning": "Công ty tổ chức một bữa tiệc nghỉ hưu cho ông ấy để công nhận nhiều năm làm việc chăm chỉ của ông."
+    },
+    {
+        "word": "retire",
+        "type": "v",
+        "ipa": "rɪˈtaɪə",
+        "meaning": "nghỉ hưu",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "I hope I don't get bored when I retire.",
+        "ipaExTrans": "aɪ həʊp aɪ dəʊnt gɛt bɔːd wɛn aɪ rɪˈtaɪə.",
+        "exMeaning": "Tôi hy vọng mình không chán khi về hưu."
+    },
+    {
+        "word": "value",
+        "type": "v",
+        "ipa": "ˈvæljuː",
+        "meaning": "đánh giá, xem xét",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "We will miss Terry; we valued her as a coworker and a friend.",
+        "ipaExTrans": "wiː wɪl mɪs ˈtɛri; wiː ˈvæljuːd hɜːr æz ə ˌkəʊˈwɜːkər ænd ə frɛnd.",
+        "exMeaning": "Chúng ta sẽ nhớ Terry; chúng ta xem cô ấy như một người đồng nghiệp, một người bạn."
+    },
+    {
+        "word": "basis",
+        "type": "n",
+        "ipa": "ˈbeɪsɪs",
+        "meaning": "nền tảng, căn cứ",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "Your experience and qualifications are the basis for your starting salary.",
+        "ipaExTrans": "jɔːr ɪksˈpɪərɪəns ænd ˌkwɒlɪfɪˈkeɪʃənz ɑː ðə ˈbeɪsɪs fɔː jɔː ˈstɑːtɪŋ ˈsæləri.",
+        "exMeaning": "Kinh nghiệm và khả năng của bạn là căn cứ cho mức lương khởi điểm của bạn"
+    },
+    {
+        "word": "benefit",
+        "type": "n",
+        "ipa": "ˈbɛnɪfɪt",
+        "meaning": "phúc lợi, tiền phụ cấp",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "The salary is not very good, but the benifits are excellent.",
+        "ipaExTrans": "ðə ˈsæləri ɪz nɒt ˈvɛri gʊd , bʌt ðə benifits ɑːr ˈɛksələnt .",
+        "exMeaning": "Lương không khá lắm nhưng phúc lợi thì tuyệt vời."
+    },
+    {
+        "word": "compensate",
+        "type": "v",
+        "ipa": "ˈkɒmpɛnseɪt",
+        "meaning": "đền bù, bồi thường",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "You will be compensated for any extra hours you work.",
+        "ipaExTrans": "juː wɪl biː ˈkɒmpɛnseɪtɪd fɔːr ˈɛni ˈɛkstrə ˈaʊəz juː wɜːk .",
+        "exMeaning": "Bạn sẽ được đền bù cho những giờ làm việc thêm."
+    },
+    {
+        "word": "constantly",
+        "type": "adv",
+        "ipa": "ˈkɒnstəntli",
+        "meaning": "thường xuyên, liên tục",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "She is constantly talking about her salary; she rarely talks about anything else!",
+        "ipaExTrans": "ʃiː ɪz ˈkɒnstəntli ˈtɔːkɪŋ əˈbaʊt hɜː ˈsæləri; ʃiː ˈreəli tɔːks əˈbaʊt ˈɛnɪθɪŋ ɛls!",
+        "exMeaning": "Cô ta thường xuyên nói về lương bổng của cô ta; cô ta hiếm khi nói gì khác!"
+    },
+    {
+        "word": "hesitant",
+        "type": "adj",
+        "ipa": "ˈhɛzɪtənt",
+        "meaning": "do dự",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "I was a little hesitant to ask for a pay raise because I had only been with the company for a few months.",
+        "ipaExTrans": "aɪ wɒz ə ˈlɪtl ˈhɛzɪtənt tuː ɑːsk fɔːr ə peɪ reɪz bɪˈkɒz aɪ hæd ˈəʊnli biːn wɪð ðə ˈkʌmpəni fɔːr ə fjuː mʌnθs.",
+        "exMeaning": "Tôi có một chút do dự để yêu cầu tăng lương vì tôi chỉ làm việc tại công ty được vài tháng."
+    },
+    {
+        "word": "match",
+        "type": "v",
+        "ipa": "mæʧ",
+        "meaning": "làm bằng nhau, tương xứng",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "I'm hoping you can match the salary I had with my last company.",
+        "ipaExTrans": "aɪm ˈhəʊpɪŋ juː kæn mæʧ ðə ˈsæləri aɪ hæd wɪð maɪ lɑːst ˈkʌmpəni .",
+        "exMeaning": "Tôi hy vọng bạn có thể đưa mức lương bằng mức lương của tôi ở công ty trước đây."
+    },
+    {
+        "word": "negotiate",
+        "type": "v",
+        "ipa": "nɪˈgəʊʃɪeɪt",
+        "meaning": "thương lượng, đàm phán",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "He's talking to the boss to try to negotiate a pay raise.",
+        "ipaExTrans": "hiːz ˈtɔːkɪŋ tuː ðə bɒs tuː traɪ tuː nɪˈgəʊʃɪeɪt ə peɪ reɪz.",
+        "exMeaning": "Anh ấy nói chuyện với ông chủ để cố gắng đòi tăng lương."
+    },
+    {
+        "word": "obviously",
+        "type": "adv",
+        "ipa": "ˈɒbvɪəsli",
+        "meaning": "rõ ràng",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "She keeps asking for a pay raise; she obviously needs the money.",
+        "ipaExTrans": "ʃiː kiːps ˈɑːskɪŋ fɔːr ə peɪ reɪz; ʃiː ˈɒbvɪəsli niːdz ðə ˈmʌni .",
+        "exMeaning": "Cô ấy cứ yêu cầu tăng lương; rõ ràng cô ấy cần tiền."
+    },
+    {
+        "word": "apprentice",
+        "type": "n",
+        "ipa": "əˈprɛntɪs",
+        "meaning": "thực tập sinh",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "Most skilled laborers learn their trade by becoming apprentices to more experienced people.",
+        "ipaExTrans": "məʊst skɪld ˈleɪbərəz lɜːn ðeə treɪd baɪ bɪˈkʌmɪŋ əˈprɛntɪsɪz tuː mɔːr ɪksˈpɪərɪənst ˈpiːpl.",
+        "exMeaning": "Hầu hết những lao động giỏi học nghề của họ bằng cách trở thành thực tập sinh cho những người có nhiều kinh nghiệm hơn."
+    },
+    {
+        "word": "commensurate",
+        "type": "adj",
+        "ipa": "kəˈmɛnʃərɪt",
+        "meaning": "cân xứng, tương xứng",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "You will receive a new salary commensurate with the position.",
+        "ipaExTrans": "juː wɪl rɪˈsiːv ə njuː ˈsæləri kəˈmɛnʃərɪt wɪð ðə pəˈzɪʃən.",
+        "exMeaning": "Bạn sẽ nhận một mức lương mới tương xứng với vị trí này."
+    },
+    {
+        "word": "conduct",
+        "type": "n",
+        "ipa": "ˈkɒndʌkt",
+        "meaning": "tư cách đạo đức, cách chỉ đạo, cách quản lý",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "She was given a promotion because of her excellent conduct at work.",
+        "ipaExTrans": "ʃiː wɒz ˈgɪvn ə prəˈməʊʃən bɪˈkɒz ɒv hɜːr ˈɛksələnt ˈkɒndʌkt æt wɜːk.",
+        "exMeaning": "Cô ấy được thằng chức bởi vì cách quản lý tuyệt vời của cô ở công việc."
+    },
+    {
+        "word": "dedication",
+        "type": "b",
+        "ipa": "ˌdɛdɪˈkeɪʃən",
+        "meaning": "sự cống hiến, sự đóng góp",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "Her dedication to the job has finally earned her a promotion.",
+        "ipaExTrans": "hɜː ˌdɛdɪˈkeɪʃən tuː ðə ʤɒb hæz ˈfaɪnəli ɜːnd hɜːr ə prəˈməʊʃən.",
+        "exMeaning": "Sự cống hiến cho công việc của cô ấy cuối cùng đã đem đến sự thăng chức cho cô ấy."
+    },
+    {
+        "word": "expert",
+        "type": "n",
+        "ipa": "ˈɛkspɜːt",
+        "meaning": "chuyên gia",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "You were chosen for the job because you are an expert on doing business in China.",
+        "ipaExTrans": "juː wɜː ˈʧəʊzn fɔː ðə ʤɒb bɪˈkɒz juː ɑːr ən ˈɛkspɜːt ɒn ˈdu(ː)ɪŋ ˈbɪznɪs ɪn ˈʧaɪnə.",
+        "exMeaning": "Bạn được chọn cho công việc này bởi vì bạn là chuyên gia về kinh doanh ở Trung Quốc"
+    },
+    {
+        "word": "promote",
+        "type": "v",
+        "ipa": "prəˈməʊt",
+        "meaning": "đề bạt, thăng tiến",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "She has recently been promoted to manager.",
+        "ipaExTrans": "ʃiː hæz ˈriːsntli biːn prəˈməʊtɪd tuː ˈmænɪʤə.",
+        "exMeaning": "Gần đây cô ấy được đề bạt làm giám đốc."
+    },
+    {
+        "word": "success",
+        "type": "n",
+        "ipa": "səkˈsɛs",
+        "meaning": "sự thành công",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "He got promoted again; he is such a success, isn't he?",
+        "ipaExTrans": "hiː gɒt prəˈməʊtɪd əˈgɛn; hiː ɪz sʌʧ ə səkˈsɛs, ˈɪznt hiː?",
+        "exMeaning": "Anh ấy lại được thăng chức; anh ấy là một người thành công đúng không?"
+    },
+    {
+        "word": "vested",
+        "type": "adj",
+        "ipa": "ˈvɛstɪd",
+        "meaning": "được trao cho, (thuộc) quyền sở hữu bất di bất dịch",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "She had a vested interest in the company's success.",
+        "ipaExTrans": "ʃiː hæd ə ˈvɛstɪd ˈɪntrɪst ɪn ðə ˈkʌmpəniz səkˈsɛs.",
+        "exMeaning": "Cô ấy được trao cho quyền lợi trong sự thành công của công ty."
+    },
+    {
+        "word": "accomplishment",
+        "type": "n",
+        "ipa": "əˈkɒmplɪʃmənt",
+        "meaning": "thành tích, thành tựu",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "What are some of you greatest accomplishments ?",
+        "ipaExTrans": "wɒt ɑː sʌm ɒv juː ˈgreɪtɪst əˈkɒmplɪʃmənts ?",
+        "exMeaning": "Vài thành tích nổi bật nhất của anh là gì?"
+    },
+    {
+        "word": "achievement",
+        "type": "n",
+        "ipa": "achievement",
+        "meaning": "thành tự",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "He is a man of many achievements, both in the business world and in his personal life.",
+        "ipaExTrans": "hiː ɪz ə mæn ɒv ˈmɛni əˈʧiːvmənts, bəʊθ ɪn ðə ˈbɪznɪs wɜːld ænd ɪn hɪz ˈpɜːsnl laɪf.",
+        "exMeaning": "Anh ấy là người đàn ông có nhiều thành tựu, cả trong lĩnh vực kinh doanh và trong đời sống cá nhân."
+    },
+    {
+        "word": "apply",
+        "type": "v",
+        "ipa": "əˈplaɪ",
+        "meaning": "nộp đơn, xin, thỉnh cầu",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "Why don't you apply for the job?",
+        "ipaExTrans": "waɪ dəʊnt juː əˈplaɪ fɔː ðə ʤɒb?",
+        "exMeaning": "Tại sao bạn không nộp đơn cho công việc này?"
+    },
+    {
+        "word": "background",
+        "type": "n",
+        "ipa": "ˈbækgraʊnd",
+        "meaning": "bố cảnh, quá trình đào tạo, nền tảng",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "I currently work as an office manager, but my background is in engineering.",
+        "ipaExTrans": "aɪ ˈkʌrəntli wɜːk æz ən ˈɒfɪs ˈmænɪʤə, bʌt maɪ ˈbækgraʊnd ɪz ɪn ˌɛnʤɪˈnɪərɪŋ.",
+        "exMeaning": "Hiện tôi làm giám đốc văn phòng, nhưng nghành đào tạo của tôi là kỹ sư xây dựng."
+    },
+    {
+        "word": "confidence",
+        "type": "n",
+        "ipa": "ˈkɒnfɪdəns",
+        "meaning": "sự tin tưởng, lòng tin",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "I can see you certainly have enough confidence for the position, but do you have the experience?",
+        "ipaExTrans": "aɪ kæn siː juː ˈsɜːtnli hæv ɪˈnʌf ˈkɒnfɪdəns fɔː ðə pəˈzɪʃən, bʌt duː juː hæv ði ɪksˈpɪərɪəns?",
+        "exMeaning": "Tôi có thể thấy được bạn có đủ sự tự tin cho vị trí này, nhưng bạn có kinh nghiệm không?"
+    },
+    {
+        "word": "contribute",
+        "type": "v",
+        "ipa": "kənˈtrɪbju(ː)t",
+        "meaning": "đóng góp",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "With my experience, I feel I can contribute a lot to the company's success.",
+        "ipaExTrans": "wɪð maɪ ɪksˈpɪərɪəns, aɪ fiːl aɪ kæn kənˈtrɪbju(ː)t ə lɒt tuː ðə ˈkʌmpəniz səkˈsɛs.",
+        "exMeaning": "Với kinh nghiệm của tôi, tôi nhận thấy mình có thể đóng góp nhiều cho sự thành công của công ty."
+    },
+    {
+        "word": "merit",
+        "type": "n",
+        "ipa": "ˈmɛrɪt",
+        "meaning": "sự xuất sắc, sự xứng đáng",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "Your resume lists all your merits, but tell me what you think your biggest fault is.",
+        "ipaExTrans": "jɔː rɪˈzjuːm lɪsts ɔːl jɔː ˈmɛrɪts, bʌt tɛl miː wɒt juː θɪŋk jɔː ˈbɪgɪst fɔːlt ɪz.",
+        "exMeaning": "Bản sơ yếu lý lịch của bạn liệt kê tất cả những phẩm chất xuất sắc của bạn, nhưng hãy cho tôi biết bạn nghĩa điểm yếu lớn nhất của bạn là gì?"
+    },
+    {
+        "word": "profile",
+        "type": "n",
+        "ipa": "ˈprəʊfaɪl",
+        "meaning": "sự mô tả sơ lược",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "Please include a short profile with your resume.",
+        "ipaExTrans": "pliːz ɪnˈkluːd ə ʃɔːt ˈprəʊfaɪl wɪð jɔː rɪˈzjuːm.",
+        "exMeaning": "Vui lòng bao gồm sự mô tả ngắn cùng với sơ yếu lý lịch của bạn."
+    },
+    {
+        "word": "reject",
+        "type": "v",
+        "ipa": "ˈriːʤɛkt",
+        "meaning": "từ chối, bác bỏ",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "His application was rejected because he doesn't have a college degree.",
+        "ipaExTrans": "hɪz ˌæplɪˈkeɪʃ(ə)n wɒz rɪˈʤɛktɪd bɪˈkɒz hiː dʌznt hæv ə ˈkɒlɪʤ dɪˈgriː.",
+        "exMeaning": "Đơn xin việc của anh ấy bị bác bỏ vì anh ấy không có bằng đại học."
+    },
+    {
+        "word": "submit",
+        "type": "v",
+        "ipa": "səbˈmɪt",
+        "meaning": "đệ trình, nộp",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "Please submit your appllication before February 28th.",
+        "ipaExTrans": "pliːz səbˈmɪt jɔː appllication bɪˈfɔː ˈfɛbrʊəri 28th.",
+        "exMeaning": "Vui lòng nộp đơn xin việc của bạn trước ngày 28 tháng Hai."
+    },
+    {
+        "word": "time-consuming",
+        "type": "adj",
+        "ipa": "ˈtaɪmkənˈsjuːmɪŋ",
+        "meaning": "tốn thời gian",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "Reading all the applications can be so time-consuming.",
+        "ipaExTrans": "ˈriːdɪŋ ɔːl ði ˌæplɪˈkeɪʃ(ə)nz kæn biː səʊ ˈtaɪmkənˈsjuːmɪŋ.",
+        "exMeaning": "Đọc tất cả đơn xin việc có thể rất tốn nhiều thời gian."
+    },
+    {
+        "word": "training",
+        "type": "n",
+        "ipa": "ˈtreɪnɪŋ",
+        "meaning": "sự đào tạo",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "We provide training for the job, so it's OK if you don't have experience.",
+        "ipaExTrans": "wiː prəˈvaɪd ˈtreɪnɪŋ fɔː ðə ʤɒb , səʊ ɪts ˈəʊˈkeɪ ɪf juː dəʊnt hæv ɪksˈpɪərɪəns.",
+        "exMeaning": "Chúng tôi sẽ đào tạo cho công việc này, vì thế nếu bạn không có kinh nghiệm cũng không sao."
+    },
+    {
+        "word": "update",
+        "type": "v",
+        "ipa": "ʌpˈdeɪt",
+        "meaning": "cập nhật, cung cấp thông tin mới nhất cho ai",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "Your resume only goes up to the end of last year; can you update me on what you have been doing recently?",
+        "ipaExTrans": "jɔː rɪˈzjuːm ˈəʊnli gəʊz ʌp tuː ði ɛnd ɒv lɑːst jɪə; kæn juː ʌpˈdeɪt miː ɒn wɒt juː hæv biːn ˈdu(ː)ɪŋ ˈriːsntli?",
+        "exMeaning": "Sơ yếu lý lịch của bạn chỉ nêu đến cuối năm ngoái, bạn có thể cung cấp cho tôi những gì bạn đã làm gần đây chứ?"
+    },
+    {
+        "word": "wage",
+        "type": "n",
+        "ipa": "weɪʤ",
+        "meaning": "tiền công",
+        "tag": "Personnel (Nhân sự)",
+        "ex": "I want a fair wage for this new position.",
+        "ipaExTrans": "aɪ wɒnt ə feə weɪʤ fɔː ðɪs njuː pəˈzɪʃən.",
+        "exMeaning": "Tôi muốn tiền lương công bằng cho vị trí mới này."
+    }
+]

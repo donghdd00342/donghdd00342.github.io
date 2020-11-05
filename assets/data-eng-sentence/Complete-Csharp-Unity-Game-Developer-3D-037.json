@@ -1,0 +1,287 @@
+[
+    {
+        "sentence": "In this video, I'm gonna introduce to you an incredible technique that will help you with common game design challenges that you face.",
+        "ipa": "ɪn ðɪs ˈvɪdɪəʊ, aɪm ˈgɒnə ˌɪntrəˈdjuːs tuː juː ən ɪnˈkrɛdəbl tɛkˈniːk ðæt wɪl hɛlp juː wɪð ˈkɒmən geɪm dɪˈzaɪn ˈʧælɪnʤɪz ðæt juː feɪs.",
+        "meaning": "Trong video này, tôi sẽ giới thiệu với bạn một kỹ thuật đáng kinh ngạc sẽ giúp bạn giải quyết những thách thức thiết kế trò chơi phổ biến mà bạn phải đối mặt."
+    },
+    {
+        "sentence": "Game design challenges such as, what features should I include in my game, or where should I even start, or what are my priorities, or what if I run out of time, or when should I stop working on my project?",
+        "ipa": "geɪm dɪˈzaɪn ˈʧælɪnʤɪz sʌʧ æz, wɒt ˈfiːʧəz ʃʊd aɪ ɪnˈkluːd ɪn maɪ geɪm, ɔː weə ʃʊd aɪ ˈiːvən stɑːt, ɔː wɒt ɑː maɪ praɪˈɒrɪtiz, ɔː wɒt ɪf aɪ rʌn aʊt ɒv taɪm, ɔː wɛn ʃʊd aɪ stɒp ˈwɜːkɪŋ ɒn maɪ ˈprɒʤɛkt?",
+        "meaning": "Những thách thức về thiết kế trò chơi chẳng hạn như, tôi nên đưa những tính năng nào vào trò chơi của mình, thậm chí tôi nên bắt đầu từ đâu, hoặc ưu tiên của tôi là gì, hoặc điều gì xảy ra nếu tôi hết thời gian hoặc khi nào tôi nên ngừng làm dự án của mình?"
+    },
+    {
+        "sentence": "And that technique is the Onion design technique.",
+        "ipa": "ænd ðæt tɛkˈniːk ɪz ði ˈʌnjən dɪˈzaɪn tɛkˈniːk.",
+        "meaning": "Và kỹ thuật đó là kỹ thuật thiết kế Hành tây."
+    },
+    {
+        "sentence": "If you're to take an onion and slice it right down the middle, you'll have a core of the onion and then you'll have outer rings of that onion.",
+        "ipa": "ɪf jʊə tuː teɪk ən ˈʌnjən ænd slaɪs ɪt raɪt daʊn ðə ˈmɪdl, juːl hæv ə kɔːr ɒv ði ˈʌnjən ænd ðɛn juːl hæv ˈaʊtə rɪŋz ɒv ðæt ˈʌnjən.",
+        "meaning": "Nếu bạn lấy một củ hành tây và cắt lát ngay xuống giữa, bạn sẽ có một lõi của hành và sau đó bạn sẽ có các vòng ngoài của củ hành đó."
+    },
+    {
+        "sentence": "So, right in the very core of our game, we have what is the absolute most important number one feature that we absolutely have to get created for our game is make any sense and be fantastic.",
+        "ipa": "səʊ, raɪt ɪn ðə ˈvɛri kɔːr ɒv ˈaʊə geɪm, wiː hæv wɒt ɪz ði ˈæbsəluːtli məʊst ɪmˈpɔːtənt ˈnʌmbə wʌn ˈfiːʧə ðæt wiː ˈæbsəluːtli hæv tuː gɛt kri(ː)ˈeɪtɪd fɔːr ˈaʊə geɪm ɪz meɪk ˈɛni sɛns ænd biː fænˈtæstɪk.",
+        "meaning": "Vì vậy, ngay trong cốt lõi của trò chơi của chúng tôi, chúng tôi có những gì là tính năng số một hoàn toàn quan trọng nhất mà chúng tôi nhất thiết phải tạo ra cho trò chơi của mình là có ý nghĩa và tuyệt vời."
+    },
+    {
+        "sentence": "And then, after we've created that, we move on to what is the next most important feature and we create that.",
+        "ipa": "ænd ðɛn, ˈɑːftə wiːv kri(ː)ˈeɪtɪd ðæt, wiː muːv ɒn tuː wɒt ɪz ðə nɛkst məʊst ɪmˈpɔːtənt ˈfiːʧər ænd wiː kri(ː)ˈeɪt ðæt.",
+        "meaning": "Và sau đó, sau khi tạo xong, chúng tôi chuyển sang tính năng quan trọng nhất tiếp theo và chúng tôi tạo ra tính năng đó."
+    },
+    {
+        "sentence": "And then after we have created that, we move on to what is the next most important third most important feature and so on.",
+        "ipa": "ænd ðɛn ˈɑːftə wiː hæv kri(ː)ˈeɪtɪd ðæt, wiː muːv ɒn tuː wɒt ɪz ðə nɛkst məʊst ɪmˈpɔːtənt thirrd məʊst ɪmˈpɔːtənt ˈfiːʧər ænd səʊ ɒn.",
+        "meaning": "Và sau khi chúng tôi đã tạo ra nó, chúng tôi chuyển sang tính năng quan trọng nhất tiếp theo quan trọng nhất thứ ba, v.v."
+    },
+    {
+        "sentence": "And the important thing here is that everything needs to feed the core and make the core better.",
+        "ipa": "ænd ði ɪmˈpɔːtənt θɪŋ hɪər ɪz ðæt ˈɛvri θɪŋ niːdz tuː fiːd ðə kɔːr ænd meɪk ðə kɔː ˈbɛtə.",
+        "meaning": "Và điều quan trọng ở đây là mọi thứ cần phải nuôi lõi và làm cho lõi tốt hơn."
+    },
+    {
+        "sentence": "Everything needs to keep coming back to the core.",
+        "ipa": "ˈɛvrɪθɪŋ niːdz tuː kiːp ˈkʌmɪŋ bæk tuː ðə kɔː.",
+        "meaning": "Mọi thứ cần phải tiếp tục quay trở lại cốt lõi."
+    },
+    {
+        "sentence": "So let's link this, let's relate this to the game that we're working on at the moment.",
+        "ipa": "səʊ lɛts lɪŋk ðɪs, lɛts rɪˈleɪt ðɪs tuː ðə geɪm ðæt wɪə ˈwɜːkɪŋ ɒn æt ðə ˈməʊmənt.",
+        "meaning": "Vì vậy, hãy liên kết điều này, hãy liên kết điều này với trò chơi mà chúng tôi đang phát triển vào lúc này."
+    },
+    {
+        "sentence": "And to remind you of the core features and I've even gone on and put in putting in an extra couple of features in here that we could add on top of it.",
+        "ipa": "ænd tuː ˈrɪmaɪnd juː ɒv ðə kɔː ˈfiːʧəz ænd aɪv ˈiːvən gɒn ɒn ænd pʊt ɪn ən ˈpʊtɪŋ ɪn ən ˈɛkstrə ˈkʌpl ɒv ˈfiːʧəz ɪn hɪə ðæt wiː kʊd æd ɒn tɒp ɒv ɪt.",
+        "meaning": "Và để nhắc nhở bạn về các tính năng cốt lõi và tôi thậm chí đã tiếp tục và đưa vào đây một vài tính năng bổ sung mà chúng tôi có thể thêm vào đó."
+    },
+    {
+        "sentence": "Then I've been pretty judicious, pretty careful in keeping our scope brief.",
+        "ipa": "ðɛn aɪv biːn ˈprɪti ʤu(ː)ˈdɪʃəs, ˈprɪti ˈkeəfʊl ɪn ˈkiːpɪŋ ˈaʊə skəʊp briːf.",
+        "meaning": "Sau đó, tôi đã khá thận trọng, khá cẩn thận trong việc giữ cho phạm vi của chúng tôi ngắn gọn."
+    },
+    {
+        "sentence": "But there's plenty of other things we can do in here, so we've got our shift, we've got our level, we've got controls, maybe we could also shoot.",
+        "ipa": "bʌt ðeəz ˈplɛnti ɒv ˈʌðə θɪŋz wiː kæn duː ɪn hɪə, səʊ wiːv gɒt ˈaʊə ʃɪft, wiːv gɒt ˈaʊə ˈlɛvl, wiːv gɒt kənˈtrəʊlz, ˈmeɪbiː wiː kʊd ˈɔːlsəʊ ʃuːt.",
+        "meaning": "Nhưng có rất nhiều thứ khác chúng ta có thể làm ở đây, vì vậy chúng tôi có sự thay đổi của mình, chúng tôi có trình độ của mình, chúng tôi có quyền kiểm soát, có thể chúng tôi cũng có thể bắn."
+    },
+    {
+        "sentence": "We've got a fuel mechanic we've got power ups moving obstacles got the level we got put on particle fix and make that game look beautiful.",
+        "ipa": "wiːv gɒt ə fjʊəl mɪˈkænɪk wiːv gɒt ˈpaʊər ʌps ˈmuːvɪŋ ˈɒbstəklz gɒt ðə ˈlɛvl wiː gɒt pʊt ɒn ˈpɑːtɪkl fɪks ænd meɪk ðæt geɪm lʊk ˈbjuːtəfʊl.",
+        "meaning": "Chúng tôi có một thợ máy nhiên liệu, chúng tôi có thêm sức mạnh để di chuyển chướng ngại vật, có mức độ chúng tôi đã đưa vào sửa lỗi và làm cho trò chơi đó trông đẹp mắt."
+    },
+    {
+        "sentence": "All these great things.",
+        "ipa": "ɔːl ðiːz greɪt θɪŋz.",
+        "meaning": "Tất cả những điều tuyệt vời này."
+    },
+    {
+        "sentence": "So when we look at it we're like where do we even start?",
+        "ipa": "səʊ wɛn wiː lʊk æt ɪt wɪə laɪk weə duː wiː ˈiːvən stɑːt?",
+        "meaning": "Vì vậy, khi chúng ta nhìn vào nó, chúng ta giống như chúng ta sẽ bắt đầu từ đâu?"
+    },
+    {
+        "sentence": "What's the important place to start?",
+        "ipa": "wɒts ði ɪmˈpɔːtənt pleɪs tuː stɑːt?",
+        "meaning": "Nơi quan trọng để bắt đầu là gì?"
+    },
+    {
+        "sentence": "If we follow the onion design philosophy we say, what is the core of that game?",
+        "ipa": "Iif wiː ˈfɒləʊ ði anion dɪˈzaɪn fɪˈlɒsəfi wiː seɪ, wɒt ɪz ðə kɔːr ɒv ðæt geɪm?",
+        "meaning": "Nếu chúng ta tuân theo triết lý thiết kế anion mà chúng ta đã nói, thì cốt lõi của trò chơi đó là gì?"
+    },
+    {
+        "sentence": "The most important thing with our game that we just cannot do without.",
+        "ipa": "ðə məʊst ɪmˈpɔːtənt θɪŋ wɪð ˈaʊə geɪm ðæt wiː ʤʌst ˈkænɒt duː wɪˈðaʊt.",
+        "meaning": "Điều quan trọng nhất với trò chơi của chúng tôi mà chúng tôi không thể thiếu."
+    },
+    {
+        "sentence": "If we didn't have this thing our game would not work.",
+        "ipa": "ɪf wiː dɪdnt hæv ðɪs θɪŋ ˈaʊə geɪm wʊd nɒt wɜːk.",
+        "meaning": "Nếu chúng tôi không có thứ này, trò chơi của chúng tôi sẽ không hoạt động."
+    },
+    {
+        "sentence": "And then after we get that and we implement it, we build it, we develop it, and we have it feeling the way we want it to feel.",
+        "ipa": "ænd ðɛn ˈɑːftə wiː gɛt ðæt ænd wiː ˈɪmplɪmənt ɪt, wiː bɪld ɪt, wiː dɪˈvɛləp ɪt, ænd wiː hæv ɪt ˈfiːlɪŋ ðə weɪ wiː wɒnt ɪt tuː fiːl.",
+        "meaning": "Và sau khi chúng tôi có được điều đó và chúng tôi thực hiện nó, chúng tôi xây dựng nó, chúng tôi phát triển nó và chúng tôi có cảm giác như chúng tôi muốn."
+    },
+    {
+        "sentence": "Then we go to the next, and then we go to the next, and then we go to the next.",
+        "ipa": "ðɛn wiː gəʊ tuː ðə nɛkst, ænd ðɛn wiː gəʊ tuː ðə nɛkst, ænd ðɛn wiː gəʊ tuː ðə nɛkst.",
+        "meaning": "Sau đó, chúng tôi đi đến tiếp theo, và sau đó chúng tôi đi đến tiếp theo, và sau đó chúng tôi đi tiếp theo."
+    },
+    {
+        "sentence": "So, before I give you the answer to how we've gone about creating out Onion design for this game, I wanna ask you a question and that is a challenge I guess it is to sketch the Onion design that you think we're implementing for our game or you think we should implement for our game.",
+        "ipa": "səʊ, bɪˈfɔːr aɪ gɪv juː ði ˈɑːnsə tuː haʊ wiːv gɒn əˈbaʊt kri(ː)ˈeɪtɪŋ aʊt ˈʌnjən dɪˈzaɪn fɔː ðɪs geɪm, aɪ ˈwɒnə ɑːsk juː ə ˈkwɛsʧən ænd ðæt ɪz ə ˈʧælɪnʤ aɪ gɛs ɪt ɪz tuː skɛʧ ði ˈʌnjən dɪˈzaɪn ðæt juː θɪŋk wɪər ˈɪmplɪmɛntɪŋ fɔːr ˈaʊə geɪm ɔː juː θɪŋk wiː ʃʊd ˈɪmplɪmənt fɔːr ˈaʊə geɪm.",
+        "meaning": "Vì vậy, trước khi tôi cung cấp cho bạn câu trả lời về cách chúng tôi đã tạo ra thiết kế Onion cho trò chơi này, tôi muốn hỏi bạn một câu hỏi và đó là một thách thức mà tôi đoán đó là phác thảo thiết kế Onion mà bạn nghĩ rằng chúng tôi đang thực hiện cho trò chơi của chúng tôi hoặc bạn nghĩ chúng tôi nên triển khai cho trò chơi của mình."
+    },
+    {
+        "sentence": "Start off with what you believe is the single most important feature of the game.",
+        "ipa": "stɑːt ɒf wɪð wɒt juː bɪˈliːv ɪz ðə ˈsɪŋgl məʊst ɪmˈpɔːtənt ˈfiːʧər ɒv ðə geɪm.",
+        "meaning": "Bắt đầu với những gì bạn tin là tính năng quan trọng nhất của trò chơi."
+    },
+    {
+        "sentence": "And then what's the next most important and what's the next most important?",
+        "ipa": "ænd ðɛn wɒts ðə nɛkst məʊst ɪmˈpɔːtənt ænd wɒts ðə nɛkst məʊst ɪmˈpɔːtənt?",
+        "meaning": "Và sau đó điều gì quan trọng nhất tiếp theo và điều gì quan trọng nhất tiếp theo?"
+    },
+    {
+        "sentence": "And just do a little, quick diagram to show how the Onion design would look for that.",
+        "ipa": "ænd ʤʌst duː ə ˈlɪtl, kwɪk ˈdaɪəgræm tuː ʃəʊ haʊ ði ˈʌnjən dɪˈzaɪn wʊd lʊk fɔː ðæt.",
+        "meaning": "Và chỉ cần thực hiện một sơ đồ nhỏ, nhanh để cho thấy thiết kế Onion sẽ trông như thế nào."
+    },
+    {
+        "sentence": "Take a moment to do that, pause the video and when you come back I'll show you what we believe is our sequence for our Onion design for this particular game.",
+        "ipa": "teɪk ə ˈməʊmənt tuː duː ðæt, pɔːz ðə ˈvɪdɪəʊ ænd wɛn juː kʌm bæk aɪl ʃəʊ juː wɒt wiː bɪˈliːv ɪz ˈaʊə ˈsiːkwəns fɔːr ˈaʊər ˈʌnjən dɪˈzaɪn fɔː ðɪs pəˈtɪkjʊlə geɪm.",
+        "meaning": "Hãy dành một chút thời gian để làm điều đó, tạm dừng video và khi bạn quay lại, tôi sẽ cho bạn thấy những gì chúng tôi tin là trình tự thiết kế Onion của chúng tôi cho trò chơi cụ thể này."
+    },
+    {
+        "sentence": "I believe the most important part of our game, the absolute most important part, is our movement.",
+        "ipa": "aɪ bɪˈliːv ðə məʊst ɪmˈpɔːtənt pɑːt ɒv ˈaʊə geɪm, ði ˈæbsəluːt məʊst ɪmˈpɔːtənt pɑːt, ɪz ˈaʊə ˈmuːvmənt.",
+        "meaning": "Tôi tin rằng phần quan trọng nhất trong trò chơi của chúng tôi, phần quan trọng nhất tuyệt đối, là chuyển động của chúng tôi."
+    },
+    {
+        "sentence": "And this is the thing, that without that, the game just won't work, it will be no good.",
+        "ipa": "ænd ðɪs ɪz ðə θɪŋ, ðæt wɪˈðaʊt ðæt, ðə geɪm ʤʌst wəʊnt wɜːk, ɪt wɪl biː nəʊ gʊd.",
+        "meaning": "Và đây là điều, mà không có điều đó, trò chơi sẽ không hoạt động, nó sẽ không tốt."
+    },
+    {
+        "sentence": "And I'm not just saying without it being in there, it falls down.",
+        "ipa": "ænd aɪm nɒt ʤʌst ˈseɪɪŋ wɪˈðaʊt ɪt ˈbiːɪŋ ɪn ðeə, ɪt fɔːlz daʊn.",
+        "meaning": "Và tôi không chỉ nói mà không có nó ở trong đó, nó sẽ rơi xuống."
+    },
+    {
+        "sentence": "Without it being interesting and compelling and engaging.",
+        "ipa": "wɪˈðaʊt ɪt ˈbiːɪŋ ˈɪntrɪstɪŋ ænd kəmˈpɛlɪŋ ænd ɪnˈgeɪʤɪŋ.",
+        "meaning": "Nếu không có nó sẽ thú vị và hấp dẫn và hấp dẫn."
+    },
+    {
+        "sentence": "So that's why we have to put the number one priority into having our spaceship fly around.",
+        "ipa": "səʊ ðæts waɪ wiː hæv tuː pʊt ˈnʌmbə wʌn praɪˈɒrɪti ˈɪntuː ˈhævɪŋ ˈaʊə ˈspeɪsʃɪp flaɪ əˈraʊnd.",
+        "meaning": "Vì vậy, đó là lý do tại sao chúng ta phải đặt ưu tiên số một vào việc đưa tàu vũ trụ của chúng ta bay vòng quanh."
+    },
+    {
+        "sentence": "And our spaceship we're gonna have it rotate one way and rotate the other and we're gonna have it boost.",
+        "ipa": "ænd ˈaʊə ˈspeɪsʃɪp wɪə ˈgɒnə hæv ɪt rəʊˈteɪt wʌn weɪ ænd rəʊˈteɪt ði ˈʌðər ænd wɪə ˈgɒnə hæv ɪt buːst.",
+        "meaning": "Và con tàu vũ trụ của chúng tôi, chúng tôi sẽ cho nó quay một chiều và xoay một chiều khác và chúng tôi sẽ tăng cường nó."
+    },
+    {
+        "sentence": "We need to have the feeling really fun and compelling and exciting.",
+        "ipa": "wiː niːd tuː hæv ðə ˈfiːlɪŋ ˈrɪəli fʌn ænd kəmˈpɛlɪŋ ænd ɪkˈsaɪtɪŋ.",
+        "meaning": "Chúng ta cần có cảm giác thực sự vui vẻ, hấp dẫn và thú vị."
+    },
+    {
+        "sentence": "And what's really cool is Ben and I were working on that today and it was feeling really excellent.",
+        "ipa": "ænd wɒts ˈrɪəli kuːl ɪz bɛn ænd aɪ wɜː ˈwɜːkɪŋ ɒn ðæt təˈdeɪ ænd ɪt wɒz ˈfiːlɪŋ ˈrɪəli ˈɛksələnt.",
+        "meaning": "Và điều thực sự tuyệt vời là Ben và tôi đã làm việc đó ngày hôm nay và cảm giác thực sự xuất sắc."
+    },
+    {
+        "sentence": "And then what comes next?",
+        "ipa": "ænd ðɛn wɒt kʌmz nɛkst?",
+        "meaning": "Và sau đó điều gì xảy ra tiếp theo?"
+    },
+    {
+        "sentence": "I believe because it feeds into movement and avoidance, our next most important aspect is having some sort of world collision, something to bump into in our game.",
+        "ipa": "aɪ bɪˈliːv, bɪˈkɒz ɪt fiːdz ˈɪntuː ˈmuːvmənt ænd əˈvɔɪdəns, ˈaʊə nɛkst məʊst ɪmˈpɔːtənt ˈæspɛkt ɪn ˈhævɪŋ sʌm sɔːt ɒv wɜːld kəˈlɪʒən, ˈsʌmθɪŋ tuː bʌmp ˈɪntuː ɪn ˈaʊə geɪm.",
+        "meaning": "Tôi tin rằng, bởi vì nó bao gồm chuyển động và tránh né, khía cạnh quan trọng nhất tiếp theo của chúng tôi khi có một số loại va chạm thế giới, một thứ gì đó sẽ xảy ra trong trò chơi của chúng tôi."
+    },
+    {
+        "sentence": "Some sort of threat, something to avoid, something to dodge.",
+        "ipa": "sʌm sɔːt ɒv θrɛt, ˈsʌmθɪŋ tuː əˈvɔɪd, ˈsʌmθɪŋ tuː dɒʤ.",
+        "meaning": "Một mối đe dọa nào đó, một cái gì đó để tránh, một cái gì đó để tránh."
+    },
+    {
+        "sentence": "Now for your game, you might not have put that as the next most important which is totally fine.",
+        "ipa": "naʊ fɔː jɔː geɪm, juː maɪt nɒt hæv pʊt ðæt æz ðə nɛkst məʊst ɪmˈpɔːtənt wɪʧ ɪz ˈtəʊtli faɪn.",
+        "meaning": "Bây giờ đối với trò chơi của bạn, bạn có thể không đặt điều đó là quan trọng nhất tiếp theo, điều đó hoàn toàn ổn."
+    },
+    {
+        "sentence": "You guys might want to create your game a little bit different from ours.",
+        "ipa": "juː gaɪz maɪt wɒnt tuː kri(ː)ˈeɪt jɔː geɪm ə ˈlɪtl bɪt ˈdɪfrəntli tuː ˈaʊəz.",
+        "meaning": "Các bạn có thể muốn tạo ra trò chơi của mình hơi khác so với của chúng tôi."
+    },
+    {
+        "sentence": "You're probably going to be following along with our flow, so you'll be a little bit constrained to what we're creating as we go throughout the course.",
+        "ipa": "jʊə ˈprɒbəbli ˈgəʊɪŋ tuː biː ˈfɒləʊɪŋ əˈlɒŋ wɪð ˈaʊə fləʊ, səʊ juːl biː ə ˈlɪtl bɪt kənˈstreɪnd tuː wɒt wɪə kri(ː)ˈeɪtɪŋ æz wiː gəʊ θruː aʊt ðə kɔːs.",
+        "meaning": "Có thể bạn sẽ theo kịp dòng chảy của chúng tôi, vì vậy bạn sẽ bị hạn chế một chút với những gì chúng tôi đang tạo ra khi chúng tôi đi qua khóa học."
+    },
+    {
+        "sentence": "But this is flexing your design muscles.",
+        "ipa": "bʌt ðɪs ɪz ˈflɛksɪŋ jɔː dɪˈzaɪn ˈmʌslz.",
+        "meaning": "Nhưng điều này đang làm linh hoạt các cơ thiết kế của bạn."
+    },
+    {
+        "sentence": "And then, the third most important aspect is our fuel mechanic.",
+        "ipa": "ænd ðɛn, ðə θɜːd məʊst ɪmˈpɔːtənt ˈæspɛkt ɪz ˈaʊə fjʊəl mɪˈkænɪk.",
+        "meaning": "Và sau đó, khía cạnh quan trọng thứ ba là thợ máy nhiên liệu của chúng tôi."
+    },
+    {
+        "sentence": "And again, why am I showing this to you guys?",
+        "ipa": "ænd əˈgɛn, waɪ æm aɪ ˈʃəʊɪŋ ðɪs tuː juː gaɪz?",
+        "meaning": "Và một lần nữa, tại sao tôi lại cho các bạn thấy điều này?"
+    },
+    {
+        "sentence": "It's so we can make good decisions, and it's so we can say this is really really important.",
+        "ipa": "ɪts səʊ wiː kæn meɪk gʊd dɪˈsɪʒənz, ænd ɪts səʊ wiː kæn seɪ ðɪs ɪz ˈrɪəli ˈrɪəli ɪmˈpɔːtənt.",
+        "meaning": "Nó để chúng tôi có thể đưa ra quyết định đúng đắn và có thể nói điều này thực sự quan trọng."
+    },
+    {
+        "sentence": "And when it comes time to work on the fuel, the fuel needs to make that more compelling than it already is.",
+        "ipa": "ænd wɛn ɪt kʌmz taɪm tuː ˈwɜːkɪŋ ɒn ðə fjʊəl, ðə fjʊəl niːdz tuː meɪk ðæt mɔː kəmˈpɛlɪŋ ðæn ɪt ɔːlˈrɛdi ɪz.",
+        "meaning": "Và khi đến lúc làm việc với nhiên liệu, nhiên liệu cần phải làm cho điều đó trở nên hấp dẫn hơn hiện tại."
+    },
+    {
+        "sentence": "If we're putting in fuel and it does not make the core mechanic which is movement and avoidance, if it doesn't make it better, then it just doesn't get to go in our game.",
+        "ipa": "ɪf wɪə ˈpʊtɪŋ ɪn fjʊəl ænd ɪt dʌz nɒt meɪk ðə kɔː mɪˈkænɪk wɪʧ ɪz ˈmuːvmənt ænd əˈvɔɪdəns, ɪf ɪt dʌznt meɪk ɪt ˈbɛtə, ðɛn ɪt ʤʌst dʌznt gɛt tuː gəʊ ɪn ˈaʊə geɪm.",
+        "meaning": "Nếu chúng ta đổ nhiên liệu vào và nó không tạo ra cơ chế chính là di chuyển và tránh né, nếu nó không làm cho nó tốt hơn, thì nó sẽ không đi vào trò chơi của chúng ta."
+    },
+    {
+        "sentence": "That is how you sort of make that scoping decision.",
+        "ipa": "ðæt ɪz haʊ juː sɔːt ɒv meɪk ðæt ˈskəʊpɪŋ dɪˈsɪʒən.",
+        "meaning": "Đó là cách bạn đưa ra quyết định xác định phạm vi."
+    },
+    {
+        "sentence": "So this is a great technique.",
+        "ipa": "səʊ ðɪs ɪz ə greɪt tɛkˈniːk.",
+        "meaning": "Vì vậy, đây là một kỹ thuật tuyệt vời."
+    },
+    {
+        "sentence": "This is how you make decisions.",
+        "ipa": "ðɪs ɪz haʊ juː meɪk dɪˈsɪʒənz.",
+        "meaning": "Đây là cách bạn đưa ra quyết định."
+    },
+    {
+        "sentence": "This is how you focus on the core.",
+        "ipa": "ðɪs ɪz haʊ juː ˈfəʊkəs ɒn ðə kɔː.",
+        "meaning": "Đây là cách bạn tập trung vào cốt lõi."
+    },
+    {
+        "sentence": "And I'm gonna be really honest with you guys, a lot of indie games, you just don't have enough time to do more than maybe one, or potentially two rings of your onion.",
+        "ipa": "ænd aɪm ˈgɒnə biː ˈrɪəli ˈɒnɪst wɪð juː gaɪz, ə lɒt ɒv ˈɪndi geɪmz, juː ʤʌst dəʊnt hæv ɪˈnʌf taɪm tuː duː mɔː ðæn ˈmeɪbiː wʌn, ɔː pəʊˈtɛnʃəli tuː rɪŋz ɒv jɔːr ˈʌnjən.",
+        "meaning": "Và tôi sẽ thực sự thành thật với các bạn, rất nhiều game indie, bạn chỉ không có đủ thời gian để làm nhiều hơn có thể là một, hoặc có thể là hai vòng củ hành của mình."
+    },
+    {
+        "sentence": "And if you start building this, and building this, and building this, and building this, and building another couple of things at the same time, you'll find that you don't even get halfway through any of those.",
+        "ipa": "ænd ɪf juː stɑːt ˈbɪldɪŋ ðɪs, ænd ˈbɪldɪŋ ðɪs, ænd ˈbɪldɪŋ ðɪs, ænd ˈbɪldɪŋ ðɪs, ænd ˈbɪldɪŋ əˈnʌðə ˈkʌpl ɒv θɪŋz æt ðə seɪm taɪm, juːl faɪnd ðæt juː dəʊnt ˈiːvən gɛt ˌhɑːfˈweɪ θruː ˈɛni ɒv ðəʊz.",
+        "meaning": "Và nếu bạn bắt đầu xây dựng thứ này, xây dựng thứ này, xây dựng thứ này, xây dựng thứ này và xây dựng một vài thứ khác cùng một lúc, bạn sẽ thấy rằng bạn thậm chí không đi được nửa chặng đường nào trong số đó."
+    },
+    {
+        "sentence": "Before you've run out of time, or money or patience, or whatever.",
+        "ipa": "bɪˈfɔː juːv rʌn aʊt ɒv taɪm, ɔː ˈmʌni ɔː ˈpeɪʃəns ɔː wɒtˈɛvə.",
+        "meaning": "Trước khi bạn hết thời gian, hoặc tiền bạc hoặc sự kiên nhẫn, hoặc bất cứ điều gì."
+    },
+    {
+        "sentence": "So build this make it amazing, and then work to the next part, build this makes it amazing.",
+        "ipa": "səʊ bɪld ðɪs meɪk ɪt əˈmeɪzɪŋ, ænd ðɛn wɜːk tuː ðə nɛkst pɑːt, bɪld ðɪs meɪk ɪt əˈmeɪzɪŋ.",
+        "meaning": "Vì vậy, xây dựng phần này làm cho nó trở nên tuyệt vời, và sau đó làm việc với phần tiếp theo, xây dựng phần này khiến nó trở nên tuyệt vời."
+    },
+    {
+        "sentence": "And at some point you're gonna say, you know, what my game is pretty amazing as it is, it doesn't need more complexity, this is good as it is.",
+        "ipa": "ænd æt sʌm pɔɪnt jʊə ˈgɒnə seɪ, juː nəʊ, wɒt maɪ geɪm ɪz ˈprɪti əˈmeɪzɪŋ æz ɪt ɪz, ɪt dʌznt niːd mɔː kəmˈplɛksɪti, ðɪs ɪz gʊd æz ɪt ɪz.",
+        "meaning": "Và đến một lúc nào đó bạn sẽ nói, bạn biết đấy, trò chơi của tôi là khá tuyệt vời, nó không cần phức tạp hơn, điều này là tốt như vậy."
+    },
+    {
+        "sentence": "That's the philosophy we're taking on this project, that's what we're gonna dive into now, and get cracking on creating this game.",
+        "ipa": "ðæts ðə fɪˈlɒsəfi wɪə ˈteɪkɪŋ ɒn ðɪs ˈprɒʤɛkt, ðæts wɒt wɪə ˈgɒnə daɪv ˈɪntuː naʊ, ænd gɛt ˈkrækɪŋ ɒn kri(ː)ˈeɪtɪŋ ðɪs geɪm.",
+        "meaning": "Đó là triết lý mà chúng tôi đang thực hiện trong dự án này, đó là những gì chúng tôi sẽ đi sâu vào bây giờ và bắt tay vào việc tạo ra trò chơi này."
+    }
+]

@@ -1,0 +1,882 @@
+[
+    {
+        "sentence": "Hey, guys, by the end of this video, we'll have a very basic world set up.",
+        "ipa": "heɪ, gaɪz, baɪ ði ɛnd ɒv ðɪs ˈvɪdɪəʊ, wiːl hæv ə ˈvɛri ˈbeɪsɪk wɜːld sɛt ʌp.",
+        "meaning": "Này các bạn, đến cuối video này, chúng ta sẽ thiết lập một thế giới rất cơ bản."
+    },
+    {
+        "sentence": "We'll have a Terrain.",
+        "ipa": "wiːl hæv ə təˈreɪn.",
+        "meaning": "Chúng tôi sẽ có Địa hình."
+    },
+    {
+        "sentence": "We'll have a LaunchPad.",
+        "ipa": "wiːl hæv ə LaunchPad.",
+        "meaning": "Chúng tôi sẽ có một LaunchPad."
+    },
+    {
+        "sentence": "And we'll have a very good idea as to where they are in the world, where the world origin is.",
+        "ipa": "ænd wiːl hæv ə ˈvɛri gʊd aɪˈdɪə æz tuː weə ðeɪ ɑːr ɪn ðə wɜːld, weə ðə wɜːld ˈɒrɪʤɪn ɪz.",
+        "meaning": "Và chúng ta sẽ có một ý tưởng rất hay là họ đang ở đâu trên thế giới, nguồn gốc thế giới ở đâu."
+    },
+    {
+        "sentence": "And we'll have learned a few other very useful things along the way. Welcome back.",
+        "ipa": "ænd wiːl hæv lɜːnt ə fjuː ˈʌðə ˈvɛri ˈjuːsfʊl θɪŋz əˈlɒŋ ðə weɪ. ˈwɛlkəm bæk.",
+        "meaning": "Và chúng tôi sẽ học được một số điều rất hữu ích khác trong quá trình này. Chào mừng trở lại."
+    },
+    {
+        "sentence": "I am literally not exaggerating when I say that one of you has the potential to make this game into something as successful as Crossy Road.",
+        "ipa": "aɪ æm ˈlɪtərəli nɒt ɪgˈzæʤəreɪtɪŋ wɛn aɪ seɪ ðæt wʌn ɒv juː hæz ðə pəʊˈtɛnʃəl tuː meɪk ðɪs geɪm ˈɪntuː ˈsʌmθɪŋ æz səkˈsɛsfʊl æz Crossy rəʊd.",
+        "meaning": "Tôi thực sự không ngoa khi nói rằng một trong các bạn có tiềm năng biến trò chơi này thành một thứ thành công như Crossy Road."
+    },
+    {
+        "sentence": "There's gonna be 1 or 200,000 students in this course by the time we're finished.",
+        "ipa": "ðeəz ˈgɒnə biː 1 ɔː 200,000 ˈstjuːdənts ɪn ðɪs kɔːs baɪ ðə taɪm wɪə ˈfɪnɪʃt.",
+        "meaning": "Sẽ có 1 hoặc 200.000 sinh viên trong khóa học này vào thời điểm chúng tôi kết thúc."
+    },
+    {
+        "sentence": "And you may be the one who has the tenacity and the attention to detail and whatever it takes to turn this into something that good because the core mechanic is fantastic in this game.",
+        "ipa": "ænd juː meɪ biː ðə wʌn huː hæz ðə tɪˈnæsɪti ænd ði əˈtɛnʃ(ə)n tuː ˈdiːteɪl ænd wɒtˈɛvər ɪt teɪks tuː tɜːn ðɪs ˈɪntuː ˈsʌmθɪŋ ðæt gʊd bɪˈkɒz ðə kɔː mɪˈkænɪk ɪz fænˈtæstɪk ɪn ðɪs geɪm.",
+        "meaning": "Và bạn có thể là người có sự kiên trì và chú ý đến từng chi tiết và bất cứ điều gì cần thiết để biến điều này thành một thứ gì đó tốt bởi vì người thợ cốt lõi là tuyệt vời trong trò chơi này."
+    },
+    {
+        "sentence": "But no pressure. You can also just have a laugh and build out this game and learn a bit about Unity and learn a bit about how to code.",
+        "ipa": "bʌt nəʊ ˈprɛʃə. juː kæn ˈɔːlsəʊ ʤʌst hæv ə lɑːf ænd bɪld aʊt ðɪs geɪm ænd lɜːn ə bɪt əˈbaʊt ˈjuːnɪti ænd lɜːn ə bɪt əˈbaʊt haʊ tuː kəʊd.",
+        "meaning": "Nhưng không có áp lực. Bạn cũng có thể cười sảng khoái và xây dựng trò chơi này và tìm hiểu một chút về Unity và tìm hiểu một chút về cách viết mã."
+    },
+    {
+        "sentence": "So let's get in and do it. Let's set up our world as a starting point.",
+        "ipa": "səʊ lɛts gɛt ɪn ænd duː ɪt. lɛts sɛt ʌp ˈaʊə wɜːld æz ə ˈstɑːtɪŋ pɔɪnt.",
+        "meaning": "Vì vậy, chúng ta hãy vào và làm điều đó. Hãy thiết lập thế giới của chúng ta như một điểm khởi đầu."
+    },
+    {
+        "sentence": "So you've been in the Unity Editor before, but we had a very cursory glance at it.",
+        "ipa": "səʊ juːv biːn ɪn ðə ˈjuːnɪti ˈɛdɪtə bɪˈfɔː, bʌt wiː hæd ə ˈvɛri ˈkɜːsəri glɑːns æt ɪt.",
+        "meaning": "Vì vậy, bạn đã từng ở trong Unity Editor trước đây, nhưng chúng tôi đã có một cái nhìn sơ lược về nó."
+    },
+    {
+        "sentence": "We had a little play-around. You learned how to move around the scene, etc.",
+        "ipa": "wiː hæd ə ˈlɪtl pleɪ-əˈraʊnd. juː lɜːnt haʊ tuː muːv əˈraʊnd ðə siːn, ɪtˈsɛtrə.",
+        "meaning": "Chúng tôi đã có một trò chơi nhỏ. Bạn đã học cách di chuyển xung quanh cảnh, v.v."
+    },
+    {
+        "sentence": "We didn't pay a huge amount of attention to some of the things that really quite matter, like this little gizmo up here and the fact that we have z.",
+        "ipa": "wiː dɪdnt peɪ ə hjuːʤ əˈmaʊnt ɒv əˈtɛnʃ(ə)n tuː sʌm ɒv ðə θɪŋz ðæt ˈrɪəli kwaɪt ˈmætə, laɪk ðɪs ˈlɪtl gizmo ʌp hɪər ænd ðə fækt ðæt wiː hæv zɛd.",
+        "meaning": "Chúng tôi không chú ý nhiều đến một số thứ thực sự quan trọng, như gizmo nhỏ ở đây và thực tế là chúng tôi có z."
+    },
+    {
+        "sentence": "Now, z is, by convention, forward. And in the code, we will be using forward for z. We'll be using up for y. Well, I say we will. Unity does. And x is to the right.",
+        "ipa": "naʊ, zɛd ɪz, baɪ kənˈvɛnʃən, ˈfɔːwəd. ænd ɪn ðə kəʊd, wiː wɪl biː ˈjuːzɪŋ ˈfɔːwəd fɔː zɛd. wiːl biː ˈjuːzɪŋ ʌp fɔː waɪ. wɛl, aɪ seɪ wiː wɪl. ˈjuːnɪti dʌz. ænd ɛks ɪz tuː ðə raɪt.",
+        "meaning": "Bây giờ, theo quy ước, z là chuyển tiếp. Và trong mã, chúng tôi sẽ sử dụng chuyển tiếp cho z. Chúng tôi sẽ sử dụng hết cho y. Tôi nói chúng tôi sẽ làm. Thống nhất không. Và x ở bên phải."
+    },
+    {
+        "sentence": "So the way that I have that gizmo set up right now, this is what we want. We want z going off away from us. We want y up and x to the right, okay?",
+        "ipa": "səʊ ðə weɪ ðæt aɪ hæv ðæt gizmo sɛt ʌp raɪt naʊ, ðɪs ɪz wɒt wiː wɒnt. wiː wɒnt zɛd ˈgəʊɪŋ ɒf əˈweɪ frɒm ʌs. wiː wɒnt waɪ ʌp ænd ɛks tuː ðə raɪt, ˈəʊˈkeɪ?",
+        "meaning": "Vì vậy, theo cách mà tôi có gizmo đó được thiết lập ngay bây giờ, đây là những gì chúng tôi muốn. Chúng tôi muốn z rời xa chúng tôi. Chúng ta muốn y lên và x ở bên phải, được không?"
+    },
+    {
+        "sentence": "Now, I'm gonna start setting up my world. If you don't already have a couple of cubes, don't worry.",
+        "ipa": "naʊ, aɪm ˈgɒnə stɑːt ˈsɛtɪŋ ʌp maɪ wɜːld. ɪf juː dəʊnt ɔːlˈrɛdi hæv ə ˈkʌpl ɒv kjuːbz, dəʊnt ˈwʌri.",
+        "meaning": "Bây giờ, tôi sẽ bắt đầu thiết lập thế giới của mình. Nếu bạn chưa có một vài hình khối, đừng lo lắng."
+    },
+    {
+        "sentence": "You may not have added them in previous videos. I'm just gonna start afresh.",
+        "ipa": "juː meɪ nɒt hæv ˈædɪd ðɛm ɪn ˈpriːviəs ˈvɪdɪəʊz. aɪm ʤʌst ˈgɒnə stɑːt əˈfrɛʃ.",
+        "meaning": "Bạn có thể chưa thêm chúng trong các video trước. Tôi sẽ bắt đầu lại từ đầu."
+    },
+    {
+        "sentence": "You may not even have a scene. So the scene that I've got, I'm gonna call it Level 1 instead.",
+        "ipa": "juː meɪ nɒt ˈiːvən hæv ə siːn. səʊ ðə siːn ðæt aɪv gɒt, aɪm ˈgɒnə kɔːl ɪt ˈlɛvl 1 ɪnˈstɛd.",
+        "meaning": "Bạn thậm chí có thể không có một cảnh. Vì vậy, cảnh mà tôi có, tôi sẽ gọi nó là Cấp độ 1."
+    },
+    {
+        "sentence": "You can rename it by clicking on it, all right, because what we're building here is Level 1.",
+        "ipa": "juː kæn ˌriːˈneɪm ɪt baɪ ˈklɪkɪŋ ɒn ɪt, ɔːl raɪt, bɪˈkɒz wɒt wɪə ˈbɪldɪŋ hɪər ɪz ˈlɛvl 1.",
+        "meaning": "Bạn có thể đổi tên nó bằng cách nhấp vào nó, được rồi, vì những gì chúng tôi đang xây dựng ở đây là Cấp 1."
+    },
+    {
+        "sentence": "So what do we have in the scene? We have the Main Camera. It's there.",
+        "ipa": "səʊ wɒt duː wiː hæv ɪn ðə siːn? wiː hæv ðə meɪn ˈkæmərə. ɪts ðeə.",
+        "meaning": "Vậy chúng ta có gì trong cảnh? Chúng tôi có Camera chính. Nó ở đó."
+    },
+    {
+        "sentence": "Now, a bit hard to visualize where it is. So you can look in the Inspector and see that the Main Camera is at x equals 0.",
+        "ipa": "naʊ, ə bɪt hɑːd tuː ˈvɪzjʊəlaɪz weər ɪt ɪz. səʊ juː kæn lʊk ɪn ði ɪnˈspɛktər ænd siː ðæt ðə meɪn ˈkæmərə ɪz æt ɛks ˈiːkwəlz 0.",
+        "meaning": "Bây giờ, hơi khó để hình dung nó ở đâu. Vì vậy, bạn có thể nhìn vào Thanh tra và thấy rằng Camera chính ở x bằng 0."
+    },
+    {
+        "sentence": "So it's neither left nor right of the scene. It's at y equals 1.",
+        "ipa": "səʊ ɪts ˈnaɪðə lɛft nɔː raɪt ɒv ðə siːn. ɪts æt waɪ ˈiːkwəlz 1.",
+        "meaning": "Vì vậy, nó không phải là trái cũng không phải của cảnh. Nó ở y bằng 1."
+    },
+    {
+        "sentence": "Now, by convention, that's 1 meter. But we're just gonna call these 1 units.",
+        "ipa": "naʊ, baɪ kənˈvɛnʃən, ðæts 1 ˈmiːtə. bʌt wɪə ʤʌst ˈgɒnə kɔːl ðiːz 1 ˈjuːnɪts.",
+        "meaning": "Theo quy ước, đó là 1 mét. Nhưng chúng tôi sẽ gọi những đơn vị này là 1."
+    },
+    {
+        "sentence": "We're not gonna worry about the physical sizes.",
+        "ipa": "wɪə nɒt ˈgɒnə ˈwʌri əˈbaʊt ðə ˈfɪzɪkəl ˈsaɪzɪz.",
+        "meaning": "Chúng tôi sẽ không lo lắng về kích thước vật lý."
+    },
+    {
+        "sentence": "So it's at y equals 1, which is 1 unit off the ground.",
+        "ipa": "səʊ ɪts æt waɪ ˈiːkwəlz 1, wɪʧ ɪz 1 ˈjuːnɪt ɒf ðə graʊnd.",
+        "meaning": "Vì vậy, nó tại y bằng 1, cách mặt đất 1 đơn vị."
+    },
+    {
+        "sentence": "And it says z equals -10.",
+        "ipa": "ænd ɪt sɛz zɛd ˈiːkwəlz -10.",
+        "meaning": "Và nó nói rằng z bằng -10."
+    },
+    {
+        "sentence": "It's 10 units back from the origin.",
+        "ipa": "ɪts 10 ˈjuːnɪts bæk frɒm ði ˈɒrɪʤɪn.",
+        "meaning": "Đó là 10 đơn vị trở lại từ nguồn gốc."
+    },
+    {
+        "sentence": "So the first thing I'm gonna do is slam down a cube at the origin.",
+        "ipa": "səʊ ðə fɜːst θɪŋ aɪm ˈgɒnə duː ɪz slæm daʊn ə kjuːb æt ði ˈɒrɪʤɪn.",
+        "meaning": "Vì vậy, điều đầu tiên tôi sẽ làm là đập một khối lập phương tại gốc."
+    },
+    {
+        "sentence": "And it's quite a good idea to do this.",
+        "ipa": "ænd ɪts kwaɪt ə gʊd aɪˈdɪə tuː duː ðɪs.",
+        "meaning": "Và nó là một ý tưởng tốt để làm điều này."
+    },
+    {
+        "sentence": "Now, when you GameObject > create Object > Cube, it by default doesn't go to the origin necessarily, okay?",
+        "ipa": "naʊ, wɛn juː GameObject > kri(ː)ˈeɪt ˈɒbʤɪkt > kjuːb, ɪt baɪ dɪˈfɔːlt dʌznt gəʊ tuː ði ˈɒrɪʤɪn ˈnɛsɪsərɪli, ˈəʊˈkeɪ?",
+        "meaning": "Bây giờ, khi bạn GameObject> tạo Đối tượng> Khối lập phương, nó theo mặc định không nhất thiết phải chuyển về nguồn gốc, được chứ?"
+    },
+    {
+        "sentence": "You need to make sure that you reset its position. So you go to the cog and Reset.",
+        "ipa": "juː niːd tuː meɪk ʃʊə ðæt juː ˌriːˈsɛt ɪts pəˈzɪʃən. səʊ juː gəʊ tuː ðə kɒg ænd ˌriːˈsɛt.",
+        "meaning": "Bạn cần đảm bảo rằng bạn đã đặt lại vị trí của nó. Vì vậy, bạn vào bánh răng và Reset."
+    },
+    {
+        "sentence": "So now we have, at the origin, a cube. Now, I'm gonna call this thing the LaunchPad.",
+        "ipa": "səʊ naʊ wiː hæv, æt ði ˈɒrɪʤɪn, ə kjuːb. naʊ, aɪm ˈgɒnə kɔːl ðɪs θɪŋ ðə LaunchPad.",
+        "meaning": "Vì vậy, bây giờ chúng ta có, ở gốc, một khối lập phương. Bây giờ, tôi sẽ gọi thứ này là LaunchPad."
+    },
+    {
+        "sentence": "And it's gonna serve two purposes. Firstly, it's gonna be a launchpad.",
+        "ipa": "ænd ɪts ˈgɒnə sɜːv tuː ˈpɜːpəsɪz. ˈfɜːstli, ɪts ˈgɒnə biː ə launchpad.",
+        "meaning": "Và nó sẽ phục vụ hai mục đích. Thứ nhất, nó sẽ là bệ phóng."
+    },
+    {
+        "sentence": "And secondly, it's gonna remind us where the origin is. I'm gonna leave the color as it is for the moment.",
+        "ipa": "ænd ˈsɛkəndli, ɪts ˈgɒnə ˈrɪmaɪnd ʌs weə ði ˈɒrɪʤɪn ɪz. aɪm ˈgɒnə liːv ðə ˈkʌlər æz ɪt ɪz fɔː ðə ˈməʊmənt.",
+        "meaning": "Và thứ hai, nó sẽ nhắc nhở chúng ta nguồn gốc ở đâu. Tôi sẽ để lại màu sắc như hiện tại."
+    },
+    {
+        "sentence": "But I'm gonna double its width in x and in z. So now it's 2 units wide, 2 units left and right, forward and backward.",
+        "ipa": "bʌt aɪm ˈgɒnə ˈdʌbl ɪts wɪdθ ɪn ɛks ænd ɪn zɛd. səʊ naʊ ɪts 2 ˈjuːnɪts waɪd, 2 ˈjuːnɪts lɛft ænd raɪt, ˈfɔːwəd ænd ˈbækwəd.",
+        "meaning": "Nhưng tôi sẽ nhân đôi chiều rộng của nó theo x và z. Vì vậy, bây giờ nó rộng 2 đơn vị, 2 đơn vị trái và phải, tiến và lùi."
+    },
+    {
+        "sentence": "And it's 1 unit high. But if you look really carefully, half of that's sticking out of the ground, and half of that isn't.",
+        "ipa": "ænd ɪts 1 ˈjuːnɪt haɪ. bʌt ɪf juː lʊk ˈrɪəli ˈkeəfli, hɑːf ɒv ðæts ˈstɪkɪŋ aʊt ɒv ðə graʊnd, ænd hɑːf ɒv ðæt ˈɪznt.",
+        "meaning": "Và nó cao 1 đơn vị. Nhưng nếu bạn thực sự xem xét kỹ lưỡng, một nửa trong số đó nhô lên khỏi mặt đất, và một nửa trong số đó thì không."
+    },
+    {
+        "sentence": "Now, that's hard to see right now. So let's do the next thing, which is to make the initial terrain, okay?",
+        "ipa": "naʊ, ðæts hɑːd tuː siː raɪt naʊ. səʊ lɛts duː ðə nɛkst θɪŋ, wɪʧ ɪz tuː meɪk ði ɪˈnɪʃəl təˈreɪn, ˈəʊˈkeɪ?",
+        "meaning": "Bây giờ, điều đó thật khó để nhìn thấy ngay bây giờ. Vì vậy, chúng ta hãy làm điều tiếp theo, đó là tạo địa hình ban đầu, được không?"
+    },
+    {
+        "sentence": "Now, before we even do that, there's a habit I want us to get into, and that's prefabbing everything, all right?",
+        "ipa": "naʊ, bɪˈfɔː wiː ˈiːvən duː ðæt, ðeəz ə ˈhæbɪt aɪ wɒnt ʌs tuː gɛt ˈɪntuː, ænd ðæts ˈpriːfæbɪŋ ˈɛvrɪθɪŋ, ɔːl raɪt?",
+        "meaning": "Bây giờ, trước khi chúng ta làm điều đó, có một thói quen mà tôi muốn chúng ta thực hiện, và đó là sự chuẩn bị trước mọi thứ, được chứ?"
+    },
+    {
+        "sentence": "We'll see why later. But basically, start dragging and prefabbing everything.",
+        "ipa": "wiːl siː waɪ ˈleɪtə. bʌt ˈbeɪsɪkəli, stɑːt ˈdrægɪŋ ænd ˈpriːfæbɪŋ ˈɛvrɪθɪŋ.",
+        "meaning": "Chúng ta sẽ xem lý do tại sao sau. Nhưng về cơ bản, hãy bắt đầu kéo và cài sẵn mọi thứ."
+    },
+    {
+        "sentence": "So there's your LaunchPad. You can reuse it on another level.",
+        "ipa": "səʊ ðeəz jɔː LaunchPad. juː kæn riːˈjuːz ɪt ɒn əˈnʌðə ˈlɛvl.",
+        "meaning": "Vì vậy, có LaunchPad của bạn. Bạn có thể sử dụng lại nó ở cấp độ khác."
+    },
+    {
+        "sentence": "There's your Directional Light. There's your Main Camera, all right?",
+        "ipa": "ðeəz jɔː dɪˈrɛkʃənl laɪt. ðeəz jɔː meɪn ˈkæmərə, ɔːl raɪt?",
+        "meaning": "Có ánh sáng định hướng của bạn. Có Camera chính của bạn, được chứ?"
+    },
+    {
+        "sentence": "I'm just dragging them and prefabbing them. Okay, cool, so I want you to catch up with where I am.",
+        "ipa": "aɪm ʤʌst ˈdrægɪŋ ðɛm ænd ˈpriːfæbɪŋ ðɛm. ˈəʊˈkeɪ, kuːl, səʊ aɪ wɒnt juː tuː kæʧ ʌp wɪð weər aɪ æm.",
+        "meaning": "Tôi chỉ kéo chúng và lắp ráp chúng. Được rồi, tuyệt, vì vậy tôi muốn bạn bắt kịp vị trí của tôi."
+    },
+    {
+        "sentence": "You've just prefabbed by dragging the Main Light, Directional Camera, and LaunchPad.",
+        "ipa": "juːv ʤʌst ˈpriːfæbd baɪ ˈdrægɪŋ ðə meɪn laɪt, dɪˈrɛkʃənl ˈkæmərə, ænd LaunchPad.",
+        "meaning": "Bạn vừa cài đặt sẵn bằng cách kéo Đèn chính, Máy ảnh định hướng và Bàn phím khởi động."
+    },
+    {
+        "sentence": "You have a scene called Level 1 that's all nice and saved.",
+        "ipa": "juː hæv ə siːn kɔːld ˈlɛvl 1 ðæts ɔːl naɪs ænd seɪvd.",
+        "meaning": "Bạn có một cảnh được gọi là Cấp 1, tất cả đều đẹp và được lưu."
+    },
+    {
+        "sentence": "The LaunchPad is of these dimensions, 2 by 1 by 2 dimensions.",
+        "ipa": "ðə LaunchPad ɪz ɒv ðiːz dɪˈmɛnʃənz, 2 baɪ 1 baɪ 2 dɪˈmɛnʃənz.",
+        "meaning": "LaunchPad có các kích thước này, 2 x 1 x 2."
+    },
+    {
+        "sentence": "And it's sitting at the origin position 000 and no rotation.",
+        "ipa": "ænd ɪts ˈsɪtɪŋ æt ði ˈɒrɪʤɪn pəˈzɪʃən 000 ænd nəʊ rəʊˈteɪʃən.",
+        "meaning": "Và nó đang ngồi ở vị trí gốc 000 và không quay."
+    },
+    {
+        "sentence": "So there it is. Wicked, all right, let's carry on. Let's keep building this thing.",
+        "ipa": "səʊ ðeər ɪt ɪz. ˈwɪkɪd, ɔːl raɪt, lɛts ˈkæri ɒn. lɛts kiːp ˈbɪldɪŋ ðɪs θɪŋ.",
+        "meaning": "Vậy là nó đây rồi. Khốn nạn, được rồi, tiếp tục nào. Hãy tiếp tục xây dựng thứ này."
+    },
+    {
+        "sentence": "We're gonna create a ground plane. Now, let me just take a step back and explain why I'm doing this.",
+        "ipa": "wɪə ˈgɒnə kri(ː)ˈeɪt ə graʊnd pleɪn. naʊ, lɛt miː ʤʌst teɪk ə stɛp bæk ænd ɪksˈpleɪn waɪ aɪm ˈdu(ː)ɪŋ ðɪs.",
+        "meaning": "Chúng tôi sẽ tạo một máy bay mặt đất. Bây giờ, hãy để tôi lùi lại một chút và giải thích tại sao tôi lại làm điều này."
+    },
+    {
+        "sentence": "I want to have an origin and a ground.",
+        "ipa": "aɪ wɒnt tuː hæv ən ˈɒrɪʤɪn ænd ə graʊnd.",
+        "meaning": "Tôi muốn có nguồn gốc và mặt bằng."
+    },
+    {
+        "sentence": "And we wanna know where the ground level is. We wanna agree on that.",
+        "ipa": "ænd wiː ˈwɒnə nəʊ weə ðə graʊnd ˈlɛvl ɪz. wiː ˈwɒnə əˈgriː ɒn ðæt.",
+        "meaning": "Và chúng tôi muốn biết mặt đất ở đâu. Chúng tôi muốn đồng ý về điều đó."
+    },
+    {
+        "sentence": "And we wanna agree on where the world center is so we can build from that.",
+        "ipa": "ænd wiː ˈwɒnə əˈgriː ɒn weə ðə wɜːld ˈsɛntər ɪz səʊ wiː kæn bɪld frɒm ðæt.",
+        "meaning": "Và chúng tôi muốn thống nhất về vị trí của trung tâm thế giới để chúng tôi có thể xây dựng từ đó."
+    },
+    {
+        "sentence": "It's as simple as that, okay? So I'm gonna add this second cube in.",
+        "ipa": "ɪts æz ˈsɪmpl æz ðæt, ˈəʊˈkeɪ? səʊ aɪm ˈgɒnə æd ðɪs ˈsɛkənd kjuːb ɪn.",
+        "meaning": "Nó đơn giản như vậy, được không? Vì vậy, tôi sẽ thêm khối thứ hai này vào."
+    },
+    {
+        "sentence": "I'm gonna immediately set my intention in the Inspector by naming it, clicking up in the Inspector, and saying that this is the Terrain.",
+        "ipa": "aɪm ˈgɒnə ɪˈmiːdiətli sɛt maɪ ɪnˈtɛnʃən ɪn ði ɪnˈspɛktə baɪ ˈneɪmɪŋ ɪt, ˈklɪkɪŋ ʌp ɪn ði ɪnˈspɛktə, ænd ˈseɪɪŋ ðæt ðɪs ɪz ðə təˈreɪn.",
+        "meaning": "Tôi sẽ ngay lập tức thiết lập ý định của mình trong Thanh tra bằng cách đặt tên cho nó, nhấp vào Thanh tra và nói rằng đây là Địa hình."
+    },
+    {
+        "sentence": "And obviously, our Terrain will get a lot more exciting in the future.",
+        "ipa": "ænd ˈɒbvɪəsli, ˈaʊə təˈreɪn wɪl gɛt ə lɒt mɔːr ɪkˈsaɪtɪŋ ɪn ðə ˈfjuːʧə.",
+        "meaning": "Và rõ ràng, Terrain của chúng ta sẽ thú vị hơn rất nhiều trong tương lai."
+    },
+    {
+        "sentence": "Now, how wide do we want the Terrain?",
+        "ipa": "naʊ, haʊ waɪd duː wiː wɒnt ðə təˈreɪn?",
+        "meaning": "Bây giờ, chúng ta muốn Địa hình rộng bao nhiêu?"
+    },
+    {
+        "sentence": "Maybe 100 units wide, something like that.",
+        "ipa": "ˈmeɪbiː 100 ˈjuːnɪts waɪd, ˈsʌmθɪŋ laɪk ðæt.",
+        "meaning": "Có thể rộng 100 đơn vị, đại loại như vậy."
+    },
+    {
+        "sentence": "Let's zoom out. Seems reasonable compared to the LaunchPad, okay?",
+        "ipa": "lɛts zuːm aʊt. siːmz ˈriːznəbl kəmˈpeəd tuː ðə LaunchPad, ˈəʊˈkeɪ?",
+        "meaning": "Hãy thu nhỏ. Có vẻ hợp lý so với LaunchPad, được chứ?"
+    },
+    {
+        "sentence": "So let's keep going. Let's make the Terrain how high?",
+        "ipa": "səʊ lɛts kiːp ˈgəʊɪŋ. lɛts meɪk ðə təˈreɪn haʊ haɪ?",
+        "meaning": "Vì vậy, chúng ta hãy tiếp tục. Hãy làm cho Địa hình cao bao nhiêu?"
+    },
+    {
+        "sentence": "50, ooh, it's a bit high. 30 units high, maybe.",
+        "ipa": "50, uː, ɪts ə bɪt haɪ. 30 ˈjuːnɪts haɪ, ˈmeɪbiː.",
+        "meaning": "50, ooh, nó hơi cao. Cao 30 đơn vị, có thể."
+    },
+    {
+        "sentence": "Now, here's a little challenge here. If the Terrain is 30 units high, but I want the top of it to be at y equals 0,",
+        "ipa": "naʊ, hɪəz ə ˈlɪtl ˈʧælɪnʤ hɪə. ɪf ðə təˈreɪn ɪz 30 ˈjuːnɪts haɪ, bʌt aɪ wɒnt ðə tɒp ɒv ɪt tuː biː æt waɪ ˈiːkwəlz 0,",
+        "meaning": "Bây giờ, đây là một thử thách nhỏ ở đây. Nếu Địa hình cao 30 đơn vị, nhưng tôi muốn đỉnh của nó ở y bằng 0,"
+    },
+    {
+        "sentence": "how much down do we need to move it? Fairly trivial, I think -15, right?",
+        "ipa": "haʊ mʌʧ daʊn duː wiː niːd tuː muːv ɪt? ˈfeəli ˈtrɪvɪəl, aɪ θɪŋk -15, raɪt?",
+        "meaning": "chúng ta cần di chuyển nó xuống bao nhiêu? Khá tầm thường, tôi nghĩ là -15, phải không?"
+    },
+    {
+        "sentence": "So we move it down 15. Now, immediately, it's very hard to see one thing from the other.",
+        "ipa": "səʊ wiː muːv ɪt daʊn 15. naʊ, ɪˈmiːdiətli, ɪts ˈvɛri hɑːd tuː siː wʌn θɪŋ frɒm ði ˈʌðə.",
+        "meaning": "Vì vậy, chúng tôi di chuyển nó xuống 15. Bây giờ, ngay lập tức, rất khó để nhìn thấy thứ này từ thứ kia."
+    },
+    {
+        "sentence": "So I'm gonna show you a new trick. It's a paint-by-numbers trick.",
+        "ipa": "səʊ aɪm ˈgɒnə ʃəʊ juː ə njuː trɪk. ɪts ə peɪnt-baɪ-ˈnʌmbəz trɪk.",
+        "meaning": "Vì vậy, tôi sẽ chỉ cho bạn một thủ thuật mới. Đó là một thủ thuật vẽ từng con số."
+    },
+    {
+        "sentence": "And it allows us to put materials on things so that we can just put some colors.",
+        "ipa": "ænd ɪt əˈlaʊz ʌs tuː pʊt məˈtɪərɪəlz ɒn θɪŋz səʊ ðæt wiː kæn ʤʌst pʊt sʌm ˈkʌləz.",
+        "meaning": "Và nó cho phép chúng tôi đặt vật liệu lên mọi thứ để chúng tôi có thể chỉ cần đặt một số màu sắc."
+    },
+    {
+        "sentence": "Rick will come in and refine these colors with you.",
+        "ipa": "rɪk wɪl kʌm ɪn ænd rɪˈfaɪn ðiːz ˈkʌləz wɪð juː.",
+        "meaning": "Rick sẽ đến và tinh chỉnh những màu này với bạn."
+    },
+    {
+        "sentence": "But what I want you to do is right-click into your Assets and say Create > Material.",
+        "ipa": "bʌt wɒt aɪ wɒnt juː tuː duː ɪz raɪt-klɪk ˈɪntuː jɔːr ˈæsɛts ænd seɪ kri(ː)ˈeɪt > məˈtɪərɪəl.",
+        "meaning": "Nhưng những gì tôi muốn bạn làm là nhấp chuột phải vào Nội dung của bạn và nói Tạo> Vật liệu."
+    },
+    {
+        "sentence": "Now, we operate, in this course, a spiral syllabus.",
+        "ipa": "naʊ, wiː ˈɒpəreɪt, ɪn ðɪs kɔːs, ə ˈspaɪərəl ˈsɪləbəs.",
+        "meaning": "Bây giờ, chúng tôi vận hành, trong khóa học này, một giáo trình xoắn ốc."
+    },
+    {
+        "sentence": "So we've already just taken a whole load of Unity's power for granted.",
+        "ipa": "səʊ wiːv ɔːlˈrɛdi ʤʌst ˈteɪkən ə həʊl ləʊd ɒv ˈjuːnɪtiz ˈpaʊə fɔː ˈgrɑːntɪd.",
+        "meaning": "Vì vậy, chúng ta đã hoàn toàn coi thường sức mạnh của Unity."
+    },
+    {
+        "sentence": "And we're gonna continue to do that throughout the section because we want you",
+        "ipa": "ænd wɪə ˈgɒnə kənˈtɪnju(ː) tuː duː ðæt θru(ː)ˈaʊt ðə ˈsɛkʃən bɪˈkɒz wiː wɒnt juː",
+        "meaning": "Và chúng tôi sẽ tiếp tục làm điều đó trong suốt phần này vì chúng tôi muốn bạn"
+    },
+    {
+        "sentence": "to get an effective, fun game really quickly, all right?",
+        "ipa": "tuː gɛt ən ɪˈfɛktɪv, fʌn geɪm ˈrɪəli ˈkwɪkli, ɔːl raɪt?",
+        "meaning": "để có được một trò chơi hiệu quả, thú vị thật nhanh chóng, được không?"
+    },
+    {
+        "sentence": "But we will loop back and look into these things in more detail.",
+        "ipa": "bʌt wiː wɪl luːp bæk ænd lʊk ˈɪntuː ðiːz θɪŋz ɪn mɔː ˈdiːteɪl.",
+        "meaning": "Nhưng chúng tôi sẽ lặp lại và xem xét những điều này chi tiết hơn."
+    },
+    {
+        "sentence": "So for now, just create a material by right-clicking in Assets, Create > Material.",
+        "ipa": "səʊ fɔː naʊ, ʤʌst kri(ː)ˈeɪt ə məˈtɪərɪəl baɪ raɪt-ˈklɪkɪŋ ɪn ˈæsɛts, kri(ː)ˈeɪt > məˈtɪərɪəl.",
+        "meaning": "Vì vậy, bây giờ, chỉ cần tạo một vật liệu bằng cách nhấp chuột phải vào Tài sản, Tạo> Vật liệu."
+    },
+    {
+        "sentence": "And then let's just call it ground or something like that, or Earth, probably name it by kind of what it is.",
+        "ipa": "ænd ðɛn lɛts ʤʌst kɔːl ɪt graʊnd ɔː ˈsʌmθɪŋ laɪk ðæt, ɔːr ɜːθ, ˈprɒbəbli neɪm ɪt baɪ kaɪnd ɒv wɒt ɪt ɪz.",
+        "meaning": "Và sau đó chúng ta hãy chỉ gọi nó là mặt đất hoặc một cái gì đó tương tự, hoặc Trái đất, có thể đặt tên cho nó theo cách gọi của nó."
+    },
+    {
+        "sentence": "That's your material in the Inspector.",
+        "ipa": "ðæts jɔː məˈtɪərɪəl ɪn ði ɪnˈspɛktə.",
+        "meaning": "Đó là tài liệu của bạn trong Thanh tra."
+    },
+    {
+        "sentence": "The only bit we need to worry about is albedo.",
+        "ipa": "ði ˈəʊnli bɪt wiː niːd tuː ˈwʌri əˈbaʊt ɪz albedo.",
+        "meaning": "Điều duy nhất chúng ta cần lo lắng là albedo."
+    },
+    {
+        "sentence": "If you click on that swatch, you'll have a slightly different-looking thing on Windows, but very, very similar.",
+        "ipa": "ɪf juː klɪk ɒn ðæt swɒʧ, juːl hæv ə ˈslaɪtli ˈdɪfrənt-ˈlʊkɪŋ θɪŋ ɒn ˈwɪndəʊz, bʌt ˈvɛri, ˈvɛri ˈsɪmɪlə.",
+        "meaning": "Nếu bạn nhấp vào mẫu đó, bạn sẽ có một thứ trông hơi khác trên Windows, nhưng rất giống."
+    },
+    {
+        "sentence": "Using a combination of brightness, saturation, and hue, find yourself a nice kind of groundy, earthy color.",
+        "ipa": "ˈjuːzɪŋ ə ˌkɒmbɪˈneɪʃən ɒv ˈbraɪtnɪs, ˌsæʧəˈreɪʃən, ænd hjuː, faɪnd jɔːˈsɛlf ə naɪs kaɪnd ɒv groundy, ˈɜːθi ˈkʌlə.",
+        "meaning": "Sử dụng sự kết hợp của độ sáng, độ bão hòa và màu sắc, hãy tìm cho mình một loại màu đất nền đẹp."
+    },
+    {
+        "sentence": "And when you're happy with that color, you can drag it straight on either in the scene or in the hierarchy.",
+        "ipa": "ænd wɛn jʊə ˈhæpi wɪð ðæt ˈkʌlə, juː kæn dræg ɪt streɪt ɒn ˈaɪðər ɪn ðə siːn ɔːr ɪn ðə ˈhaɪərɑːki.",
+        "meaning": "Và khi bạn hài lòng với màu đó, bạn có thể kéo nó thẳng vào trong cảnh hoặc trong hệ thống phân cấp."
+    },
+    {
+        "sentence": "So that assigns the Earth. So we can see what's going on here.",
+        "ipa": "səʊ ðæt əˈsaɪnz ði ɜːθ. səʊ wiː kæn siː wɒts ˈgəʊɪŋ ɒn hɪə.",
+        "meaning": "Vì vậy, điều đó chỉ định Trái đất. Vì vậy, chúng ta có thể thấy những gì đang xảy ra ở đây."
+    },
+    {
+        "sentence": "We have the LaunchPad, which is pretty much a default cube, but it's slightly bigger in x and z.",
+        "ipa": "wiː hæv ðə LaunchPad, wɪʧ ɪz ˈprɪti mʌʧ ə dɪˈfɔːlt kjuːb, bʌt ɪts ˈslaɪtli ˈbɪgər ɪn ɛks ænd zɛd.",
+        "meaning": "Chúng tôi có LaunchPad, là một khối mặc định khá nhiều, nhưng nó lớn hơn một chút theo x và z."
+    },
+    {
+        "sentence": "And then we have a Terrain.",
+        "ipa": "ænd ðɛn wiː hæv ə təˈreɪn.",
+        "meaning": "Và sau đó chúng ta có Địa hình."
+    },
+    {
+        "sentence": "It's 100 units wide, 30 units high, reduced down by 15.",
+        "ipa": "ɪts 100 ˈjuːnɪts waɪd, 30 ˈjuːnɪts haɪ, rɪˈdjuːst daʊn baɪ 15.",
+        "meaning": "Nó rộng 100 đơn vị, cao 30 đơn vị, giảm 15 đơn vị."
+    },
+    {
+        "sentence": "And by the way, here's another tip for you.",
+        "ipa": "ænd baɪ ðə weɪ, hɪəz əˈnʌðə tɪp fɔː juː.",
+        "meaning": "Và nhân tiện, đây là một mẹo khác dành cho bạn."
+    },
+    {
+        "sentence": "Stick your mouse over y, hold it down.",
+        "ipa": "stɪk jɔː maʊs ˈəʊvə waɪ, həʊld ɪt daʊn.",
+        "meaning": "Đưa chuột lên y, nhấn giữ."
+    },
+    {
+        "sentence": "And you can do this on any of the values.",
+        "ipa": "ænd juː kæn duː ðɪs ɒn ˈɛni ɒv ðə ˈvæljuːz.",
+        "meaning": "Và bạn có thể làm điều này trên bất kỳ giá trị nào."
+    },
+    {
+        "sentence": "And you can move the mouse left and right, pretty handy.",
+        "ipa": "ænd juː kæn muːv ðə maʊs lɛft ænd raɪt, ˈprɪti ˈhændi.",
+        "meaning": "Và bạn có thể di chuyển chuột trái phải, khá tiện dụng."
+    },
+    {
+        "sentence": "Okay, and then this thing is at z equals 0.",
+        "ipa": "ˈəʊˈkeɪ, ænd ðɛn ðɪs θɪŋ ɪz æt zɛd ˈiːkwəlz 0.",
+        "meaning": "Được rồi, và sau đó thứ này ở z bằng 0."
+    },
+    {
+        "sentence": "So it is just in the z equals 0 plane, 10 units away from the camera.",
+        "ipa": "səʊ ɪt ɪz ʤʌst ɪn ðə zɛd ˈiːkwəlz 0 pleɪn, 10 ˈjuːnɪts əˈweɪ frɒm ðə ˈkæmərə.",
+        "meaning": "Vậy nó nằm trong mặt phẳng z bằng 0, cách máy ảnh 10 đơn vị."
+    },
+    {
+        "sentence": "So the final thing I'm gonna do is to give the ground some depth.",
+        "ipa": "səʊ ðə ˈfaɪnl θɪŋ aɪm ˈgɒnə duː ɪz tuː gɪv ðə graʊnd sʌm dɛpθ.",
+        "meaning": "Vì vậy, điều cuối cùng tôi sẽ làm là tạo độ sâu cho mặt đất."
+    },
+    {
+        "sentence": "I don't know how much depth to give it.",
+        "ipa": "aɪ dəʊnt nəʊ haʊ mʌʧ dɛpθ tuː gɪv ɪt.",
+        "meaning": "Tôi không biết độ sâu bao nhiêu để cung cấp cho nó."
+    },
+    {
+        "sentence": "Frankly, again, Rick will advise on this later.",
+        "ipa": "ˈfræŋkli, əˈgɛn, rɪk wɪl ədˈvaɪz ɒn ðɪs ˈleɪtə.",
+        "meaning": "Nói thẳng ra, một lần nữa, Rick sẽ tư vấn về điều này sau."
+    },
+    {
+        "sentence": "I'm gonna give it 30 units of depth.",
+        "ipa": "aɪm ˈgɒnə gɪv ɪt 30 ˈjuːnɪts ɒv dɛpθ.",
+        "meaning": "Tôi sẽ cung cấp cho nó 30 đơn vị độ sâu."
+    },
+    {
+        "sentence": "Then I'm gonna go to the Game scene and see how it looks.",
+        "ipa": "ðɛn aɪm ˈgɒnə gəʊ tuː ðə geɪm siːn ænd siː haʊ ɪt lʊks.",
+        "meaning": "Sau đó, tôi sẽ đến cảnh Trò chơi và xem nó trông như thế nào."
+    },
+    {
+        "sentence": "Pretty cool. Right, now, I said to prefab everything.",
+        "ipa": "ˈprɪti kuːl. raɪt, naʊ, aɪ sɛd tuː ˈpriːfæb ˈɛvrɪθɪŋ.",
+        "meaning": "Tuyệt đấy. Ngay bây giờ, tôi đã nói rằng hãy lắp sẵn mọi thứ."
+    },
+    {
+        "sentence": "Let's prefab the Terrain. Wicked, now let's grab the camera.",
+        "ipa": "lɛts ˈpriːfæb ðə təˈreɪn. ˈwɪkɪd, naʊ lɛts græb ðə ˈkæmərə.",
+        "meaning": "Hãy lắp ghép địa hình. Khốn nạn, bây giờ chúng ta hãy lấy máy ảnh."
+    },
+    {
+        "sentence": "Click on the camera, pull it back a little bit.",
+        "ipa": "klɪk ɒn ðə ˈkæmərə, pʊl ɪt bæk ə ˈlɪtl bɪt.",
+        "meaning": "Bấm vào máy ảnh, kéo nó lại một chút."
+    },
+    {
+        "sentence": "I don't know whether you wanna see the front in the Terrain.",
+        "ipa": "aɪ dəʊnt nəʊ ˈwɛðə juː ˈwɒnə siː ðə frʌnt ɪn ðə təˈreɪn.",
+        "meaning": "Tôi không biết bạn có muốn nhìn thấy phía trước trong Địa hình hay không."
+    },
+    {
+        "sentence": "That's up to you. That's a game design decision. We'll get to that as we go.",
+        "ipa": "ðæts ʌp tuː juː. ðæts ə geɪm dɪˈzaɪn dɪˈsɪʒən. wiːl gɛt tuː ðæt æz wiː gəʊ.",
+        "meaning": "Tùy bạn. Đó là một quyết định thiết kế trò chơi. Chúng tôi sẽ đạt được điều đó khi chúng tôi đi."
+    },
+    {
+        "sentence": "I'm gonna lift the camera up. And then I'm gonna rotate the camera down, okay, so something like this.",
+        "ipa": "aɪm ˈgɒnə lɪft ðə ˈkæmərə ʌp. ænd ðɛn aɪm ˈgɒnə rəʊˈteɪt ðə ˈkæmərə daʊn, ˈəʊˈkeɪ, səʊ ˈsʌmθɪŋ laɪk ðɪs.",
+        "meaning": "Tôi sẽ nâng máy ảnh lên. Và sau đó tôi sẽ xoay máy ảnh xuống, được rồi, như thế này."
+    },
+    {
+        "sentence": "The camera's probably too high. It doesn't really matter.",
+        "ipa": "ðə ˈkæmərəz ˈprɒbəbli tuː haɪ. ɪt dʌznt ˈrɪəli ˈmætə.",
+        "meaning": "Máy ảnh có lẽ quá cao. Nó không thực sự quan trọng."
+    },
+    {
+        "sentence": "Why don't we fix the camera at 0 to -20 for the moment and just see how that looks?",
+        "ipa": "waɪ dəʊnt wiː fɪks ðə ˈkæmərə æt 0 tuː -20 fɔː ðə ˈməʊmənt ænd ʤʌst siː haʊ ðæt lʊks?",
+        "meaning": "Tại sao chúng ta không sửa máy ảnh ở 0 đến -20 vào lúc này và chỉ xem nó trông như thế nào?"
+    },
+    {
+        "sentence": "Well, we have a LaunchPad and a ground. I'm happy enough with that.",
+        "ipa": "wɛl, wiː hæv ə LaunchPad ænd ə graʊnd. aɪm ˈhæpi ɪˈnʌf wɪð ðæt.",
+        "meaning": "Chà, chúng ta có LaunchPad và mặt đất. Tôi đủ hạnh phúc với điều đó."
+    },
+    {
+        "sentence": "Okay, so that is the basis of our world.",
+        "ipa": "ˈəʊˈkeɪ, səʊ ðæt ɪz ðə ˈbeɪsɪs ɒv ˈaʊə wɜːld.",
+        "meaning": "Được rồi, đó là cơ sở của thế giới của chúng ta."
+    },
+    {
+        "sentence": "We're gonna start the spaceship just above this LaunchPad.",
+        "ipa": "wɪə ˈgɒnə stɑːt ðə ˈspeɪsʃɪp ʤʌst əˈbʌv ðɪs LaunchPad.",
+        "meaning": "Chúng ta sẽ khởi động phi thuyền ngay phía trên LaunchPad này."
+    },
+    {
+        "sentence": "We're gonna end up tagging the LaunchPad as a friendly thing or something the spaceship can touch.",
+        "ipa": "wɪə ˈgɒnə ɛnd ʌp ˈtægɪŋ ðə LaunchPad æz ə ˈfrɛndli θɪŋ ɔː ˈsʌmθɪŋ ðə ˈspeɪsʃɪp kæn tʌʧ.",
+        "meaning": "Chúng ta sẽ kết thúc việc gắn thẻ LaunchPad như một thứ thân thiện hoặc thứ gì đó mà tàu vũ trụ có thể chạm vào."
+    },
+    {
+        "sentence": "But we're gonna end up making anything else in the world something that destroys the spaceship.",
+        "ipa": "bʌt wɪə ˈgɒnə ɛnd ʌp ˈmeɪkɪŋ ˈɛnɪθɪŋ ɛls ɪn ðə wɜːld ˈsʌmθɪŋ ðæt dɪsˈtrɔɪz ðə ˈspeɪsʃɪp.",
+        "meaning": "Nhưng cuối cùng chúng ta sẽ tạo ra bất cứ thứ gì khác trên thế giới một thứ phá hủy con tàu vũ trụ."
+    },
+    {
+        "sentence": "We will start without a follow camera.",
+        "ipa": "wiː wɪl stɑːt wɪˈðaʊt ə ˈfɒləʊ ˈkæmərə.",
+        "meaning": "Chúng tôi sẽ bắt đầu mà không có camera theo dõi."
+    },
+    {
+        "sentence": "We're just gonna have a fixed camera perspective until the gameplay demands that we have a follow camera.",
+        "ipa": "wɪə ʤʌst ˈgɒnə hæv ə fɪkst ˈkæmərə pəˈspɛktɪv ənˈtɪl ðə gameplay dɪˈmɑːndz ðæt wiː hæv ə ˈfɒləʊ ˈkæmərə.",
+        "meaning": "Chúng tôi sẽ chỉ có một góc nhìn camera cố định cho đến khi trò chơi yêu cầu chúng tôi có một camera theo dõi."
+    },
+    {
+        "sentence": "Until it does, we won't bother.",
+        "ipa": "ənˈtɪl ɪt dʌz, wiː wəʊnt ˈbɒðə.",
+        "meaning": "Cho đến khi nó xảy ra, chúng tôi sẽ không bận tâm."
+    },
+    {
+        "sentence": "I'm just gonna pan this camera up a little bit.",
+        "ipa": "aɪm ʤʌst ˈgɒnə pæn ðɪs ˈkæmərə ʌp ə ˈlɪtl bɪt.",
+        "meaning": "Tôi chỉ sẽ lia máy ảnh này lên một chút."
+    },
+    {
+        "sentence": "Let's see how that looks.",
+        "ipa": "lɛts siː haʊ ðæt lʊks.",
+        "meaning": "Hãy xem nó trông như thế nào."
+    },
+    {
+        "sentence": "That's a bit better.",
+        "ipa": "ðæts ə bɪt ˈbɛtə.",
+        "meaning": "Tốt hơn một chút."
+    },
+    {
+        "sentence": "Okay, then notice, in the Game scene, you've already got a sky effect.",
+        "ipa": "ˈəʊˈkeɪ, ðɛn ˈnəʊtɪs, ɪn ðə geɪm siːn, juːv ɔːlˈrɛdi gɒt ə skaɪ ɪˈfɛkt.",
+        "meaning": "Được rồi, hãy để ý, trong cảnh Trò chơi, bạn đã có hiệu ứng bầu trời."
+    },
+    {
+        "sentence": "That comes as default with Unity.",
+        "ipa": "ðæt kʌmz æz dɪˈfɔːlt wɪð ˈjuːnɪti.",
+        "meaning": "Điều đó mặc định với Unity."
+    },
+    {
+        "sentence": "We may wanna modify it, but let's roll with it for now.",
+        "ipa": "wiː meɪ ˈwɒnə ˈmɒdɪfaɪ ɪt, bʌt lɛts rəʊl wɪð ɪt fɔː naʊ.",
+        "meaning": "Chúng tôi có thể muốn sửa đổi nó, nhưng hãy bắt đầu với nó ngay bây giờ."
+    },
+    {
+        "sentence": "We've already got some lighting in the scene as well.",
+        "ipa": "wiːv ɔːlˈrɛdi gɒt sʌm ˈlaɪtɪŋ ɪn ðə siːn æz wɛl.",
+        "meaning": "Chúng tôi cũng đã có một số ánh sáng trong cảnh."
+    },
+    {
+        "sentence": "That's the other thing to say.",
+        "ipa": "ðæts ði ˈʌðə θɪŋ tuː seɪ.",
+        "meaning": "Đó là điều khác để nói."
+    },
+    {
+        "sentence": "If you click on your Directional Light, this thing casts light from a particular direction across the entire scene.",
+        "ipa": "ɪf juː klɪk ɒn jɔː dɪˈrɛkʃənl laɪt, ðɪs θɪŋ kɑːsts laɪt frɒm ə pəˈtɪkjʊlə dɪˈrɛkʃən əˈkrɒs ði ɪnˈtaɪə siːn.",
+        "meaning": "Nếu bạn nhấp vào Đèn định hướng, thứ này sẽ chiếu ánh sáng từ một hướng cụ thể trên toàn bộ cảnh."
+    },
+    {
+        "sentence": "You're welcome to rotate that light.",
+        "ipa": "jʊə ˈwɛlkəm tuː rəʊˈteɪt ðæt laɪt.",
+        "meaning": "Bạn có thể xoay ánh sáng đó."
+    },
+    {
+        "sentence": "And as you do so, you'll see that you get very different lighting effects and shadows and things.",
+        "ipa": "ænd æz juː duː səʊ, juːl siː ðæt juː gɛt ˈvɛri ˈdɪfrənt ˈlaɪtɪŋ ɪˈfɛkts ænd ˈʃædəʊz ænd θɪŋz.",
+        "meaning": "Và khi bạn làm như vậy, bạn sẽ thấy rằng bạn nhận được các hiệu ứng ánh sáng và bóng đổ rất khác nhau và mọi thứ."
+    },
+    {
+        "sentence": "But the other thing to say about it is,",
+        "ipa": "bʌt ði ˈʌðə θɪŋ tuː seɪ əˈbaʊt ɪt ɪz,",
+        "meaning": "Nhưng điều khác cần nói về nó là,"
+    },
+    {
+        "sentence": "it doesn't matter where it lives in the scene.",
+        "ipa": "ɪt dʌznt ˈmætə weər ɪt lɪvz ɪn ðə siːn.",
+        "meaning": "không quan trọng nó sống ở đâu trong hiện trường."
+    },
+    {
+        "sentence": "They're very strange, those Directional Lights.",
+        "ipa": "ðeə ˈvɛri streɪnʤ, ðəʊz dɪˈrɛkʃənl laɪts.",
+        "meaning": "Chúng rất lạ, những ngọn đèn định hướng đó."
+    },
+    {
+        "sentence": "With it selected, you can go to Local or Global coordinates.",
+        "ipa": "wɪð ɪt sɪˈlɛktɪd, juː kæn gəʊ tuː ˈləʊkəl ɔː ˈgləʊbəl kəʊˈɔːdnɪts.",
+        "meaning": "Với nó được chọn, bạn có thể chuyển đến tọa độ Cục bộ hoặc Toàn cầu."
+    },
+    {
+        "sentence": "Let's switch over to Global.",
+        "ipa": "lɛts swɪʧ ˈəʊvə tuː ˈgləʊbəl.",
+        "meaning": "Hãy chuyển sang Global."
+    },
+    {
+        "sentence": "You can use an X key on the keyboard to switch to that.",
+        "ipa": "juː kæn juːz ən ɛks kiː ɒn ðə ˈkiːbɔːd tuː swɪʧ tuː ðæt.",
+        "meaning": "Bạn có thể sử dụng phím X trên bàn phím để chuyển sang phím đó."
+    },
+    {
+        "sentence": "And I would just move your light out the way somewhere, the Directional Light,",
+        "ipa": "ænd aɪ wʊd ʤʌst muːv jɔː laɪt aʊt ðə weɪ ˈsʌmweə, ðə dɪˈrɛkʃənl laɪt,",
+        "meaning": "Và tôi sẽ chỉ di chuyển ánh sáng của bạn ra một nơi nào đó, Đèn định hướng,"
+    },
+    {
+        "sentence": "just kinda up and out, because actually, it doesn't matter where it is.",
+        "ipa": "ʤʌst ˈkaɪndə ʌp ænd aʊt, bɪˈkɒz ˈækʧʊəli, ɪt dʌznt ˈmætə weər ɪt ɪz.",
+        "meaning": "chỉ cần up và out, bởi vì thực ra, nó ở đâu không quan trọng."
+    },
+    {
+        "sentence": "It's not like a light source.",
+        "ipa": "ɪts nɒt laɪk ə laɪt sɔːs.",
+        "meaning": "Nó không giống như một nguồn sáng."
+    },
+    {
+        "sentence": "It's just a thing in the world that determines where light is coming from.",
+        "ipa": "ɪts ʤʌst ə θɪŋ ɪn ðə wɜːld ðæt dɪˈtɜːmɪnz weə laɪt ɪz ˈkʌmɪŋ frɒm.",
+        "meaning": "Nó chỉ là một thứ trên thế giới quyết định ánh sáng đến từ đâu."
+    },
+    {
+        "sentence": "It casts parallel light beams across the entire world,",
+        "ipa": "ɪt kɑːsts ˈpærəlɛl laɪt biːmz əˈkrɒs ði ɪnˈtaɪə wɜːld,",
+        "meaning": "Nó chiếu những chùm ánh sáng song song khắp thế giới,"
+    },
+    {
+        "sentence": "like the shadow, you're getting on the LaunchPad here.",
+        "ipa": "laɪk ðə ˈʃædəʊ, jʊə ˈgɛtɪŋ ɒn ðə LaunchPad hɪə.",
+        "meaning": "như cái bóng, bạn đang ở trên LaunchPad ở đây."
+    },
+    {
+        "sentence": "So I've got a pretty fast challenge for you.",
+        "ipa": "səʊ aɪv gɒt ə ˈprɪti fɑːst ˈʧælɪnʤ fɔː juː.",
+        "meaning": "Vì vậy, tôi có một thử thách khá nhanh cho bạn."
+    },
+    {
+        "sentence": "I went through all that very quickly.",
+        "ipa": "aɪ wɛnt θruː ɔːl ðæt ˈvɛri ˈkwɪkli.",
+        "meaning": "Tôi đã trải qua tất cả những điều đó rất nhanh chóng."
+    },
+    {
+        "sentence": "I totally understand if you couldn't follow me as we go, so",
+        "ipa": "aɪ ˈtəʊtli ˌʌndəˈstænd ɪf juː ˈkʊdnt ˈfɒləʊ miː æz wiː gəʊ, səʊ",
+        "meaning": "Tôi hoàn toàn hiểu nếu bạn không thể theo dõi tôi khi chúng tôi đi, vì vậy"
+    },
+    {
+        "sentence": "now you've got a chance to catch up.",
+        "ipa": "naʊ juːv gɒt ə ʧɑːns tuː kæʧ ʌp.",
+        "meaning": "bây giờ bạn đã có cơ hội để bắt kịp."
+    },
+    {
+        "sentence": "You should set up your world, right?",
+        "ipa": "juː ʃʊd sɛt ʌp jɔː wɜːld, raɪt?",
+        "meaning": "Bạn nên thiết lập thế giới của mình, phải không?"
+    },
+    {
+        "sentence": "Your ground level is at y = 0.",
+        "ipa": "jɔː graʊnd ˈlɛvl ɪz æt waɪ = 0.",
+        "meaning": "Mặt bằng của bạn là y = 0."
+    },
+    {
+        "sentence": "The launchpad is centered on x = 0, z = 0.",
+        "ipa": "ðə launchpad ɪz ˈsɛntəd ɒn ɛks = 0, zɛd = 0.",
+        "meaning": "Bàn di chuyển được đặt chính giữa x = 0, z = 0."
+    },
+    {
+        "sentence": "You have an initial camera view you like.",
+        "ipa": "juː hæv ən ɪˈnɪʃəl ˈkæmərə vjuː juː laɪk.",
+        "meaning": "Bạn có chế độ xem camera ban đầu mà bạn thích."
+    },
+    {
+        "sentence": "Everything in the hierarchy is prefabbed as a good habit.",
+        "ipa": "ˈɛvrɪθɪŋ ɪn ðə ˈhaɪərɑːki ɪz ˈpriːfæbd æz ə gʊd ˈhæbɪt.",
+        "meaning": "Mọi thứ trong hệ thống phân cấp đều được tạo sẵn như một thói quen tốt."
+    },
+    {
+        "sentence": "You've assigned a terrain color of your choosing.",
+        "ipa": "juːv əˈsaɪnd ə təˈreɪn ˈkʌlər ɒv jɔː ˈʧuːzɪŋ.",
+        "meaning": "Bạn đã chỉ định một màu địa hình mà bạn chọn."
+    },
+    {
+        "sentence": "You've modified the directional light rotation so",
+        "ipa": "juːv ˈmɒdɪfaɪd ðə dɪˈrɛkʃənl laɪt rəʊˈteɪʃən səʊ",
+        "meaning": "Bạn đã sửa đổi vòng xoay ánh sáng định hướng để"
+    },
+    {
+        "sentence": "you get a lighting effect that you like.",
+        "ipa": "juː gɛt ə ˈlaɪtɪŋ ɪˈfɛkt ðæt juː laɪk.",
+        "meaning": "bạn sẽ có được hiệu ứng ánh sáng mà bạn thích."
+    },
+    {
+        "sentence": "And you've shared a screenshot with us.",
+        "ipa": "ænd juːv ʃeəd ə screenshot wɪð ʌs.",
+        "meaning": "Và bạn đã chia sẻ ảnh chụp màn hình với chúng tôi."
+    },
+    {
+        "sentence": "So that's the definition of a successful end to the challenge.",
+        "ipa": "səʊ ðæts ðə ˌdɛfɪˈnɪʃən ɒv ə səkˈsɛsfʊl ɛnd tuː ðə ˈʧælɪnʤ.",
+        "meaning": "Vì vậy, đó là định nghĩa của một kết thúc thành công cho thử thách."
+    },
+    {
+        "sentence": "So go ahead, pause the video, and do your challenge right now.",
+        "ipa": "səʊ gəʊ əˈhɛd, pɔːz ðə ˈvɪdɪəʊ, ænd duː jɔː ˈʧælɪnʤ raɪt naʊ.",
+        "meaning": "Vì vậy, hãy tiếp tục, tạm dừng video và thực hiện thử thách của bạn ngay bây giờ."
+    },
+    {
+        "sentence": "Wicked, guys, welcome back.",
+        "ipa": "ˈwɪkɪd, gaɪz, ˈwɛlkəm bæk.",
+        "meaning": "Wicked, guys, chào mừng trở lại."
+    },
+    {
+        "sentence": "So to share this screenshot, you can do it how you like, probably from Game view.",
+        "ipa": "səʊ tuː ʃeə ðɪs screenshot, juː kæn duː ɪt haʊ juː laɪk, ˈprɒbəbli frɒm geɪm vjuː.",
+        "meaning": "Vì vậy, để chia sẻ ảnh chụp màn hình này, bạn có thể làm theo cách bạn thích, có thể là từ chế độ xem Trò chơi."
+    },
+    {
+        "sentence": "I'm going, in my case, Cmd+Shift+1.",
+        "ipa": "aɪm ˈgəʊɪŋ, ɪn maɪ keɪs, Cmd+ʃɪft+1.",
+        "meaning": "Trong trường hợp của tôi, tôi sẽ nhấn Cmd + Shift + 1."
+    },
+    {
+        "sentence": "But whatever keyboard shortcut you have set up for your screen capture,",
+        "ipa": "bʌt wɒtˈɛvə ˈkiːbɔːd ˈʃɔːtkʌt juː hæv sɛt ʌp fɔː jɔː skriːn ˈkæpʧə,",
+        "meaning": "Nhưng bất kỳ phím tắt nào bạn đã thiết lập để chụp màn hình,"
+    },
+    {
+        "sentence": "capturing that, of course.",
+        "ipa": "ˈkæpʧərɪŋ ðæt, ɒv kɔːs.",
+        "meaning": "nắm bắt điều đó, tất nhiên."
+    },
+    {
+        "sentence": "And then gonna go and paste it, in my case,",
+        "ipa": "ænd ðɛn ˈgɒnə gəʊ ænd peɪst ɪt, ɪn maɪ keɪs,",
+        "meaning": "Và sau đó sẽ đi và dán nó, trong trường hợp của tôi,"
+    },
+    {
+        "sentence": "over on community.gamedev.tv, using the link from the resources.",
+        "ipa": "ˈəʊvər ɒn kəˈmjuːnɪti.gamedev.ˌtiːˈviː, ˈjuːzɪŋ ðə lɪŋk frɒm ðə rɪˈsɔːsɪz.",
+        "meaning": "trên community.gamedev.tv, sử dụng liên kết từ các tài nguyên."
+    },
+    {
+        "sentence": "The best place to do the sharing of media is over there.",
+        "ipa": "ðə bɛst pleɪs tuː duː ðə ˈʃeərɪŋ ɒv ˈmiːdiə ɪz ˈəʊvə ðeə.",
+        "meaning": "Nơi tốt nhất để chia sẻ phương tiện truyền thông là ở đó."
+    },
+    {
+        "sentence": "Keep the Q&A for questions that need instructor response.",
+        "ipa": "kiːp ðə kjuː&ə fɔː ˈkwɛsʧənz ðæt niːd ɪnˈstrʌktə rɪsˈpɒns.",
+        "meaning": "Giữ phần Hỏi và Đáp cho những câu hỏi cần người hướng dẫn trả lời."
+    },
+    {
+        "sentence": "So we have a world set up.",
+        "ipa": "səʊ wiː hæv ə wɜːld sɛt ʌp.",
+        "meaning": "Vì vậy, chúng tôi có một thế giới được thiết lập."
+    },
+    {
+        "sentence": "We have the starting blocks set up.",
+        "ipa": "wiː hæv ðə ˈstɑːtɪŋ blɒks sɛt ʌp.",
+        "meaning": "Chúng tôi đã thiết lập các khối khởi đầu."
+    },
+    {
+        "sentence": "We're in good shape.",
+        "ipa": "wɪər ɪn gʊd ʃeɪp.",
+        "meaning": "Chúng tôi đang ở trong tình trạng tốt."
+    },
+    {
+        "sentence": "I hope that all made sense.",
+        "ipa": "aɪ həʊp ðæt ɔːl meɪd sɛns.",
+        "meaning": "Tôi hy vọng rằng tất cả đều có ý nghĩa."
+    },
+    {
+        "sentence": "We've learned quite a few things here.",
+        "ipa": "wiːv lɜːnt kwaɪt ə fjuː θɪŋz hɪə.",
+        "meaning": "Chúng tôi đã học được khá nhiều điều ở đây."
+    },
+    {
+        "sentence": "We've learned that it's a good idea to prefab everything.",
+        "ipa": "wiːv lɜːnt ðæt ɪts ə gʊd aɪˈdɪə tuː ˈpriːfæb ˈɛvrɪθɪŋ.",
+        "meaning": "Chúng tôi đã biết rằng đó là một ý tưởng hay nếu bạn nên lắp sẵn mọi thứ."
+    },
+    {
+        "sentence": "And we'll understand a bit more why later.",
+        "ipa": "ænd wiːl ˌʌndəˈstænd ə bɪt mɔː waɪ ˈleɪtə.",
+        "meaning": "Và chúng ta sẽ hiểu thêm một chút tại sao sau."
+    },
+    {
+        "sentence": "We have learned how to create a material,",
+        "ipa": "wiː hæv lɜːnt haʊ tuː kri(ː)ˈeɪt ə məˈtɪərɪəl,",
+        "meaning": "Chúng tôi đã học cách tạo tài liệu,"
+    },
+    {
+        "sentence": "just to slap a bit of color on some things.",
+        "ipa": "ʤʌst tuː slæp ə bɪt ɒv ˈkʌlər ɒn sʌm θɪŋz.",
+        "meaning": "chỉ để tô một chút màu sắc vào một số thứ."
+    },
+    {
+        "sentence": "And we've learned the importance of thinking about",
+        "ipa": "ænd wiːv lɜːnt ði ɪmˈpɔːtəns ɒv ˈθɪŋkɪŋ əˈbaʊt",
+        "meaning": "Và chúng tôi đã học được tầm quan trọng của việc suy nghĩ về"
+    },
+    {
+        "sentence": "where your world origins and starting points are.",
+        "ipa": "weə jɔː wɜːld ˈɒrɪʤɪnz ænd ˈstɑːtɪŋ pɔɪnts ɑː.",
+        "meaning": "nguồn gốc và điểm xuất phát thế giới của bạn ở đâu."
+    },
+    {
+        "sentence": "So congratulations, and I'll see you in the next video.",
+        "ipa": "səʊ kənˌgrætjʊˈleɪʃənz, ænd aɪl siː juː ɪn ðə nɛkst ˈvɪdɪəʊ.",
+        "meaning": "Vì vậy, xin chúc mừng, và tôi sẽ gặp bạn trong video tiếp theo."
+    },
+    {
+        "sentence": "But just before I go, we're using version control now.",
+        "ipa": "bʌt ʤʌst bɪˈfɔːr aɪ gəʊ, wɪə ˈjuːzɪŋ ˈvɜːʃən kənˈtrəʊl naʊ.",
+        "meaning": "Nhưng ngay trước khi tôi đi, chúng tôi đang sử dụng kiểm soát phiên bản."
+    },
+    {
+        "sentence": "So here are all my uncommitted changes, loads of stuff.",
+        "ipa": "səʊ hɪər ɑːr ɔːl maɪ ˌʌnkəˈmɪtəd ˈʧeɪnʤɪz, ləʊdz ɒv stʌf.",
+        "meaning": "Vì vậy, đây là tất cả những thay đổi không cam kết của tôi, vô số thứ."
+    },
+    {
+        "sentence": "I'm gonna commit these, and I commit things using the name of the lecture.",
+        "ipa": "aɪm ˈgɒnə kəˈmɪt ðiːz, ænd aɪ kəˈmɪt θɪŋz ˈjuːzɪŋ ðə neɪm ɒv ðə ˈlɛkʧə.",
+        "meaning": "Tôi sẽ cam kết những điều này, và tôi cam kết những điều bằng cách sử dụng tên của bài giảng."
+    },
+    {
+        "sentence": "So it's 6_PB for Project Booster and",
+        "ipa": "səʊ ɪts 6_piː-biː fɔː ˈprɒʤɛkt ˈbuːstər ænd",
+        "meaning": "Vì vậy, nó là 6_PB cho Project Booster và"
+    },
+    {
+        "sentence": "then CU_2 for Complete Unity 2.",
+        "ipa": "ðɛn siː-juː_2 fɔː kəmˈpliːt ˈjuːnɪti 2.",
+        "meaning": "sau đó CU_2 cho Complete Unity 2."
+    },
+    {
+        "sentence": "I will also append to the end of this, after the video, the name of the lecture",
+        "ipa": "aɪ wɪl ˈɔːlsəʊ əˈpɛnd tuː ði ɛnd ɒv ðɪs, ˈɑːftə ðə ˈvɪdɪəʊ, ðə neɪm ɒv ðə ˈlɛkʧə",
+        "meaning": "Tôi cũng xin thêm vào cuối bài này, sau video, tên bài giảng"
+    },
+    {
+        "sentence": "and send it off to the web so that you can see my code changes or my lecture changes.",
+        "ipa": "ænd sɛnd ɪt ɒf tuː ðə wɛb səʊ ðæt juː kæn siː maɪ kəʊd ˈʧeɪnʤɪz ɔː maɪ ˈlɛkʧə ˈʧeɪnʤɪz.",
+        "meaning": "và gửi nó lên web để bạn có thể thấy những thay đổi mã của tôi hoặc những thay đổi trong bài giảng của tôi."
+    },
+    {
+        "sentence": "See you soon.",
+        "ipa": "siː juː suːn.",
+        "meaning": "Hẹn sớm gặp lại."
+    }
+]

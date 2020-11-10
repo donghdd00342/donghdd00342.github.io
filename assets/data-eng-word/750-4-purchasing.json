@@ -1,0 +1,452 @@
+[
+    {
+        "word": "allowance",
+        "type": "n",
+        "ipa": "əˈlaʊəns",
+        "meaning": "sự cho phép, tiền phụ cấp",
+        "ex": "You have to check with the airline to find out their weight allowance.",
+        "ipaExTrans": "juː hæv tuː ʧɛk wɪð ði ˈeəlaɪn tuː faɪnd aʊt ðeə weɪt əˈlaʊəns.",
+        "exMeaning": "Bạn phải kiểm tra với công ty hàng không để biết trong lượng cho phép"
+    },
+    {
+        "word": "checkout",
+        "type": "n",
+        "ipa": "ˈʧəkˈaʊt",
+        "meaning": "việc trả tiền để rời khỏi khách sạn",
+        "ex": "I got to the checkout and then found that I didn't have any money on me!",
+        "ipaExTrans": "aɪ gɒt tuː ðə ˈʧəkˈaʊt ænd ðɛn faʊnd ðæt aɪ dɪdnt hæv ˈɛni ˈmʌni ɒn miː!",
+        "exMeaning": "Tôi phải trả tiền để rời khỏi khách sạn và rồi tôi phát hiện mình không mang theo tiền"
+    },
+    {
+        "word": "customer",
+        "type": "n",
+        "ipa": "ˈkʌstəmə",
+        "meaning": "khách hàng",
+        "ex": "If a store has no customers, it will make no money.",
+        "ipaExTrans": "ɪf ə stɔː hæz nəʊ ˈkʌstəməz, ɪt wɪl meɪk nəʊ ˈmʌni.",
+        "exMeaning": "Nếu một của hàng không có khách hàng thì nó không kiếm được tiền."
+    },
+    {
+        "word": "item",
+        "type": "n",
+        "ipa": "ˈaɪtəm",
+        "meaning": "khoản mục, món hàng",
+        "ex": "I only have two items; can I go in front of you?",
+        "ipaExTrans": "aɪ ˈəʊnli hæv tuː ˈaɪtəmz; kæn aɪ gəʊ ɪn frʌnt ɒv juː?",
+        "exMeaning": "Tôi chỉ có 2 món, tôi có thể đi trước bạn không?"
+    },
+    {
+        "word": "obtain",
+        "type": "v",
+        "ipa": "əbˈteɪn",
+        "meaning": "thu được, kiếm được, giành được",
+        "ex": "I need to obtain a free parking ticket.",
+        "ipaExTrans": "aɪ niːd tuː əbˈteɪn ə friː ˈpɑːkɪŋ ˈtɪkɪt.",
+        "exMeaning": "Tôi cần đạt được chiếc vé đậu xe miễn phí."
+    },
+    {
+        "word": "prerequisite",
+        "type": "n",
+        "ipa": "ˌpriːˈrɛkwɪzɪt",
+        "meaning": "điều bắt buộc trước nhất, điều chủ yếu",
+        "ex": "Knowing what you want and how much you want to pay is a prerequisite to a happy shopping experience.",
+        "ipaExTrans": "ˈnəʊɪŋ wɒt juː wɒnt ænd haʊ mʌʧ juː wɒnt tuː peɪ ɪz ə ˌpriːˈrɛkwɪzɪt tuː ə ˈhæpi ˈʃɒpɪŋ ɪksˈpɪərɪəns.",
+        "exMeaning": "Biết những gì bạn muốn và bao nhiêu tiền bạn muốn trả là điều chủ yếu nhất để có một trải nghiệm mua sắm vui vẻ."
+    },
+    {
+        "word": "quality",
+        "type": "n",
+        "ipa": "ˈkwɒlɪti",
+        "meaning": "chất lượng",
+        "ex": "Usually, a cheaper price means poorer quality.",
+        "ipaExTrans": "ˈjuːʒʊəli, ə ˈʧiːpə praɪs miːnz ˈpʊərə ˈkwɒlɪti.",
+        "exMeaning": "Thường thường, giá rẻ hơn đồng nghĩa với chất lượng kém hơn."
+    },
+    {
+        "word": "scan",
+        "type": "v",
+        "ipa": "skæn",
+        "meaning": "quét qua",
+        "ex": "If the price label won't scan properly, you'll have to type in the price by hand.",
+        "ipaExTrans": "ɪf ðə praɪs ˈleɪbl wəʊnt skæn ˈprɒpəli, juːl hæv tuː taɪp ɪn ðə praɪs baɪ hænd.",
+        "exMeaning": "Nếu nhãn giá không thể quét được, bạn sẽ phải đánh máy giá cả bằng tay."
+    },
+    {
+        "word": "trend",
+        "type": "n",
+        "ipa": "trɛnd",
+        "meaning": "khuynh hướng",
+        "ex": "Shopping trends show what kinds of things people buy and when.",
+        "ipaExTrans": "ˈʃɒpɪŋ trɛndz ʃəʊ wɒt kaɪndz ɒv θɪŋz ˈpiːpl baɪ ænd wɛn.",
+        "exMeaning": "Khuynh hướng mua sắm cho biết loại hàng hóa nào người ta mua và khi nào mua."
+    },
+    {
+        "word": "automatically",
+        "type": "adv",
+        "ipa": "ˌɔːtəˈmætɪkəli",
+        "meaning": "một cách tự động",
+        "ex": "Our computer system automatically tells us when we need to order more supplies.",
+        "ipaExTrans": "ˈaʊə kəmˈpjuːtə ˈsɪstɪm ˌɔːtəˈmætɪkəli tɛlz ʌs wɛn wiː niːd tuː ˈɔːdə mɔː səˈplaɪz.",
+        "exMeaning": "Hệ thống máy tính của chúng ta tự động báo khi nào chúng ta cần đặt mua nhiều hàng cung cấp hơn."
+    },
+    {
+        "word": "catalog",
+        "type": "n",
+        "ipa": "ˈkætəlɒg",
+        "meaning": "sách in kiểu mẫu và giá tiền",
+        "ex": "I would like to order something I saw in your catalog.",
+        "ipaExTrans": "aɪ wʊd laɪk tuː ˈɔːdə ˈsʌmθɪŋ aɪ sɔː ɪn jɔː ˈkætəlɒg.",
+        "exMeaning": "Tôi muốn đặt mua vài thứ tôi thấy trong catalog của bạn."
+    },
+    {
+        "word": "crucial",
+        "type": "adj",
+        "ipa": "ˈkruːʃəl",
+        "meaning": "quan trọng, thiết yếu",
+        "ex": "It's crucial that we receive these supplies before Christmas.",
+        "ipaExTrans": "ɪts ˈkruːʃəl ðæt wiː rɪˈsiːv ðiːz səˈplaɪz bɪˈfɔː ˈkrɪsməs.",
+        "exMeaning": "Điều quan trọng là chúng tôi phải nhận được những hàng hóa này trước lễ Giáng Sinh."
+    },
+    {
+        "word": "fulfill",
+        "type": "v",
+        "ipa": "fʊlˈfɪl",
+        "meaning": "hoàn thành",
+        "ex": "Will you be able to fulfill our order?",
+        "ipaExTrans": "wɪl juː biː ˈeɪbl tuː fʊlˈfɪl ˈaʊər ˈɔːdə?",
+        "exMeaning": "Bạn có thể hoàn thành đơn đặt hàng này không?"
+    },
+    {
+        "word": "inventory",
+        "type": "n",
+        "ipa": "ˈɪnvəntri",
+        "meaning": "bản kiểm kê hàng hóa",
+        "ex": "I have taken inventory to see what supplies we need to order.",
+        "ipaExTrans": "aɪ hæv ˈteɪkən ˈɪnvəntri tuː siː wɒt səˈplaɪz wiː niːd tuː ˈɔːdə.",
+        "exMeaning": "Tôi kiểm kê hàng hóa để xem chúng tôi cần đặt những hàng hóa nào."
+    },
+    {
+        "word": "maintain",
+        "type": "v",
+        "ipa": "meɪnˈteɪn",
+        "meaning": "duy trì, bảo trì",
+        "ex": "You can usually get better prices and service if you maintain a good relationship with the supplier.",
+        "ipaExTrans": "juː kæn ˈjuːʒʊəli gɛt ˈbɛtə ˈpraɪsɪz ænd ˈsɜːvɪs ɪf juː meɪnˈteɪn ə gʊd rɪˈleɪʃənʃɪp wɪð ðə səˈplaɪə.",
+        "exMeaning": "Bạn thường có thể nhận giá cả và dịch vụ tốt hơn nếu bạn duy trì quan hệ tốt với nhà cung cấp."
+    },
+    {
+        "word": "order",
+        "type": "v",
+        "ipa": "ˈɔːdə",
+        "meaning": "đặt hàng",
+        "ex": "If we order the pens today, when will we receive them?",
+        "ipaExTrans": "ɪf wiː ˈɔːdə ðə pɛnz təˈdeɪ, wɛn wɪl wiː rɪˈsiːv ðɛm?",
+        "exMeaning": "Nếu hôm nay chúng tôi đặt mua viết thì khi nào chúng tôi sẽ nhận chúng?"
+    },
+    {
+        "word": "promptly",
+        "type": "adv",
+        "ipa": "ˈprɒmptli",
+        "meaning": "nhanh chóng, ngay lập tức",
+        "ex": "I ordered the supplies and they promptly arrived the next day.",
+        "ipaExTrans": "aɪ ˈɔːdəd ðə səˈplaɪz ænd ðeɪ ˈprɒmptli əˈraɪvd ðə nɛkst deɪ.",
+        "exMeaning": "Tôi đặt hàng và chúng ngay lập tức đến vào ngày hôm sau."
+    },
+    {
+        "word": "rectify",
+        "type": "v",
+        "ipa": "ˈrɛktɪfaɪ",
+        "meaning": "chỉnh sửa, hiệu đính",
+        "ex": "You sent us the wrong order. How will you rectify the situation?",
+        "ipaExTrans": "juː sɛnt ʌs ðə rɒŋ ˈɔːdə. haʊ wɪl juː ˈrɛktɪfaɪ ðə ˌsɪtjʊˈeɪʃən?",
+        "exMeaning": "Bạn đã gửi đơn hàng sai cho chúng tôi. Bạn sẽ sửa đổi tình trạng này như thế nào?"
+    },
+    {
+        "word": "remember",
+        "type": "v",
+        "ipa": "rɪˈmɛmbə",
+        "meaning": "nhớ, ghi nhớ",
+        "ex": "Did you remember to order the copy paper?",
+        "ipaExTrans": "dɪd juː rɪˈmɛmbə tuː ˈɔːdə ðə ˈkɒpi ˈpeɪpə?",
+        "exMeaning": "Bạn có nhớ đặt mua giấy copy không?"
+    },
+    {
+        "word": "stationery",
+        "type": "n",
+        "ipa": "ˈsteɪʃnəri",
+        "meaning": "văn phòng phẩm",
+        "ex": "I need some more stationery: just some paper and pens.",
+        "ipaExTrans": "aɪ niːd sʌm mɔː ˈsteɪʃnəri: ʤʌst sʌm ˈpeɪpər ænd pɛnz.",
+        "exMeaning": "Tôi cần thêm văn phòng phẩm: chỉ giấy và bút."
+    },
+    {
+        "word": "sufficiently",
+        "type": "adv",
+        "ipa": "səˈfɪʃəntli",
+        "meaning": "đầy đủ",
+        "ex": "The defects resulted from the workers not being sufficiently trained.",
+        "ipaExTrans": "ðə dɪˈfɛkts rɪˈzʌltɪd frɒm ðə ˈwɜːkəz nɒt ˈbiːɪŋ səˈfɪʃəntli treɪnd.",
+        "exMeaning": "Sai sót do từ những công nhân chưa được đào tạo đầy đủ."
+    },
+    {
+        "word": "supply",
+        "type": "v",
+        "ipa": "səˈplaɪ",
+        "meaning": "cung cấp",
+        "ex": "This is the company that supplies our computer equipment.",
+        "ipaExTrans": "ðɪs ɪz ðə ˈkʌmpəni ðæt səˈplaɪz ˈaʊə kəmˈpjuːtər ɪˈkwɪpmənt.",
+        "exMeaning": "Đây là công ty cung cấp thiết bị máy tính."
+    },
+    {
+        "word": "verify",
+        "type": "v",
+        "ipa": "ˈvɛrɪfaɪ",
+        "meaning": "xác minh, xác nhận, khẳng định",
+        "ex": "Can you verify that the order will arrive by the end of the week?",
+        "ipaExTrans": "kæn juː ˈvɛrɪfaɪ ðæt ði ˈɔːdə wɪl əˈraɪv baɪ ði ɛnd ɒv ðə wiːk?",
+        "exMeaning": "Bạn có thể khẳng định hàng đặt sẽ đến vào cuối tuần chứ?"
+    },
+    {
+        "word": "carrier",
+        "type": "n",
+        "ipa": "ˈkærɪə",
+        "meaning": "hãng vận tải, tầu chuyên chở",
+        "ex": "We can ship it out tomorrow, but which carrier do you want to use?",
+        "ipaExTrans": "wiː kæn ʃɪp ɪt aʊt təˈmɒrəʊ, bʌt wɪʧ ˈkærɪə duː juː wɒnt tuː juːz?",
+        "exMeaning": "Chúng tôi có thể gửi chở hàng bằng tàu vào ngày mai, nhưng bạn muốn sử dụng hãng vận tải nào?"
+    },
+    {
+        "word": "essentially",
+        "type": "adv",
+        "ipa": "ɪˈsɛnʃəli",
+        "meaning": "về cơ bản, về bản chất",
+        "ex": "Essentially, we need your order by the 7th if you want to receive the goods by the end of the month.",
+        "ipaExTrans": "ɪˈsɛnʃəli, wiː niːd jɔːr ˈɔːdə baɪ ðiː 7th ɪf juː wɒnt tuː rɪˈsiːv ðə gʊdz baɪ ði ɛnd ɒv ðə mʌnθ.",
+        "exMeaning": "Về cơ bản, chúng tôi cân đơn đặt hàng của các anh vào ngày 7 nếu các anh muốn nhận hàng vòa cuối tháng."
+    },
+    {
+        "word": "estimate",
+        "type": "n",
+        "ipa": "ˈɛstɪmɪt",
+        "meaning": "sự đánh giá, sự ước lượng",
+        "ex": "Can you give me an estimate of the delivery time?",
+        "ipaExTrans": "kæn juː gɪv miː ən ˈɛstɪmɪt ɒv ðə dɪˈlɪvəri taɪm?",
+        "exMeaning": "Bạn có thể cho tôi một ước lượng về thời gian giao hàng được không?"
+    },
+    {
+        "word": "liability",
+        "type": "n",
+        "ipa": "ˌlaɪəˈbɪlɪti",
+        "meaning": "trách nhiệm pháp lý",
+        "ex": "What is your liability if the order is lost or broken in shipping?",
+        "ipaExTrans": "wɒt ɪz jɔː ˌlaɪəˈbɪlɪti ɪf ði ˈɔːdər ɪz lɒst ɔː ˈbrəʊkən ɪn ˈʃɪpɪŋ?",
+        "exMeaning": "Trách nhiệm pháp lý của bạn là gì nếu hàng hóa bị mất hoặc bị vỡ trong quá trình vận chuyển?"
+    },
+    {
+        "word": "mandatory",
+        "type": "adj",
+        "ipa": "ˈmændətəri",
+        "meaning": "có tính bắt buộc",
+        "ex": "Shipping insurance is mandatory and included in the price.",
+        "ipaExTrans": "ˈʃɪpɪŋ ɪnˈʃʊərəns ɪz ˈmændətəri ænd ɪnˈkluːdɪd ɪn ðə praɪs.",
+        "exMeaning": "Bảo hiểm vận chuyển bằng tàu là bắt buộc và được bao gồm trong giá cả."
+    },
+    {
+        "word": "merchandise",
+        "type": "n",
+        "ipa": "ˈmɜːʧəndaɪz",
+        "meaning": "hàng hóa",
+        "ex": "When will our merchandise arrive?",
+        "ipaExTrans": "wɛn wɪl ˈaʊə ˈmɜːʧəndaɪz əˈraɪv?",
+        "exMeaning": "Khi nào hàng hóa của chúng tôi sẽ đến?"
+    },
+    {
+        "word": "minimize",
+        "type": "v",
+        "ipa": "ˈmɪnɪmaɪz",
+        "meaning": "tối thiểu hóa",
+        "ex": "Shipping the order out on a Monday will minimize the shipping time.",
+        "ipaExTrans": "ˈʃɪpɪŋ ði ˈɔːdər aʊt ɒn ə ˈmʌndeɪ wɪl ˈmɪnɪmaɪz ðə ˈʃɪpɪŋ taɪm.",
+        "exMeaning": "Chở hàng hóa bằng tàu vào thứ Hai sẽ làm ít tốn thời gian chuyên chở bằng tàu nhất."
+    },
+    {
+        "word": "reflection",
+        "type": "n",
+        "ipa": "rɪˈflɛkʃən",
+        "meaning": "sự phản ảnh, sự phản chiếu",
+        "ex": "Satisfied customers are a reflection of how professional a company is.",
+        "ipaExTrans": "ˈsætɪsfaɪd ˈkʌstəməz ɑːr ə rɪˈflɛkʃən ɒv haʊ prəˈfɛʃənl ə ˈkʌmpəni ɪz.",
+        "exMeaning": "Khách hàng được thỏa mãn là sự phản ảnh một công ty chuyên nghiệp như thế nào."
+    },
+    {
+        "word": "ship",
+        "type": "v",
+        "ipa": "ʃɪp",
+        "meaning": "chở bằng tàu",
+        "ex": "We can ship orders anywhere in the world.",
+        "ipaExTrans": "wiː kæn ʃɪp ˈɔːdəz ˈɛnɪweər ɪn ðə wɜːld.",
+        "exMeaning": "Chúng ta có thể chở hàng bằng tầu tới bất cứ nơi đâu trên thế giới."
+    },
+    {
+        "word": "accurately",
+        "type": "adv",
+        "ipa": "ˈækjʊrɪtli",
+        "meaning": "một cách chính xác",
+        "ex": "Invoices must be written accurately, otherwise, we could lose money.",
+        "ipaExTrans": "ˈɪnvɔɪsɪz mʌst biː ˈrɪtn ˈækjʊrɪtli, ˈʌðəwaɪz, wiː kʊd luːz ˈmʌni.",
+        "exMeaning": "Hóa đơn phải được viết một cách chính xác, nếu không chúng ta có thể mất tiền."
+    },
+    {
+        "word": "adjustment",
+        "type": "n",
+        "ipa": "əˈʤʌstmənt",
+        "meaning": "sự điều chỉnh",
+        "ex": "You promised me a discount, so can you make an adjustment to the invoice, please?",
+        "ipaExTrans": "juː ˈprɒmɪst miː ə ˈdɪskaʊnt, səʊ kæn juː meɪk ən əˈʤʌstmənt tuː ði ˈɪnvɔɪs, pliːz?",
+        "exMeaning": "Bạn hứa đưa tôi một khoản chiết khấu, vì thế bạn có thể vui lòng điều chỉnh trên hóa đơn?"
+    },
+    {
+        "word": "charge",
+        "type": "n",
+        "ipa": "ʧɑːʤ",
+        "meaning": "phí, chi phí",
+        "ex": "If this invoice is not paid by the 25th, there will be an additional charge of one percent per day.",
+        "ipaExTrans": "ɪf ðɪs ˈɪnvɔɪs ɪz nɒt peɪd baɪ ðiː 25th, ðeə wɪl biː ən əˈdɪʃənl ʧɑːʤ ɒv wʌn pəˈsɛnt pɜː deɪ.",
+        "exMeaning": "Nếu hóa đơn này không được trả vào ngày 25 thì mỗi ngày sẽ có thêm khoản phí 1%."
+    },
+    {
+        "word": "compile",
+        "type": "v",
+        "ipa": "kəmˈpaɪl",
+        "meaning": "biên soạn, thu thập",
+        "ex": "We're just compiling your invoices now, and we will send them to you as soon as we're finished.",
+        "ipaExTrans": "wɪə ʤʌst kəmˈpaɪlɪŋ jɔːr ˈɪnvɔɪsɪz naʊ, ænd wiː wɪl sɛnd ðɛm tuː juː æz suːn æz wɪə ˈfɪnɪʃt.",
+        "exMeaning": "Bây giờ chúng tôi đang soạn những hóa đơn của bạn và chúng tôi sẽ gửi chúng cho bạn ngay khi chúng tôi hoàn thành."
+    },
+    {
+        "word": "discount",
+        "type": "n",
+        "ipa": "ˈdɪskaʊnt",
+        "meaning": "tiền chiết khấu",
+        "ex": "If the invoice is paid before the 25th, you will receive a five percent discount.",
+        "ipaExTrans": "ɪf ði ˈɪnvɔɪs ɪz peɪd bɪˈfɔː ðiː 25th, juː wɪl rɪˈsiːv ə faɪv pəˈsɛnt ˈdɪskaʊnt.",
+        "exMeaning": "Nếu hóa đơn này được trả trước này 25 thì bạn sẽ nhận khoản chiết khấu 5%."
+    },
+    {
+        "word": "discrepancy",
+        "type": "n",
+        "ipa": "dɪsˈkrɛpənsi",
+        "meaning": "sự khác nhau, sự không nhất quán",
+        "ex": "There seems to be a discrepancy on the invoice: yours says fifty dollars, and ours says forty-five.",
+        "ipaExTrans": "ðeə siːmz tuː biː ə dɪsˈkrɛpənsi ɒn ði ˈɪnvɔɪs: jɔːz sɛz ˈfɪfti ˈdɒləz, ænd ˈaʊəz sɛz ˈfɔːti-faɪv.",
+        "exMeaning": "Dường như có sự không nhất quán trong hóa đơn: của bạn là 59 đô la, của chúng tôi là 45 đô la."
+    },
+    {
+        "word": "efficient",
+        "type": "adj",
+        "ipa": "ɪˈfɪʃənt",
+        "meaning": "hiệu quả",
+        "ex": "It is much more efficient to write out all the invoices at the same time.",
+        "ipaExTrans": "ɪt ɪz mʌʧ mɔːr ɪˈfɪʃənt tuː raɪt aʊt ɔːl ði ˈɪnvɔɪsɪz æt ðə seɪm taɪm.",
+        "exMeaning": "Viết tất cả hóa đơn cùng một lúc thì hiệu quả hơn nhiều."
+    },
+    {
+        "word": "everyday",
+        "type": "adj",
+        "ipa": "ˈɛvrɪdeɪ",
+        "meaning": "mỗi ngày, thường nhật",
+        "ex": "Paying invoices is an everyday job in our busy office.",
+        "ipaExTrans": "ˈpeɪɪŋ ˈɪnvɔɪsɪz ɪz ən ˈɛvrɪdeɪ ʤɒb ɪn ˈaʊə ˈbɪzi ˈɒfɪs.",
+        "exMeaning": "Thanh toán những hóa đơn là công việc hằng ngày tại văn phòng bận rộn của chúng ta."
+    },
+    {
+        "word": "function",
+        "type": "n",
+        "ipa": "ˈfʌŋkʃən",
+        "meaning": "chức năng, vai trò, nhiệm vụ",
+        "ex": "One of my functions in the office is to prepare invoices.",
+        "ipaExTrans": "wʌn ɒv maɪ ˈfʌŋkʃənz ɪn ði ˈɒfɪs ɪz tuː prɪˈpeər ˈɪnvɔɪsɪz.",
+        "exMeaning": "Một trong những nhiệm vụ của tôi tại văn phòng là chuẩn bị hóa đơn."
+    },
+    {
+        "word": "impose",
+        "type": "v",
+        "ipa": "ɪmˈpəʊz",
+        "meaning": "đánh thuế, bắt chịu",
+        "ex": "As you are paying the invoice late, we have to impose a small fine.",
+        "ipaExTrans": "æz juː ɑː ˈpeɪɪŋ ði ˈɪnvɔɪs leɪt, wiː hæv tuː ɪmˈpəʊz ə smɔːl faɪn.",
+        "exMeaning": "Khi bạn thanh toán hóa đơn trễ, chúng tôi buộc bạn chịu một khoản tiền phạt nhỏ."
+    },
+    {
+        "word": "integral",
+        "type": "adj",
+        "ipa": "ˈɪntɪgrəl",
+        "meaning": "toàn bộ, trọn vẹn, không thể thiếu",
+        "ex": "Sending out and paying invoices is an integral part of doing business.",
+        "ipaExTrans": "ˈsɛndɪŋ aʊt ænd ˈpeɪɪŋ ˈɪnvɔɪsɪz ɪz ən ˈɪntɪgrəl pɑːt ɒv ˈdu(ː)ɪŋ ˈbɪznɪs.",
+        "exMeaning": "Gửi và thanh toán hóa đơn là một phần không thể thiếu của việc kinh doanh."
+    },
+    {
+        "word": "joint",
+        "type": "adj",
+        "ipa": "ʤɔɪnt",
+        "meaning": "chung",
+        "ex": "We have a joint account, and both our salaries get paid into it.",
+        "ipaExTrans": "wiː hæv ə ʤɔɪnt əˈkaʊnt, ænd bəʊθ ˈaʊə ˈsæləriz gɛt peɪd ˈɪntuː ɪt.",
+        "exMeaning": "Chúng tôi có một tài khoản chung và lương của cả hai chúng tôi được trả vào đó."
+    },
+    {
+        "word": "mistake",
+        "type": "n",
+        "ipa": "mɪsˈteɪk",
+        "meaning": "lỗi, chỗ sai",
+        "ex": "There's a mistake on this invoice; we have already paid for some of these.",
+        "ipaExTrans": "ðeəz ə mɪsˈteɪk ɒn ðɪs ˈɪnvɔɪs; wiː hæv ɔːlˈrɛdi peɪd fɔː sʌm ɒv ðiːz.",
+        "exMeaning": "Có một lỗi trong hóa đơn này; chúng ta vừa thanh toán một vài trong số này."
+    },
+    {
+        "word": "run",
+        "type": "v",
+        "ipa": "rʌn",
+        "meaning": "chạy, hoạt động, vận hành",
+        "ex": "I started out preparing invoices two years ago, and now I run the whole office.",
+        "ipaExTrans": "aɪ ˈstɑːtɪd aʊt prɪˈpeərɪŋ ˈɪnvɔɪsɪz tuː jɪəz əˈgəʊ, ænd naʊ aɪ rʌn ðə həʊl ˈɒfɪs.",
+        "exMeaning": "Tôi đã bắt đầu chuẩn bị nhiều hóa đơn cách đây hai năm và bây giờ tôi kiểm soát cả văn phòng."
+    },
+    {
+        "word": "strictly",
+        "type": "adv",
+        "ipa": "ˈstrɪktli",
+        "meaning": "chính xác",
+        "ex": "The lower price is strictly for those invoices paid on time.",
+        "ipaExTrans": "ðə ˈləʊə praɪs ɪz ˈstrɪktli fɔː ðəʊz ˈɪnvɔɪsɪz peɪd ɒn taɪm.",
+        "exMeaning": "Giá thấp hơn được dành chính xác cho những hóa đơn thanh toán đúng hạn."
+    },
+    {
+        "word": "subtract",
+        "type": "v",
+        "ipa": "səbˈtrækt",
+        "meaning": "trừ, giảm",
+        "ex": "We didn't receive these, so you need to subtract them from the bill.",
+        "ipaExTrans": "wiː dɪdnt rɪˈsiːv ðiːz, səʊ juː niːd tuː səbˈtrækt ðɛm frɒm ðə bɪl.",
+        "exMeaning": "Chúng tôi không nhận những thứ này, vì thế bạn nên trừ chúng khỏi hóa đơn thanh toán."
+    },
+    {
+        "word": "tedious",
+        "type": "adj",
+        "ipa": "ˈtiːdiəs",
+        "meaning": "chán, tẻ nhạt",
+        "ex": "Writing invoices can be tedious, but it is very important.",
+        "ipaExTrans": "ˈraɪtɪŋ ˈɪnvɔɪsɪz kæn biː ˈtiːdiəs, bʌt ɪt ɪz ˈvɛri ɪmˈpɔːtənt.",
+        "exMeaning": "Viết hóa đơn có thể tẻ nhạt nhưng nó rất quan trọng."
+    },
+    {
+        "word": "term",
+        "type": "n",
+        "ipa": "tɜːm",
+        "meaning": "điều khoản",
+        "ex": "According to the terms listed in our invoice, if you cancel, you still have to pay half of the total.",
+        "ipaExTrans": "əˈkɔːdɪŋ tuː ðə tɜːmz ˈlɪstɪd ɪn ˈaʊər ˈɪnvɔɪs, ɪf juː ˈkænsəl, juː stɪl hæv tuː peɪ hɑːf ɒv ðə ˈtəʊtl.",
+        "exMeaning": "Theo những điều khoản được liệt kê trong hóa đoan của chúng tôi, nếu bạn hủy, bạn vẫn phải thanh toán một nữa trong tổng số."
+    }
+]

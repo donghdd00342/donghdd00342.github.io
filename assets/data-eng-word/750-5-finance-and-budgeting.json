@@ -1,0 +1,624 @@
+[
+    {
+        "word": "accept",
+        "type": "v",
+        "ipa": "əkˈsɛpt",
+        "meaning": "chấp nhận, đồng ý, nhận",
+        "ex": "Do you accept American dollars?",
+        "ipaExTrans": "duː juː əkˈsɛpt əˈmɛrɪkən ˈdɒləz?",
+        "exMeaning": "Bạn có nhận đồng đô la Mỹ không?"
+    },
+    {
+        "word": "account",
+        "type": "n",
+        "ipa": "əˈkaʊnt",
+        "meaning": "tài khoản",
+        "ex": "Please include your account number to expedite the transaction.",
+        "ipaExTrans": "pliːz ɪnˈkluːd jɔːr əˈkaʊnt ˈnʌmbə tuː ˈɛkspɪdaɪt ðə trænˈzækʃən.",
+        "exMeaning": "Vui lòng bao gồm số tài khoản của anh để xúc tiến hợp đồng này."
+    },
+    {
+        "word": "activate",
+        "type": "v",
+        "ipa": "ˈæktɪveɪt",
+        "meaning": "kích hoạt",
+        "ex": "After you have filled in the paperwork, we'll be able to activate your account.",
+        "ipaExTrans": "ˈɑːftə juː hæv fɪld ɪn ðə ˈpeɪpəˌwɜːk, wiːl biː ˈeɪbl tuː ˈæktɪveɪt jɔːr əˈkaʊnt.",
+        "exMeaning": "Sau khi bạn điền đầy đủ vào giấy tờ, chúng tôi sẽ kích hoạt tài khoản của bạn."
+    },
+    {
+        "word": "balance",
+        "type": "n",
+        "ipa": "ˈbæləns",
+        "meaning": "bảng cân đối tài khoản",
+        "ex": "The balance of your account is $78.000",
+        "ipaExTrans": "ðə ˈbæləns ɒv jɔːr əˈkaʊnt ɪz $78.000",
+        "exMeaning": "Bảng cân đối tài khoản của bạn là 78.000 đô la."
+    },
+    {
+        "word": "borrow",
+        "type": "v",
+        "ipa": "ˈbɒrəʊ",
+        "meaning": "mượn",
+        "ex": "You can borrow up to one hundred thousand dollars and pay it back over five years.",
+        "ipaExTrans": "juː kæn ˈbɒrəʊ ʌp tuː wʌn ˈhʌndrəd ˈθaʊzənd ˈdɒləz ænd peɪ ɪt bæk ˈəʊvə faɪv jɪəz.",
+        "exMeaning": "Bạn có thể mượn đến một trăm ngàn đô la và trả lại trên 5 năm."
+    },
+    {
+        "word": "cashier",
+        "type": "n",
+        "ipa": "kæˈʃɪə",
+        "meaning": "người thu ngân",
+        "ex": "Ms.Lee works at a bank as a cashier.",
+        "ipaExTrans": "Ms.liː wɜːks æt ə bæŋk æz ə kæˈʃɪə.",
+        "exMeaning": "Cô Lee làm thu ngân tại ngân hàng."
+    },
+    {
+        "word": "convert",
+        "type": "v",
+        "ipa": "ˈkɒnvɜːt",
+        "meaning": "đổi, chuyển đổi",
+        "ex": "Please convert one hundred U.S dollars into euros.",
+        "ipaExTrans": "pliːz ˈkɒnvɜːt wʌn ˈhʌndrəd juː.ɛs ˈdɒləz ˈɪntuː ˈjʊərəʊz.",
+        "exMeaning": "Vui lòng đổi 100 đô la Mỹ thành đồng euro."
+    },
+    {
+        "word": "deposit",
+        "type": "n",
+        "ipa": "dɪˈpɒzɪt",
+        "meaning": "tiền ký gửi, tiền đặt cọc",
+        "ex": "If you want to rent the apartment, you have to pay a two-month deposit.",
+        "ipaExTrans": "ɪf juː wɒnt tuː rɛnt ði əˈpɑːtmənt, juː hæv tuː peɪ ə tuː-mʌnθ dɪˈpɒzɪt.",
+        "exMeaning": "Nếu anh muốn thuê căn hộ, anh phải đặt tiền cọc 2 tháng."
+    },
+    {
+        "word": "down payment",
+        "type": "n",
+        "ipa": "daʊn ˈpeɪmənt",
+        "meaning": "trả tiền hàng tháng (trả góp)",
+        "ex": "We are saving money to make a down payment on the house we want to buy.",
+        "ipaExTrans": "wiː ɑː ˈseɪvɪŋ ˈmʌni tuː meɪk ə daʊn ˈpeɪmənt ɒn ðə haʊs wiː wɒnt tuː baɪ.",
+        "exMeaning": "Chúng tôi đang tiết kiệm tiền để thanh toán tiền hàng tháng cho căn nhà chúng tôi muốn mua."
+    },
+    {
+        "word": "endorse",
+        "type": "v",
+        "ipa": "ɪnˈdɔːs",
+        "meaning": "ký hậu",
+        "ex": "Can you endorse the back of the check, please?",
+        "ipaExTrans": "kæn juː ɪnˈdɔːs ðə bæk ɒv ðə ʧɛk, pliːz?",
+        "exMeaning": "Vui lòng ký phía sau tờ séc?"
+    },
+    {
+        "word": "exchange",
+        "type": "v",
+        "ipa": "ɪksˈʧeɪnʤ",
+        "meaning": "đổi",
+        "ex": "Please help me exchange these N.T.dolars for yuan.",
+        "ipaExTrans": "pliːz hɛlp miː ɪksˈʧeɪnʤ ðiːz ɛn.tiː.dolars fɔː jʊˈɑːn.",
+        "exMeaning": "Vui lòng giúp tôi đổi những đồng đô la Đài Loan này sang đồng nhân dân tệ."
+    },
+    {
+        "word": "mortgage",
+        "type": "n",
+        "ipa": "ˈmɔːgɪʤ",
+        "meaning": "vật cầm cố, vật thế chấp",
+        "ex": "We've almost finished paying off the mortgage on our house.",
+        "ipaExTrans": "wiːv ˈɔːlməʊst ˈfɪnɪʃt ˈpeɪɪŋ ɒf ðə ˈmɔːgɪʤ ɒn ˈaʊə haʊs.",
+        "exMeaning": "Chúng tôi hàu như hoàn thành việc thanh toán thế chấp cho căn nhà của chúng tôi."
+    },
+    {
+        "word": "overdraw",
+        "type": "v",
+        "ipa": "ˌəʊvəˈdrɔː",
+        "meaning": "rút tiền quá mức",
+        "ex": "I overdrew my account by five thousand dollars.",
+        "ipaExTrans": "aɪ ˌəʊvəˈdruː maɪ əˈkaʊnt baɪ faɪv ˈθaʊzənd ˈdɒləz.",
+        "exMeaning": "Tôi rút quá 5 ngàn đô la khỏi tài khoản của tôi."
+    },
+    {
+        "word": "restricted",
+        "type": "adj",
+        "ipa": "rɪsˈtrɪktɪd",
+        "meaning": "hạn định, hạn chế",
+        "ex": "This special account is restricted to local customers.",
+        "ipaExTrans": "ðɪs ˈspɛʃəl əˈkaʊnt ɪz rɪsˈtrɪktɪd tuː ˈləʊkəl ˈkʌstəməz.",
+        "exMeaning": "Tài khoản đặc biệt này được hạn định cho những khách hàng địa phương."
+    },
+    {
+        "word": "transaction",
+        "type": "n",
+        "ipa": "trænˈzækʃən",
+        "meaning": "hợp đồng, giao dịch",
+        "ex": "I'd like a list of my last ten transactions.",
+        "ipaExTrans": "aɪd laɪk ə lɪst ɒv maɪ lɑːst tɛn trænˈzækʃənz.",
+        "exMeaning": "Tôi muốn một danh sách gồm 10 giao dịch cuối cùng của tôi."
+    },
+    {
+        "word": "typically",
+        "type": "adv",
+        "ipa": "ˈtɪpɪk(ə)li",
+        "meaning": "đặc trưng, tiêu biểu, điển hình",
+        "ex": "It typically takes two days for the money to reach your account.",
+        "ipaExTrans": "ɪt ˈtɪpɪk(ə)li teɪks tuː deɪz fɔː ðə ˈmʌni tuː riːʧ jɔːr əˈkaʊnt.",
+        "exMeaning": "Thường thì phải mất 2 ngày tiền mới đến tài khoản của bạn."
+    },
+    {
+        "word": "accumulate",
+        "type": "v",
+        "ipa": "əˈkjuːmjʊleɪt",
+        "meaning": "tích lũy",
+        "ex": "She accumulates over a million dollars through investing.",
+        "ipaExTrans": "ʃiː əˈkjuːmjʊleɪts ˈəʊvər ə ˈmɪljən ˈdɒləz θruː ɪnˈvɛstɪŋ.",
+        "exMeaning": "Cô ấy tích lũy được trên một triệu đô la từ việc đầu tư."
+    },
+    {
+        "word": "aggressively",
+        "type": "adv",
+        "ipa": "əˈgrɛsɪvli",
+        "meaning": "xông xáo, mạnh mẽ, dữ dội",
+        "ex": "I made a lot of money by investing aggressively in stock.",
+        "ipaExTrans": "aɪ meɪd ə lɒt ɒv ˈmʌni baɪ ɪnˈvɛstɪŋ əˈgrɛsɪvli ɪn stɒk.",
+        "exMeaning": "Tôi kiếm được nhiều tiền bằng cách đầu tư xông xáo vào cổ phiếu."
+    },
+    {
+        "word": "bond",
+        "type": "n",
+        "ipa": "bɒnd",
+        "meaning": "trái phiếu",
+        "ex": "Savings bonds offer a low-risk return for your investment but are not as profitable as a good stock.",
+        "ipaExTrans": "ˈseɪvɪŋz bɒndz ˈɒfər ə ləʊ-rɪsk rɪˈtɜːn fɔː jɔːr ɪnˈvɛstmənt bʌt ɑː nɒt æz ˈprɒfɪtəbl æz ə gʊd stɒk.",
+        "exMeaning": "Những trái phiếu tiết kiệm tạo ra lãi với rủi ro thấp hơn cho việc đầu tư của anh, nhưng không nhiều lợi nhuận như cổ phiếu tốt."
+    },
+    {
+        "word": "cautiously",
+        "type": "adv",
+        "ipa": "ˈkɔːʃəsli",
+        "meaning": "cẩn thận, thận trọng",
+        "ex": "You should invest more cautiously, or you could lose a lot of money.",
+        "ipaExTrans": "juː ʃʊd ɪnˈvɛst mɔː ˈkɔːʃəsli, ɔː juː kʊd luːz ə lɒt ɒv ˈmʌni.",
+        "exMeaning": "Bạn nên đầu tư một cách thận trọng nếu không bạn sẽ mất nhiều tiền."
+    },
+    {
+        "word": "commit",
+        "type": "v",
+        "ipa": "kəˈmɪt",
+        "meaning": "giam giữ",
+        "ex": "With this kind of investment, you must commit your money for at least five years.",
+        "ipaExTrans": "wɪð ðɪs kaɪnd ɒv ɪnˈvɛstmənt, juː mʌst kəˈmɪt jɔː ˈmʌni fɔːr æt liːst faɪv jɪəz.",
+        "exMeaning": "Với kiểu đầu tư này, bạn phải giam tiền của bạn ít nhất 5 năm."
+    },
+    {
+        "word": "conservative",
+        "type": "adj",
+        "ipa": "kənˈsɜːvətɪv",
+        "meaning": "ước chừng, khoảng chừng",
+        "ex": "I should make about ten thousand dollars, and that's a conservative estimate.",
+        "ipaExTrans": "aɪ ʃʊd meɪk əˈbaʊt tɛn ˈθaʊzənd ˈdɒləz, ænd ðæts ə kənˈsɜːvətɪv ˈɛstɪmɪt.",
+        "exMeaning": "Tôi sẽ kiếm được 10 ngàn đô la, và đó là một dự đoán ước chừng."
+    },
+    {
+        "word": "currency",
+        "type": "n",
+        "ipa": "ˈkʌrənsi",
+        "meaning": "giá trị tiền tệ",
+        "ex": "Where can I change foreign currency?",
+        "ipaExTrans": "weə kæn aɪ ʧeɪnʤ ˈfɒrɪn ˈkʌrənsi?",
+        "exMeaning": "Tôi có thể đổi ngoại tệ ở đâu?"
+    },
+    {
+        "word": "depression",
+        "type": "n",
+        "ipa": "dɪˈprɛʃən",
+        "meaning": "sự suy thoái",
+        "ex": "The stock market crash meant the coming of a depression.",
+        "ipaExTrans": "ðə stɒk ˈmɑːkɪt kræʃ mɛnt ðə ˈkʌmɪŋ ɒv ə dɪˈprɛʃən.",
+        "exMeaning": "Sự sụp đổ của thị trường chứng khoán có nghĩa là sự suy thoái sắp xảy ra."
+    },
+    {
+        "word": "desire",
+        "type": "n",
+        "ipa": "dɪˈzaɪə",
+        "meaning": "ước muốn, mong ước",
+        "ex": "I have no desire to invest my money; I'd rather keep it in the bank.",
+        "ipaExTrans": "aɪ hæv nəʊ dɪˈzaɪə tuː ɪnˈvɛst maɪ ˈmʌni; aɪd ˈrɑːðə kiːp ɪt ɪn ðə bæŋk.",
+        "exMeaning": "Tôi không có ước muốn đầu tư tiền của tôi; tôi thích gửi nó trong ngân hàng hơn."
+    },
+    {
+        "word": "dividend",
+        "type": "n",
+        "ipa": "ˈdɪvɪdɛnd",
+        "meaning": "cổ tức",
+        "ex": "Are the dividends for this investment paid twice or four times a year?",
+        "ipaExTrans": "ɑː ðə ˈdɪvɪdɛndz fɔː ðɪs ɪnˈvɛstmənt peɪd twaɪs ɔː fɔː taɪmz ə jɪə?",
+        "exMeaning": "Có phải cổ tức cho đầu tư này được trả 2 hoặc 4 lần trong một năm không?"
+    },
+    {
+        "word": "fund",
+        "type": "n",
+        "ipa": "fʌnd",
+        "meaning": "qũy, tiền vốn",
+        "ex": "I have most of my money invested in a special fund.",
+        "ipaExTrans": "aɪ hæv məʊst ɒv maɪ ˈmʌni ɪnˈvɛstɪd ɪn ə ˈspɛʃəl fʌnd.",
+        "exMeaning": "Hầu hết tiền của tôi được đầu tư vào một quỹ đặc biệt."
+    },
+    {
+        "word": "invest",
+        "type": "v",
+        "ipa": "ɪnˈvɛst",
+        "meaning": "đầu tư",
+        "ex": "You should only invest as much money as you can afford to lose.",
+        "ipaExTrans": "juː ʃʊd ˈəʊnli ɪnˈvɛst æz mʌʧ ˈmʌni æz juː kæn əˈfɔːd tuː luːz.",
+        "exMeaning": "Bạn chỉ nên đầu tư nhiều tiền khi bạn có đủ khả năng thua lỗ."
+    },
+    {
+        "word": "long-term",
+        "type": "adj",
+        "ipa": "ˈlɒŋtɜːm",
+        "meaning": "dài hạn",
+        "ex": "This is a long-term investment, so make sure you won't need the money within the next ten years.",
+        "ipaExTrans": "ðɪs ɪz ə ˈlɒŋtɜːm ɪnˈvɛstmənt, səʊ meɪk ʃʊə juː wəʊnt niːd ðə ˈmʌni wɪˈðɪn ðə nɛkst tɛn jɪəz.",
+        "exMeaning": "Đây là một khoản đầu tư dài hạn, vì thế hãy chắc chắn rằng bạn không cần tiền trong vòng 10 năm tới."
+    },
+    {
+        "word": "portfolio",
+        "type": "n",
+        "ipa": "pɔːtˈfəʊliəʊ",
+        "meaning": "danh mục vốn đầu tư",
+        "ex": "I only have four investments in my portfolio. How many do you have?",
+        "ipaExTrans": "aɪ ˈəʊnli hæv fɔːr ɪnˈvɛstmənts ɪn maɪ pɔːtˈfəʊliəʊ. haʊ ˈmɛni duː juː hæv?",
+        "exMeaning": "Tôi chỉ có bốn khoản đầu tư trong danh mục vốn đầu tư của tôi. Anh có mấy khoản?"
+    },
+    {
+        "word": "profitably",
+        "type": "adv",
+        "ipa": "ˈprɒfɪtəbli",
+        "meaning": "có lời, có lãi",
+        "ex": "It isn't easy to invest profitably; many people don't make money at all.",
+        "ipaExTrans": "ɪt ˈɪznt ˈiːzi tuː ɪnˈvɛst ˈprɒfɪtəbli; ˈmɛni ˈpiːpl dəʊnt meɪk ˈmʌni æt ɔːl.",
+        "exMeaning": "Thật không dễ để đầu tư có lời; nhiều người không kiếm được tiền gì cả."
+    },
+    {
+        "word": "realistic",
+        "type": "adj",
+        "ipa": "rɪəˈlɪstɪk",
+        "meaning": "thực tế, hiện thực",
+        "ex": "If you think that investing can make you rich quickly, you are not being realistic.",
+        "ipaExTrans": "ɪf juː θɪŋk ðæt ɪnˈvɛstɪŋ kæn meɪk juː rɪʧ ˈkwɪkli, juː ɑː nɒt ˈbiːɪŋ rɪəˈlɪstɪk.",
+        "exMeaning": "Nếu bạn nghĩ việc đầu tư có thể làm bạn giàu có nhanh chóng thì bạn không thực tế rồi."
+    },
+    {
+        "word": "return",
+        "type": "n",
+        "ipa": "rɪˈtɜːn",
+        "meaning": "tiền lời, tiền lãi",
+        "ex": "I got a really good return on my investment.",
+        "ipaExTrans": "aɪ gɒt ə ˈrɪəli gʊd rɪˈtɜːn ɒn maɪ ɪnˈvɛstmənt.",
+        "exMeaning": "Tôi có một khoản tiền lãi khá nhiều cho đầu tư của tôi."
+    },
+    {
+        "word": "target",
+        "type": "n",
+        "ipa": "ˈtɑːgɪt",
+        "meaning": "mục tiêu",
+        "ex": "My target is to make a million dollars over thirty years.",
+        "ipaExTrans": "maɪ ˈtɑːgɪt ɪz tuː meɪk ə ˈmɪljən ˈdɒləz ˈəʊvə ˈθɜːti jɪəz.",
+        "exMeaning": "Mục tiêu của tôi là kiếm một triệu đô la trong khoảng hơn 30 năm."
+    },
+    {
+        "word": "wisely",
+        "type": "adv",
+        "ipa": "ˈwaɪzli",
+        "meaning": "một các khôn ngoan",
+        "ex": "If you invest wisely, you won't lose money.",
+        "ipaExTrans": "ɪf juː ɪnˈvɛst ˈwaɪzli, juː wəʊnt luːz ˈmʌni.",
+        "exMeaning": "Nếu bạn đầu tư một cách khôn ngoan thì bạn sẽ không mất tiền."
+    },
+    {
+        "word": "yield",
+        "type": "v",
+        "ipa": "jiːld",
+        "meaning": "sản xuất, sinh lợi, mang lại",
+        "ex": "The investment yielded a profit of two thousand dollars.",
+        "ipaExTrans": "ði ɪnˈvɛstmənt ˈjiːldɪd ə ˈprɒfɪt ɒv tuː ˈθaʊzənd ˈdɒləz.",
+        "exMeaning": "Dầu tư này sản sinh 2.000 đô la tiền lời."
+    },
+    {
+        "word": "calculation",
+        "type": "n",
+        "ipa": "ˌkælkjʊˈleɪʃən",
+        "meaning": "sự tính toán",
+        "ex": "According to my calculations, you owe just under eighteen thousand dollars in taxes.",
+        "ipaExTrans": "əˈkɔːdɪŋ tuː maɪ ˌkælkjʊˈleɪʃənz, juː əʊ ʤʌst ˈʌndər ˌeɪˈtiːn ˈθaʊzənd ˈdɒləz ɪn ˈtæksɪz.",
+        "exMeaning": "Theo sự tính toán của tôi, bạn nợ chỉ dưới 18.000 đô la tiền thuế."
+    },
+    {
+        "word": "contribution",
+        "type": "n",
+        "ipa": "ˌkɒntrɪˈbjuːʃən",
+        "meaning": "sự đóng góp",
+        "ex": "He doesn't make much of a contribution to his team.",
+        "ipaExTrans": "hiː dʌznt meɪk mʌʧ ɒv ə ˌkɒntrɪˈbjuːʃən tuː hɪz tiːm.",
+        "exMeaning": "Anh ấy không đóng góp nhiều cho đội của anh ấy."
+    },
+    {
+        "word": "deadline",
+        "type": "n",
+        "ipa": "ˈdɛdlaɪn",
+        "meaning": "hạn chót",
+        "ex": "The deadline for doing your taxes is the end of May.",
+        "ipaExTrans": "ðə ˈdɛdlaɪn fɔː ˈdu(ː)ɪŋ jɔː ˈtæksɪz ɪz ði ɛnd ɒv meɪ.",
+        "exMeaning": "Hạn chót để bạn đóng thuế là cuối tháng Năm."
+    },
+    {
+        "word": "file",
+        "type": "v",
+        "ipa": "faɪl",
+        "meaning": "đệ trình, nộp",
+        "ex": "Have you filed your taxes for last year?",
+        "ipaExTrans": "hæv juː faɪld jɔː ˈtæksɪz fɔː lɑːst jɪə?",
+        "exMeaning": "Năm ngoái bạn có nộp thuế chưa?"
+    },
+    {
+        "word": "overall",
+        "type": "adv",
+        "ipa": "ˈəʊvərɔːl",
+        "meaning": "tất cả, tổng quát, nhìn chung",
+        "ex": "You owe eleven thousand dollars overall.",
+        "ipaExTrans": "juː əʊ ɪˈlɛvn ˈθaʊzənd ˈdɒləz ˈəʊvərɔːl.",
+        "exMeaning": "Bạn nợ tất cả 11.000 đô la."
+    },
+    {
+        "word": "refund",
+        "type": "n",
+        "ipa": "ˈriːfʌnd",
+        "meaning": "sự trả lại, số tiền trả lại",
+        "ex": "I got a really big tax refund last year.",
+        "ipaExTrans": "aɪ gɒt ə ˈrɪəli bɪg tæks ˈriːfʌnd lɑːst jɪə.",
+        "exMeaning": "Năm ngoái tôi có một khoản tiền hoàn thuế rất lớn."
+    },
+    {
+        "word": "spouse",
+        "type": "n",
+        "ipa": "spaʊz",
+        "meaning": "vợ chồng",
+        "ex": "Both you and your spouse had to sign the loan agreement.",
+        "ipaExTrans": "bəʊθ juː ænd jɔː spaʊz hæd tuː saɪn ðə ləʊn əˈgriːmənt.",
+        "exMeaning": "Cả bạn và vợ",
+        "exSecondIpa": "bạn phải ký vào hợp đồng vay này."
+    },
+    {
+        "word": "withhold",
+        "type": "v",
+        "ipa": "wɪðˈhəʊld",
+        "meaning": "giữ lại, câm lại",
+        "ex": "About two hundred dollars are withheld from Anna's paycheck each month.",
+        "ipaExTrans": "əˈbaʊt tuː ˈhʌndrəd ˈdɒləz ɑː wɪðˈhɛld frɒm ˈænəz ˈpeɪˌʧɛk iːʧ mʌnθ.",
+        "exMeaning": "Khoảng 200 đô la được giữ lại từ séc phải thanh toán của Anna mỗi tháng."
+    },
+    {
+        "word": "accounting",
+        "type": "n",
+        "ipa": "əˈkaʊntɪŋ",
+        "meaning": "khoa kế toán, môn kế toán",
+        "ex": "The accounting department provides a company's financial information.",
+        "ipaExTrans": "ði əˈkaʊntɪŋ dɪˈpɑːtmənt prəˈvaɪdz ə ˈkʌmpəniz faɪˈnænʃəl ˌɪnfəˈmeɪʃən.",
+        "exMeaning": "Bạn kế toán cung cấp thông tin tài chính của công ty."
+    },
+    {
+        "word": "asset",
+        "type": "n",
+        "ipa": "ˈæsɛt",
+        "meaning": "tài sản",
+        "ex": "The company has many assets that could sell to raise money.",
+        "ipaExTrans": "ðə ˈkʌmpəni hæz ˈmɛni ˈæsɛts ðæt kʊd sɛl tuː reɪz ˈmʌni.",
+        "exMeaning": "Công ty có nhiều tài sản có thể bán để thu tiền."
+    },
+    {
+        "word": "audit",
+        "type": "v",
+        "ipa": "ˈɔːdɪt",
+        "meaning": "kiểm toán",
+        "ex": "We have finished auditing the company's accounts, and everything seems to be correct.",
+        "ipaExTrans": "wiː hæv ˈfɪnɪʃt ˈɔːdɪtɪŋ ðə ˈkʌmpəniz əˈkaʊnts, ænd ˈɛvrɪθɪŋ siːmz tuː biː kəˈrɛkt.",
+        "exMeaning": "Chúng tôi vừa hoàn thành việc kiểm toán tài khoản của công ty và mọi thứ đều đúng."
+    },
+    {
+        "word": "budget",
+        "type": "v",
+        "ipa": "ˈbʌʤɪt",
+        "meaning": "dự thảo ngân sách",
+        "ex": "It is important to budget for the year so that we will have enough money.",
+        "ipaExTrans": "ɪt ɪz ɪmˈpɔːtənt tuː ˈbʌʤɪt fɔː ðə jɪə səʊ ðæt wiː wɪl hæv ɪˈnʌf ˈmʌni.",
+        "exMeaning": "Điều quan trọng là phải dự thảo ngân sách của năm để chúng ta sẽ có đủ tiền."
+    },
+    {
+        "word": "calculate",
+        "type": "v",
+        "ipa": "ˈkælkjʊleɪt",
+        "meaning": "tính toán",
+        "ex": "Can you calculate how much the decoration will cost?",
+        "ipaExTrans": "kæn juː ˈkælkjʊleɪt haʊ mʌʧ ðə ˌdɛkəˈreɪʃən wɪl kɒst?",
+        "exMeaning": "Bạn có thể tính toán xem trang trí tốn bao nhiêu tiền được không?"
+    },
+    {
+        "word": "capital",
+        "type": "n",
+        "ipa": "ˈkæpɪtl",
+        "meaning": "vốn, số tiền đầu tư",
+        "ex": "Without capital, you won't be able to get your business started.",
+        "ipaExTrans": "wɪˈðaʊt ˈkæpɪtl, juː wəʊnt biː ˈeɪbl tuː gɛt jɔː ˈbɪznɪs ˈstɑːtɪd.",
+        "exMeaning": "Không có vốn, bạn sẽ không thể bắt đầu kinh doanh."
+    },
+    {
+        "word": "client",
+        "type": "n",
+        "ipa": "ˈklaɪənt",
+        "meaning": "khách hàng",
+        "ex": "Most of our clients are happy to pay for our services because we help them save money.",
+        "ipaExTrans": "məʊst ɒv ˈaʊə ˈklaɪənts ɑː ˈhæpi tuː peɪ fɔːr ˈaʊə ˈsɜːvɪsɪz bɪˈkɒz wiː hɛlp ðɛm seɪv ˈmʌni.",
+        "exMeaning": "Hầu hết khách hàng của chúng tôi vui vẻ trả cho dịch vụ của chúng tôi bởi vì chúng tôi giúp họ tiết kiệm tiền"
+    },
+    {
+        "word": "commission",
+        "type": "n",
+        "ipa": "kəˈmɪʃən",
+        "meaning": "tiền hoa hồng",
+        "ex": "One of the advantages of investing online is that you don't need to pay a commission to a broker.",
+        "ipaExTrans": "wʌn ɒv ði ədˈvɑːntɪʤɪz ɒv ɪnˈvɛstɪŋ ˈɒnˌlaɪn ɪz ðæt juː dəʊnt niːd tuː peɪ ə kəˈmɪʃən tuː ə ˈbrəʊkə.",
+        "exMeaning": "Một trong những thuận lợi của đầu tư trực tuyến là bạn không cần trả tiền hoa hồng cho nhà môi giới."
+    },
+    {
+        "word": "debt",
+        "type": "n",
+        "ipa": "dɛt",
+        "meaning": "nợ, món nợ",
+        "ex": "I have paid off all my debts; I don't owe money to anybody.",
+        "ipaExTrans": "aɪ hæv peɪd ɒf ɔːl maɪ dɛts; aɪ dəʊnt əʊ ˈmʌni tuː ˈɛnɪˌbɒdi.",
+        "exMeaning": "Tôi vừa trả hết các khoản nợ của tôi; tôi không còn nợ tiền ai nữa."
+    },
+    {
+        "word": "expenditure",
+        "type": "n",
+        "ipa": "ɪksˈpɛndɪʧə",
+        "meaning": "chi tiêu",
+        "ex": "Government expenditure must be kept under strict control.",
+        "ipaExTrans": "ˈgʌvnmənt ɪksˈpɛndɪʧə mʌst biː kɛpt ˈʌndə strɪkt kənˈtrəʊl.",
+        "exMeaning": "Chi tiêu của chính phủ được giữ trong tầm kiểm soát nghiêm ngặt."
+    },
+    {
+        "word": "forecast",
+        "type": "n",
+        "ipa": "ˈfɔːkɑːst",
+        "meaning": "dự báo, dự đoán",
+        "ex": "According to our forecast, the company should be making a profit by next January.",
+        "ipaExTrans": "əˈkɔːdɪŋ tuː ˈaʊə ˈfɔːkɑːst, ðə ˈkʌmpəni ʃʊd biː ˈmeɪkɪŋ ə ˈprɒfɪt baɪ nɛkst ˈʤænjʊəri.",
+        "exMeaning": "Theo dự đoán của chúng tôi, công ty sẽ thu được lợi nhuận vào tháng Giêng tới."
+    },
+    {
+        "word": "outstanding",
+        "type": "adj",
+        "ipa": "aʊtˈstændɪŋ",
+        "meaning": "chưa thanh toán",
+        "ex": "We still have two bills outstanding, but I can pay them this week.",
+        "ipaExTrans": "wiː stɪl hæv tuː bɪlz aʊtˈstændɪŋ, bʌt aɪ kæn peɪ ðɛm ðɪs wiːk.",
+        "exMeaning": "Chúng tôi vẫn còn hai hóa đơn chưa thanh toán nhưng chúng tôi có thể thanh toán chúng vào tuần nay."
+    },
+    {
+        "word": "project",
+        "type": "v",
+        "ipa": "ˈprɒʤɛkt",
+        "meaning": "hoạch định, dự đoán",
+        "ex": "Our income is projected to rise by eight percent over the year.",
+        "ipaExTrans": "ˈaʊər ˈɪnkʌm ɪz prəˈʤɛktɪd tuː raɪz baɪ eɪt pəˈsɛnt ˈəʊvə ðə jɪə.",
+        "exMeaning": "Thu nhập của chúng ta được dự đoán tăng 8% một năm."
+    },
+    {
+        "word": "reconcile",
+        "type": "v",
+        "ipa": "ˈrɛkənsaɪl",
+        "meaning": "làm cho tương thích, điều hòa",
+        "ex": "The auditor tried to reconcile his expenses with his stated income.",
+        "ipaExTrans": "ði ˈɔːdɪtə traɪd tuː ˈrɛkənsaɪl hɪz ɪksˈpɛnsɪz wɪð hɪz ˈsteɪtɪd ˈɪnkʌm.",
+        "exMeaning": "Kiểm toán viên cố gắng điều hòa/dàn xếp chi tiêu với khoản thu nhập cố định của anh ấy."
+    },
+    {
+        "word": "revenue",
+        "type": "n",
+        "ipa": "ˈrɛvɪnjuː",
+        "meaning": "thu nhập",
+        "ex": "The company's revenues fell last year.",
+        "ipaExTrans": "ðə ˈkʌmpəniz ˈrɛvɪnjuːz fɛl lɑːst jɪə.",
+        "exMeaning": "Năm ngoái thu nhập của công ty giảm."
+    },
+    {
+        "word": "surplus",
+        "type": "n",
+        "ipa": "ˈsɜːpləs",
+        "meaning": "thặng dư",
+        "ex": "The country has a trade surplus of one billion dollars.",
+        "ipaExTrans": "ðə ˈkʌntri hæz ə treɪd ˈsɜːpləs ɒv wʌn ˈbɪljən ˈdɒləz.",
+        "exMeaning": "Quốc gia này có một tỷ đô la thặng dư thương mại."
+    },
+    {
+        "word": "turnover",
+        "type": "n",
+        "ipa": "ˈtɜːnˌəʊvə",
+        "meaning": "doanh số, doanh thu, tốc độ thay thế nhân công",
+        "ex": "Retail companies have a high turnover rate for employees.",
+        "ipaExTrans": "ˈriːteɪl ˈkʌmpəniz hæv ə haɪ ˈtɜːnˌəʊvə reɪt fɔːr ˌɛmplɔɪˈiːz.",
+        "exMeaning": "Những công ty bán lẻ có tốc độ thay thế công nhân viên cao."
+    },
+    {
+        "word": "voucher",
+        "type": "n",
+        "ipa": "ˈvaʊʧə",
+        "meaning": "biên lai",
+        "ex": "The voucher is valid until April 30th.",
+        "ipaExTrans": "ðə ˈvaʊʧər ɪz ˈvælɪd ənˈtɪl ˈeɪprəl 30th.",
+        "exMeaning": "Biên lai này có hiệu lực cho đến ngày 30 tháng 4."
+    },
+    {
+        "word": "coupon",
+        "type": "n",
+        "ipa": "ˈkuːpɒn",
+        "meaning": "vé, phiếu mua hàng, phiếu dự thưởng",
+        "ex": "My sister collects a lot of coupons from the newspaper.",
+        "ipaExTrans": "maɪ ˈsɪstə kəˈlɛkts ə lɒt ɒv ˈkuːpɒnz frɒm ðə ˈnjuːzˌpeɪpə.",
+        "exMeaning": "Chị tôi thu nhiều phiếu dự thưởng từ báo."
+    },
+    {
+        "word": "customs",
+        "type": "n",
+        "ipa": "ˈkʌstəmz",
+        "meaning": "hải quan",
+        "ex": "How long does it take to go through customs?",
+        "ipaExTrans": "haʊ lɒŋ dʌz ɪt teɪk tuː gəʊ θruː ˈkʌstəmz?",
+        "exMeaning": "Đi qua hải quan mất bao lâu?"
+    },
+    {
+        "word": "deduct",
+        "type": "v",
+        "ipa": "dɪˈdʌkt",
+        "meaning": "khấu trừ, làm giảm",
+        "ex": "We can deduct the late fee if you pay the bill by the 9th.",
+        "ipaExTrans": "wiː kæn dɪˈdʌkt ðə leɪt fiː ɪf juː peɪ ðə bɪl baɪ ðiː 9th.",
+        "exMeaning": "Chúng tôi có thể khấu trừ phí trễ nếu bạn thanh toán hóa đơn vào ngày 9."
+    },
+    {
+        "word": "detail",
+        "type": "n",
+        "ipa": "ˈdiːteɪl",
+        "meaning": "chi tiết",
+        "ex": "Check the details on the bill to make sure that everything is correct.",
+        "ipaExTrans": "ʧɛk ðə ˈdiːteɪlz ɒn ðə bɪl tuː meɪk ʃʊə ðæt ˈɛvrɪθɪŋ ɪz kəˈrɛkt.",
+        "exMeaning": "Kiểm tra những chi tiết trên hóa đơn để chắc chắn rằng mọi thứ đều đúng."
+    },
+    {
+        "word": "owe",
+        "type": "v",
+        "ipa": "əʊ",
+        "meaning": "mắc nợ",
+        "ex": "You currently owe two thousand dollars.",
+        "ipaExTrans": "juː ˈkʌrəntli əʊ tuː ˈθaʊzənd ˈdɒləz.",
+        "exMeaning": "Hiện tại bạn nợ 2.000 đô la."
+    },
+    {
+        "word": "penalty",
+        "type": "n",
+        "ipa": "ˈpɛnlti",
+        "meaning": "phạt đền, tiền phạt",
+        "ex": "There will be a five percent penalty for any bills paid more than thirty days late.",
+        "ipaExTrans": "ðeə wɪl biː ə faɪv pəˈsɛnt ˈpɛnlti fɔːr ˈɛni bɪlz peɪd mɔː ðæn ˈθɜːti deɪz leɪt.",
+        "exMeaning": "Sẽ có khoản tiền phạt 5% đối với những hóa đơn thanh toán trễ hơn 30 ngày."
+    },
+    {
+        "word": "reimburse",
+        "type": "v",
+        "ipa": "ˌriːɪmˈbɜːs",
+        "meaning": "hoàn trả, trả lại",
+        "ex": "I will reimburse the cost to you.",
+        "ipaExTrans": "aɪ wɪl ˌriːɪmˈbɜːs ðə kɒst tuː juː.",
+        "exMeaning": "Tôi sẽ trả lại chi phí cho bạn."
+    }
+]

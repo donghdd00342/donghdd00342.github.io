@@ -1,0 +1,389 @@
+[
+    {
+        "word": "adjacent",
+        "type": "adj",
+        "ipa": "əˈʤeɪsənt",
+        "meaning": "gần, bên cạnh",
+        "ex": "The reseach department is adjacent to the design department.",
+        "ipaExTrans": "ðə rɪˈsɜːʧ dɪˈpɑːtmənt ɪz əˈʤeɪsənt tuː ðə dɪˈzaɪn dɪˈpɑːtmənt.",
+        "exMeaning": "Phòng nghiên cứu bên cạnh phòng thiết kế."
+    },
+    {
+        "word": "conform",
+        "type": "v",
+        "ipa": "kənˈfɔːm",
+        "meaning": "tuân theo, tuân thủ",
+        "ex": "The finished product must conform to industry standards.",
+        "ipaExTrans": "ðə ˈfɪnɪʃt ˈprɒdʌkt mʌst kənˈfɔːm tuː ˈɪndəstri ˈstændədz.",
+        "exMeaning": "Sản phẩm được hoàn thành phải tuân thủ những tiêu chuẩn công nghiệp."
+    },
+    {
+        "word": "decade",
+        "type": "n",
+        "ipa": "ˈdɛkeɪd",
+        "meaning": "thập niên",
+        "ex": "We have been running this assembly line for almost a decade now.",
+        "ipaExTrans": "wiː hæv biːn ˈrʌnɪŋ ðɪs əˈsɛmbli laɪn fɔːr ˈɔːlməʊst ə ˈdɛkeɪd naʊ.",
+        "exMeaning": "Chúng tôi vận hành dây chuyền sản xuất này cho tới bây giờ được gần một thập niên."
+    },
+    {
+        "word": "examine",
+        "type": "v",
+        "ipa": "ɪgˈzæmɪn",
+        "meaning": "kiểm tra",
+        "ex": "We examine the parts to make sure that they have been made well.",
+        "ipaExTrans": "wiː ɪgˈzæmɪn ðə pɑːts tuː meɪk ʃʊə ðæt ðeɪ hæv biːn meɪd wɛl.",
+        "exMeaning": "Chúng tôi kiểm tra những bộ phận này để đảm bảo rằng chúng được làm tốt."
+    },
+    {
+        "word": "lease",
+        "type": "v",
+        "ipa": "liːs",
+        "meaning": "cho thuê",
+        "ex": "We don't own the building; we lease it.",
+        "ipaExTrans": "wiː dəʊnt əʊn ðə ˈbɪldɪŋ; wiː liːs ɪt.",
+        "exMeaning": "Chúng tôi không phải chủ của tòa nhà này; Chúng tôi thuê nó."
+    },
+    {
+        "word": "logical",
+        "type": "adj",
+        "ipa": "ˈlɒʤɪkəl",
+        "meaning": "lô gisc, hợp lý",
+        "ex": "It is logical to have the packing at the end of the assembly line, not the beginning.",
+        "ipaExTrans": "ɪt ɪz ˈlɒʤɪkəl tuː hæv ðə ˈpækɪŋ æt ði ɛnd ɒv ði əˈsɛmbli laɪn, nɒt ðə bɪˈgɪnɪŋ.",
+        "exMeaning": "Đó là hợp lý khi đóng gói ở gian đoạn cuối của dây chuyền sản xuất, không phải giai đoạn đầu."
+    },
+    {
+        "word": "priority",
+        "type": "n",
+        "ipa": "praɪˈɒrɪti",
+        "meaning": "sự ưu tiên",
+        "ex": "Safety is our priority here, so you must first learn how to work on the line.",
+        "ipaExTrans": "ˈseɪfti ɪz ˈaʊə praɪˈɒrɪti hɪə, səʊ juː mʌst fɜːst lɜːn haʊ tuː wɜːk ɒn ðə laɪn.",
+        "exMeaning": "An toàn là ưu tiên của chúng tôi ở đây, vì thế trước tiên bạn phải học cách để làm việc trong hệ thống này."
+    },
+    {
+        "word": "systematically",
+        "type": "adv",
+        "ipa": "ˌsɪstɪˈmætɪkəli",
+        "meaning": "một cách có hệ thống, có phương pháp",
+        "ex": "Doing things systematically helps make sure that everything gets done, and gets done well.",
+        "ipaExTrans": "ˈdu(ː)ɪŋ θɪŋz ˌsɪstɪˈmætɪkəli hɛlps meɪk ʃʊə ðæt ˈɛvrɪθɪŋ gɛts dʌn, ænd gɛts dʌn wɛl.",
+        "exMeaning": "Tiến hành mọi việc có hệ thống giúp đảm bảo rằng mọi việc được làm và được làm tốt."
+    },
+    {
+        "word": "uniformly",
+        "type": "adv",
+        "ipa": "ˈjuːnɪfɔːmli",
+        "meaning": "một cách đồng bộ, giống nhau",
+        "ex": "If everything is done uniformly, then all the finished items should look exactly the same.",
+        "ipaExTrans": "ɪf ˈɛvrɪθɪŋ ɪz dʌn ˈjuːnɪfɔːmli, ðɛn ɔːl ðə ˈfɪnɪʃt ˈaɪtəmz ʃʊd lʊk ɪgˈzæktli ðə seɪm.",
+        "exMeaning": "Nếu mọi thứ được làm một cách đồng bộ thì tất cả thành phẩm sẽ trông hoàn toàn giống nhau."
+    },
+    {
+        "word": "circumstance",
+        "type": "n",
+        "ipa": "ˈsɜːkəmstəns",
+        "meaning": "tình trạng, điều kiện, hoàn cảnh",
+        "ex": "Under no circumstances should items go out if they have any problems.",
+        "ipaExTrans": "ˈʌndə nəʊ ˈsɜːkəmstənsɪz ʃʊd ˈaɪtəmz gəʊ aʊt ɪf ðeɪ hæv ˈɛni ˈprɒbləmz.",
+        "exMeaning": "Nếu những mặt hàng có vấn đề thì dù với bất kỳ hoàn cảnh nào cũng nên hủy bỏ chúng."
+    },
+    {
+        "word": "collaboration",
+        "type": "n",
+        "ipa": "kəˌlæbəˈreɪʃən",
+        "meaning": "sự hợp tác",
+        "ex": "We can choose to work in collaboration with another company or on our own.",
+        "ipaExTrans": "wiː kæn ʧuːz tuː wɜːk ɪn kəˌlæbəˈreɪʃən wɪð əˈnʌðə ˈkʌmpəni ɔːr ɒn ˈaʊər əʊn.",
+        "exMeaning": "Chúng ta có thể chọn hợp tác làm việc với công ty khác hoặc chúng ta làm chủ."
+    },
+    {
+        "word": "concentrate",
+        "type": "v",
+        "ipa": "ˈkɒnsəntreɪt",
+        "meaning": "tập trung",
+        "ex": "You have to concentrate very hard to make sure that you don't miss any problems.",
+        "ipaExTrans": "juː hæv tuː ˈkɒnsəntreɪt ˈvɛri hɑːd tuː meɪk ʃʊə ðæt juː dəʊnt mɪs ˈɛni ˈprɒbləmz.",
+        "exMeaning": "Bạn phải tập trung rất nhiều để đảm bảo rằng bạn không bỏ lỡ bất kỳ vấn đề nào."
+    },
+    {
+        "word": "condition",
+        "type": "n",
+        "ipa": "kənˈdɪʃən",
+        "meaning": "điều kiện, tình trạng",
+        "ex": "We want everything to go out in perfect condition.",
+        "ipaExTrans": "wiː wɒnt ˈɛvrɪθɪŋ tuː gəʊ aʊt ɪn ðə ˈpɜːfɪkt kənˈdɪʃən.",
+        "exMeaning": "Tôi muốn mọi việc được tiến hành trong điều kiện hoàn hỏa."
+    },
+    {
+        "word": "defect",
+        "type": "n",
+        "ipa": "dɪˈfɛkt",
+        "meaning": "khuyết điểm, khiếm khuyết, lỗi",
+        "ex": "If an item has even the smallest defect, we must not send it out.",
+        "ipaExTrans": "ɪf ən ˈaɪtəm hæz ˈiːvən ðə ˈsmɔːlɪst dɪˈfɛkt, wiː mʌst nɒt sɛnd ɪt aʊt.",
+        "exMeaning": "Nếu một món hàng dù có khuyết điểm nhỏ nhất thì chúng ta cũng không được gửi nó đi."
+    },
+    {
+        "word": "disruption",
+        "type": "n",
+        "ipa": "dɪsˈrʌpʃən",
+        "meaning": "sự phá vỡ",
+        "ex": "The mistake caused a big disruption to the order schedule.",
+        "ipaExTrans": "ðə mɪsˈteɪk kɔːzd ə bɪg dɪsˈrʌpʃən tuː ði ˈɔːdə ˈʃɛdjuːl.",
+        "exMeaning": "Lỗi lầm đã gây nên sự phá vỡ lớn đối với kế hoạch đặt hàng."
+    },
+    {
+        "word": "experiment",
+        "type": "v",
+        "ipa": "ɪksˈpɛrɪmənt",
+        "meaning": "làm thí nghiệm, thử nghiệm",
+        "ex": "We are experimenting with ways to improve the quality of our product.",
+        "ipaExTrans": "wiː ɑːr ɪksˈpɛrɪmɛntɪŋ wɪð weɪz tuː ɪmˈpruːv ðə ˈkwɒlɪti ɒv ˈaʊə ˈprɒdʌkt.",
+        "exMeaning": "Chúng tôi đang thử nghiệm những cách để nâng cao chất lượng sản phẩm của chúng tôi."
+    },
+    {
+        "word": "fluctuate",
+        "type": "v",
+        "ipa": "ˈflʌktjʊeɪt",
+        "meaning": "biến chuyển, thay đổi",
+        "ex": "Quality can go up and down just a little, but it would be better if it didn't fluctuate at all.",
+        "ipaExTrans": "ˈkwɒlɪti kæn gəʊ ʌp ænd daʊn ʤʌst ə ˈlɪtl, bʌt ɪt wʊd biː ˈbɛtər ɪf ɪt dɪdnt ˈflʌktjʊeɪt æt ɔːl.",
+        "exMeaning": "Chất lượng có thể tăng lên rồi giảm xuống một tí nhưng nó sẽ tốt hơn nếu nó không thay đổi gì cả."
+    },
+    {
+        "word": "garment",
+        "type": "n",
+        "ipa": "ˈgɑːmənt",
+        "meaning": "quần áo, y phục",
+        "ex": "We are very happy with the way our dresses and other garments look.",
+        "ipaExTrans": "wiː ɑː ˈvɛri ˈhæpi wɪð ðə weɪ ˈaʊə ˈdrɛsɪz ænd ˈʌðə ˈgɑːmənts lʊk.",
+        "exMeaning": "Chúng tôi rất hài lòng với kiểu cách của nhưng chiếc đầm và những y phục khác của chúng tôi."
+    },
+    {
+        "word": "hamper",
+        "type": "v",
+        "ipa": "ˈhæmpə",
+        "meaning": "cản trở, làm trở ngại",
+        "ex": "Our efforts are being hampered by a shortage of traned staff.",
+        "ipaExTrans": "ˈaʊər ˈɛfəts ɑː ˈbiːɪŋ ˈhæmpəd baɪ ə ˈʃɔːtɪʤ ɒv treɪnd stɑːf.",
+        "exMeaning": "Những nỗ lực của chúng ta bị cản trở bởi thiếu nhân viên lành nghề."
+    },
+    {
+        "word": "indicator",
+        "type": "n",
+        "ipa": "ˈɪndɪkeɪtə",
+        "meaning": "dụng cụ chỉ báo, đồng hồ chỉ",
+        "ex": "Price is not always an indicator of quality.",
+        "ipaExTrans": "praɪs ɪz nɒt ˈɔːlweɪz ən ˈɪndɪkeɪtər ɒv ˈkwɒlɪti.",
+        "exMeaning": "Giá cả không phải lúc nào cũng là dụng cụ chỉ chất lượng."
+    },
+    {
+        "word": "inspect",
+        "type": "v",
+        "ipa": "ɪnˈspɛkt",
+        "meaning": "kiểm tra, điều tra",
+        "ex": "We inspect every item before it goes out.",
+        "ipaExTrans": "wiː ɪnˈspɛkt ˈɛvri ˈaɪtəm bɪˈfɔːr ɪt gəʊz aʊt.",
+        "exMeaning": "Chúng tôi kiểm tra mỗi món hàng trước khi nó xuất."
+    },
+    {
+        "word": "opt",
+        "type": "v",
+        "ipa": "ɒpt",
+        "meaning": "chọn, chọn lựa",
+        "ex": "We have opted to take on an extra quality control manager.",
+        "ipaExTrans": "wiː hæv ˈɒptɪd tuː teɪk ɒn ən ˈɛkstrə ˈkwɒlɪti kənˈtrəʊl ˈmænɪʤə.",
+        "exMeaning": "Chúng tôi vừa tuyển chọn để nhận thêm một quản lý kiểm soát chất lượng."
+    },
+    {
+        "word": "recall",
+        "type": "v",
+        "ipa": "rɪˈkɔːl",
+        "meaning": "rút lại, thu hồi",
+        "ex": "The automaker recalled 3.000 SUVs because of a brake problem.",
+        "ipaExTrans": "ði automaker rɪˈkɔːld 3.000 ɛs-juː-viːz bɪˈkɒz ɒv ə breɪk ˈprɒbləm.",
+        "exMeaning": "Nhà sản xuất xe hơi đã thu hồi 3.000 SUV vì có lỗi ở bộ phận thắng."
+    },
+    {
+        "word": "research",
+        "type": "n",
+        "ipa": "rɪˈsɜːʧ",
+        "meaning": "cuộc nghiên cứu",
+        "ex": "Our research shows that employees work better if allowed several short breaks.",
+        "ipaExTrans": "ˈaʊə rɪˈsɜːʧ ʃəʊz ðæt ˌɛmplɔɪˈiːz wɜːk ˈbɛtər ɪf əˈlaʊd ˈsɛvrəl ʃɔːt breɪks.",
+        "exMeaning": "Cuộc nghiên cứu của chúng tôi cho thấy rằng công nhân viên sẽ làm việc tốt hơn nếu được phép nghỉ và giải lao ngắn."
+    },
+    {
+        "word": "responsibility",
+        "type": "n",
+        "ipa": "rɪsˌpɒnsəˈbɪlɪti",
+        "meaning": "trách nhiệm, bổn phận",
+        "ex": "It is your responsibility to make sure that the quality is exellent.",
+        "ipaExTrans": "ɪt ɪz jɔː rɪsˌpɒnsəˈbɪlɪti tuː meɪk ʃʊə ðæt ðə ˈkwɒlɪti ɪz ˈɛksələnt.",
+        "exMeaning": "Trách nhiệm của bạn chính là để đảm bảo rằng chất lượng tốt."
+    },
+    {
+        "word": "scrutiny",
+        "type": "n",
+        "ipa": "ˈskruːtɪni",
+        "meaning": "sự kiểm tra, việc kiểm tra kỹ",
+        "ex": "Even under the closest scrutiny, the product was found to be of the highest quality.",
+        "ipaExTrans": "ˈiːvən ˈʌndə ðə ˈkləʊsɪst ˈskruːtɪni, ðə ˈprɒdʌkt wɒz faʊnd tuː biː ɒv ðə ˈhaɪɪst ˈkwɒlɪti.",
+        "exMeaning": "Dù có được kiểm tra tỉ mỉ nhất thì sản phẩm vẫn đạt chất lượng cao nhất."
+    },
+    {
+        "word": "suppervisor",
+        "type": "n",
+        "ipa": "suppervisor",
+        "meaning": "người quản lý, người điều khiển",
+        "ex": "The supervisor makes sure that the workers are doing a good job.",
+        "ipaExTrans": "ðə ˈsjuːpəvaɪzə meɪks ʃʊə ðæt ðə ˈwɜːkəz ɑː ˈdu(ː)ɪŋ ə gʊd ʤɒb.",
+        "exMeaning": "Người quản lý đảm bảo rằng những công nhân đang làm việc tốt."
+    },
+    {
+        "word": "waste",
+        "type": "n",
+        "ipa": "weɪst",
+        "meaning": "vật phế thải, lãng phí",
+        "ex": "We throw away items with even the smallest flaws, which I think is a real waste.",
+        "ipaExTrans": "wiː θrəʊ əˈweɪ ˈaɪtəmz wɪð ˈiːvən ðə ˈsmɔːlɪst flɔːz, wɪʧ aɪ θɪŋk ɪz ə rɪəl weɪst.",
+        "exMeaning": "Chúng ta loại bỏ những thứ dù chỉ hơi có khiếm khuyết, tôi nghĩ đó là lãng phí thật sự."
+    },
+    {
+        "word": "wrinkle",
+        "type": "n",
+        "ipa": "ˈrɪŋkl",
+        "meaning": "làn, nếp nhăn",
+        "ex": "The clothes should not have wrinkles in them.",
+        "ipaExTrans": "ðə kləʊðz ʃʊd nɒt hæv ˈrɪŋklz ɪn ðɛm.",
+        "exMeaning": "Quần áo không nên có nếp nhăn."
+    },
+    {
+        "word": "agenda",
+        "type": "n",
+        "ipa": "əˈʤɛndə",
+        "meaning": "hội nghị",
+        "ex": "We cannot discuss that today because it's not on the agenda.",
+        "ipaExTrans": "wiː ˈkænɒt dɪsˈkʌs ðæt təˈdeɪ bɪˈkɒz ɪts nɒt ɒn ði əˈʤɛndə.",
+        "exMeaning": "Chúng ta không thể thảo luận việc đó hôm nay vì nó không có trong chương trình nghị sự."
+    },
+    {
+        "word": "anxious",
+        "type": "adj",
+        "ipa": "ˈæŋkʃəs",
+        "meaning": "lo lắng, hồi hộp, nôn nóng, háo hức",
+        "ex": "We are anxious to talk about it as soon as posible.",
+        "ipaExTrans": "wiː ɑːr ˈæŋkʃəs tuː tɔːk əˈbaʊt ɪt æz suːn æz ˈpɒsəbl.",
+        "exMeaning": "Chúng tôi háo hức nói về nó càng sớm càng tốt."
+    },
+    {
+        "word": "ascertain",
+        "type": "v",
+        "ipa": "ˌæsəˈteɪn",
+        "meaning": "biết chắc, tìm hiểu chắc chắn, xác định",
+        "ex": "We need to ascertain what the problem is, so we can fix it.",
+        "ipaExTrans": "wiː niːd tuː ˌæsəˈteɪn wɒt ðə ˈprɒbləm ɪz, səʊ wiː kæn fɪks ɪt.",
+        "exMeaning": "Chúng tôi cần xác định xem sự cố là gì để chúng tôi có thể sửa nó."
+    },
+    {
+        "word": "assume",
+        "type": "v",
+        "ipa": "əˈsjuːm",
+        "meaning": "giả định, giả thuyết, cho rằng",
+        "ex": "I assume everyone knows why I have called this meeting.",
+        "ipaExTrans": "aɪ əˈsjuːm ˈɛvrɪwʌn nəʊz waɪ aɪ hæv kɔːld ðɪs ˈmiːtɪŋ.",
+        "exMeaning": "Tôi cho rằng mọi người hiểu tại sao tôi triệu tập cuộc họp này."
+    },
+    {
+        "word": "brand",
+        "type": "n",
+        "ipa": "brænd",
+        "meaning": "nhãn hiệu",
+        "ex": "There is a new brand on the market, and we need to discuss how it will affect us.",
+        "ipaExTrans": "ðeər ɪz ə njuː brænd ɒn ðə ˈmɑːkɪt, ænd wiː niːd tuː dɪsˈkʌs haʊ ɪt wɪl əˈfɛkt ʌs.",
+        "exMeaning": "Có một nhãn hiệu mới trên thị trường và chúng ta cần thảo luận xem nó ảnh hưởng đến chúng ta như thế nào."
+    },
+    {
+        "word": "conclude",
+        "type": "v",
+        "ipa": "kənˈkluːd",
+        "meaning": "kết luận, kết thúc",
+        "ex": "Well, if no one has anything else to say, let's conclude the meeting.",
+        "ipaExTrans": "wɛl, ɪf nəʊ wʌn hæz ˈɛnɪθɪŋ ɛls tuː seɪ, lɛts kənˈkluːd ðə ˈmiːtɪŋ.",
+        "exMeaning": "Nếu không ai nói gì nữa thì chúng ta hãy kết thúc buổi họp."
+    },
+    {
+        "word": "goal",
+        "type": "n",
+        "ipa": "gəʊl",
+        "meaning": "mục tiêu",
+        "ex": "The goal of this meeting is to decide on a new look for our product.",
+        "ipaExTrans": "ðə gəʊl ɒv ðɪs ˈmiːtɪŋ ɪz tuː dɪˈsaɪd ɒn ə njuː lʊk fɔːr ˈaʊə ˈprɒdʌkt.",
+        "exMeaning": "Mục tiêu của buổi họp này là để quyết định chọn diện mạo mới cho sản phẩm của chúng ta."
+    },
+    {
+        "word": "lengthy",
+        "type": "adj",
+        "ipa": "ˈlɛŋθi",
+        "meaning": "dài, lâu",
+        "ex": "It was a lengthy meeting, but a good one.",
+        "ipaExTrans": "ɪt wɒz ə ˈlɛŋθi ˈmiːtɪŋ, bʌt ə gʊd wʌn.",
+        "exMeaning": "Nó là một buổi họp dài dòng nhưng hay."
+    },
+    {
+        "word": "lobby",
+        "type": "v",
+        "ipa": "ˈlɒbi",
+        "meaning": "vận động hành lang",
+        "ex": "It sounds like you are lobbying to fire the general manager.",
+        "ipaExTrans": "ɪt saʊndz laɪk juː ɑː ˈlɒbiɪŋ tuː ˈfaɪə ðə ˈʤɛnərəl ˈmænɪʤə.",
+        "exMeaning": "Có vẻ như bạn đang vận động hành lang để sa thải tổng giám đốc."
+    },
+    {
+        "word": "matter",
+        "type": "n",
+        "ipa": "ˈmætə",
+        "meaning": "vấn đề, chủ đề",
+        "ex": "There is another matter I would like to discuss.",
+        "ipaExTrans": "ðeər ɪz əˈnʌðə ˈmætər aɪ wʊd laɪk tuː dɪsˈkʌs.",
+        "exMeaning": "Có một chủ đề khác tôi muốn thảo luận."
+    },
+    {
+        "word": "option",
+        "type": "n",
+        "ipa": "ˈɒpʃən",
+        "meaning": "sự lựa chọn, tùy chọn",
+        "ex": "We have the option of delivering the order on Tuesday or Thursday.",
+        "ipaExTrans": "wiː hæv ði ˈɒpʃən ɒv dɪˈlɪvərɪŋ ði ˈɔːdər ɒn ˈtjuːzdeɪ ɔː ˈθɜːzdeɪ.",
+        "exMeaning": "Chúng ta có sự lựa chọn giao hàng vào thứ Ba hoặc thứ Năm."
+    },
+    {
+        "word": "periodically",
+        "type": "adv",
+        "ipa": "ˌpɪərɪˈɒdɪkəli",
+        "meaning": "một cách định kỳ",
+        "ex": "We have meetings periodically, but not on a fixed schedule.",
+        "ipaExTrans": "wiː hæv ˈmiːtɪŋz ˌpɪərɪˈɒdɪkəli, bʌt nɒt ɒn ə fɪkst ˈʃɛdjuːl.",
+        "exMeaning": "Chúng tôi có buổi họp định kỳ nhưng không phải theo lịch cố định."
+    },
+    {
+        "word": "progress",
+        "type": "n",
+        "ipa": "ˈprəʊgrəs",
+        "meaning": "sự tiến bộ",
+        "ex": "We didn't make much progress at the last meeting, so I hope we can be more successful this time.",
+        "ipaExTrans": "wiː dɪdnt meɪk mʌʧ ˈprəʊgrəs æt ðə lɑːst ˈmiːtɪŋ, səʊ aɪ həʊp wiː kæn biː mɔː səkˈsɛsfʊl ðɪs taɪm.",
+        "exMeaning": "Chúng ta không có nhiều tiến bộ tại buổi họp trước vì vậy tôi hy vọng chúng ta có thể thành công hơn vào lần này."
+    },
+    {
+        "word": "solve",
+        "type": "v",
+        "ipa": "sɒlv",
+        "meaning": "giải quyết",
+        "ex": "You can solve many problems by discussing them with coworkers.",
+        "ipaExTrans": "juː kæn sɒlv ˈmɛni ˈprɒbləmz baɪ dɪsˈkʌsɪŋ ðɛm wɪð ˌkəʊˈwɜːkəz.",
+        "exMeaning": "Bạn có thể giải quyết nhiều vấn đề bằng cách thảo luận với đồng nghiệp."
+    }
+]

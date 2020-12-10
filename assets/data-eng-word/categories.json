@@ -4,5 +4,6 @@
     {"id": 101, "position": 101, "name": "[750 words] 2. Offices Issues (Hành chính văn phòng)", "date": "21/08/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-2-offices-issues.json", "wShow": true, "eShow": true},
     {"id": 102, "position": 102, "name": "[750 words] 3. Personnel (Nhân sự)", "date": "21/08/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-3-personnel.json", "wShow": true, "eShow": true},
     {"id": 103, "position": 103, "name": "[750 words] 4. Purchasing (Mua hàng)", "date": "10/11/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-4-purchasing.json", "wShow": true, "eShow": true},
-    {"id": 104, "position": 104, "name": "[750 words] 5. Finance and Budgeting (Tài chính và Ngân sách)", "date": "02/12/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-5-finance-and-budgeting.json", "wShow": true, "eShow": true}
+    {"id": 104, "position": 104, "name": "[750 words] 5. Finance and Budgeting (Tài chính và Ngân sách)", "date": "02/12/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-5-finance-and-budgeting.json", "wShow": true, "eShow": true},
+    {"id": 105, "position": 105, "name": "[750 words] 6. Management Issues (Vấn đề quản lý)", "date": "10/12/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-6-management-issues.json", "wShow": true, "eShow": true}
 ]

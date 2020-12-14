@@ -1,0 +1,380 @@
+[
+    {
+        "word": "appeal",
+        "type": "v",
+        "ipa": "əˈpiːl",
+        "meaning": "thu hút, cuốn hút",
+        "ex": "This restaurant appeals to people with lots of money to spend.",
+        "ipaExTrans": "ðɪs ˈrɛstrɒnt əˈpiːlz tuː ˈpiːpl wɪð lɒts ɒv ˈmʌni tuː spɛnd.",
+        "exMeaning": "Nhà hàng này thu hút người ta tiêu nhiều tiền."
+    },
+    {
+        "word": "culinary",
+        "type": "adj",
+        "ipa": "ˈkʌlɪnəri",
+        "meaning": "thuộc về nhà bếp",
+        "ex": "The banquet was a culinary success; everyone thought the food was amazing.",
+        "ipaExTrans": "ðə ˈbæŋkwɪt wɒz ə ˈkʌlɪnəri səkˈsɛs; ˈɛvrɪwʌn θɔːt ðə fuːd wɒz əˈmeɪzɪŋ.",
+        "exMeaning": "Buổi tiệc lớn là một thành công của nhà bếp; mọi người nghĩ thức ăn thật ngon."
+    },
+    {
+        "word": "delivery",
+        "type": "n",
+        "ipa": "dɪˈlɪvəri",
+        "meaning": "sự phân phối, sự phân phát",
+        "ex": "We are waiting for the delivery of the chairs.",
+        "ipaExTrans": "wiː ɑː ˈweɪtɪŋ fɔː ðə dɪˈlɪvəri ɒv ðə ʧeəz.",
+        "exMeaning": "Chúng tôi chờ giao những chiếc ghế này."
+    },
+    {
+        "word": "elegance",
+        "type": "n",
+        "ipa": "ˈɛlɪgəns",
+        "meaning": "sự tao nhã, sự nhã nhặn",
+        "ex": "I love the elegance of a five-star hotel.",
+        "ipaExTrans": "aɪ lʌv ði ˈɛlɪgəns ɒv ə faɪv-stɑː həʊˈtɛl.",
+        "exMeaning": "Tôi yêu nét tao nhã của khách sạn năm sao."
+    },
+    {
+        "word": "impress",
+        "type": "v",
+        "ipa": "ˈɪmprɛs",
+        "meaning": "tạo ấn tượng",
+        "ex": "If you want to impress your wedding guests, you should hold an expensive banquet.",
+        "ipaExTrans": "ɪf juː wɒnt tuː ˈɪmprɛs jɔː ˈwɛdɪŋ gɛsts, juː ʃʊd həʊld ən ɪksˈpɛnsɪv ˈbæŋkwɪt.",
+        "exMeaning": "Nếu bạn muốn tạo ấn tượng cho khách dự tiệc cưới của bạn thì bạn nên tổ chức một buộc tiệc lớn đắt tiền."
+    },
+    {
+        "word": "majority",
+        "type": "n",
+        "ipa": "məˈʤɒrɪti",
+        "meaning": "đa số",
+        "ex": "The majority of the people we invited are going to attend.",
+        "ipaExTrans": "ðə məˈʤɒrɪti ɒv ðə ˈpiːpl wiː ɪnˈvaɪtɪd ɑː ˈgəʊɪŋ tuː əˈtɛnd.",
+        "exMeaning": "Đa số những người chúng tôi mời đều đến tham dự."
+    },
+    {
+        "word": "plan",
+        "type": "v",
+        "ipa": "plæn",
+        "meaning": "hoạch định, dự kiến",
+        "ex": "The bride and groom planned their wedding a year in advance.",
+        "ipaExTrans": "ðə braɪd ænd grʊm plænd ðeə ˈwɛdɪŋ ə jɪər ɪn ədˈvɑːns.",
+        "exMeaning": "Cô dâu và chú rể hoạch định cho đám cưới của họ một năm trước."
+    },
+    {
+        "word": "predict",
+        "type": "v",
+        "ipa": "prɪˈdɪkt",
+        "meaning": "dự đoán, tiên đoán",
+        "ex": "It's difficult to predict how much food you'll need for a banquet.",
+        "ipaExTrans": "ɪts ˈdɪfɪkəlt tuː prɪˈdɪkt haʊ mʌʧ fuːd juːl niːd fɔːr ə ˈbæŋkwɪt.",
+        "exMeaning": "Thật khó để dự đoán một buổi tiệc lớn cần bao nhiêu thức ăn."
+    },
+    {
+        "word": "theme",
+        "type": "n",
+        "ipa": "θiːm",
+        "meaning": "chủ đề, chủ điểm",
+        "ex": "This banquet has a Halloween theme, so you should wear a costume.",
+        "ipaExTrans": "ðɪs ˈbæŋkwɪt hæz ə ˌhæləʊˈiːn θiːm, səʊ juː ʃʊd weər ə ˈkɒstjuːm.",
+        "exMeaning": "Buổi tiệc lớn này có chủ đề Halloween, vì thế bạn nên mặc trang phục."
+    },
+    {
+        "word": "basic",
+        "type": "adj",
+        "ipa": "ˈbeɪsɪk",
+        "meaning": "cơ bản, đơn giản nhất",
+        "ex": "I just want something basic, like a sandwich or noodles.",
+        "ipaExTrans": "aɪ ʤʌst wɒnt ˈsʌmθɪŋ ˈbeɪsɪk, laɪk ə ˈsænwɪʤ ɔː ˈnuːdlz.",
+        "exMeaning": "Tôi chỉ muốn thứ gì đơn giản, giống như bánh mì sandwich hay mì."
+    },
+    {
+        "word": "familiar",
+        "type": "adj",
+        "ipa": "fəˈmɪliə",
+        "meaning": "quen thuộc, thân thiết",
+        "ex": "Are you familiar with this cafe?",
+        "ipaExTrans": "ɑː juː fəˈmɪliə wɪð ðɪs ˈkæfeɪ?",
+        "exMeaning": "Bạn quen với quán cà phê này ah?"
+    },
+    {
+        "word": "flavor",
+        "type": "n",
+        "ipa": "ˈfleɪvə",
+        "meaning": "hương vị",
+        "ex": "What flavor of ice cream would you like?",
+        "ipaExTrans": "wɒt ˈfleɪvər ɒv aɪs kriːm wʊd juː laɪk?",
+        "exMeaning": "Bạn thích hương kem nào?"
+    },
+    {
+        "word": "ingredient",
+        "type": "n",
+        "ipa": "ɪnˈgriːdiənt",
+        "meaning": "nguyên liệu, thành phần",
+        "ex": "What are the ingredients of this amazing cake?",
+        "ipaExTrans": "wɒt ɑː ði ɪnˈgriːdiənts ɒv ðɪs əˈmeɪzɪŋ keɪk?",
+        "exMeaning": "Nguyên liệu của chiếc bánh ngon này là gì?"
+    },
+    {
+        "word": "randomly",
+        "type": "adv",
+        "ipa": "ˈrændəmli",
+        "meaning": "tình cờ, ngẫu nhiên",
+        "ex": "I just randomly chose this place, but the food is actually quite good.",
+        "ipaExTrans": "aɪ ʤʌst ˈrændəmli ʧəʊz ðɪs pleɪs, bʌt ðə fuːd ɪz ˈækʧʊəli kwaɪt gʊd.",
+        "exMeaning": "Tôi chỉ tình cờ chọn nơi này, nhưng thức ăn thật sự ngon."
+    },
+    {
+        "word": "suggestion",
+        "type": "n",
+        "ipa": "səˈʤɛsʧən",
+        "meaning": "sự đề nghị",
+        "ex": "I'll go with your suggestion and take the vegetarian pizza.",
+        "ipaExTrans": "aɪl gəʊ wɪð jɔː səˈʤɛsʧən ænd teɪk ðə ˌvɛʤɪˈteərɪən ˈpiːtsə.",
+        "exMeaning": "Tôi sẽ đi theo sự đề nghị của bạn và mang theo bánh pizza chay."
+    },
+    {
+        "word": "arrive",
+        "type": "v",
+        "ipa": "əˈraɪv",
+        "meaning": "đến",
+        "ex": "The quests have started to arrive.",
+        "ipaExTrans": "ðə kwɛsts hæv ˈstɑːtɪd tuː əˈraɪv.",
+        "exMeaning": "Khách bắt đầu đến."
+    },
+    {
+        "word": "assist",
+        "type": "v",
+        "ipa": "əˈsɪst",
+        "meaning": "giúp, trợ giúp",
+        "ex": "Can you assist Carol with the scheduling?",
+        "ipaExTrans": "kæn juː əˈsɪst ˈkærəl wɪð ðə ˈʃɛdjuːlɪŋ?",
+        "exMeaning": "Bạn có thể giúp Carol lên kế hoạch không?"
+    },
+    {
+        "word": "burden",
+        "type": "v",
+        "ipa": "ˈbɜːdn",
+        "meaning": "đè nặng, chất nặng",
+        "ex": "Can I burden you with a favor?",
+        "ipaExTrans": "kæn aɪ ˈbɜːdn juː wɪð ə ˈfeɪvə?",
+        "exMeaning": "Bạn có thể làm ơn giúp giùm tôi được không?"
+    },
+    {
+        "word": "commonly",
+        "type": "adv",
+        "ipa": "ˈkɒmənli",
+        "meaning": "thường thường, lắm khi",
+        "ex": "Wedding receptions are commonly held in hotels.",
+        "ipaExTrans": "ˈwɛdɪŋ rɪˈsɛpʃənz ɑː ˈkɒmənli hɛld ɪn həʊˈtɛlz.",
+        "exMeaning": "Các tiệc cưới thường được tổ chức trong khách sạn."
+    },
+    {
+        "word": "individual",
+        "type": "adj",
+        "ipa": "ˌɪndɪˈvɪdjʊəl",
+        "meaning": "cá nhân, riêng tư",
+        "ex": "The entire staff received individual invitations to the party.",
+        "ipaExTrans": "ði ɪnˈtaɪə stɑːf rɪˈsiːvd ˌɪndɪˈvɪdjʊəl ˌɪnvɪˈteɪʃənz tuː ðə ˈpɑːti.",
+        "exMeaning": "Toàn bộ nhân viên nhận lời mời riêng đến bữa tiệc."
+    },
+    {
+        "word": "list",
+        "type": "n",
+        "ipa": "lɪst",
+        "meaning": "danh sách",
+        "ex": "There are almost a hundred people on our wedding list.",
+        "ipaExTrans": "ðeər ɑːr ˈɔːlməʊst ə ˈhʌndrəd ˈpiːpl ɒn ˈaʊə ˈwɛdɪŋ lɪst.",
+        "exMeaning": "Có gần 100 người trong danh sách tiệc cưới của chúng tôi."
+    },
+    {
+        "word": "mix",
+        "type": "v",
+        "ipa": "mɪks",
+        "meaning": "sống hòa hợp với người khác, hòa đồng",
+        "ex": "Receptions are a great place for people to mix.",
+        "ipaExTrans": "rɪˈsɛpʃənz ɑːr ə greɪt pleɪs fɔː ˈpiːpl tuː mɪks.",
+        "exMeaning": "Tiệc chiêu đãi là một nơi tuyệt vời để mọi người giao thiệp với nhau."
+    },
+    {
+        "word": "profession",
+        "type": "n",
+        "ipa": "prəˈfɛʃən",
+        "meaning": "nghề, nghề nghiệp",
+        "ex": "Anne enjoys her profession as a party planner.",
+        "ipaExTrans": "æn ɪnˈʤɔɪz hɜː prəˈfɛʃən æz ə ˈpɑːti ˈplænə.",
+        "exMeaning": "Anne thích nghề làm người tổ chức tiệc."
+    },
+    {
+        "word": "demand",
+        "type": "v",
+        "ipa": "dɪˈmɑːnd",
+        "meaning": "đòi hỏi, yêu cầu",
+        "ex": "But we booked the table a week ago! I demand to see the manager.",
+        "ipaExTrans": "bʌt wiː bʊkt ðə ˈteɪbl ə wiːk əˈgəʊ! aɪ dɪˈmɑːnd tuː siː ðə ˈmænɪʤə.",
+        "exMeaning": "Nhưng chúng tôi đã đặt bàn cách đây một tuần! Tôi yêu cầu được gặp giám đốc."
+    },
+    {
+        "word": "forget",
+        "type": "v",
+        "ipa": "fəˈgɛt",
+        "meaning": "quên",
+        "ex": "Did you forget to make a reservation?",
+        "ipaExTrans": "dɪd juː fəˈgɛt tuː meɪk ə ˌrɛzəˈveɪʃən?",
+        "exMeaning": "Bạn quên đặt chỗ trước phải không?"
+    },
+    {
+        "word": "mix-up",
+        "type": "n",
+        "ipa": "ˈmɪksˈʌp",
+        "meaning": "sự lẫn lộn, sự hỗn loạn, cuộc ẩu đả",
+        "ex": "There seems to be a mix-up: you gave us a table near the kitchen, but we wanted a table near the window.",
+        "ipaExTrans": "ðeə siːmz tuː biː ə ˈmɪksˈʌp: juː geɪv ʌs ə ˈteɪbl nɪə ðə ˈkɪʧɪn, bʌt wiː ˈwɒntɪd ə ˈteɪbl nɪə ðə ˈwɪndəʊ.",
+        "exMeaning": "Dường như có sự lẫn lộn: bạn dành cho chúng tôi bàn gần nhà bếp nhưng chúng tôi muốn một bàn gần cửa sổ."
+    },
+    {
+        "word": "patron",
+        "type": "n",
+        "ipa": "ˈpeɪtrən",
+        "meaning": "khách hàng quen, người bảo trợ",
+        "ex": "Patrons of the hotel can park their cars for free.",
+        "ipaExTrans": "ˈpeɪtrənz ɒv ðə həʊˈtɛl kæn pɑːk ðeə kɑːz fɔː friː.",
+        "exMeaning": "Khách hàng quen của khách sạn có thể đậu xe miễn phí."
+    },
+    {
+        "word": "relinquish",
+        "type": "v",
+        "ipa": "rɪˈlɪŋkwɪʃ",
+        "meaning": "bỏ, từ bỏ, từ chức, nhường",
+        "ex": "Andy relinquished his seat to a quest who was waiting.",
+        "ipaExTrans": "ˈændi rɪˈlɪŋkwɪʃt hɪz siːt tuː ə kwɛst huː wɒz ˈweɪtɪŋ.",
+        "exMeaning": "Andy nhường chỗ của anh cho người khách đang chờ."
+    },
+    {
+        "word": "remind",
+        "type": "v",
+        "ipa": "ˈrɪmaɪnd",
+        "meaning": "nhắc, nhắc nhở",
+        "ex": "The waiter forgets my drink; I need to remind him.",
+        "ipaExTrans": "ðə ˈweɪtə fəˈgɛts maɪ drɪŋk; aɪ niːd tuː ˈrɪmaɪnd hɪm.",
+        "exMeaning": "Người phục vụ đã quên thức uống của tôi; tôi cần nhắc anh ấy."
+    },
+    {
+        "word": "secure",
+        "type": "v",
+        "ipa": "sɪˈkjʊə",
+        "meaning": "bảo đảm",
+        "ex": "You have to pay now to secure the reservation.",
+        "ipaExTrans": "juː hæv tuː peɪ naʊ tuː sɪˈkjʊə ðə ˌrɛzəˈveɪʃən.",
+        "exMeaning": "Bạn phải trả bây giờ để bảo đảm chỗ đặt trước."
+    },
+    {
+        "word": "complete",
+        "type": "adj",
+        "ipa": "kəmˈpliːt",
+        "meaning": "hoàn toàn, trọn vẹn",
+        "ex": "The event was a complete success.",
+        "ipaExTrans": "ði ɪˈvɛnt wɒz ə kəmˈpliːt səkˈsɛs.",
+        "exMeaning": "Sự kiện này là một thành công trọn vẹn."
+    },
+    {
+        "word": "coordinate",
+        "type": "v",
+        "ipa": "kəʊˈɔːdnɪt",
+        "meaning": "xếp đặt, phối hợp, điều hành",
+        "ex": "For the event to be successful, we need to coordinate everything with the caterers.",
+        "ipaExTrans": "fɔː ði ɪˈvɛnt tuː biː səkˈsɛsfʊl, wiː niːd tuː kəʊˈɔːdnɪt ˈɛvrɪθɪŋ wɪð ðə ˈkeɪtərəz.",
+        "exMeaning": "Để sự kiện thành công, chúng ta cần phối hợp mọi việc với những người quản lý khách sạn."
+    },
+    {
+        "word": "daringly",
+        "type": "adv",
+        "ipa": "ˈdeərɪŋli",
+        "meaning": "có vẻ gan dạ, liều lĩnh",
+        "ex": "She daringly invited the mayor to the party.",
+        "ipaExTrans": "ʃiː ˈdeərɪŋli ɪnˈvaɪtɪd ðə meə tuː ðə ˈpɑːti.",
+        "exMeaning": "Cô ấy liều lĩnh mời thị trưởng đến dự tiệc."
+    },
+    {
+        "word": "exact",
+        "type": "adj",
+        "ipa": "ɪgˈzækt",
+        "meaning": "chính xác",
+        "ex": "The band played the exact same music as last time!",
+        "ipaExTrans": "ðə bænd pleɪd ði ɪgˈzækt seɪm ˈmjuːzɪk æz lɑːst taɪm!",
+        "exMeaning": "Ban nhạc chơi cùng một loại nhạc như lúc trước."
+    },
+    {
+        "word": "excite",
+        "type": "v",
+        "ipa": "ɪkˈsaɪt",
+        "meaning": "kích thích, kích động",
+        "ex": "Fireworks always excite a crowd.",
+        "ipaExTrans": "ˈfaɪəwɜːks ˈɔːlweɪz ɪkˈsaɪt ə kraʊd.",
+        "exMeaning": "Pháo hoa luôn làm đám đông kích động."
+    },
+    {
+        "word": "general",
+        "type": "adj",
+        "ipa": "ˈʤɛnərəl",
+        "meaning": "chung, phổ biến",
+        "ex": "There was general agreement that this was the best party of the year.",
+        "ipaExTrans": "ðeə wɒz ˈʤɛnərəl əˈgriːmənt ðæt ðɪs wɒz ðə bɛst ˈpɑːti ɒv ðə jɪə.",
+        "exMeaning": "Có một sự đồng ý chung rằng đây là bữa tiệc tuyệt vời nhất của năm."
+    },
+    {
+        "word": "guide",
+        "type": "n",
+        "ipa": "gaɪd",
+        "meaning": "hướng dẫn viên",
+        "ex": "The restaurant guide gave this place a high rating.",
+        "ipaExTrans": "ðə ˈrɛstrɒnt gaɪd geɪv ðɪs pleɪs ə haɪ ˈreɪtɪŋ.",
+        "exMeaning": "Hướng dẫn viên của khách sạn đánh giá cao nơi này."
+    },
+    {
+        "word": "ideally",
+        "type": "adv",
+        "ipa": "aɪˈdɪəli",
+        "meaning": "một cách lý tưởng",
+        "ex": "Ideally, the banquet should start at 4:00 p.m.",
+        "ipaExTrans": "aɪˈdɪəli, ðə ˈbæŋkwɪt ʃʊd stɑːt æt 4:00 piː.ɛm.",
+        "exMeaning": "Buổi tiệc lớn này nên bắt đầu lúc 4 giờ chiều là lý tưởng nhất."
+    },
+    {
+        "word": "incorporate",
+        "type": "v",
+        "ipa": "ɪnˈkɔːpərɪt",
+        "meaning": "sáp nhập, kết hợp chặt chẽ",
+        "ex": "It would be great if we could incorporate the presentation into our event.",
+        "ipaExTrans": "ɪt wʊd biː greɪt ɪf wiː kʊd ɪnˈkɔːpərɪt ðə ˌprɛzɛnˈteɪʃən ˈɪntuː ˈaʊər ɪˈvɛnt.",
+        "exMeaning": "Thật tuyệt vời nếu chúng ta kết hợp diễn thuyết trong sự kiện của chúng ta."
+    },
+    {
+        "word": "judge",
+        "type": "v",
+        "ipa": "ˈʤʌʤ",
+        "meaning": "phán đoán, đánh giá, phân xử",
+        "ex": "It's difficult to judge what kind of music to play at these events.",
+        "ipaExTrans": "ɪts ˈdɪfɪkəlt tuː ˈʤʌʤ wɒt kaɪnd ɒv ˈmjuːzɪk tuː pleɪ æt ðiːz ɪˈvɛnts.",
+        "exMeaning": "Thật khó để phán đoán loại nhạc nào để chơi trong những sự kiện này."
+    },
+    {
+        "word": "rely",
+        "type": "v",
+        "ipa": "rɪˈlaɪ",
+        "meaning": "dựa vào, tin vào, cậy vào",
+        "ex": "You can rely on Judy to get everything done on time.",
+        "ipaExTrans": "juː kæn rɪˈlaɪ ɒn ˈʤuːdi tuː gɛt ˈɛvrɪθɪŋ dʌn ɒn taɪm.",
+        "exMeaning": "Bạn có thể dựa vào Judy để hoàn thành mọi việc đúng giờ."
+    },
+    {
+        "word": "stage",
+        "type": "n",
+        "ipa": "steɪʤ",
+        "meaning": "sân khấu",
+        "ex": "The singer will be on stage soon.",
+        "ipaExTrans": "ðə ˈsɪŋə wɪl biː ɒn steɪʤ suːn.",
+        "exMeaning": "Ca sĩ sẽ lên sân khấu ngay."
+    }
+]

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1607961163131,
+  "timestamp": 1608659228070,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -189,6 +189,7 @@
         "/assets/data-eng-word/750-5-finance-and-budgeting.json",
         "/assets/data-eng-word/750-6-management-issues.json",
         "/assets/data-eng-word/750-7-restaurants-and-events.json",
+        "/assets/data-eng-word/750-8-travel.json",
         "/assets/data-eng-word/Common.1500.noun.p1.json",
         "/assets/data-eng-word/Common.1500.noun.p2.json",
         "/assets/data-eng-word/Common.1500.noun.p3.json",
@@ -998,6 +999,7 @@
     "/assets/data-eng-word/750-5-finance-and-budgeting.json": "9394dce6ad258cf9fa40c43b7ba21e0e6257a5bd",
     "/assets/data-eng-word/750-6-management-issues.json": "791d9d53f58c3b53a932df8fc14348929b91dc8e",
     "/assets/data-eng-word/750-7-restaurants-and-events.json": "483bd776d65ed7daa1a579a8b7e4049aff44c3dd",
+    "/assets/data-eng-word/750-8-travel.json": "958c092a5b0b9f35b287ffb2c7acbc564ebd8e16",
     "/assets/data-eng-word/Common.1500.noun.p1.json": "1eb7508388d21a81d932c8e9535bdf4f8ab51f84",
     "/assets/data-eng-word/Common.1500.noun.p2.json": "3200fed975fab8cf32819dff3f7b021aa16984f0",
     "/assets/data-eng-word/Common.1500.noun.p3.json": "35c387ae0200ec5333477504519c1185ddf3e170",
@@ -1098,7 +1100,7 @@
     "/assets/data-eng-word/Uncountable.Nouns.p3.json": "1da0541eb962b16f879e210df10033589ae79b4a",
     "/assets/data-eng-word/Uncountable.Nouns.p4.json": "3ac5e2d8d8c18f7c7d03bd79b14b2d41ff88b398",
     "/assets/data-eng-word/Uncountable.Nouns.p5.json": "ce16908385622deb9ed9df425c63f43241aa3d6c",
-    "/assets/data-eng-word/categories.json": "e1f2789bfa03bf77aa2b279982e091e2e565f1aa",
+    "/assets/data-eng-word/categories.json": "5c8c9655a6d84bb2898e9313f9b5d3223411aee9",
     "/assets/data-eng-word/categories_BACKUP.json": "71319c640460e5b7ee5258e7039296350cc6ab61",
     "/assets/data-eng-word/grammar-cac-chu-diem-ngu-phap-01.json": "aa8dfbe6fea377820ea1380ab411ca48283b163d",
     "/assets/data-eng-word/toeic.vocab.group1.json": "60fbef73902b812efa06530a10ff682545736512",

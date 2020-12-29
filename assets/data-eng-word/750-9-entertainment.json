@@ -1,0 +1,434 @@
+[
+    {
+        "word": "action",
+        "type": "n",
+        "ipa": "ˈækʃ(ə)n",
+        "meaning": "hành động, hành vi",
+        "ex": "I don't like action movies very much; there's always too much fighting.",
+        "ipaExTrans": "aɪ dəʊnt laɪk ˈækʃ(ə)n ˈmuːviz ˈvɛri mʌʧ; ðeəz ˈɔːlweɪz tuː mʌʧ ˈfaɪtɪŋ.",
+        "exMeaning": "Tôi không thích phim hành động lắm; lúc nào cũng có quá nhiều cảnh đánh nhau."
+    },
+    {
+        "word": "admire",
+        "type": "v",
+        "ipa": "ədˈmaɪə",
+        "meaning": "hâm mộ, ngưỡng mộ",
+        "ex": "I really admire this actor because all his movies are great.",
+        "ipaExTrans": "aɪ ˈrɪəli ədˈmaɪə ðɪs ˈæktə bɪˈkɒz ɔːl hɪz ˈmuːviz ɑː greɪt.",
+        "exMeaning": "Tôi thực sự hâm mộ nam diễn viên này vì tất cả phim của anh ấy đều hay."
+    },
+    {
+        "word": "collection",
+        "type": "n",
+        "ipa": "kəˈlɛkʃən",
+        "meaning": "sự sưu tập, sự thu thập",
+        "ex": "I have a collection of nature DVDs.",
+        "ipaExTrans": "aɪ hæv ə kəˈlɛkʃən ɒv ˈneɪʧə diː-viː-diːz.",
+        "exMeaning": "Tôi có bộ sưu tập những DVD gốc."
+    },
+    {
+        "word": "dialogue",
+        "type": "n",
+        "ipa": "ˈdaɪəlɒg",
+        "meaning": "cuộc đối thoại",
+        "ex": "There wasn't much dialogue in that new kungfu movie.",
+        "ipaExTrans": "ðeə wɒznt mʌʧ ˈdaɪəlɒg ɪn ðæt njuː kungfu ˈmuːvi.",
+        "exMeaning": "Không có nhiều cuộc đối thoại trong phim kung fu mới."
+    },
+    {
+        "word": "intertainment",
+        "type": "n",
+        "ipa": "intertainment",
+        "meaning": "cuộc giải trí, cuộc tiêu khiển",
+        "ex": "Movies are my favorite kind of entertainment.",
+        "ipaExTrans": "ˈmuːviz ɑː maɪ ˈfeɪvərɪt kaɪnd ɒv ˌɛntəˈteɪnmənt.",
+        "exMeaning": "Phim là kiểu giải trí ưu thích nhất của tôi."
+    },
+    {
+        "word": "experience",
+        "type": "n",
+        "ipa": "ɪksˈpɪərɪəns",
+        "meaning": "kinh nghiệm, trải nghiệm",
+        "ex": "For me, seeing movies is a really enjoyable experience.",
+        "ipaExTrans": "fɔː miː, ˈsiːɪŋ ˈmuːviz ɪz ə ˈrɪəli ɪnˈʤɔɪəbl ɪksˈpɪərɪəns.",
+        "exMeaning": "Đối với tôi, xem phim là một trải nghiệm thực sự thú vị."
+    },
+    {
+        "word": "leisure",
+        "type": "adj",
+        "ipa": "ˈlɛʒə",
+        "meaning": "nhàn rỗi, rảnh rỗi",
+        "ex": "One of my favorite leisure activities is watching movies.",
+        "ipaExTrans": "wʌn ɒv maɪ ˈfeɪvərɪt ˈlɛʒər ækˈtɪvɪtiz ɪz ˈwɒʧɪŋ ˈmuːviz.",
+        "exMeaning": "Một trong những hoạt động ưa thích nhất của tôi lúc rảnh rỗi là xem phim."
+    },
+    {
+        "word": "release",
+        "type": "v",
+        "ipa": "rɪˈliːs",
+        "meaning": "phóng thích, phát hành, đưa ra bán",
+        "ex": "When will the movie be released in Taiwan?",
+        "ipaExTrans": "wɛn wɪl ðə ˈmuːvi biː rɪˈliːst ɪn ˈtaɪˈwɑːn?",
+        "exMeaning": "Khi nào bộ phim được công chiếu ở Đài Loan?"
+    },
+    {
+        "word": "audience",
+        "type": "n",
+        "ipa": "ˈɔːdiəns",
+        "meaning": "khán giả, tính giả",
+        "ex": "The audience enjoyed the play.",
+        "ipaExTrans": "ði ˈɔːdiəns ɪnˈʤɔɪd ðə pleɪ.",
+        "exMeaning": "Khán giả thích vở kịch này."
+    },
+    {
+        "word": "continue",
+        "type": "v",
+        "ipa": "kənˈtɪnju(ː)",
+        "meaning": "tiếp tục",
+        "ex": "The show will continue after the break.",
+        "ipaExTrans": "ðə ʃəʊ wɪl kənˈtɪnju(ː) ˈɑːftə ðə breɪk.",
+        "exMeaning": "Buổi diễn này sẽ tiếp tục sau giờ giải lao."
+    },
+    {
+        "word": "criticism",
+        "type": "n",
+        "ipa": "ˈkrɪtɪsɪzm",
+        "meaning": "lời phê bình, sự phê bình",
+        "ex": "The theater came under criticism for allowing people to smoke.",
+        "ipaExTrans": "ðə ˈθɪətə keɪm ˈʌndə ˈkrɪtɪsɪzm fɔːr əˈlaʊɪŋ ˈpiːpl tuː sməʊk.",
+        "exMeaning": "Nhà hát này bị phê bình vì cho phép người xem hút thuốc."
+    },
+    {
+        "word": "occur",
+        "type": "v",
+        "ipa": "əˈkɜː",
+        "meaning": "xảy ra, diễn ra, xuất hiện",
+        "ex": "The opening of the new theater should occur this summer.",
+        "ipaExTrans": "ði ˈəʊpnɪŋ ɒv ðə njuː ˈθɪətə ʃʊd əˈkɜː ðɪs ˈsʌmə.",
+        "exMeaning": "Buổi khai trương nhà hát sẽ diễn ra vào mùa hè này."
+    },
+    {
+        "word": "perform",
+        "type": "v",
+        "ipa": "pəˈfɔːm",
+        "meaning": "biểu diễn, trình diễn, cử hành",
+        "ex": "The actors performed really well.",
+        "ipaExTrans": "ði ˈæktəz pəˈfɔːmd ˈrɪəli wɛl.",
+        "exMeaning": "Các diễn viên diễn thật sự hay."
+    },
+    {
+        "word": "rehearse",
+        "type": "v",
+        "ipa": "rɪˈhɜːs",
+        "meaning": "nhắc lại, diễn tập",
+        "ex": "We need to rehearse more because we still haven't got it quite right.",
+        "ipaExTrans": "wiː niːd tuː rɪˈhɜːs mɔː bɪˈkɒz wiː stɪl hævnt gɒt ɪt kwaɪt raɪt.",
+        "exMeaning": "Chúng ta cần diễn tập nhiều hơn bởi vì chúng ta vẫn chưa diễn đúng lắm."
+    },
+    {
+        "word": "schedule",
+        "type": "v",
+        "ipa": "ˈʃɛdjuːl",
+        "meaning": "dự định, lên kế hoạch",
+        "ex": "The play is scheduled to begin next Friday.",
+        "ipaExTrans": "ðə pleɪ ɪz ˈʃɛdjuːld tuː bɪˈgɪn nɛkst ˈfraɪdeɪ.",
+        "exMeaning": "Vở kịch này dự định bắt đầu vào thứ Sáu tới."
+    },
+    {
+        "word": "successive",
+        "type": "adj",
+        "ipa": "səkˈsɛsɪv",
+        "meaning": "liên tục, liên tiếp, lần lượt",
+        "ex": "This Christmas play has been shown here for four successive years.",
+        "ipaExTrans": "ðɪs ˈkrɪsməs pleɪ hæz biːn ʃəʊn hɪə fɔː fɔː səkˈsɛsɪv jɪəz.",
+        "exMeaning": "Vở kịch Giáng Sinh này được diễn ở đây 4 năm liên tiếp."
+    },
+    {
+        "word": "available",
+        "type": "adj",
+        "ipa": "əˈveɪləbl",
+        "meaning": "sẵn có để dùng, có hiệu lực",
+        "ex": "The CD will be available in stores next month.",
+        "ipaExTrans": "ðə siː-diː wɪl biː əˈveɪləbl ɪn stɔːz nɛkst mʌnθ.",
+        "exMeaning": "Đĩa CD này sẽ có trong cửa hàng vào tháng tới."
+    },
+    {
+        "word": "category",
+        "type": "n",
+        "ipa": "ˈkætɪgəri",
+        "meaning": "loại",
+        "ex": "His music is so different that it can't be put into just one category.",
+        "ipaExTrans": "hɪz ˈmjuːzɪk ɪz səʊ ˈdɪfrənt ðæt ɪt kɑːnt biː pʊt ˈɪntuː ʤʌst wʌn ˈkætɪgəri.",
+        "exMeaning": "Nhạc của anh ấy rất khác đến nỗi không thể xếp nó vào một loại nào."
+    },
+    {
+        "word": "combine",
+        "type": "v",
+        "ipa": "ˈkɒmbaɪn",
+        "meaning": "kết hợp, phối hợp",
+        "ex": "His songs combine jazz with traditional music.",
+        "ipaExTrans": "hɪz sɒŋz ˈkɒmbaɪn ʤæz wɪð trəˈdɪʃənl ˈmjuːzɪk.",
+        "exMeaning": "Những bài hát của anh ấy phối hợp giữa nhạc jazz và nhạc dân tộc."
+    },
+    {
+        "word": "disparate",
+        "type": "adj",
+        "ipa": "ˈdɪspərɪt",
+        "meaning": "khác hẳn, khác loại",
+        "ex": "She has taken two disparate music styles and made them work very well together.",
+        "ipaExTrans": "ʃiː hæz ˈteɪkən tuː ˈdɪspərɪt ˈmjuːzɪk staɪlz ænd meɪd ðɛm wɜːk ˈvɛri wɛl təˈgɛðə.",
+        "exMeaning": "Cô ấy chơi 2 thể loại nhạc khác nhau và kết hợp chúng rất hay."
+    },
+    {
+        "word": "element",
+        "type": "n",
+        "ipa": "ˈɛlɪmənt",
+        "meaning": "yếu tố",
+        "ex": "Loud drums are just one element of the band's style.",
+        "ipaExTrans": "laʊd drʌmz ɑː ʤʌst wʌn ˈɛlɪmənt ɒv ðə bændz staɪl.",
+        "exMeaning": "Trống âm thanh lớn chỉ là một yếu tố trong phong cách của ban nhạc."
+    },
+    {
+        "word": "fashion",
+        "type": "n",
+        "ipa": "ˈfæʃən",
+        "meaning": "mốt, thời trang",
+        "ex": "Rock music isn't in fashion anymore.",
+        "ipaExTrans": "rɒk ˈmjuːzɪk ˈɪznt ɪn ˈfæʃən ˌɛniˈmɔː.",
+        "exMeaning": "Nhạc rock không còn hợp thời nữa."
+    },
+    {
+        "word": "impact",
+        "type": "n",
+        "ipa": "ˈɪmpækt",
+        "meaning": "sự ảnh hưởng, tác động",
+        "ex": "Her music has had quite an impact on the world.",
+        "ipaExTrans": "hɜː ˈmjuːzɪk hæz hæd kwaɪt ən ˈɪmpækt ɒn ðə wɜːld.",
+        "exMeaning": "Nhạc của cô ấy rất có ảnh hưởng trên thế giới."
+    },
+    {
+        "word": "influence",
+        "type": "v",
+        "ipa": "ˈɪnflʊəns",
+        "meaning": "tác động, ảnh hưởng",
+        "ex": "He was influenced by Japanese pop music.",
+        "ipaExTrans": "hiː wɒz ˈɪnflʊənst baɪ ˌʤæpəˈniːz pɒp ˈmjuːzɪk.",
+        "exMeaning": "Anh ấy bị ảnh hưởng bởi nhạc pop Nhật Bản."
+    },
+    {
+        "word": "range",
+        "type": "v",
+        "ipa": "reɪnʤ",
+        "meaning": "xếp lại, đi khắp",
+        "ex": "Her songs range from sad love songs to loud rock.",
+        "ipaExTrans": "hɜː sɒŋz reɪnʤ frɒm sæd lʌv sɒŋz tuː laʊd rɒk.",
+        "exMeaning": "Các bài hát của cô ấy bao gồm từ những bản tình ca buồn đến những bản rock sôi động."
+    },
+    {
+        "word": "relaxation",
+        "type": "n",
+        "ipa": "ˌriːlækˈseɪʃən",
+        "meaning": "sự thư giãn, sự nghỉ ngơi, sự giải trí",
+        "ex": "For relaxation, I listen to classical music.",
+        "ipaExTrans": "fɔː ˌriːlækˈseɪʃən, aɪ ˈlɪsn tuː ˈklæsɪkəl ˈmjuːzɪk.",
+        "exMeaning": "Để thư giãn, tôi nghe nhạc cổ điển."
+    },
+    {
+        "word": "sellout",
+        "type": "n",
+        "ipa": "ˈsɛlaʊt",
+        "meaning": "buổi diễn bán hết vé, sự bán đắt hàng",
+        "ex": "The popular singer's concerts were all sellouts.",
+        "ipaExTrans": "ðə ˈpɒpjʊlə ˈsɪŋəz ˈkɒnsə(ː)ts wɜːr ɔːl ˈsɛlaʊts.",
+        "exMeaning": "Các buổi nhạc của ca sĩ nổi tiếng luôn bán hết vé."
+    },
+    {
+        "word": "significant",
+        "type": "adj",
+        "ipa": "sɪgˈnɪfɪkənt",
+        "meaning": "quan trọng, chính yếu",
+        "ex": "The musician has had a significant impact on jazz music.",
+        "ipaExTrans": "ðə mju(ː)ˈzɪʃən hæz hæd ə sɪgˈnɪfɪkənt ˈɪmpækt ɒn ʤæz ˈmjuːzɪk.",
+        "exMeaning": "Nhạc sĩ này có ảnh hưởng quan trọng về nhạc jazz."
+    },
+    {
+        "word": "spectrum",
+        "type": "n",
+        "ipa": "ˈspɛktrəm",
+        "meaning": "loạt những dải âm thanh tương tự quang phổ",
+        "ex": "He can play a broad spectrum of musical instruments.",
+        "ipaExTrans": "hiː kæn pleɪ ə brɔːd ˈspɛktrəm ɒv ˈmjuːzɪkəl ˈɪnstrʊmənts.",
+        "exMeaning": "Anh ấy có thể chơi những loại nhạc cụ có quang phổ rộng."
+    },
+    {
+        "word": "taste",
+        "type": "n",
+        "ipa": "teɪst",
+        "meaning": "sự thưởng thức, sở thích, thị hiếu",
+        "ex": "Her taste in music is very strange.",
+        "ipaExTrans": "hɜː teɪst ɪn ˈmjuːzɪk ɪz ˈvɛri streɪnʤ.",
+        "exMeaning": "Thị hiếu âm nhạc của cô ấy rất lạ."
+    },
+    {
+        "word": "acquire",
+        "type": "v",
+        "ipa": "əˈkwaɪə",
+        "meaning": "đạt được, thu được, kiếm được",
+        "ex": "I have acquired a large number of very old paintings.",
+        "ipaExTrans": "aɪ hæv əˈkwaɪəd ə lɑːʤ ˈnʌmbər ɒv ˈvɛri əʊld ˈpeɪntɪŋz.",
+        "exMeaning": "Tôi thu được rất nhiều bức tranh cũ."
+    },
+    {
+        "word": "approach",
+        "type": "n",
+        "ipa": "əˈprəʊʧ",
+        "meaning": "phương pháp, cách tiếp cận",
+        "ex": "His approach to art is to paint what he feels, not what he sees.",
+        "ipaExTrans": "hɪz əˈprəʊʧ tuː ɑːt ɪz tuː peɪnt wɒt hiː fiːlz, nɒt wɒt hiː siːz.",
+        "exMeaning": "Cách tiếp cận nghệ thuật của anh ấy là vẽ những gì anh ấy nhận thấy chứ không phải những gì anh ấy nhìn thấy."
+    },
+    {
+        "word": "broaden",
+        "type": "v",
+        "ipa": "ˈbrɔːdn",
+        "meaning": "mở rộng",
+        "ex": "Studying art has really broadened my mind.",
+        "ipaExTrans": "ˈstʌdiɪŋ ɑːt hæz ˈrɪəli ˈbrɔːdnd maɪ maɪnd.",
+        "exMeaning": "Nghiên cứu nghệ thuật làm đầu óc tôi mở mang."
+    },
+    {
+        "word": "constantly",
+        "type": "adv",
+        "ipa": "ˈkɒnstəntli",
+        "meaning": "luôn luôn, liên tục, liên miên",
+        "ex": "He's constantly experimenting with new techniques.",
+        "ipaExTrans": "hiːz ˈkɒnstəntli ɪksˈpɛrɪmɛntɪŋ wɪð njuː tɛkˈniːks.",
+        "exMeaning": "Anh ấy liên tục tìm kiếm những kỹ thuật mới."
+    },
+    {
+        "word": "creative",
+        "type": "adj",
+        "ipa": "kri(ː)ˈeɪtɪv",
+        "meaning": "sáng tạo, giàu trí tưởng tượng",
+        "ex": "I'm not very creative, so I'm not very good at art.",
+        "ipaExTrans": "aɪm nɒt ˈvɛri kri(ː)ˈeɪtɪv, səʊ aɪm nɒt ˈvɛri gʊd æt ɑːt.",
+        "exMeaning": "Tôi không giàu trí tưởng tượng vì vậy tôi không giỏi về nghệ thuật."
+    },
+    {
+        "word": "disperse",
+        "type": "v",
+        "ipa": "dɪsˈpɜːs",
+        "meaning": "giải tán",
+        "ex": "The crowd began to disperse after the concert.",
+        "ipaExTrans": "ðə kraʊd bɪˈgæn tuː dɪsˈpɜːs ˈɑːftə ðə ˈkɒnsə(ː)t.",
+        "exMeaning": "Đám đông bắt đầu giải tán sau buổi nhạc."
+    },
+    {
+        "word": "in-depth",
+        "type": "adj",
+        "ipa": "ɪn-dɛpθ",
+        "meaning": "sâu sắc, hoàn toàn",
+        "ex": "We shall take an in-depth look at the art of that period.",
+        "ipaExTrans": "wiː ʃæl teɪk ən ɪn-dɛpθ lʊk æt ði ɑːt ɒv ðæt ˈpɪərɪəd.",
+        "exMeaning": "Chúng tôi sẽ xem xét kỹ nghệ thuật trong giai đoạn đó."
+    },
+    {
+        "word": "prefer",
+        "type": "v",
+        "ipa": "priˈfɜː",
+        "meaning": "thích hơn, ưa chuộng hơn",
+        "ex": "What style of art do you prefer?",
+        "ipaExTrans": "wɒt staɪl ɒv ɑːt duː juː priˈfɜː?",
+        "exMeaning": "Bạn thích loại hình nghệ thuật nào hơn?"
+    },
+    {
+        "word": "representation",
+        "type": "n",
+        "ipa": "ˌrɛprɪzɛnˈteɪʃən",
+        "meaning": "sự miêu tả, sự trình bày, sự đại diện, sự tượng trưng cho",
+        "ex": "The painting is a representation of the artist's hometown.",
+        "ipaExTrans": "ðə ˈpeɪntɪŋ ɪz ə ˌrɛprɪzɛnˈteɪʃən ɒv ði ˈɑːtɪsts ˈhəʊmˈtaʊn.",
+        "exMeaning": "Bức tranh này là một biểu trưng quê nhà của người họa sĩ."
+    },
+    {
+        "word": "subscribe",
+        "type": "v",
+        "ipa": "səbˈskraɪb",
+        "meaning": "đồng ý, tán thành",
+        "ex": "I don't really subscribe to the current idea of art.",
+        "ipaExTrans": "aɪ dəʊnt ˈrɪəli səbˈskraɪb tuː ðə ˈkʌrənt aɪˈdɪə ɒv ɑːt.",
+        "exMeaning": "Tôi thực sự không đồng ý với tư tưởng nghệ thuật hiện thời."
+    },
+    {
+        "word": "urge",
+        "type": "v",
+        "ipa": "ɜːʤ",
+        "meaning": "khuyến khích, cổ vũ",
+        "ex": "I would urge everyone to just pick up a pencil and draw; it's very relaxing.",
+        "ipaExTrans": "aɪ wʊd ɜːʤ ˈɛvrɪwʌn tuː ʤʌst pɪk ʌp ə ˈpɛnsl ænd drɔː; ɪts ˈvɛri rɪˈlæksɪŋ.",
+        "exMeaning": "Tôi khuyến khích mọi người cầm bút chì lên vẽ; nó rất thư giãn."
+    },
+    {
+        "word": "assignment",
+        "type": "n",
+        "ipa": "əˈsaɪnmənt",
+        "meaning": "nhiệm vụ, bổn phận",
+        "ex": "For my art assignment, I have chosen photography as my medium.",
+        "ipaExTrans": "fɔː maɪ ɑːt əˈsaɪnmənt, aɪ hæv ˈʧəʊzn fəˈtɒgrəfi æz maɪ ˈmiːdiəm.",
+        "exMeaning": "Vì công việc hội họa của tôi, tôi chọn nhiếp ảnh như là một bước trung gian."
+    },
+    {
+        "word": "choose",
+        "type": "v",
+        "ipa": "ʧuːz",
+        "meaning": "chọn lựa",
+        "ex": "The painter chose to move to Paris.",
+        "ipaExTrans": "ðə ˈpeɪntə ʧəʊz tuː muːv tuː ˈpærɪs.",
+        "exMeaning": "Người họa sĩ này chọn chuyển đến Paris."
+    },
+    {
+        "word": "decision",
+        "type": "n",
+        "ipa": "dɪˈsɪʒən",
+        "meaning": "sự quyết định",
+        "ex": "What influenced your decision to paint using ink?",
+        "ipaExTrans": "wɒt ˈɪnflʊənst jɔː dɪˈsɪʒən tuː peɪnt ˈjuːzɪŋ ɪŋk?",
+        "exMeaning": "Điều gì làm bạn quyết định vẽ bằng mực?"
+    },
+    {
+        "word": "disseminate",
+        "type": "v",
+        "ipa": "dɪˈsɛmɪneɪt",
+        "meaning": "phổ biến, giao rắc",
+        "ex": "She helped disseminate information about the new artist.",
+        "ipaExTrans": "ʃiː hɛlpt dɪˈsɛmɪneɪt ˌɪnfəˈmeɪʃən əˈbaʊt ðə njuː ˈɑːtɪst.",
+        "exMeaning": "Cô ấy giúp phổ biến thông tin về người nghệ sĩ mới."
+    },
+    {
+        "word": "express",
+        "type": "v",
+        "ipa": "ɪksˈprɛs",
+        "meaning": "biểu lộ, diễn đạt",
+        "ex": "She used black paint to express her sad feelings.",
+        "ipaExTrans": "ʃiː juːzd blæk peɪnt tuː ɪksˈprɛs hɜː sæd ˈfiːlɪŋz.",
+        "exMeaning": "Cô ấy dùng nước sơn đen để biểu đạt cảm xúc buồn đau."
+    },
+    {
+        "word": "favor",
+        "type": "v",
+        "ipa": "ˈfeɪvə",
+        "meaning": "thích hơn",
+        "ex": "This artist favors pencils over paint.",
+        "ipaExTrans": "ðɪs ˈɑːtɪst ˈfeɪvəz ˈpɛnslz ˈəʊvə peɪnt.",
+        "exMeaning": "Họa sĩ này thích vẽ chì hơn vẽ sơn."
+    },
+    {
+        "word": "specialize",
+        "type": "v",
+        "ipa": "ˈspɛʃəlaɪz",
+        "meaning": "làm thành đặc trưng, chuyên môn hóa",
+        "ex": "He specializes in sculpture, but he also likes painting.",
+        "ipaExTrans": "hiː ˈspɛʃəlaɪzɪz ɪn ˈskʌlpʧə, bʌt hiː ˈɔːlsəʊ laɪks ˈpeɪntɪŋ.",
+        "exMeaning": "Anh ấy chuyên về điêu khắc nhưng anh ấy cũng thích hội họa."
+    }
+]

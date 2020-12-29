@@ -7,5 +7,6 @@
     {"id": 104, "position": 104, "name": "[750 words] 5. Finance and Budgeting (Tài chính và Ngân sách)", "date": "02/12/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-5-finance-and-budgeting.json", "wShow": true, "eShow": true},
     {"id": 105, "position": 105, "name": "[750 words] 6. Management Issues (Vấn đề quản lý)", "date": "10/12/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-6-management-issues.json", "wShow": true, "eShow": true},
     {"id": 106, "position": 106, "name": "[750 words] 7. Restaurants and Events (Nhà hàng và Sự kiện)", "date": "14/12/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-7-restaurants-and-events.json", "wShow": true, "eShow": true},
-    {"id": 107, "position": 107, "name": "[750 words] 8. Travel (Du lịch)", "date": "23/12/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-8-travel.json", "wShow": true, "eShow": true}
+    {"id": 107, "position": 107, "name": "[750 words] 8. Travel (Du lịch)", "date": "23/12/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-8-travel.json", "wShow": true, "eShow": true},
+    {"id": 108, "position": 108, "name": "[750 words] 9. Entertainment (Giải trí)", "date": "30/12/2020", "by": "DongHo", "url": "/assets/data-eng-word/750-9-entertainment.json", "wShow": true, "eShow": true}
 ]

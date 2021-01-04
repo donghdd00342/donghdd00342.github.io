@@ -1,0 +1,407 @@
+[
+    {
+        "word": "aware ",
+        "type": "adj",
+        "ipa": "əˈweə ",
+        "meaning": " nhận thức",
+        "ex": "I wasn't aware that my medical insurance didn't cover dental work.",
+        "ipaExTrans": "aɪ wɒznt əˈweə ðæt maɪ ˈmɛdɪkəl ɪnˈʃʊərəns dɪdnt ˈkʌvə ˈdɛntl wɜːk.",
+        "exMeaning": "Tôi không nhận thức được rằng bảo hiểm y tế của tôi không bao gồm dịch vụ về răng."
+    },
+    {
+        "word": "convenient ",
+        "type": "adj",
+        "ipa": "kənˈviːniənt ",
+        "meaning": " thuận lợi, thuận tiện",
+        "ex": "The clinic on Maple Drive is more convenient for me.",
+        "ipaExTrans": "ðə ˈklɪnɪk ɒn ˈmeɪpl draɪv ɪz mɔː kənˈviːniənt fɔː miː.",
+        "exMeaning": "Phòng mạch ở Maple Drive thì thuận tiện hơn cho tôi."
+    },
+    {
+        "word": "limit ",
+        "type": "n",
+        "ipa": "ˈlɪmɪt ",
+        "meaning": " giới hạn, hạn định",
+        "ex": "Is there a limit to how much my insurance will pay out?",
+        "ipaExTrans": "ɪz ðeər ə ˈlɪmɪt tuː haʊ mʌʧ maɪ ɪnˈʃʊərəns wɪl peɪ aʊt?",
+        "exMeaning": "Có một hạn định bảo hiểm của tôi sẽ trả bao nhiêu không?"
+    },
+    {
+        "word": "manage ",
+        "type": "v",
+        "ipa": "ˈmænɪʤ ",
+        "meaning": " quản lý, điều khiển, xoay sở",
+        "ex": "Did you manage to get the money back from the insurance company?",
+        "ipaExTrans": "dɪd juː ˈmænɪʤ tuː gɛt ðə ˈmʌni bæk frɒm ði ɪnˈʃʊərəns ˈkʌmpəni?",
+        "exMeaning": "Bạn có xoay sở để lấy lại tiền từ công ty bảo hiểm không?"
+    },
+    {
+        "word": "personnel ",
+        "type": "n",
+        "ipa": "ˌpɜːsəˈnɛl ",
+        "meaning": " nhân sự, nhân công",
+        "ex": "Many of the factory personnel will lose their jobs.",
+        "ipaExTrans": "ˈmɛni ɒv ðə ˈfæktəri ˌpɜːsəˈnɛl wɪl luːz ðeə ʤɒbz.",
+        "exMeaning": "Nhiều nhân công nhà máy sẽ mất việc."
+    },
+    {
+        "word": "pertinent ",
+        "type": "adj",
+        "ipa": "ˈpɜːtɪnənt ",
+        "meaning": " thích đáng, thích hợp",
+        "ex": "This medication is not pertinent to your health problem.",
+        "ipaExTrans": "ðɪs ˌmɛdɪˈkeɪʃən ɪz nɒt ˈpɜːtɪnənt tuː jɔː hɛlθ ˈprɒbləm.",
+        "exMeaning": "Dược phẩm này không thích hợp cho bệnh trạng của bạn."
+    },
+    {
+        "word": "policy ",
+        "type": "n",
+        "ipa": "ˈpɒlɪsi ",
+        "meaning": " chính sách, chủ trương",
+        "ex": "Your insurance policy states that you must get an official letter from your doctor.",
+        "ipaExTrans": "jɔːr ɪnˈʃʊərəns ˈpɒlɪsi steɪts ðæt juː mʌst gɛt ən əˈfɪʃəl ˈlɛtə frɒm jɔː ˈdɒktə.",
+        "exMeaning": "Chính sách bảo hiểm của bạn yêu cầu bạn phải có thư chính thức từ bác sĩ của bạn."
+    },
+    {
+        "word": "salary ",
+        "type": "n",
+        "ipa": "ˈsæləri ",
+        "meaning": " lương, tiền lương",
+        "ex": "Your health insurance payment comes straight out of your salary every month.",
+        "ipaExTrans": "jɔː hɛlθ ɪnˈʃʊərəns ˈpeɪmənt kʌmz streɪt aʊt ɒv jɔː ˈsæləri ˈɛvri mʌnθ.",
+        "exMeaning": "Bảo hiểm y tế sẽ thanh toán trực tiếp qua lương hàng tháng của bạn."
+    },
+    {
+        "word": "statement ",
+        "type": "n",
+        "ipa": "ˈsteɪtmənt ",
+        "meaning": " lời phát biểu, bản tuyên bố",
+        "ex": "I had to sign a statement saying that my insurance claim is correct.",
+        "ipaExTrans": "aɪ hæd tuː saɪn ə ˈsteɪtmənt ˈseɪɪŋ ðæt maɪ ɪnˈʃʊərəns kleɪm ɪz kəˈrɛkt.",
+        "exMeaning": "Tôi phải ký một bản tuyên bố nói rằng lời khai bảo hiểm của tôi là chính xác."
+    },
+    {
+        "word": "appointment ",
+        "type": "n",
+        "ipa": "əˈpɔɪntmənt ",
+        "meaning": " cuộc hẹn gặp, sự hứa hẹn",
+        "ex": "I have an appointment to see Dr.Jones at three o'clock.",
+        "ipaExTrans": "aɪ hæv ən əˈpɔɪntmənt tuː siː Dr.ʤəʊnz æt θriː əˈklɒk.",
+        "exMeaning": "Tôi có một cuộc hẹn gặp ngài Jone lúc 3 giờ."
+    },
+    {
+        "word": "aspect ",
+        "type": "n",
+        "ipa": "ˈæspɛkt ",
+        "meaning": " khía cạnh, mặt",
+        "ex": "Seeing a doctor when you are sick is just one aspect of staying healthy.",
+        "ipaExTrans": "ˈsiːɪŋ ə ˈdɒktə wɛn juː ɑː sɪk ɪz ʤʌst wʌn ˈæspɛkt ɒv ˈsteɪɪŋ ˈhɛlθi.",
+        "exMeaning": "Đi khám bác sĩ khi bạn bệnh chỉ là một việc làm để khỏe mạnh."
+    },
+    {
+        "word": "assess ",
+        "type": "v",
+        "ipa": "əˈsɛs ",
+        "meaning": " đánh giá",
+        "ex": "The doctor can assess your problem and tell you how best to cure it.",
+        "ipaExTrans": "ðə ˈdɒktə kæn əˈsɛs jɔː ˈprɒbləm ænd tɛl juː haʊ bɛst tuː kjʊər ɪt.",
+        "exMeaning": "Bác sĩ có thể đánh giá bệnh trạng của bạn và nói cho bạn cách chữa trị tốt nhất."
+    },
+    {
+        "word": "authorize ",
+        "type": "v",
+        "ipa": "ˈɔːθəraɪz ",
+        "meaning": " cho quyền, ủy quyền, cho phép",
+        "ex": "I have authorized the doctor to perform all the tests he needs.",
+        "ipaExTrans": "aɪ hæv ˈɔːθəˌraɪzd ðə ˈdɒktə tuː pəˈfɔːm ɔːl ðə tɛsts hiː niːdz.",
+        "exMeaning": "Tôi cho phép bác sĩ thực hiện tất cả xét nghiệm ông ấy cần."
+    },
+    {
+        "word": "consult ",
+        "type": "v",
+        "ipa": "kənˈsʌlt ",
+        "meaning": " hỏi ý kiến, tham khảo",
+        "ex": "She consulted her doctor about her skin problem.",
+        "ipaExTrans": "ʃiː kənˈsʌltɪd hɜː ˈdɒktər əˈbaʊt hɜː skɪn ˈprɒbləm.",
+        "exMeaning": "Cô ấy hỏi ý kiến bác sĩ vấn đề về da của cô ấy."
+    },
+    {
+        "word": "effective ",
+        "type": "adj",
+        "ipa": "ɪˈfɛktɪv ",
+        "meaning": " có hiệu quả, hiệu nghiệm",
+        "ex": "The medicine wasn't effective, so the doctor tried a different kind.",
+        "ipaExTrans": "ðə ˈmɛdsɪn wɒznt ɪˈfɛktɪv, səʊ ðə ˈdɒktə traɪd ə ˈdɪfrənt kaɪnd.",
+        "exMeaning": "Dược phẩm này không có hiệu nghiệm do đó bác sĩ thử một loại khác."
+    },
+    {
+        "word": "factor ",
+        "type": "n",
+        "ipa": "ˈfæktə ",
+        "meaning": " yếu tố",
+        "ex": "Smoking is a major factor of many serious illnesses.",
+        "ipaExTrans": "ˈsməʊkɪŋ ɪz ə ˈmeɪʤə ˈfæktər ɒv ˈmɛni ˈsɪərɪəs ˈɪlnɪsɪz.",
+        "exMeaning": "Hút thuốc là một yếu tố chính yếu của nhiều căn bệnh nghiêm trọng."
+    },
+    {
+        "word": "incur ",
+        "type": "v",
+        "ipa": "ɪnˈkɜː ",
+        "meaning": " phải gánh chịu, mắc",
+        "ex": "Smokers incur many health problems.",
+        "ipaExTrans": "ˈsməʊkəz ɪnˈkɜː ˈmɛni hɛlθ ˈprɒbləmz.",
+        "exMeaning": "Người hút thuốc phải gánh chịu nhiều vấn đề về sức khỏe."
+    },
+    {
+        "word": "potential ",
+        "type": "n",
+        "ipa": "pəʊˈtɛnʃəl ",
+        "meaning": " khả năng, tiềm lực",
+        "ex": "Adam is so healthy that he has the potential to live to a hundred!",
+        "ipaExTrans": "ˈædəm ɪz səʊ ˈhɛlθi ðæt hiː hæz ðə pəʊˈtɛnʃəl tuː lɪv tuː ə ˈhʌndrəd!",
+        "exMeaning": "Adam rất khỏe đến nỗi ông ấy có thể sống đến trăm tuổi!"
+    },
+    {
+        "word": "restore ",
+        "type": "v",
+        "ipa": "rɪsˈtɔː ",
+        "meaning": " khôi phục lại, hồi phục",
+        "ex": "The medicine soon restored my health.",
+        "ipaExTrans": "ðə ˈmɛdsɪn suːn rɪsˈtɔːd maɪ hɛlθ.",
+        "exMeaning": "Dược phẩm này nhanh chóng làm sức khỏe tôi hồi phục."
+    },
+    {
+        "word": "serious ",
+        "type": "adj",
+        "ipa": "ˈsɪərɪəs ",
+        "meaning": " nghiêm trọng, nguy hiểm",
+        "ex": "The doctor said that it's nothing serious, just a cold.",
+        "ipaExTrans": "ðə ˈdɒktə sɛd ðæt ɪts ˈnʌθɪŋ ˈsɪərɪəs, ʤʌst ə kəʊld.",
+        "exMeaning": "Bác sĩ nói không có gì nghiêm trọng, chỉ cảm lạnh thôi."
+    },
+    {
+        "word": "distraction ",
+        "type": "n",
+        "ipa": "dɪsˈtrækʃən ",
+        "meaning": " sự xao lãng, sự giải trí, sự làm đứt quãng",
+        "ex": "I study in the library because there are no distractions.",
+        "ipaExTrans": "aɪ ˈstʌdi ɪn ðə ˈlaɪbrəri bɪˈkɒz ðeər ɑː nəʊ dɪsˈtrækʃənz.",
+        "exMeaning": "Tôi học trong thư viện bởi vì không có bất kỳ sự xao lãng nào."
+    },
+    {
+        "word": "emphasize ",
+        "type": "v",
+        "ipa": "ˈɛmfəsaɪz ",
+        "meaning": " nhấn mạnh",
+        "ex": "The dentist emphasized the need to brush my teeth after every meal.",
+        "ipaExTrans": "ðə ˈdɛntɪst ˈɛmfəsaɪzd ðə niːd tuː brʌʃ maɪ tiːθ ˈɑːftər ˈɛvri miːl.",
+        "exMeaning": "Nha sĩ nhấn mạnh rằng tôi cần đánh răng sau mỗi bữa ăn."
+    },
+    {
+        "word": "habit ",
+        "type": "n",
+        "ipa": "ˈhæbɪt ",
+        "meaning": " thói quen",
+        "ex": "Regularly watching hours of TV is a bad habit.",
+        "ipaExTrans": "ˈrɛgjʊləli ˈwɒʧɪŋ ˈaʊəz ɒv ˌtiːˈviː ɪz ə bæd ˈhæbɪt.",
+        "exMeaning": "Thường xuyên xem ti vi hàng giờ là một thói quen xấu."
+    },
+    {
+        "word": "instrument ",
+        "type": "n",
+        "ipa": "ˈɪnstrʊmənt ",
+        "meaning": " dụng cụ, công cụ, nhạc cụ",
+        "ex": "The dentist uses many instruments to fix teeth.",
+        "ipaExTrans": "ðə ˈdɛntɪst ˈjuːzɪz ˈmɛni ˈɪnstrʊmənts tuː fɪks tiːθ.",
+        "exMeaning": "Nha sĩ sử dụng nhiều dụng cụ để chữa răng."
+    },
+    {
+        "word": "prevent ",
+        "type": "v",
+        "ipa": "prɪˈvɛnt ",
+        "meaning": " ngăn chặn",
+        "ex": "Brushing your teeth every day helps prevent problems later.",
+        "ipaExTrans": "ˈbrʌʃɪŋ jɔː tiːθ ˈɛvri deɪ hɛlps prɪˈvɛnt ˈprɒbləmz ˈleɪtə.",
+        "exMeaning": "Đánh răng mỗi ngày giúp ngăn chặn những vấn đề sau này."
+    },
+    {
+        "word": "procedure ",
+        "type": "n",
+        "ipa": "prəˈsiːʤə ",
+        "meaning": " thủ tục, quy trình, ca phẫu thuật",
+        "ex": "The procedure lasted only a few minutes.",
+        "ipaExTrans": "ðə prəˈsiːʤə ˈlɑːstɪd ˈəʊnli ə fjuː ˈmɪnɪts.",
+        "exMeaning": "Ca phẫu thuật kéo dài chỉ vài phút."
+    },
+    {
+        "word": "regularly ",
+        "type": "adv",
+        "ipa": "ˈrɛgjʊləli ",
+        "meaning": " định kỳ, đều đặn",
+        "ex": "You must visit your dentist regularly, at least every six months.",
+        "ipaExTrans": "juː mʌst ˈvɪzɪt jɔː ˈdɛntɪst ˈrɛgjʊləli, æt liːst ˈɛvri sɪks mʌnθs.",
+        "exMeaning": "Bạn phải đi khám nha sĩ đều đặn, ít nhất 6 tháng một lần."
+    },
+    {
+        "word": "annually ",
+        "type": "adv",
+        "ipa": "ˈænjʊəli ",
+        "meaning": " hàng năm",
+        "ex": "I annually go for checkups at my clinic.",
+        "ipaExTrans": "aɪ ˈænjʊəli gəʊ fɔː ˈʧɛkˈʌps æt maɪ ˈklɪnɪk.",
+        "exMeaning": "Tôi đi kiểm tra sức khỏe tổng quát hằng năm."
+    },
+    {
+        "word": "concern ",
+        "type": "v",
+        "ipa": "kənˈsɜːn ",
+        "meaning": " lo lắng, quan tâm",
+        "ex": "I was a little concerned about the pain in my arm.",
+        "ipaExTrans": "aɪ wɒz ə ˈlɪtl kənˈsɜːnd əˈbaʊt ðə peɪn ɪn maɪ ɑːm.",
+        "exMeaning": "Tôi hơi lo lắng cho cái đau trên cánh tay."
+    },
+    {
+        "word": "evident ",
+        "type": "adj",
+        "ipa": "ˈɛvɪdənt ",
+        "meaning": " hiển nhiên, rành rành",
+        "ex": "It was evident that she had not been taking good care of herself.",
+        "ipaExTrans": "ɪt wɒz ˈɛvɪdənt ðæt ʃiː hæd nɒt biːn ˈteɪkɪŋ gʊd keər ɒv hɜːˈsɛlf.",
+        "exMeaning": "Rõ ràng cô ấy không tự chăm sóc mình tốt."
+    },
+    {
+        "word": "identify ",
+        "type": "v",
+        "ipa": "aɪˈdɛntɪfaɪ ",
+        "meaning": " nhận ra, nhận diện",
+        "ex": "I hope the clinic can identify the problem.",
+        "ipaExTrans": "aɪ həʊp ðə ˈklɪnɪk kæn aɪˈdɛntɪfaɪ ðə ˈprɒbləm.",
+        "exMeaning": "Tôi hy vọng dưỡng đường này có thể nhận ra vấn đề."
+    },
+    {
+        "word": "usually ",
+        "type": "adv",
+        "ipa": "ˈjuːʒʊəli ",
+        "meaning": " thường thường, thông thường",
+        "ex": "It usually takes a few days to get the results of the test.",
+        "ipaExTrans": "ɪt ˈjuːʒʊəli teɪks ə fjuː deɪz tuː gɛt ðə rɪˈzʌlts ɒv ðə tɛst.",
+        "exMeaning": "Thường mất vài ngày mới có kết quả xét nghiệm."
+    },
+    {
+        "word": "admit ",
+        "type": "v",
+        "ipa": "ədˈmɪt ",
+        "meaning": " nhận vào, cho vào",
+        "ex": "He's been admitted to the hospital for a few days.",
+        "ipaExTrans": "hiːz biːn ədˈmɪtɪd tuː ðə ˈhɒspɪtl fɔːr ə fjuː deɪz.",
+        "exMeaning": "Anh ấy được cho nhập viện vài ngày."
+    },
+    {
+        "word": "allow ",
+        "type": "v",
+        "ipa": "əˈlaʊ ",
+        "meaning": " cho phép",
+        "ex": "They don't allow you to smoke in the hospital.",
+        "ipaExTrans": "ðeɪ dəʊnt əˈlaʊ juː tuː sməʊk ɪn ðə ˈhɒspɪtl.",
+        "exMeaning": "Họ không cho phép bạn hút thuốc trong bệnh viện."
+    },
+    {
+        "word": "alternative ",
+        "type": "n",
+        "ipa": "ɔːlˈtɜːnətɪv ",
+        "meaning": " sự thay thế, sự chọn lựa khác",
+        "ex": "I don't want to go to the hospital. Are there any alternatives?",
+        "ipaExTrans": "aɪ dəʊnt wɒnt tuː gəʊ tuː ðə ˈhɒspɪtl. ɑː ðeər ˈɛni ɔːlˈtɜːnətɪvz?",
+        "exMeaning": "Tôi không muốn đến bệnh viện. Có cách nào khác không?"
+    },
+    {
+        "word": "control ",
+        "type": "n",
+        "ipa": "kənˈtrəʊl ",
+        "meaning": " sự kiểm soát",
+        "ex": "The doctor has brought the boy's fever under control.",
+        "ipaExTrans": "ðə ˈdɒktə hæz brɔːt ðə bɔɪz ˈfiːvər ˈʌndə kənˈtrəʊl.",
+        "exMeaning": "Bác sĩ đã kiểm soát được bệnh sốt của cậu bé."
+    },
+    {
+        "word": "detect ",
+        "type": "v",
+        "ipa": "dɪˈtɛkt ",
+        "meaning": " phát hiện, khám phá ra",
+        "ex": "They have detected a problem with his blood.",
+        "ipaExTrans": "ðeɪ hæv dɪˈtɛktɪd ə ˈprɒbləm wɪð hɪz blʌd.",
+        "exMeaning": "Họ phát hiện ra máu của anh ấy có vấn đề."
+    },
+    {
+        "word": "diagnore ",
+        "type": "v",
+        "ipa": "diagnore ",
+        "meaning": " chuẩn đoán",
+        "ex": "The woman was diagnosed with cancer.",
+        "ipaExTrans": "ðə ˈwʊmən wɒz ˈdaɪəgnəʊzd wɪð ˈkænsə.",
+        "exMeaning": "Người phụ nữ được chuẩn đoán mắc bệnh ung thư."
+    },
+    {
+        "word": "monitor ",
+        "type": "v",
+        "ipa": "ˈmɒnɪtə ",
+        "meaning": " giám sát, trông coi",
+        "ex": "They are monitoring his condition.",
+        "ipaExTrans": "ðeɪ ɑː ˈmɒnɪtərɪŋ hɪz kənˈdɪʃən.",
+        "exMeaning": "Họ đang giám sát tình trạng của anh ấy."
+    },
+    {
+        "word": "recommendation ",
+        "type": "n",
+        "ipa": "ˌrɛkəmɛnˈdeɪʃən ",
+        "meaning": " sự đề nghị, sự gợi ý",
+        "ex": "I underwent the operation on my doctor's recommendation.",
+        "ipaExTrans": "aɪ ˌʌndəˈwɛnt ði ˌɒpəˈreɪʃən ɒn maɪ ˈdɒktəz ˌrɛkəmɛnˈdeɪʃən.",
+        "exMeaning": "Tôi phải trải qua ca phẫu thuật theo đề nghị của bác sĩ."
+    },
+    {
+        "word": "record ",
+        "type": "n",
+        "ipa": "ˈrɛkɔːd ",
+        "meaning": " sổ sách ghi chép, hồ sơ",
+        "ex": "Your hospital record shows your medical history.",
+        "ipaExTrans": "jɔː ˈhɒspɪtl ˈrɛkɔːd ʃəʊz jɔː ˈmɛdɪkəl ˈhɪstəri.",
+        "exMeaning": "Hồ sơ của bệnh viện cho biết quá trình điều trị của bạn."
+    },
+    {
+        "word": "refer ",
+        "type": "v",
+        "ipa": "rɪˈfɜː ",
+        "meaning": " đưa đến",
+        "ex": "My doctor referred me to an excellent surgeon.",
+        "ipaExTrans": "maɪ ˈdɒktə rɪˈfɜːd miː tuː ən ˈɛksələnt ˈsɜːʤən.",
+        "exMeaning": "Bác sĩ của tôi gửi cho tôi một bác sĩ phẫu thuật giỏi."
+    },
+    {
+        "word": "regardless ",
+        "type": "adv",
+        "ipa": "rɪˈgɑːdlɪs ",
+        "meaning": " bất chấp, không chú ý tới",
+        "ex": "Your insurance must cover you regardless of your medical history.",
+        "ipaExTrans": "jɔːr ɪnˈʃʊərəns mʌst ˈkʌvə juː rɪˈgɑːdlɪs ɒv jɔː ˈmɛdɪkəl ˈhɪstəri.",
+        "exMeaning": "Bảo hiểm của bạn phải chi trả cho bạn bất kể quá trình điều trị của bạn."
+    },
+    {
+        "word": "result ",
+        "type": "n",
+        "ipa": "rɪˈzʌlt ",
+        "meaning": " kết quả",
+        "ex": "The results show that everything is normal and you have nothing to worry about.",
+        "ipaExTrans": "ðə rɪˈzʌlts ʃəʊ ðæt ˈɛvrɪθɪŋ ɪz ˈnɔːməl ænd juː hæv ˈnʌθɪŋ tuː ˈwʌri əˈbaʊt.",
+        "exMeaning": "Kết quả cho thấy rằng mọi việc là bình thường và bạn không có gì phải lo lắng."
+    },
+    {
+        "word": "sample ",
+        "type": "n",
+        "ipa": "ˈsɑːmpl ",
+        "meaning": " vật mẫu, hàng mẫu",
+        "ex": "The nurse just needs to take a blood sample.",
+        "ipaExTrans": "ðə nɜːs ʤʌst niːdz tuː teɪk ə blʌd ˈsɑːmpl.",
+        "exMeaning": "Y tá chỉ cần lấy mẫu máu."
+    }
+]
